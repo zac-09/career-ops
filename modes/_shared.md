@@ -30,19 +30,14 @@ The skill applies with EQUAL rigor to ALL target roles. None is primary or secon
 
 | Archetype | Thematic axes | What they buy |
 |-----------|---------------|---------------|
-| **AI Platform / LLMOps Engineer** | Evaluation, observability, reliability, pipelines | Someone who puts AI in production with metrics |
-| **Agentic Workflows / Automation** | HITL, tooling, orchestration, multi-agent | Someone who builds reliable agent systems |
-| **Technical AI Product Manager** | GenAI/Agents, PRDs, discovery, delivery | Someone who translates business to AI product |
-| **AI Solutions Architect** | Hyperautomation, enterprise, integrations | Someone who designs end-to-end AI architectures |
-| **AI Forward Deployed Engineer** | Client-facing, fast delivery, prototyping | Someone who delivers AI solutions to clients fast |
-| **AI Transformation Lead** | Change management, adoption, org enablement | Someone who leads AI transformation in an org |
+| **Senior Backend Engineer** | APIs, microservices, databases, Node.js/TypeScript | Someone who builds scalable backend systems |
+| **Staff/Principal Engineer** | Architecture, tech leadership, cross-team influence | Someone who elevates entire engineering orgs |
+| **Platform/Infrastructure Engineer** | CI/CD, Kubernetes, observability, developer tooling | Someone who builds the platform others build on |
+| **Backend Tech Lead** | Team leadership, code review, architecture decisions | Someone who leads a backend team technically |
+| **Engineering Manager (Backend)** | People management, delivery, hiring, process | Someone who grows backend engineers and ships |
+| **Solutions/API Engineer** | Integrations, customer-facing, API design | Someone who connects systems and solves customer problems |
 
-<!-- [CUSTOMIZE] Edit the archetypes above to match YOUR target roles.
-     For example, if you're a backend engineer, replace with:
-     - Senior Backend Engineer
-     - Staff Platform Engineer
-     - Engineering Manager
-     etc. -->
+<!-- [CUSTOMIZE] Edit the archetypes above to match YOUR target roles. -->
 
 ### Adaptive Framing by Archetype
 
@@ -50,12 +45,12 @@ The skill applies with EQUAL rigor to ALL target roles. None is primary or secon
 
 | If the role is... | Emphasize about the candidate... | Proof point sources |
 |-------------------|----------------------------------|---------------------|
-| Platform / LLMOps | Production systems builder, observability, evals, closed-loop | article-digest.md + cv.md |
-| Agentic / Automation | Multi-agent orchestration, HITL, reliability, cost | article-digest.md + cv.md |
-| Technical AI PM | Product discovery, PRDs, metrics, stakeholder mgmt | cv.md + article-digest.md |
-| Solutions Architect | System design, integrations, enterprise-ready | article-digest.md + cv.md |
-| Forward Deployed Engineer | Fast delivery, client-facing, prototype to prod | cv.md + article-digest.md |
-| AI Transformation Lead | Change management, team enablement, adoption | cv.md + article-digest.md |
+| Senior Backend | API design, database optimization, scalability, Node.js/TypeScript expertise | cv.md + article-digest.md |
+| Staff/Principal | Architecture decisions, cross-team influence, mentoring, technical strategy | article-digest.md + cv.md |
+| Platform/Infra | CI/CD pipelines, Kubernetes, observability, developer experience | article-digest.md + cv.md |
+| Backend Tech Lead | Code review culture, architecture ownership, team coordination | cv.md + article-digest.md |
+| Engineering Manager | Hiring, team growth, delivery metrics, process improvement | cv.md + article-digest.md |
+| Solutions/API Engineer | Customer integration experience, API versioning, documentation | cv.md + article-digest.md |
 
 <!-- [CUSTOMIZE] Map YOUR specific projects/articles to each archetype above -->
 
@@ -76,10 +71,12 @@ Use the candidate's exit story from `config/profile.yml` to frame ALL content:
 ### Cross-cutting Advantage
 
 Frame profile as **"Technical builder with real-world proof"** that adapts framing to the role:
-- For PM: "builder who reduces uncertainty with prototypes then productionizes with discipline"
-- For FDE: "builder who delivers fast with observability and metrics from day 1"
-- For SA: "builder who designs end-to-end systems with real integration experience"
-- For LLMOps: "builder who puts AI in production with closed-loop quality systems"
+- For Senior Backend: "builder who ships production systems with observability and clean APIs"
+- For Staff/Principal: "builder who elevates teams through architecture and mentorship"
+- For Platform/Infra: "builder who creates leverage for other engineers through tooling"
+- For Tech Lead: "builder who combines hands-on coding with technical leadership"
+- For EM: "builder who transitioned to growing people while staying technical"
+- For Solutions: "builder who bridges engineering and customer needs"
 
 Convert "builder" into a professional signal, not a "hobby maker". Real proof points make this credible.
 
@@ -159,7 +156,7 @@ If the candidate has a live demo/dashboard (check profile.yml), offer access in 
 3. Cite exact lines from CV when matching
 4. Use WebSearch for comp and company data
 5. Register in tracker after evaluating
-6. Generate content in the language of the JD (EN default)
+6. Generate ALL content in English regardless of JD language
 7. Be direct and actionable -- no fluff
 8. When generating English text (PDF summaries, bullets, LinkedIn messages, STAR stories): native tech English, not translated. Short sentences, action verbs, no unnecessary passive voice.
 8b. **Case study URLs in PDF Professional Summary:** If the PDF mentions case studies or demos, URLs MUST appear in the first paragraph (Professional Summary). The recruiter may only read the summary. All URLs with `white-space: nowrap` in HTML.
