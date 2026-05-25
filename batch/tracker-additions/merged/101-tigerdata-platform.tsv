@@ -1,0 +1,1 @@
+101	2026-05-25	Tiger Data	Senior Platform Engineer	Evaluated	2.9/5	❌	[101](reports/101-tigerdata-platform-2026-05-25.md)	Weak match — skip unless specific reason. Requires authored K8s operators/CRDs + production Go; Isaac has used K8s but not authored controllers.
