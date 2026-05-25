@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node generate-pdf.mjs /tmp/cv-isaac-buffer.html output/cv-isaac-buffer-2026-05-25.pdf --format=letter)"
+    ]
+  }
+}
