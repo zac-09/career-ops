@@ -77,7 +77,7 @@ if (existsSync(digestPath)) {
   const stats = statSync(digestPath);
   const daysSinceModified = (Date.now() - stats.mtimeMs) / (1000 * 60 * 60 * 24);
   if (daysSinceModified > 30) {
-    warnings.push(`article-digest.md is ${Math.round(daysSinceModified)} days old. Consider updating if your projects have new metrics.`);
+    warnings.push(`article-digest.md is ${Math.round(daysSinceModified)} days old. Consider updating if your projects have new metrics. please`);
   }
 }
 
