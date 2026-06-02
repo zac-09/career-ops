@@ -1,0 +1,54 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Checkly" [ref=e6] [cursor=pointer]:
+        - /url: https://checklyhq.com
+        - img "Checkly" [ref=e7]
+    - listitem
+    - listitem
+  - generic [ref=e8]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - paragraph [ref=e11]: Do you want to empower developers to ship reliable apps and APIs delightfully?
+        - paragraph [ref=e12]: We're a remote-first startup on a mission to empower developers to own and ensure application performance and reliability - from pull request to post-mortem. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code (MaC) workflow and Playwright.
+        - paragraph [ref=e13]:
+          - text: Thousands of developers are using Checkly today to ensure their apps are working anytime, anywhere. We raised our
+          - link "$20M USD Series B" [ref=e14] [cursor=pointer]:
+            - /url: https://www.checklyhq.com/blog/announcing-20m-to-enable-engineers-to-detect-and-r/
+          - text: led by Balderton, alongside the participation of our existing investors CRV and Accel.
+        - paragraph [ref=e15]: We care about building a team where people of all backgrounds are encouraged to do their best work.
+        - paragraph [ref=e16]:
+          - strong [ref=e17]: "Our core values:"
+        - paragraph [ref=e18]: 🤴 We talk to customers
+        - paragraph [ref=e19]: 🎯 Focus
+        - paragraph [ref=e20]: 🤝 We are reliable and trustworthy
+        - paragraph [ref=e21]: 🛳 We ship results and follow up
+        - paragraph [ref=e22]: 👼 We assume good intentions
+        - paragraph [ref=e23]:
+          - text: Visit our
+          - link "hiring playbook" [ref=e24] [cursor=pointer]:
+            - /url: https://www.notion.so/checkly/Checkly-Hiring-Playbook-public-54bc05178d3b4118a15effe885f96d1a
+          - text: for a sneak peek of who we are and what you can expect in our hiring process.
+      - status [ref=e25]:
+        - text: Open Positions
+        - generic [ref=e26]: (1)
+    - generic [ref=e28]:
+      - heading "Talent Community" [level=2] [ref=e29]:
+        - generic [ref=e30]: Talent Community
+      - link "Don't see the role you're looking for? Join our Talent Community! Talent Community • Remote • Full time • Remote" [ref=e32] [cursor=pointer]:
+        - /url: /checkly/21acd589-f6eb-42cd-8c75-3eac4e3fb1e7
+        - generic [ref=e33]:
+          - heading "Don't see the role you're looking for? Join our Talent Community!" [level=3] [ref=e34]
+          - paragraph [ref=e36]: Talent Community • Remote • Full time • Remote
+  - contentinfo [ref=e37]:
+    - link "Learn more about Ashby" [ref=e38] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e39]: Powered by
+      - img "Ashby" [ref=e40]
+    - paragraph [ref=e46]:
+      - link "Privacy Policy" [ref=e47] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e48] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e49] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure
