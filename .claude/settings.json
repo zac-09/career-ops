@@ -6,7 +6,8 @@
       "Bash(printf '%s\\\\t2026-06-02\\\\t%s\\\\t%s\\\\t%s\\\\tadded\\\\n' https://www.myjobmag.co.ke/job/senior-software-engineer-backend-node-js-deimos-2 'WebSearch — Africa Remote' 'Senior Software Engineer \\(Backend Node.js\\)' Deimos)",
       "Bash(printf '%s\\\\t2026-06-02\\\\t%s\\\\t%s\\\\t%s\\\\tadded\\\\n' https://jobs.ashbyhq.com/checkly/bf265e14-fd7b-47a7-a964-f9ba151d7807 'Tracked — Checkly' 'Staff Software Engineer - Infrastructure' Checkly)",
       "Bash(printf '%s\\\\t2026-06-02\\\\t%s\\\\t%s\\\\t%s\\\\tskipped_title\\\\n' https://himalayas.app/companies/hostaway/jobs/senior-backend-engineer-booking-platform-100-remote-emea 'WebSearch — EMEA Remote' 'Senior Backend Engineer, Booking Platform \\(PHP/Go primary\\)' Hostaway)",
-      "WebFetch(domain:www.myjobmag.co.ke)"
+      "WebFetch(domain:www.myjobmag.co.ke)",
+      "WebFetch(domain:api.ashbyhq.com)"
     ]
   }
 }
