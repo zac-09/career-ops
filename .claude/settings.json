@@ -23,7 +23,9 @@
       "WebFetch(domain:formbricks.com)",
       "WebFetch(domain:www.redpanda.com)",
       "WebFetch(domain:www.dragonflydb.io)",
-      "WebFetch(domain:strapi.io)"
+      "WebFetch(domain:strapi.io)",
+      "Bash(node -e \"const fs=require\\('fs'\\);let y;try{y=require\\('js-yaml'\\)}catch\\(e\\){console.log\\('js-yaml not installed, skipping parse check'\\);process.exit\\(0\\)}const d=y.load\\(fs.readFileSync\\('portals.yml','utf8'\\)\\);console.log\\('OK — parsed.'\\);console.log\\('search_queries:',d.search_queries.length\\);console.log\\('tracked_companies:',d.tracked_companies.length\\);\")",
+      "Bash(python3 -c \"import yaml,sys; d=yaml.safe_load\\(open\\('portals.yml'\\)\\); print\\('OK — parsed.'\\); print\\('search_queries:',len\\(d['search_queries']\\)\\); print\\('tracked_companies:',len\\(d['tracked_companies']\\)\\)\")"
     ]
   }
 }
