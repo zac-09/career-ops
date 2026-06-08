@@ -12,7 +12,12 @@
       "WebFetch(domain:medusajs.com)",
       "WebFetch(domain:close.com)",
       "WebFetch(domain:www.appwrite.careers)",
-      "WebFetch(domain:careers.novu.co)"
+      "WebFetch(domain:careers.novu.co)",
+      "WebFetch(domain:railway.com)",
+      "WebFetch(domain:careers.ghost.org)",
+      "WebFetch(domain:hookdeck.com)",
+      "WebFetch(domain:doist.com)",
+      "WebFetch(domain:www.storyblok.com)"
     ]
   }
 }
