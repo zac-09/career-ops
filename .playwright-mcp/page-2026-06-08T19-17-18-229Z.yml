@@ -1,0 +1,460 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - link "Home Cal.com" [ref=e9] [cursor=pointer]:
+        - /url: ./
+      - generic [ref=e11]:
+        - paragraph [ref=e15] [cursor=pointer]: Solutions
+        - link "Enterprise" [ref=e18] [cursor=pointer]:
+          - /url: ./enterprise
+          - paragraph [ref=e20]: Enterprise
+        - link "Cal.ai" [ref=e21] [cursor=pointer]:
+          - /url: ./ai
+          - paragraph [ref=e23]: Cal.ai
+        - paragraph [ref=e27] [cursor=pointer]: Developer
+        - paragraph [ref=e33] [cursor=pointer]: Resources
+        - link "Pricing" [ref=e36] [cursor=pointer]:
+          - /url: ./pricing
+          - paragraph [ref=e38]: Pricing
+      - generic [ref=e44]:
+        - paragraph [ref=e46]:
+          - link "Sign in" [ref=e47] [cursor=pointer]:
+            - /url: https://app.cal.com/auth/login?_gl=1*1d3xgrt*_gcl_au*MTY1ODY5NjUwMS4xNzQxOTczMzA5*_ga*MTA0ODE0ODU4LjE3NDE5NzMzMTA.*_ga_RX4HHQ613S*MTc0MTk3MzMwOS4xLjEuMTc0MTk3MzY2NC42MC4wLjk4NDg1NDg4
+        - link "Get started" [ref=e49] [cursor=pointer]:
+          - /url: https://app.cal.com/signup
+          - paragraph [ref=e51]: Get started
+          - img [ref=e58]
+    - generic [ref=e70]:
+      - heading "Work with us and connect a billion people by 2031" [level=1] [ref=e74]:
+        - text: Work with us
+        - text: and connect a billion people by 2031
+      - generic [ref=e75]:
+        - link "Executive Assistant to the Head of GTM We’re hiring an Executive Assistant to the Head of GTM to act as a force multiplier across sales, marketing, hiring, operations, and strategic execution at Cal.com. This is not a traditional assistant role. This is a high agency operator role for someone who wants proximity to company building, GTM strategy, and fast execution inside a scaling startup. This role is remote and requires exceptional written communication, discretion, and self direction. GTM Remote Full-time $60k base salary + bonus + equity" [ref=e77] [cursor=pointer]:
+          - /url: ./jobs/executive-assistant-head-of-gtm
+          - generic [ref=e78]:
+            - paragraph [ref=e80]: Executive Assistant to the Head of GTM
+            - paragraph [ref=e82]: We’re hiring an Executive Assistant to the Head of GTM to act as a force multiplier across sales, marketing, hiring, operations, and strategic execution at Cal.com. This is not a traditional assistant role. This is a high agency operator role for someone who wants proximity to company building, GTM strategy, and fast execution inside a scaling startup. This role is remote and requires exceptional written communication, discretion, and self direction.
+          - generic [ref=e83]:
+            - generic [ref=e84]:
+              - img [ref=e87]
+              - paragraph [ref=e90]: GTM
+            - generic [ref=e91]:
+              - img [ref=e94]
+              - paragraph [ref=e97]: Remote
+            - generic [ref=e98]:
+              - img [ref=e101]
+              - paragraph [ref=e104]: Full-time
+            - generic [ref=e105]:
+              - img [ref=e108]
+              - paragraph [ref=e112]: $60k base salary + bonus + equity
+        - link "IC3/IC4 Senior Full-Stack Engineer · Remote · $100k-$120k + Equity Senior Full Stack Engineer (IC3/IC4) on our Enterprise team. Solve hard scheduling problems for our biggest customers, work directly with them over Slack, and ship fixes that matter. Remote, Americas. Engineering Remote Full-time $100k-$120k" [ref=e114] [cursor=pointer]:
+          - /url: ./jobs/ic3-ic4-senior-full-stack-engineer-enterprise
+          - generic [ref=e115]:
+            - paragraph [ref=e117]: IC3/IC4 Senior Full-Stack Engineer · Remote · $100k-$120k + Equity
+            - paragraph [ref=e119]: Senior Full Stack Engineer (IC3/IC4) on our Enterprise team. Solve hard scheduling problems for our biggest customers, work directly with them over Slack, and ship fixes that matter. Remote, Americas.
+          - generic [ref=e120]:
+            - generic [ref=e121]:
+              - img [ref=e124]
+              - paragraph [ref=e127]: Engineering
+            - generic [ref=e128]:
+              - img [ref=e131]
+              - paragraph [ref=e134]: Remote
+            - generic [ref=e135]:
+              - img [ref=e138]
+              - paragraph [ref=e141]: Full-time
+            - generic [ref=e142]:
+              - img [ref=e145]
+              - paragraph [ref=e149]: $100k-$120k
+        - link "IC3 Security Engineer · Remote · $110k + Equity This is a hands-on engineering role focused on cloud security, in-app cryptography, dependency hygiene, anti-abuse, observability, and AI-assisted detection. You will work closely with engineering, foundation, and trust & safety teams to proactively detect and reduce risk before users feel it. This role is globally remote, async by default, and built for engineers who take ownership of security and incident response. Foundation Remote Full-time $110k + equity" [ref=e151] [cursor=pointer]:
+          - /url: ./jobs/security-engineer
+          - generic [ref=e152]:
+            - paragraph [ref=e154]: IC3 Security Engineer · Remote · $110k + Equity
+            - paragraph [ref=e156]: This is a hands-on engineering role focused on cloud security, in-app cryptography, dependency hygiene, anti-abuse, observability, and AI-assisted detection. You will work closely with engineering, foundation, and trust & safety teams to proactively detect and reduce risk before users feel it. This role is globally remote, async by default, and built for engineers who take ownership of security and incident response.
+          - generic [ref=e157]:
+            - generic [ref=e158]:
+              - img [ref=e161]
+              - paragraph [ref=e164]: Foundation
+            - generic [ref=e165]:
+              - img [ref=e168]
+              - paragraph [ref=e171]: Remote
+            - generic [ref=e172]:
+              - img [ref=e175]
+              - paragraph [ref=e178]: Full-time
+            - generic [ref=e179]:
+              - img [ref=e182]
+              - paragraph [ref=e186]: $110k + equity
+        - link "IC4 Scale Engineer · Remote · $132k + Equity We are hiring a Scale Engineer to scale and optimize the performance of our core platform at very large data volumes. Our PostgreSQL datasets are already in the tens of millions of records and growing fast. Your mission is to ensure our queries, indexes, caching layers, and global infrastructure stay fast, efficient, and resilient under load. Foundation Remote - US Full-time $132k + equity" [ref=e188] [cursor=pointer]:
+          - /url: ./jobs/scale-engineer
+          - generic [ref=e189]:
+            - paragraph [ref=e191]: IC4 Scale Engineer · Remote · $132k + Equity
+            - paragraph [ref=e193]: We are hiring a Scale Engineer to scale and optimize the performance of our core platform at very large data volumes. Our PostgreSQL datasets are already in the tens of millions of records and growing fast. Your mission is to ensure our queries, indexes, caching layers, and global infrastructure stay fast, efficient, and resilient under load.
+          - generic [ref=e194]:
+            - generic [ref=e195]:
+              - img [ref=e198]
+              - paragraph [ref=e201]: Foundation
+            - generic [ref=e202]:
+              - img [ref=e205]
+              - paragraph [ref=e208]: Remote - US
+            - generic [ref=e209]:
+              - img [ref=e212]
+              - paragraph [ref=e215]: Full-time
+            - generic [ref=e216]:
+              - img [ref=e219]
+              - paragraph [ref=e223]: $132k + equity
+        - link "Social Growth Lead · NYC · $120k–$180k + equity Cal.com is looking for someone obsessed with content, distribution, and figuring out what actually spreads. If you spend your free time deep in TikTok, X, or YouTube, have strong instincts for what makes people stop scrolling, and naturally think in hooks and formats, this role is for you. You’ll own and scale our social presence end-to-end. That includes running our accounts, building a network of creators, and turning content into a repeatable growth engine. GTM Office - NYC Full-time $120k-$180k + equity" [ref=e225] [cursor=pointer]:
+          - /url: ./jobs/social-growth-lead
+          - generic [ref=e226]:
+            - paragraph [ref=e228]: Social Growth Lead · NYC · $120k–$180k + equity
+            - paragraph [ref=e230]: Cal.com is looking for someone obsessed with content, distribution, and figuring out what actually spreads. If you spend your free time deep in TikTok, X, or YouTube, have strong instincts for what makes people stop scrolling, and naturally think in hooks and formats, this role is for you. You’ll own and scale our social presence end-to-end. That includes running our accounts, building a network of creators, and turning content into a repeatable growth engine.
+          - generic [ref=e231]:
+            - generic [ref=e232]:
+              - img [ref=e235]
+              - paragraph [ref=e238]: GTM
+            - generic [ref=e239]:
+              - img [ref=e242]
+              - paragraph [ref=e245]: Office - NYC
+            - generic [ref=e246]:
+              - img [ref=e249]
+              - paragraph [ref=e252]: Full-time
+            - generic [ref=e253]:
+              - img [ref=e256]
+              - paragraph [ref=e260]: $120k-$180k + equity
+        - link "Brand Designer · NYC · $100k–$140k + equity Cal.com is looking for a Brand Designer to own how we show up visually across marketing, growth, and campaigns. This is a hands-on role. You won’t just design in Figma and pass things off. You’ll ship. That means building landing pages, creating ad creatives, and iterating quickly based on performance. You’ll work closely with founders and growth to turn rough ideas into live assets, often within the same week. This role is based in New York City, with an in-office preference and flexibility for hybrid work. GTM Office - NYC Full-time $100k-$140k + equity" [ref=e262] [cursor=pointer]:
+          - /url: ./jobs/brand-designer
+          - generic [ref=e263]:
+            - paragraph [ref=e265]: Brand Designer · NYC · $100k–$140k + equity
+            - paragraph [ref=e267]: Cal.com is looking for a Brand Designer to own how we show up visually across marketing, growth, and campaigns. This is a hands-on role. You won’t just design in Figma and pass things off. You’ll ship. That means building landing pages, creating ad creatives, and iterating quickly based on performance. You’ll work closely with founders and growth to turn rough ideas into live assets, often within the same week. This role is based in New York City, with an in-office preference and flexibility for hybrid work.
+          - generic [ref=e268]:
+            - generic [ref=e269]:
+              - img [ref=e272]
+              - paragraph [ref=e275]: GTM
+            - generic [ref=e276]:
+              - img [ref=e279]
+              - paragraph [ref=e282]: Office - NYC
+            - generic [ref=e283]:
+              - img [ref=e286]
+              - paragraph [ref=e289]: Full-time
+            - generic [ref=e290]:
+              - img [ref=e293]
+              - paragraph [ref=e297]: $100k-$140k + equity
+        - 'link "Midmarket Account Manager (Remote, NYC Time Zone Preferred) · $80k–$140k + equity We’re hiring an Account Manager to own the post-sale experience at Cal.com. This is not a passive CSM role. You are responsible for retention, expansion, and customer outcomes. You manage onboarding, adoption, renewal, and growth across your book. Your focuses: customers stay, customers grow, customers win. GTM Remote - NYC preferred Full-time $80k-$140k + equity" [ref=e299] [cursor=pointer]':
+          - /url: ./jobs/midmarket-account-manager
+          - generic [ref=e300]:
+            - paragraph [ref=e302]: Midmarket Account Manager (Remote, NYC Time Zone Preferred) · $80k–$140k + equity
+            - paragraph [ref=e304]: "We’re hiring an Account Manager to own the post-sale experience at Cal.com. This is not a passive CSM role. You are responsible for retention, expansion, and customer outcomes. You manage onboarding, adoption, renewal, and growth across your book. Your focuses: customers stay, customers grow, customers win."
+          - generic [ref=e305]:
+            - generic [ref=e306]:
+              - img [ref=e309]
+              - paragraph [ref=e312]: GTM
+            - generic [ref=e313]:
+              - img [ref=e316]
+              - paragraph [ref=e319]: Remote - NYC preferred
+            - generic [ref=e320]:
+              - img [ref=e323]
+              - paragraph [ref=e326]: Full-time
+            - generic [ref=e327]:
+              - img [ref=e330]
+              - paragraph [ref=e334]: $80k-$140k + equity
+        - link "Copywriter · Remote · $60k + equity This is a growth role with direct impact on revenue. You will own how users move from signup to activation, from activation to paid, and from paid to expansion. Email is your primary lever, but you will influence the full lifecycle across onboarding, engagement, upgrade, and retention. If users don’t activate, convert, or stay, you will understand why and fix it. Growth Remote Full-time $60k + equity" [ref=e336] [cursor=pointer]:
+          - /url: ./jobs/copywriter
+          - generic [ref=e337]:
+            - paragraph [ref=e339]: Copywriter · Remote · $60k + equity
+            - paragraph [ref=e341]: This is a growth role with direct impact on revenue. You will own how users move from signup to activation, from activation to paid, and from paid to expansion. Email is your primary lever, but you will influence the full lifecycle across onboarding, engagement, upgrade, and retention. If users don’t activate, convert, or stay, you will understand why and fix it.
+          - generic [ref=e342]:
+            - generic [ref=e343]:
+              - img [ref=e346]
+              - paragraph [ref=e349]: Growth
+            - generic [ref=e350]:
+              - img [ref=e353]
+              - paragraph [ref=e356]: Remote
+            - generic [ref=e357]:
+              - img [ref=e360]
+              - paragraph [ref=e363]: Full-time
+            - generic [ref=e364]:
+              - img [ref=e367]
+              - paragraph [ref=e371]: $60k + equity
+        - link "Founder Content Videographer (Contractor, NYC) We're hiring a Founder Content Creator based in NYC to shadow our CEO, shoot the real moments, and turn them into content that builds Cal.com's founder brand. Your mission is to be behind the camera for everything that matters and ship fast, scrappy, high-performing content across TikTok, Instagram, YouTube, and X. GTM NYC Contractor $1-2k/month" [ref=e373] [cursor=pointer]:
+          - /url: ./jobs/founder-content-videographer
+          - generic [ref=e374]:
+            - paragraph [ref=e376]: Founder Content Videographer (Contractor, NYC)
+            - paragraph [ref=e378]: We're hiring a Founder Content Creator based in NYC to shadow our CEO, shoot the real moments, and turn them into content that builds Cal.com's founder brand. Your mission is to be behind the camera for everything that matters and ship fast, scrappy, high-performing content across TikTok, Instagram, YouTube, and X.
+          - generic [ref=e379]:
+            - generic [ref=e380]:
+              - img [ref=e383]
+              - paragraph [ref=e386]: GTM
+            - generic [ref=e387]:
+              - img [ref=e390]
+              - paragraph [ref=e393]: NYC
+            - generic [ref=e394]:
+              - img [ref=e397]
+              - paragraph [ref=e400]: Contractor
+            - generic [ref=e401]:
+              - img [ref=e404]
+              - paragraph [ref=e408]: $1-2k/month
+        - link "IC4 Senior Full-Stack Engineer · Remote · $132k + Equity A senior engineer who carries Foundation's engineering vision into a product team and owns the technical bar from planning to deployment. Foundation Remote Full-time $132,000" [ref=e410] [cursor=pointer]:
+          - /url: ./jobs/ic4-senior-full-stack-engineer-foundation
+          - generic [ref=e411]:
+            - paragraph [ref=e413]: IC4 Senior Full-Stack Engineer · Remote · $132k + Equity
+            - paragraph [ref=e415]: A senior engineer who carries Foundation's engineering vision into a product team and owns the technical bar from planning to deployment.
+          - generic [ref=e416]:
+            - generic [ref=e417]:
+              - img [ref=e420]
+              - paragraph [ref=e423]: Foundation
+            - generic [ref=e424]:
+              - img [ref=e427]
+              - paragraph [ref=e430]: Remote
+            - generic [ref=e431]:
+              - img [ref=e434]
+              - paragraph [ref=e437]: Full-time
+            - generic [ref=e438]:
+              - img [ref=e441]
+              - paragraph [ref=e445]: $132,000
+    - generic [ref=e463]:
+      - generic [ref=e464]:
+        - link "Home Cal.com" [ref=e465] [cursor=pointer]:
+          - /url: ./
+        - paragraph [ref=e468]:
+          - text: Cal.com® and Cal® are a registered trademark
+          - text: by Cal.com, Inc. All rights reserved.
+        - generic [ref=e469]:
+          - link "Read more about Calcom ISO 27001" [ref=e470] [cursor=pointer]:
+            - /url: https://cal.com/security
+          - link "Read more about Calcom SOC 2" [ref=e472] [cursor=pointer]:
+            - /url: https://cal.com/security
+          - link "Read more about Calcom CCPA" [ref=e475] [cursor=pointer]:
+            - /url: https://cal.com/security
+          - link "Read more about Calcom GDPR" [ref=e477] [cursor=pointer]:
+            - /url: https://cal.com/security
+          - link "Read more about Calcom HIPAA" [ref=e479] [cursor=pointer]:
+            - /url: https://cal.com/security
+        - paragraph [ref=e482]:
+          - text: Our mission is to connect a billion people by 2031
+          - text: through calendar scheduling.
+        - generic [ref=e483]:
+          - generic [ref=e485]:
+            - generic [ref=e486]: Select Language
+            - combobox "Select Language" [ref=e487]:
+              - option "English" [selected]
+              - option "German (Germany)"
+              - option "French (France)"
+              - option "Dutch (Netherlands)"
+              - option "Portuguese (Portugal)"
+              - option "Spanish (Spain)"
+              - option "Italian (Italy)"
+            - generic:
+              - generic: English
+          - link "Logo" [ref=e488] [cursor=pointer]:
+            - /url: https://status.cal.com/
+            - img "Logo" [ref=e490]
+        - generic [ref=e491]:
+          - paragraph [ref=e493]: Downloads
+          - generic [ref=e494]:
+            - link "iPhone" [ref=e496] [cursor=pointer]:
+              - /url: https://go.cal.com/iOS
+              - paragraph [ref=e500]: iPhone
+            - link "Android" [ref=e502] [cursor=pointer]:
+              - /url: https://go.cal.com/android
+              - paragraph [ref=e506]: Android
+            - link "Chrome" [ref=e508] [cursor=pointer]:
+              - /url: https://go.cal.com/chrome
+              - paragraph [ref=e512]: Chrome
+            - link "Safari" [ref=e514] [cursor=pointer]:
+              - /url: https://go.cal.com/safari
+              - paragraph [ref=e518]: Safari
+            - link "Edge" [ref=e520] [cursor=pointer]:
+              - /url: https://go.cal.com/edge
+              - paragraph [ref=e524]: Edge
+            - link "Firefox" [ref=e526] [cursor=pointer]:
+              - /url: https://go.cal.com/firefox
+              - paragraph [ref=e530]: Firefox
+            - link "MacOS" [ref=e532] [cursor=pointer]:
+              - /url: https://cal.com/download
+              - paragraph [ref=e536]: MacOS
+            - link "Windows" [ref=e538] [cursor=pointer]:
+              - /url: https://cal.com/download
+              - paragraph [ref=e542]: Windows
+            - link "Linux" [ref=e544] [cursor=pointer]:
+              - /url: https://cal.com/download
+              - paragraph [ref=e548]: Linux
+        - generic [ref=e549]:
+          - link [ref=e550] [cursor=pointer]:
+            - /url: https://www.g2.com/products/cal-com/reviews
+          - link [ref=e552] [cursor=pointer]:
+            - /url: https://trustpilot.com/review/cal.com
+        - paragraph [ref=e555]:
+          - text: Need Help?
+          - link "support@cal.com" [ref=e556] [cursor=pointer]:
+            - /url: mailto:support@cal.com
+          - text: or visit
+          - link "cal.com/help" [ref=e557] [cursor=pointer]:
+            - /url: https://cal.com/help
+          - text: .
+      - generic [ref=e558]:
+        - generic [ref=e559]:
+          - paragraph [ref=e561]: Solutions
+          - paragraph [ref=e563]:
+            - link "iOS/Android App" [ref=e564] [cursor=pointer]:
+              - /url: ./app
+          - paragraph [ref=e566]:
+            - link "Self-hosted" [ref=e567] [cursor=pointer]:
+              - /url: https://github.com/calcom/cal.com
+          - paragraph [ref=e569]:
+            - link "Pricing" [ref=e570] [cursor=pointer]:
+              - /url: ./pricing
+          - paragraph [ref=e572]:
+            - link "Docs" [ref=e573] [cursor=pointer]:
+              - /url: https://cal.com/docs
+          - paragraph [ref=e575]:
+            - link "Cal.ai - AI Phone Agent" [ref=e576] [cursor=pointer]:
+              - /url: https://cal.com/ai
+          - paragraph [ref=e578]:
+            - link "Enterprise" [ref=e579] [cursor=pointer]:
+              - /url: ./enterprise
+          - paragraph [ref=e581]:
+            - link "Integrate Cal.com" [ref=e582] [cursor=pointer]:
+              - /url: ./integrate
+          - paragraph [ref=e584]:
+            - link "Routing" [ref=e585] [cursor=pointer]:
+              - /url: ./routing
+          - paragraph [ref=e587]:
+            - link "Cal.com Atoms" [ref=e588] [cursor=pointer]:
+              - /url: https://cal.com/atoms
+          - paragraph [ref=e590]:
+            - link "Desktop App" [ref=e591] [cursor=pointer]:
+              - /url: https://cal.com/download
+          - paragraph [ref=e593]:
+            - link "FAQ" [ref=e594] [cursor=pointer]:
+              - /url: ./faq
+          - paragraph [ref=e596]:
+            - link "Enterprise API" [ref=e597] [cursor=pointer]:
+              - /url: https://cal.com/docs/enterprise-features/api
+          - paragraph [ref=e599]:
+            - link "Github" [ref=e600] [cursor=pointer]:
+              - /url: https://github.com/calcom/cal.com
+          - paragraph [ref=e602]:
+            - link "Docker" [ref=e603] [cursor=pointer]:
+              - /url: https://cal.com/docs/introduction/quick-start/self-hosting/docker
+        - generic [ref=e604]:
+          - paragraph [ref=e606]: Use Cases
+          - paragraph [ref=e608]:
+            - link "Sales" [ref=e609] [cursor=pointer]:
+              - /url: ./scheduling/sales-teams
+          - paragraph [ref=e611]:
+            - link "Marketing" [ref=e612] [cursor=pointer]:
+              - /url: ./scheduling/marketing
+          - paragraph [ref=e614]:
+            - link "Talent Acquisition" [ref=e615] [cursor=pointer]:
+              - /url: ./scheduling/talent-acquisition-teams
+          - paragraph [ref=e617]:
+            - link "Customer Support" [ref=e618] [cursor=pointer]:
+              - /url: ./scheduling/customer-support
+          - paragraph [ref=e620]:
+            - link "Higher Education" [ref=e621] [cursor=pointer]:
+              - /url: ./scheduling/higher-education
+          - paragraph [ref=e623]:
+            - link "Telehealth" [ref=e624] [cursor=pointer]:
+              - /url: ./scheduling/telehealth
+          - paragraph [ref=e626]:
+            - link "Professional Services" [ref=e627] [cursor=pointer]:
+              - /url: ./scheduling/professional-services
+          - paragraph [ref=e629]:
+            - link "Hiring Marketplace" [ref=e630] [cursor=pointer]:
+              - /url: ./scheduling/hiring-marketplaces
+          - paragraph [ref=e632]:
+            - link "Human Resources" [ref=e633] [cursor=pointer]:
+              - /url: ./scheduling/people-operations
+          - paragraph [ref=e635]:
+            - link "Tutoring" [ref=e636] [cursor=pointer]:
+              - /url: ./scheduling/higher-education
+          - paragraph [ref=e638]:
+            - link "C-suite" [ref=e639] [cursor=pointer]:
+              - /url: ./scheduling/c-suite
+          - paragraph [ref=e641]:
+            - link "Law" [ref=e642] [cursor=pointer]:
+              - /url: ./scheduling/law
+        - generic [ref=e643]:
+          - paragraph [ref=e645]: Resources
+          - paragraph [ref=e647]:
+            - link "Affiliate Program" [ref=e648] [cursor=pointer]:
+              - /url: ./affiliate-program
+          - paragraph [ref=e650]:
+            - link "Help Docs" [ref=e651] [cursor=pointer]:
+              - /url: https://cal.com/help
+          - paragraph [ref=e653]:
+            - link "Blog" [ref=e654] [cursor=pointer]:
+              - /url: ./blog/category/all-categories
+          - paragraph [ref=e656]:
+            - link "Cal Fonts" [ref=e657] [cursor=pointer]:
+              - /url: ./font
+          - paragraph [ref=e659]:
+            - link "Teams" [ref=e660] [cursor=pointer]:
+              - /url: ./teams
+          - paragraph [ref=e662]:
+            - link "Embed" [ref=e663] [cursor=pointer]:
+              - /url: ./embed
+          - paragraph [ref=e665]:
+            - link "Recurring events" [ref=e666] [cursor=pointer]:
+              - /url: ./features/recurring-events
+          - paragraph [ref=e668]:
+            - link "Developers" [ref=e669] [cursor=pointer]:
+              - /url: https://cal.com/docs
+          - paragraph [ref=e671]:
+            - link "OOO" [ref=e672] [cursor=pointer]:
+              - /url: ./features/ooo
+          - paragraph [ref=e674]:
+            - link "Workflows" [ref=e675] [cursor=pointer]:
+              - /url: ./features/workflows
+          - paragraph [ref=e677]:
+            - link "Instant Meetings" [ref=e678] [cursor=pointer]:
+              - /url: ./features/instant-meetings
+          - paragraph [ref=e680]:
+            - link "App Store" [ref=e681] [cursor=pointer]:
+              - /url: ./features/app-store
+          - paragraph [ref=e683]:
+            - link "Requires confirmation" [ref=e684] [cursor=pointer]:
+              - /url: ./features/requires-confirmation
+          - paragraph [ref=e686]:
+            - link "Payments" [ref=e687] [cursor=pointer]:
+              - /url: ./features/payments
+          - paragraph [ref=e689]:
+            - link "Video Conferencing" [ref=e690] [cursor=pointer]:
+              - /url: ./features/cal-video
+          - paragraph [ref=e692]:
+            - link "Cal.com vs Calendly" [ref=e693] [cursor=pointer]:
+              - /url: ./calcom-vs-calendly
+        - generic [ref=e694]:
+          - paragraph [ref=e696]: Company
+          - paragraph [ref=e698]:
+            - link "Jobs" [ref=e699] [cursor=pointer]:
+              - /url: https://cal.com/jobs
+          - paragraph [ref=e701]:
+            - link "About" [ref=e702] [cursor=pointer]:
+              - /url: https://cal.com/about
+          - paragraph [ref=e704]:
+            - link "Open Startup" [ref=e705] [cursor=pointer]:
+              - /url: https://cal.com/open
+          - paragraph [ref=e707]:
+            - link "Support" [ref=e708] [cursor=pointer]:
+              - /url: https://app.cal.com/support?_gl=1*1tq2plh*_gcl_au*OTk1OTIzMTMyLjE3NDA3NDM3ODI.*_ga*MTU5NzExNTE5My4xNzQwNzQzNzgy*_ga_RX4HHQ613S*MTc0MTc5Mjk5MC40Ni4xLjE3NDE3OTUxNjAuNjAuMC4xNzAxNzQ1ODY0
+          - paragraph [ref=e710]:
+            - link "Privacy" [ref=e711] [cursor=pointer]:
+              - /url: ./privacy
+          - paragraph [ref=e713]:
+            - link "Terms" [ref=e714] [cursor=pointer]:
+              - /url: ./terms
+          - paragraph [ref=e716]:
+            - link "License" [ref=e717] [cursor=pointer]:
+              - /url: https://github.com/calcom/cal.com/blob/main/LICENSE
+          - paragraph [ref=e719]:
+            - link "Security" [ref=e720] [cursor=pointer]:
+              - /url: ./security
+          - paragraph [ref=e722]:
+            - link "Changelog" [ref=e723] [cursor=pointer]:
+              - /url: https://cal.com/subscribe
+          - paragraph [ref=e725]:
+            - link "Get a demo" [ref=e726] [cursor=pointer]:
+              - /url: ./talk-to-sales
+          - paragraph [ref=e728]:
+            - link "Talk to sales" [ref=e729] [cursor=pointer]:
+              - /url: ./talk-to-sales
+  - img [ref=e731]

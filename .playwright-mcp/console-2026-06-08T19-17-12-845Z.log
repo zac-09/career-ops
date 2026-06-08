@@ -1,0 +1,6 @@
+[    2937ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://api.jsonbin.io/v3/b/69739405ae596e708ff0394c?meta=false:0
+[    2937ms] [ERROR] Manifest fetch from https://api.jsonbin.io/v3/b/69739405ae596e708ff0394c?meta=false failed, code 403 @ https://cal.com/jobs:0
+[    3487ms] [ERROR] Fetch failed: Error: Key 'user.name' not found in response @ https://framerusercontent.com/sites/3nD48sbvLWIxKbF7A73bty/framer.CGxWykk-.mjs:1033
+[    5597ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://api.jsonbin.io/v3/b/69739405ae596e708ff0394c?meta=false:0
+[    5597ms] [ERROR] Manifest fetch from https://api.jsonbin.io/v3/b/69739405ae596e708ff0394c?meta=false failed, code 403 @ https://cal.com/jobs:0
+[    6612ms] [LOG] [Framer On-Page Editing] Unavailable because not on a `framer.app` subdomain and access status is no-auth @ https://app.framerstatic.com/editorbar.J3ELLPE6.mjs:0

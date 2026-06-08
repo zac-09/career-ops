@@ -1,0 +1,151 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Apify Technologies s.r.o.":
+        - /url: https://apify.com/
+        - img "Apify Technologies s.r.o."
+    - listitem
+    - listitem
+  - generic [ref=e6]:
+    - status [ref=e8]:
+      - text: Open Positions
+      - generic [ref=e9]: (16)
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - generic [ref=e13]: "Filters:"
+          - button "Reset filters" [disabled]:
+            - img
+            - text: Reset filters
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - combobox "Department" [ref=e16]:
+              - option "All Departments"
+              - option "Engineering (5)"
+              - option "GTM (8)"
+              - option "Product (3)"
+            - generic:
+              - img
+          - generic [ref=e17]:
+            - combobox "Employment" [ref=e18]:
+              - option "All Employment Types"
+              - option "Full time (16)"
+            - generic:
+              - img
+          - generic [ref=e19]:
+            - combobox "Location" [ref=e20]:
+              - option "All Locations"
+              - option "Brno (7)"
+              - option "Ostrava (6)"
+              - option "Prague (16)"
+            - generic:
+              - img
+          - generic [ref=e21]:
+            - combobox "Location Type" [ref=e22]:
+              - option "All Location Types"
+              - option "Hybrid (16)"
+            - generic:
+              - img
+        - status [ref=e23]: No filters applied
+      - generic [ref=e24]:
+        - heading "Engineering" [level=2] [ref=e25]:
+          - generic [ref=e26]: Engineering
+        - generic [ref=e27]:
+          - link "Engineering Manager for Web Automation team (Node.js/Typescript) Engineering • Prague • Full time • Hybrid" [ref=e28] [cursor=pointer]:
+            - /url: /apify/e126d51c-1148-4dff-8bd5-f3baa6a73a07
+            - generic [ref=e29]:
+              - heading "Engineering Manager for Web Automation team (Node.js/Typescript)" [level=3] [ref=e30]
+              - paragraph [ref=e32]: Engineering • Prague • Full time • Hybrid
+          - link "Fullstack Engineer (React/Node.js) Engineering • Prague; Brno; Ostrava • Full time • Hybrid" [ref=e33] [cursor=pointer]:
+            - /url: /apify/387a1040-b1e2-44fa-93f9-9bea18159ecb
+            - generic [ref=e34]:
+              - heading "Fullstack Engineer (React/Node.js)" [level=3] [ref=e35]
+              - paragraph [ref=e37]: Engineering • Prague; Brno; Ostrava • Full time • Hybrid
+          - link "Senior Backend Engineer for developer platform Engineering • Prague; Brno; Ostrava • Full time • Hybrid" [ref=e38] [cursor=pointer]:
+            - /url: /apify/d7bb9504-494f-4213-b387-6b85631a532d
+            - generic [ref=e39]:
+              - heading "Senior Backend Engineer for developer platform" [level=3] [ref=e40]
+              - paragraph [ref=e42]: Engineering • Prague; Brno; Ostrava • Full time • Hybrid
+          - link "Senior Backend Engineer for proxy and unblocking Engineering • Prague; Brno; Ostrava • Full time • Hybrid" [ref=e43] [cursor=pointer]:
+            - /url: /apify/4ce61bbd-6a56-49a6-9670-1333d1a624f5
+            - generic [ref=e44]:
+              - heading "Senior Backend Engineer for proxy and unblocking" [level=3] [ref=e45]
+              - paragraph [ref=e47]: Engineering • Prague; Brno; Ostrava • Full time • Hybrid
+          - link "Software Engineer for Fraud Prevention (TypeScript) Engineering • Prague; Brno; Ostrava • Full time • Hybrid" [ref=e48] [cursor=pointer]:
+            - /url: /apify/7c93886a-9f1d-4ed9-ba71-d753c8f34c82
+            - generic [ref=e49]:
+              - heading "Software Engineer for Fraud Prevention (TypeScript)" [level=3] [ref=e50]
+              - paragraph [ref=e52]: Engineering • Prague; Brno; Ostrava • Full time • Hybrid
+        - heading "GTM" [level=2] [ref=e53]:
+          - generic [ref=e54]: GTM
+        - generic [ref=e55]:
+          - link "Creator Growth Lead GTM • Prague • Full time • Hybrid" [ref=e56] [cursor=pointer]:
+            - /url: /apify/b426c827-4a95-4726-a77d-f25e633d679a
+            - generic [ref=e57]:
+              - heading "Creator Growth Lead" [level=3] [ref=e58]
+              - paragraph [ref=e60]: GTM • Prague • Full time • Hybrid
+          - link "Head of Brand GTM • Prague • Full time • Hybrid" [ref=e61] [cursor=pointer]:
+            - /url: /apify/64ac5d97-fd6d-45eb-8aa8-dec71542040f
+            - generic [ref=e62]:
+              - heading "Head of Brand" [level=3] [ref=e63]
+              - paragraph [ref=e65]: GTM • Prague • Full time • Hybrid
+          - link "Product Marketing Manager (Apify Platform) GTM • Prague • Full time • Hybrid" [ref=e66] [cursor=pointer]:
+            - /url: /apify/c96b991e-71dd-474d-a45f-4a50f74eac8d
+            - generic [ref=e67]:
+              - heading "Product Marketing Manager (Apify Platform)" [level=3] [ref=e68]
+              - paragraph [ref=e70]: GTM • Prague • Full time • Hybrid
+          - link "Senior Marketing Writer GTM • Prague • Full time • Hybrid" [ref=e71] [cursor=pointer]:
+            - /url: /apify/30a6e943-e62d-45ff-b38b-1bcab03a34ba
+            - generic [ref=e72]:
+              - heading "Senior Marketing Writer" [level=3] [ref=e73]
+              - paragraph [ref=e75]: GTM • Prague • Full time • Hybrid
+          - link "Senior Product Marketing Manager (for Apify Store) GTM • Prague • Full time • Hybrid" [ref=e76] [cursor=pointer]:
+            - /url: /apify/a0f2761a-8496-4412-a291-73d46d77366b
+            - generic [ref=e77]:
+              - heading "Senior Product Marketing Manager (for Apify Store)" [level=3] [ref=e78]
+              - paragraph [ref=e80]: GTM • Prague • Full time • Hybrid
+          - link "SEO specialist (Technical SEO focus) GTM • Prague • Full time • Hybrid" [ref=e81] [cursor=pointer]:
+            - /url: /apify/ba0f9612-d662-4321-a331-99390cda00ea
+            - generic [ref=e82]:
+              - heading "SEO specialist (Technical SEO focus)" [level=3] [ref=e83]
+              - paragraph [ref=e85]: GTM • Prague • Full time • Hybrid
+          - link "Support Engineer (afternoon/night shifts) GTM • Prague; Brno; Ostrava • Full time • Hybrid" [ref=e86] [cursor=pointer]:
+            - /url: /apify/08d05f4e-d727-485b-a1b7-1a6df00c225d
+            - generic [ref=e87]:
+              - heading "Support Engineer (afternoon/night shifts)" [level=3] [ref=e88]
+              - paragraph [ref=e90]: GTM • Prague; Brno; Ostrava • Full time • Hybrid
+          - link "Support Engineer (day shifts) GTM • Prague; Brno; Ostrava • Full time • Hybrid" [ref=e91] [cursor=pointer]:
+            - /url: /apify/c8d6c964-3ac5-4404-a342-29add2d56ac7
+            - generic [ref=e92]:
+              - heading "Support Engineer (day shifts)" [level=3] [ref=e93]
+              - paragraph [ref=e95]: GTM • Prague; Brno; Ostrava • Full time • Hybrid
+        - heading "Product" [level=2] [ref=e96]:
+          - generic [ref=e97]: Product
+        - generic [ref=e98]:
+          - link "Data Engineer Product • Prague • Full time • Hybrid" [ref=e99] [cursor=pointer]:
+            - /url: /apify/4ebcc9ec-89f0-493e-9030-4cd0e6de575d
+            - generic [ref=e100]:
+              - heading "Data Engineer" [level=3] [ref=e101]
+              - paragraph [ref=e103]: Product • Prague • Full time • Hybrid
+          - link "Product Manager for Apify Store Video team Product • Prague; Brno • Full time • Hybrid" [ref=e104] [cursor=pointer]:
+            - /url: /apify/d9f0a5d9-bf37-456c-b35b-21f4c566b0fe
+            - generic [ref=e105]:
+              - heading "Product Manager for Apify Store Video team" [level=3] [ref=e106]
+              - paragraph [ref=e108]: Product • Prague; Brno • Full time • Hybrid
+          - link "Senior Visual Designer Product • Prague • Full time • Hybrid" [ref=e109] [cursor=pointer]:
+            - /url: /apify/1114b674-76bf-45ec-982c-ad511b0ee90e
+            - generic [ref=e110]:
+              - heading "Senior Visual Designer" [level=3] [ref=e111]
+              - paragraph [ref=e113]: Product • Prague • Full time • Hybrid
+  - contentinfo [ref=e114]:
+    - link "Learn more about Ashby" [ref=e115] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e116]: Powered by
+      - img "Ashby" [ref=e117]
+    - paragraph [ref=e123]:
+      - link "Privacy Policy" [ref=e124] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e125] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e126] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

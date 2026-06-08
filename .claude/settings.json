@@ -21,7 +21,9 @@
       "WebFetch(domain:www.unkey.com)",
       "WebFetch(domain:documenso.com)",
       "WebFetch(domain:formbricks.com)",
-      "WebFetch(domain:www.redpanda.com)"
+      "WebFetch(domain:www.redpanda.com)",
+      "WebFetch(domain:www.dragonflydb.io)",
+      "WebFetch(domain:strapi.io)"
     ]
   }
 }
