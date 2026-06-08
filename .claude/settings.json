@@ -34,7 +34,8 @@
       "Bash(node generate-pdf.mjs /tmp/cv-candidate-automattic.html output/cv-candidate-automattic-2026-06-08.pdf --format=letter)",
       "Bash(node generate-pdf.mjs /tmp/cv-candidate-calcom.html output/cv-candidate-calcom-2026-06-08.pdf --format=letter)",
       "Bash(node generate-pdf.mjs /tmp/cv-candidate-hostaway.html output/cv-candidate-hostaway-2026-06-08.pdf --format=a4)",
-      "Bash(echo \"---EXIT:$?---\")"
+      "Bash(echo \"---EXIT:$?---\")",
+      "Bash(awk -F'\\\\t' '{print NF\" fields\"}' batch/tracker-additions/129-hostaway.tsv)"
     ]
   }
 }
