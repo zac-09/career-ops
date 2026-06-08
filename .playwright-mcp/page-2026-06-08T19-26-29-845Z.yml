@@ -1,0 +1,290 @@
+- generic [ref=e2]:
+  - link "Skip to content" [ref=e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e5]:
+    - generic [ref=e10]:
+      - link "Hostaway logo Homepage" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - img "Hostaway logo" [ref=e13]
+        - generic [ref=e14]: Homepage
+      - generic:
+        - navigation:
+          - list
+    - main [ref=e15]:
+      - generic [ref=e25]:
+        - heading "Senior Fullstack Engineer - Accounting - 100% Remote - EMEA" [level=1] [ref=e26]
+        - list [ref=e27]:
+          - listitem [ref=e28]:
+            - generic [ref=e29]:
+              - generic:
+                - img
+            - text: Remote
+          - listitem [ref=e30]:
+            - generic [ref=e31]:
+              - generic:
+                - img
+            - generic [ref=e32]:
+              - list [ref=e33]:
+                - listitem [ref=e34]:
+                  - text: Vienna
+                  - generic [ref=e35]: ","
+                  - text: Wien
+                  - generic [ref=e36]: ","
+                  - text: Austria
+              - generic [ref=e37]:
+                - generic [ref=e38]: •
+                - generic [ref=e40]: +20 more
+          - listitem [ref=e41]:
+            - generic [ref=e42]:
+              - generic:
+                - img
+            - text: Engineering
+      - generic [ref=e51]:
+        - tablist [ref=e54]:
+          - tab "Job details" [selected] [ref=e55] [cursor=pointer]
+          - tab "Apply" [ref=e56] [cursor=pointer]
+        - tabpanel "Job details" [ref=e58]:
+          - generic [ref=e60]:
+            - generic [ref=e61]:
+              - generic [ref=e63]:
+                - heading "Job description" [level=2] [ref=e64]
+                - generic [ref=e66]:
+                  - paragraph [ref=e67]:
+                    - strong [ref=e68]:
+                      - text: "NOTE: This is a FULLY remote role, but the candidate must be within EMEA to collaborate with their team, peers, and internal customers. You do not have to be in the specific country or city shown in this listing, but"
+                      - generic [ref=e69]: please only apply if you are physically based within EMEA.
+                  - paragraph [ref=e70]
+                  - paragraph [ref=e71]: Trusted by 20,000+ property managers worldwide, Hostaway is an industry leading, AI-powered vacation rental management platform designed for professional short-term rental operators. Hostaway brings everything together for greater efficiency and faster growth.
+                  - paragraph [ref=e72]
+                  - paragraph [ref=e73]:
+                    - text: Profitable, high-growth, and the first short-term rental PMS unicorn 🦄. Join us at our most exciting stage yet! Learn more about our recent valuation and story
+                    - link "here" [ref=e75] [cursor=pointer]:
+                      - /url: https://www.hostaway.com/blog/short-term-rental-software-unicorn/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+                    - text: .
+                  - paragraph [ref=e76]
+                  - heading "About the role" [level=3] [ref=e77]:
+                    - strong [ref=e78]:
+                      - generic [ref=e79]: About the role
+                  - paragraph [ref=e80]: We’re looking for a delivery-focused Senior Fullstack Engineer to build our Trust Accounting white label. This role will have an important impact on shaping the financial operations of Hostaway's customers, allowing them to keep compliant records and properly manage the funds of property owners.
+                  - paragraph [ref=e81]
+                  - paragraph [ref=e82]: This is a new team that will design and deliver a financial subsystem that property managers can trust - accurate, compliant, and reliable. You’ll be responsible not only for delivery but also will be an early member in establishing a culture where correctness and accountability are paramount. This is a greenfield opportunity where you’ll influence architecture, processes, and delivery from day one.
+                  - paragraph [ref=e83]
+                  - heading "What you’ll do:" [level=3] [ref=e84]
+                  - list [ref=e85]:
+                    - listitem [ref=e86]:
+                      - paragraph [ref=e87]: • Greenfield MVP development and architect the initial V1 product
+                    - listitem [ref=e88]:
+                      - paragraph [ref=e89]: • Implement a flexible, white-label React application
+                    - listitem [ref=e90]:
+                      - paragraph [ref=e91]: • Build a backend to relay data into the white-label solution and internal data systems
+                    - listitem [ref=e92]:
+                      - paragraph [ref=e93]: • Deliver a secure, scalable, and auditable trust accounting subsystem with high-quality standards
+                    - listitem [ref=e94]:
+                      - paragraph [ref=e95]: • Help refine early processes to improve delivery speed, system reliability, and team autonomy
+                    - listitem [ref=e96]:
+                      - paragraph [ref=e97]: • Champion engineering practices that emphasize quality, resilience, and observability
+                    - listitem [ref=e98]:
+                      - paragraph [ref=e99]: • Provide technical context in discussions and decisions, fostering transparency and accountability
+                    - listitem [ref=e100]:
+                      - paragraph [ref=e101]: • Establish initial frontend CI/CD pipelines to support independent deployments
+                - heading "Job requirements" [level=2] [ref=e102]
+                - generic [ref=e104]:
+                  - list [ref=e105]:
+                    - listitem [ref=e106]:
+                      - paragraph [ref=e107]: • 6+ years of experience as a Fullstack Engineer, including at least 2 years at the Senior Engineer level
+                    - listitem [ref=e108]:
+                      - paragraph [ref=e109]: • Extensive expertise in JavaScript/TypeScript and Node.js, with a strong preference for deep frontend experience using React
+                    - listitem [ref=e110]:
+                      - paragraph [ref=e111]: • Demonstrated experience in architecting and developing white-label solutions
+                    - listitem [ref=e112]:
+                      - paragraph [ref=e113]: • Solid foundation in software engineering principles—you will write production code daily and actively participate in technical and architectural discussions
+                    - listitem [ref=e114]:
+                      - paragraph [ref=e115]: • Proven track record working in engineering teams within product-focused environments, ideally in SaaS or platform businesses
+                    - listitem [ref=e116]:
+                      - paragraph [ref=e117]: • Exceptional communication and collaboration skills, particularly in distributed or remote teams
+                    - listitem [ref=e118]:
+                      - paragraph [ref=e119]: • Comfortable working in agile environments with rapidly shifting priorities and cross-functional teams
+                    - listitem [ref=e120]:
+                      - paragraph [ref=e121]: • Experience with accounting or ledger products is a significant plus
+                      - paragraph [ref=e122]
+                  - heading "What success looks like:" [level=3] [ref=e123]:
+                    - strong [ref=e124]: "What success looks like:"
+                  - list [ref=e125]:
+                    - listitem [ref=e126]:
+                      - paragraph [ref=e127]: • The trust accounting whitelabel is delivered reliably, accurately, trusted by customers and regulators, and integrated seamlessly into the Hostaway platform.
+                    - listitem [ref=e128]:
+                      - paragraph [ref=e129]: • The product is high throughput, low error, and provides accurate data to customers.
+                    - listitem [ref=e130]:
+                      - paragraph [ref=e131]: • Compliance and financial correctness are vital.
+                    - listitem [ref=e132]:
+                      - paragraph [ref=e133]: • Cross-functional collaboration with Finance, Legal, Product, and Engineering runs smoothly.
+                  - paragraph [ref=e134]
+                  - heading "An Average Day for a Senior Engineer" [level=3] [ref=e135]:
+                    - strong [ref=e136]: An Average Day for a Senior Engineer
+                  - list [ref=e137]:
+                    - listitem [ref=e138]:
+                      - paragraph [ref=e139]: • 10:00-10:15 Quick team stand-up, one of your team members seems to be working on a problem you worked on before, and offer to pair with them after the stand-up to support
+                    - listitem [ref=e140]:
+                      - paragraph [ref=e141]: • 10:30-14:00 Pairing with an engineer to work on a complex scalability issue together or continue working on the ADR you started earlier, and grabbing a quick bite to re-fuel those pesky brain cells in between coding sessions!
+                    - listitem [ref=e142]:
+                      - paragraph [ref=e143]: • 14:00-15:00 Doing a design session with the Product Manager and UX designer for a large upcoming feature that the team should pick up next week. You ask a lot of questions to drill down to the problem we are trying to solve, and suggest some easier solutions that require less effort for the team.
+                    - listitem [ref=e144]:
+                      - paragraph [ref=e145]: • 15:00-16:00 The design session triggered some thoughts about other areas of the system that will be affected. You’re doing a quick dive in the affected areas of the code and find some technical debt that might affect the system’s scalability or reliability. You create a brief Jira ticket and tag the Product Manager to help get it prioritised and to ensure it is not forgotten. You also ping the ticket to one of the other domains' tech leads, as you recall them mentioning a similar problem existing in another domain team.
+                    - listitem [ref=e146]:
+                      - paragraph [ref=e147]: • 16:00-16:30 Quick catch-up with the Engineering Manager on the team's delivery reliability and how you can help keep Work in Progress (WIP) and Pull Request (PR) review time to a minimum
+                    - listitem [ref=e148]:
+                      - paragraph [ref=e149]: • 16:30-18:00 Talking about PRs, there are actually still a few open. You take the last part of the day to review your team's PRs. There are some great solutions offered, but one of the junior engineers introduced some code that is difficult to maintain and lacks unit tests. You jump on a quick call with them to explain the issues and why it matters.
+                  - paragraph [ref=e150]
+                  - heading "What we offer" [level=3] [ref=e151]:
+                    - strong [ref=e152]: What we offer
+                  - list [ref=e153]:
+                    - listitem [ref=e154]:
+                      - paragraph [ref=e155]:
+                        - text: •
+                        - strong [ref=e156]: "Competitive Compensation:"
+                        - text: We offer competitive pay based on market rates in the country of the applicant.
+                    - listitem [ref=e157]:
+                      - paragraph [ref=e158]:
+                        - text: •
+                        - strong [ref=e159]: "100% Remote:"
+                        - text: Enjoy the freedom to work from anywhere within your country of residence—be it a co-working space, your home office, or even your dining room table. The choice is yours. Just don’t ask to work in our office (we don’t have one).
+                    - listitem [ref=e160]:
+                      - paragraph [ref=e161]:
+                        - text: •
+                        - strong [ref=e162]: "Equity:"
+                        - text: Every role in our company comes with valuable stock options in a fast-growing and profitable company. This ensures we all share in the company’s success.
+                    - listitem [ref=e163]:
+                      - paragraph [ref=e164]:
+                        - text: •
+                        - strong [ref=e165]: "Values-Driven Leadership:"
+                        - text: Our Core Values are not just words we’ve written to make us feel good. We leverage them daily when making strategic and tactical decisions.
+                    - listitem [ref=e166]:
+                      - paragraph [ref=e167]:
+                        - text: •
+                        - strong [ref=e168]: "Professional Growth:"
+                        - text: Our rapid growth offers unparalleled learning and development opportunities, along with a multitude of career advancement opportunities.
+                    - listitem [ref=e169]:
+                      - paragraph [ref=e170]:
+                        - text: •
+                        - strong [ref=e171]: "Annual Paid Leave:"
+                        - text: The specific amounts vary by country and are aligned with country and/or contract-specific norms.
+                    - listitem [ref=e172]:
+                      - paragraph [ref=e173]:
+                        - text: •
+                        - strong [ref=e174]: "Geographic Specific Benefits:"
+                        - text: As an international employer, we offer different country-specific benefits such as Health Insurance and Pensions in countries where these perks are customary. The specifics depend on the country of the applicant.
+                    - listitem [ref=e175]:
+                      - paragraph [ref=e176]:
+                        - text: •
+                        - strong [ref=e177]: "Dynamic Team Culture:"
+                        - text: As a global company with team members in over 40 countries, our diverse and international culture fuels our innovation and creativity, providing a key pillar to our success (and making it a lot of fun to work here).
+                  - paragraph [ref=e178]
+                  - paragraph [ref=e179]: Thank you for your interest. If you apply for this role, you will receive an email from our Talent Acquisition team after your application has been reviewed alongside the qualifications for this role and the qualifications of others who have applied.
+                  - paragraph [ref=e180]
+              - generic [ref=e182]:
+                - button "Apply" [ref=e183] [cursor=pointer]
+                - generic [ref=e184]:
+                  - paragraph [ref=e185]: or
+                  - button "Apply with Indeed" [ref=e193] [cursor=pointer]
+                - button "Share job" [ref=e195] [cursor=pointer]
+            - generic [ref=e197]:
+              - generic [ref=e198]:
+                - generic [ref=e199]:
+                  - generic:
+                    - img
+                - text: Remote
+              - generic [ref=e200]:
+                - generic [ref=e201]:
+                  - generic:
+                    - img
+                - generic [ref=e202]:
+                  - list [ref=e203]:
+                    - listitem [ref=e204]:
+                      - text: Vienna
+                      - generic [ref=e205]: ","
+                      - text: Wien
+                      - generic [ref=e206]: ","
+                      - text: Austria
+                  - generic [ref=e207]:
+                    - generic [ref=e208]: •
+                    - generic [ref=e210]: +20 more
+              - generic [ref=e211]:
+                - generic [ref=e212]:
+                  - generic:
+                    - img
+                - text: Engineering
+      - list [ref=e227]:
+        - listitem [ref=e228]:
+          - paragraph [ref=e229]:
+            - link "Our website" [ref=e230] [cursor=pointer]:
+              - /url: https://www.hostaway.com/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+              - generic [ref=e232]: Our website
+        - listitem [ref=e233]:
+          - paragraph [ref=e234]:
+            - link:
+              - /url: https://www.hostaway.com/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+            - link "Our two-minute overview" [ref=e235] [cursor=pointer]:
+              - /url: https://www.youtube.com/watch?v=shCoQeHH9WU
+              - generic [ref=e237]: Our two-minute overview
+        - listitem [ref=e238]:
+          - paragraph [ref=e239]:
+            - link "Our product video" [ref=e240] [cursor=pointer]:
+              - /url: https://www.youtube.com/watch?v=0hgdriSAKaY
+              - generic [ref=e242]: Our product video
+        - listitem [ref=e243]:
+          - paragraph [ref=e244]:
+            - link "Our blog" [ref=e245] [cursor=pointer]:
+              - /url: https://www.hostaway.com/blog/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+              - generic [ref=e247]: Our blog
+        - listitem [ref=e248]:
+          - paragraph [ref=e249]:
+            - link "Our customer case studies" [ref=e250] [cursor=pointer]:
+              - /url: https://www.hostaway.com/case-studies/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+              - generic [ref=e252]: Our customer case studies
+        - listitem [ref=e253]:
+          - paragraph [ref=e254]:
+            - link "Our marketplace" [ref=e255] [cursor=pointer]:
+              - /url: https://www.hostaway.com/marketplace/
+              - generic [ref=e257]: Our marketplace
+        - listitem [ref=e258]:
+          - paragraph [ref=e259]:
+            - link "Our candidate privacy policy" [ref=e260] [cursor=pointer]:
+              - /url: /privacypolicy
+              - generic [ref=e262]: Our candidate privacy policy
+        - listitem [ref=e263]:
+          - paragraph [ref=e264]:
+            - link "Our advice on recruitment scams" [ref=e265] [cursor=pointer]:
+              - /url: /recruitment-security
+              - generic [ref=e267]: Our advice on recruitment scams
+        - listitem [ref=e268]:
+          - paragraph [ref=e269]:
+            - link "Our guide to AI use in the interview process" [ref=e270] [cursor=pointer]:
+              - /url: /recruitment-security-qg4p4
+              - generic [ref=e272]: Our guide to AI use in the interview process
+      - heading "You can learn more about our team and culture by visiting our profile on Glassdoor" [level=3] [ref=e292]:
+        - generic [ref=e294]: You can learn more about our team and culture by visiting our profile on
+        - link "Glassdoor" [ref=e295] [cursor=pointer]:
+          - /url: https://www.glassdoor.com/Overview/Working-at-Hostaway-EI_IE1358830.11,19.htm
+          - generic [ref=e297]: Glassdoor
+    - generic [ref=e310]:
+      - link "Hostaway logo Homepage" [ref=e314] [cursor=pointer]:
+        - /url: /
+        - img "Hostaway logo" [ref=e315]
+        - generic [ref=e316]: Homepage
+      - generic [ref=e319]:
+        - link "linkedin" [ref=e320] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/hostaway/
+          - generic:
+            - img
+        - link "facebook" [ref=e321] [cursor=pointer]:
+          - /url: https://www.facebook.com/Hostawaycom
+          - generic:
+            - img
+        - link "instagram" [ref=e322] [cursor=pointer]:
+          - /url: https://www.instagram.com/hostawaycom/
+          - generic:
+            - img
+        - link "youtube" [ref=e323] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UC9QeuvQX1EurqelmrXkgaGw
+          - generic:
+            - img

@@ -1,0 +1,428 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - link "The Sourcegraph guide to surviving Big Code | Download" [ref=e6] [cursor=pointer]:
+      - /url: https://sourcegraph.com/resources/ebooks/surviving-big-code
+      - generic [ref=e7]: The Sourcegraph guide to surviving Big Code | Download
+    - generic [ref=e9]:
+      - link "Sourcegraph home" [ref=e11] [cursor=pointer]:
+        - /url: /
+        - img "Sourcegraph" [ref=e12]
+      - generic [ref=e14]:
+        - button "Platform" [ref=e15] [cursor=pointer]
+        - button "Resources" [ref=e16] [cursor=pointer]
+        - link "Pricing" [ref=e17] [cursor=pointer]:
+          - /url: /pricing
+      - link "Schedule a demo" [ref=e20] [cursor=pointer]:
+        - /url: /contact/request-info
+  - main [ref=e21]:
+    - generic [ref=e24]:
+      - heading "Let's build what's next for devs" [level=1] [ref=e25]
+      - link "Explore our open roles" [ref=e27] [cursor=pointer]:
+        - /url: "#job-list"
+    - generic [ref=e30]:
+      - img "Sourcegraph team photo 1" [ref=e32]
+      - img "Sourcegraph team photo 2" [ref=e34]
+      - img "Sourcegraph team photo 3" [ref=e36]
+      - img "Sourcegraph team photo 4" [ref=e38]
+      - img "Sourcegraph team photo 5" [ref=e40]
+      - img "Sourcegraph team photo 6" [ref=e42]
+    - paragraph [ref=e45]: At Sourcegraph, our mission is to bring clarity and control to the world's most complex codebases. We help teams deeply understand and evolve their code in a world of constant change.
+    - generic [ref=e47]:
+      - heading "We value..." [level=2] [ref=e48]
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - heading "Being direct & transparent" [level=3] [ref=e52]
+          - paragraph [ref=e53]: Our communication is direct, proactive, and transparent. We respect each other, trust in our ability to handle candid feedback, and disagree-and-commit when needed.
+        - generic [ref=e54]:
+          - heading "Winning together" [level=3] [ref=e56]
+          - paragraph [ref=e57]: We believe our best work happens when we support one another. We collaborate openly, help teammates succeed, and recognize that lasting impact comes from shared effort and shared wins.
+        - generic [ref=e58]:
+          - heading "High-agency" [level=3] [ref=e60]
+          - paragraph [ref=e61]: We take ownership and act, doing what's needed to deliver for our customers and holding ourselves accountable for outcomes.
+        - generic [ref=e62]:
+          - heading "Customer love" [level=3] [ref=e64]
+          - paragraph [ref=e65]: We put customers at the center of our decisions. We work backward from their real problems, earn trust through quality, and measure success by the value we deliver to them.
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - heading "Top-tier perks for a world-class team" [level=2] [ref=e69]
+        - paragraph [ref=e70]: We hire the most talented people in the world and give them the support they need to do their best work while thriving outside of it, too. From flexible time off and generous travel budgets to professional growth support and wellness stipends, we invest in every part of your life, not just your work.
+        - paragraph [ref=e71]:
+          - text: Learn more in
+          - link "our handbook" [ref=e72] [cursor=pointer]:
+            - /url: https://www.notion.so/sourcegraph/Benefits-and-Perks-Overview-e834cc63a940445f9315fd2ce064fc5d
+          - text: .
+      - generic [ref=e73]:
+        - generic [ref=e76]:
+          - heading "Medical, dental, and vision" [level=4] [ref=e77]
+          - paragraph [ref=e78]: 100% company-paid (US, UK, Canada)
+        - generic [ref=e81]:
+          - heading "Unlimited PTO" [level=4] [ref=e82]
+          - paragraph [ref=e83]: ....with a 30 day minimum
+        - generic [ref=e86]:
+          - heading "Wellness stipend" [level=4] [ref=e87]
+          - paragraph [ref=e88]: Take care of yourself on our dime
+        - generic [ref=e91]:
+          - heading "Generous travel budgets" [level=4] [ref=e92]
+          - paragraph [ref=e93]: Meet your team across the globe
+        - generic [ref=e96]:
+          - heading "Family planning benefits" [level=4] [ref=e97]
+          - paragraph [ref=e98]: $25K, because family comes first
+        - generic [ref=e101]:
+          - heading "Competitive pay + equity" [level=4] [ref=e102]
+          - paragraph [ref=e103]: So you can live your best life
+        - generic [ref=e106]:
+          - heading "Office budget" [level=4] [ref=e107]
+          - paragraph [ref=e108]: Create a space where you thrive
+        - generic [ref=e111]:
+          - heading "Professional development" [level=4] [ref=e112]
+          - paragraph [ref=e113]: Find your thing and we pay for it
+        - generic [ref=e116]:
+          - heading "Join a global team" [level=4] [ref=e117]
+          - paragraph [ref=e118]: We're a global, all-remote team
+    - generic [ref=e119]:
+      - generic [ref=e121]:
+        - heading "See how the Sourcegraph team gets together" [level=3] [ref=e122]
+        - paragraph [ref=e123]: Merge is our twice-a-year onsite where we align, build trust, and move faster together. We've met up in places like Amsterdam, Montreal, Cancun, and Rome to work on hard problems, make big decisions, and strengthen how we operate as a team.
+      - generic [ref=e124]:
+        - iframe [ref=e127]:
+          - generic [active] [ref=f24e1]:
+            - generic "YouTube Video Player" [ref=f24e3]
+            - generic [ref=f24e5]:
+              - generic:
+                - generic:
+                  - button "Play video" [ref=f24e10] [cursor=pointer]
+                  - button "Hide player controls" [ref=f24e12] [cursor=pointer]
+                  - generic [ref=f24e14]:
+                    - generic [ref=f24e19]:
+                      - generic [ref=f24e20]:
+                        - 'link "Sourcegraph Merge: 26.02 - Dublin" [ref=f24e21] [cursor=pointer]':
+                          - /url: https://www.youtube.com/watch?v=EfI2xYRfLd4
+                        - link "Sourcegraph" [ref=f24e22] [cursor=pointer]:
+                          - /url: /channel/UCOy2N25-AHqE43XupT9mwZQ
+                          - generic [ref=f24e23]: Sourcegraph
+                      - generic [ref=f24e24]:
+                        - button [ref=f24e25] [cursor=pointer]
+                        - generic [ref=f24e27]:
+                          - generic: Sourcegraph
+                          - generic: 8.48k subscribers
+                    - generic [ref=f24e28]:
+                      - button "Copy link" [ref=f24e31] [cursor=pointer]:
+                        - generic [ref=f24e35]:
+                          - img
+                      - link "Watch on YouTube" [ref=f24e42] [cursor=pointer]:
+                        - /url: https://www.youtube.com/watch?v=EfI2xYRfLd4
+                        - generic [ref=f24e45]:
+                          - text: Watch on
+                          - img [ref=f24e47]:
+                            - generic [ref=f24e49]:
+                              - img
+        - iframe [ref=e130]:
+          - generic [active] [ref=f25e1]:
+            - generic "YouTube Video Player" [ref=f25e3]
+            - generic [ref=f25e5]:
+              - generic:
+                - generic:
+                  - button "Play video" [ref=f25e10] [cursor=pointer]
+                  - button "Hide player controls" [ref=f25e12] [cursor=pointer]
+                  - generic [ref=f25e14]:
+                    - generic [ref=f25e19]:
+                      - generic [ref=f25e20]:
+                        - link "Merge 24.09 - Montreal" [ref=f25e21] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=htrRhq-OFfw
+                        - link "Sourcegraph" [ref=f25e22] [cursor=pointer]:
+                          - /url: /channel/UCOy2N25-AHqE43XupT9mwZQ
+                          - generic [ref=f25e23]: Sourcegraph
+                      - generic [ref=f25e24]:
+                        - button [ref=f25e25] [cursor=pointer]
+                        - generic [ref=f25e27]:
+                          - generic: Sourcegraph
+                          - generic: 8.48k subscribers
+                    - generic [ref=f25e28]:
+                      - button "Copy link" [ref=f25e31] [cursor=pointer]:
+                        - generic [ref=f25e35]:
+                          - img
+                      - link "Watch on YouTube" [ref=f25e42] [cursor=pointer]:
+                        - /url: https://www.youtube.com/watch?v=htrRhq-OFfw
+                        - generic [ref=f25e45]:
+                          - text: Watch on
+                          - img [ref=f25e47]:
+                            - generic [ref=f25e49]:
+                              - img
+        - iframe [ref=e131]:
+          - generic [active] [ref=f26e1]:
+            - generic "YouTube Video Player" [ref=f26e3]
+            - generic [ref=f26e5]:
+              - generic:
+                - generic:
+                  - button "Play video" [ref=f26e10] [cursor=pointer]
+                  - button "Hide player controls" [ref=f26e12] [cursor=pointer]
+                  - generic [ref=f26e14]:
+                    - generic [ref=f26e19]:
+                      - generic [ref=f26e20]:
+                        - link "Merge 23.08 - Mexico" [ref=f26e21] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=ABLh7Crr0m4
+                        - link "Sourcegraph" [ref=f26e22] [cursor=pointer]:
+                          - /url: /channel/UCOy2N25-AHqE43XupT9mwZQ
+                          - generic [ref=f26e23]: Sourcegraph
+                      - generic [ref=f26e24]:
+                        - button [ref=f26e25] [cursor=pointer]
+                        - generic [ref=f26e27]:
+                          - generic: Sourcegraph
+                          - generic: 8.48k subscribers
+                    - generic [ref=f26e28]:
+                      - button "Copy link" [ref=f26e31] [cursor=pointer]:
+                        - generic [ref=f26e35]:
+                          - img
+                      - link "Watch on YouTube" [ref=f26e42] [cursor=pointer]:
+                        - /url: https://www.youtube.com/watch?v=ABLh7Crr0m4
+                        - generic [ref=f26e45]:
+                          - text: Watch on
+                          - img [ref=f26e47]:
+                            - generic [ref=f26e49]:
+                              - img
+        - iframe [ref=e132]:
+          - generic [active] [ref=f27e1]:
+            - generic "YouTube Video Player" [ref=f27e3]
+            - generic [ref=f27e5]:
+              - generic:
+                - generic:
+                  - button "Play video" [ref=f27e10] [cursor=pointer]
+                  - button "Hide player controls" [ref=f27e12] [cursor=pointer]
+                  - generic [ref=f27e14]:
+                    - generic [ref=f27e19]:
+                      - generic [ref=f27e20]:
+                        - link "Merge 24.02 - Rome" [ref=f27e21] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=FmQRuxo61eU
+                        - link "Sourcegraph" [ref=f27e22] [cursor=pointer]:
+                          - /url: /channel/UCOy2N25-AHqE43XupT9mwZQ
+                          - generic [ref=f27e23]: Sourcegraph
+                      - generic [ref=f27e24]:
+                        - button [ref=f27e25] [cursor=pointer]
+                        - generic [ref=f27e27]:
+                          - generic: Sourcegraph
+                          - generic: 8.48k subscribers
+                    - generic [ref=f27e28]:
+                      - button "Copy link" [ref=f27e31] [cursor=pointer]:
+                        - generic [ref=f27e35]:
+                          - img
+                      - link "Watch on YouTube" [ref=f27e42] [cursor=pointer]:
+                        - /url: https://www.youtube.com/watch?v=FmQRuxo61eU
+                        - generic [ref=f27e45]:
+                          - text: Watch on
+                          - img [ref=f27e47]:
+                            - generic [ref=f27e49]:
+                              - img
+        - iframe [ref=e133]:
+          - generic [active] [ref=f28e1]:
+            - generic "YouTube Video Player" [ref=f28e3]
+            - generic [ref=f28e5]:
+              - generic:
+                - generic:
+                  - button "Play video" [ref=f28e10] [cursor=pointer]
+                  - button "Hide player controls" [ref=f28e12] [cursor=pointer]
+                  - generic [ref=f28e14]:
+                    - generic [ref=f28e19]:
+                      - generic [ref=f28e20]:
+                        - link "Merge 23.02 - Barcelona" [ref=f28e21] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=KHpj-dleMIU
+                        - link "Sourcegraph" [ref=f28e22] [cursor=pointer]:
+                          - /url: /channel/UCOy2N25-AHqE43XupT9mwZQ
+                          - generic [ref=f28e23]: Sourcegraph
+                      - generic [ref=f28e24]:
+                        - button [ref=f28e25] [cursor=pointer]
+                        - generic [ref=f28e27]:
+                          - generic: Sourcegraph
+                          - generic: 8.48k subscribers
+                    - generic [ref=f28e28]:
+                      - button "Copy link" [ref=f28e31] [cursor=pointer]:
+                        - generic [ref=f28e35]:
+                          - img
+                      - link "Watch on YouTube" [ref=f28e42] [cursor=pointer]:
+                        - /url: https://www.youtube.com/watch?v=KHpj-dleMIU
+                        - generic [ref=f28e45]:
+                          - text: Watch on
+                          - img [ref=f28e47]:
+                            - generic [ref=f28e49]:
+                              - img
+        - iframe [ref=e136]:
+          - generic [active] [ref=f29e1]:
+            - generic "YouTube Video Player" [ref=f29e3]
+            - generic [ref=f29e5]:
+              - generic:
+                - generic:
+                  - button "Play video" [ref=f29e10] [cursor=pointer]
+                  - button "Hide player controls" [ref=f29e12] [cursor=pointer]
+                  - generic [ref=f29e14]:
+                    - generic [ref=f29e19]:
+                      - generic [ref=f29e20]:
+                        - link "Merge 22.09 - Mexico" [ref=f29e21] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=aT5xeVzSfKo
+                        - link "Sourcegraph" [ref=f29e22] [cursor=pointer]:
+                          - /url: /channel/UCOy2N25-AHqE43XupT9mwZQ
+                          - generic [ref=f29e23]: Sourcegraph
+                      - generic [ref=f29e24]:
+                        - button [ref=f29e25] [cursor=pointer]
+                        - generic [ref=f29e27]:
+                          - generic: Sourcegraph
+                          - generic: 8.48k subscribers
+                    - generic [ref=f29e28]:
+                      - button "Copy link" [ref=f29e31] [cursor=pointer]:
+                        - generic [ref=f29e35]:
+                          - img
+                      - link "Watch on YouTube" [ref=f29e42] [cursor=pointer]:
+                        - /url: https://www.youtube.com/watch?v=aT5xeVzSfKo
+                        - generic [ref=f29e45]:
+                          - text: Watch on
+                          - img [ref=f29e47]:
+                            - generic [ref=f29e49]:
+                              - img
+      - generic [ref=e137]:
+        - button "Previous video" [ref=e138] [cursor=pointer]:
+          - img [ref=e139]
+        - button "Next video" [ref=e141] [cursor=pointer]:
+          - img [ref=e142]
+    - generic [ref=e145]:
+      - heading "Interested in working at Sourcegraph?" [level=2] [ref=e147]
+      - generic [ref=e148]:
+        - generic [ref=e149]:
+          - generic [ref=e150]: Search
+          - textbox "Search" [ref=e151]
+        - generic [ref=e152]:
+          - generic [ref=e153]: Department
+          - combobox "Department" [ref=e154]:
+            - option "Select one..." [selected]
+            - option "Engineering"
+            - option "Revenue"
+      - generic [ref=e155]:
+        - generic [ref=e156]:
+          - heading "Engineering" [level=3] [ref=e157]
+          - generic [ref=e158]:
+            - link "Software Engineer - Code Understanding [IC2] Remote Apply for position" [ref=e159] [cursor=pointer]:
+              - /url: https://job-boards.greenhouse.io/sourcegraph91/jobs/5855148004
+              - heading "Software Engineer - Code Understanding [IC2]" [level=4] [ref=e161]
+              - generic [ref=e162]: Remote
+              - generic [ref=e164]: Apply for position
+            - link "Engineering Manager - Code Plane [M3] Remote Apply for position" [ref=e165] [cursor=pointer]:
+              - /url: https://job-boards.greenhouse.io/sourcegraph91/jobs/5996694004
+              - heading "Engineering Manager - Code Plane [M3]" [level=4] [ref=e167]
+              - generic [ref=e168]: Remote
+              - generic [ref=e170]: Apply for position
+            - link "Security Engineer [IC3] Remote Apply for position" [ref=e171] [cursor=pointer]:
+              - /url: https://job-boards.greenhouse.io/sourcegraph91/jobs/6007621004
+              - heading "Security Engineer [IC3]" [level=4] [ref=e173]
+              - generic [ref=e174]: Remote
+              - generic [ref=e176]: Apply for position
+        - generic [ref=e177]:
+          - heading "Revenue" [level=3] [ref=e178]
+          - generic [ref=e179]:
+            - link "Support Engineer - EMEA [IC2] Remote Apply for position" [ref=e180] [cursor=pointer]:
+              - /url: https://job-boards.greenhouse.io/sourcegraph91/jobs/5973064004
+              - heading "Support Engineer - EMEA [IC2]" [level=4] [ref=e182]
+              - generic [ref=e183]: Remote
+              - generic [ref=e185]: Apply for position
+            - link "Senior Customer Success Manager - US East [IC3] Remote Apply for position" [ref=e186] [cursor=pointer]:
+              - /url: https://job-boards.greenhouse.io/sourcegraph91/jobs/5989776004
+              - heading "Senior Customer Success Manager - US East [IC3]" [level=4] [ref=e188]
+              - generic [ref=e189]: Remote
+              - generic [ref=e191]: Apply for position
+            - link "Field Engineer [IC4] Remote Apply for position" [ref=e192] [cursor=pointer]:
+              - /url: https://job-boards.greenhouse.io/sourcegraph91/jobs/5996434004
+              - heading "Field Engineer [IC4]" [level=4] [ref=e194]
+              - generic [ref=e195]: Remote
+              - generic [ref=e197]: Apply for position
+            - link "Regional Sales Director [M4] Remote Apply for position" [ref=e198] [cursor=pointer]:
+              - /url: https://job-boards.greenhouse.io/sourcegraph91/jobs/6007967004
+              - heading "Regional Sales Director [M4]" [level=4] [ref=e200]
+              - generic [ref=e201]: Remote
+              - generic [ref=e203]: Apply for position
+    - generic [ref=e205]:
+      - heading "Meet your Sourcegraph recruiting team" [level=3] [ref=e206]
+      - generic [ref=e207]:
+        - generic [ref=e208]:
+          - img "Devon Coords" [ref=e210]
+          - generic [ref=e211]:
+            - paragraph [ref=e212]: Devon Coords
+            - link "Devon Coords on LinkedIn" [ref=e213] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/devonelliscoords/
+              - img [ref=e214]
+        - generic [ref=e216]:
+          - img "Trevor Houghton" [ref=e218]
+          - generic [ref=e219]:
+            - paragraph [ref=e220]: Trevor Houghton
+            - link "Trevor Houghton on LinkedIn" [ref=e221] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/trevorhoughton/
+              - img [ref=e222]
+  - contentinfo [ref=e224]:
+    - generic [ref=e226]:
+      - generic [ref=e227]:
+        - generic [ref=e228]:
+          - link "Sourcegraph home" [ref=e229] [cursor=pointer]:
+            - /url: /
+            - img "Sourcegraph" [ref=e230]
+          - generic [ref=e231]: Code understanding for humans and agents
+          - generic [ref=e232]:
+            - link "GitHub" [ref=e233] [cursor=pointer]:
+              - /url: https://github.com/sourcegraph
+              - img [ref=e234]
+            - link "X" [ref=e236] [cursor=pointer]:
+              - /url: https://x.com/Sourcegraph
+              - img [ref=e237]
+            - link "LinkedIn" [ref=e239] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/4803356/
+              - img [ref=e240]
+            - link "YouTube" [ref=e242] [cursor=pointer]:
+              - /url: https://www.youtube.com/c/Sourcegraph
+              - img [ref=e243]
+        - generic [ref=e245]:
+          - generic [ref=e246]:
+            - generic [ref=e247]: Platform
+            - generic [ref=e248]:
+              - link "Deep Search" [ref=e249] [cursor=pointer]:
+                - /url: /deep-search
+              - link "Code Search" [ref=e250] [cursor=pointer]:
+                - /url: /code-search
+              - link "MCP server" [ref=e251] [cursor=pointer]:
+                - /url: /mcp
+              - link "Batch Changes" [ref=e252] [cursor=pointer]:
+                - /url: /batch-changes
+              - link "Search public code" [ref=e253] [cursor=pointer]:
+                - /url: https://sourcegraph.com/search
+              - link "Pricing" [ref=e254] [cursor=pointer]:
+                - /url: /pricing
+          - generic [ref=e255]:
+            - generic [ref=e256]: Resources
+            - generic [ref=e257]:
+              - link "Documentation" [ref=e258] [cursor=pointer]:
+                - /url: https://sourcegraph.com/docs
+              - link "Resource library" [ref=e259] [cursor=pointer]:
+                - /url: /resources
+              - link "Blog" [ref=e260] [cursor=pointer]:
+                - /url: /blog
+              - link "Changelog" [ref=e261] [cursor=pointer]:
+                - /url: /changelog
+              - link "Case studies" [ref=e262] [cursor=pointer]:
+                - /url: /case-studies
+              - link "Community" [ref=e263] [cursor=pointer]:
+                - /url: /community
+              - link "Security portal" [ref=e264] [cursor=pointer]:
+                - /url: https://security.sourcegraph.com/
+          - generic [ref=e265]:
+            - generic [ref=e266]: Company
+            - generic [ref=e267]:
+              - link "About" [ref=e268] [cursor=pointer]:
+                - /url: /about
+              - link "Careers" [ref=e269] [cursor=pointer]:
+                - /url: /jobs
+              - link "Contact" [ref=e270] [cursor=pointer]:
+                - /url: /contact
+              - link "Handbook" [ref=e271] [cursor=pointer]:
+                - /url: https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0
+              - link "Brand Guide" [ref=e272] [cursor=pointer]:
+                - /url: https://sourcegraph.notion.site/Brand-guide-15aa8e11265880a6baecf35d6d3617ac
+      - generic [ref=e274]:
+        - link "System status" [ref=e275] [cursor=pointer]:
+          - /url: https://sourcegraphstatus.com/
+        - link "Terms of service" [ref=e276] [cursor=pointer]:
+          - /url: /terms
+        - link "Privacy policy" [ref=e277] [cursor=pointer]:
+          - /url: /terms/privacy

@@ -1,0 +1,21 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - figure [ref=e3]:
+      - img "Ghost" [ref=e4]
+    - generic [ref=e6]:
+      - generic [ref=e9]:
+        - heading "Oops" [level=1] [ref=e10]
+        - paragraph [ref=e11]:
+          - text: This job post is no longer online.
+          - text: While you're here, visit our career site.
+      - contentinfo [ref=e12]:
+        - link "Go to career site" [ref=e13] [cursor=pointer]:
+          - /url: https://careers.ghost.org
+          - generic [ref=e14]: Go to career site
+    - link "Hiring with Homerun" [ref=e16] [cursor=pointer]:
+      - /url: https://www.homerun.co/explore?utm_source=hra&utm_medium=org&utm_campaign=49753&utm_content=acq
+  - generic:
+    - region "Cookie Consent notice":
+      - generic [ref=e17]:
+        - paragraph [ref=e18]: We use cookies to offer you a better experience and analyse traffic to our career page and jobs. Learn more
+        - button "Dismiss cookie banner" [ref=e19] [cursor=pointer]

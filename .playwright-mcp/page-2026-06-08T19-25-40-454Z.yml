@@ -1,0 +1,637 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - navigation
+        - link "Remote4Africa Homepage" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+        - generic [ref=e28]:
+          - button "Remote Jobs" [ref=e29] [cursor=pointer]
+          - button "Resources" [ref=e30] [cursor=pointer]
+          - button "Job Seekers" [ref=e31] [cursor=pointer]
+          - link "Get Started" [ref=e32] [cursor=pointer]:
+            - /url: /register
+        - button "Search" [ref=e34] [cursor=pointer]:
+          - img [ref=e35]
+    - generic [ref=e37]:
+      - generic [ref=e40]:
+        - heading "Latest Remote Jobs in Uganda" [level=1] [ref=e41]: Latest Remote Jobs in Uganda
+        - heading "Latest verified and vetted remote jobs in Uganda. Find hybrid and fully remote job openings in Uganda." [level=4] [ref=e43]
+      - main [ref=e44]:
+        - navigation "breadcrumb" [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47]:
+              - link "Home" [ref=e48] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e49]: ›
+            - listitem [ref=e50]:
+              - link "All Remote Jobs" [ref=e51] [cursor=pointer]:
+                - /url: /jobs
+            - listitem [ref=e52]: ›
+            - listitem [ref=e53]:
+              - paragraph [ref=e54]: Remote Jobs in Uganda
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - generic [ref=e60]:
+              - generic [ref=e61]:
+                - generic [ref=e62]: A
+                - generic [ref=e63]:
+                  - paragraph [ref=e64]:
+                    - text: Advertising Company
+                    - link "Subscribe to reveal company" [ref=e65] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e66]
+                  - link "Video Editor" [ref=e69] [cursor=pointer]:
+                    - /url: /jobs/video-editor-63-1
+                  - generic [ref=e70]:
+                    - generic [ref=e71]: 100% Remote
+                    - generic [ref=e72]: fulltime
+                    - generic [ref=e73]: Anywhere in the World
+              - generic [ref=e74]:
+                - paragraph [ref=e75]: New
+                - paragraph [ref=e76]: Jun 08
+            - generic [ref=e77]:
+              - generic [ref=e78]:
+                - generic [ref=e79]: I
+                - generic [ref=e80]:
+                  - paragraph [ref=e81]:
+                    - text: Internet Software & Services Company
+                    - link "Subscribe to reveal company" [ref=e82] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e83]
+                  - link "Status Manual QA / Product Tester (Part time)" [ref=e86] [cursor=pointer]:
+                    - /url: /jobs/status-manual-qa-product-tester-part-time
+                  - generic [ref=e87]:
+                    - generic [ref=e88]:
+                      - img [ref=e89]
+                      - text: 12000 - 12000
+                    - generic [ref=e91]: 100% Remote
+                    - generic [ref=e92]: parttime
+                    - generic [ref=e93]: Anywhere in the World
+                  - generic [ref=e94]:
+                    - img [ref=e95]
+                    - text: Remote (Worldwide)
+              - generic [ref=e97]:
+                - paragraph [ref=e98]: New
+                - paragraph [ref=e99]: Jun 08
+            - generic [ref=e100]:
+              - generic [ref=e101]:
+                - generic [ref=e102]: S
+                - generic [ref=e103]:
+                  - paragraph [ref=e104]:
+                    - text: Software Development Company
+                    - link "Subscribe to reveal company" [ref=e105] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e106]
+                  - link "Junior Financial Analyst" [ref=e109] [cursor=pointer]:
+                    - /url: /jobs/junior-financial-analyst-6
+                  - generic [ref=e110]:
+                    - generic [ref=e111]: 100% Remote
+                    - generic [ref=e112]: fulltime
+                    - generic [ref=e113]: Anywhere in the World
+                  - generic [ref=e114]:
+                    - img [ref=e115]
+                    - text: Anywhere
+              - generic [ref=e117]:
+                - paragraph [ref=e118]: New
+                - paragraph [ref=e119]: Jun 08
+            - generic [ref=e120]:
+              - generic [ref=e121]:
+                - generic [ref=e122]: S
+                - generic [ref=e123]:
+                  - paragraph [ref=e124]:
+                    - text: Software Development Company
+                    - link "Subscribe to reveal company" [ref=e125] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e126]
+                  - link "Senior Product Manager" [ref=e129] [cursor=pointer]:
+                    - /url: /jobs/senior-product-manager-192
+                  - generic [ref=e130]:
+                    - generic [ref=e131]: 100% Remote
+                    - generic [ref=e132]: fulltime
+                    - generic [ref=e133]: Anywhere in the World
+                  - generic [ref=e134]:
+                    - img [ref=e135]
+                    - text: Global
+              - generic [ref=e137]:
+                - paragraph [ref=e138]: New
+                - paragraph [ref=e139]: Jun 08
+            - generic [ref=e140]:
+              - generic [ref=e141]:
+                - generic [ref=e142]: I
+                - generic [ref=e143]:
+                  - paragraph [ref=e144]:
+                    - text: Internet Software & Services Company
+                    - link "Subscribe to reveal company" [ref=e145] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e146]
+                  - link "Staff Product Manager" [ref=e149] [cursor=pointer]:
+                    - /url: /jobs/staff-product-manager-18
+                  - generic [ref=e150]:
+                    - generic [ref=e151]: 100% Remote
+                    - generic [ref=e152]: fulltime
+                    - generic [ref=e153]: Anywhere in the World
+                  - generic [ref=e154]:
+                    - img [ref=e155]
+                    - text: Global
+              - generic [ref=e157]:
+                - paragraph [ref=e158]: New
+                - paragraph [ref=e159]: Jun 08
+            - generic [ref=e160]:
+              - generic [ref=e161]:
+                - generic [ref=e162]: H
+                - generic [ref=e163]:
+                  - paragraph [ref=e164]:
+                    - text: Human Resource Services Company
+                    - link "Subscribe to reveal company" [ref=e165] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e166]
+                  - link "Property Rental Administrator" [ref=e169] [cursor=pointer]:
+                    - /url: /jobs/property-rental-administrator
+                  - generic [ref=e170]:
+                    - generic [ref=e171]: 100% Remote
+                    - generic [ref=e172]: fulltime
+                    - generic [ref=e173]: Anywhere in the World
+                  - generic [ref=e174]:
+                    - img [ref=e175]
+                    - text: Global
+              - generic [ref=e177]:
+                - paragraph [ref=e178]: New
+                - paragraph [ref=e179]: Jun 07
+            - generic [ref=e180]:
+              - generic [ref=e181]:
+                - generic [ref=e182]: H
+                - generic [ref=e183]:
+                  - paragraph [ref=e184]:
+                    - text: Human Resource Services Company
+                    - link "Subscribe to reveal company" [ref=e185] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e186]
+                  - link "Project Manager" [ref=e189] [cursor=pointer]:
+                    - /url: /jobs/part-time-project-manager-1
+                  - generic [ref=e190]:
+                    - generic [ref=e191]: 100% Remote
+                    - generic [ref=e192]: parttime
+                    - generic [ref=e193]: Anywhere in the World
+                  - generic [ref=e194]:
+                    - img [ref=e195]
+                    - text: Global
+              - generic [ref=e197]:
+                - paragraph [ref=e198]: New
+                - paragraph [ref=e199]: Jun 07
+            - generic [ref=e200]:
+              - generic [ref=e201]:
+                - generic [ref=e202]: H
+                - generic [ref=e203]:
+                  - paragraph [ref=e204]:
+                    - text: Human Resource Services Company
+                    - link "Subscribe to reveal company" [ref=e205] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e206]
+                  - link "Group Financial Controller / System Implementation Specialist" [ref=e209] [cursor=pointer]:
+                    - /url: /jobs/group-financial-controller-system-implementation-specialist
+                  - generic [ref=e210]:
+                    - generic [ref=e211]: 100% Remote
+                    - generic [ref=e212]: fulltime
+                    - generic [ref=e213]: Anywhere in the World
+                  - generic [ref=e214]:
+                    - img [ref=e215]
+                    - text: Global
+              - generic [ref=e217]:
+                - paragraph [ref=e218]: New
+                - paragraph [ref=e219]: Jun 07
+            - generic [ref=e220]:
+              - generic [ref=e221]:
+                - generic [ref=e222]: H
+                - generic [ref=e223]:
+                  - paragraph [ref=e224]:
+                    - text: Human Resource Services Company
+                    - link "Subscribe to reveal company" [ref=e225] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e226]
+                  - link "Part-time Payroll & Compliance Specialist" [ref=e229] [cursor=pointer]:
+                    - /url: /jobs/part-time-payroll-compliance-specialist
+                  - generic [ref=e230]:
+                    - generic [ref=e231]: 100% Remote
+                    - generic [ref=e232]: parttime
+                    - generic [ref=e233]: Anywhere in the World
+                  - generic [ref=e234]:
+                    - img [ref=e235]
+                    - text: Global
+              - generic [ref=e237]:
+                - paragraph [ref=e238]: New
+                - paragraph [ref=e239]: Jun 07
+            - generic [ref=e240]:
+              - generic [ref=e241]:
+                - generic [ref=e242]: H
+                - generic [ref=e243]:
+                  - paragraph [ref=e244]:
+                    - text: Human Resource Services Company
+                    - link "Subscribe to reveal company" [ref=e245] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e246]
+                  - link "Sales & Lead Generation Consultant" [ref=e249] [cursor=pointer]:
+                    - /url: /jobs/part-time-sales-lead-generation-consultant
+                  - generic [ref=e250]:
+                    - generic [ref=e251]: 100% Remote
+                    - generic [ref=e252]: parttime
+                    - generic [ref=e253]: Anywhere in the World
+                  - generic [ref=e254]:
+                    - img [ref=e255]
+                    - text: Global
+              - generic [ref=e257]:
+                - paragraph [ref=e258]: New
+                - paragraph [ref=e259]: Jun 07
+            - generic [ref=e260]:
+              - generic [ref=e261]:
+                - generic [ref=e262]: H
+                - generic [ref=e263]:
+                  - paragraph [ref=e264]:
+                    - text: Human Resource Services Company
+                    - link "Subscribe to reveal company" [ref=e265] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e266]
+                  - link "Part-time Talent Acquisition Specialist" [ref=e269] [cursor=pointer]:
+                    - /url: /jobs/part-time-talent-acquisition-specialist
+                  - generic [ref=e270]:
+                    - generic [ref=e271]: 100% Remote
+                    - generic [ref=e272]: fulltime
+                    - generic [ref=e273]: Anywhere in the World
+                  - generic [ref=e274]:
+                    - img [ref=e275]
+                    - text: Global
+              - generic [ref=e277]:
+                - paragraph [ref=e278]: New
+                - paragraph [ref=e279]: Jun 07
+            - generic [ref=e280]:
+              - generic [ref=e281]:
+                - generic [ref=e282]: H
+                - generic [ref=e283]:
+                  - paragraph [ref=e284]:
+                    - text: Human Resource Services Company
+                    - link "Subscribe to reveal company" [ref=e285] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e286]
+                  - link "Executive Assistant" [ref=e289] [cursor=pointer]:
+                    - /url: /jobs/executive-assistant-186
+                  - generic [ref=e290]:
+                    - generic [ref=e291]: 100% Remote
+                    - generic [ref=e292]: fulltime
+                    - generic [ref=e293]: Anywhere in the World
+                  - generic [ref=e294]:
+                    - img [ref=e295]
+                    - text: Global
+              - generic [ref=e297]:
+                - paragraph [ref=e298]: New
+                - paragraph [ref=e299]: Jun 07
+            - generic [ref=e300]:
+              - generic [ref=e301]:
+                - generic [ref=e302]: H
+                - generic [ref=e303]:
+                  - paragraph [ref=e304]:
+                    - text: Human Resource Services Company
+                    - link "Subscribe to reveal company" [ref=e305] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e306]
+                  - link "Sales & Customer Support Agent" [ref=e309] [cursor=pointer]:
+                    - /url: /jobs/sales-customer-support-agent-1
+                  - generic [ref=e310]:
+                    - generic [ref=e311]: 100% Remote
+                    - generic [ref=e312]: fulltime
+                    - generic [ref=e313]: Anywhere in the World
+                  - generic [ref=e314]:
+                    - img [ref=e315]
+                    - text: Global
+              - generic [ref=e317]:
+                - paragraph [ref=e318]: New
+                - paragraph [ref=e319]: Jun 07
+            - generic [ref=e320]:
+              - generic [ref=e321]:
+                - generic [ref=e322]: I
+                - generic [ref=e323]:
+                  - paragraph [ref=e324]:
+                    - text: IT / Telecommunication Services Company
+                    - link "Subscribe to reveal company" [ref=e325] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e326]
+                  - link "Project Management Internship" [ref=e329] [cursor=pointer]:
+                    - /url: /jobs/project-management-internship-4
+                  - generic [ref=e330]:
+                    - generic [ref=e331]: 100% Remote
+                    - generic [ref=e332]: fulltime
+                    - generic [ref=e333]: Anywhere in the World
+                  - generic [ref=e334]:
+                    - img [ref=e335]
+                    - text: Global
+              - generic [ref=e337]:
+                - paragraph [ref=e338]: New
+                - paragraph [ref=e339]: Jun 07
+            - generic [ref=e340]:
+              - generic [ref=e341]:
+                - generic [ref=e342]: E
+                - generic [ref=e343]:
+                  - paragraph [ref=e344]:
+                    - text: E-commerce / Marketplace Company
+                    - link "Subscribe to reveal company" [ref=e345] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e346]
+                  - link "Billing Representative" [ref=e349] [cursor=pointer]:
+                    - /url: /jobs/billing-representative-1
+                  - generic [ref=e350]:
+                    - generic [ref=e351]: 100% Remote
+                    - generic [ref=e352]: fulltime
+                    - generic [ref=e353]: Anywhere in the World
+                  - generic [ref=e354]:
+                    - img [ref=e355]
+                    - text: Global
+              - generic [ref=e357]:
+                - paragraph [ref=e358]: New
+                - paragraph [ref=e359]: Jun 07
+            - generic [ref=e360]:
+              - generic [ref=e361]:
+                - generic [ref=e362]: B
+                - generic [ref=e363]:
+                  - paragraph [ref=e364]:
+                    - text: Business Consulting and Services Company
+                    - link "Subscribe to reveal company" [ref=e365] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e366]
+                  - link "Payment Operations Manager" [ref=e369] [cursor=pointer]:
+                    - /url: /jobs/payment-operations-manager-2
+                  - generic [ref=e370]:
+                    - generic [ref=e371]: 100% Remote
+                    - generic [ref=e372]: fulltime
+                    - generic [ref=e373]: Anywhere in the World
+                  - generic [ref=e374]:
+                    - img [ref=e375]
+                    - text: Global
+              - generic [ref=e377]:
+                - paragraph [ref=e378]: New
+                - paragraph [ref=e379]: Jun 07
+            - generic [ref=e380]:
+              - generic [ref=e381]:
+                - generic [ref=e382]: I
+                - generic [ref=e383]:
+                  - paragraph [ref=e384]:
+                    - text: IT Services and IT Consulting Company
+                    - link "Subscribe to reveal company" [ref=e385] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e386]
+                  - link "Microsoft Dynamics GP Support Consultant" [ref=e389] [cursor=pointer]:
+                    - /url: /jobs/microsoft-dynamics-gp-support-consultant
+                  - generic [ref=e390]:
+                    - generic [ref=e391]: 100% Remote
+                    - generic [ref=e392]: fulltime
+                    - generic [ref=e393]: Anywhere in the World
+                  - generic [ref=e394]:
+                    - img [ref=e395]
+                    - text: Global
+              - paragraph [ref=e398]: Jun 06
+            - generic [ref=e399]:
+              - generic [ref=e400]:
+                - generic [ref=e401]: I
+                - generic [ref=e402]:
+                  - paragraph [ref=e403]:
+                    - text: IT Services and IT Consulting Company
+                    - link "Subscribe to reveal company" [ref=e404] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e405]
+                  - link "Dynamics 365 Senior Solution Architect" [ref=e408] [cursor=pointer]:
+                    - /url: /jobs/dynamics-365-senior-solution-architect
+                  - generic [ref=e409]:
+                    - generic [ref=e410]: 100% Remote
+                    - generic [ref=e411]: fulltime
+                    - generic [ref=e412]: Anywhere in the World
+                  - generic [ref=e413]:
+                    - img [ref=e414]
+                    - text: Global
+              - paragraph [ref=e417]: Jun 06
+            - generic [ref=e418]:
+              - generic [ref=e419]:
+                - generic [ref=e420]: I
+                - generic [ref=e421]:
+                  - paragraph [ref=e422]:
+                    - text: IT Services and IT Consulting Company
+                    - link "Subscribe to reveal company" [ref=e423] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e424]
+                  - link "Project Manager" [ref=e427] [cursor=pointer]:
+                    - /url: /jobs/project-manager-109
+                  - generic [ref=e428]:
+                    - generic [ref=e429]: 100% Remote
+                    - generic [ref=e430]: fulltime
+                    - generic [ref=e431]: Anywhere in the World
+                  - generic [ref=e432]:
+                    - img [ref=e433]
+                    - text: Global
+              - paragraph [ref=e436]: Jun 06
+            - generic [ref=e437]:
+              - generic [ref=e438]:
+                - generic [ref=e439]: I
+                - generic [ref=e440]:
+                  - paragraph [ref=e441]:
+                    - text: IT Services and IT Consulting Company
+                    - link "Subscribe to reveal company" [ref=e442] [cursor=pointer]:
+                      - /url: /subscriptions/plans
+                      - img [ref=e443]
+                  - link "Payroll Manager (US & Canada) – Individual Contributor" [ref=e446] [cursor=pointer]:
+                    - /url: /jobs/payroll-manager-us-canada-individual-contributor
+                  - generic [ref=e447]:
+                    - generic [ref=e448]: 100% Remote
+                    - generic [ref=e449]: fulltime
+                    - generic [ref=e450]: Anywhere in the World
+                  - generic [ref=e451]:
+                    - img [ref=e452]
+                    - text: Global
+              - paragraph [ref=e455]: Jun 06
+          - navigation "pagination navigation" [ref=e458]:
+            - list [ref=e459]:
+              - listitem [ref=e460]:
+                - link "Go to previous page" [disabled]:
+                  - /url: /remote-jobs/ug?page=0
+                  - img
+              - listitem [ref=e461]:
+                - link "page 1" [ref=e462] [cursor=pointer]:
+                  - /url: /remote-jobs/ug?
+                  - text: "1"
+              - listitem [ref=e463]:
+                - link "Go to page 2" [ref=e464] [cursor=pointer]:
+                  - /url: /remote-jobs/ug?page=2
+                  - text: "2"
+              - listitem [ref=e465]:
+                - generic [ref=e466]: …
+              - listitem [ref=e467]:
+                - link "Go to next page" [ref=e468] [cursor=pointer]:
+                  - /url: /remote-jobs/ug?page=2
+                  - img [ref=e469]
+    - contentinfo [ref=e471]:
+      - generic [ref=e472]:
+        - generic [ref=e474]:
+          - link "Remote4Africa" [ref=e476] [cursor=pointer]:
+            - /url: /
+            - img [ref=e477]
+          - paragraph [ref=e498]: Remote4Africa provides information on vetted remote job opportunities open for Africans to apply. Remote4Africa is a remote work community for Africans.
+          - generic [ref=e499]:
+            - link "Download on the App Store" [ref=e500] [cursor=pointer]:
+              - /url: https://apps.apple.com/app/remote4africa-remote-jobs/id6757875752
+              - img [ref=e501]
+              - generic [ref=e503]:
+                - paragraph [ref=e504]: Download on the
+                - paragraph [ref=e505]: App Store
+            - link "Get it on Google Play" [ref=e506] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.remote4africa.app
+              - img [ref=e507]
+              - generic [ref=e509]:
+                - paragraph [ref=e510]: Get it on
+                - paragraph [ref=e511]: Google Play
+          - paragraph
+        - generic [ref=e512]:
+          - generic [ref=e513]:
+            - heading "Job Seekers" [level=4] [ref=e514]
+            - list [ref=e515]:
+              - listitem [ref=e516]:
+                - link "Latest Remote Jobs" [ref=e517] [cursor=pointer]:
+                  - /url: /
+                  - generic [ref=e519]: Latest Remote Jobs
+              - listitem [ref=e520]:
+                - link "Membership" [ref=e521] [cursor=pointer]:
+                  - /url: /subscriptions/plans
+                  - generic [ref=e523]: Membership
+              - listitem [ref=e524]:
+                - link "Career Resources" [ref=e525] [cursor=pointer]:
+                  - /url: /resources
+                  - generic [ref=e527]: Career Resources
+              - listitem [ref=e528]:
+                - link "Career Skills" [ref=e529] [cursor=pointer]:
+                  - /url: /skills
+                  - generic [ref=e531]: Career Skills
+              - listitem [ref=e532]:
+                - link "Interview Questions" [ref=e533] [cursor=pointer]:
+                  - /url: /interviews
+                  - generic [ref=e535]: Interview Questions
+              - listitem [ref=e536]:
+                - link "Career Coach" [ref=e537] [cursor=pointer]:
+                  - /url: /career-coach
+                  - generic [ref=e539]: Career Coach
+              - listitem [ref=e540]:
+                - link "Improve Your Resume / Coverletter" [ref=e541] [cursor=pointer]:
+                  - /url: https://cvhack.com?utm_source=remote4africa&utm_medium=referral&utm_campaign=remote4africa
+                  - generic [ref=e543]: Improve Your Resume / Coverletter
+          - generic [ref=e544]:
+            - heading "Company" [level=4] [ref=e545]
+            - list [ref=e546]:
+              - listitem [ref=e547]:
+                - link "Post Job" [ref=e548] [cursor=pointer]:
+                  - /url: /jobs/plans
+                  - generic [ref=e550]: Post Job
+              - listitem [ref=e551]:
+                - link "Hire a Talent" [ref=e552] [cursor=pointer]:
+                  - /url: /talent-sourcing
+                  - generic [ref=e554]: Hire a Talent
+              - listitem [ref=e555]:
+                - link "Blog" [ref=e556] [cursor=pointer]:
+                  - /url: https://remote4africa.com/blog
+                  - generic [ref=e558]: Blog
+          - generic [ref=e559]:
+            - heading "Support" [level=4] [ref=e560]
+            - list [ref=e561]:
+              - listitem [ref=e562]:
+                - link "Contact Us" [ref=e563] [cursor=pointer]:
+                  - /url: /contact
+                  - generic [ref=e565]: Contact Us
+              - listitem [ref=e566]:
+                - link "FAQ" [ref=e567] [cursor=pointer]:
+                  - /url: /faq
+                  - generic [ref=e569]: FAQ
+            - link "Facebook" [ref=e570] [cursor=pointer]:
+              - /url: https://www.facebook.com/remote4africa
+              - img [ref=e571]
+            - link "Instagram" [ref=e573] [cursor=pointer]:
+              - /url: https://www.instagram.com/remote4africa
+              - img [ref=e574]
+            - link "Youtube" [ref=e576] [cursor=pointer]:
+              - /url: https://www.youtube.com/@remote4africa
+              - img [ref=e577]
+            - link "X/Twitter" [ref=e579] [cursor=pointer]:
+              - /url: https://x.com/remote4africa
+              - img [ref=e580]
+            - link "Linkedin" [ref=e582] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/remote4africa
+              - img [ref=e583]
+            - link "Telegram" [ref=e585] [cursor=pointer]:
+              - /url: https://t.me/remote4africa
+              - img [ref=e586]
+      - generic [ref=e588]:
+        - heading "Remote Jobs by Location" [level=4] [ref=e590]
+        - list [ref=e592]:
+          - listitem [ref=e593]:
+            - link "Cameroon" [ref=e594] [cursor=pointer]:
+              - /url: /remote-jobs/cm
+              - generic [ref=e598]: Cameroon
+        - list [ref=e600]:
+          - listitem [ref=e601]:
+            - link "Egypt" [ref=e602] [cursor=pointer]:
+              - /url: /remote-jobs/eg
+              - generic [ref=e606]: Egypt
+        - list [ref=e608]:
+          - listitem [ref=e609]:
+            - link "Ethiopia" [ref=e610] [cursor=pointer]:
+              - /url: /remote-jobs/et
+              - generic [ref=e614]: Ethiopia
+        - list [ref=e616]:
+          - listitem [ref=e617]:
+            - link "Ghana" [ref=e618] [cursor=pointer]:
+              - /url: /remote-jobs/gh
+              - generic [ref=e622]: Ghana
+        - list [ref=e624]:
+          - listitem [ref=e625]:
+            - link "Kenya" [ref=e626] [cursor=pointer]:
+              - /url: /remote-jobs/ke
+              - generic [ref=e630]: Kenya
+        - list [ref=e632]:
+          - listitem [ref=e633]:
+            - link "Morocco" [ref=e634] [cursor=pointer]:
+              - /url: /remote-jobs/ma
+              - generic [ref=e638]: Morocco
+        - list [ref=e640]:
+          - listitem [ref=e641]:
+            - link "Nigeria" [ref=e642] [cursor=pointer]:
+              - /url: /remote-jobs/ng
+              - generic [ref=e646]: Nigeria
+        - list [ref=e648]:
+          - listitem [ref=e649]:
+            - link "Rwanda" [ref=e650] [cursor=pointer]:
+              - /url: /remote-jobs/rw
+              - generic [ref=e654]: Rwanda
+        - list [ref=e656]:
+          - listitem [ref=e657]:
+            - link "Senegal" [ref=e658] [cursor=pointer]:
+              - /url: /remote-jobs/sn
+              - generic [ref=e662]: Senegal
+        - list [ref=e664]:
+          - listitem [ref=e665]:
+            - link "South Africa" [ref=e666] [cursor=pointer]:
+              - /url: /remote-jobs/za
+              - generic [ref=e670]: South Africa
+        - list [ref=e672]:
+          - listitem [ref=e673]:
+            - link "Tanzania" [ref=e674] [cursor=pointer]:
+              - /url: /remote-jobs/tz
+              - generic [ref=e678]: Tanzania
+        - list [ref=e680]:
+          - listitem [ref=e681]:
+            - link "Uganda" [ref=e682] [cursor=pointer]:
+              - /url: /remote-jobs/ug
+              - generic [ref=e686]: Uganda
+        - button "Show all 57 countries" [ref=e688] [cursor=pointer]
+    - paragraph [ref=e689]:
+      - text: Copyright ©
+      - link "Boolean Limited" [ref=e690] [cursor=pointer]:
+        - /url: https://booleanlimited.com
+      - text: "2026."
+      - link "Terms" [ref=e691] [cursor=pointer]:
+        - /url: /terms
+      - link "Privacy" [ref=e692] [cursor=pointer]:
+        - /url: /privacy
+  - alert [ref=e693]

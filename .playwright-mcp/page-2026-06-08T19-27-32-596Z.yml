@@ -1,0 +1,417 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - figure [ref=e9]:
+          - link "Home of Automattic.com" [ref=e10] [cursor=pointer]:
+            - /url: /
+            - img "Home of Automattic.com" [ref=e11]
+        - navigation [ref=e13]:
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "Home" [ref=e16] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e17]:
+              - link "About Us" [ref=e18] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=e19]:
+              - link "News" [ref=e20] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e21]:
+              - link "Work With Us" [ref=e22] [cursor=pointer]:
+                - /url: /work-with-us/
+    - main [ref=e24]:
+      - generic [ref=e25]:
+        - navigation "Breadcrumb" [ref=e27]:
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - link "Jobs" [ref=e30] [cursor=pointer]:
+                - /url: /jobs/
+              - text: /
+            - listitem [ref=e31]:
+              - generic [ref=e32]: Experienced Software Engineer
+        - heading "Experienced Software Engineer" [level=2] [ref=e33]
+        - generic [ref=e34]:
+          - generic [ref=e36]:
+            - paragraph [ref=e37]:
+              - text: WordPress doesn’t try to keep its users inside walled gardens, a rare thing in a world that is dangerously moving away from the open web. Instead, WordPress gives them the freedom to build a business website, an online store, or a personal blog – the way they like it. Big sites or small, using the community-run
+              - link "open source project" [ref=e38] [cursor=pointer]:
+                - /url: https://wordpress.org/
+              - text: or Automattic’s
+              - link "WordPress.com" [ref=e39] [cursor=pointer]:
+                - /url: https://wordpress.com/
+              - text: ", vanilla or customized with hundreds of plugins, WordPress users always get to own and control their data, their expression, and their freedom."
+            - paragraph [ref=e40]: We’re always looking for talented and experienced engineers worldwide, excited to help Automattic’s product ecosystem, and join our mission to make the web a better place.
+            - paragraph [ref=e41]:
+              - strong [ref=e42]: What have we worked on recently?
+            - list [ref=e43]:
+              - listitem [ref=e44]:
+                - text: AI is at the heart of many
+                - link "new product developments" [ref=e45] [cursor=pointer]:
+                  - /url: https://wordpress.com/ai-website-builder/
+                - text: and powers a lot of our day-to-day development workflows.
+              - listitem [ref=e46]:
+                - link "WooCommerce" [ref=e47] [cursor=pointer]:
+                  - /url: https://woocommerce.com/
+                - text: is the most popular and most flexible e-commerce platform on the web. We’re working tirelessly on giving you all the control, while keeping the platform fast and stable.
+              - listitem [ref=e48]:
+                - link "Gutenberg" [ref=e49] [cursor=pointer]:
+                  - /url: https://wordpress.org/gutenberg/
+                - text: is a new block-level editor for WordPress with clean abstractions for users, too, not just developers.
+              - listitem [ref=e50]:
+                - link "Tumblr" [ref=e51] [cursor=pointer]:
+                  - /url: https://www.tumblr.com
+                - text: is a microblogging social network where users create, share, and follow what they love.
+              - listitem [ref=e52]:
+                - text: To view more of our recent work, check out our longer product list on
+                - link "Automattic.com" [ref=e53] [cursor=pointer]:
+                  - /url: https://automattic.com/
+                - text: .
+            - paragraph [ref=e54]:
+              - strong [ref=e55]: How do we work?
+            - list [ref=e56]:
+              - listitem [ref=e57]:
+                - text: We’re
+                - link "kind to each other" [ref=e58] [cursor=pointer]:
+                  - /url: https://automattic.com/creed/help-a-colleague/
+                - text: and our users – we build a positive, supportive, and inclusive culture of cohesive teams focused on building useful products for our customers.
+              - listitem [ref=e59]:
+                - text: We work as a global and distributed workforce resulting in a unique way of working built around
+                - link "our creed" [ref=e60] [cursor=pointer]:
+                  - /url: https://automattic.com/creed
+                - text: .
+              - listitem [ref=e61]: We offer flexible work arrangements allowing our team members to work when they feel best.
+              - listitem [ref=e62]:
+                - text: We open-source! We’re cool with
+                - link "open-sourcing" [ref=e63] [cursor=pointer]:
+                  - /url: https://github.com/Automattic
+                - text: everything except passwords, or secret keys.
+              - listitem [ref=e64]:
+                - text: We ship often,
+                - link "deploying many" [ref=e65] [cursor=pointer]:
+                  - /url: https://automattic.com/about/
+                - text: times daily with the help of peer code review, continuous integration, and our global workforce in over 70 countries.
+              - listitem [ref=e66]: We welcome collaboration, and you can be involved in any discussion across our many communication channels.
+              - listitem [ref=e67]: We encourage you to learn and develop and we support you with what you need – covering expenses, easy internal mobility, coaching.
+            - paragraph [ref=e68]:
+              - strong [ref=e69]: "Enough about us, let‘s talk more about you. Working at Automattic might be a good fit if:"
+            - list [ref=e70]:
+              - listitem [ref=e71]: You care and often obsess over the quality and the details of your work.
+              - listitem [ref=e72]: Debugging any problem is a fun challenge and not a chore.
+              - listitem [ref=e73]: Understanding the layers of abstraction below and above your work isn’t something extra, but how you operate.
+              - listitem [ref=e74]: You have production experience with several programming languages, frameworks, and paradigms. We mostly use PHP and JavaScript at Automattic, we expect you to be comfortable with the idea of becoming an expert in these languages, even if being one isn’t a requirement to apply.
+              - listitem [ref=e75]: In your mind abstraction is associated as much with cost as it is with value.
+              - listitem [ref=e76]: You have experience working at scale – it can be on the backend and performance side, or via the complexity of interacting with a multi-million diverse userbase.
+              - listitem [ref=e77]: Are open and able to travel 3-4 weeks per year to meet up with your teammates in person.
+            - paragraph [ref=e78]: These are exciting times at Automattic and you’ll have a unique opportunity to shape the future of our products. Join us! We look forward to hearing from you.
+            - paragraph [ref=e79]:
+              - emphasis [ref=e80]: Curious who works in engineering at Automattic?
+              - link "Meet our Code Wranglers" [ref=e81] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?list=PLQFhxUeNFfdLVtK-tsuAZbDa4a-LqFZlx&v=jyhYkuuzL_0
+                - emphasis [ref=e82]: Meet our Code Wranglers
+              - emphasis [ref=e83]: – Brandon, Jeremy, Mark, Jennifer, Roy and Kat!
+            - paragraph [ref=e84]:
+              - strong [ref=e85]: "What to Expect:"
+            - paragraph [ref=e86]:
+              - text: We know applying to jobs can be stressful and we want to ease the stress by giving clear expectations upfront about our process. We’ve outlined
+              - link "everything you need to know here" [ref=e87] [cursor=pointer]:
+                - /url: https://automattic.com/how-we-hire/
+              - text: including all of the steps in the process as well as how we approach hiring.
+            - paragraph [ref=e88]: Please note that we are paying extra attention to your answers to the questions in the application form. They are a significant part of the hiring process, and we will review them just like we would review any other step of the hiring process. We’re always iterating so if you happen to join us in the process, please feel free to offer feedback on what else we can include there!
+            - paragraph [ref=e89]:
+              - strong [ref=e90]: "Salary range: $70,000-$170,000 USD."
+              - text: Please note that salary ranges are global, regardless of location, and we pay in local currency.
+            - paragraph [ref=e91]: We are searching for high-caliber candidates with the skills and qualities to have a net positive for Automattic. Pay will reflect the potential contribution and the impact you can bring, which may, in some cases, go beyond the range stated.
+            - paragraph [ref=e92]:
+              - text: "We’re pleased to offer a straightforward, competitive base salary, providing financial clarity without complex variable components. This isn’t your typical work-from-home job: we are a fully-remote company with an open vacation policy. To see a full list of benefits by country, consult our"
+              - link "Benefits Page" [ref=e93] [cursor=pointer]:
+                - /url: https://automattic.com/benefits/
+              - text: . And check out these links to learn more about
+              - link "How We Hire" [ref=e94] [cursor=pointer]:
+                - /url: https://automattic.com/how-we-hire/
+              - text: and
+              - link "What We Expect from Ourselves" [ref=e95] [cursor=pointer]:
+                - /url: https://automattic.com/expectations/
+              - text: ". #LI-Remote"
+            - generic [ref=e97]:
+              - paragraph [ref=e98]:
+                - strong [ref=e99]: About Automattic
+              - paragraph [ref=e100]:
+                - text: Now in
+                - link "our 20th year" [ref=e101] [cursor=pointer]:
+                  - /url: https://timeline.automattic.com/
+                - text: ", we’re the people behind"
+                - link "WordPress.com" [ref=e102] [cursor=pointer]:
+                  - /url: http://wordpress.com/
+                - text: ","
+                - link "WooCommerce" [ref=e103] [cursor=pointer]:
+                  - /url: https://href.li/?http://woocommerce.com/
+                - text: ","
+                - link "Beeper" [ref=e104] [cursor=pointer]:
+                  - /url: https://www.beeper.com/
+                - text: ","
+                - link "Tumblr" [ref=e105] [cursor=pointer]:
+                  - /url: https://href.li/?https://www.tumblr.com/
+                - text: ","
+                - link "Simplenote" [ref=e106] [cursor=pointer]:
+                  - /url: https://href.li/?http://simplenote.com/
+                - text: ","
+                - link "Jetpack" [ref=e107] [cursor=pointer]:
+                  - /url: https://href.li/?http://jetpack.com/
+                - text: ","
+                - link "Longreads" [ref=e108] [cursor=pointer]:
+                  - /url: https://href.li/?http://longreads.com/
+                - text: ","
+                - link "Day One" [ref=e109] [cursor=pointer]:
+                  - /url: https://href.li/?https://dayoneapp.com/
+                - text: ","
+                - link "PocketCasts" [ref=e110] [cursor=pointer]:
+                  - /url: https://href.li/?https://www.pocketcasts.com/
+                - text: ", and more. We believe in making the web a better place."
+              - paragraph [ref=e111]: "We’re a distributed company with more than 1500 Automatticians in nearly every corner of the globe, speaking over a hundred different languages. Enriched by this diversity, we’re united by a singular mission: to democratize publishing, commerce, and messaging so anyone with a story can tell it, anyone with a product can sell it, and everyone can manage their communications from a single source. In short, we help maintain a balance in society, creating and continually refining powerful tools people can use to compete fairly—regardless of income, gender, politics, language, or where they live in the world."
+              - paragraph [ref=e112]:
+                - link "We believe in Open Source" [ref=e113] [cursor=pointer]:
+                  - /url: https://github.com/Automattic
+                - text: ", and the vast majority of our work is available under the"
+                - link "GPL" [ref=e114] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/GNU_General_Public_License
+                - text: . Automattic is a
+                - link "Most Loved Company" [ref=e115] [cursor=pointer]:
+                  - /url: https://mostlovedworkplace.com/companies/automattic-inc/
+                - text: ", an Equal Opportunity employer, and"
+                - link "Disability Confident Committed" [ref=e116] [cursor=pointer]:
+                  - /url: https://disabilityconfident.campaign.gov.uk/
+                - text: . (
+                - link "Here’s what that might mean for you" [ref=e117] [cursor=pointer]:
+                  - /url: https://happinessengineer.blog/2022/09/08/happiness-for-everyone-working-with-a-disability-at-automattic/
+                - text: .) If you need disability-related accommodations during the application or interview process, please
+                - link "fill out this form" [ref=e118] [cursor=pointer]:
+                  - /url: https://automattic.com/disability-related-accommodation-request/
+                - text: . We are committed to ensuring an accessible hiring process for all candidates. Learn more about our
+                - link "Employee Resource Groups" [ref=e119] [cursor=pointer]:
+                  - /url: https://automattic.com/automattician-resource-groups/
+                - text: .
+              - paragraph [ref=e120]:
+                - text: You can track your application status and more at
+                - link "MyGreenhouse" [ref=e121] [cursor=pointer]:
+                  - /url: https://my.greenhouse.io/users/sign_in
+                - text: .
+              - paragraph [ref=e122]:
+                - text: To learn about how we handle your data, please review our
+                - link "Privacy Policy" [ref=e123] [cursor=pointer]:
+                  - /url: https://automattic.com/privacy/
+                - text: .
+              - paragraph [ref=e124]:
+                - emphasis [ref=e125]: "All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. View the “Know Your Rights: Workplace Discrimination is Illegal” poster"
+                - link "here" [ref=e126] [cursor=pointer]:
+                  - /url: https://automattic.wordpress.com/wp-content/uploads/2026/03/22-088_eeoc_knowyourrights6.12.pdf
+                  - emphasis [ref=e127]: here
+                - emphasis [ref=e128]: . Automattic participates in the
+                - link "E-Verify program" [ref=e129] [cursor=pointer]:
+                  - /url: https://automattic.wordpress.com/wp-content/uploads/2026/03/e-verify_participation_poster_eng_es.pdf
+                  - emphasis [ref=e130]: E-Verify program
+                - emphasis [ref=e131]: in certain locations, as required by law
+                - text: .
+          - generic [ref=e134]:
+            - heading "Job Details" [level=3] [ref=e135]
+            - generic [ref=e136]: Multiple
+            - heading "Category" [level=4] [ref=e137]
+            - generic [ref=e139]: Engineering
+            - link "Apply Now" [ref=e140] [cursor=pointer]:
+              - /url: "#application_form"
+        - generic [ref=e142]:
+          - text: Application form
+          - generic [ref=e143]:
+            - generic [ref=e144]: First Name *
+            - textbox "First Name *" [ref=e145]
+          - generic [ref=e146]:
+            - generic [ref=e147]: Last Name *
+            - textbox "Last Name *" [ref=e148]
+          - generic [ref=e149]:
+            - generic [ref=e150]: Preferred First Name
+            - textbox "Preferred First Name" [ref=e151]
+          - generic [ref=e152]:
+            - generic [ref=e153]: Email *
+            - textbox "Email *" [ref=e154]
+          - generic [ref=e155]:
+            - generic [ref=e156]: Phone *
+            - textbox "Phone *" [ref=e157]
+          - generic [ref=e158]:
+            - generic [ref=e159]: Location *
+            - combobox [ref=e160]
+            - combobox "Type your state/country..." [ref=e163] [cursor=pointer]:
+              - textbox [ref=e164]
+          - generic [ref=e165]:
+            - generic [ref=e166]: "Resume/CV (File types: pdf, doc, docx, txt, rtf)"
+            - button "Upload your resume" [ref=e167] [cursor=pointer]
+          - generic [ref=e169]: Let us know more about you.
+          - generic [ref=e170]:
+            - paragraph [ref=e171]: We’re not just hiring for skills – we’re looking for experienced engineers who care about their craft, think deeply about how they work, and are motivated by meaningful problems.
+            - paragraph [ref=e172]: The questions below are designed to help us get to know you – not just what you’ve done, but how you think, what drives you, and where you do your best work. While they take some time to answer, we read every response carefully and take them seriously.
+            - list [ref=e173]:
+              - listitem [ref=e174]:
+                - strong [ref=e175]: You don’t need to write essays
+                - text: – two or three thoughtful paragraphs per question is usually more than enough.
+              - listitem [ref=e176]:
+                - strong [ref=e177]: Your audience is other experienced engineers
+                - text: ", so feel free to write in a way that reflects that. Be yourself, and answer in whatever format feels most natural to you."
+              - listitem [ref=e178]:
+                - strong [ref=e179]: We don’t require a résumé, and we don’t expect one
+                - text: . If you’d like to include one, feel free – but strong answers to these questions will carry the most weight in our evaluation.
+            - paragraph [ref=e180]: Thank you!
+          - generic [ref=e181]:
+            - generic [ref=e182]:
+              - text: What’s motivating you to explore an engineering role at Automattic and why now? *
+              - paragraph [ref=e184]:
+                - emphasis [ref=e185]:
+                  - subscript [ref=e186]:
+                    - text: We’d love to hear specifics — about how we work, what we build, or
+                    - link "our creed" [ref=e188] [cursor=pointer]:
+                      - /url: https://automattic.com/creed
+                    - text: — that make Automattic a good fit for you and your goals.
+            - textbox "What’s motivating you to explore an engineering role at Automattic and why now? * We’d love to hear specifics — about how we work, what we build, or our creed — that make Automattic a good fit for you and your goals." [ref=e189]
+          - generic [ref=e190]:
+            - generic [ref=e191]:
+              - text: Tell us about a project or piece of work you’re especially proud of (from any point in your career). *
+              - paragraph [ref=e193]:
+                - emphasis [ref=e194]:
+                  - subscript [ref=e195]: What was your role, and what were you personally responsible for? What technical decisions, trade-offs, and challenges made it interesting, and how did you navigate them?
+            - textbox "Tell us about a project or piece of work you’re especially proud of (from any point in your career). * What was your role, and what were you personally responsible for? What technical decisions, trade-offs, and challenges made it interesting, and how did you navigate them?" [ref=e196]
+          - generic [ref=e197]:
+            - generic [ref=e198]:
+              - text: How has AI changed your work — if at all? *
+              - paragraph [ref=e200]:
+                - emphasis [ref=e201]:
+                  - subscript [ref=e202]: Specifics about your workflow and tooling are more useful than general opinions about where AI is headed — including how you decide when to use AI and when not to.
+            - textbox "How has AI changed your work — if at all? * Specifics about your workflow and tooling are more useful than general opinions about where AI is headed — including how you decide when to use AI and when not to." [ref=e203]
+          - generic [ref=e204]:
+            - generic [ref=e205]:
+              - text: What’s an idea, book, blog post, or talk that recently changed how you think about your craft? *
+              - paragraph [ref=e207]:
+                - subscript [ref=e208]:
+                  - emphasis [ref=e209]: What is it? How did it change the way you build, collaborate, or make decisions?
+            - textbox "What’s an idea, book, blog post, or talk that recently changed how you think about your craft? * What is it? How did it change the way you build, collaborate, or make decisions?" [ref=e210]
+          - generic [ref=e211]:
+            - generic [ref=e212]:
+              - text: What’s a controversial or unpopular opinion you hold about software engineering, and why? *
+              - paragraph [ref=e214]:
+                - emphasis [ref=e215]:
+                  - subscript [ref=e216]: This could be about tools, practices, philosophies — anything where your take might challenge conventional wisdom. We’re interested in how you think, not whether we agree.
+            - textbox "What’s a controversial or unpopular opinion you hold about software engineering, and why? * This could be about tools, practices, philosophies — anything where your take might challenge conventional wisdom. We’re interested in how you think, not whether we agree." [ref=e217]
+          - generic [ref=e218]:
+            - generic [ref=e219]:
+              - text: Is there anything else you’d like us to know?
+              - paragraph [ref=e221]:
+                - emphasis [ref=e222]:
+                  - subscript [ref=e223]: This is your space. Maybe there’s context about your background that doesn’t fit neatly into the questions above, something you’re working on that you’re excited about, a constraint we should know about, or just something you think would help us understand you better.
+            - textbox "Is there anything else you’d like us to know? This is your space. Maybe there’s context about your background that doesn’t fit neatly into the questions above, something you’re working on that you’re excited about, a constraint we should know about, or just something you think would help us understand you better." [ref=e224]
+          - generic [ref=e225]:
+            - generic [ref=e226]: Please, follow the instructions at https://public-api.wordpress.com/wpcom/v2/work-with-us and paste the value of the secret here. *
+            - textbox "Please, follow the instructions at https://public-api.wordpress.com/wpcom/v2/work-with-us and paste the value of the secret here. *" [ref=e227]
+          - generic [ref=e228]:
+            - generic [ref=e229]:
+              - text: Would you like to share any links to your work or relevant social media profiles?
+              - paragraph [ref=e231]:
+                - emphasis [ref=e232]:
+                  - subscript [ref=e233]: This could be a GitHub, LinkedIn, personal site, blog, specific projects – anything that helps us get to know you and your work better.
+            - textbox "Would you like to share any links to your work or relevant social media profiles? This could be a GitHub, LinkedIn, personal site, blog, specific projects – anything that helps us get to know you and your work better." [ref=e234]
+          - generic [ref=e235]:
+            - generic [ref=e236]: How did you hear about this role? *
+            - combobox [ref=e237]
+            - combobox "Please select" [ref=e240] [cursor=pointer]:
+              - textbox "Please select" [ref=e241]
+          - generic [ref=e242]:
+            - generic [ref=e243]:
+              - text: Can you tell us more about the option you selected above?
+              - paragraph [ref=e245]:
+                - subscript [ref=e246]:
+                  - emphasis [ref=e247]: We’d love to know if you were referred by an Automattic employee, by a recruiter, or any other details you’d like to share about how you became interested in joining Automattic.
+            - textbox "Can you tell us more about the option you selected above? We’d love to know if you were referred by an Automattic employee, by a recruiter, or any other details you’d like to share about how you became interested in joining Automattic." [ref=e248]
+          - generic [ref=e249]:
+            - generic [ref=e250]:
+              - text: Have you reviewed the compensation details (salary range) provided in the job description above? *
+              - subscript [ref=e253]:
+                - emphasis [ref=e254]:
+                  - link "Read more about our compensation philosophy here." [ref=e255] [cursor=pointer]:
+                    - /url: https://automattic.com/compensation/
+            - combobox [ref=e256]
+            - combobox "Please select" [ref=e259] [cursor=pointer]:
+              - textbox "Please select" [ref=e260]
+          - generic [ref=e261]:
+            - generic [ref=e262]: Please indicate your salary expectation for this role. *
+            - textbox "Please indicate your salary expectation for this role. *" [ref=e263]
+          - button "Submit application" [ref=e265] [cursor=pointer]
+      - generic [ref=e267]:
+        - heading "Not finding the right opportunity?" [level=3] [ref=e268]
+        - paragraph [ref=e269]: Check out our interest forms and register your details. We are always open to talented people who would like to join Automattic.
+        - link "Get in touch" [ref=e272] [cursor=pointer]:
+          - /url: /work-with-us/job/join-automattics-extraordinary-talent-community/#application_form
+    - contentinfo [ref=e273]:
+      - generic [ref=e274]:
+        - generic [ref=e275]:
+          - generic [ref=e277]:
+            - navigation "Footer" [ref=e279]:
+              - list [ref=e280]:
+                - listitem [ref=e281]:
+                  - link "Field Guide" [ref=e282] [cursor=pointer]:
+                    - /url: https://automattic.com/fieldguide/
+                - listitem [ref=e283]:
+                  - link "Contact" [ref=e284] [cursor=pointer]:
+                    - /url: https://automattic.com/contact/
+              - list [ref=e285]:
+                - listitem [ref=e286]:
+                  - link "Press" [ref=e287] [cursor=pointer]:
+                    - /url: https://automattic.com/press/
+                - listitem [ref=e288]:
+                  - link "Meet" [ref=e289] [cursor=pointer]:
+                    - /url: https://meetomattic.com/
+                - listitem [ref=e290]:
+                  - link "Privacy" [ref=e291] [cursor=pointer]:
+                    - /url: https://automattic.com/privacy/
+            - list [ref=e293]:
+              - listitem [ref=e294]:
+                - link "X" [ref=e295] [cursor=pointer]:
+                  - /url: https://x.com/automattic
+                  - img [ref=e296]
+                  - generic [ref=e298]: X
+              - listitem [ref=e299]:
+                - link "Facebook" [ref=e300] [cursor=pointer]:
+                  - /url: https://www.facebook.com/AutomatticInc/
+                  - img [ref=e301]
+                  - generic [ref=e303]: Facebook
+              - listitem [ref=e304]:
+                - link "YouTube" [ref=e305] [cursor=pointer]:
+                  - /url: https://www.youtube.com/c/automattic
+                  - img [ref=e306]
+                  - generic [ref=e308]: YouTube
+              - listitem [ref=e309]:
+                - link "LinkedIn" [ref=e310] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/automattic/
+                  - img [ref=e311]
+                  - generic [ref=e313]: LinkedIn
+          - navigation "2" [ref=e315]:
+            - list [ref=e316]:
+              - listitem [ref=e317]:
+                - link "Home" [ref=e318] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e319]:
+                - link "About Us" [ref=e320] [cursor=pointer]:
+                  - /url: /about/
+              - listitem [ref=e321]:
+                - link "News" [ref=e322] [cursor=pointer]:
+                  - /url: /news/
+              - listitem [ref=e323]:
+                - link "Work With Us" [ref=e324] [cursor=pointer]:
+                  - /url: /work-with-us/
+        - paragraph [ref=e326]:
+          - emphasis [ref=e327]: © Automattic Inc., purveyors of fine blogging and site-building services since 2005. Thank you for your time.
+  - list [ref=e329]:
+    - listitem [ref=e330]:
+      - link "Subscribe" [ref=e331] [cursor=pointer]:
+        - /url: ""
+        - img [ref=e332]
+        - text: Subscribe
+    - listitem [ref=e334] [cursor=pointer]:
+      - img [ref=e335]
