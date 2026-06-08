@@ -17,7 +17,11 @@
       "WebFetch(domain:careers.ghost.org)",
       "WebFetch(domain:hookdeck.com)",
       "WebFetch(domain:doist.com)",
-      "WebFetch(domain:www.storyblok.com)"
+      "WebFetch(domain:www.storyblok.com)",
+      "WebFetch(domain:www.unkey.com)",
+      "WebFetch(domain:documenso.com)",
+      "WebFetch(domain:formbricks.com)",
+      "WebFetch(domain:www.redpanda.com)"
     ]
   }
 }
