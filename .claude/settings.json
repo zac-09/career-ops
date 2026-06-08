@@ -7,7 +7,12 @@
       "Bash(printf '%s\\\\t2026-06-02\\\\t%s\\\\t%s\\\\t%s\\\\tadded\\\\n' https://jobs.ashbyhq.com/checkly/bf265e14-fd7b-47a7-a964-f9ba151d7807 'Tracked — Checkly' 'Staff Software Engineer - Infrastructure' Checkly)",
       "Bash(printf '%s\\\\t2026-06-02\\\\t%s\\\\t%s\\\\t%s\\\\tskipped_title\\\\n' https://himalayas.app/companies/hostaway/jobs/senior-backend-engineer-booking-platform-100-remote-emea 'WebSearch — EMEA Remote' 'Senior Backend Engineer, Booking Platform \\(PHP/Go primary\\)' Hostaway)",
       "WebFetch(domain:www.myjobmag.co.ke)",
-      "WebFetch(domain:api.ashbyhq.com)"
+      "WebFetch(domain:api.ashbyhq.com)",
+      "WebFetch(domain:posthog.com)",
+      "WebFetch(domain:medusajs.com)",
+      "WebFetch(domain:close.com)",
+      "WebFetch(domain:www.appwrite.careers)",
+      "WebFetch(domain:careers.novu.co)"
     ]
   }
 }
