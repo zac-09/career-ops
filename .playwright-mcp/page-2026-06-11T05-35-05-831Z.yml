@@ -1,0 +1,770 @@
+- generic [active] [ref=e1]:
+  - region "Notifications alt+T"
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=e3]:
+    - navigation "Main" [ref=e4]:
+      - link "Himalayas Himalayas logo" [ref=e6] [cursor=pointer]:
+        - /url: /jobs
+        - img "Himalayas" [ref=e7]
+        - generic [ref=e8]: Himalayas logo
+      - generic [ref=e9]:
+        - link "Sign up" [ref=e10] [cursor=pointer]:
+          - /url: /signup
+          - generic [ref=e11]: Sign up
+        - button "Menu" [ref=e12] [cursor=pointer]:
+          - img [ref=e13]
+  - main [ref=e15]:
+    - generic [ref=e17]:
+      - generic [ref=e19]: DW
+      - generic [ref=e20]:
+        - heading "Staff Software Engineer" [level=1] [ref=e21]
+        - button [ref=e23] [cursor=pointer]:
+          - img [ref=e24]
+      - paragraph
+      - link "Dwelly" [ref=e27] [cursor=pointer]:
+        - /url: /companies/dwelly
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - generic [ref=e31]:
+          - generic [ref=e32]:
+            - insertion [ref=e34]
+            - generic [ref=e36]:
+              - img [ref=e37]
+              - generic [ref=e39]:
+                - paragraph [ref=e40]: Stay safe on Himalayas
+                - paragraph [ref=e41]: Never send money to companies. Jobs on Himalayas will never require payment from applicants.
+            - article [ref=e42]:
+              - heading "About Dwelly" [level=3] [ref=e43]:
+                - text: About
+                - link "Dwelly" [ref=e44] [cursor=pointer]:
+                  - /url: https://himalayas.app/companies/dwelly
+              - paragraph [ref=e45]:
+                - link "Dwelly" [ref=e46] [cursor=pointer]:
+                  - /url: https://himalayas.app/companies/dwelly
+                - text: "— a UK-based, AI-enabled lettings and property management platform, that is growing through a roll-up strategy acquiring estate agencies. The company leverages two arms: i) acquiring existing letting agencies, effectively buying its highly sticky, recurring revenue-type landlords portfolios, and then ii) building a top-notch technology to automate tenant management, payments, and post-rental property maintenance. The company seamlessly integrates AI services to automate all business processes within brick-and-mortar real estate agencies, integrating them into a tech-enabled digital letting platform in two months to radically improve the user experiences and increase efficiency of the business."
+              - paragraph [ref=e47]: We’re a fast-growing, product-focused company, backed by top-tier investors and led by a team with deep experience in real estate, technology, and operations.
+              - heading "Position Summary" [level=3] [ref=e48]
+              - paragraph [ref=e49]: We’re looking for a Staff Software Engineer to join one of our core domain teams — Tenant Find, Property Management, or Payments. This is a high-impact role at the intersection of business, product, architecture, and hands-on execution. You will be expected to understand how the domain works in practice, identify the highest-leverage opportunities for automation, shape the solution, and drive it through to production. You will work in a small, high-ownership team where exceptional engineers can have disproportionate impact. This role requires advanced day-to-day use of AI and LLMs as part of exploring problems, evaluating solution paths, accelerating implementation, and designing automation systems.
+              - heading "Key Responsibilities" [level=3] [ref=e50]
+              - list [ref=e51]:
+                - listitem [ref=e52]:
+                  - strong [ref=e53]: Deep domain understanding
+                  - text: Gain a deep understanding of your assigned domain (Tenant Find, Property Management, or Payments) and identify the highest-leverage opportunities for automation. Understand real operational workflows, including legacy processes, manual work, local exceptions, and agency-specific variations. Determine what should be standardized and what should remain flexible while designing robust, scalable solutions.
+                - listitem [ref=e54]:
+                  - strong [ref=e55]: Automation and AI-driven systems
+                  - text: Design, implement, and maintain systems that automate manual processes across acquired agencies. Apply advanced AI and agentic techniques pragmatically to improve decision quality, operational efficiency, and team leverage. Ensure automation reduces operational load, improves reliability, and enhances business margins.
+                - listitem [ref=e56]:
+                  - strong [ref=e57]: Product and architectural collaboration
+                  - text: Partner closely with product managers to frame problems, define solutions, and prioritize initiatives. Make architectural decisions grounded in operational reality rather than abstract models. Contribute to moving the system and the people around it toward better outcomes, balancing flexibility, scalability, and reliability.
+                - listitem [ref=e58]:
+                  - strong [ref=e59]: End-to-end ownership and impact
+                  - text: Take full responsibility for outcomes, not just implementation. Deliver projects from concept to production rollout, continuously improving processes. Influence the overall direction of your domain, shape automation strategy, and materially improve business economics.
+              - heading "Qualifications and Preferred Background" [level=3] [ref=e60]
+              - list [ref=e61]:
+                - listitem [ref=e62]: Strong engineering background with experience independently delivering complex systems from idea to production
+                - listitem [ref=e63]: Solid experience with Node.js + TypeScript and React + TypeScript
+                - listitem [ref=e64]: Familiarity with modern TypeScript patterns, tRPC, Drizzle, and SQL (MySQL/Postgres), or ability to ramp up quickly
+                - listitem [ref=e65]: Ability to design architectures for fast-changing products with real operational constraints
+                - listitem [ref=e66]: High autonomy, ownership, and comfort making decisions under ambiguity
+                - listitem [ref=e67]: Product judgment and the ability to connect technical decisions to business outcomes
+                - listitem [ref=e68]: Strong understanding of the modern AI landscape and agentic workflows, with pragmatic application beyond hype
+                - listitem [ref=e69]: Experience in end-to-end delivery in domains with fragmented legacy workflows and operational complexity
+                - listitem [ref=e70]: Strong communication skills and fluency in English
+                - listitem [ref=e71]: Higher degree education
+                - listitem [ref=e72]: "Startup mentality: resilience, adaptability, and ability to thrive in a fast-paced environment"
+                - listitem [ref=e73]: "Customer-centric mindset: focus on delivering value to end-users or clients"
+                - listitem [ref=e74]: Strong problem-solving skills – ability to approach challenges logically and propose practical solutions
+              - heading "Compensation and benefits" [level=3] [ref=e75]
+              - list [ref=e76]:
+                - listitem [ref=e77]: The role is fully remote, providing flexibility and enabling seamless collaboration with our geographically distributed team
+                - listitem [ref=e78]: Competitive salary with the potential for equity options based on performance, recognising exceptional contributions to our integration success
+              - heading "What is it like being a Dwell-er" [level=3] [ref=e79]
+              - paragraph [ref=e80]:
+                - text: Feel free to check out
+                - link:
+                  - /url: https://docsend.com/view/7v8gwrjaky7mn895
+                - link "Dwelly" [ref=e81] [cursor=pointer]:
+                  - /url: https://himalayas.app/companies/dwelly
+                - text: Core Principles. That’s about what we believe in, how we operate and make decisions
+              - paragraph [ref=e82]: What we offer is not a fancy office or a static workplace. Instead, this is solving one of the world’s most complex problems in the largest consumer industry in the world (residential rentals), to improve the experience for over 30% of households (more than 5 million in the UK, and over 100 million including EU and US) that live in rental homes
+              - paragraph [ref=e83]: This is about disrupting the largest, most antiquated industry in the world, with one of the strongest operational and technical teams that exist in the UK and the EU. We work hard, and we shoot for extremely ambitious results. But we want people to be proud of what they’ve built and be able to look back and say one day “hell yeah, that was me that did it all”
+              - list [ref=e84]:
+                - listitem [ref=e85]: Customer obsession rather than competitive focus
+                - listitem [ref=e86]: Passion for invention
+                - listitem [ref=e87]: Operational excellence
+                - listitem [ref=e88]: Long-term thinking
+              - paragraph [ref=e90]: By applying for this position, you consent to the processing and storage of your personal data for recruitment purposes for up to 365 days, in accordance with our data retention policy and applicable data protection laws.
+            - generic [ref=e91]:
+              - heading "About the job" [level=2] [ref=e92]
+              - generic [ref=e93]:
+                - generic [ref=e94]:
+                  - heading "Apply before" [level=3] [ref=e95]
+                  - time [ref=e96]: Jul 09, 2026
+                - generic [ref=e97]:
+                  - heading "Posted on" [level=3] [ref=e98]
+                  - time [ref=e99]: Apr 10, 2026
+                - generic [ref=e100]:
+                  - heading "Job type" [level=3] [ref=e101]
+                  - link "Full Time" [ref=e102] [cursor=pointer]:
+                    - /url: /jobs/full-time
+                - generic [ref=e103]:
+                  - heading "Experience level" [level=3] [ref=e104]
+                  - link "Senior" [ref=e106] [cursor=pointer]:
+                    - /url: /jobs/senior
+              - generic [ref=e107]:
+                - generic [ref=e108]:
+                  - generic [ref=e109]:
+                    - heading "Location requirements" [level=3] [ref=e110]
+                    - generic [ref=e111]:
+                      - button "Suggest an edit" [ref=e112] [cursor=pointer]
+                      - button [ref=e113] [cursor=pointer]:
+                        - img [ref=e114]
+                  - paragraph [ref=e117]: Open to candidates from all countries.
+                - generic [ref=e118]:
+                  - generic [ref=e119]:
+                    - heading "Hiring timezones" [level=3] [ref=e120]
+                    - generic [ref=e121]:
+                      - button "Show UTC offsets" [ref=e122] [cursor=pointer]
+                      - button [ref=e123] [cursor=pointer]:
+                        - img [ref=e124]
+                  - generic [ref=e128]:
+                    - img [ref=e129]
+                    - text: Worldwide
+              - generic [ref=e133]:
+                - generic [ref=e134]:
+                  - heading "Job categories" [level=3] [ref=e135]
+                  - generic [ref=e136]:
+                    - link "Fullstack Development" [ref=e137] [cursor=pointer]:
+                      - /url: /jobs/fullstack-development
+                      - generic [ref=e139]: Fullstack Development
+                    - link "Staff Software Engineer" [ref=e140] [cursor=pointer]:
+                      - /url: /jobs/staff-software-engineer
+                      - generic [ref=e142]: Staff Software Engineer
+                    - link "Product Engineering" [ref=e143] [cursor=pointer]:
+                      - /url: /jobs/product-engineering
+                      - generic [ref=e145]: Product Engineering
+                    - link "Software Architecture" [ref=e146] [cursor=pointer]:
+                      - /url: /jobs/software-architecture
+                      - generic [ref=e148]: Software Architecture
+                    - link "Product Tech" [ref=e149] [cursor=pointer]:
+                      - /url: /jobs/product---tech
+                      - generic [ref=e151]: Product Tech
+                - generic [ref=e152]:
+                  - heading "Skills" [level=3] [ref=e153]
+                  - generic [ref=e154]:
+                    - link "TypeScript" [ref=e155] [cursor=pointer]:
+                      - /url: /jobs/typescript
+                      - generic [ref=e157]: TypeScript
+                    - link "React" [ref=e158] [cursor=pointer]:
+                      - /url: /jobs/react
+                      - generic [ref=e160]: React
+                    - link "tRPC" [ref=e161] [cursor=pointer]:
+                      - /url: /jobs/trpc
+                      - generic [ref=e163]: tRPC
+                    - link "SQL" [ref=e164] [cursor=pointer]:
+                      - /url: /jobs/sql
+                      - generic [ref=e166]: SQL
+                    - link "MySQL" [ref=e167] [cursor=pointer]:
+                      - /url: /jobs/mysql
+                      - generic [ref=e169]: MySQL
+                    - link "& AI" [ref=e170] [cursor=pointer]:
+                      - /url: /jobs/&-ai
+                      - generic [ref=e172]: "& AI"
+                    - link "LLM" [ref=e173] [cursor=pointer]:
+                      - /url: /jobs/llm
+                      - generic [ref=e175]: LLM
+                    - link "Automation" [ref=e176] [cursor=pointer]:
+                      - /url: /jobs/automation
+                      - generic [ref=e178]: Automation
+                    - link "Software Architecture" [ref=e179] [cursor=pointer]:
+                      - /url: /jobs/software-architecture
+                      - generic [ref=e181]: Software Architecture
+                    - link "Product Management" [ref=e182] [cursor=pointer]:
+                      - /url: /jobs/product-management
+                      - generic [ref=e184]: Product Management
+                    - link "AI Agents" [ref=e185] [cursor=pointer]:
+                      - /url: /jobs/ai-agents
+                      - generic [ref=e187]: AI Agents
+                    - link "Agentic" [ref=e188] [cursor=pointer]:
+                      - /url: /jobs/agentic
+                      - generic [ref=e190]: Agentic
+                    - link "Check" [ref=e191] [cursor=pointer]:
+                      - /url: /jobs/check
+                      - generic [ref=e193]: Check
+                    - link "Increase" [ref=e194] [cursor=pointer]:
+                      - /url: /jobs/increase
+                      - generic [ref=e196]: Increase
+                    - link "Make" [ref=e197] [cursor=pointer]:
+                      - /url: /jobs/make
+                      - generic [ref=e199]: Make
+                    - link "Rollout" [ref=e200] [cursor=pointer]:
+                      - /url: /jobs/rollout
+                      - generic [ref=e202]: Rollout
+                    - link "NodeJS" [ref=e203] [cursor=pointer]:
+                      - /url: /jobs/nodejs
+                      - generic [ref=e205]: NodeJS
+                    - link "Remote" [ref=e206] [cursor=pointer]:
+                      - /url: /jobs/-remote
+                      - generic [ref=e208]: Remote
+              - generic [ref=e209]:
+                - heading "Browse similar jobs" [level=3] [ref=e210]
+                - generic [ref=e211]:
+                  - link "Remote Senior Fullstack-Development Jobs" [ref=e212] [cursor=pointer]:
+                    - /url: /jobs/senior-fullstack-development
+                  - link "Remote Full Time Fullstack-Development Jobs" [ref=e213] [cursor=pointer]:
+                    - /url: /jobs/full-time-fullstack-development
+          - article [ref=e214]:
+            - generic [ref=e215]:
+              - generic [ref=e216]:
+                - generic [ref=e217]:
+                  - heading "About Dwelly" [level=2] [ref=e218]
+                  - paragraph [ref=e219]: Learn more about Dwelly and their company culture.
+                - link "View company profile" [ref=e220] [cursor=pointer]:
+                  - /url: /companies/dwelly
+              - article
+        - navigation "Breadcrumbs" [ref=e221]:
+          - list [ref=e222]:
+            - listitem [ref=e223]:
+              - link "Himalayas" [ref=e224] [cursor=pointer]:
+                - link "Himalayas" [ref=e225]:
+                  - /url: /
+              - img [ref=e227]
+            - listitem [ref=e229]:
+              - link "Remote companies" [ref=e230] [cursor=pointer]:
+                - link "Remote companies" [ref=e231]:
+                  - /url: /companies
+              - img [ref=e233]
+            - listitem [ref=e235]:
+              - link "Dwelly" [ref=e236] [cursor=pointer]:
+                - link "Dwelly" [ref=e237]:
+                  - /url: /companies/dwelly
+              - img [ref=e239]
+            - listitem [ref=e241]:
+              - link "Staff Software Engineer" [disabled] [ref=e242]
+      - generic [ref=e244]:
+        - link "Claim this profile" [ref=e245] [cursor=pointer]:
+          - /url: /signup/recruit
+        - link "DW Dwelly" [ref=e246] [cursor=pointer]:
+          - /url: /companies/dwelly
+          - generic [ref=e248]: DW
+          - heading "Dwelly" [level=2] [ref=e250]
+        - link "View company profile" [ref=e251] [cursor=pointer]:
+          - /url: /companies/dwelly
+    - generic [ref=e253]:
+      - generic [ref=e254]:
+        - generic [ref=e255]:
+          - heading "Similar remote jobs" [level=2] [ref=e256]
+          - paragraph [ref=e257]: Here are other jobs you might want to apply for.
+        - link "View all remote jobs" [ref=e258] [cursor=pointer]:
+          - /url: /jobs
+      - generic [ref=e259]:
+        - generic [ref=e260] [cursor=pointer]:
+          - link "View job" [ref=e261]:
+            - /url: /companies/cocoon/jobs/software-engineer
+            - generic [ref=e262]: View job
+          - generic [ref=e263]:
+            - generic [ref=e264]:
+              - generic [ref=e266]:
+                - img "Cocoon logo" [ref=e267]
+                - generic [ref=e268]: CO
+              - link "Software Engineer" [ref=e269]:
+                - /url: /companies/cocoon/jobs/software-engineer
+                - heading "Software Engineer" [level=3] [ref=e270]
+              - link "Cocoon" [ref=e271]:
+                - /url: /companies/cocoon
+              - generic [ref=e272]:
+                - paragraph [ref=e273]:
+                  - img [ref=e274]
+                  - generic [ref=e276]: "Employee count:"
+                  - text: 51-200
+                - paragraph [ref=e277]:
+                  - generic [ref=e278]: "Salary:"
+                  - img [ref=e279]
+                  - text: $170K – $170K per year
+            - generic [ref=e284]:
+              - generic [ref=e285]: Full Time
+              - link "Engineering" [ref=e286]:
+                - /url: /jobs/engineering
+                - generic [ref=e288]: Engineering
+        - generic [ref=e289] [cursor=pointer]:
+          - link "View job" [ref=e290]:
+            - /url: /companies/apiphani/jobs/senior-software-engineer-ai-llms
+            - generic [ref=e291]: View job
+          - generic [ref=e292]:
+            - generic [ref=e293]:
+              - generic [ref=e295]:
+                - img "apiphani logo" [ref=e296]
+                - generic [ref=e297]: AP
+              - link "Senior Software Engineer (AI / LLMs)" [ref=e298]:
+                - /url: /companies/apiphani/jobs/senior-software-engineer-ai-llms
+                - heading "Senior Software Engineer (AI / LLMs)" [level=3] [ref=e299]
+              - link "apiphani" [ref=e300]:
+                - /url: /companies/apiphani
+              - generic [ref=e301]:
+                - paragraph [ref=e302]:
+                  - img [ref=e303]
+                  - generic [ref=e305]: "Employee count:"
+                  - text: 51-200
+                - paragraph [ref=e306]:
+                  - generic [ref=e307]: "Salary:"
+                  - img [ref=e308]
+                  - text: $120K – $160K per year
+            - generic [ref=e313]:
+              - generic [ref=e314]: Full Time
+              - link "Software Engineering" [ref=e315]:
+                - /url: /jobs/software-engineering
+                - generic [ref=e317]: Software Engineering
+        - generic [ref=e318] [cursor=pointer]:
+          - link "View job" [ref=e319]:
+            - /url: /companies/known/jobs/software-engineer
+            - generic [ref=e320]: View job
+          - generic [ref=e321]:
+            - generic [ref=e322]:
+              - generic [ref=e324]:
+                - img "Known logo" [ref=e325]
+                - generic [ref=e326]: KN
+              - link "Software Engineer" [ref=e327]:
+                - /url: /companies/known/jobs/software-engineer
+                - heading "Software Engineer" [level=3] [ref=e328]
+              - link "Known" [ref=e329]:
+                - /url: /companies/known
+              - generic [ref=e330]:
+                - paragraph [ref=e331]:
+                  - img [ref=e332]
+                  - generic [ref=e334]: "Employee count:"
+                  - text: 201-500
+                - paragraph [ref=e335]:
+                  - generic [ref=e336]: "Salary:"
+                  - img [ref=e337]
+                  - text: $100K – $130K per year
+            - generic [ref=e342]:
+              - generic [ref=e343]: Full Time
+              - link "Software Engineering" [ref=e344]:
+                - /url: /jobs/software-engineering
+                - generic [ref=e346]: Software Engineering
+        - generic [ref=e347] [cursor=pointer]:
+          - link "View job" [ref=e348]:
+            - /url: /companies/jumpfactor/jobs/full-stack-developer-automation-internal-tools
+            - generic [ref=e349]: View job
+          - generic [ref=e350]:
+            - generic [ref=e351]:
+              - generic [ref=e353]:
+                - img "Jumpfactor logo" [ref=e354]
+                - generic [ref=e355]: JU
+              - link "Full Stack Developer, Automation & Internal Tools" [ref=e356]:
+                - /url: /companies/jumpfactor/jobs/full-stack-developer-automation-internal-tools
+                - heading "Full Stack Developer, Automation & Internal Tools" [level=3] [ref=e357]
+              - link "Jumpfactor" [ref=e358]:
+                - /url: /companies/jumpfactor
+              - paragraph [ref=e360]:
+                - img [ref=e361]
+                - generic [ref=e363]: "Employee count:"
+                - text: 51-200
+            - generic [ref=e366]:
+              - generic [ref=e367]: Full Time
+              - link "Backend Development" [ref=e368]:
+                - /url: /jobs/backend-development
+                - generic [ref=e370]: Backend Development
+        - generic [ref=e371] [cursor=pointer]:
+          - link "View job" [ref=e372]:
+            - /url: /companies/oec/jobs/senior-software-engineer-platform-full-stack
+            - generic [ref=e373]: View job
+          - generic [ref=e374]:
+            - generic [ref=e375]:
+              - generic [ref=e378]: OE
+              - link "Senior Software Engineer, Platform (Full Stack)" [ref=e379]:
+                - /url: /companies/oec/jobs/senior-software-engineer-platform-full-stack
+                - heading "Senior Software Engineer, Platform (Full Stack)" [level=3] [ref=e380]
+              - link "OEC" [ref=e381]:
+                - /url: /companies/oec
+            - generic [ref=e385]:
+              - generic [ref=e386]: Full Time
+              - link "Software Engineering" [ref=e387]:
+                - /url: /jobs/software-engineering
+                - generic [ref=e389]: Software Engineering
+        - generic [ref=e390] [cursor=pointer]:
+          - link "View job" [ref=e391]:
+            - /url: /companies/becu/jobs/staff-software-developer-ai-innovation-team
+            - generic [ref=e392]: View job
+          - generic [ref=e393]:
+            - generic [ref=e394]:
+              - generic [ref=e396]:
+                - img "BECU logo" [ref=e397]
+                - generic [ref=e398]: BE
+              - link "Staff Software Developer - AI Innovation Team" [ref=e399]:
+                - /url: /companies/becu/jobs/staff-software-developer-ai-innovation-team
+                - heading "Staff Software Developer - AI Innovation Team" [level=3] [ref=e400]
+              - link "BECU" [ref=e401]:
+                - /url: /companies/becu
+              - generic [ref=e402]:
+                - paragraph [ref=e403]:
+                  - img [ref=e404]
+                  - generic [ref=e406]: "Employee count:"
+                  - text: 501-1000
+                - paragraph [ref=e407]:
+                  - generic [ref=e408]: "Salary:"
+                  - img [ref=e409]
+                  - text: $172K – $210K per year
+            - generic [ref=e414]:
+              - generic [ref=e415]: Full Time
+              - link "Software Development" [ref=e416]:
+                - /url: /jobs/software-development
+                - generic [ref=e418]: Software Development
+    - generic [ref=e420]:
+      - generic [ref=e421]:
+        - generic [ref=e422]:
+          - heading "7 remote jobs at Dwelly" [level=2] [ref=e423]
+          - paragraph [ref=e424]: Explore the variety of open remote roles at Dwelly, offering flexible work options across multiple disciplines and skill levels.
+        - link "View all jobs at Dwelly" [ref=e425] [cursor=pointer]:
+          - /url: /companies/dwelly/jobs
+      - generic [ref=e426]:
+        - generic [ref=e427] [cursor=pointer]:
+          - link "View job" [ref=e428]:
+            - /url: /companies/dwelly/jobs/marketing-communications-coordinator
+            - generic [ref=e429]: View job
+          - generic [ref=e430]:
+            - generic [ref=e431]:
+              - generic [ref=e432]:
+                - generic [ref=e434]: DW
+                - generic [ref=e435]:
+                  - img "gb" [ref=e436]
+                  - text: United Kingdom only
+              - link "Marketing Communications Coordinator" [ref=e437]:
+                - /url: /companies/dwelly/jobs/marketing-communications-coordinator
+                - heading "Marketing Communications Coordinator" [level=3] [ref=e438]
+              - link "Dwelly" [ref=e439]:
+                - /url: /companies/dwelly
+            - generic [ref=e443]:
+              - generic [ref=e444]: Full Time
+              - link "Marketing Communications" [ref=e445]:
+                - /url: /jobs/marketing-communications
+                - generic [ref=e447]: Marketing Communications
+        - generic [ref=e448] [cursor=pointer]:
+          - link "View job" [ref=e449]:
+            - /url: /companies/dwelly/jobs/data-analyst
+            - generic [ref=e450]: View job
+          - generic [ref=e451]:
+            - generic [ref=e452]:
+              - generic [ref=e455]: DW
+              - link "Data Analyst" [ref=e456]:
+                - /url: /companies/dwelly/jobs/data-analyst
+                - heading "Data Analyst" [level=3] [ref=e457]
+              - link "Dwelly" [ref=e458]:
+                - /url: /companies/dwelly
+            - generic [ref=e462]:
+              - generic [ref=e463]: Full Time
+              - link "Data Analysis" [ref=e464]:
+                - /url: /jobs/data-analysis
+                - generic [ref=e466]: Data Analysis
+        - generic [ref=e467] [cursor=pointer]:
+          - link "View job" [ref=e468]:
+            - /url: /companies/dwelly/jobs/founding-people-operations-lead
+            - generic [ref=e469]: View job
+          - generic [ref=e470]:
+            - generic [ref=e471]:
+              - generic [ref=e472]:
+                - generic [ref=e474]: DW
+                - generic [ref=e475]:
+                  - img "gb" [ref=e476]
+                  - text: United Kingdom only
+              - link "Founding People Operations Lead" [ref=e477]:
+                - /url: /companies/dwelly/jobs/founding-people-operations-lead
+                - heading "Founding People Operations Lead" [level=3] [ref=e478]
+              - link "Dwelly" [ref=e479]:
+                - /url: /companies/dwelly
+            - generic [ref=e483]:
+              - generic [ref=e484]: Full Time
+              - link "Human Resources" [ref=e485]:
+                - /url: /jobs/human-resources
+                - generic [ref=e487]: Human Resources
+        - generic [ref=e488] [cursor=pointer]:
+          - link "View job" [ref=e489]:
+            - /url: /companies/dwelly/jobs/operations-talent-partner-high-volume
+            - generic [ref=e490]: View job
+          - generic [ref=e491]:
+            - generic [ref=e492]:
+              - generic [ref=e493]:
+                - generic [ref=e495]: DW
+                - generic [ref=e496]:
+                  - img "us" [ref=e497]
+                  - text: United States only
+              - link "Operations Talent Partner (High-Volume)" [ref=e498]:
+                - /url: /companies/dwelly/jobs/operations-talent-partner-high-volume
+                - heading "Operations Talent Partner (High-Volume)" [level=3] [ref=e499]
+              - link "Dwelly" [ref=e500]:
+                - /url: /companies/dwelly
+            - generic [ref=e504]:
+              - generic [ref=e505]: Full Time
+              - link "Talent Acquisition" [ref=e506]:
+                - /url: /jobs/talent-acquisition
+                - generic [ref=e508]: Talent Acquisition
+        - generic [ref=e509] [cursor=pointer]:
+          - link "View job" [ref=e510]:
+            - /url: /companies/dwelly/jobs/telecommunication-engineer
+            - generic [ref=e511]: View job
+          - generic [ref=e512]:
+            - generic [ref=e513]:
+              - generic [ref=e514]:
+                - generic [ref=e516]: DW
+                - generic [ref=e517]:
+                  - img "gb" [ref=e518]
+                  - text: United Kingdom only
+              - link "Telecommunication Engineer" [ref=e519]:
+                - /url: /companies/dwelly/jobs/telecommunication-engineer
+                - heading "Telecommunication Engineer" [level=3] [ref=e520]
+              - link "Dwelly" [ref=e521]:
+                - /url: /companies/dwelly
+            - generic [ref=e525]:
+              - generic [ref=e526]: Full Time
+              - link "Telecommunications engineering" [ref=e527]:
+                - /url: /jobs/telecommunications-engineering
+                - generic [ref=e529]: Telecommunications engineering
+        - generic [ref=e530] [cursor=pointer]:
+          - link "View job" [ref=e531]:
+            - /url: /companies/dwelly/jobs/it-support-engineer
+            - generic [ref=e532]: View job
+          - generic [ref=e533]:
+            - generic [ref=e534]:
+              - generic [ref=e535]:
+                - generic [ref=e537]: DW
+                - generic [ref=e538]:
+                  - img "au" [ref=e539]
+                  - text: AU, CA + 6 more
+              - link "IT Support Engineer" [ref=e540]:
+                - /url: /companies/dwelly/jobs/it-support-engineer
+                - heading "IT Support Engineer" [level=3] [ref=e541]
+              - link "Dwelly" [ref=e542]:
+                - /url: /companies/dwelly
+            - generic [ref=e546]:
+              - generic [ref=e547]: Full Time
+              - link "IT Support" [ref=e548]:
+                - /url: /jobs/it-support
+                - generic [ref=e550]: IT Support
+    - generic [ref=e554]:
+      - generic [ref=e555]:
+        - generic [ref=e556]:
+          - heading "Find your dream job" [level=2] [ref=e557]
+          - paragraph [ref=e558]: Sign up now and join over 250,000+ remote workers who receive personalized job alerts, curated job matches, and more for free!
+        - generic [ref=e559]:
+          - button "Sign up with Google" [ref=e560] [cursor=pointer]:
+            - img [ref=e561]
+            - text: Sign up with Google
+          - link "Sign up" [ref=e567] [cursor=pointer]:
+            - /url: /signup/talent
+      - img "Himalayas profile for an example user named Frankie Sullivan" [ref=e569]
+    - generic [ref=e571]:
+      - link "Save" [ref=e572] [cursor=pointer]:
+        - /url: /signup/talent?action=save-job:dwelly:staff-software-engineer
+      - link "Apply now" [ref=e573] [cursor=pointer]:
+        - /url: /signup/talent?redirect=%2Fcompanies%2Fdwelly%2Fjobs%2Fstaff-software-engineer%3FshowModal%3Dtrue
+  - contentinfo [ref=e574]:
+    - generic [ref=e576]:
+      - generic [ref=e577]:
+        - img [ref=e578]
+        - paragraph [ref=e582]:
+          - text: We contribute 1% of every payment to remove CO₂
+          - generic [ref=e583]: from the atmosphere
+          - text: with
+          - link "Stripe Climate" [ref=e584] [cursor=pointer]:
+            - /url: https://climate.stripe.com/cywqrI
+          - text: .
+      - link "Our pledge" [ref=e585] [cursor=pointer]:
+        - /url: https://climate.stripe.com/cywqrI
+    - generic [ref=e587]:
+      - link "Himalayas Himalayas logo" [ref=e588] [cursor=pointer]:
+        - /url: /jobs
+        - img "Himalayas" [ref=e589]
+        - generic [ref=e590]: Himalayas logo
+      - link "hi@himalayas.app" [ref=e591] [cursor=pointer]:
+        - /url: mailto:hi@himalayas.app
+      - generic [ref=e592]:
+        - generic [ref=e593]:
+          - link "Facebook" [ref=e594] [cursor=pointer]:
+            - /url: https://www.facebook.com/himalayasapp
+            - img [ref=e595]
+            - generic [ref=e597]: Facebook
+          - link "LinkedIn" [ref=e598] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/himalayasapp
+            - img [ref=e599]
+            - generic [ref=e601]: LinkedIn
+        - generic [ref=e602]:
+          - link "Download on the App Store" [ref=e603] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/himalayas-8aa0ce/id6746706574?itscg=30200&itsct=apps_box_badge&mttnsubad=6746706574
+            - img "Download on the App Store" [ref=e604]
+          - link "Get it on Google Play" [ref=e605] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=app.himalayas.twa&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
+            - img "Get it on Google Play" [ref=e606]
+      - generic [ref=e607]:
+        - generic [ref=e608]:
+          - paragraph [ref=e609]: Himalayas
+          - link "About us" [ref=e610] [cursor=pointer]:
+            - /url: /companies/himalayas
+          - link "Himalayas Plus" [ref=e611] [cursor=pointer]:
+            - /url: /plus
+          - link "Community" [ref=e612] [cursor=pointer]:
+            - /url: /community
+          - link "Docs" [ref=e613] [cursor=pointer]:
+            - /url: /docs
+          - link "Tech stack" [ref=e614] [cursor=pointer]:
+            - /url: /companies/himalayas/tech-stack
+          - link "Employee benefits" [ref=e615] [cursor=pointer]:
+            - /url: /companies/himalayas/benefits
+          - link "Terms and conditions" [ref=e616] [cursor=pointer]:
+            - /url: /terms
+          - link "Privacy policy" [ref=e617] [cursor=pointer]:
+            - /url: /privacy
+          - link "Contact us" [ref=e618] [cursor=pointer]:
+            - /url: mailto:hi@himalayas.app
+        - generic [ref=e619]:
+          - paragraph [ref=e620]: For job seekers
+          - link "Create your profile" [ref=e621] [cursor=pointer]:
+            - /url: /signup/talent
+          - link "Browse remote jobs" [ref=e622] [cursor=pointer]:
+            - /url: /jobs
+          - link "Discover remote companies" [ref=e623] [cursor=pointer]:
+            - /url: /companies
+          - link "Job description keyword finder" [ref=e624] [cursor=pointer]:
+            - /url: /job-description-keyword-finder
+          - link "Remote work advice" [ref=e625] [cursor=pointer]:
+            - /url: /advice
+          - link "Career guides" [ref=e626] [cursor=pointer]:
+            - /url: /career-guides
+          - link "Job application tracker" [ref=e627] [cursor=pointer]:
+            - /url: /job-application-tracker
+          - link "AI resume builder" [ref=e628] [cursor=pointer]:
+            - /url: /ai-resume-builder
+          - link "Resume examples and templates" [ref=e629] [cursor=pointer]:
+            - /url: /resumes
+          - link "AI cover letter generator" [ref=e630] [cursor=pointer]:
+            - /url: /ai-cover-letter-generator
+          - link "Cover letter examples" [ref=e631] [cursor=pointer]:
+            - /url: /cover-letters
+          - link "AI headshot generator" [ref=e632] [cursor=pointer]:
+            - /url: /ai-headshot-generator
+          - link "AI interview prep" [ref=e633] [cursor=pointer]:
+            - /url: /ai-interview
+          - link "Interview questions and answers" [ref=e634] [cursor=pointer]:
+            - /url: /interview-questions
+          - link "AI interview answer generator" [ref=e635] [cursor=pointer]:
+            - /url: /interview-answer-generator
+          - link "AI career coach" [ref=e636] [cursor=pointer]:
+            - /url: /ai-career-coach
+          - link "Free resume builder" [ref=e637] [cursor=pointer]:
+            - /url: /free-resume-builder
+          - link "Resume summary generator" [ref=e638] [cursor=pointer]:
+            - /url: /ai-resume-summary-generator
+          - link "Resume bullet points generator" [ref=e639] [cursor=pointer]:
+            - /url: /ai-resume-bullet-points-generator
+          - link "Resume skills section generator" [ref=e640] [cursor=pointer]:
+            - /url: /ai-resume-skills-section-generator
+          - link "Remote jobs RSS" [ref=e641] [cursor=pointer]:
+            - /url: /rss
+          - link "Remote jobs widget" [ref=e642] [cursor=pointer]:
+            - /url: /free-remote-jobs-widget
+          - link "Community rewards" [ref=e643] [cursor=pointer]:
+            - /url: /rewards
+        - generic [ref=e644]:
+          - paragraph [ref=e645]: For companies
+          - link "Post a remote job" [ref=e646] [cursor=pointer]:
+            - /url: /post
+          - link "Job description generator" [ref=e647] [cursor=pointer]:
+            - /url: /job-description-generator
+          - link "Job description templates" [ref=e648] [cursor=pointer]:
+            - /url: /job-descriptions
+          - link "Interview question generator" [ref=e649] [cursor=pointer]:
+            - /url: /interview-question-generator
+          - link "Remote talent marketplace" [ref=e650] [cursor=pointer]:
+            - /url: /talent
+          - link "Create a company profile" [ref=e651] [cursor=pointer]:
+            - /url: /signup/recruit
+          - link "Add your tech stack" [ref=e652] [cursor=pointer]:
+            - /url: /signup/recruit
+          - link "Share employee benefits" [ref=e653] [cursor=pointer]:
+            - /url: /signup/recruit
+          - link "Pricing" [ref=e654] [cursor=pointer]:
+            - /url: /pricing
+          - link "Advertise" [ref=e655] [cursor=pointer]:
+            - /url: /advertise
+        - generic [ref=e656]:
+          - paragraph [ref=e657]: AI & Agents
+          - link "Remote jobs API" [ref=e658] [cursor=pointer]:
+            - /url: /api
+          - link "Remote jobs MCP server" [ref=e659] [cursor=pointer]:
+            - /url: /mcp
+          - link "AI job search" [ref=e660] [cursor=pointer]:
+            - /url: /docs/ai-agents
+          - link "AI recruitment" [ref=e661] [cursor=pointer]:
+            - /url: /docs/hire-with-ai
+          - link "Agentic job search" [ref=e662] [cursor=pointer]:
+            - /url: /docs/ai-agents
+          - link "Agentic hiring" [ref=e663] [cursor=pointer]:
+            - /url: /docs/how-to-hire-remote-employees
+        - generic [ref=e664]:
+          - paragraph [ref=e665]: Remote work statistics
+          - link "Remote salaries" [ref=e666] [cursor=pointer]:
+            - /url: /salaries
+          - link "Top remote job categories" [ref=e667] [cursor=pointer]:
+            - /url: /remote-work-statistics/jobs/categories
+          - link "Top remote job skills" [ref=e668] [cursor=pointer]:
+            - /url: /remote-work-statistics/jobs/skills
+          - link "Top countries for remote jobs" [ref=e669] [cursor=pointer]:
+            - /url: /remote-work-statistics/jobs/countries
+          - link "Top industries for remote jobs" [ref=e670] [cursor=pointer]:
+            - /url: /remote-work-statistics/jobs/industries
+          - link "Top countries for remote companies" [ref=e671] [cursor=pointer]:
+            - /url: /remote-work-statistics/companies/countries
+          - link "Top industries for remote companies" [ref=e672] [cursor=pointer]:
+            - /url: /remote-work-statistics/companies/industries
+        - generic [ref=e673]:
+          - paragraph [ref=e674]: Other tools
+          - link "Job search checklist" [ref=e675] [cursor=pointer]:
+            - /url: /job-search-checklist
+          - link "Job application checklist" [ref=e676] [cursor=pointer]:
+            - /url: /job-application-checklist
+          - link "Resume checklist" [ref=e677] [cursor=pointer]:
+            - /url: /resume-checklist
+          - link "Cover letter checklist" [ref=e678] [cursor=pointer]:
+            - /url: /cover-letter-checklist
+          - link "Interview preparation checklist" [ref=e679] [cursor=pointer]:
+            - /url: /interview-preparation-checklist
+          - link "Salary negotiation checklist" [ref=e680] [cursor=pointer]:
+            - /url: /salary-negotiation-checklist
+          - link "Transferable skills checklist" [ref=e681] [cursor=pointer]:
+            - /url: /transferable-skills-checklist
+          - link "LinkedIn headline generator" [ref=e682] [cursor=pointer]:
+            - /url: /linkedin-headline-generator
+          - link "Resignation letter generator" [ref=e683] [cursor=pointer]:
+            - /url: /ai-resignation-letter-generator
+          - link "Letter of recommendation generator" [ref=e684] [cursor=pointer]:
+            - /url: /ai-letter-of-recommendation-generator
+        - generic [ref=e685]:
+          - paragraph [ref=e686]: Directories
+          - link "People" [ref=e687] [cursor=pointer]:
+            - /url: /talent/people
+      - generic [ref=e688]:
+        - generic [ref=e689]:
+          - paragraph [ref=e690]: Join the remote work revolution
+          - paragraph [ref=e691]: Himalayas is the best remote job board. Join over 250,000+ job seekers finding remote jobs at top companies worldwide.
+        - generic [ref=e692]:
+          - button "Sign up with Google" [ref=e693] [cursor=pointer]:
+            - img [ref=e694]
+            - text: Sign up with Google
+          - link "Sign up" [ref=e700] [cursor=pointer]:
+            - /url: /signup
+      - generic [ref=e701]:
+        - paragraph [ref=e702]:
+          - text: © 2026 Himalayas. All rights reserved. Build your own job board with
+          - link "Cavuno" [ref=e703] [cursor=pointer]:
+            - /url: https://cavuno.com
+          - text: . Built with
+          - link "Untitled UI" [ref=e704] [cursor=pointer]:
+            - /url: https://untitledui.com
+          - text: . Logos provided by
+          - link "Logo.dev" [ref=e705] [cursor=pointer]:
+            - /url: https://logo.dev
+        - button "Language" [ref=e706] [cursor=pointer]:
+          - img [ref=e707]
+          - text: English
+          - img [ref=e709]
+  - alert [ref=e711]
