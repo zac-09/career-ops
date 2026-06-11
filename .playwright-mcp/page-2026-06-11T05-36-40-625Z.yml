@@ -1,0 +1,108 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Sticker Mule" [ref=e6] [cursor=pointer]:
+        - /url: https://www.stickermule.com/
+        - img "Sticker Mule" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Sticker Mule’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /stickermule
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Software engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Remote
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Remote
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Development
+        - generic [ref=e29]:
+          - heading "Compensation" [level=2] [ref=e30]
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - generic [ref=e33]: $150K – $250K • $20k signing bonus
+      - generic [ref=e34]:
+        - tablist [ref=e35]:
+          - tab "Overview" [selected] [ref=e36] [cursor=pointer]
+          - tab "Application" [ref=e37] [cursor=pointer]
+        - tabpanel "Overview" [ref=e39]:
+          - generic [ref=e40]:
+            - paragraph [ref=e41]: Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors.
+            - paragraph [ref=e42]
+            - heading "How we work" [level=2] [ref=e44]:
+              - strong [ref=e45]: How we work
+            - list [ref=e46]:
+              - listitem [ref=e47]:
+                - paragraph [ref=e48]: Small, autonomous teams that own products end-to-end.
+              - listitem [ref=e49]:
+                - paragraph [ref=e50]: Prioritize what matters right now and pivot instantly when needed.
+              - listitem [ref=e51]:
+                - paragraph [ref=e52]: Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP.
+              - listitem [ref=e53]:
+                - paragraph [ref=e54]: Use AI aggressively to push the limit of what we can do.
+              - listitem [ref=e55]:
+                - paragraph [ref=e56]: Move fast, build for the masses, and deprioritize edge cases.
+              - listitem [ref=e57]:
+                - paragraph [ref=e58]: Fully remote from 40+ countries and collaborate using Asana and Slack.
+            - heading "Requirements" [level=2] [ref=e60]:
+              - strong [ref=e61]: Requirements
+            - list [ref=e62]:
+              - listitem [ref=e63]:
+                - paragraph [ref=e64]: You are an exceptional full-stack software engineer.
+              - listitem [ref=e65]:
+                - paragraph [ref=e66]: You use AI aggressively and write well in English.
+                - paragraph [ref=e67]
+            - heading "What you will work on" [level=2] [ref=e68]:
+              - strong [ref=e69]: What you will work on
+            - paragraph [ref=e70]:
+              - text: You'll help build and scale
+              - strong [ref=e71]: Sticker Mule Pro
+              - text: "- a suite of software tools for creators and businesses:"
+            - list [ref=e72]:
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: Stores (Shopify alternative)
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: AI tools (internal and customer-facing)
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Notify (Mailchimp alternative)
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Reply (Zendesk alternative)
+              - listitem [ref=e81]:
+                - paragraph [ref=e82]: Hire Me (Contra alternative)
+              - listitem [ref=e83]:
+                - paragraph [ref=e84]: Mobile apps
+            - heading "Compensation" [level=2] [ref=e86]:
+              - strong [ref=e87]: Compensation
+            - list [ref=e88]:
+              - listitem [ref=e89]:
+                - paragraph [ref=e90]: "Salary: $150,000–$250,000 USD"
+              - listitem [ref=e91]:
+                - paragraph [ref=e92]: $20,000 signing bonus
+              - listitem [ref=e93]:
+                - paragraph [ref=e94]: 4 weeks vacation + country-specific holidays
+              - listitem [ref=e95]:
+                - paragraph [ref=e96]: Fully remote
+          - link "Apply for this Job" [ref=e97] [cursor=pointer]:
+            - /url: /stickermule/6db27241-e2d4-4f35-a2c4-b58d84621843/application
+            - button "Apply for this Job" [ref=e98]
+  - contentinfo [ref=e99]:
+    - link "Learn more about Ashby" [ref=e100] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e101]: Powered by
+      - img "Ashby" [ref=e102]
+    - paragraph [ref=e108]:
+      - link "Privacy Policy" [ref=e109] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e110] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e111] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure
