@@ -1,0 +1,271 @@
+- generic [ref=e2]:
+  - link "Skip to content" [ref=e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e5]:
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - link "Bitfinex logo Homepage" [ref=e14] [cursor=pointer]:
+          - /url: /
+          - img "Bitfinex logo" [ref=e15]
+          - generic [ref=e16]: Homepage
+        - link "Bitfinex logo Homepage" [ref=e17] [cursor=pointer]:
+          - /url: /
+          - img "Bitfinex logo" [ref=e18]
+          - generic [ref=e19]: Homepage
+      - navigation [ref=e21]:
+        - list [ref=e22]:
+          - listitem [ref=e23]:
+            - link "How we hire?" [ref=e24] [cursor=pointer]:
+              - /url: /how-we-hire
+          - listitem [ref=e25]:
+            - link "linkedin" [ref=e26] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/bitfinex/
+              - generic:
+                - img
+          - listitem [ref=e27]:
+            - link "facebook" [ref=e28] [cursor=pointer]:
+              - /url: https://www.facebook.com/bitfinex
+              - generic:
+                - img
+          - listitem [ref=e29]:
+            - link "twitter" [ref=e30] [cursor=pointer]:
+              - /url: https://x.com/bitfinex
+              - generic:
+                - img
+          - listitem [ref=e31]:
+            - link "instagram" [ref=e32] [cursor=pointer]:
+              - /url: https://www.instagram.com/bitfinex
+              - generic:
+                - img
+          - listitem [ref=e33]:
+            - link "Open Roles" [ref=e35] [cursor=pointer]:
+              - /url: /
+    - main [ref=e36]:
+      - generic [ref=e43]:
+        - heading "Shape the future of global finance" [level=1] [ref=e53]:
+          - strong [ref=e56]: Shape the future of
+          - strong [ref=e60]: global finance
+        - article [ref=e64]:
+          - paragraph [ref=e67]:
+            - generic [ref=e69]: Work alongside Bitcoin pioneers. Move fast, own your impact, and build infrastructure that empowers millions worldwide.
+      - generic [ref=e77]:
+        - group "Carousel" [ref=e78]:
+          - list [ref=e79]:
+            - listitem "1 of 6" [ref=e80]
+            - listitem "2 of 6" [ref=e84]
+            - listitem "3 of 6" [ref=e88]
+            - listitem "4 of 6" [ref=e92]
+            - listitem "5 of 6" [ref=e96]
+            - listitem "6 of 6" [ref=e100]
+        - button "Previous slide" [ref=e104] [cursor=pointer]:
+          - generic:
+            - img
+        - button "Next slide" [ref=e105] [cursor=pointer]:
+          - generic:
+            - img
+      - generic [ref=e112]:
+        - generic [ref=e121]:
+          - heading "What values we stand for" [level=2] [ref=e122]:
+            - generic [ref=e124]: What values we stand for
+          - paragraph [ref=e125]:
+            - generic [ref=e128]: Working at Bitfinex is an opportunity to directly contribute to the evolution of the cryptocurrencies market and impact millions of people worldwide. It’s a chance to be part of something amazing.
+        - generic [ref=e131]:
+          - generic [ref=e135]:
+            - heading "Sense of Ownership" [level=3] [ref=e136]
+            - paragraph [ref=e140]:
+              - generic [ref=e142]: You are accountable and recognised for your work, leading a project from conception to launch.
+          - generic [ref=e146]:
+            - heading "Team Player" [level=3] [ref=e147]
+            - paragraph [ref=e151]:
+              - generic [ref=e153]: We work quickly and collaboratively in the best interests of the team, encouraging and helping each other.
+          - generic [ref=e157]:
+            - heading "High Performance" [level=3] [ref=e158]
+            - paragraph [ref=e162]:
+              - generic [ref=e165]: Being results-driven, we work fast and achieve the most significant impact without compromising quality.
+          - generic [ref=e169]:
+            - heading "Passion" [level=3] [ref=e170]
+            - paragraph [ref=e174]:
+              - generic [ref=e177]: We share the passion for achieving the Bitfinex vision and want to make a difference.
+          - generic [ref=e181]:
+            - heading "Positivity" [level=3] [ref=e182]
+            - paragraph [ref=e186]:
+              - generic [ref=e188]: We’re always positive and intended to inspire others to overcome any tough challenges. Whatever happens - we rise and shine brighter together.
+          - generic [ref=e192]:
+            - heading "Community Oriented" [level=3] [ref=e193]
+            - paragraph [ref=e197]:
+              - generic [ref=e199]: Paying attention to details and understanding users' needs, we are committed to being a steward to the community and deliver the best services.
+      - generic [ref=e206]:
+        - heading "Featured jobs" [level=2] [ref=e216]:
+          - generic [ref=e219]: Featured jobs
+        - generic [ref=e224]:
+          - generic [ref=e226]:
+            - heading "Filters" [level=2] [ref=e228]
+            - generic [ref=e229]:
+              - searchbox "Enter search query to filter offers by" [ref=e231]
+              - button "Select departments to filter offers by" [ref=e234] [cursor=pointer]:
+                - generic [ref=e235]:
+                  - generic [ref=e236]: All departments
+                  - generic:
+                    - img
+              - button "Select countries to filter offers by" [ref=e239] [cursor=pointer]:
+                - generic [ref=e240]:
+                  - generic [ref=e241]: All countries
+                  - generic:
+                    - img
+              - button "Select states/regions to filter offers by" [ref=e244] [cursor=pointer]:
+                - generic [ref=e245]:
+                  - generic [ref=e246]: All states/regions
+                  - generic:
+                    - img
+              - button "Select cities to filter offers by" [ref=e249] [cursor=pointer]:
+                - generic [ref=e250]:
+                  - generic [ref=e251]: All cities
+                  - generic:
+                    - img
+              - button "Select tags to filter offers by" [ref=e254] [cursor=pointer]:
+                - generic [ref=e255]:
+                  - generic [ref=e256]: All tags
+                  - generic:
+                    - img
+              - button "Select languages to filter offers by" [ref=e259] [cursor=pointer]:
+                - generic [ref=e260]:
+                  - generic [ref=e261]: All languages
+                  - generic:
+                    - img
+              - generic [ref=e262]:
+                - generic [ref=e263]: 6 jobs
+                - button "Share" [ref=e264] [cursor=pointer]
+          - status [ref=e266]:
+            - generic [ref=e267]:
+              - generic [ref=e270]:
+                - generic [ref=e271]:
+                  - link "Junior Risk Monitoring Analyst (100% Remote - CET Timezone)" [ref=e272] [cursor=pointer]:
+                    - /url: /o/junior-risk-monitoring-analyst-100-remote-cet-timezone
+                  - generic [ref=e274]:
+                    - generic [ref=e275]:
+                      - generic:
+                        - img
+                    - text: Remote
+                - link "View job" [ref=e277] [cursor=pointer]:
+                  - /url: /o/junior-risk-monitoring-analyst-100-remote-cet-timezone
+              - generic [ref=e280]:
+                - generic [ref=e281]:
+                  - link "Product Manager - (100% remote Worldwide)" [ref=e282] [cursor=pointer]:
+                    - /url: /o/product-manager-100-remote-worldwide
+                  - generic [ref=e284]:
+                    - generic [ref=e285]:
+                      - generic:
+                        - img
+                    - text: Remote
+                - link "View job" [ref=e287] [cursor=pointer]:
+                  - /url: /o/product-manager-100-remote-worldwide
+              - generic [ref=e290]:
+                - generic [ref=e291]:
+                  - link "Project Manager / Content Manager (100% Worldwide remote - 6 months contract with potential extension - CET Timezone)" [ref=e292] [cursor=pointer]:
+                    - /url: /o/project-manager-content-manager-100-worldwide-remote-6-months-contract-with-potential-extension-cet-timezone
+                  - generic [ref=e294]:
+                    - generic [ref=e295]:
+                      - generic:
+                        - img
+                    - text: Remote
+                - link "View job" [ref=e297] [cursor=pointer]:
+                  - /url: /o/project-manager-content-manager-100-worldwide-remote-6-months-contract-with-potential-extension-cet-timezone
+              - generic [ref=e300]:
+                - generic [ref=e301]:
+                  - link "QA Automation Engineer - (100% remote Worldwide - UTC+7/+9)" [ref=e302] [cursor=pointer]:
+                    - /url: /o/qa-automation-engineer-100-remote-worldwide-utc79
+                  - generic [ref=e304]:
+                    - generic [ref=e305]:
+                      - generic:
+                        - img
+                    - text: Remote
+                - link "View job" [ref=e307] [cursor=pointer]:
+                  - /url: /o/qa-automation-engineer-100-remote-worldwide-utc79
+              - generic [ref=e310]:
+                - generic [ref=e311]:
+                  - link "Senior Node.js Backend Developer - (100% Remote Worldwide)" [ref=e312] [cursor=pointer]:
+                    - /url: /o/senior-nodejs-backend-developer-100-remote-worldwide
+                  - generic [ref=e314]:
+                    - generic [ref=e315]:
+                      - generic:
+                        - img
+                    - text: Remote
+                - link "View job" [ref=e317] [cursor=pointer]:
+                  - /url: /o/senior-nodejs-backend-developer-100-remote-worldwide
+              - generic [ref=e320]:
+                - generic [ref=e321]:
+                  - link "Senior Product Designer - (100% remote Worldwide - CET Timezone)" [ref=e322] [cursor=pointer]:
+                    - /url: /o/senior-product-designer-100-remote-worldwide-cet-timezone
+                  - generic [ref=e324]:
+                    - generic [ref=e325]:
+                      - generic:
+                        - img
+                    - text: Remote
+                - link "View job" [ref=e327] [cursor=pointer]:
+                  - /url: /o/senior-product-designer-100-remote-worldwide-cet-timezone
+      - generic [ref=e334]:
+        - generic [ref=e343]:
+          - heading "Team Testimonials" [level=2] [ref=e344]:
+            - generic [ref=e346]: Team Testimonials
+          - paragraph [ref=e347]:
+            - generic [ref=e349]: Hear directly from our dedicated team members who contribute to our success each day.
+        - list [ref=e353]:
+          - listitem [ref=e354]:
+            - figure "Customer Support Customer Support Specialist" [ref=e355]:
+              - blockquote [ref=e356]:
+                - paragraph [ref=e359]:
+                  - generic [ref=e361]: Working in Customer Support has given me the chance to collaborate across teams, contribute to impactful projects, and continuously grow professionally. It’s a fast-paced environment where your ideas can make a real difference.
+              - generic [ref=e363]:
+                - generic [ref=e364]: Customer Support
+                - paragraph [ref=e368]:
+                  - generic [ref=e370]: Customer Support Specialist
+          - listitem [ref=e371]:
+            - figure "Compliance Compliance Investigator" [ref=e372]:
+              - blockquote [ref=e373]:
+                - paragraph [ref=e376]:
+                  - emphasis [ref=e379]: Working in Compliance has given me the opportunity to tackle complex investigations, think critically, and play a key role in managing risk. It’s a rewarding environment where every case brings new challenges and opportunities to grow.
+              - generic [ref=e381]:
+                - generic [ref=e382]: Compliance
+                - paragraph [ref=e386]:
+                  - generic [ref=e388]: Compliance Investigator
+          - listitem [ref=e389]:
+            - figure "Quality Assurance Senior QA Professional" [ref=e390]:
+              - blockquote [ref=e391]:
+                - paragraph [ref=e394]:
+                  - generic [ref=e396]: Since joining the QA team, my professional journey has been rewarding and transformative, every opportunity to grow my skills, build cross-functional relationships, and take on increasing leadership has been met with genuine trust and support.
+              - generic [ref=e398]:
+                - generic [ref=e399]: Quality Assurance
+                - paragraph [ref=e403]:
+                  - generic [ref=e405]: Senior QA Professional
+      - generic [ref=e412]:
+        - heading "Perks of working with Bitfinex" [level=2] [ref=e422]:
+          - generic [ref=e424]: Perks of working with Bitfinex
+        - generic [ref=e427]:
+          - generic [ref=e435]:
+            - heading "Remote first organisation" [level=3] [ref=e436]
+            - paragraph [ref=e440]:
+              - generic [ref=e442]: Work from anywhere. No office bias. Async-first culture. Flexible timezone.
+          - generic [ref=e450]:
+            - heading "Make a difference and take ownership!" [level=3] [ref=e451]
+            - paragraph [ref=e455]:
+              - generic [ref=e457]: Once you join us, your voice and vision matters. As we are a very lean team, you will have a chance to shape this organisation with us and grow internally too!
+          - generic [ref=e465]:
+            - heading "Payments flexibility" [level=3] [ref=e466]
+            - paragraph [ref=e470]:
+              - generic [ref=e472]: While we support majority of the larger currencies, we also support the payments in stablecoin such as USDT!
+          - generic [ref=e480]:
+            - heading "Team off-site gathering" [level=3] [ref=e481]
+            - paragraph [ref=e485]:
+              - generic [ref=e487]: An amazing 5 days business trip where you will have a chance to explore new city, people and meet your colleagues!
+          - generic [ref=e495]:
+            - heading "Flexible schedules, focused time" [level=3] [ref=e496]
+            - paragraph [ref=e500]:
+              - generic [ref=e502]: We’re mission-focused, not clock-driven. We trust you to get the job done — with room to breathe.
+          - generic [ref=e510]:
+            - heading "Stability" [level=3] [ref=e511]
+            - paragraph [ref=e515]:
+              - generic [ref=e517]: One thing that we are proud of, is that we are serious about our hires. Our average tenure ever since we were founded is 4+ years.
+    - link "Bitfinex logo Homepage" [ref=e529] [cursor=pointer]:
+      - /url: /
+      - img "Bitfinex logo" [ref=e530]
+      - generic [ref=e531]: Homepage

@@ -1,0 +1,386 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - figure [ref=e9]:
+          - link "Home of Automattic.com" [ref=e10] [cursor=pointer]:
+            - /url: /
+            - img "Home of Automattic.com" [ref=e11]
+        - navigation [ref=e13]:
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "Home" [ref=e16] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e17]:
+              - link "About Us" [ref=e18] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=e19]:
+              - link "News" [ref=e20] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e21]:
+              - link "Work With Us" [ref=e22] [cursor=pointer]:
+                - /url: /work-with-us/
+    - main [ref=e24]:
+      - generic [ref=e25]:
+        - heading "Jobs at Automattic" [level=1] [ref=e26]
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - textbox "Search jobs" [ref=e30]
+            - combobox "Filter by category" [ref=e32]:
+              - option "Category" [selected]
+              - option "Customer Success (6)"
+              - option "Sales (6)"
+              - option "Engineering (3)"
+              - option "Product (1)"
+              - option "Marketing (4)"
+              - option "Design (1)"
+              - option "Infrastructure (1)"
+              - option "Finance (1)"
+              - option "Other (1)"
+            - combobox "Filter by team" [ref=e34]:
+              - option "Team/Product" [selected]
+              - option "WooCommerce"
+              - option "WordPress.com"
+              - option "WordPress VIP"
+              - option "Automattic"
+              - option "Pressable"
+              - option "Automattic for Agencies"
+              - option "Systems"
+              - option "Newspack"
+          - generic [ref=e35]:
+            - link "Happiness Engineer – Customer Support & Success Customer Success WooCommerce WordPress.com Open position Apply Featured" [ref=e36] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/happiness-engineer-customer-support-success/
+              - generic [ref=e37]:
+                - heading "Happiness Engineer – Customer Support & Success" [level=3] [ref=e39]
+                - generic [ref=e40]:
+                  - img [ref=e41]
+                  - generic [ref=e43]: Customer Success
+                  - generic [ref=e44]: WooCommerce
+                  - generic [ref=e45]: WordPress.com
+                  - generic [ref=e46]: Open position
+              - generic [ref=e48]: Apply
+              - text: Featured
+            - link "Account Executive, Public Sector Sales WordPress VIP Open position Apply" [ref=e49] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/account-executive-public-sector/
+              - generic [ref=e50]:
+                - heading "Account Executive, Public Sector" [level=3] [ref=e52]
+                - generic [ref=e53]:
+                  - img [ref=e54]
+                  - generic [ref=e56]: Sales
+                  - generic [ref=e57]: WordPress VIP
+                  - generic [ref=e58]: Open position
+              - generic [ref=e60]: Apply
+            - link "Account Executive, WordPress VIP Sales WordPress VIP Open position Apply" [ref=e61] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/account-executive-wordpress-vip/
+              - generic [ref=e62]:
+                - heading "Account Executive, WordPress VIP" [level=3] [ref=e64]
+                - generic [ref=e65]:
+                  - img [ref=e66]
+                  - generic [ref=e68]: Sales
+                  - generic [ref=e69]: WordPress VIP
+                  - generic [ref=e70]: Open position
+              - generic [ref=e72]: Apply
+            - link "Applied AI Engineer Engineering Automattic Open position Apply" [ref=e73] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/applied-ai-engineer/
+              - generic [ref=e74]:
+                - heading "Applied AI Engineer" [level=3] [ref=e76]
+                - generic [ref=e77]:
+                  - img [ref=e78]
+                  - generic [ref=e80]: Engineering
+                  - generic [ref=e81]: Automattic
+                  - generic [ref=e82]: Open position
+              - generic [ref=e84]: Apply
+            - link "Customer Success Engineer, VIP Customer Success WordPress VIP Open position Apply" [ref=e85] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/customer-success-engineer-vip/
+              - generic [ref=e86]:
+                - heading "Customer Success Engineer, VIP" [level=3] [ref=e88]
+                - generic [ref=e89]:
+                  - img [ref=e90]
+                  - generic [ref=e92]: Customer Success
+                  - generic [ref=e93]: WordPress VIP
+                  - generic [ref=e94]: Open position
+              - generic [ref=e96]: Apply
+            - link "Director of Strategic Partnerships, WooCommerce Sales WooCommerce Open position Apply" [ref=e97] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/director-of-strategic-partnerships-woocommerce/
+              - generic [ref=e98]:
+                - heading "Director of Strategic Partnerships, WooCommerce" [level=3] [ref=e100]
+                - generic [ref=e101]:
+                  - img [ref=e102]
+                  - generic [ref=e104]: Sales
+                  - generic [ref=e105]: WooCommerce
+                  - generic [ref=e106]: Open position
+              - generic [ref=e108]: Apply
+            - link "Experienced Software Engineer Engineering Open position Apply" [ref=e109] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/experienced-software-engineer/
+              - generic [ref=e110]:
+                - heading "Experienced Software Engineer" [level=3] [ref=e112]
+                - generic [ref=e113]:
+                  - img [ref=e114]
+                  - generic [ref=e116]: Engineering
+                  - generic [ref=e117]: Open position
+              - generic [ref=e119]: Apply
+            - link "Junior Account Executive, Pressable Sales Pressable Open position Apply" [ref=e120] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/junior-account-executive-pressable/
+              - generic [ref=e121]:
+                - heading "Junior Account Executive, Pressable" [level=3] [ref=e123]
+                - generic [ref=e124]:
+                  - img [ref=e125]
+                  - generic [ref=e127]: Sales
+                  - generic [ref=e128]: Pressable
+                  - generic [ref=e129]: Open position
+              - generic [ref=e131]: Apply
+            - link "Product Manager, Growth & Analytics, Beeper Product Automattic Open position Apply" [ref=e132] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/product-manager-growth-analytics-beeper/
+              - generic [ref=e133]:
+                - heading "Product Manager, Growth & Analytics, Beeper" [level=3] [ref=e135]
+                - generic [ref=e136]:
+                  - img [ref=e137]
+                  - generic [ref=e139]: Product
+                  - generic [ref=e140]: Automattic
+                  - generic [ref=e141]: Open position
+              - generic [ref=e143]: Apply
+            - link "Senior Content Marketing Strategist Marketing WordPress VIP Open position Apply" [ref=e144] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/senior-content-marketing-strategist/
+              - generic [ref=e145]:
+                - heading "Senior Content Marketing Strategist" [level=3] [ref=e147]
+                - generic [ref=e148]:
+                  - img [ref=e149]
+                  - generic [ref=e151]: Marketing
+                  - generic [ref=e152]: WordPress VIP
+                  - generic [ref=e153]: Open position
+              - generic [ref=e155]: Apply
+            - link "Senior Integrated Marketing Strategist Marketing WordPress VIP Open position Apply" [ref=e156] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/senior-integrated-marketing-strategist/
+              - generic [ref=e157]:
+                - heading "Senior Integrated Marketing Strategist" [level=3] [ref=e159]
+                - generic [ref=e160]:
+                  - img [ref=e161]
+                  - generic [ref=e163]: Marketing
+                  - generic [ref=e164]: WordPress VIP
+                  - generic [ref=e165]: Open position
+              - generic [ref=e167]: Apply
+            - link "Senior Manager of Experiential Marketing Marketing WordPress VIP Open position Apply" [ref=e168] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/senior-manager-of-experiential-marketing/
+              - generic [ref=e169]:
+                - heading "Senior Manager of Experiential Marketing" [level=3] [ref=e171]
+                - generic [ref=e172]:
+                  - img [ref=e173]
+                  - generic [ref=e175]: Marketing
+                  - generic [ref=e176]: WordPress VIP
+                  - generic [ref=e177]: Open position
+              - generic [ref=e179]: Apply
+            - link "Senior Partner Manager, Enterprise Sales Automattic for Agencies Open position Apply" [ref=e180] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/senior-partner-manager-enterprise/
+              - generic [ref=e181]:
+                - heading "Senior Partner Manager, Enterprise" [level=3] [ref=e183]
+                - generic [ref=e184]:
+                  - img [ref=e185]
+                  - generic [ref=e187]: Sales
+                  - generic [ref=e188]: Automattic for Agencies
+                  - generic [ref=e189]: Open position
+              - generic [ref=e191]: Apply
+            - link "Senior Product Designer Design WooCommerce WordPress VIP WordPress.com Open position Apply" [ref=e192] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/senior-product-designer/
+              - generic [ref=e193]:
+                - heading "Senior Product Designer" [level=3] [ref=e195]
+                - generic [ref=e196]:
+                  - img [ref=e197]
+                  - generic [ref=e199]: Design
+                  - generic [ref=e200]: WooCommerce
+                  - generic [ref=e201]: WordPress VIP
+                  - generic [ref=e202]: WordPress.com
+                  - generic [ref=e203]: Open position
+              - generic [ref=e205]: Apply
+            - link "Senior Security Research Engineer Engineering Automattic Open position Apply" [ref=e206] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/senior-security-research-engineer/
+              - generic [ref=e207]:
+                - heading "Senior Security Research Engineer" [level=3] [ref=e209]
+                - generic [ref=e210]:
+                  - img [ref=e211]
+                  - generic [ref=e213]: Engineering
+                  - generic [ref=e214]: Automattic
+                  - generic [ref=e215]: Open position
+              - generic [ref=e217]: Apply
+            - link "Senior Social and Community Strategist Marketing WordPress VIP Open position Apply" [ref=e218] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/senior-social-and-community-strategist/
+              - generic [ref=e219]:
+                - heading "Senior Social and Community Strategist" [level=3] [ref=e221]
+                - generic [ref=e222]:
+                  - img [ref=e223]
+                  - generic [ref=e225]: Marketing
+                  - generic [ref=e226]: WordPress VIP
+                  - generic [ref=e227]: Open position
+              - generic [ref=e229]: Apply
+            - link "Senior Solutions Engineer, Pressable Sales Pressable Open position Apply" [ref=e230] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/senior-solutions-engineer-pressable/
+              - generic [ref=e231]:
+                - heading "Senior Solutions Engineer, Pressable" [level=3] [ref=e233]
+                - generic [ref=e234]:
+                  - img [ref=e235]
+                  - generic [ref=e237]: Sales
+                  - generic [ref=e238]: Pressable
+                  - generic [ref=e239]: Open position
+              - generic [ref=e241]: Apply
+            - link "Senior Systems Engineer Infrastructure Systems Open position Apply" [ref=e242] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/senior-systems-engineer/
+              - generic [ref=e243]:
+                - heading "Senior Systems Engineer" [level=3] [ref=e245]
+                - generic [ref=e246]:
+                  - img [ref=e247]
+                  - generic [ref=e249]: Infrastructure
+                  - generic [ref=e250]: Systems
+                  - generic [ref=e251]: Open position
+              - generic [ref=e253]: Apply
+            - link "Strategic Finance Manager Finance Automattic Open position Apply" [ref=e254] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/strategic-finance-manager/
+              - generic [ref=e255]:
+                - heading "Strategic Finance Manager" [level=3] [ref=e257]
+                - generic [ref=e258]:
+                  - img [ref=e259]
+                  - generic [ref=e261]: Finance
+                  - generic [ref=e262]: Automattic
+                  - generic [ref=e263]: Open position
+              - generic [ref=e265]: Apply
+            - link "Support Engineer, VIP Customer Success WordPress VIP Open position Apply" [ref=e266] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/support-engineer-vip/
+              - generic [ref=e267]:
+                - heading "Support Engineer, VIP" [level=3] [ref=e269]
+                - generic [ref=e270]:
+                  - img [ref=e271]
+                  - generic [ref=e273]: Customer Success
+                  - generic [ref=e274]: WordPress VIP
+                  - generic [ref=e275]: Open position
+              - generic [ref=e277]: Apply
+            - link "Technical Account Manager, Automattic Special Projects Team Customer Success Automattic Open position Apply" [ref=e278] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/technical-account-manager-automattic-special-projects-team/
+              - generic [ref=e279]:
+                - heading "Technical Account Manager, Automattic Special Projects Team" [level=3] [ref=e281]
+                - generic [ref=e282]:
+                  - img [ref=e283]
+                  - generic [ref=e285]: Customer Success
+                  - generic [ref=e286]: Automattic
+                  - generic [ref=e287]: Open position
+              - generic [ref=e289]: Apply
+            - link "Technical Account Manager, Newspack Customer Success Newspack Open position Apply" [ref=e290] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/technical-account-manager-newspack/
+              - generic [ref=e291]:
+                - heading "Technical Account Manager, Newspack" [level=3] [ref=e293]
+                - generic [ref=e294]:
+                  - img [ref=e295]
+                  - generic [ref=e297]: Customer Success
+                  - generic [ref=e298]: Newspack
+                  - generic [ref=e299]: Open position
+              - generic [ref=e301]: Apply
+            - link "Technical Support Team Lead, Pressable Customer Success Pressable Open position Apply" [ref=e302] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/technical-support-team-lead-pressable/
+              - generic [ref=e303]:
+                - heading "Technical Support Team Lead, Pressable" [level=3] [ref=e305]
+                - generic [ref=e306]:
+                  - img [ref=e307]
+                  - generic [ref=e309]: Customer Success
+                  - generic [ref=e310]: Pressable
+                  - generic [ref=e311]: Open position
+              - generic [ref=e313]: Apply
+            - link "Join Automattic’s Extraordinary Talent Community Other Interest form Share interest" [ref=e314] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/job/join-automattics-extraordinary-talent-community/
+              - generic [ref=e315]:
+                - heading "Join Automattic’s Extraordinary Talent Community" [level=3] [ref=e317]
+                - generic [ref=e318]:
+                  - img [ref=e319]
+                  - generic [ref=e321]: Other
+                  - generic [ref=e322]: Interest form
+              - generic [ref=e324]: Share interest
+        - separator [ref=e325]
+        - heading "Beware of job scammers" [level=3] [ref=e326]
+        - generic [ref=e328]:
+          - paragraph [ref=e329]:
+            - text: We’ve recently learned that some people have been contacted by scammers pretending to be part of the Automattic hiring team, using names like “Caelia Bassett.” Please know that this individual is
+            - emphasis [ref=e330]: not
+            - text: connected to us.
+          - paragraph [ref=e331]:
+            - text: Our hiring process happens
+            - emphasis [ref=e332]: only
+            - text: "through our official careers page:"
+            - link "automattic.com/work-with-us/" [ref=e333] [cursor=pointer]:
+              - /url: https://automattic.com/work-with-us/
+            - text: . You’ll always receive messages from us using an
+            - link "@automattic" [ref=e334] [cursor=pointer]:
+              - /url: https://automattic.wordpress.com/mentions/automattic/
+            - text: .com email address.
+          - paragraph [ref=e335]: If someone reaches out claiming to be from Automattic but uses a different email domain, take a moment to verify their identity. Scams like these can look very real, so it’s always okay to double-check!
+          - paragraph [ref=e336]:
+            - text: Here’s
+            - link "a helpful guide offering more tips on how to spot and avoid scams" [ref=e337] [cursor=pointer]:
+              - /url: https://consumer.ftc.gov/consumer-alerts/2023/08/scammers-impersonate-well-known-companies-recruit-fake-jobs-linkedin-and-other-job-platforms
+            - text: .
+          - paragraph [ref=e338]: Stay safe out there, everyone!
+          - paragraph
+    - contentinfo [ref=e340]:
+      - generic [ref=e341]:
+        - generic [ref=e342]:
+          - generic [ref=e344]:
+            - navigation "Footer" [ref=e346]:
+              - list [ref=e347]:
+                - listitem [ref=e348]:
+                  - link "Field Guide" [ref=e349] [cursor=pointer]:
+                    - /url: https://automattic.com/fieldguide/
+                - listitem [ref=e350]:
+                  - link "Contact" [ref=e351] [cursor=pointer]:
+                    - /url: https://automattic.com/contact/
+              - list [ref=e352]:
+                - listitem [ref=e353]:
+                  - link "Press" [ref=e354] [cursor=pointer]:
+                    - /url: https://automattic.com/press/
+                - listitem [ref=e355]:
+                  - link "Meet" [ref=e356] [cursor=pointer]:
+                    - /url: https://meetomattic.com/
+                - listitem [ref=e357]:
+                  - link "Privacy" [ref=e358] [cursor=pointer]:
+                    - /url: https://automattic.com/privacy/
+            - list [ref=e360]:
+              - listitem [ref=e361]:
+                - link "X" [ref=e362] [cursor=pointer]:
+                  - /url: https://x.com/automattic
+                  - img [ref=e363]
+                  - generic [ref=e365]: X
+              - listitem [ref=e366]:
+                - link "Facebook" [ref=e367] [cursor=pointer]:
+                  - /url: https://www.facebook.com/AutomatticInc/
+                  - img [ref=e368]
+                  - generic [ref=e370]: Facebook
+              - listitem [ref=e371]:
+                - link "YouTube" [ref=e372] [cursor=pointer]:
+                  - /url: https://www.youtube.com/c/automattic
+                  - img [ref=e373]
+                  - generic [ref=e375]: YouTube
+              - listitem [ref=e376]:
+                - link "LinkedIn" [ref=e377] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/automattic/
+                  - img [ref=e378]
+                  - generic [ref=e380]: LinkedIn
+          - navigation "2" [ref=e382]:
+            - list [ref=e383]:
+              - listitem [ref=e384]:
+                - link "Home" [ref=e385] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e386]:
+                - link "About Us" [ref=e387] [cursor=pointer]:
+                  - /url: /about/
+              - listitem [ref=e388]:
+                - link "News" [ref=e389] [cursor=pointer]:
+                  - /url: /news/
+              - listitem [ref=e390]:
+                - link "Work With Us" [ref=e391] [cursor=pointer]:
+                  - /url: /work-with-us/
+        - paragraph [ref=e393]:
+          - emphasis [ref=e394]: © Automattic Inc., purveyors of fine blogging and site-building services since 2005. Thank you for your time.
+  - list [ref=e396]:
+    - listitem [ref=e397]:
+      - link "Subscribe" [ref=e398] [cursor=pointer]:
+        - /url: ""
+        - img [ref=e399]
+        - text: Subscribe
+    - listitem [ref=e401] [cursor=pointer]:
+      - img [ref=e402]

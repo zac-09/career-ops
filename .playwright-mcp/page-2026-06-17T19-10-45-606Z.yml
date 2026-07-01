@@ -1,0 +1,90 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Sticker Mule" [ref=e6] [cursor=pointer]:
+        - /url: https://www.stickermule.com/
+        - img "Sticker Mule" [ref=e7]
+    - listitem
+    - listitem
+  - generic [ref=e8]:
+    - status [ref=e10]:
+      - text: Open Positions
+      - generic [ref=e11]: (4)
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - generic [ref=e15]: "Filters:"
+          - button "Reset filters" [disabled]:
+            - img
+            - text: Reset filters
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - combobox "Department" [ref=e18]:
+              - option "All Departments"
+              - option "Development (1)"
+              - option "Factory (3)"
+            - generic:
+              - img
+          - generic [ref=e19]:
+            - combobox "Employment" [ref=e20]:
+              - option "All Employment Types"
+              - option "Full time (4)"
+            - generic:
+              - img
+          - generic [ref=e21]:
+            - combobox "Location" [ref=e22]:
+              - option "All Locations"
+              - option "Amsterdam, NY (1)"
+              - option "Pisa (2)"
+              - option "Remote (1)"
+            - generic:
+              - img
+          - generic [ref=e23]:
+            - combobox "Location Type" [ref=e24]:
+              - option "All Location Types"
+              - option "Remote (1)"
+            - generic:
+              - img
+        - status [ref=e25]: No filters applied
+      - generic [ref=e26]:
+        - heading "Development" [level=2] [ref=e27]:
+          - generic [ref=e28]: Development
+        - link "Software engineer Development • Remote • Full time • Remote $150K – $250K • $20k signing bonus" [ref=e30] [cursor=pointer]:
+          - /url: /stickermule/6db27241-e2d4-4f35-a2c4-b58d84621843
+          - generic [ref=e31]:
+            - heading "Software engineer" [level=3] [ref=e32]
+            - generic [ref=e33]:
+              - paragraph [ref=e34]: Development • Remote • Full time • Remote
+              - paragraph [ref=e35]: $150K – $250K • $20k signing bonus
+        - heading "Factory" [level=2] [ref=e36]:
+          - generic [ref=e37]: Factory
+        - generic [ref=e38]:
+          - link "Addetto alle pulizie - categoria protetta legge 68/99 Factory • Pisa • Full time" [ref=e39] [cursor=pointer]:
+            - /url: /stickermule/5d2c7c7a-c47d-47a1-86dd-77605be213b6
+            - generic [ref=e40]:
+              - heading "Addetto alle pulizie - categoria protetta legge 68/99" [level=3] [ref=e41]
+              - paragraph [ref=e43]: Factory • Pisa • Full time
+          - link "Addetto produzione/magazzino - categoria protetta legge 68/99 Factory • Pisa • Full time" [ref=e44] [cursor=pointer]:
+            - /url: /stickermule/e1daa604-b14c-4d3c-8230-dfe5b177e53a
+            - generic [ref=e45]:
+              - heading "Addetto produzione/magazzino - categoria protetta legge 68/99" [level=3] [ref=e46]
+              - paragraph [ref=e48]: Factory • Pisa • Full time
+          - link "Production staff Factory • Amsterdam, NY • Full time $17 – $19 per hour" [ref=e49] [cursor=pointer]:
+            - /url: /stickermule/4e5a0f18-b73f-4b99-84ce-059fa91da190
+            - generic [ref=e50]:
+              - heading "Production staff" [level=3] [ref=e51]
+              - generic [ref=e52]:
+                - paragraph [ref=e53]: Factory • Amsterdam, NY • Full time
+                - paragraph [ref=e54]: $17 – $19 per hour
+  - contentinfo [ref=e55]:
+    - link "Learn more about Ashby" [ref=e56] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e57]: Powered by
+      - img "Ashby" [ref=e58]
+    - paragraph [ref=e64]:
+      - link "Privacy Policy" [ref=e65] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e66] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e67] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

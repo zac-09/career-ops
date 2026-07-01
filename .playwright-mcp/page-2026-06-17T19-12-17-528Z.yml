@@ -1,0 +1,353 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "Proxify homepage" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+      - navigation [ref=e10]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - link "How it works" [ref=e13] [cursor=pointer]:
+              - /url: /how-it-works
+          - listitem [ref=e14]:
+            - link "The journal" [ref=e15] [cursor=pointer]:
+              - /url: /journal
+          - listitem [ref=e16]:
+            - link "Events" [ref=e17] [cursor=pointer]:
+              - /url: /events
+          - listitem [ref=e18]:
+            - link "Jobs" [ref=e19] [cursor=pointer]:
+              - /url: /jobs
+          - listitem [ref=e20]:
+            - link "Apply now" [ref=e21] [cursor=pointer]:
+              - /url: https://talent.proxify.io/apply
+          - listitem [ref=e22]:
+            - link "Login" [ref=e23] [cursor=pointer]:
+              - /url: https://app.proxify.io/login
+              - text: LOG IN
+  - main [ref=e24]:
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e29]:
+          - paragraph [ref=e30]: The global network for serious tech talent
+          - heading "A career without borders, built on professional excellence" [level=1] [ref=e31]:
+            - text: A career without borders,
+            - text: built on professional excellence
+          - paragraph [ref=e32]: Proxify connects top-tier software, data, and AI professionals with long-term remote roles at serious companies. We handle the heavy lifting of connecting you to the right opportunities while you focus on the work, wherever you call home.
+        - generic [ref=e33]:
+          - img [ref=e34]
+          - paragraph [ref=e36]: 300+ new jobs every month in engineering, data, AI, and more
+        - generic [ref=e37]:
+          - link "Apply now" [ref=e38] [cursor=pointer]:
+            - /url: https://talent.proxify.io/apply
+          - link "glassdoor link" [ref=e40] [cursor=pointer]:
+            - /url: https://www.glassdoor.com/Overview/Working-at-Proxify-EI_IE4090194.11,18.htm
+            - img [ref=e41]
+            - generic [ref=e43]:
+              - paragraph [ref=e44]: "4.2"
+              - generic [ref=e45]:
+                - img [ref=e46]
+                - img [ref=e48]
+                - img [ref=e50]
+                - img [ref=e52]
+                - img [ref=e54]
+      - img "Developer working remotely" [ref=e58]
+    - list [ref=e61]:
+      - generic [ref=e62]:
+        - img "Get seen by the right people" [ref=e63]
+        - heading "Get seen by the right people" [level=2] [ref=e64]
+        - paragraph [ref=e65]: Thousands of companies use Proxify to headhunt top engineers. You focus on the work, we make sure you're seen.
+      - generic [ref=e66]:
+        - img "Where you live shouldn't limit your future" [ref=e67]
+        - heading "Where you live shouldn't limit your future" [level=2] [ref=e68]
+        - paragraph [ref=e69]: Access career-growing opportunities from wherever you call home. Your location is never a barrier.
+      - generic [ref=e70]:
+        - img "Long-term focus" [ref=e71]
+        - heading "Long-term focus" [level=2] [ref=e72]
+        - paragraph [ref=e73]: No hotfixes or quick gigs, join teams for the long haul. Many of our developers stay with clients for years.
+      - generic [ref=e74]:
+        - img "We handle everything" [ref=e75]
+        - heading "We handle everything" [level=2] [ref=e76]
+        - paragraph [ref=e77]: We take care of contracts, compliance, and payments so you can focus on what matters.
+    - generic [ref=e79]:
+      - generic [ref=e80]:
+        - paragraph [ref=e81]: Tech-Enabled, Human-Powered
+        - heading "“At Proxify, we do not have short-term projects, we have career paths with clients seeking to integrate our tech experts as an essential part of their team”" [level=3] [ref=e82]
+        - paragraph [ref=e83]: Catalina Istrate
+        - text: VP Developer Relations
+      - generic [ref=e84] [cursor=pointer]:
+        - img "Catalina Istrate - VP Developer Relations" [ref=e85]
+        - img [ref=e86]
+    - generic [ref=e92]:
+      - generic [ref=e93]:
+        - heading "Frequently asked questions" [level=2] [ref=e94]
+        - list [ref=e95]:
+          - listitem [ref=e96]:
+            - button "Most important" [ref=e97] [cursor=pointer]
+          - listitem [ref=e98]:
+            - button "Payments" [ref=e99] [cursor=pointer]
+          - listitem [ref=e100]:
+            - button "Contracts" [ref=e101] [cursor=pointer]
+          - listitem [ref=e102]:
+            - button "Experience" [ref=e103] [cursor=pointer]
+          - listitem [ref=e104]:
+            - button "Vetting process" [ref=e105] [cursor=pointer]
+          - listitem [ref=e106]:
+            - button "All" [ref=e107] [cursor=pointer]
+      - list [ref=e108]:
+        - listitem [ref=e109]:
+          - generic [ref=e111] [cursor=pointer]:
+            - generic [ref=e112]: What does Proxify do exactly?
+            - img [ref=e114]
+        - listitem [ref=e115]:
+          - generic [ref=e117] [cursor=pointer]:
+            - generic [ref=e118]: What type of talent are you looking for?
+            - img [ref=e120]
+        - listitem [ref=e121]:
+          - generic [ref=e123] [cursor=pointer]:
+            - generic [ref=e124]: Can I work outside Proxify after joining the network?
+            - img [ref=e126]
+        - listitem [ref=e127]:
+          - generic [ref=e129] [cursor=pointer]:
+            - generic [ref=e130]: Do I need to quit my current full-time job when joining the Proxify network?
+            - img [ref=e132]
+        - listitem [ref=e133]:
+          - generic [ref=e135] [cursor=pointer]:
+            - generic [ref=e136]: Can I work from anywhere?
+            - img [ref=e138]
+        - listitem [ref=e139]:
+          - generic [ref=e141] [cursor=pointer]:
+            - generic [ref=e142]: Will I get any support once I start working with a client?
+            - img [ref=e144]
+        - listitem [ref=e145]:
+          - generic [ref=e147] [cursor=pointer]:
+            - generic [ref=e148]: Are there any fees attached to joining the network?
+            - img [ref=e150]
+    - generic [ref=e153]:
+      - generic [ref=e154]:
+        - heading "What makes Proxify different?" [level=2] [ref=e155]
+        - heading "Not another gig platform. A career network." [level=2] [ref=e156]
+        - paragraph [ref=e157]: Most platforms offer the dream of flexibility, but they rarely lead to truly rewarding, career-building work. Proxify isn't just a place to find remote work. It’s a network built around long-term success for both tech talent and clients. And while you focus on what you do best, we handle the paperwork, compliance, and payroll. No hassle. Fully reliable.
+      - generic [ref=e162]:
+        - img "illustration" [ref=e164]
+        - heading "Remote, but grounded" [level=2] [ref=e165]
+        - paragraph [ref=e166]: You can live anywhere within +4GMT to -10GMT time zones, but the work is serious. This isn't about juggling multiple side projects or working from the beach. It's about access to meaningful opportunities, wherever you call home.
+      - link "Apply now" [ref=e175] [cursor=pointer]:
+        - /url: https://talent.proxify.io/apply
+    - generic [ref=e176]:
+      - heading "Top companies want to work with you" [level=1] [ref=e178]
+      - generic [ref=e180]:
+        - generic:
+          - generic:
+            - img "Coop"
+        - generic:
+          - generic:
+            - img "Speqta"
+        - generic:
+          - generic:
+            - img "Bam"
+        - generic:
+          - generic:
+            - img "AEG"
+        - generic:
+          - generic:
+            - img "KONE"
+        - generic:
+          - generic:
+            - img "Neurons"
+        - generic:
+          - generic:
+            - img "Claim"
+        - generic:
+          - generic:
+            - img "Measuremen"
+        - generic:
+          - generic:
+            - img "Leneo"
+        - generic:
+          - generic:
+            - img "Meitner"
+        - generic:
+          - generic:
+            - img "Coop"
+        - generic:
+          - generic:
+            - img "Speqta"
+        - generic:
+          - generic:
+            - img "Bam"
+        - generic:
+          - generic:
+            - img "AEG"
+        - generic:
+          - generic:
+            - img "KONE"
+        - generic:
+          - generic:
+            - img "Neurons"
+        - generic:
+          - generic:
+            - img "Claim"
+        - generic:
+          - generic:
+            - img "Measuremen"
+        - generic:
+          - generic:
+            - img "Leneo"
+        - generic:
+          - generic:
+            - img "Meitner"
+    - generic [ref=e183]:
+      - generic [ref=e184]:
+        - heading "What does it take to become a Proxify member?" [level=2] [ref=e185]
+        - heading "Not just great coders. Great team members." [level=2] [ref=e186]
+        - paragraph [ref=e187]: We assess more than just your code. Our process evaluates both technical ability and the soft skills that make collaboration a success, including communication, reliability, and English proficiency. We look for professionals who can thrive in client teams, not just pass a test.
+        - generic [ref=e188]:
+          - generic [ref=e189]:
+            - paragraph [ref=e190]: "Time investment:"
+            - generic [ref=e191]:
+              - paragraph [ref=e192]: 4-5 hours
+              - img [ref=e194] [cursor=pointer]
+          - generic [ref=e198]:
+            - paragraph [ref=e199]: "Timeline:"
+            - generic [ref=e200]:
+              - paragraph [ref=e201]: 3 to 15 days
+              - img [ref=e203] [cursor=pointer]
+      - generic [ref=e211]:
+        - img "illustration" [ref=e213]
+        - heading "Engineering excellence" [level=2] [ref=e214]
+        - paragraph [ref=e215]: Ability to build scalable applications according to best code practices. proven through a 90-minute test in your specialty.
+      - link "Learn more" [ref=e223] [cursor=pointer]:
+        - /url: /how-it-works
+    - generic [ref=e224]:
+      - generic [ref=e225]:
+        - heading "Elite professionals trust Proxify" [level=1] [ref=e226]
+        - paragraph [ref=e227]: Gain support from our dedicated team, tailored-to-you career resources, and people-first culture.
+        - generic [ref=e228]:
+          - generic [ref=e229]:
+            - generic [ref=e230]: 3500+
+            - paragraph [ref=e231]: Members
+          - generic [ref=e232]:
+            - generic [ref=e233]: 120+
+            - paragraph [ref=e234]: Nationalities
+          - generic [ref=e235]:
+            - generic [ref=e236]: 230+
+            - paragraph [ref=e237]: Tech roles
+          - generic [ref=e238]:
+            - generic [ref=e239]: 94%
+            - paragraph [ref=e240]: Recommended us
+        - generic [ref=e241]:
+          - generic [ref=e243]:
+            - img "ellipse" [ref=e244]
+            - img "image1" [ref=e246]
+          - generic [ref=e247]:
+            - generic [ref=e249]:
+              - img "ellipse" [ref=e250]
+              - img "image1" [ref=e252]
+            - generic [ref=e254]:
+              - img "ellipse" [ref=e255]
+              - img "image1" [ref=e257]
+      - img "world" [ref=e258]
+    - generic [ref=e259]:
+      - heading "What's new at Proxify?" [level=1] [ref=e262]
+      - generic [ref=e264] [cursor=pointer]:
+        - generic [ref=e265]:
+          - generic [ref=e266]:
+            - img "The importance of code testing in Fullstack Development" [ref=e268]
+            - generic [ref=e269]: Jun 23, 2023 · 5 min read
+            - heading "The importance of code testing in Fullstack Development" [level=4] [ref=e270]
+          - generic [ref=e271]:
+            - text: Read more
+            - img [ref=e273]
+        - generic [ref=e276]:
+          - generic [ref=e277]:
+            - img "The proliferation of AI-assisted software development tools" [ref=e279]
+            - generic [ref=e280]: Mar 23, 2023 · 14 min read
+            - heading "The proliferation of AI-assisted software development tools" [level=4] [ref=e281]
+          - generic [ref=e282]:
+            - text: Read more
+            - img [ref=e284]
+        - generic [ref=e287]:
+          - generic [ref=e288]:
+            - img "The best (and worst) things about working remotely" [ref=e290]
+            - generic [ref=e291]: Aug 03, 2022 · 7 min read
+            - heading "The best (and worst) things about working remotely" [level=4] [ref=e292]
+          - generic [ref=e293]:
+            - text: Read more
+            - img [ref=e295]
+        - generic [ref=e298]:
+          - generic [ref=e299]:
+            - img "Why freelancing is a smarter option than traditional employment today" [ref=e301]
+            - generic [ref=e302]: Jul 19, 2022 · 11 min read
+            - heading "Why freelancing is a smarter option than traditional employment today" [level=4] [ref=e303]
+          - generic [ref=e304]:
+            - text: Read more
+            - img [ref=e306]
+        - generic [ref=e309]:
+          - generic [ref=e310]:
+            - img "Should company culture sway your decision about taking a job?" [ref=e312]
+            - generic [ref=e313]: Mar 07, 2022 · 6 min read
+            - heading "Should company culture sway your decision about taking a job?" [level=4] [ref=e314]
+          - generic [ref=e315]:
+            - text: Read more
+            - img [ref=e317]
+      - generic [ref=e326]:
+        - button "prev" [ref=e327] [cursor=pointer]:
+          - img [ref=e328]
+        - button "next" [ref=e330] [cursor=pointer]:
+          - img [ref=e331]
+  - generic [ref=e333]:
+    - generic [ref=e335]:
+      - heading "Want to join our talent network?" [level=2] [ref=e336]
+      - paragraph [ref=e337]: Build a career you're proud of with the power of Proxify.
+      - link "Apply now" [ref=e338] [cursor=pointer]:
+        - /url: https://talent.proxify.io/apply
+    - contentinfo [ref=e339]:
+      - list [ref=e341]:
+        - listitem [ref=e342]:
+          - link "Proxify homepage" [ref=e343] [cursor=pointer]:
+            - /url: /
+            - img [ref=e344]
+        - listitem [ref=e347]:
+          - list [ref=e348]:
+            - listitem [ref=e349]:
+              - generic [ref=e350]: Navigation
+              - link "How it works" [ref=e351] [cursor=pointer]:
+                - /url: /how-it-works
+              - link "The journal" [ref=e352] [cursor=pointer]:
+                - /url: /journal
+              - link "Events" [ref=e353] [cursor=pointer]:
+                - /url: /events
+              - link "Jobs" [ref=e354] [cursor=pointer]:
+                - /url: /jobs
+            - listitem [ref=e355]:
+              - generic [ref=e356]: Legal
+              - link "Privacy Policy" [ref=e357] [cursor=pointer]:
+                - /url: /privacy
+              - link "Cookie Policy" [ref=e358] [cursor=pointer]:
+                - /url: /cookie-policy
+              - link "Accessibility Statement" [ref=e359] [cursor=pointer]:
+                - /url: /accessibility-statement
+            - listitem [ref=e360]:
+              - generic [ref=e361]: Contact
+              - link "work@proxify.io" [ref=e362] [cursor=pointer]:
+                - /url: mailto:work@proxify.io
+              - paragraph [ref=e364]:
+                - text: Barnhusgatan 3
+                - text: 111 23 Stockholm
+                - text: SWEDEN
+            - listitem [ref=e365]:
+              - generic [ref=e366]: Follow us
+              - generic [ref=e367]:
+                - link "linkedin link" [ref=e368] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/showcase/proxify-developers/
+                  - img [ref=e369]
+                - link "facebook link" [ref=e372] [cursor=pointer]:
+                  - /url: https://www.facebook.com/Proxify.Developers
+                  - img [ref=e373]
+                - link "instagram link" [ref=e376] [cursor=pointer]:
+                  - /url: https://www.instagram.com/proxify.developers
+                  - img [ref=e377]
+                - link "twitter link" [ref=e384] [cursor=pointer]:
+                  - /url: https://twitter.com/Proxify_Dev
+                  - img [ref=e385]
