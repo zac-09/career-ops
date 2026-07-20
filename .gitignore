@@ -1,10 +1,10 @@
 # Personal data (user fills these)
-data/applications.md
+# data/applications.md
 data/pipeline.md
 data/scan-history.tsv
-reports/*.md
+# reports/*.md
 !reports/.gitkeep
-output/*
+# output/*
 !output/.gitkeep
 batch/logs/*
 !batch/logs/.gitkeep

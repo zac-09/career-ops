@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Isaac Mubiru — CV</title>
+<style>
+  @font-face { font-family: 'Space Grotesk'; src: url('../fonts/space-grotesk-latin.woff2') format('woff2'); font-weight: 300 700; font-style: normal; font-display: swap; }
+  @font-face { font-family: 'DM Sans'; src: url('../fonts/dm-sans-latin.woff2') format('woff2'); font-weight: 100 1000; font-style: normal; font-display: swap; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { font-family: 'DM Sans', sans-serif; font-size: 11px; line-height: 1.5; color: #1a1a2e; background: #fff; }
+  .page { width: 100%; max-width: 210mm; margin: 0 auto; padding: 0; }
+  .header { margin-bottom: 16px; }
+  .header h1 { font-family: 'Space Grotesk', sans-serif; font-size: 24px; font-weight: 700; color: #1a1a2e; letter-spacing: -0.02em; margin-bottom: 4px; }
+  .header-gradient { height: 2px; background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%)); border-radius: 1px; margin-bottom: 8px; }
+  .contact-row { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 10px; color: #555; }
+  .contact-row a { color: #555; text-decoration: none; white-space: nowrap; }
+  .contact-row .separator { color: #ccc; }
+  .section { margin-bottom: 14px; }
+  .section-title { font-family: 'Space Grotesk', sans-serif; font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: hsl(187, 74%, 32%); border-bottom: 1px solid #e5e5e5; padding-bottom: 3px; margin-bottom: 8px; }
+  .summary-text { font-size: 11px; line-height: 1.6; color: #333; }
+  a { white-space: nowrap; }
+  .competencies-grid { display: flex; flex-wrap: wrap; gap: 6px; }
+  .competency-tag { font-size: 10px; font-weight: 500; color: hsl(187, 74%, 28%); background: hsl(187, 40%, 95%); padding: 3px 10px; border-radius: 3px; border: 1px solid hsl(187, 40%, 88%); }
+  .job { margin-bottom: 12px; }
+  .job-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 2px; }
+  .job-company { font-family: 'Space Grotesk', sans-serif; font-size: 12px; font-weight: 600; color: hsl(270, 70%, 45%); }
+  .job-period { font-size: 10px; color: #777; white-space: nowrap; }
+  .job-role { font-size: 11px; font-weight: 500; color: #444; margin-bottom: 4px; }
+  .job ul { padding-left: 16px; margin-top: 4px; }
+  .job li { font-size: 10.5px; line-height: 1.5; color: #333; margin-bottom: 2px; }
+  .edu-item { margin-bottom: 6px; }
+  .edu-header { display: flex; justify-content: space-between; align-items: baseline; }
+  .edu-title { font-weight: 600; font-size: 11px; color: #333; }
+  .edu-org { color: hsl(270, 70%, 45%); font-weight: 500; }
+  .edu-year { font-size: 10px; color: #777; }
+  .skills-grid { display: flex; flex-wrap: wrap; gap: 4px 12px; flex-direction: column; }
+  .skill-item { font-size: 10.5px; color: #444; }
+  .skill-category { font-weight: 600; color: #333; font-size: 10.5px; }
+  .avoid-break { break-inside: avoid; }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="header">
+    <h1>Isaac Mubiru</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>isaacmubiru99@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://linkedin.com/in/isaac-mubiru-3bb728174">linkedin.com/in/isaac-mubiru</a>
+      <span class="separator">|</span>
+      <a href="https://github.com/zac-09">github.com/zac-09</a>
+      <span class="separator">|</span>
+      <span>Kampala, Uganda (UTC+3)</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">Senior backend engineer (Node.js + TypeScript) with deep migration and reliability experience — owned a <strong>zero-downtime migration of 20+ production apps</strong> at MTailor with idempotent, concurrent Pub/Sub-based two-way sync; ran 2M-record analytical jobs at Dr Wealth; architected Kafka + Kubernetes microservices for 4 NGO tenants at CodeBits. SQL-fluent (Postgres-ready via Firestore migration depth), AWS S3/EC2/EBS production background, GCP serverless equivalent to AWS Lambda. Strong fit for high-transaction-volume SaaS where concurrency, idempotency and performance under load matter.</div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">Node.js + TypeScript</span>
+      <span class="competency-tag">PostgreSQL / SQL</span>
+      <span class="competency-tag">AWS (S3, EC2, EBS)</span>
+      <span class="competency-tag">Serverless / Cloud Functions</span>
+      <span class="competency-tag">Concurrency + idempotency</span>
+      <span class="competency-tag">Data migrations at scale</span>
+      <span class="competency-tag">Kafka + Pub/Sub</span>
+      <span class="competency-tag">FinTech (DeFi adjacent)</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">MTailor</div>
+        <div class="job-period">September 2022 – Present</div>
+      </div>
+      <div class="job-role">Software Engineer (US Remote) — reporting to CTO</div>
+      <ul>
+        <li>Led <strong>zero-downtime migration of 20+ production Node.js apps</strong> from Parse/MongoDB to Firebase/GCP — full SDLC ownership from architecture to deployment</li>
+        <li>Built <strong>idempotent, concurrent two-way sync between MongoDB and Firestore via Google Pub/Sub</strong> — high-volume message processing with drift detection during live migration</li>
+        <li>Implemented a 3D visualization feature using video overlay and ffmpeg, increasing buyer conversion</li>
+        <li>Migrated file storage from <strong>Amazon S3 to GCS</strong> via a Python script with retries and dry-run mode</li>
+        <li>Implemented Express Shipping integration, generating $40 additional revenue per order</li>
+        <li>Saved the company <strong>$5,000/month</strong> by migrating all services off AWS</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">CodeBits</div>
+        <div class="job-period">January 2020 – July 2021</div>
+      </div>
+      <div class="job-role">Software Engineer / Lead (Uganda Remote)</div>
+      <ul>
+        <li>Led a team of 4 developers building legal-tech systems for NGOs in Uganda</li>
+        <li><strong>Architected microservices backend with Apache Kafka, Docker, Kubernetes, NATS Streaming, and gRPC</strong> — multi-tenant scalable system patterns equivalent to AWS EKS + SQS/SNS</li>
+        <li>Built a case management system for FIDA Uganda and a paralegal database for LASPNET Uganda</li>
+        <li>Built a USSD service for legal aid providers communicating with a Node.js backend via gRPC</li>
+        <li>Developed a cross-platform mobile app for LASPNET using React Native and Expo</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">Mind2matter</div>
+        <div class="job-period">January 2022 – July 2022</div>
+      </div>
+      <div class="job-role">Software Engineer (US Remote) — reporting to CTO</div>
+      <ul>
+        <li>Built backends for <strong>DeFi / FinTech applications using Web3 and Node.js</strong> — wallet signing, smart-contract integration</li>
+        <li>Delivered React UIs from Figma designs under tight timelines</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">Dr Wealth</div>
+        <div class="job-period">August 2021 – January 2022</div>
+      </div>
+      <div class="job-role">Software Engineer (Singapore Remote)</div>
+      <ul>
+        <li>Optimized a PWA delivering real-time stock prices from a Firebase backend</li>
+        <li>Built ad-hoc jobs to query over 2 million Firestore records under SLA-bound windows — performance optimization under load</li>
+        <li>Extended backend APIs using Firebase Cloud Functions (serverless) and Express.js on Heroku</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">MTailor</div>
+        <div class="job-period">March 2022 – July 2022</div>
+      </div>
+      <div class="job-role">Contractor (US Remote)</div>
+      <ul>
+        <li>Built a Node.js migration tool reading MongoDB and writing Firestore after complex transformation logic — schema modeling at scale</li>
+        <li>Wrote SDK documentation for fellow engineers; trained Ops team on Firebase Dashboard</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <div><span class="edu-title">B.Sc. Computer Engineering</span> · <span class="edu-org">Makerere University, Kampala</span></div>
+        <div class="edu-year">2018 – 2022</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section avoid-break">
+    <div class="section-title">Skills</div>
+    <div class="skills-grid">
+      <div class="skill-item"><span class="skill-category">Proficient:</span> Node.js, TypeScript, JavaScript, PostgreSQL/SQL, MongoDB, AWS (S3, EC2, EBS), GCP (Firestore, Pub/Sub, Cloud Functions, GCS), serverless, Python, Git, Linux, Kafka, Docker, Kubernetes</div>
+      <div class="skill-item"><span class="skill-category">Intermediate:</span> Go, Rust, React, React Native, gRPC, NATS, Redis (familiar), AWS EKS / SQS / SNS (transferable from K8s + Kafka)</div>
+      <div class="skill-item"><span class="skill-category">Languages:</span> English (native), Kiswahili</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
