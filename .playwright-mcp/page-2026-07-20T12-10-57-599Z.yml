@@ -1,0 +1,67 @@
+- generic [active] [ref=e1]:
+  - link [ref=e4] [cursor=pointer]:
+    - /url: https://rayatheapp.com/careers
+    - img "Raya logo" [ref=e5]
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - heading "Senior Backend Engineer, Core Discovery" [level=2] [ref=e10]
+      - generic [ref=e11]:
+        - generic [ref=e12]: Remote
+        - generic [ref=e13]: Engineering /
+        - generic [ref=e14]: Remote
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - heading "Submit your application" [level=4] [ref=e18]
+        - list [ref=e19]:
+          - listitem [ref=e20]:
+            - generic [ref=e21]:
+              - generic [ref=e22]:
+                - text: Resume/CV
+                - generic [ref=e23]: ✱
+              - link [ref=e25] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e28]: ATTACH RESUME/CV
+                - button "Resume/CV ✱ ATTACH RESUME/CV" [ref=e29]
+          - listitem [ref=e30]:
+            - generic [ref=e31]:
+              - generic [ref=e32]:
+                - text: Full name
+                - generic [ref=e33]: ✱
+              - textbox "Full name ✱" [ref=e35]
+          - listitem [ref=e36]:
+            - generic [ref=e37]:
+              - generic [ref=e38]:
+                - text: Email
+                - generic [ref=e39]: ✱
+              - textbox "Email ✱" [ref=e41]
+          - listitem [ref=e42]:
+            - generic [ref=e43]:
+              - generic [ref=e44]: Phone
+              - textbox "Phone" [ref=e46]
+          - listitem [ref=e47]:
+            - generic [ref=e48]:
+              - generic [ref=e49]:
+                - text: Current location
+                - generic [ref=e50]: ✱
+              - textbox "Current location ✱" [ref=e52]
+          - listitem [ref=e53]:
+            - generic [ref=e54]:
+              - generic [ref=e55]: Current company
+              - textbox "Current company" [ref=e57]
+      - generic [ref=e58]:
+        - heading "Links" [level=4] [ref=e59]
+        - list [ref=e60]:
+          - listitem [ref=e61]:
+            - generic [ref=e62]:
+              - generic [ref=e63]: LinkedIn URL
+              - textbox "LinkedIn URL" [ref=e65]
+      - button "Submit application" [ref=e67] [cursor=pointer]
+  - generic [ref=e69]:
+    - paragraph [ref=e70]:
+      - link "Raya Home Page" [ref=e71] [cursor=pointer]:
+        - /url: http://rayatheapp.com
+    - paragraph [ref=e73]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+    - link "Jobs powered by Lever logo" [ref=e74] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e75]: Jobs powered by
+      - img "Lever logo" [ref=e76]
