@@ -2,7 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 159 | 2026-07-20 | Bright Data | Experienced Backend JavaScript Developer (Worldwide) | 4.4/5 | Evaluated | ✅ | [159](reports/159-bright-data-2026-07-20.md) | Worldwide remote; Node/MongoDB/Express/K8s near line-by-line match; prep network protocols hard |
+| 159 | 2026-07-20 | Bright Data | Experienced Backend JavaScript Developer (Worldwide) | 4.4/5 | Applied | ✅ | [159](reports/159-bright-data-2026-07-20.md) | Applied 2026-07-20 (CV + cover letter via Spark Hire form); prep network protocols before interview |
 | 160 | 2026-07-20 | Lessonspace | Senior Backend Engineer | 3.8/5 | Evaluated | ✅ | [160](reports/160-lessonspace-2026-07-20.md) | Global remote (SA anchor UTC+2, Uganda OK); real-time Node fits sync story; comp likely SA-band $55-75K |
 | 162 | 2026-07-20 | Proxify | Senior Backend Developer (Node.js / Nest.js) | 2.7/5 | SKIP | ❌ | [162](reports/162-proxify-2026-07-20.md) | CET±3h band includes UTC+3 but NoDesk req expired, 3+yr Nest.js hard req unmet, placement marketplace not direct employment |
 | 163 | 2026-07-20 | Raya | Senior Backend Engineer, Core Discovery | 2.8/5 | SKIP | ❌ | [163](reports/163-raya-core-discovery-2026-07-20.md) | Strong Node/TS fit but geospatial systems are the JD's stated primary need (zero CV evidence) + Elasticsearch gap; remote likely US-only (Lever country=US, US benefits), unconfirmed |
