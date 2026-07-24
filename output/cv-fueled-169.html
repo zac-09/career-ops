@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{LANG}}">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{NAME}} — CV</title>
+<title>Isaac Mubiru — CV</title>
 <style>
   @font-face {
     font-family: 'Space Grotesk';
@@ -61,7 +61,7 @@
 
   .page {
     width: 100%;
-    max-width: {{PAGE_WIDTH}};
+    max-width: 8.5in;
     margin: 0 auto;
     padding: 0;
   }
@@ -334,60 +334,136 @@
 
   <!-- HEADER -->
   <div class="header">
-    <h1>{{NAME}}</h1>
+    <h1>Isaac Mubiru</h1>
     <div class="header-gradient"></div>
     <div class="contact-row">
-      <span>{{EMAIL}}</span>
+      <span>isaacmubiru99@gmail.com</span>
       <span class="separator">|</span>
-      <a href="{{LINKEDIN_URL}}">{{LINKEDIN_DISPLAY}}</a>
+      <a href="https://linkedin.com/in/isaac-mubiru-3bb728174">linkedin.com/in/isaac-mubiru</a>
       <span class="separator">|</span>
-      <a href="{{PORTFOLIO_URL}}">{{PORTFOLIO_DISPLAY}}</a>
+      <a href="https://github.com/zac-09">github.com/zac-09</a>
       <span class="separator">|</span>
-      <span>{{LOCATION}}</span>
+      <span>Kampala, Uganda (UTC+3)</span>
     </div>
   </div>
 
   <!-- PROFESSIONAL SUMMARY -->
   <div class="section">
-    <div class="section-title">{{SECTION_SUMMARY}}</div>
-    <div class="summary-text">{{SUMMARY_TEXT}}</div>
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">Senior Full Stack Engineer with 5+ years shipping TypeScript/JavaScript across the stack — Node.js APIs and data models on the back end, React interfaces on the front end. Led the end-to-end migration of 20+ production applications to Firebase/GCP with zero downtime, building a real-time MongoDB&harr;Firestore sync pipeline on Google Pub/Sub, and delivered Figma-to-React features at agency pace for demanding US clients. Deep in relational and non-relational data modeling, REST API design, and performance optimization at scale (2M+ record workloads). Code at <a href="https://github.com/zac-09">github.com/zac-09</a>. Now applying the same end-to-end ownership to building premium, high-performance web experiences for Fueled's clients.</div>
   </div>
 
   <!-- CORE COMPETENCIES -->
   <div class="section">
-    <div class="section-title">{{SECTION_COMPETENCIES}}</div>
+    <div class="section-title">Core Competencies</div>
     <div class="competencies-grid">
-      {{COMPETENCIES}}
+      <span class="competency-tag">TypeScript & Node.js</span>
+      <span class="competency-tag">React</span>
+      <span class="competency-tag">REST API Design</span>
+      <span class="competency-tag">Data Modeling (SQL & NoSQL)</span>
+      <span class="competency-tag">Real-time Systems (Pub/Sub)</span>
+      <span class="competency-tag">Performance Optimization</span>
+      <span class="competency-tag">Microservices Architecture</span>
+      <span class="competency-tag">GCP / Firebase</span>
+      
     </div>
   </div>
 
   <!-- WORK EXPERIENCE -->
   <div class="section">
-    <div class="section-title">{{SECTION_EXPERIENCE}}</div>
-    {{EXPERIENCE}}
+    <div class="section-title">Work Experience</div>
+    
+  <div class="job">
+    <div class="job-header"><span class="job-company">MTailor</span><span class="job-period">Sep 2022 – Present</span></div>
+    <div class="job-role">Software Engineer &middot; US Remote</div>
+    <ul>
+      <li>Owned the end-to-end migration of <strong>20+ production applications</strong> from Parse/MongoDB to Firebase/GCP with <strong>zero downtime</strong>, from data-model design through deployment, reporting directly to the CTO.</li>
+      <li>Built a <strong>real-time two-way sync</strong> between MongoDB and Firestore using Node.js and Google Pub/Sub, keeping a live e-commerce system consistent under parallel production traffic.</li>
+      <li>Shipped a customer-facing <strong>3D visualisation feature</strong> (video overlay + ffmpeg) end to end, increasing buyer conversion; delivered Express Shipping, adding <strong>$40 revenue per order</strong>.</li>
+      <li>Cut infrastructure cost by <strong>$5,000/month</strong> by migrating all services off AWS; moved file storage from S3 to GCS via Python.</li>
+      <li>Migrated a <strong>Webflow</strong> marketing site from a Parse backend to Firebase without disrupting the design team's workflow.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-header"><span class="job-company">MTailor</span><span class="job-period">Mar 2022 – Jul 2022</span></div>
+    <div class="job-role">Backend Contractor &middot; US Remote</div>
+    <ul>
+      <li>Built the migration pipeline reading from MongoDB and writing to Firestore after complex processing logic.</li>
+      <li>Documented the new Firebase SDKs (Node.js &amp; Python) for fellow engineers and trained the Ops team on dashboards and backup procedures.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-header"><span class="job-company">Mind2matter</span><span class="job-period">Jan 2022 – Jul 2022</span></div>
+    <div class="job-role">Software Engineer (Full Stack) &middot; US Agency, Remote</div>
+    <ul>
+      <li>Full-stack delivery for a US-based agency with demanding clients at agency pace, reporting directly to the CTO.</li>
+      <li>Delivered pixel-accurate <strong>React</strong> UIs from Figma designs under tight timelines; built Node.js/Web3 backends for DeFi applications.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-header"><span class="job-company">Dr Wealth</span><span class="job-period">Aug 2021 – Jan 2022</span></div>
+    <div class="job-role">Software Engineer &middot; Singapore Remote</div>
+    <ul>
+      <li>Led <strong>performance optimisation</strong> of a PWA delivering real-time stock prices; built jobs querying <strong>2M+ Firestore records</strong> to keep prices current from Morningstar APIs.</li>
+      <li>Built responsive UI pages in React and Tailwind; extended REST APIs with Firebase Cloud Functions and Express.js.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-header"><span class="job-company">CodeBits</span><span class="job-period">Jan 2020 – Jul 2021</span></div>
+    <div class="job-role">Software Engineer / Team Lead &middot; Uganda Remote</div>
+    <ul>
+      <li>Architected an event-driven <strong>microservices</strong> backend for FIDA Uganda's case-management platform using Apache Kafka, Docker, and Kubernetes; led a team of 4 developers.</li>
+      <li>Built a USSD legal-aid service integrating with a Node.js backend via gRPC; shipped a React Native app with Firebase push notifications.</li>
+    </ul>
+  </div>
   </div>
 
   <!-- PROJECTS -->
   <div class="section avoid-break">
-    <div class="section-title">{{SECTION_PROJECTS}}</div>
-    {{PROJECTS}}
+    <div class="section-title">Projects</div>
+    
+  <div class="project">
+    <div><span class="project-title">Real-time Pub/Sub Sync Pipeline</span><span class="project-badge">Production</span></div>
+    <div class="project-desc">Live two-way MongoDB&harr;Firestore sync running under parallel production traffic during a zero-downtime migration of 20+ apps.</div>
+    <div class="project-tech">Node.js &middot; Google Pub/Sub &middot; MongoDB &middot; Firestore</div>
+  </div>
+  <div class="project">
+    <div><span class="project-title">Microservices Backend — FIDA Uganda</span><span class="project-badge">Architecture</span></div>
+    <div class="project-desc">Event-driven backend for a legal case-management platform serving NGOs at scale, with clear service boundaries over gRPC.</div>
+    <div class="project-tech">Node.js &middot; Apache Kafka &middot; Docker &middot; Kubernetes &middot; gRPC</div>
+  </div>
+  <div class="project">
+    <div><span class="project-title">Marketplace Recommendation Engine</span></div>
+    <div class="project-desc">Collaborative + content-based filtering in MongoDB for service-provider matching in a marketplace product.</div>
+    <div class="project-tech">Node.js &middot; MongoDB</div>
+  </div>
   </div>
 
   <!-- EDUCATION & CERTIFICATIONS -->
   <div class="section avoid-break">
-    <div class="section-title">{{SECTION_EDUCATION}}</div>
-    {{EDUCATION}}
+    <div class="section-title">Education</div>
+    
+  <div class="edu-item">
+    <div class="edu-header"><span class="edu-title">B.Sc. Computer Engineering — <span class="edu-org">Makerere University</span></span><span class="edu-year">2018 – 2022</span></div>
+    <div class="edu-desc">Kampala, Uganda</div>
+  </div>
   </div>
 
   <div class="section avoid-break">
-    <div class="section-title">{{SECTION_CERTIFICATIONS}}</div>
-    {{CERTIFICATIONS}}
+    <div class="section-title">Links</div>
+    <div class="cert-item"><span class="cert-title">Open-source &amp; project code — <a href="https://github.com/zac-09">github.com/zac-09</a></span></div>
   </div>
 
   <!-- SKILLS -->
   <div class="section avoid-break">
-    <div class="section-title">{{SECTION_SKILLS}}</div>
-    {{SKILLS}}
+    <div class="section-title">Skills</div>
+    
+  <div class="skill-item"><span class="skill-category">Languages:</span> TypeScript, JavaScript, Python, Go (intermediate)</div>
+  <div class="skill-item"><span class="skill-category">Frontend:</span> React, React Native, Tailwind, HTML, CSS</div>
+  <div class="skill-item"><span class="skill-category">Backend:</span> Node.js, Express.js, REST APIs, gRPC, Microservices</div>
+  <div class="skill-item"><span class="skill-category">Data:</span> MongoDB, Firestore, SQL, Google Pub/Sub, Apache Kafka</div>
+  <div class="skill-item"><span class="skill-category">Cloud / Infra:</span> GCP, Firebase, AWS, Docker, Kubernetes, Linux, Git</div>
+  <div class="skill-item"><span class="skill-category">Spoken:</span> English, Kiswahili</div>
   </div>
 
 </div>
