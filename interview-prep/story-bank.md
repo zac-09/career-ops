@@ -79,3 +79,30 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **Reflection:** Tie every feature to a money metric before you build it — it changes what you build and how you argue for it.
 **Best for questions about:** Business impact, product mindset, end-to-end feature ownership, measurable outcomes, e-commerce.
 
+
+### [Real-time systems / streaming] Two-way MongoDB↔Firestore sync on Pub/Sub
+**Source:** Report #167 — Supabase — Edge Functions Engineer
+**S (Situation):** During MTailor's months-long migration off Parse/MongoDB, both databases had to serve live production traffic simultaneously.
+**T (Task):** Keep data consistent in both directions, in real time, with zero data loss.
+**A (Action):** Built a Node.js sync service on Google Pub/Sub with idempotent message processing and conflict handling, running as the backbone of the phased migration.
+**R (Result):** Parallel production traffic on two datastores throughout the migration with no data loss (cv.md, profile.yml proof point).
+**Reflection:** Idempotency is the whole game in message-driven sync — design for redelivery from day one.
+**Best for questions about:** real-time systems, message queues, data consistency, migration strategy, working under production pressure
+
+### [Distributed infrastructure] Kafka/Kubernetes microservices for FIDA Uganda
+**Source:** Report #167 — Supabase — Edge Functions Engineer
+**S (Situation):** An NGO case-management system at CodeBits needed to scale beyond a monolith, with a 4-developer team.
+**T (Task):** Architect and ship a production backend that multiple services and clients (web, mobile, USSD) could build on.
+**A (Action):** Designed an event-driven microservices backend on Apache Kafka, containerized with Docker, deployed on Kubernetes; led the team through delivery.
+**R (Result):** Shipped and operated in production for FIDA Uganda (cv.md).
+**Reflection:** Event-driven service boundaries prevented the distributed-monolith trap — get the boundaries right before the tooling.
+**Best for questions about:** distributed systems, Kubernetes, event streaming, architecture decisions, technical leadership
+
+### [Enablement / documentation] SDK docs and Ops training for the new Firebase stack
+**Source:** Report #167 — Supabase — Edge Functions Engineer
+**S (Situation):** After migrating MTailor to Firebase/GCP, every engineer and the Ops team had to work productively on an unfamiliar stack.
+**T (Task):** Make the new platform self-serve for the rest of the company.
+**A (Action):** Wrote documentation for the Firebase SDKs (Node.js and Python) and trained the Ops team on the new dashboard and backup procedures.
+**R (Result):** Fellow engineers onboarded to the new stack from the docs; Ops ran backups independently (cv.md).
+**Reflection:** Good docs are a force multiplier — an hour of writing saved many hours of repeated explanation. Directly relevant to build-in-public, community-facing companies.
+**Best for questions about:** developer experience, documentation, knowledge sharing, cross-team collaboration

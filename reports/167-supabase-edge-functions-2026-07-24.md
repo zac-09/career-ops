@@ -100,7 +100,7 @@ Top 5 LinkedIn changes: (1) headline add "TypeScript · Serverless · Real-time 
 | 5 | Integrating functions with Auth/DB/Storage/Realtime | Firebase platform integration across 20+ apps | Post-migration, every app needed functions wired to Auth, Firestore, Storage, push | Standardize integration patterns | Wrote SDK documentation and trained Ops team (cv.md L34-35); built shared patterns | Fellow engineers onboarded to new stack from my docs | Good docs are a force multiplier — relevant to a "build in public" company |
 | 6 | Cost/resource limits awareness (CPU/memory provisioning) | AWS→GCP cost elimination | Company paying for duplicated AWS+GCP infra | Consolidate off AWS | Migrated S3→GCS via Python tooling, decommissioned EC2/EBS | $5,000/month saved (cv.md L21-22) | Measure before and after — savings claims need receipts |
 
-**Story bank:** Stories 1, 2, 4 already exist in `interview-prep/story-bank.md` (from report #127 lineage); story 3 and 5 appended this session.
+**Story bank:** Stories 1 and 3 already exist in `interview-prep/story-bank.md`; stories 2, 4, and 5 appended this session.
 
 **Recommended case study:** the Pub/Sub sync pipeline, presented as "distributing data close to where it's read, safely" — then bridge to the JD's thesis ("distribute both compute and data globally").
 
