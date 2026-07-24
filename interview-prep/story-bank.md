@@ -52,3 +52,30 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **Reflection:** Agentic loops fail when the model can't verify ground truth — Playwright snapshots beat WebSearch every time.
 **Best for questions about:** AI tooling fluency, builder mindset, automation, agentic workflows, observability, open-source.
 
+### [Performance optimization at scale] Real-time stock-price PWA over 2M+ Firestore records
+**Source:** Report #169 — Fueled — Senior Full Stack Engineer
+**S (Situation):** Dr Wealth's PWA served real-time stock prices from a Firebase backend; keeping 2M+ Firestore records current from Morningstar APIs was slow and costly.
+**T (Task):** Keep customer-facing prices current without blowing up latency or Firestore read costs.
+**A (Action):** Built ad-hoc batched query jobs to refresh prices from Morningstar APIs, optimizing read patterns and query shape instead of scaling hardware; extended the REST layer with Cloud Functions + Express.js.
+**R (Result):** Prices stayed current at 2M+ record scale on a lean Firebase backend.
+**Reflection:** In document stores, query shape matters more than instance size — model the data for the reads you actually serve.
+**Best for questions about:** Performance optimization, real-time data, NoSQL data modeling, cost optimization, working with third-party APIs.
+
+### [Frontend craft under deadline] Figma-to-React delivery at agency pace
+**Source:** Report #169 — Fueled — Senior Full Stack Engineer
+**S (Situation):** Mind2matter, a US agency with demanding clients, needed polished UIs shipped on tight timelines alongside DeFi backend work.
+**T (Task):** Turn Figma designs into pixel-accurate production React UIs without blowing deadlines.
+**A (Action):** Componentized the designs into reusable primitives first, then assembled pages from them; ran backend (Node.js/Web3) and frontend work in parallel, reporting directly to the CTO.
+**R (Result):** Delivered on deadline; client retained the agency.
+**Reflection:** Component thinking beats page thinking on deadline work — the second screen is nearly free if the first one was built as a system.
+**Best for questions about:** Frontend craft, design collaboration, agency/client pace, full-stack range, working under pressure.
+
+### [Business-impact features] Express Shipping and 3D visualization at MTailor
+**Source:** Report #169 — Fueled — Senior Full Stack Engineer
+**S (Situation):** MTailor's e-commerce product needed features that moved conversion and average order value, not just platform work.
+**T (Task):** Ship customer-facing features with measurable revenue impact.
+**A (Action):** Built Express Shipping end to end and a 3D visualisation feature using video overlay with ffmpeg, owning both from concept to deployment.
+**R (Result):** +$40 revenue per order from Express Shipping; improved buyer conversion from the 3D feature.
+**Reflection:** Tie every feature to a money metric before you build it — it changes what you build and how you argue for it.
+**Best for questions about:** Business impact, product mindset, end-to-end feature ownership, measurable outcomes, e-commerce.
+
