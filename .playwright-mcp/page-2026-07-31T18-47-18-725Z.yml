@@ -1,0 +1,223 @@
+- generic [ref=f6e2]:
+  - navigation [ref=f6e3]:
+    - generic [ref=f6e4]:
+      - link [ref=f6e5] [cursor=pointer]:
+        - /url: /
+      - list [ref=f6e27]:
+        - listitem [ref=f6e28] [cursor=pointer]:
+          - link "For LPs":
+            - /url: "#"
+        - listitem [ref=f6e29] [cursor=pointer]:
+          - link "For GPs":
+            - /url: "#"
+        - listitem [ref=f6e30] [cursor=pointer]:
+          - link "Resources":
+            - /url: "#"
+        - listitem [ref=f6e31] [cursor=pointer]:
+          - link "Company":
+            - /url: "#"
+      - generic [ref=f6e32]:
+        - link "Request a Demo" [ref=f6e33] [cursor=pointer]:
+          - /url: "#get-in-touch"
+        - link "Log In" [ref=f6e34] [cursor=pointer]:
+          - /url: https://auth.chronograph.pe/login
+  - iframe [ref=f6e39]:
+    
+  - contentinfo [ref=f6e40]:
+    - generic [ref=f6e43]:
+      - link [ref=f6e45] [cursor=pointer]:
+        - /url: /
+        - img "Chronograph" [ref=f6e46]
+      - generic [ref=f6e48]:
+        - link "Request a Demo" [ref=f6e49] [cursor=pointer]:
+          - /url: "#get-in-touch"
+        - link "Login short-arrow-top-right" [ref=f6e53] [cursor=pointer]:
+          - /url: https://auth.chronograph.pe/login
+          - text: Login
+          - img "short-arrow-top-right" [ref=f6e54]
+    - list [ref=f6e65]:
+      - listitem [ref=f6e66]:
+        - link "Company":
+          - /url: "#"
+        - list [ref=f6e67]:
+          - listitem [ref=f6e68]:
+            - link "About" [ref=f6e69] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/about/
+          - listitem [ref=f6e70]:
+            - link "Careers" [ref=f6e71] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/careers/
+          - listitem [ref=f6e72]:
+            - link "Job Openings" [ref=f6e73] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/jobs/
+          - listitem [ref=f6e74]:
+            - link "Partners" [ref=f6e75] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/partners/
+          - listitem [ref=f6e76]:
+            - link "Legal" [ref=f6e77] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/legal/
+          - listitem [ref=f6e78]:
+            - link "Contact" [ref=f6e79] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/contact/
+      - listitem [ref=f6e80]:
+        - link "Resources" [ref=f6e81] [cursor=pointer]:
+          - /url: /resources/
+        - list [ref=f6e82]:
+          - listitem [ref=f6e83]:
+            - link "News" [ref=f6e84] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/category/news/
+          - listitem [ref=f6e85]:
+            - link "Blog" [ref=f6e86] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/category/blog/
+          - listitem [ref=f6e87]:
+            - link "Reports" [ref=f6e88] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/reports/
+          - listitem [ref=f6e89]:
+            - link "GP Help Center" [ref=f6e90] [cursor=pointer]:
+              - /url: https://gp-help.chronograph.pe/
+          - listitem [ref=f6e91]:
+            - link "LP Help Center" [ref=f6e92] [cursor=pointer]:
+              - /url: https://lp-help.chronograph.pe/
+          - listitem [ref=f6e93]:
+            - link "Service Status" [ref=f6e94] [cursor=pointer]:
+              - /url: https://status.chronograph.pe/
+          - listitem [ref=f6e95]:
+            - link "Sandbox" [ref=f6e96] [cursor=pointer]:
+              - /url: https://auth.sandbox.chronograph.pe/
+          - listitem [ref=f6e97]:
+            - link "Log In" [ref=f6e98] [cursor=pointer]:
+              - /url: https://auth.chronograph.pe/login
+      - listitem [ref=f6e99]:
+        - link "LP Solutions" [ref=f6e100] [cursor=pointer]:
+          - /url: https://www.chronograph.pe/limited-partners/
+        - list [ref=f6e101]:
+          - listitem [ref=f6e102]:
+            - link "LP Overview" [ref=f6e103] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/
+          - listitem [ref=f6e104]:
+            - link "Performance & Analytics" [ref=f6e105] [cursor=pointer]:
+              - /url: /limited-partners/#analytics
+          - listitem [ref=f6e106]:
+            - link "Reporting" [ref=f6e107] [cursor=pointer]:
+              - /url: /limited-partners/#reporting
+          - listitem [ref=f6e108]:
+            - link "Data Management" [ref=f6e109] [cursor=pointer]:
+              - /url: /limited-partners/#data-management
+          - listitem [ref=f6e110]:
+            - link "ESG" [ref=f6e111] [cursor=pointer]:
+              - /url: /limited-partners/#esg
+          - listitem [ref=f6e112]:
+            - link "API Connectivity" [ref=f6e113] [cursor=pointer]:
+              - /url: /limited-partners/#api
+          - listitem [ref=f6e114]:
+            - link "Snowflake Data Warehousing" [ref=f6e115] [cursor=pointer]:
+              - /url: /limited-partners/#data-warehouse
+      - listitem [ref=f6e116]:
+        - link "GP Solutions" [ref=f6e117] [cursor=pointer]:
+          - /url: https://www.chronograph.pe/general-partners/
+        - list [ref=f6e118]:
+          - listitem [ref=f6e119]:
+            - link "GP Overview" [ref=f6e120] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/
+          - listitem [ref=f6e121]:
+            - link "Data Management" [ref=f6e122] [cursor=pointer]:
+              - /url: /general-partners/#data-management
+          - listitem [ref=f6e123]:
+            - link "Reporting & Investor Relations" [ref=f6e124] [cursor=pointer]:
+              - /url: /general-partners/#reporting
+          - listitem [ref=f6e125]:
+            - link "Valuations & Modeling" [ref=f6e126] [cursor=pointer]:
+              - /url: /general-partners/#valuations
+          - listitem [ref=f6e127]:
+            - link "Analytics & Dashboarding" [ref=f6e128] [cursor=pointer]:
+              - /url: /general-partners/#analytics
+          - listitem [ref=f6e129]:
+            - link "ESG Enablement" [ref=f6e130] [cursor=pointer]:
+              - /url: /general-partners/#esg
+          - listitem [ref=f6e131]:
+            - link "APIs & Data Warehousing" [ref=f6e132] [cursor=pointer]:
+              - /url: /general-partners/#api
+      - listitem [ref=f6e133]:
+        - link "LP Investor Types" [ref=f6e134] [cursor=pointer]:
+          - /url: https://www.chronograph.pe/limited-partners/
+        - list [ref=f6e135]:
+          - listitem [ref=f6e136]:
+            - link "Fund of Funds" [ref=f6e137] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/fund-of-funds/
+          - listitem [ref=f6e138]:
+            - link "Pension Plans" [ref=f6e139] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/pension-plans/
+          - listitem [ref=f6e140]:
+            - link "Sovereign Wealth" [ref=f6e141] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/sovereign-wealth-funds/
+          - listitem [ref=f6e142]:
+            - link "Insurance" [ref=f6e143] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/insurance/
+          - listitem [ref=f6e144]:
+            - link "OCIOs" [ref=f6e145] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/ocios/
+          - listitem [ref=f6e146]:
+            - link "Foundations" [ref=f6e147] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/foundations-endowments/
+          - listitem [ref=f6e148]:
+            - link "Family Offices" [ref=f6e149] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/family-offices/
+      - listitem [ref=f6e150]:
+        - link "GP Investor Types" [ref=f6e151] [cursor=pointer]:
+          - /url: https://www.chronograph.pe/general-partners/
+        - list [ref=f6e152]:
+          - listitem [ref=f6e153]:
+            - link "Buyout" [ref=f6e154] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/buyout/
+          - listitem [ref=f6e155]:
+            - link "Growth Equity" [ref=f6e156] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/growth-equity/
+          - listitem [ref=f6e157]:
+            - link "Venture Capital" [ref=f6e158] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/venture-capital/
+          - listitem [ref=f6e159]:
+            - link "Infrastructure" [ref=f6e160] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/infrastructure/
+          - listitem [ref=f6e161]:
+            - link "Real Assets" [ref=f6e162] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/real-assets/
+          - listitem [ref=f6e163]:
+            - link "Hedge Funds" [ref=f6e164] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/hedge-funds/
+          - listitem [ref=f6e165]:
+            - link "Direct Lending" [ref=f6e166] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/direct-lending/
+          - listitem [ref=f6e167]:
+            - link "Mezzanine" [ref=f6e168] [cursor=pointer]:
+              - /url: /general-partners/mezzanine/
+    - generic [ref=f6e171]:
+      - generic [ref=f6e172]:
+        - generic [ref=f6e173]:
+          - link "New York (HQ) Ten Grand Street | Floor 4 Brooklyn, New York 11249 United States" [ref=f6e174] [cursor=pointer]:
+            - /url: https://goo.gl/maps/U7aSrTd1DjbNKfVU6
+          - link "London 150 Borough High St London SE1 1LB United Kingdom" [ref=f6e175] [cursor=pointer]:
+            - /url: https://maps.app.goo.gl/1cz7ppVvRisrGQcx9
+        - link "info@chronograph.pe" [ref=f6e176] [cursor=pointer]:
+          - /url: mailto:info@chronograph.pe
+      - list [ref=f6e178]:
+        - listitem [ref=f6e179]:
+          - link [ref=f6e180] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/chronograph
+        - listitem [ref=f6e182]:
+          - link [ref=f6e183] [cursor=pointer]:
+            - /url: https://github.com/chronograph-pe
+        - listitem [ref=f6e185]:
+          - link [ref=f6e186] [cursor=pointer]:
+            - /url: https://www.builtinnyc.com/company/chronograph
+    - generic [ref=f6e190]:
+      - generic [ref=f6e191]: © 2026 Chronograph. All rights reserved.
+      - list [ref=f6e193]:
+        - listitem [ref=f6e194]:
+          - link "Terms of Use" [ref=f6e195] [cursor=pointer]:
+            - /url: /legal/website-terms-of-use
+        - listitem [ref=f6e196]:
+          - link "Privacy Policy" [ref=f6e197] [cursor=pointer]:
+            - /url: /legal/privacy-policy
+        - listitem [ref=f6e198]:
+          - link "Sub-Processors" [ref=f6e199] [cursor=pointer]:
+            - /url: /legal/sub-processors/
+      - generic [ref=f6e200]: Made in Brooklyn

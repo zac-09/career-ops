@@ -1,0 +1,224 @@
+- iframe [ref=f6e39]:
+  - generic [ref=f10e1]:
+    - main [ref=f10e2]:
+      - generic [ref=f10e3]:
+        - generic [ref=f10e4]:
+          - link "Back to jobs" [ref=f10e5] [cursor=pointer]:
+            - /url: https://www.chronograph.pe/jobs/
+          - generic [ref=f10e9]:
+            - generic [ref=f10e10]:
+              - heading "Tech Lead, Product Engineering" [level=1] [ref=f10e11]
+              - generic [ref=f10e12]: Remote
+            - button "Apply" [ref=f10e16] [cursor=pointer]
+          - generic [ref=f10e17]:
+            - generic [ref=f10e18]:
+              - paragraph [ref=f10e19]:
+                - strong [ref=f10e20]: Overview
+              - paragraph [ref=f10e21]: Chronograph was founded to bring next-generation technology to private capital markets. Through our suite of cloud-based analytics and data management solutions, we help many of the world's largest and most sophisticated venture capital, private equity, and credit funds understand their investment performance in unprecedented detail, with over 258,000 private companies and 15,000 private capital funds monitored via our solution suite.
+              - paragraph [ref=f10e22]: At Chronograph, we get to go "behind the scenes" and work directly with investors who are driving some of the most impactful changes across high growth start-ups, global infrastructure and renewable energy, growth equity, and all other private capital strategies. The firm is backed by Sixth Street Growth, Summit Partners, Carlyle AlpInvest, and Nasdaq Inc., and has seen continuous rapid growth since its founding in 2016. Our client base today includes hundreds of investors and asset managers monitoring more than $5.9 trillion in invested capital with 8 of the 10 largest GPs and 5 of the 10 largest LPs using Chronograph.
+              - paragraph [ref=f10e23]:
+                - strong [ref=f10e24]: The Opportunity
+              - paragraph [ref=f10e25]: As a key member of our team, you will lead and deliver projects from concept to production; driving core technical direction while working closely with key stakeholders. Our engineering teams collaborate daily with product managers and designers to build exceptional software. An ideal candidate for this role will have both sharp technical skills and a keen product sensibility.
+              - paragraph [ref=f10e26]: "You’ll join a highly-driven team of engineers, contributing both as a technical leader and a hands-on full-stack developer. Our platform handles critical financial data, offering extensive workflow and data analysis tools along with an innovative data ingestion platform. This is an opportunity to make a real-world impact: you will tackle challenging technical problems and contribute to a platform relied upon by leaders in the private equity space."
+              - paragraph [ref=f10e27]: This is an exceptional opportunity for a driven, detail-oriented top performer to become directly engaged with several of the world’s most sophisticated private equity investors and produce an immediate impact within a globally-focused financial technology firm.
+              - paragraph [ref=f10e28]:
+                - strong [ref=f10e29]: "As a Tech Lead at Chronograph, you will:"
+              - list [ref=f10e30]:
+                - listitem [ref=f10e31]: "Own and lead technical projects from product ideation to successful execution, including: technical decisions, architectural designs, data structures, and development approach"
+                - listitem [ref=f10e32]: Collaborate with engineering, product, and design to architect high-performance and user-centric features to drive direct client impact among leaders in the private equity space
+                - listitem [ref=f10e33]: Champion platform reliability and data integrity while maintaining development velocity, making thoughtful decisions that advance both technical quality and product outcomes
+                - listitem [ref=f10e34]: Mentor and provide guidance to engineers across all levels, with opportunities to grow into direct people management, fostering a culture of continuous learning and developing future technical leaders
+                - listitem [ref=f10e35]: Identify new technologies and best practices to promote a culture of continuous improvement
+              - paragraph [ref=f10e36]:
+                - strong [ref=f10e37]: "You will be successful in this role if you have:"
+              - list [ref=f10e38]:
+                - listitem [ref=f10e39]: At least 9 years of professional development experience, with a proven track record of leading complex technical projects
+                - listitem [ref=f10e40]: Expertise in Typescript, Node, PostgreSQL and GraphQL, in particular schema and API design
+                - listitem [ref=f10e41]: Fluency in frontend frameworks and patterns such as React and React Query
+                - listitem [ref=f10e42]: Aptitude for navigating ambiguity and designing solutions that account for cross-system implications—spanning data models, validations, application logic and user workflows
+                - listitem [ref=f10e43]: Excellent leadership and communication skills, with demonstrated ability to drive consensus across stakeholders and distill complex technical concepts for diverse audiences
+                - listitem [ref=f10e44]: A track record of balancing technical solutions with business outcomes, making thoughtful tradeoffs that serve both immediate needs and long-term platform health
+              - list [ref=f10e45]:
+                - listitem [ref=f10e46]: "Nice-to-haves:"
+                - list [ref=f10e47]:
+                  - listitem [ref=f10e48]: Experience implementing and extending modern JavaScript libraries such as SpreadJS, HyperFormula, FinnFlo-js, and AG Grid
+                  - listitem [ref=f10e49]: Background in building computation-heavy services where accuracy and performance are imperative
+                  - listitem [ref=f10e50]: Experience expanding complex data models to fit evolving application use cases
+                  - listitem [ref=f10e51]: Passionate about emerging tools that improve developer velocity, including AI-assisted coding
+              - paragraph [ref=f10e52]: Even if you do not meet all criteria, we would still encourage you to apply or get in touch! Chronograph offers an entrepreneurial environment where you will be able to proactively identify opportunities to develop and strengthen our team.
+              - paragraph [ref=f10e53]:
+                - strong [ref=f10e54]: Why Join Chronograph?
+              - paragraph [ref=f10e55]: We value creativity, open communication, and cutting edge technology – and we try to have fun along the way. We want you to be happy here for the long-term and will work with you to ensure you’re achieving your career goals.
+              - paragraph [ref=f10e56]: "We offer:"
+              - list [ref=f10e57]:
+                - listitem [ref=f10e58]: Competitive salary
+                - listitem [ref=f10e59]: Flexible work arrangements (including remote / in person / hybrid)
+                - listitem [ref=f10e60]: 401(k)
+                - listitem [ref=f10e61]: Unlimited and flexible vacation
+                - listitem [ref=f10e62]: Generous health benefits
+                - listitem [ref=f10e63]: Company-wide team events at our Brooklyn, NY headquarters three times a year for all employees
+                - listitem [ref=f10e64]: Fully-paid parental leave
+                - listitem [ref=f10e65]: ...and more!
+              - paragraph [ref=f10e66]: Chronograph is committed to promoting a diverse and inclusive culture, and we welcome applicants from all backgrounds. If you’re a team player who wants to have an outsized impact in a dynamic and diverse environment, we’d love to hear from you!
+            - generic [ref=f10e68]:
+              - paragraph [ref=f10e69]: Salary Range (dependent on experience)
+              - paragraph [ref=f10e70]: $185,000 - $220,000 USD
+          - generic [ref=f10e74]:
+            - paragraph [ref=f10e75]: Create a Job Alert
+            - paragraph [ref=f10e76]: Interested in building your career at Chronograph? Get future opportunities sent straight to your email.
+            - link "Create alert" [ref=f10e77] [cursor=pointer]:
+              - /url: https://my.greenhouse.io/users/sign_in?job_board=chronograph&source=job_alert_post
+        - separator [ref=f10e78]
+        - generic [ref=f10e79]:
+          - generic [ref=f10e80]:
+            - generic [ref=f10e81]:
+              - heading "Apply for this job" [level=2] [ref=f10e83]
+              - generic [ref=f10e84]:
+                - paragraph [ref=f10e86]: "*"
+                - paragraph [ref=f10e87]: indicates a required field
+            - button "Quick Apply with MyGreenhouse" [ref=f10e90] [cursor=pointer]
+          - generic [ref=f10e91]:
+            - generic [ref=f10e92]:
+              - generic [ref=f10e95]:
+                - generic [ref=f10e96]: First Name*
+                - textbox "First Name" [ref=f10e97]
+              - generic [ref=f10e100]:
+                - generic [ref=f10e101]: Last Name*
+                - textbox "Last Name" [ref=f10e102]
+              - generic [ref=f10e105]:
+                - generic [ref=f10e106]: Email*
+                - textbox "Email" [ref=f10e107]
+              - group "Phone" [ref=f10e109]:
+                - generic [ref=f10e113]:
+                  - generic [ref=f10e114]: Country*
+                  - generic [ref=f10e115]:
+                    - log [ref=f10e117]
+                    - generic [ref=f10e119]:
+                      - combobox "Country" [ref=f10e122]
+                      - button "Toggle flyout" [ref=f10e124] [cursor=pointer]
+                    - textbox
+                - generic [ref=f10e129]:
+                  - generic [ref=f10e130]: Phone*
+                  - textbox "Phone" [ref=f10e132]
+              - generic [ref=f10e133]:
+                - generic [ref=f10e135]:
+                  - generic [ref=f10e136]: Location (City)*
+                  - generic [ref=f10e137]:
+                    - log [ref=f10e139]
+                    - combobox "Location (City)" [ref=f10e144]
+                    - textbox
+                - button "Locate me" [ref=f10e145] [cursor=pointer]
+              - group "Resume/CV*" [ref=f10e147]:
+                - generic [ref=f10e150]:
+                  - generic [ref=f10e152]:
+                    - button "Attach" [ref=f10e153] [cursor=pointer]
+                    - generic [ref=f10e154]: Attach
+                    - button "Attach" [ref=f10e155]
+                  - generic [ref=f10e157]:
+                    - button "Enter manually" [ref=f10e158] [cursor=pointer]
+                    - generic [ref=f10e159]: Enter manually
+                  - paragraph [ref=f10e160]: "Accepted file types: pdf, doc, docx, txt, rtf"
+              - group "Cover Letter" [ref=f10e162]:
+                - generic [ref=f10e165]:
+                  - generic [ref=f10e167]:
+                    - button "Attach" [ref=f10e168] [cursor=pointer]
+                    - generic [ref=f10e169]: Attach
+                    - button "Attach" [ref=f10e170]
+                  - generic [ref=f10e172]:
+                    - button "Enter manually" [ref=f10e173] [cursor=pointer]
+                    - generic [ref=f10e174]: Enter manually
+                  - paragraph [ref=f10e175]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - generic [ref=f10e176]:
+              - generic [ref=f10e177]:
+                - separator [ref=f10e178]
+                - paragraph [ref=f10e180]: Education
+                - generic [ref=f10e182]:
+                  - generic [ref=f10e183]: School
+                  - generic [ref=f10e184]:
+                    - log [ref=f10e186]
+                    - generic [ref=f10e188]:
+                      - generic [ref=f10e189]:
+                        - generic [ref=f10e190]: Select...
+                        - combobox "School" [ref=f10e192]
+                      - button "Toggle flyout" [ref=f10e194] [cursor=pointer]
+                - generic [ref=f10e198]:
+                  - generic [ref=f10e199]: Degree
+                  - generic [ref=f10e200]:
+                    - log [ref=f10e202]
+                    - generic [ref=f10e204]:
+                      - generic [ref=f10e205]:
+                        - generic [ref=f10e206]: Select...
+                        - combobox "Degree" [ref=f10e208]
+                      - button "Toggle flyout" [ref=f10e210] [cursor=pointer]
+                - generic [ref=f10e214]:
+                  - generic [ref=f10e215]: Discipline
+                  - generic [ref=f10e216]:
+                    - log [ref=f10e218]
+                    - generic [ref=f10e220]:
+                      - generic [ref=f10e221]:
+                        - generic [ref=f10e222]: Select...
+                        - combobox "Discipline" [ref=f10e224]
+                      - button "Toggle flyout" [ref=f10e226] [cursor=pointer]
+              - button "Add another" [ref=f10e229] [cursor=pointer]
+            - generic [ref=f10e230]:
+              - separator [ref=f10e231]
+              - generic [ref=f10e234]:
+                - generic [ref=f10e235]: Are you legally authorized to work in the United States? *
+                - generic [ref=f10e236]:
+                  - log [ref=f10e238]
+                  - generic [ref=f10e240]:
+                    - generic [ref=f10e241]:
+                      - generic [ref=f10e242]: Select...
+                      - combobox "Are you legally authorized to work in the United States?" [ref=f10e244]
+                    - button "Toggle flyout" [ref=f10e246] [cursor=pointer]
+                  - textbox
+              - generic [ref=f10e251]:
+                - generic [ref=f10e252]: Would you require sponsorship now or in the future?*
+                - generic [ref=f10e253]:
+                  - log [ref=f10e255]
+                  - generic [ref=f10e257]:
+                    - generic [ref=f10e258]:
+                      - generic [ref=f10e259]: Select...
+                      - combobox "Would you require sponsorship now or in the future?" [ref=f10e261]
+                    - button "Toggle flyout" [ref=f10e263] [cursor=pointer]
+                  - textbox
+              - generic [ref=f10e268]:
+                - generic [ref=f10e269]: Please share your LinkedIn profile.*
+                - textbox "Please share your LinkedIn profile." [ref=f10e270]
+              - generic [ref=f10e273]:
+                - generic [ref=f10e274]: Please confirm the city and state in which you reside.*
+                - textbox "Please confirm the city and state in which you reside." [ref=f10e275]
+              - group "How many years of experience do you have working with Typescript?" [ref=f10e277]:
+                - generic [ref=f10e279]:
+                  - checkbox "1-3 years" [ref=f10e281]
+                  - generic [ref=f10e282]: 1-3 years
+                - generic [ref=f10e283]:
+                  - checkbox "3-5 years" [ref=f10e285]
+                  - generic [ref=f10e286]: 3-5 years
+                - generic [ref=f10e287]:
+                  - checkbox "5-7 years" [ref=f10e289]
+                  - generic [ref=f10e290]: 5-7 years
+              - generic [ref=f10e291]:
+                - generic [ref=f10e293]:
+                  - generic [ref=f10e294]: "What will the output of the SQL query be, if the following statements are each true about the transactions table: - It contains 80 records with status = 'approved' - It contains 60 records with amount > 1000 - In total it contains 30 records with both status = 'approved' and amount > 1000*"
+                  - generic [ref=f10e295]:
+                    - log [ref=f10e297]
+                    - generic [ref=f10e299]:
+                      - generic [ref=f10e300]:
+                        - generic [ref=f10e301]: Select...
+                        - 'combobox "What will the output of the SQL query be, if the following statements are each true about the transactions table: - It contains 80 records with status = ''approved'' - It contains 60 records with amount > 1000 - In total it contains 30 records with both status = ''approved'' and amount > 1000" [ref=f10e303]'
+                      - button "Toggle flyout" [ref=f10e305] [cursor=pointer]
+                    - textbox
+                - paragraph [ref=f10e310]:
+                  - link "PostgreSQL Query" [ref=f10e311] [cursor=pointer]:
+                    - /url: https://gist.github.com/cx-recruiting/be3adb88ef2192c76d23dc06a1c89a1f
+            - separator [ref=f10e312]
+            - generic [ref=f10e314]:
+              - paragraph [ref=f10e316]: We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.
+              - link "Learn more" [ref=f10e317] [cursor=pointer]:
+                - /url: http://app7.greenhouse.io/ai_opt_out_request/job_post/5013760007/ai_opt_out
+            - button "Submit application" [ref=f10e319] [cursor=pointer]
+    - iframe [ref=f10e322]:
+      - generic [ref=f11e6]:
+        - text: protected by
+        - strong [ref=f11e7]: reCAPTCHA

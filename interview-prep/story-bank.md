@@ -106,3 +106,21 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Fellow engineers onboarded to the new stack from the docs; Ops ran backups independently (cv.md).
 **Reflection:** Good docs are a force multiplier — an hour of writing saved many hours of repeated explanation. Directly relevant to build-in-public, community-facing companies.
 **Best for questions about:** developer experience, documentation, knowledge sharing, cross-team collaboration
+
+### [Building for underserved users] USSD legal-aid service for rural Uganda
+**Source:** Report #174 — M-KOPA — Software Engineering Team Lead
+**S (Situation):** Legal-aid providers in Uganda needed to reach citizens without smartphones or data connections — the same "Every Day Earners" demographic African fintechs serve.
+**T (Task):** Deliver legal-aid access over infrastructure those users actually have: basic phones.
+**A (Action):** Built a USSD service communicating with a Node.js backend via gRPC, with a provider-agnostic contract so multiple legal-aid providers could integrate without bespoke code (CodeBits).
+**R (Result):** Multiple USSD providers integrated against one surface; rural users reached legal aid from feature phones.
+**Reflection:** Meet users on the infrastructure they have, not the one you wish they had — low-tech front ends can sit on rigorous distributed backends.
+**Best for questions about:** financial/digital inclusion, African market context, emerging-market product constraints, USSD/offline-first design, mission fit.
+
+### [Learning a new stack fast] Contractor on an unfamiliar stack to company-wide migration lead
+**Source:** Report #174 — M-KOPA — Software Engineering Team Lead
+**S (Situation):** Hired via Upwork as a contractor at MTailor for a complex migration onto Firebase/GCP — a stack he had not used in production before.
+**T (Task):** Deliver migration scripts and prove himself on unfamiliar technology under contract scrutiny.
+**A (Action):** Learned the stack while shipping: built the MongoDB→Firestore migration scripts with complex processing logic, then wrote the Firebase SDK documentation other engineers onboarded from and trained the Ops team.
+**R (Result):** Converted from contractor to full-time within months and was given leadership of the entire 20+ app, zero-downtime migration, reporting to the CTO.
+**Reflection:** Learning velocity is demonstrable, not claimable — the fastest way to answer "you haven't used our stack" is a track record of going from newcomer to teacher on someone else's.
+**Best for questions about:** stack gaps (e.g., C#/.NET, new languages), adaptability, ramp-up speed, contractor-to-leader growth, handling the "you don't know X" objection.
