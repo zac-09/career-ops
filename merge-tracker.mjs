@@ -43,11 +43,24 @@ function normalizeCompany(name) {
   return name.toLowerCase().replace(/[^a-z0-9]/g, '');
 }
 
+const GENERIC_ROLE_WORDS = new Set([
+  'senior', 'junior', 'staff', 'principal', 'lead', 'head',
+  'software', 'engineer', 'engineering', 'developer', 'manager',
+  'remote', 'global', 'technical',
+]);
+
 function roleFuzzyMatch(a, b) {
-  const wordsA = a.toLowerCase().split(/\s+/).filter(w => w.length > 3);
-  const wordsB = b.toLowerCase().split(/\s+/).filter(w => w.length > 3);
+  const words = s => s.toLowerCase().split(/[^a-z0-9]+/)
+    .filter(w => w.length > 3 && !GENERIC_ROLE_WORDS.has(w));
+  const wordsA = words(a);
+  const wordsB = words(b);
+  // Titles made of only generic words (e.g. "Senior Software Engineer"): exact compare
+  if (!wordsA.length || !wordsB.length) {
+    const norm = s => s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+    return norm(a) === norm(b);
+  }
   const overlap = wordsA.filter(w => wordsB.some(wb => wb.includes(w) || w.includes(wb)));
-  return overlap.length >= 2;
+  return overlap.length >= Math.min(2, wordsA.length, wordsB.length);
 }
 
 function extractReportNum(reportStr) {
