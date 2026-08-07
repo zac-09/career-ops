@@ -1,0 +1,16 @@
+[    3183ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://accounts.toggl.com/api/sessions:0
+[    4251ms] [ERROR] Load failed, error in settings @ https://cdn.vector.co/pixel.js:1
+[    4251ms] [ERROR] No visitor ID available. Load may have failed. @ https://cdn.vector.co/pixel.js:1
+[    4251ms] [ERROR] identify error: Error: No visitor ID available. Load may have failed.
+    at https://cdn.vector.co/pixel.js:2:219356
+    at Generator.<anonymous> (https://cdn.vector.co/pixel.js:2:212674)
+    at Generator.next (https://cdn.vector.co/pixel.js:2:213504)
+    at l (https://cdn.vector.co/pixel.js:2:213684)
+    at a (https://cdn.vector.co/pixel.js:2:213886) @ https://cdn.vector.co/pixel.js:1
+[    4252ms] Uncaught (in promise) Error: No visitor ID available. Load may have failed.
+    at <anonymous> (https://cdn.vector.co/pixel.js:1:219355)
+    at <anonymous> (https://cdn.vector.co/pixel.js:1:212673)
+    at <anonymous> (https://cdn.vector.co/pixel.js:1:213503)
+    at l (https://cdn.vector.co/pixel.js:1:213683)
+    at a (https://cdn.vector.co/pixel.js:1:213885)
+[    4385ms] [WARNING] Datadog Browser SDK: No storage available for session. We will not send any data. @ https://cdn.ashbyprd.com/frontend_non_user/bb0b9eb8961764a77c995a0410b52c911d97ac77/assets/index-BGbKo_CG.js:32
