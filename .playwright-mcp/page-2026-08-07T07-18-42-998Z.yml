@@ -1,0 +1,394 @@
+- generic [active] [ref=f8e1]:
+  - region "Cookie Banner" [ref=f8e2]:
+    - generic [ref=f8e3]: 🍪 Cookie Notice
+    - paragraph [ref=f8e6]:
+      - text: We use cookies to learn how you interact with our content, and show you relevant content and ads based on your browsing history. You can adjust your settings below. Here's
+      - link "our policy" [ref=f8e7] [cursor=pointer]:
+        - /url: /legal/privacy-policy
+      - text: .
+    - generic [ref=f8e8]:
+      - button "Only necessary" [ref=f8e9] [cursor=pointer]
+      - button "Accept all" [ref=f8e10] [cursor=pointer]
+      - link "Cookie settings" [ref=f8e11] [cursor=pointer]:
+        - /url: /cookie-settings
+  - generic [ref=f8e12]:
+    - link "Skip to main content" [ref=f8e14] [cursor=pointer]:
+      - /url: "#main"
+    - paragraph [ref=f8e18]:
+      - text: JoyConf 2026 is back. Content Confidence. Human Connection.
+      - link "Save your spot!" [ref=f8e19] [cursor=pointer]:
+        - /url: https://www.storyblok.com/joyconf
+  - banner [ref=f8e21]:
+    - navigation [ref=f8e22]:
+      - link [ref=f8e23] [cursor=pointer]:
+        - /url: /
+        - img "Storyblok" [ref=f8e25]
+      - button "Open navigation menu" [ref=f8e29] [cursor=pointer]
+  - main [ref=f8e33]:
+    - generic [ref=f8e34]:
+      - generic [ref=f8e38]:
+        - generic [ref=f8e39]:
+          - heading "Joyful is more than a concept. It’s a mindset" [level=1] [ref=f8e40]
+          - paragraph [ref=f8e41]: Storyblok is a place that gives people the flexibility and independence to work where and how they want. So come here to work your way, alongside colleagues you’ll love and learn from, across 45+ countries.
+        - link "See open positions" [ref=f8e43] [cursor=pointer]:
+          - /url: /jobs#open-positions
+      - generic [ref=f8e67]:
+        - 'heading "3 reasons you’ll love working here: the people, pizza & dogs…" [level=2] [ref=f8e70]'
+        - list [ref=f8e72]:
+          - listitem [ref=f8e73]:
+            - list [ref=f8e75]:
+              - listitem [ref=f8e76]:
+                - generic [ref=f8e78]:
+                  - heading "1. Work from anywhere" [level=3] [ref=f8e80]
+                  - paragraph [ref=f8e85]: Storyblok has been a remote-only company since day one. Because choosing where you work from means you can live your life while still being productive. Want to walk your dog? Meet a friend for coffee and donuts? Or simply take an afternoon nap (with your cat)? You do you. Just let us know where to get the best donuts, eh.
+              - listitem [ref=f8e86]:
+                - generic [ref=f8e88]:
+                  - heading "2. People you’ll love and learn from" [level=3] [ref=f8e90]
+                  - paragraph [ref=f8e95]: Being fully-remote means we can hire the best talent – and top-notch people – from across the world. We’re a diverse team spread across more than 45 countries, united by a love of furry animals and a belief in certain values (see below). You can rely on your colleagues here. And learn from them. Heck, you might end up calling some of them friends. Yay! Let’s get pizzzzzzzza!
+              - listitem [ref=f8e96]:
+                - generic [ref=f8e98]:
+                  - heading "3. Do work you’re proud of" [level=3] [ref=f8e100]
+                  - paragraph [ref=f8e105]: "At Storyblok our aim is bold and plain: to be the CMS that devs and content teams love the most. And we’re well on our way, according to our customer reviews, awards, and recognition from leading analysts. Join us and you'll be shaping the future of CMS, working on stuff you’d proudly tell your parents about (even if they might not understand what you’re talking about)."
+      - generic [ref=f8e108]:
+        - generic [ref=f8e109]: Meet our team of dreamers
+        - paragraph [ref=f8e111]: We love smart, empathetic people who are brilliant at what they do. Proactive, solution-driven people who want to dive head first into the big ideas (and figure out the details along the way). People with dreams beyond their careers, who want balance and freedom in their life—not all-work, all the time.Everyone here has their own unique story, heritage and experience that they bring with them every day. From pro-moto-racers and music anthropologists, to running fans, snow bunnies, marine biologists and yoga-fanatics. We’re all privileged to work alongside a wonderfully diverse and fascinating group of people.230 teammates, 45+ countries, 47+ nationalities
+      - generic [ref=f8e133]:
+        - generic [ref=f8e134]: Lydia loves the team around her
+        - generic [ref=f8e136]: Storyblok’s working environment helps me to get the best out of myself. The fantastic team inspires and supports me in solving challenges and creating the best possible solution.
+        - separator [ref=f8e137]
+        - generic [ref=f8e138]:
+          - img "Lydia Kothmeier" [ref=f8e139]
+          - paragraph [ref=f8e140]: Lydia Kothmeier, VP of Operations - Austria
+      - generic [ref=f8e143]:
+        - generic [ref=f8e146]:
+          - heading "Perks & Benefits" [level=2] [ref=f8e148]
+          - paragraph [ref=f8e151]:
+            - text: "Storyblok is a fully remote company, hiring excellent people from all over the world. 👉Explore the full list of Benefits & Perks: 🌎"
+            - link "Global Benefits & Perks" [ref=f8e152] [cursor=pointer]:
+              - /url: https://a.storyblok.com/f/88751/x/ea09e5d29e/benefits-perks_global.pdf
+            - text: 🇺🇸
+            - link "US Benefits & Perks" [ref=f8e153] [cursor=pointer]:
+              - /url: https://a.storyblok.com/f/88751/x/b0722aa5de/benefits-perks_usa.pdf
+            - text: 🇬🇧
+            - link "UK Benefits & Perks" [ref=f8e154] [cursor=pointer]:
+              - /url: https://a.storyblok.com/f/88751/x/361c920aee/perks-benefits-uk.pdf
+        - separator [ref=f8e155]
+        - generic [ref=f8e156]:
+          - list [ref=f8e159]:
+            - listitem [ref=f8e160]:
+              - paragraph [ref=f8e167]: Flexible & Fully-Remote Work Environment As a fully remote company with work-life balance at its core, you can arrange start times and finish times around your life.
+            - listitem [ref=f8e168]:
+              - paragraph [ref=f8e175]: Working Hours We follow each local country’s jurisdiction or the maximum amount of 38.5 hours per week.
+            - listitem [ref=f8e176]:
+              - paragraph [ref=f8e184]: Generous Vacation, Sick, Parental & Special Leave Policies You are entitled to 25 days paid annual leave, plus your local public holidays.
+            - listitem [ref=f8e185]:
+              - paragraph [ref=f8e192]: Team Events / Retreats As a fully remote company with team members living in different corners of the world, we have ongoing online fun team events.
+            - listitem [ref=f8e193]:
+              - paragraph [ref=f8e201]: Diverse Team We have team members in more than 45 countries now! We’re all made up of different backgrounds.
+            - listitem [ref=f8e202]:
+              - paragraph [ref=f8e207]: High-quality, cutting-edge, equipment We want you to have a comfortable and productive working environment where you feel at ease. We offer you our standard home office equipment package.
+            - listitem [ref=f8e208]:
+              - paragraph [ref=f8e215]: Wellbeing Your physical and mental health are important to us at Storyblok.
+          - list [ref=f8e218]:
+            - listitem [ref=f8e219]:
+              - paragraph [ref=f8e225]: Individual Working Environment + Home Allowance After your probation period you may continue working from home or opt for a local co-working space or rented office in your region if you wish.
+            - listitem [ref=f8e226]:
+              - paragraph [ref=f8e235]: Education and Development Opportunities We want to invest in you and make sure you have all the resources you need to grow within the company. In the beginning, we will provide you with training on the job, then support you with our Career Development Fund.
+            - listitem [ref=f8e236]:
+              - paragraph [ref=f8e241]: Competitive salary We have a fair and equitable compensation philosophy where we’ll always consider your experience, seniority and location.
+            - listitem [ref=f8e242]:
+              - paragraph [ref=f8e252]: Business Travel Insurance Storyblok wants all team members to be safe during their business travels. The Business Travel Insurance covers traveling abroad for business purposes.
+            - listitem [ref=f8e253]:
+              - paragraph [ref=f8e260]: Referral Incentives When you refer a candidate, you can get a referral bonus, and the candidate gets the chance to work in a fun and trusting environment.
+            - listitem [ref=f8e261]:
+              - paragraph [ref=f8e269]: Team Member Storyblok Swag & Celebration Gifts Each new team member receives a Storyblok welcome package - a Storyblok mug and a Storyblok T-shirt to show your pride in being part of our community and company.
+      - generic [ref=f8e273]:
+        - generic [ref=f8e274]: Christian loves the mutual trust
+        - generic [ref=f8e276]: The working environment at Storyblok is fantastic, with remote work and flexibility allowing me to support my wife and two kids, greatly improving my quality of life. This relationship is built on trust and understanding.
+        - separator [ref=f8e277]
+        - generic [ref=f8e278]:
+          - img "Christian Zoppi" [ref=f8e279]
+          - paragraph [ref=f8e280]: Christian Zoppi, Head of Website & Developer Experience - Italy
+      - generic [ref=f8e282]:
+        - generic [ref=f8e284]:
+          - heading "Thinking of joining us? Get to know our hiring process" [level=2] [ref=f8e285]
+          - paragraph [ref=f8e287]: The process may include one or more coffee chats, depending on the seniority of the role (or how much sleep we got last night).
+        - list [ref=f8e288]:
+          - listitem [ref=f8e289]:
+            - list [ref=f8e291]:
+              - listitem [ref=f8e292]:
+                - generic [ref=f8e294]:
+                  - heading "⭐️ On Our Radar" [level=3] [ref=f8e296]
+                  - paragraph [ref=f8e301]: Your application landed — and now it's got our full attention. Our Talent Acquisition team is giving your profile the deep-dive it deserves.
+              - listitem [ref=f8e302]:
+                - generic [ref=f8e304]:
+                  - heading "👋 Hello from Talent Acquisition (TA) Partner" [level=3] [ref=f8e306]
+                  - paragraph [ref=f8e311]: A first conversation with our TA team — we share more about the role, you share more about you.
+              - listitem [ref=f8e312]:
+                - generic [ref=f8e314]:
+                  - heading "🤝 Meet your Future Manager" [level=3] [ref=f8e316]
+                  - paragraph [ref=f8e321]: Aligned so far? Time to meet the person you'd actually report to and dig into the role in detail.
+              - listitem [ref=f8e322]:
+                - generic [ref=f8e324]:
+                  - heading "🧩 Team Connect" [level=3] [ref=f8e326]
+                  - paragraph [ref=f8e331]: Optional, but fun — meet a few future teammates and get a feel for the team.
+              - listitem [ref=f8e332]:
+                - generic [ref=f8e334]:
+                  - heading "🎯 Show Us How You Think" [level=3] [ref=f8e336]
+                  - paragraph [ref=f8e341]: This is your moment to shine — we'll send you a real task tied to the role. Walk us through your solution, since we're as curious about your process as your answer, not just what you know.
+              - listitem [ref=f8e342]:
+                - generic [ref=f8e344]:
+                  - heading "☕️ Leadership Connect" [level=3] [ref=f8e346]
+                  - paragraph [ref=f8e351]: Grab a virtual coffee with our leadership and talk culture, growth, and the big picture.
+              - listitem [ref=f8e352]:
+                - generic [ref=f8e354]:
+                  - heading "🎉 Let's Make an Offer" [level=3] [ref=f8e356]
+                  - paragraph [ref=f8e361]: Welcome to Storyblok. Let's build something great together.
+              - listitem [ref=f8e362]:
+                - generic [ref=f8e364]:
+                  - heading "🔎 Reference/Background Check" [level=3] [ref=f8e366]
+                  - paragraph [ref=f8e371]: Our final post-offer step, where we verify the required details before you join.
+      - generic [ref=f8e373]:
+        - generic [ref=f8e374]: Join our team
+        - heading "Open positions" [level=2] [ref=f8e381]
+        - paragraph [ref=f8e384]: Find a fulfilling role and let us know!
+      - generic [ref=f8e387]:
+        - generic [ref=f8e390]:
+          - generic [ref=f8e391]: Filters
+          - complementary "Filters" [ref=f8e395]:
+            - generic [ref=f8e397]:
+              - generic [ref=f8e398]: Search Jobs
+              - textbox "Search Jobs" [disabled] [ref=f8e404]:
+                - /placeholder: Search...
+            - button "Department" [disabled] [ref=f8e407]
+            - button "Region" [disabled] [ref=f8e418]
+        - generic [ref=f8e428]:
+          - generic [ref=f8e429]: Showing 0 items
+          - generic: Loading...
+        - list [ref=f8e435]:
+          - listitem [ref=f8e436]
+          - listitem [ref=f8e450]
+          - listitem [ref=f8e464]
+          - listitem [ref=f8e478]
+          - listitem [ref=f8e492]
+          - listitem [ref=f8e506]
+          - listitem [ref=f8e520]
+          - listitem [ref=f8e534]
+          - listitem [ref=f8e548]
+          - listitem [ref=f8e562]
+          - listitem [ref=f8e576]
+          - listitem [ref=f8e590]
+        - generic [ref=f8e604]: Showing 0 items
+  - contentinfo [ref=f8e607]:
+    - generic [ref=f8e608]:
+      - navigation [ref=f8e609]:
+        - generic [ref=f8e610]:
+          - heading "Platform" [level=2] [ref=f8e611]
+          - list [ref=f8e612]:
+            - listitem [ref=f8e613]:
+              - link "Product" [ref=f8e614] [cursor=pointer]:
+                - /url: /platform
+            - listitem [ref=f8e615]:
+              - link "Why Storyblok" [ref=f8e616] [cursor=pointer]:
+                - /url: /why-storyblok
+            - listitem [ref=f8e617]:
+              - link "Storyblok Labs" [ref=f8e618] [cursor=pointer]:
+                - /url: /lp/labs
+            - listitem [ref=f8e619]:
+              - link "Ecosystem" [ref=f8e620] [cursor=pointer]:
+                - /url: /ecosystem
+            - listitem [ref=f8e621]:
+              - link "App Directory" [ref=f8e622] [cursor=pointer]:
+                - /url: /app-store
+            - listitem [ref=f8e623]:
+              - link "Roadmap" [ref=f8e624] [cursor=pointer]:
+                - /url: /roadmap
+            - listitem [ref=f8e625]:
+              - link "What is Headless CMS" [ref=f8e626] [cursor=pointer]:
+                - /url: /tp/headless-cms-explained
+        - generic [ref=f8e627]:
+          - heading "Solutions" [level=2] [ref=f8e628]
+          - list [ref=f8e629]:
+            - listitem [ref=f8e630]:
+              - link "Enterprise" [ref=f8e631] [cursor=pointer]:
+                - /url: /enterprises
+            - listitem [ref=f8e632]:
+              - link "Developers" [ref=f8e633] [cursor=pointer]:
+                - /url: /lp/developers
+            - listitem [ref=f8e634]:
+              - link "Marketers" [ref=f8e635] [cursor=pointer]:
+                - /url: /marketers
+            - listitem [ref=f8e636]:
+              - link "MACH Alliance" [ref=f8e637] [cursor=pointer]:
+                - /url: /lp/mach-alliance
+            - listitem [ref=f8e638]:
+              - link "ROI Calculator" [ref=f8e639] [cursor=pointer]:
+                - /url: /lp/cms-roi-calculator
+        - generic [ref=f8e640]:
+          - heading "Developers" [level=2] [ref=f8e641]
+          - list [ref=f8e642]:
+            - listitem [ref=f8e643]:
+              - link "Quick Start" [ref=f8e644] [cursor=pointer]:
+                - /url: /technologies
+            - listitem [ref=f8e645]:
+              - link "Developer Guides" [ref=f8e646] [cursor=pointer]:
+                - /url: /technologies
+            - listitem [ref=f8e647]:
+              - link "Developer Tutorials" [ref=f8e648] [cursor=pointer]:
+                - /url: /tutorials
+            - listitem [ref=f8e649]:
+              - link "API Documentation (opens in a new window)" [ref=f8e650] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/api
+                - text: API Documentation
+                - generic [ref=f8e651]: (opens in a new window)
+            - listitem [ref=f8e652]:
+              - link "Changelog" [ref=f8e653] [cursor=pointer]:
+                - /url: /changelog
+            - listitem [ref=f8e654]:
+              - link "Next.js guide (opens in a new window)" [ref=f8e655] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/guides/nextjs/
+                - text: Next.js guide
+                - generic [ref=f8e656]: (opens in a new window)
+            - listitem [ref=f8e657]:
+              - link "Nuxt guide (opens in a new window)" [ref=f8e658] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/guides/nuxt/
+                - text: Nuxt guide
+                - generic [ref=f8e659]: (opens in a new window)
+            - listitem [ref=f8e660]:
+              - link "React guide (opens in a new window)" [ref=f8e661] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/guides/react/
+                - text: React guide
+                - generic [ref=f8e662]: (opens in a new window)
+            - listitem [ref=f8e663]:
+              - link "Vue.js guide (opens in a new window)" [ref=f8e664] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/guides/vue/
+                - text: Vue.js guide
+                - generic [ref=f8e665]: (opens in a new window)
+            - listitem [ref=f8e666]:
+              - link "Astro guide (opens in a new window)" [ref=f8e667] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/guides/astro/
+                - text: Astro guide
+                - generic [ref=f8e668]: (opens in a new window)
+            - listitem [ref=f8e669]:
+              - link "Eleventy guide (opens in a new window)" [ref=f8e670] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/guides/eleventy/
+                - text: Eleventy guide
+                - generic [ref=f8e671]: (opens in a new window)
+        - generic [ref=f8e672]:
+          - heading "Resources" [level=2] [ref=f8e673]
+          - list [ref=f8e674]:
+            - listitem [ref=f8e675]:
+              - link "Contact Sales" [ref=f8e676] [cursor=pointer]:
+                - /url: /fs/enterprise-contact
+            - listitem [ref=f8e677]:
+              - link "Blog" [ref=f8e678] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f8e679]:
+              - link "Whitepapers" [ref=f8e680] [cursor=pointer]:
+                - /url: /lp/whitepapers
+            - listitem [ref=f8e681]:
+              - link "Case Studies" [ref=f8e682] [cursor=pointer]:
+                - /url: /case-studies
+            - listitem [ref=f8e683]:
+              - link "Webinars & Events" [ref=f8e684] [cursor=pointer]:
+                - /url: /events
+            - listitem [ref=f8e685]:
+              - link "Content Editor Guides (opens in a new window)" [ref=f8e686] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/manuals
+                - text: Content Editor Guides
+                - generic [ref=f8e687]: (opens in a new window)
+            - listitem [ref=f8e688]:
+              - link "FAQs" [ref=f8e689] [cursor=pointer]:
+                - /url: /faqs
+            - listitem [ref=f8e690]:
+              - link "Services & Support" [ref=f8e691] [cursor=pointer]:
+                - /url: /trust-center/service-support
+            - listitem [ref=f8e692]:
+              - link "Service status (opens in a new window)" [ref=f8e693] [cursor=pointer]:
+                - /url: https://uptime.storyblok.com
+                - text: Service status
+                - generic [ref=f8e694]: (opens in a new window)
+        - generic [ref=f8e695]:
+          - heading "Company" [level=2] [ref=f8e696]
+          - list [ref=f8e697]:
+            - listitem [ref=f8e698]:
+              - link "About" [ref=f8e699] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f8e700]:
+              - link "Careers" [ref=f8e701] [cursor=pointer]:
+                - /url: /jobs
+              - generic [ref=f8e702]: 10+
+            - listitem [ref=f8e705]:
+              - link "Press" [ref=f8e706] [cursor=pointer]:
+                - /url: /press
+            - listitem [ref=f8e707]:
+              - link "Trust Center" [ref=f8e708] [cursor=pointer]:
+                - /url: /trust-center
+            - listitem [ref=f8e709]:
+              - link "Terms and Conditions" [ref=f8e710] [cursor=pointer]:
+                - /url: /legal/terms
+            - listitem [ref=f8e711]:
+              - link "Legal Notice" [ref=f8e712] [cursor=pointer]:
+                - /url: /legal/legal-notice
+            - listitem [ref=f8e713]:
+              - link "Accessibility Statement" [ref=f8e714] [cursor=pointer]:
+                - /url: /lp/accessibility
+            - listitem [ref=f8e715]:
+              - link "Sustainability" [ref=f8e716] [cursor=pointer]:
+                - /url: /lp/sustainability
+            - listitem [ref=f8e717]:
+              - link "Privacy Policy" [ref=f8e718] [cursor=pointer]:
+                - /url: /legal/privacy-policy
+            - listitem [ref=f8e719]:
+              - link "Cookie Settings" [ref=f8e720] [cursor=pointer]:
+                - /url: /cookie-settings
+      - generic [ref=f8e721]:
+        - paragraph [ref=f8e722]: Copyright © 2017-2026 Storyblok GmbH
+        - img "Storyblok" [ref=f8e724]
+        - navigation "Social media" [ref=f8e725]:
+          - list [ref=f8e726]:
+            - listitem [ref=f8e727]:
+              - link "Bluesky (opens in a new window)" [ref=f8e728] [cursor=pointer]:
+                - /url: https://bsky.app/profile/storyblok.com
+                - generic [ref=f8e732]: Bluesky
+                - generic [ref=f8e733]: (opens in a new window)
+            - listitem [ref=f8e734]:
+              - link "Twitter (opens in a new window)" [ref=f8e735] [cursor=pointer]:
+                - /url: https://www.x.com/storyblok
+                - generic [ref=f8e739]: Twitter
+                - generic [ref=f8e740]: (opens in a new window)
+            - listitem [ref=f8e741]:
+              - link "Discord (opens in a new window)" [ref=f8e742] [cursor=pointer]:
+                - /url: https://www.storyblok.com/join-discord
+                - generic [ref=f8e745]: Discord
+                - generic [ref=f8e746]: (opens in a new window)
+            - listitem [ref=f8e747]:
+              - link "Twitch (opens in a new window)" [ref=f8e748] [cursor=pointer]:
+                - /url: https://www.twitch.tv/storyblok
+                - generic [ref=f8e751]: Twitch
+                - generic [ref=f8e752]: (opens in a new window)
+            - listitem [ref=f8e753]:
+              - link "Reddit (opens in a new window)" [ref=f8e754] [cursor=pointer]:
+                - /url: https://www.reddit.com/r/storyblok_com/
+                - generic [ref=f8e760]: Reddit
+                - generic [ref=f8e761]: (opens in a new window)
+            - listitem [ref=f8e762]:
+              - link "LinkedIn (opens in a new window)" [ref=f8e763] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/storyblok
+                - generic [ref=f8e768]: LinkedIn
+                - generic [ref=f8e769]: (opens in a new window)
+            - listitem [ref=f8e770]:
+              - link "YouTube (opens in a new window)" [ref=f8e771] [cursor=pointer]:
+                - /url: https://www.youtube.com/c/Storyblok-com
+                - generic [ref=f8e776]: YouTube
+                - generic [ref=f8e777]: (opens in a new window)
+            - listitem [ref=f8e778]:
+              - link "Instagram (opens in a new window)" [ref=f8e779] [cursor=pointer]:
+                - /url: https://www.instagram.com/storybloklife/
+                - generic [ref=f8e784]: Instagram
+                - generic [ref=f8e785]: (opens in a new window)
+            - listitem [ref=f8e786]:
+              - link "Facebook (opens in a new window)" [ref=f8e787] [cursor=pointer]:
+                - /url: https://www.facebook.com/storyblok/
+                - generic [ref=f8e790]: Facebook
+                - generic [ref=f8e791]: (opens in a new window)
