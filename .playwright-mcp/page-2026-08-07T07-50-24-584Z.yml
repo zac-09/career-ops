@@ -1,0 +1,553 @@
+- generic [active] [ref=f49e1]:
+  - generic [ref=f49e2]:
+    - banner [ref=f49e3]:
+      - navigation [ref=f49e4]:
+        - paragraph [ref=f49e5]: Top navigation
+        - generic [ref=f49e6]:
+          - link "Buffer" [ref=f49e8] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f49e17]:
+            - button "Features" [ref=f49e19] [cursor=pointer]
+            - button "Integrations" [ref=f49e27] [cursor=pointer]
+            - button "Made for" [ref=f49e35] [cursor=pointer]
+            - button "Resources" [ref=f49e43] [cursor=pointer]
+            - link "Pricing" [ref=f49e50] [cursor=pointer]:
+              - /url: /pricing?cta=bufferSite-globalNav-pricing-pricing-1
+          - generic [ref=f49e51]:
+            - link "Log in" [ref=f49e52] [cursor=pointer]:
+              - /url: https://login.buffer.com/login?plan=free&cycle=year&cta=bufferSite-globalNav-login-1
+            - link "Get started for free" [ref=f49e54] [cursor=pointer]:
+              - /url: https://login.buffer.com/signup?product=buffer&plan=free&cycle=year&cta=bufferSite-globalNav-signup-1
+    - main [ref=f49e56]:
+      - generic [ref=f49e58]:
+        - link "Back to all open roles" [ref=f49e59] [cursor=pointer]:
+          - /url: /journey#open-roles
+        - heading "Senior Growth Engineer" [level=1] [ref=f49e63]
+        - paragraph
+        - link "Apply" [ref=f49e64] [cursor=pointer]:
+          - /url: "#apply"
+      - generic [ref=f49e69]:
+        - region [ref=f49e70]:
+          - heading "Role details" [level=2] [ref=f49e71]
+          - generic [ref=f49e72]:
+            - generic [ref=f49e73]:
+              - term [ref=f49e74]: Location
+              - definition [ref=f49e75]: Remote
+            - generic [ref=f49e76]:
+              - term [ref=f49e77]: Employment type
+              - definition [ref=f49e78]: Full time
+            - generic [ref=f49e79]:
+              - term [ref=f49e80]: Department
+              - definition [ref=f49e81]: Engineering
+            - generic [ref=f49e82]:
+              - term [ref=f49e83]: Compensation
+              - definition [ref=f49e84]:
+                - paragraph [ref=f49e85]: $156.5K – $202.3K • Offers Equity
+                - paragraph [ref=f49e86]: "We strive for Buffer’s approach to salary, equity, and benefits to be:"
+                - list [ref=f49e87]:
+                  - listitem [ref=f49e88]: Transparent
+                  - listitem [ref=f49e89]: Fair
+                  - listitem [ref=f49e90]: Simple
+                  - listitem [ref=f49e91]: Generous
+                - paragraph [ref=f49e92]:
+                  - link "Read more about our compensation philosophies and approach" [ref=f49e93] [cursor=pointer]:
+                    - /url: /resources/salary-system/
+                  - text: .
+        - region [ref=f49e94]:
+          - heading "Role description" [level=2] [ref=f49e95]
+          - generic [ref=f49e96]:
+            - heading "About Buffer" [level=2] [ref=f49e97]
+            - paragraph [ref=f49e98]: We create social media and brand-building software for small businesses, creators, and individuals. Our mission is to provide essential tools to help small businesses get off the ground and grow. Through exceptional customer service and uplifting content, we help our customers believe they can succeed and do good along the way.
+            - paragraph [ref=f49e99]:
+              - text: Buffer is a fully distributed team, and we’ve always aimed to do things a little differently at Buffer. Since the early days, we’ve focused on building one of the most unique and fulfilling workplaces by rethinking a lot of traditional practices. We also default to transparency, so you can read all about our metrics, and our successes and failures along the way on our
+              - link "Transparency Dashboard" [ref=f49e100] [cursor=pointer]:
+                - /url: https://buffer.com/open
+              - text: .
+            - paragraph [ref=f49e101]:
+              - text: We're united by Buffer's
+              - link "values" [ref=f49e102] [cursor=pointer]:
+                - /url: https://buffer.com/about#values
+              - text: ", and we hire and work from all over the world. We strive to create a diverse and inclusive work environment, and we are building a culture where underrepresented groups are welcome and can flourish. Please note that we do travel to work together in person once or twice per year, and those events are highly encouraged to build deeper connections among our small team."
+            - paragraph [ref=f49e103]:
+              - text: As you get to know Buffer and consider joining the journey, you can learn more about Buffer on our
+              - link "Journey" [ref=f49e104] [cursor=pointer]:
+                - /url: https://buffer.com/journey
+              - text: page. Still curious to learn more about the experience on the Buffer team? Feel free to read more from
+              - link "Kirsti" [ref=f49e105] [cursor=pointer]:
+                - /url: https://buffer.com/resources/first-30-days-buffer/
+              - text: and
+              - link "Sabreen" [ref=f49e106] [cursor=pointer]:
+                - /url: https://buffer.com/resources/joined-3-days-before-the-retreat/
+              - text: as they share their first experiences with Buffer, as well as from
+              - link "Hailley" [ref=f49e107] [cursor=pointer]:
+                - /url: https://buffer.com/resources/8-years-at-buffer/
+              - text: ", who captured why she still calls Buffer home after 8+ years."
+            - paragraph
+            - heading [level=2] [ref=f49e108]:
+              - strong [ref=f49e109]: About the Role
+            - paragraph [ref=f49e110]:
+              - text: We're looking for a Senior Engineer to join Buffer's Growth Marketing team. This is a hands-on engineering role building the web experiences, systems, and infrastructure that help Buffer grow. The work spans building features and pages across
+              - link "buffer.com" [ref=f49e111] [cursor=pointer]:
+                - /url: http://buffer.com
+              - text: ", interactive tools, referral systems, conversion flows, along with the technical implementation behind them: integrations with marketing tools, analytics and tracking systems, SEO infrastructure, and the backend logic that powers our marketing features."
+            - paragraph [ref=f49e112]: Buffer is on a mission to help the next 200,000 creators and small teams build their brands, and this role is central to making that happen. You'll be building the growth systems, experiments, and infrastructure that connect people with Buffer at the right moment, and help them take that first step. This is a chance to shape how we grow, not just keep pace with it.
+            - paragraph [ref=f49e113]: "We need someone who's comfortable across the full frontend scope, strong with React and modern web development, but also capable of diving into backend logic, connecting third-party APIs, debugging tracking pipelines, and figuring out what they don't know. The team values pace and iteration: we ship quickly, learn from real usage, and improve as we go. But we also care about craft, noticing the UX details and maintaining standards while keeping momentum."
+            - paragraph [ref=f49e114]: Working at Buffer is collaborative and positive thanks to our core values. We try to be "No Ego Doers" who are aware of our assumptions, and joining us means you'll work together as a team to test and confirm our ideas.
+            - paragraph
+            - heading [level=2] [ref=f49e115]:
+              - strong [ref=f49e116]: Who you'll work with
+            - paragraph [ref=f49e117]:
+              - text: This role reports to
+              - link "Kateryna Porshnieva" [ref=f49e118] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/kporshnieva/
+              - text: ", Head of Engineering Operations, and sits on the Marketing team. You'll collaborate on a variety of Brand and Product Marketing projects with the full Marketing team, partnering closely with"
+              - link "Simon Heaton" [ref=f49e119] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/heatonsimon/
+              - text: ", Director of Growth Marketing, and"
+              - link "Hailley Griffis" [ref=f49e120] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/hailleygriffis/
+              - text: ", Head of Communications and Content."
+            - paragraph [ref=f49e121]:
+              - text: You'll work day-to-day with most of the team, in particular
+              - link "Kate Baldrey" [ref=f49e122] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/katebaldrey/
+              - text: ", our Marketing UX Designer, to build web experiences that help people learn about and sign up for Buffer."
+            - paragraph
+            - heading [level=2] [ref=f49e123]:
+              - strong [ref=f49e124]: What you'll do
+            - list [ref=f49e125]:
+              - listitem [ref=f49e126]:
+                - paragraph [ref=f49e127]: Own growth engineering projects end-to-end, from implementing a localization framework for international audiences to building referral program logic, attribution systems, and rebuilding tracking infrastructure for accuracy and reliability. You'll take projects from concept to launch, partnering closely with marketing, design, and other engineers along the way.
+              - listitem [ref=f49e128]:
+                - paragraph [ref=f49e129]: Build features on Buffer's marketing site that help people discover and try Buffer, shipping landing pages, interactive tools, and conversion flows. Create benchmarks, calculators, and utility content that educate users and make Buffer genuinely useful before someone even signs up.
+              - listitem [ref=f49e130]:
+                - paragraph [ref=f49e131]: Shape our marketing platform capabilities by building the systems and frameworks that help the whole team move faster. Create A/B testing infrastructure, develop programmatic page generation for SEO and AEO, implement content management patterns, and build reusable components that make future projects easier to ship.
+              - listitem [ref=f49e132]:
+                - paragraph [ref=f49e133]: Drive experimentation and optimization, helping the team learn faster through code. Set up experiments, validate results, and iterate based on what we discover. You'll balance moving quickly with maintaining quality, because both matter here.
+              - listitem [ref=f49e134]:
+                - paragraph [ref=f49e135]:
+                  - text: Strengthen our foundations by maintaining integrations with our marketing technology stack (Segment, GTM, Mixpanel, BigQuery), upgrading dependencies, optimizing performance, and ensuring accessibility. You'll also participate in our on-call rotation and contribute to ongoing system health, because keeping
+                  - link "buffer.com" [ref=f49e136] [cursor=pointer]:
+                    - /url: http://buffer.com
+                  - text: running smoothly is a shared responsibility we all take seriously.
+              - listitem [ref=f49e137]:
+                - paragraph [ref=f49e138]: Help shape our engineering culture by pairing with other engineers, reviewing code, sharing knowledge about growth systems and marketing engineering patterns, and raising the bar for how we approach frontend work together at Buffer.
+            - paragraph
+            - heading [level=2] [ref=f49e139]:
+              - strong [ref=f49e140]: Helpful skills and experience
+            - list [ref=f49e141]:
+              - listitem [ref=f49e142]:
+                - paragraph [ref=f49e143]: You have strong frontend foundations in React, TypeScript, and modern web development, and you're comfortable going beyond the frontend when the work calls for it - writing backend logic, building API routes, connecting third-party integrations. Our site runs on Next.js, but we care more about your adaptability than matching our exact stack.
+              - listitem [ref=f49e144]:
+                - paragraph [ref=f49e145]: You understand what it takes to grow something. Maybe you've worked on a marketing or growth team and have hands-on experience with SEO, analytics, A/B testing, and conversion optimization. Or maybe you've grown your own product, startup, or side project and learned these things by doing - building referral systems, running experiments, and figuring out what converts and why. Either way, you know how to measure impact and you're motivated by the numbers moving.
+              - listitem [ref=f49e146]:
+                - paragraph [ref=f49e147]: You think beyond the immediate task. You care about how things connect, whether they'll hold up, and whether the details are right - but you also know when to ship and learn from real usage rather than polish indefinitely.
+              - listitem [ref=f49e148]:
+                - paragraph [ref=f49e149]: You thrive in remote, async environments. You communicate clearly, support your teammates, and don't wait for permission to make progress. You work effectively across marketing, design, and engineering, and can explain technical decisions to non-technical stakeholders.
+              - listitem [ref=f49e150]:
+                - paragraph [ref=f49e151]: You've built AI into user-facing marketing features at scale and you use AI tools daily to multiply your own output — we want someone who shares our energy about what AI makes possible.
+              - listitem [ref=f49e152]:
+                - paragraph [ref=f49e153]: You have a personal stake in the world of content creation. Maybe you've run a newsletter, built an audience on social media, or regularly share your own work online. You've used Buffer before and care about the experience of planning, creating, and publishing content.
+            - paragraph
+            - heading [level=2] [ref=f49e154]:
+              - strong [ref=f49e155]: Our Tech Stack
+            - list [ref=f49e156]:
+              - listitem [ref=f49e157]:
+                - paragraph [ref=f49e158]:
+                  - text: We use Next.js v15+ with React and TypeScript for
+                  - link "buffer.com" [ref=f49e159] [cursor=pointer]:
+                    - /url: http://buffer.com
+                  - text: (currently using Pages router, planning to migrate to App router). We use Express middleware for some routing (planning to migrate to Next.js middleware).
+              - listitem [ref=f49e160]:
+                - paragraph [ref=f49e161]: Styling with CSS Modules and Motion for animations, and use Radix UI and Base UI for accessible components (gradually migrating to Base UI as it evolves) and data visualizations using Recharts.
+              - listitem [ref=f49e162]:
+                - paragraph [ref=f49e163]: Our marketing technology stack includes Segment, Google Tag Manager, Mixpanel, and BigQuery for tracking and analytics.
+              - listitem [ref=f49e164]:
+                - paragraph [ref=f49e165]: We pull content and data from Ghost CMS (blog), Redash, Notion, Google Sheets, and various external APIs.
+            - paragraph
+            - heading [level=2] [ref=f49e166]:
+              - strong [ref=f49e167]: Interview process
+            - paragraph [ref=f49e168]: Do you believe you're a fit for this role and want to join the Buffer team? We'd love to hear about you!
+            - paragraph [ref=f49e169]: Here's what our hiring process for this role is like.
+            - list [ref=f49e170]:
+              - listitem [ref=f49e171]:
+                - paragraph [ref=f49e172]:
+                  - strong [ref=f49e173]: Application.
+                  - text: When submitting your application and resume, tell us why you want to join Buffer and take your time. This is your chance to make a strong first impression.
+              - listitem [ref=f49e174]:
+                - paragraph [ref=f49e175]:
+                  - strong [ref=f49e176]: Role Interview.
+                  - text: Chat with
+                  - link "Simon Heaton" [ref=f49e177] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/heatonsimon/
+                  - text: ", Director of Growth Marketing to understand what it takes to work at Buffer. This is an opportunity for both sides to get to know each other and determine whether our expectations align."
+              - listitem [ref=f49e178]:
+                - paragraph [ref=f49e179]:
+                  - strong [ref=f49e180]: Code review assignment.
+                  - text: We'll send you an asynchronous assignment to review a pull request, to help us understand how you think about code and communicate technical ideas.
+              - listitem [ref=f49e181]:
+                - paragraph [ref=f49e182]:
+                  - strong [ref=f49e183]: Technical interview.
+                  - text: Interview with a couple of engineers from Buffer focused on your technical experience and approach.
+              - listitem [ref=f49e184]:
+                - paragraph [ref=f49e185]:
+                  - strong [ref=f49e186]: Leadership Interview.
+                  - text: A conversation with
+                  - link "Hailley Griffis" [ref=f49e187] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/hailleygriffis/
+                  - text: ", Head of Communications and Content, to discuss your approach to leadership, how we drive value and impact in a cross-functional company, and to really get into how you think about approaching work and collaboration."
+              - listitem [ref=f49e188]:
+                - paragraph [ref=f49e189]:
+                  - strong [ref=f49e190]: Final Interview.
+                  - text: You will have the opportunity to meet with our Executive Leadership team. This is a great chance for you to gain a deeper understanding of Buffer's strategy, values, and work processes.
+              - listitem [ref=f49e191]:
+                - paragraph [ref=f49e192]:
+                  - strong [ref=f49e193]: Collaboration Period.
+                  - text: This is an experimental stage where you would work with us on a real project over 2 days (fully paid). The goal is to see how it feels to work in the team, both for us and for you.
+              - listitem [ref=f49e194]:
+                - paragraph [ref=f49e195]:
+                  - strong [ref=f49e196]: Offer.
+                  - text: We wrap it up with an offer and discuss the final details. We would align on the last bits before we make you part of the Buffer team 💛
+            - paragraph [ref=f49e197]:
+              - emphasis [ref=f49e198]: At Buffer, we value diversity of experience, and we understand that comes in many forms. We’re dedicated to adding new perspectives to the team. So, if your experience is close to what we’re looking for, please consider applying.
+            - paragraph [ref=f49e199]:
+              - emphasis [ref=f49e200]: By submitting the application, you consent to Buffer collecting and processing your personal data for recruiting purposes, find more details in our
+              - link [ref=f49e201] [cursor=pointer]:
+                - /url: https://buffer.notion.site/Privacy-Policy-for-Applicants-230a7f5a00fd80e48478f09171d18a24?pvs=143
+                - emphasis [ref=f49e202]: Privacy Policy
+              - emphasis [ref=f49e203]: .
+        - region [ref=f49e204]:
+          - heading "Apply" [level=2] [ref=f49e205]
+      - region [ref=f49e208]:
+        - generic [ref=f49e209]:
+          - generic [ref=f49e210]:
+            - heading "Perks and benefits" [level=2] [ref=f49e211]
+            - paragraph [ref=f49e212]: Our focus with perks and benefits is to offer everything teammates need to do their best, healthiest work and keep developing their craft.
+          - list [ref=f49e213]:
+            - listitem [ref=f49e214]:
+              - generic [ref=f49e215]: 💰
+              - generic [ref=f49e217]:
+                - heading "Competitive salary" [level=3] [ref=f49e218]
+                - paragraph [ref=f49e219]:
+                  - text: Our
+                  - link "salary formula" [ref=f49e220] [cursor=pointer]:
+                    - /url: /salaries
+                  - text: adjusts to your cost of living and experience.
+            - listitem [ref=f49e221]:
+              - generic [ref=f49e222]: 🏝
+              - generic [ref=f49e224]:
+                - heading "Work remotely" [level=3] [ref=f49e225]
+                - paragraph [ref=f49e226]: Live and work wherever you are the happiest and most productive!
+            - listitem [ref=f49e227]:
+              - generic [ref=f49e228]: 🗓
+              - generic [ref=f49e230]:
+                - heading "4-Day workweeks" [level=3] [ref=f49e231]
+                - paragraph [ref=f49e232]: Our schedule is four workdays, with a flexible, meeting-free fifth day for overflow tasks or personal time as you see fit.
+            - listitem [ref=f49e233]:
+              - generic [ref=f49e234]: 💪
+              - generic [ref=f49e236]:
+                - heading "Health insurance" [level=3] [ref=f49e237]
+                - paragraph [ref=f49e238]: We offer health insurance for all of our team members, international or US.
+            - listitem [ref=f49e239]:
+              - generic [ref=f49e240]: 🏠
+              - generic [ref=f49e242]:
+                - heading "Home office setup" [level=3] [ref=f49e243]
+                - paragraph [ref=f49e244]: Get $1000 to set up your home office!
+            - listitem [ref=f49e245]:
+              - generic [ref=f49e246]: 👓
+              - generic [ref=f49e248]:
+                - heading "Growth mindset fund" [level=3] [ref=f49e249]
+                - paragraph [ref=f49e250]: Extra money each year for learning and development.
+            - listitem [ref=f49e251]:
+              - generic [ref=f49e252]: 💻
+              - generic [ref=f49e254]:
+                - heading "New laptop" [level=3] [ref=f49e255]
+                - paragraph [ref=f49e256]: Get a powerful new laptop or PC from your first day at Buffer and every 3 years after.
+            - listitem [ref=f49e257]:
+              - generic [ref=f49e258]: 📚
+              - generic [ref=f49e260]:
+                - heading "Unlimited free books" [level=3] [ref=f49e261]
+                - paragraph [ref=f49e262]: Get a free Kindle and all the digital or audio books you like, no questions asked.
+            - listitem [ref=f49e263]:
+              - generic [ref=f49e264]: ⚡
+              - generic [ref=f49e266]:
+                - heading "AI tools stipend" [level=3] [ref=f49e267]
+                - paragraph [ref=f49e268]: Level up your work with the latest AI tools.
+            - listitem [ref=f49e269]:
+              - generic [ref=f49e270]: ⛺️
+              - generic [ref=f49e272]:
+                - heading "Flexible time off" [level=3] [ref=f49e273]
+                - paragraph [ref=f49e274]: No set limits. Take the time you need to rest and recharge.
+            - listitem [ref=f49e275]:
+              - generic [ref=f49e276]: 💵
+              - generic [ref=f49e278]:
+                - heading "Savings plan" [level=3] [ref=f49e279]
+                - paragraph [ref=f49e280]: With 3% company match.
+            - listitem [ref=f49e281]:
+              - generic [ref=f49e282]: 📈
+              - generic [ref=f49e284]:
+                - heading "Profit sharing" [level=3] [ref=f49e285]
+                - paragraph [ref=f49e286]: When the company does well, all team members share the profits.
+            - listitem [ref=f49e287]:
+              - generic [ref=f49e288]: 🍼
+              - generic [ref=f49e290]:
+                - heading "Family leave" [level=3] [ref=f49e291]
+                - paragraph [ref=f49e292]: 16 weeks of family leave for all parents, fully paid.
+            - listitem [ref=f49e293]:
+              - generic [ref=f49e294]: 👨‍👩‍👧
+              - generic [ref=f49e296]:
+                - heading "Family support fund" [level=3] [ref=f49e297]
+                - paragraph [ref=f49e298]: A stipend for each kiddo.
+            - listitem [ref=f49e299]:
+              - generic [ref=f49e300]: ☕️
+              - generic [ref=f49e302]:
+                - heading "Working smarter stipend" [level=3] [ref=f49e303]
+                - paragraph [ref=f49e304]: Extra funds for a coworking space or some coffee shop treats.
+            - listitem [ref=f49e305]:
+              - generic [ref=f49e306]: ⛱
+              - generic [ref=f49e308]:
+                - heading "Sabbaticals" [level=3] [ref=f49e309]
+                - paragraph [ref=f49e310]: Take a 6-week break, fully paid, after every 5 years with Buffer.
+    - contentinfo [ref=f49e312]:
+      - heading "Buffer" [level=2] [ref=f49e313]
+      - generic [ref=f49e314]:
+        - generic [ref=f49e315]:
+          - generic [ref=f49e316]:
+            - generic [ref=f49e317]:
+              - heading "Features" [level=3] [ref=f49e318]
+              - list [ref=f49e319]:
+                - listitem [ref=f49e320]:
+                  - link "Create" [ref=f49e321] [cursor=pointer]:
+                    - /url: /create
+                - listitem [ref=f49e322]:
+                  - link "Publish" [ref=f49e323] [cursor=pointer]:
+                    - /url: /publish
+                - listitem [ref=f49e324]:
+                  - link "Community" [ref=f49e325] [cursor=pointer]:
+                    - /url: /community
+                - listitem [ref=f49e326]:
+                  - link "Insights New" [ref=f49e327] [cursor=pointer]:
+                    - /url: /insights
+                    - text: Insights
+                    - generic [ref=f49e328]: New
+                - listitem [ref=f49e329]:
+                  - link "Collaborate" [ref=f49e330] [cursor=pointer]:
+                    - /url: /collaborate
+            - generic [ref=f49e331]:
+              - heading "Tools" [level=3] [ref=f49e332]
+              - list [ref=f49e333]:
+                - listitem [ref=f49e334]:
+                  - link "AI Assistant" [ref=f49e335] [cursor=pointer]:
+                    - /url: /ai-assistant
+                - listitem [ref=f49e336]:
+                  - link "Start Page" [ref=f49e337] [cursor=pointer]:
+                    - /url: /start-page
+                - listitem [ref=f49e338]:
+                  - link "Integrations" [ref=f49e339] [cursor=pointer]:
+                    - /url: /integrations
+                - listitem [ref=f49e340]:
+                  - link "iOS App" [ref=f49e341] [cursor=pointer]:
+                    - /url: https://apps.apple.com/us/app/buffer-plan-schedule-posts/id490474324?pt=936146&ct=SiteFooter&mt=8
+                - listitem [ref=f49e342]:
+                  - link "Android App" [ref=f49e343] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=org.buffer.android&hl=en
+                - listitem [ref=f49e344]:
+                  - link "Browser Extension" [ref=f49e345] [cursor=pointer]:
+                    - /url: /extensions
+                - listitem [ref=f49e346]:
+                  - link "Social Media MCP" [ref=f49e347] [cursor=pointer]:
+                    - /url: /mcp
+                - listitem [ref=f49e348]:
+                  - link "Buffer API" [ref=f49e349] [cursor=pointer]:
+                    - /url: /api
+          - generic [ref=f49e350]:
+            - heading "Channels" [level=3] [ref=f49e351]
+            - list [ref=f49e352]:
+              - listitem [ref=f49e353]:
+                - link "Bluesky" [ref=f49e354] [cursor=pointer]:
+                  - /url: /bluesky
+              - listitem [ref=f49e355]:
+                - link "Facebook" [ref=f49e356] [cursor=pointer]:
+                  - /url: /facebook
+              - listitem [ref=f49e357]:
+                - link "Google Business Profile" [ref=f49e358] [cursor=pointer]:
+                  - /url: /google-business-profile
+              - listitem [ref=f49e359]:
+                - link "Instagram" [ref=f49e360] [cursor=pointer]:
+                  - /url: /instagram
+              - listitem [ref=f49e361]:
+                - link "LinkedIn" [ref=f49e362] [cursor=pointer]:
+                  - /url: /linkedin
+              - listitem [ref=f49e363]:
+                - link "Mastodon" [ref=f49e364] [cursor=pointer]:
+                  - /url: /mastodon
+              - listitem [ref=f49e365]:
+                - link "Pinterest" [ref=f49e366] [cursor=pointer]:
+                  - /url: /pinterest
+              - listitem [ref=f49e367]:
+                - link "Threads" [ref=f49e368] [cursor=pointer]:
+                  - /url: /threads
+              - listitem [ref=f49e369]:
+                - link "TikTok" [ref=f49e370] [cursor=pointer]:
+                  - /url: /tiktok
+              - listitem [ref=f49e371]:
+                - link "X" [ref=f49e372] [cursor=pointer]:
+                  - /url: /x
+              - listitem [ref=f49e373]:
+                - link "YouTube" [ref=f49e374] [cursor=pointer]:
+                  - /url: /youtube
+          - generic [ref=f49e375]:
+            - heading "Made for" [level=3] [ref=f49e376]
+            - list [ref=f49e377]:
+              - listitem [ref=f49e378]:
+                - link "Creators" [ref=f49e379] [cursor=pointer]:
+                  - /url: /made-for/creators
+              - listitem [ref=f49e380]:
+                - link "Small Business" [ref=f49e381] [cursor=pointer]:
+                  - /url: /made-for/small-business
+              - listitem [ref=f49e382]:
+                - link "Agencies" [ref=f49e383] [cursor=pointer]:
+                  - /url: /partners/agencies
+              - listitem [ref=f49e384]:
+                - link "Nonprofits" [ref=f49e385] [cursor=pointer]:
+                  - /url: /nonprofits
+              - listitem [ref=f49e386]:
+                - link "Higher Education" [ref=f49e387] [cursor=pointer]:
+                  - /url: /made-for/higher-education
+              - listitem [ref=f49e388]:
+                - link "Developers" [ref=f49e389] [cursor=pointer]:
+                  - /url: /made-for/developers
+              - listitem [ref=f49e390]:
+                - link "Startups" [ref=f49e391] [cursor=pointer]:
+                  - /url: /made-for/startups
+        - generic [ref=f49e392]:
+          - generic [ref=f49e393]:
+            - heading "Resources" [level=3] [ref=f49e394]
+            - list [ref=f49e395]:
+              - listitem [ref=f49e396]:
+                - link "Blog" [ref=f49e397] [cursor=pointer]:
+                  - /url: /resources/
+              - listitem [ref=f49e398]:
+                - link "Template Library" [ref=f49e399] [cursor=pointer]:
+                  - /url: /templates
+              - listitem [ref=f49e400]:
+                - link "Social Media Benchmarks" [ref=f49e401] [cursor=pointer]:
+                  - /url: /social-media-benchmarks
+              - listitem [ref=f49e402]:
+                - link "Resource Library" [ref=f49e403] [cursor=pointer]:
+                  - /url: /library
+              - listitem [ref=f49e404]:
+                - link "Social Media Terms Glossary" [ref=f49e405] [cursor=pointer]:
+                  - /url: /social-media-terms
+              - listitem [ref=f49e406]:
+                - link "Free Marketing Tools" [ref=f49e407] [cursor=pointer]:
+                  - /url: /free-tools
+              - listitem [ref=f49e408]:
+                - link "AI Social Media Post Generator" [ref=f49e409] [cursor=pointer]:
+                  - /url: /ai-assistant/social-media-post-creator
+              - listitem [ref=f49e410]:
+                - link "Compare Buffer" [ref=f49e411] [cursor=pointer]:
+                  - /url: /compare
+              - listitem [ref=f49e412]:
+                - link "Our Community" [ref=f49e413] [cursor=pointer]:
+                  - /url: /our-community
+              - listitem [ref=f49e414]:
+                - link "Developer Docs" [ref=f49e415] [cursor=pointer]:
+                  - /url: https://developers.buffer.com/
+          - generic [ref=f49e416]:
+            - generic [ref=f49e417]:
+              - heading "Support" [level=3] [ref=f49e418]
+              - list [ref=f49e419]:
+                - listitem [ref=f49e420]:
+                  - link "Help Center" [ref=f49e421] [cursor=pointer]:
+                    - /url: https://support.buffer.com/
+                - listitem [ref=f49e422]:
+                  - link "Status" [ref=f49e423] [cursor=pointer]:
+                    - /url: https://status.buffer.com/
+                - listitem [ref=f49e424]:
+                  - link "Changelog" [ref=f49e425] [cursor=pointer]:
+                    - /url: /changelog
+                - listitem [ref=f49e426]:
+                  - link "Request a Feature" [ref=f49e427] [cursor=pointer]:
+                    - /url: https://suggestions.buffer.com/
+            - generic [ref=f49e428]:
+              - heading "Transparency" [level=3] [ref=f49e429]
+              - list [ref=f49e430]:
+                - listitem [ref=f49e431]:
+                  - link "Open Hub" [ref=f49e432] [cursor=pointer]:
+                    - /url: /open
+                - listitem [ref=f49e433]:
+                  - link "Transparent Metrics" [ref=f49e434] [cursor=pointer]:
+                    - /url: /metrics
+                - listitem [ref=f49e435]:
+                  - link "Transparent Pricing" [ref=f49e436] [cursor=pointer]:
+                    - /url: /transparent-pricing
+                - listitem [ref=f49e437]:
+                  - link "Transparent Salaries" [ref=f49e438] [cursor=pointer]:
+                    - /url: /salaries
+                - listitem [ref=f49e439]:
+                  - link "Product Roadmap" [ref=f49e440] [cursor=pointer]:
+                    - /url: https://suggestions.buffer.com/roadmap
+          - generic [ref=f49e441]:
+            - heading "Company" [level=3] [ref=f49e442]
+            - list [ref=f49e443]:
+              - listitem [ref=f49e444]:
+                - link "About" [ref=f49e445] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f49e446]:
+                - link "Careers" [ref=f49e447] [cursor=pointer]:
+                  - /url: /journey
+              - listitem [ref=f49e448]:
+                - link "Press" [ref=f49e449] [cursor=pointer]:
+                  - /url: /press
+              - listitem [ref=f49e450]:
+                - link "Partner Program" [ref=f49e451] [cursor=pointer]:
+                  - /url: /partners
+              - listitem [ref=f49e452]:
+                - link "Legal" [ref=f49e453] [cursor=pointer]:
+                  - /url: /legal
+              - listitem [ref=f49e454]:
+                - link "Sitemap" [ref=f49e455] [cursor=pointer]:
+                  - /url: /sitemap
+      - generic [ref=f49e456]:
+        - link "Buffer" [ref=f49e457] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f49e466]:
+          - generic [ref=f49e467]:
+            - heading "Social media" [level=3] [ref=f49e468]
+            - list [ref=f49e469]:
+              - listitem [ref=f49e470]:
+                - link "Instagram" [ref=f49e471] [cursor=pointer]:
+                  - /url: https://www.instagram.com/buffer
+              - listitem [ref=f49e477]:
+                - link "Facebook" [ref=f49e478] [cursor=pointer]:
+                  - /url: https://www.facebook.com/bufferapp
+              - listitem [ref=f49e482]:
+                - link "Bluesky" [ref=f49e483] [cursor=pointer]:
+                  - /url: https://bsky.app/profile/buffer.com
+              - listitem [ref=f49e487]:
+                - link "X" [ref=f49e488] [cursor=pointer]:
+                  - /url: https://x.com/buffer
+              - listitem [ref=f49e492]:
+                - link "LinkedIn" [ref=f49e493] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/bufferapp
+              - listitem [ref=f49e497]:
+                - link "Threads" [ref=f49e498] [cursor=pointer]:
+                  - /url: https://www.threads.net/@buffer
+          - generic [ref=f49e502]:
+            - heading "Policies" [level=3] [ref=f49e503]
+            - generic [ref=f49e504]:
+              - paragraph [ref=f49e505]: Copyright ©2026 Buffer
+              - generic [ref=f49e506]: "|"
+              - paragraph [ref=f49e507]:
+                - link "Privacy" [ref=f49e508] [cursor=pointer]:
+                  - /url: /legal#privacy-policy
+              - generic [ref=f49e509]: "|"
+              - paragraph [ref=f49e510]:
+                - link "Terms" [ref=f49e511] [cursor=pointer]:
+                  - /url: /legal#terms
+              - generic [ref=f49e512]: "|"
+              - paragraph [ref=f49e513]:
+                - link "Security" [ref=f49e514] [cursor=pointer]:
+                  - /url: /legal#security
+  - alert [ref=f49e515]
