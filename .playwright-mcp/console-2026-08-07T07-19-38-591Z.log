@@ -1,0 +1,9 @@
+[     411ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ https://www.redpanda.com/jobs:815
+[     412ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ https://www.redpanda.com/jobs:829
+[     413ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ https://www.redpanda.com/jobs:843
+[     413ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ https://www.redpanda.com/jobs:852
+[     413ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ https://www.redpanda.com/jobs:854
+[     413ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ https://www.redpanda.com/jobs:856
+[     413ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ https://www.redpanda.com/jobs:861
+[     413ms] [ERROR] Error: <svg> attribute height: Expected length, "auto". @ https://www.redpanda.com/jobs:863
+[     922ms] [LOG] Slater loaded www.redpanda.com.js: https://slater.app/10151.js 🤙 @ https://www.redpanda.com/jobs:870

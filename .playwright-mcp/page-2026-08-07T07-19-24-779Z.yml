@@ -1,0 +1,306 @@
+- generic [ref=f21e2]:
+  - banner [ref=f21e3]:
+    - banner [ref=f21e4]:
+      - generic [ref=f21e5]:
+        - generic [ref=f21e6]:
+          - link "CLOUD LOGIN" [ref=f21e7] [cursor=pointer]:
+            - /url: https://cloud.redpanda.com/
+          - link "SUPPORT" [ref=f21e8] [cursor=pointer]:
+            - /url: https://support.redpanda.com/hc/en-us
+          - link [ref=f21e9] [cursor=pointer]:
+            - /url: https://redpanda.com/slack
+          - link "12.4K" [ref=f21e20] [cursor=pointer]:
+            - /url: https://github.com/redpanda-data/redpanda
+        - generic [ref=f21e27]:
+          - link "home" [ref=f21e29] [cursor=pointer]:
+            - /url: /
+            - img "Redpanda logo" [ref=f21e30]
+          - navigation [ref=f21e31]:
+            - link "Why Redpanda" [ref=f21e32] [cursor=pointer]:
+              - /url: /why-redpanda
+            - button "Products" [ref=f21e35] [cursor=pointer]
+            - button "Solutions" [ref=f21e40] [cursor=pointer]
+            - button "Resources" [ref=f21e45] [cursor=pointer]
+            - button "Company" [ref=f21e50] [cursor=pointer]
+          - generic [ref=f21e54]:
+            - link "Book demo" [ref=f21e55] [cursor=pointer]:
+              - /url: /demo
+            - link "Get started" [ref=f21e56] [cursor=pointer]:
+              - /url: /get-started
+  - main [ref=f21e57]:
+    - generic [ref=f21e61]:
+      - generic [ref=f21e62]: PUSH YOUR BOUNDARIES
+      - heading "Build, grow, and succeed" [level=1] [ref=f21e63]
+      - paragraph [ref=f21e66]: We are a global, diverse and inclusive team of doers, seasoned engineers, hackers, and builders, working on the future of agentic data infrastructure.
+      - link "Job Listings" [ref=f21e69] [cursor=pointer]:
+        - /url: /jobs
+        - text: Job listings
+    - generic [ref=f21e73]:
+      - generic [ref=f21e76]:
+        - generic [ref=f21e77]: Our Mission
+        - heading "Building the best present and future for enterprise data" [level=2] [ref=f21e79]
+      - generic [ref=f21e82]:
+        - generic:
+          - generic:
+            - generic:
+              - generic [ref=f21e87] [cursor=pointer]
+              - 'button "Play Video: Redpanda Streaming" [ref=f21e89] [cursor=pointer]'
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - 'button "Play Video: Redpanda Streaming"'
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "Video Thumbnail"
+                    - 'button "Play Video: Redpanda Streaming" [ref=f21e95] [cursor=pointer]'
+                    - generic:
+                      - generic:
+                        - button "Play Video" [ref=f21e103] [cursor=pointer]
+                        - generic [ref=f21e110]:
+                          - generic: 2:01
+                          - slider "Playbar" [ref=f21e112] [cursor=pointer]
+                        - generic [ref=f21e116]:
+                          - button "Show captions menu" [ref=f21e119] [cursor=pointer]
+                          - button "Mute" [ref=f21e127] [cursor=pointer]
+                          - button "Show settings menu" [ref=f21e140] [cursor=pointer]
+                          - button "Fullscreen" [ref=f21e146] [cursor=pointer]
+    - generic [ref=f21e157]:
+      - generic [ref=f21e159]:
+        - generic [ref=f21e160]: Our Vision
+        - heading "Empowering the hackers, makers, and doers to build the future" [level=2] [ref=f21e162]
+      - generic [ref=f21e164]:
+        - generic [ref=f21e166]:
+          - heading "Customer obsession" [level=3] [ref=f21e169]
+          - paragraph [ref=f21e170]: We strive to surpass our customer’s expectations and deliver exceptional experiences.
+        - generic [ref=f21e172]:
+          - heading "Be a good human" [level=3] [ref=f21e175]
+          - paragraph [ref=f21e176]: We believe in being genuine, kind, and socially responsible. Treating others with respect is fundamental to who we are.
+        - generic [ref=f21e178]:
+          - heading "Win as a team" [level=3] [ref=f21e181]
+          - paragraph [ref=f21e182]: Collaboration is our secret sauce. Together, we achieve greatness, celebrate victories, and learn from every challenge.
+    - generic [ref=f21e185]:
+      - generic [ref=f21e187]:
+        - generic [ref=f21e188]: We Proudly Embrace
+        - heading "Diversity and inclusion" [level=2] [ref=f21e190]
+        - paragraph [ref=f21e192]:
+          - text: Redpanda is a global, inclusive workplace with members from all walks of life. Our
+          - link "company culture" [ref=f21e193] [cursor=pointer]:
+            - /url: /blog/redpanda-company-kick-off-2024
+          - text: celebrates and welcomes diversity that makes us strong, creative, and fun.
+      - generic [ref=f21e195]:
+        - generic [ref=f21e197]:
+          - heading "Women’s Initiative Network (WIN)" [level=3] [ref=f21e198]
+          - generic [ref=f21e199]: Our mission is to empower, inspire and support women in Redpanda to learn, shine, network and lead through an equitable community of allies.
+        - generic [ref=f21e201]:
+          - heading "PRISM" [level=3] [ref=f21e202]
+          - generic [ref=f21e203]: Exists to create an inclusive and welcoming workplace culture where LGBTQIA+ Redpandas feel valued and supported.
+        - generic [ref=f21e205]:
+          - heading "Parents and Caregivers Together (PACT)" [level=3] [ref=f21e206]
+          - generic [ref=f21e207]: A group dedicated to creating a supportive and inclusive community for parents and caregivers, empowering them to thrive personally and professionally.
+        - generic [ref=f21e209]:
+          - heading "BRAINS" [level=3] [ref=f21e210]
+          - generic [ref=f21e211]: A group dedicated to celebrating and educating the team on neurodiversity in all of its forms.
+    - generic [ref=f21e214]:
+      - generic [ref=f21e216]:
+        - generic [ref=f21e217]: People First Approach
+        - heading "Benefits that grow with you" [level=2] [ref=f21e219]
+      - generic [ref=f21e221]:
+        - generic [ref=f21e222]:
+          - heading "Global workforce" [level=3] [ref=f21e228]
+          - paragraph [ref=f21e229]: We offer both remote and hybrid positions. We have office locations in San Francisco, Austin, and Warsaw, Poland.
+        - generic [ref=f21e230]:
+          - heading "Comprehensive healthcare" [level=3] [ref=f21e237]
+          - paragraph [ref=f21e238]: We’ve got you covered with a mix of plans ranging from fully-paid medical, dental and vision, to premium coverage.
+        - generic [ref=f21e239]:
+          - heading "401(k) matching" [level=3] [ref=f21e245]
+          - paragraph [ref=f21e246]: Our 401(k) plans let you save for your future. And for our US and UK employees — we match!
+        - generic [ref=f21e247]:
+          - heading "Flexible PTO" [level=4] [ref=f21e253]
+          - paragraph [ref=f21e254]: Take time to relax and recharge. Our vacation policy puts you in control. Teammates also get time off to volunteer.
+        - generic [ref=f21e255]:
+          - heading "Home office & education reimbursement" [level=4] [ref=f21e261]
+          - paragraph [ref=f21e262]: $1,000 to gear-up your home office, $50 towards each wifi bill, $500 to invest in your learning and development annually.
+        - generic [ref=f21e263]:
+          - heading "Redpanda swag" [level=4] [ref=f21e269]
+          - paragraph [ref=f21e270]: Hands down the coolest swag in our industry! Your family will steal it. Guaranteed.
+    - generic [ref=f21e274]:
+      - generic [ref=f21e275]: Featured
+      - heading "Awards & Industry Recognitions" [level=1] [ref=f21e276]
+      - generic [ref=f21e278]:
+        - paragraph [ref=f21e279]:
+          - link "The Agentic List 2026" [ref=f21e280] [cursor=pointer]:
+            - /url: https://www.agentconference.com/agenticlist/2026
+          - text: ","
+          - emphasis [ref=f21e281]: FirsthandVC
+          - text: ", 2026"
+        - paragraph [ref=f21e282]:
+          - link "TrueUp Open Source Top 50" [ref=f21e283] [cursor=pointer]:
+            - /url: https://www.trueup.io/open-source/companies
+          - text: ","
+          - emphasis [ref=f21e284]: TrueUp
+          - text: ", 2026"
+        - paragraph [ref=f21e285]:
+          - link "Builtin 2026 Best Remote Places to Work" [ref=f21e286] [cursor=pointer]:
+            - /url: https://builtin.com/awards/remote/2026/best-places-to-work
+          - text: ","
+          - emphasis [ref=f21e287]: Builtin
+          - text: ", 2026"
+        - paragraph [ref=f21e288]:
+          - link "BuiltIn Best Midsize Places to Work - San Francisco" [ref=f21e289] [cursor=pointer]:
+            - /url: https://builtin.com/awards/san-francisco/2026/best-midsize-places-to-work
+          - text: ","
+          - emphasis [ref=f21e290]: Builtin
+          - text: ", 2026"
+        - paragraph [ref=f21e291]:
+          - link "LinkedIn Top Startups 2024" [ref=f21e292] [cursor=pointer]:
+            - /url: https://www.linkedin.com/pulse/linkedin-top-startups-2024-50-us-companies-rise-linkedin-news-hxote/
+          - text: ","
+          - emphasis [ref=f21e293]: LinkedIn
+          - text: ", 2024"
+        - paragraph [ref=f21e294]:
+          - link "Next Billion-Dollar Startups" [ref=f21e295] [cursor=pointer]:
+            - /url: https://www.forbes.com/sites/amyfeldman/2024/08/13/next-billion-dollar-startups-2024/
+          - text: ","
+          - emphasis [ref=f21e296]: Forbes
+          - text: ", 2024"
+        - paragraph [ref=f21e297]:
+          - link "The Infrared 100" [ref=f21e298] [cursor=pointer]:
+            - /url: https://www.redpoint.com/infrared/100/
+          - text: ","
+          - emphasis [ref=f21e299]: Redpoint
+          - text: ", 2024"
+        - paragraph [ref=f21e300]:
+          - link "The Crunchbase Unicorn Board" [ref=f21e301] [cursor=pointer]:
+            - /url: https://news.crunchbase.com/venture/health-security-defense-ai-unicorns-april-2025/
+          - text: ", Crunchbase, 2024"
+        - paragraph [ref=f21e302]:
+          - link "PLG Rising 40 Awards" [ref=f21e303] [cursor=pointer]:
+            - /url: https://openviewpartners.com/the-2023-plg-rising-40/
+          - text: ","
+          - emphasis [ref=f21e304]: OpenView and PeerSignal
+          - text: ", 2023"
+        - paragraph [ref=f21e305]:
+          - link "Enterprise Tech 30" [ref=f21e306] [cursor=pointer]:
+            - /url: https://www.nasdaq.com/Enterprise-Tech-30
+          - text: ","
+          - emphasis [ref=f21e307]: Nasdaq
+          - text: ", 2022"
+        - paragraph [ref=f21e308]:
+          - link "The 'Bossie' (Best Open Source Software) Award" [ref=f21e309] [cursor=pointer]:
+            - /url: https://www.infoworld.com/article/2337108/the-best-open-source-software-of-2022.html
+          - text: ","
+          - emphasis [ref=f21e310]: InfoWorld
+          - text: ", 2022"
+        - paragraph [ref=f21e311]:
+          - link "Digital Innovator Award" [ref=f21e312] [cursor=pointer]:
+            - /url: https://intellyx.com/2022/05/24/intellyx-announces-2022-digital-innovator-award-winners-2/
+          - text: ","
+          - emphasis [ref=f21e313]: Intellyx
+          - text: ", 2022"
+      - link "View Job Openings" [ref=f21e316] [cursor=pointer]:
+        - /url: /jobs
+        - text: View job openings
+  - contentinfo [ref=f21e317]:
+    - generic [ref=f21e320]:
+      - generic [ref=f21e321]:
+        - link:
+          - /url: /
+        - generic [ref=f21e322]:
+          - generic [ref=f21e323]:
+            - generic [ref=f21e324]: Products
+            - link "Agentic Data Plane" [ref=f21e325] [cursor=pointer]:
+              - /url: /agentic-data-plane
+            - link "Redpanda Streaming" [ref=f21e326] [cursor=pointer]:
+              - /url: /data-streaming
+            - link "Redpanda Connect" [ref=f21e327] [cursor=pointer]:
+              - /url: /connect
+            - link "Redpanda SQL" [ref=f21e328] [cursor=pointer]:
+              - /url: /sql
+            - generic [ref=f21e330]: Compare
+            - link "Redpanda vs Confluent" [ref=f21e331] [cursor=pointer]:
+              - /url: /compare/redpanda-vs-confluent
+            - link "Redpanda vs Amazon MSK" [ref=f21e332] [cursor=pointer]:
+              - /url: /compare/redpanda-vs-amazon-msk
+            - link "Redpanda vs Kafka" [ref=f21e333] [cursor=pointer]:
+              - /url: /compare/redpanda-vs-kafka
+          - generic [ref=f21e334]:
+            - generic [ref=f21e335]: Use Cases
+            - link "Streaming Iceberg Tables" [ref=f21e336] [cursor=pointer]:
+              - /url: /use-case/streaming-iceberg-tables
+            - link "Snowflake Ingestion" [ref=f21e337] [cursor=pointer]:
+              - /url: /use-case/snowflake-connector-for-redpanda-connect
+            - link "AI/ML" [ref=f21e338] [cursor=pointer]:
+              - /url: /use-case/artificial-intelligence
+            - generic [ref=f21e340]: Industries
+            - link "Financial Services" [ref=f21e341] [cursor=pointer]:
+              - /url: /industry/financial-services
+            - link "Technology" [ref=f21e342] [cursor=pointer]:
+              - /url: /industry/technology
+            - link "Manufacturing" [ref=f21e343] [cursor=pointer]:
+              - /url: /industry/manufacturing
+            - link "Media" [ref=f21e344] [cursor=pointer]:
+              - /url: /industry/media
+            - link "Gaming & Gambling" [ref=f21e345] [cursor=pointer]:
+              - /url: /industry/gaming-gambling
+            - link "Cybersecurity" [ref=f21e346] [cursor=pointer]:
+              - /url: /industry/cybersecurity
+          - generic [ref=f21e347]:
+            - generic [ref=f21e348]: Learn
+            - link "Why Redpanda" [ref=f21e349] [cursor=pointer]:
+              - /url: /why-redpanda
+            - link "Resources" [ref=f21e350] [cursor=pointer]:
+              - /url: /resources
+            - link "Events" [ref=f21e351] [cursor=pointer]:
+              - /url: /events
+            - link "On-demand" [ref=f21e352] [cursor=pointer]:
+              - /url: /events?tab=on-demand
+            - link "'Hello, Agent' Podcast" [ref=f21e353] [cursor=pointer]:
+              - /url: /hello-agent
+            - link "Blog" [ref=f21e354] [cursor=pointer]:
+              - /url: /blog
+            - link "Docs" [ref=f21e355] [cursor=pointer]:
+              - /url: https://docs.redpanda.com/home/
+          - generic [ref=f21e356]:
+            - generic [ref=f21e357]: Company
+            - link "About us" [ref=f21e358] [cursor=pointer]:
+              - /url: /about-us
+            - link "Customers" [ref=f21e359] [cursor=pointer]:
+              - /url: /customers
+            - link "Press" [ref=f21e360] [cursor=pointer]:
+              - /url: /press
+            - link "Partners" [ref=f21e361] [cursor=pointer]:
+              - /url: /partners
+            - link "Careers" [ref=f21e362] [cursor=pointer]:
+              - /url: /careers
+            - link "Contact" [ref=f21e363] [cursor=pointer]:
+              - /url: /contact
+            - link "Legal hub" [ref=f21e364] [cursor=pointer]:
+              - /url: /legal/legal-hub
+            - link "Trust center" [ref=f21e365] [cursor=pointer]:
+              - /url: https://trust.redpanda.com/
+      - generic [ref=f21e368]:
+        - generic [ref=f21e369]:
+          - link "Redpanda on X" [ref=f21e370] [cursor=pointer]:
+            - /url: https://twitter.com/redpandadata
+          - link "Redpanda on BlueSky" [ref=f21e375] [cursor=pointer]:
+            - /url: https://bsky.app/profile/redpanda.com
+          - link "Redpanda Linkedin" [ref=f21e379] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/redpanda-data
+          - link "Redpanda Slack" [ref=f21e383] [cursor=pointer]:
+            - /url: /slack
+          - link "Redpanda Github" [ref=f21e390] [cursor=pointer]:
+            - /url: https://github.com/redpanda-data/redpanda
+          - link "Redpanda youtube" [ref=f21e394] [cursor=pointer]:
+            - /url: https://www.youtube.com/@RedpandaData
+        - generic [ref=f21e398]:
+          - link "Cookie preferences" [ref=f21e399] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy policy" [ref=f21e400] [cursor=pointer]:
+            - /url: /legal/privacy-policy
+          - generic [ref=f21e401]: © 2026 Redpanda. All rights reserved.

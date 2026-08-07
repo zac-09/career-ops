@@ -1,0 +1,181 @@
+- generic [active] [ref=f26e1]:
+  - generic [ref=f26e2]:
+    - banner [ref=f26e3]:
+      - banner [ref=f26e4]:
+        - generic [ref=f26e5]:
+          - generic [ref=f26e6]:
+            - link "CLOUD LOGIN" [ref=f26e7] [cursor=pointer]:
+              - /url: https://cloud.redpanda.com/
+            - link "SUPPORT" [ref=f26e8] [cursor=pointer]:
+              - /url: https://support.redpanda.com/hc/en-us
+            - link [ref=f26e9] [cursor=pointer]:
+              - /url: https://redpanda.com/slack
+            - link "12.4K" [ref=f26e20] [cursor=pointer]:
+              - /url: https://github.com/redpanda-data/redpanda
+          - generic [ref=f26e27]:
+            - link "home" [ref=f26e29] [cursor=pointer]:
+              - /url: /
+              - img "Redpanda logo" [ref=f26e30]
+            - navigation [ref=f26e31]:
+              - link "Why Redpanda" [ref=f26e32] [cursor=pointer]:
+                - /url: /why-redpanda
+              - button "Products" [ref=f26e35] [cursor=pointer]
+              - button "Solutions" [ref=f26e40] [cursor=pointer]
+              - button "Resources" [ref=f26e45] [cursor=pointer]
+              - button "Company" [ref=f26e50] [cursor=pointer]
+            - generic [ref=f26e54]:
+              - link "Book demo" [ref=f26e55] [cursor=pointer]:
+                - /url: /demo
+              - link "Get started" [ref=f26e56] [cursor=pointer]:
+                - /url: /get-started
+    - main [ref=f26e57]:
+      - generic [ref=f26e60]:
+        - generic [ref=f26e61]:
+          - generic [ref=f26e62]: JOIN OUR MISSION
+          - heading "Current job openings" [level=1] [ref=f26e66]
+          - paragraph [ref=f26e68]: At Redpanda, we're building the future of agentic data infrastructure. Explore our open roles and join a fully remote, innovative team that values diversity, collaboration, and growth.
+        - form "jobSearch" [ref=f26e72]:
+          - generic [ref=f26e73]:
+            - textbox "Search" [ref=f26e75]
+            - generic [ref=f26e81]:
+              - button "Department" [ref=f26e83] [cursor=pointer]
+              - generic [ref=f26e89]: Showing 0 of 0 jobs
+        - generic [ref=f26e93]:
+          - generic [ref=f26e94]: department
+          - link [ref=f26e99] [cursor=pointer]:
+            - /url: "#"
+            - strong [ref=f26e100]: job
+        - paragraph [ref=f26e102]:
+          - strong [ref=f26e103]: Recruitment Scams Alert
+          - text: ": We are aware of scams falsely representing Redpanda to offer recruitment or employment. All official communications from Redpanda will originate from email addresses ending in @redpanda.com. Please read more about these scams - including how to report them -"
+          - link "here" [ref=f26e104] [cursor=pointer]:
+            - /url: /legal/recruitment-scams
+          - text: .
+      - generic [ref=f26e108]:
+        - img "Red panda wearing a suit sitting at a desk with an HR Manager nameplate, vintage telephone, and old computer." [ref=f26e109]
+        - generic [ref=f26e111]:
+          - generic [ref=f26e112]: Why Join Redpanda?
+          - heading "Build, grow, and succeed" [level=2] [ref=f26e114]
+          - paragraph
+          - paragraph [ref=f26e117]: At Redpanda, we believe work should be more than just a job. We’re committed to fostering an inclusive, innovative environment where every team member can grow, thrive, and make a real impact. Our team enjoys a range of competitive benefits—from comprehensive healthcare and flexible remote work to generous paid time off, professional development support, and more.
+          - generic [ref=f26e119]:
+            - link "Learn about our culture, values, and benefits" [ref=f26e121] [cursor=pointer]:
+              - /url: /careers
+            - generic:
+              - generic:
+                - link:
+                  - /url: "#"
+                - link:
+                  - /url: "#"
+                - link:
+                  - /url: "#"
+                - link:
+                  - /url: "#"
+    - contentinfo [ref=f26e123]:
+      - generic [ref=f26e126]:
+        - generic [ref=f26e127]:
+          - link [ref=f26e128] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f26e129]:
+            - generic [ref=f26e130]:
+              - generic [ref=f26e131]: Products
+              - link "Agentic Data Plane" [ref=f26e132] [cursor=pointer]:
+                - /url: /agentic-data-plane
+              - link "Redpanda Streaming" [ref=f26e133] [cursor=pointer]:
+                - /url: /data-streaming
+              - link "Redpanda Connect" [ref=f26e134] [cursor=pointer]:
+                - /url: /connect
+              - link "Redpanda SQL" [ref=f26e135] [cursor=pointer]:
+                - /url: /sql
+              - generic [ref=f26e137]: Compare
+              - link "Redpanda vs Confluent" [ref=f26e138] [cursor=pointer]:
+                - /url: /compare/redpanda-vs-confluent
+              - link "Redpanda vs Amazon MSK" [ref=f26e139] [cursor=pointer]:
+                - /url: /compare/redpanda-vs-amazon-msk
+              - link "Redpanda vs Kafka" [ref=f26e140] [cursor=pointer]:
+                - /url: /compare/redpanda-vs-kafka
+            - generic [ref=f26e141]:
+              - generic [ref=f26e142]: Use Cases
+              - link "Streaming Iceberg Tables" [ref=f26e143] [cursor=pointer]:
+                - /url: /use-case/streaming-iceberg-tables
+              - link "Snowflake Ingestion" [ref=f26e144] [cursor=pointer]:
+                - /url: /use-case/snowflake-connector-for-redpanda-connect
+              - link "AI/ML" [ref=f26e145] [cursor=pointer]:
+                - /url: /use-case/artificial-intelligence
+              - generic [ref=f26e147]: Industries
+              - link "Financial Services" [ref=f26e148] [cursor=pointer]:
+                - /url: /industry/financial-services
+              - link "Technology" [ref=f26e149] [cursor=pointer]:
+                - /url: /industry/technology
+              - link "Manufacturing" [ref=f26e150] [cursor=pointer]:
+                - /url: /industry/manufacturing
+              - link "Media" [ref=f26e151] [cursor=pointer]:
+                - /url: /industry/media
+              - link "Gaming & Gambling" [ref=f26e152] [cursor=pointer]:
+                - /url: /industry/gaming-gambling
+              - link "Cybersecurity" [ref=f26e153] [cursor=pointer]:
+                - /url: /industry/cybersecurity
+            - generic [ref=f26e154]:
+              - generic [ref=f26e155]: Learn
+              - link "Why Redpanda" [ref=f26e156] [cursor=pointer]:
+                - /url: /why-redpanda
+              - link "Resources" [ref=f26e157] [cursor=pointer]:
+                - /url: /resources
+              - link "Events" [ref=f26e158] [cursor=pointer]:
+                - /url: /events
+              - link "On-demand" [ref=f26e159] [cursor=pointer]:
+                - /url: /events?tab=on-demand
+              - link "'Hello, Agent' Podcast" [ref=f26e160] [cursor=pointer]:
+                - /url: /hello-agent
+              - link "Blog" [ref=f26e161] [cursor=pointer]:
+                - /url: /blog
+              - link "Docs" [ref=f26e162] [cursor=pointer]:
+                - /url: https://docs.redpanda.com/home/
+            - generic [ref=f26e163]:
+              - generic [ref=f26e164]: Company
+              - link "About us" [ref=f26e165] [cursor=pointer]:
+                - /url: /about-us
+              - link "Customers" [ref=f26e166] [cursor=pointer]:
+                - /url: /customers
+              - link "Press" [ref=f26e167] [cursor=pointer]:
+                - /url: /press
+              - link "Partners" [ref=f26e168] [cursor=pointer]:
+                - /url: /partners
+              - link "Careers" [ref=f26e169] [cursor=pointer]:
+                - /url: /careers
+              - link "Contact" [ref=f26e170] [cursor=pointer]:
+                - /url: /contact
+              - link "Legal hub" [ref=f26e171] [cursor=pointer]:
+                - /url: /legal/legal-hub
+              - link "Trust center" [ref=f26e172] [cursor=pointer]:
+                - /url: https://trust.redpanda.com/
+        - generic [ref=f26e175]:
+          - generic [ref=f26e176]:
+            - link "Redpanda on X" [ref=f26e177] [cursor=pointer]:
+              - /url: https://twitter.com/redpandadata
+            - link "Redpanda on BlueSky" [ref=f26e182] [cursor=pointer]:
+              - /url: https://bsky.app/profile/redpanda.com
+            - link "Redpanda Linkedin" [ref=f26e186] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/redpanda-data
+            - link "Redpanda Slack" [ref=f26e190] [cursor=pointer]:
+              - /url: /slack
+            - link "Redpanda Github" [ref=f26e197] [cursor=pointer]:
+              - /url: https://github.com/redpanda-data/redpanda
+            - link "Redpanda youtube" [ref=f26e201] [cursor=pointer]:
+              - /url: https://www.youtube.com/@RedpandaData
+          - generic [ref=f26e205]:
+            - link "Cookie preferences" [ref=f26e206] [cursor=pointer]:
+              - /url: "#"
+            - link "Privacy policy" [ref=f26e207] [cursor=pointer]:
+              - /url: /legal/privacy-policy
+            - generic [ref=f26e208]: © 2026 Redpanda. All rights reserved.
+  - dialog "Privacy" [ref=f26e210]:
+    - generic [ref=f26e211]:
+      - generic [ref=f26e214]:
+        - text: We use cookies to improve your experience and for marketing.
+        - link "More information about your privacy, opens in a new tab" [ref=f26e215] [cursor=pointer]:
+          - /url: https://www.redpanda.com/legal/privacy-policy
+          - text: Privacy Policy
+      - generic [ref=f26e217]:
+        - button "Manage Cookies, Opens the preference center dialog" [ref=f26e218] [cursor=pointer]: Manage Cookies
+        - button "Accept All Cookies" [ref=f26e220] [cursor=pointer]

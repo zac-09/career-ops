@@ -1,0 +1,113 @@
+- generic [active] [ref=f38e1]:
+  - banner [ref=f38e2]:
+    - navigation [ref=f38e3]:
+      - generic [ref=f38e5]:
+        - link [ref=f38e6] [cursor=pointer]:
+          - /url: /
+          - img "Atlassian" [ref=f38e7]
+        - generic [ref=f38e10]:
+          - list [ref=f38e11]:
+            - listitem
+            - listitem [ref=f38e12] [cursor=pointer]:
+              - button "Products" [ref=f38e13]
+            - listitem [ref=f38e16] [cursor=pointer]:
+              - button "Solutions" [ref=f38e17]
+            - listitem [ref=f38e20] [cursor=pointer]:
+              - button "Why Atlassian" [ref=f38e21]
+            - listitem [ref=f38e24] [cursor=pointer]:
+              - button "Resources" [ref=f38e25]
+            - listitem [ref=f38e28] [cursor=pointer]:
+              - link "Enterprise" [ref=f38e29]:
+                - /url: /enterprise
+            - listitem [ref=f38e30] [cursor=pointer]
+          - list [ref=f38e31]:
+            - listitem [ref=f38e32] [cursor=pointer]:
+              - button "Get it free" [ref=f38e33]
+            - listitem [ref=f38e36] [cursor=pointer]:
+              - button [ref=f38e37]
+            - listitem [ref=f38e40] [cursor=pointer]:
+              - button "Sign in" [ref=f38e41]
+            - listitem
+  - main [ref=f38e42]:
+    - navigation [ref=f38e43]:
+      - generic [ref=f38e45]:
+        - link "Careers" [ref=f38e46] [cursor=pointer]:
+          - /url: /company/careers
+        - list [ref=f38e51]:
+          - listitem
+          - listitem [ref=f38e52] [cursor=pointer]:
+            - link "Browse Jobs" [ref=f38e53]:
+              - /url: /company/careers/all-jobs
+          - listitem [ref=f38e54] [cursor=pointer]:
+            - button "Our Teams" [ref=f38e55]
+          - listitem [ref=f38e58] [cursor=pointer]:
+            - link "Early Careers" [ref=f38e59]:
+              - /url: /company/careers/earlycareers
+          - listitem [ref=f38e60] [cursor=pointer]:
+            - button "Team Experience" [ref=f38e61]
+          - listitem [ref=f38e64] [cursor=pointer]:
+            - button "Candidate Resources" [ref=f38e65]
+          - listitem [ref=f38e68] [cursor=pointer]
+    - generic [ref=f38e69]:
+      - paragraph [ref=f38e74]:
+        - text: Protect your data from job offer scams. Atlassian will never ask for payments. Learn more
+        - link "here" [ref=f38e75] [cursor=pointer]:
+          - /url: /company/careers/resources/interviewing/recruitment-fraud
+        - text: .
+      - generic "Close" [ref=f38e76] [cursor=pointer]: ✕
+    - list [ref=f38e81]:
+      - listitem [ref=f38e82]:
+        - link "Company" [ref=f38e83] [cursor=pointer]:
+          - /url: /company
+        - text: /
+      - listitem [ref=f38e84]:
+        - link "Careers" [ref=f38e85] [cursor=pointer]:
+          - /url: /company/careers
+        - text: /
+      - listitem [ref=f38e86]:
+        - link "All Jobs" [ref=f38e87] [cursor=pointer]:
+          - /url: /company/careers/all-jobs
+  - contentinfo [ref=f38e91]:
+    - generic [ref=f38e95]:
+      - generic [ref=f38e97]:
+        - generic "Choose your language"
+        - combobox "Choose your language" [ref=f38e98] [cursor=pointer]:
+          - option "Choose your language" [disabled]
+          - option "Deutsch"
+          - option "English" [selected]
+          - option "Español"
+          - option "Français"
+          - option "Italiano"
+          - option "한국어"
+          - option "Nederlands"
+          - option "日本語"
+          - option "Polski"
+          - option "Português"
+          - option "русский"
+          - option "中文"
+      - link "Privacy Policy" [ref=f38e100] [cursor=pointer]:
+        - /url: /legal/careers-privacy-notice
+      - link "Limit the Use of My Sensitive Personal Information" [ref=f38e102] [cursor=pointer]:
+        - /url: /legal/careers-privacy-notice#additional-disclosures
+      - link "Terms" [ref=f38e104] [cursor=pointer]:
+        - /url: /legal/atlassian-customer-agreement
+      - link "Impressum" [ref=f38e107] [cursor=pointer]:
+        - /url: /legal/impressum
+      - paragraph [ref=f38e109]: Copyright © 2026 Atlassian
+      - list [ref=f38e112]:
+        - listitem [ref=f38e113]:
+          - link "Atlassian on Facebook" [ref=f38e114] [cursor=pointer]:
+            - /url: https://www.facebook.com/Atlassian
+        - listitem [ref=f38e115]:
+          - link "Follow us on Twitter" [ref=f38e116] [cursor=pointer]:
+            - /url: https://twitter.com/atlassian
+        - listitem [ref=f38e117]:
+          - link "Atlassian on LinkedIn" [ref=f38e118] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/atlassian
+        - listitem [ref=f38e119]:
+          - link "Atlassian on YouTube" [ref=f38e120] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/GoAtlassian
+  - iframe [ref=f38e123]:
+    - generic [ref=f39e6]:
+      - text: protected by
+      - strong [ref=f39e7]: reCAPTCHA
