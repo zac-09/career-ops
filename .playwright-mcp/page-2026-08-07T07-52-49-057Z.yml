@@ -1,0 +1,83 @@
+- generic [active] [ref=f79e1]:
+  - generic [ref=f79e3]:
+    - generic [ref=f79e5]:
+      - navigation [ref=f79e7]:
+        - list [ref=f79e8]:
+          - listitem [ref=f79e9]:
+            - paragraph [ref=f79e10]:
+              - link "Open Positions" [ref=f79e11] [cursor=pointer]
+          - listitem [ref=f79e12]:
+            - generic [ref=f79e13]: 
+            - paragraph [ref=f79e14]:
+              - link "Software Engineer - Backend"
+      - generic [ref=f79e15]:
+        - heading "Software Engineer - Backend" [level=2] [ref=f79e16]
+        - generic [ref=f79e17]:
+          - generic [ref=f79e18]:
+            - generic [ref=f79e20]:
+              - paragraph [ref=f79e21]:
+                - strong [ref=f79e23]: About Latitude.sh
+                - text: Launched in 2019, Latitude.sh provides automated, global Bare Metal infrastructure with cloud-like flexibility. Recently acquired by
+                - strong [ref=f79e25]: Megaport
+                - text: ", we are now integrating high-performance compute with world-class connectivity to power the next generation of AI and enterprise workloads at scale."
+              - paragraph [ref=f79e26]:
+                - strong [ref=f79e28]: Summary
+                - text: Our API is the backbone of everything
+                - link "Latitude" [ref=f79e29] [cursor=pointer]:
+                  - /url: http://latitude.sh/
+                - text: offers — server provisioning, network management, billing, and more. It's a Ruby on Rails application with Go services, and it needs to keep up with an accelerating roadmap.What You’ll Be Doing
+              - list [ref=f79e31]:
+                - listitem [ref=f79e32]: Build and maintain the core API that customers, SDKs, Terraform provider, and internal systems depend on
+                - listitem [ref=f79e33]: Work with our platform architect and lead backend engineer on design and implementation
+                - listitem [ref=f79e34]: "Contribute to the developer-facing surface: REST APIs, webhooks, SDK compatibility"
+                - listitem [ref=f79e35]: Own reliability of the services you build
+              - paragraph [ref=f79e36]: What We Are Looking For
+              - list [ref=f79e37]:
+                - listitem [ref=f79e38]: 5+ years backend engineering
+                - listitem [ref=f79e39]: Strong Ruby on Rails, Python or Go (ideally both)
+                - listitem [ref=f79e40]: Experience designing and building REST APIs at scale
+                - listitem [ref=f79e41]: Relational databases, background jobs, distributed systems fundamentals
+                - listitem [ref=f79e42]: You care about API design as a craft — our customers are developers and they notice
+              - paragraph [ref=f79e43]: What Do We Offer?
+              - list [ref=f79e44]:
+                - listitem [ref=f79e45]: Contractor (PJ) status
+                - listitem [ref=f79e46]: Paid Time Off
+                - listitem [ref=f79e47]: Competitive Compensation
+                - listitem [ref=f79e48]: Wellhub (formerly Gympass)
+                - listitem [ref=f79e49]: Annual Bonus based on company and team performance
+                - listitem [ref=f79e50]: Flexible work hours
+                - listitem [ref=f79e51]: Opportunities for professional growth and development
+              - paragraph [ref=f79e52]:
+                - strong [ref=f79e54]: Why Latitude.sh + Megaport?
+                - text: At Latitude.sh, you’ll be part of a lean, agile team where your work truly matters. From day one, you’ll have ownership, autonomy, and the opportunity to make a real impact through innovation and creative problem-solving.Together with Megaport, we embrace a collaborative, low-hierarchy culture where curiosity drives growth, diversity is valued, and customers are at the center of everything we do. We’re proud to be an inclusive company and welcome talent from all backgrounds. If our values resonate with you, we’d love to meet you.
+            - button "Apply now" [ref=f79e57] [cursor=pointer]
+          - generic [ref=f79e60]:
+            - generic [ref=f79e61]:
+              - generic [ref=f79e62]:
+                - generic [ref=f79e63]: 
+                - paragraph [ref=f79e64]: Engineering
+              - generic [ref=f79e65]:
+                - generic [ref=f79e66]: 
+                - paragraph [ref=f79e67]: Brazil
+            - generic [ref=f79e68]:
+              - generic [ref=f79e69]:
+                - paragraph [ref=f79e70]: "Share on:"
+                - generic [ref=f79e71]:
+                  - button "Share on LinkedIn" [ref=f79e72] [cursor=pointer]: 
+                  - button "Share on Facebook" [ref=f79e73] [cursor=pointer]: 
+                  - button "Share on Twitter/X" [ref=f79e74] [cursor=pointer]: 
+              - button "Apply now" [ref=f79e77] [cursor=pointer]
+    - generic [ref=f79e81]:
+      - generic [ref=f79e82]:
+        - link "Terms of service" [ref=f79e83] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/user
+        - link "Privacy" [ref=f79e84] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/privacy
+        - link "Cookies" [ref=f79e85] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/cookie-notice
+        - link "Powered by Rippling" [ref=f79e86] [cursor=pointer]:
+          - /url: https://www.rippling.com/recruiting
+      - generic [ref=f79e90] [cursor=pointer]:
+        - combobox "Search" [ref=f79e94]: United Kingdom (English)
+        - generic [ref=f79e95]: 
+  - alert [ref=f79e97]

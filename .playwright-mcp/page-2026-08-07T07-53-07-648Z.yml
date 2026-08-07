@@ -1,0 +1,79 @@
+- generic [active] [ref=f79e1]:
+  - generic [ref=f79e98]:
+    - generic [ref=f79e99]:
+      - generic [ref=f79e100]:
+        - 'heading "Application: Software Engineer - Backend" [level=6] [ref=f79e101]'
+        - button "Exit to job board" [ref=f79e103] [cursor=pointer]:
+          - generic [ref=f79e104]:
+            - generic [ref=f79e105]: 
+            - generic [ref=f79e106]: Exit to job board
+      - progressbar "Progress bar" [ref=f79e107]
+    - generic [ref=f79e111]:
+      - generic [ref=f79e112]:
+        - 'heading "Application: Software Engineer - Backend" [level=4] [ref=f79e113]'
+        - generic [ref=f79e114]:
+          - generic [ref=f79e115]: CV*
+          - generic [ref=f79e116]:
+            - generic [ref=f79e117]: Total 0 file selected
+            - generic "Total 0 file selected CV" [ref=f79e118] [cursor=pointer]:
+              - button "Drop or select (.doc / .docx / .pdf)" [ref=f79e119]
+            - generic [ref=f79e125]: The CV will be parsed to fill in the application details
+        - generic [ref=f79e126]:
+          - generic [ref=f79e127]: First name*
+          - textbox "First name" [ref=f79e130]
+        - generic [ref=f79e132]:
+          - generic [ref=f79e133]: Last name*
+          - textbox "Last name" [ref=f79e136]
+        - generic [ref=f79e138]:
+          - generic [ref=f79e139]: Email*
+          - textbox "Email" [ref=f79e142]
+        - generic [ref=f79e144]:
+          - generic [ref=f79e145]: Phone number*
+          - generic [ref=f79e147]:
+            - generic [ref=f79e153] [cursor=pointer]:
+              - combobox "Search" [ref=f79e157]: +44 GB
+              - generic [ref=f79e158]: 
+            - textbox "Phone number" [ref=f79e162]
+        - generic [ref=f79e164]:
+          - generic [ref=f79e165]: Location*
+          - generic [ref=f79e169]:
+            - generic [ref=f79e170]: 
+            - textbox "Location" [ref=f79e172]
+        - generic [ref=f79e174]:
+          - generic [ref=f79e175]: LinkedIn Link*
+          - textbox "LinkedIn Link" [ref=f79e178]
+        - generic [ref=f79e182]:
+          - paragraph [ref=f79e185]:
+            - text: English Proficiency
+            - generic [ref=f79e186]: "*"
+          - generic [ref=f79e191] [cursor=pointer]:
+            - combobox "Select" [ref=f79e193]:
+              - paragraph [ref=f79e194]: Select
+            - generic [ref=f79e195]: 
+        - generic [ref=f79e200]:
+          - paragraph [ref=f79e201]:
+            - text: Tick
+            - strong [ref=f79e202]: "Yes"
+            - text: or
+            - strong [ref=f79e203]: "No"
+            - text: to indicate your agreement to receive text message updates from Latitude.sh regarding your job application. Frequency may vary. Message and data rates may apply. Reply HELP for assistance. Reply STOP to opt out of future messaging.
+          - radiogroup [ref=f79e206]:
+            - radio "Yes – I consent to receiving text messages" [ref=f79e207] [cursor=pointer]:
+              - paragraph [ref=f79e213]: Yes – I consent to receiving text messages
+            - radio "No – I do not consent to receiving text messages" [ref=f79e214] [cursor=pointer]:
+              - paragraph [ref=f79e220]: No – I do not consent to receiving text messages
+      - generic [ref=f79e223]:
+        - paragraph [ref=f79e224]:
+          - generic [ref=f79e225]: Latitude.sh global computing platform was launched in 2019, enabling businesses to programmatically deploy single-tenant Bare Metal instances in different parts of the world.We are a team of passionate individuals about hardware, software, and network infrastructure looking to build the fastest, easiest-to-use, developer-centric single-tenant Cloud infrastructure. If you share this passion, join our growing team of talented people and help build the future of the Internet.
+          - text: By clicking "Apply" you agree to Rippling's
+          - link "Terms of Service" [ref=f79e227] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/user
+          - text: and
+          - link [ref=f79e228] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/privacy
+            - text: User Privacy Notice
+            - link "." [ref=f79e229]:
+              - /url: https://app.rippling.com/legal/privacy
+        - paragraph
+      - button "Apply" [disabled] [ref=f79e240]
+  - alert [ref=f79e97]: Apply - Software Engineer - Backend

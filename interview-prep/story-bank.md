@@ -78,6 +78,7 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** +$40 revenue per order from Express Shipping; improved buyer conversion from the 3D feature.
 **Reflection:** Tie every feature to a money metric before you build it — it changes what you build and how you argue for it.
 **Best for questions about:** Business impact, product mindset, end-to-end feature ownership, measurable outcomes, e-commerce.
+**Growth-archetype framing (Report #183 — Buffer — Senior Growth Engineer):** For growth-engineering roles, split this into two experiment-shaped stories: (1) 3D visualization = conversion experiment ("buyers couldn't evaluate fit → built video-overlay 3D with ffmpeg → conversion increased — ship, measure, iterate"); (2) Express Shipping = revenue experiment ("one slow checkout option → premium shipping end to end: backend, pricing, ops handoff → +$40/order — small surface, large revenue"). Lead with the metric moved, not the system built.
 
 
 ### [Real-time systems / streaming] Two-way MongoDB↔Firestore sync on Pub/Sub
@@ -124,3 +125,11 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Converted from contractor to full-time within months and was given leadership of the entire 20+ app, zero-downtime migration, reporting to the CTO.
 **Reflection:** Learning velocity is demonstrable, not claimable — the fastest way to answer "you haven't used our stack" is a track record of going from newcomer to teacher on someone else's.
 **Best for questions about:** stack gaps (e.g., C#/.NET, new languages), adaptability, ramp-up speed, contractor-to-leader growth, handling the "you don't know X" objection.
+### [Entity matching / dedup] Marketplace recommendation engine with fuzzy matching
+**Source:** Report #180 — Dwelly — Senior Backend Software Engineer — Data Migration Platform
+**S (Situation):** A marketplace product needed to match users with the right service providers from an inconsistent, user-generated provider catalog.
+**T (Task):** Build matching that worked despite messy, duplicate-prone real-world records.
+**A (Action):** Built a collaborative + content-based filtering engine in MongoDB (profile.yml proof point), combining behavioral signals with content similarity to rank provider matches.
+**R (Result):** Production recommendation engine driving provider matching in the live marketplace.
+**Reflection:** Ranked confidence beats binary match/no-match — surface scores so humans can review the ambiguous middle instead of trusting or redoing everything.
+**Best for questions about:** entity resolution, fuzzy matching, deduplication, recommender systems, working with messy user-generated data.

@@ -1,0 +1,275 @@
+- generic [active] [ref=f68e1]:
+  - generic [ref=f68e3]:
+    - generic [ref=f68e5]:
+      - link "go to Contentsquare" [ref=f68e6] [cursor=pointer]:
+        - /url: /
+      - link "go to Heap" [ref=f68e9] [cursor=pointer]:
+        - /url: https://www.heap.io/
+      - link "go to Hotjar" [ref=f68e22] [cursor=pointer]:
+        - /url: https://www.hotjar.com/
+    - link "Contentsquare launches new AI agent and analytics capabilities across ChatGPT apps, LLM traffic, and conversation intelligence -> Read press release" [ref=f68e33] [cursor=pointer]:
+      - /url: https://contentsquare.com/press/new-ai-agent-and-analytics-capabilities/
+      - generic [ref=f68e34]:
+        - generic [ref=f68e38]: Contentsquare launches new AI agent and analytics capabilities across ChatGPT apps, LLM traffic, and conversation intelligence ->
+        - generic [ref=f68e39]: Read press release
+    - banner [ref=f68e42]:
+      - generic [ref=f68e44]:
+        - generic [ref=f68e45] [cursor=pointer]:
+          - link "Content Square - back to home page" [ref=f68e46]:
+            - /url: /
+            - img "Content Square - back to home page" [ref=f68e47]
+          - link "Skip to content":
+            - /url: /careers/open-positions/#main-content
+        - navigation [ref=f68e49]:
+          - list [ref=f68e50]:
+            - listitem [ref=f68e51]:
+              - button "Products" [ref=f68e52] [cursor=pointer]
+            - listitem [ref=f68e53]:
+              - button "Solutions" [ref=f68e54] [cursor=pointer]
+            - listitem [ref=f68e55]:
+              - link "Customers" [ref=f68e56] [cursor=pointer]:
+                - /url: /customers/
+            - listitem [ref=f68e57]:
+              - button "Resources" [ref=f68e58] [cursor=pointer]
+            - listitem [ref=f68e59]:
+              - link "Pricing" [ref=f68e60] [cursor=pointer]:
+                - /url: /pricing/
+        - generic [ref=f68e62]:
+          - link "Book a demo" [ref=f68e63] [cursor=pointer]:
+            - /url: /request-a-demo/
+            - generic [ref=f68e64]:
+              - generic [ref=f68e65]: Book a demo
+              - generic [ref=f68e66]: Book a demo
+          - link "Start for free" [ref=f68e68] [cursor=pointer]:
+            - /url: https://app.contentsquare.com/signup?cs_lite=1&utm_source=csq_website
+            - generic [ref=f68e69]:
+              - generic [ref=f68e70]: Start for free
+              - generic [ref=f68e71]: Start for free
+    - main [ref=f68e73]:
+      - generic [ref=f68e87]:
+        - heading "We can’t find this page" [level=1] [ref=f68e88]
+        - link "Back to Home" [ref=f68e89] [cursor=pointer]:
+          - /url: /
+    - generic [ref=f68e100]:
+      - heading "Get insights that transform" [level=2] [ref=f68e101]
+      - list [ref=f68e102]:
+        - listitem [ref=f68e103]:
+          - link "Start for free" [ref=f68e104] [cursor=pointer]:
+            - /url: https://app.contentsquare.com/signup?cs_lite=1&utm_source=csq_website
+            - generic [ref=f68e105]:
+              - generic [ref=f68e106]: Start for free
+              - generic [ref=f68e107]: Start for free
+        - listitem [ref=f68e109]:
+          - link "Book a demo" [ref=f68e110] [cursor=pointer]:
+            - /url: /request-a-demo/
+            - generic [ref=f68e111]:
+              - generic [ref=f68e112]: Book a demo
+              - generic [ref=f68e113]: Book a demo
+    - contentinfo [ref=f68e115]:
+      - generic [ref=f68e116]:
+        - generic [ref=f68e117]:
+          - list [ref=f68e118]:
+            - link "Homepage link" [ref=f68e119] [cursor=pointer]:
+              - /url: /
+              - img "Content Square Initials Logo" [ref=f68e120]
+            - list [ref=f68e122]:
+              - listitem [ref=f68e123]:
+                - link "Platform Overview Arrow" [ref=f68e124] [cursor=pointer]:
+                  - /url: /platform/
+                  - generic [ref=f68e125]: Platform Overview
+                  - img "Arrow" [ref=f68e127]
+              - listitem [ref=f68e129]:
+                - link "AI Arrow" [ref=f68e130] [cursor=pointer]:
+                  - /url: /platform/capabilities/ai/
+                  - generic [ref=f68e131]: AI
+                  - img "Arrow" [ref=f68e133]
+              - listitem [ref=f68e135]:
+                - link "Mobile Apps Arrow" [ref=f68e136] [cursor=pointer]:
+                  - /url: /platform/capabilities/mobile/
+                  - generic [ref=f68e137]: Mobile Apps
+                  - img "Arrow" [ref=f68e139]
+              - listitem [ref=f68e141]:
+                - link "Integrations Arrow" [ref=f68e142] [cursor=pointer]:
+                  - /url: /integrations-partners/
+                  - generic [ref=f68e143]: Integrations
+                  - img "Arrow" [ref=f68e145]
+              - listitem [ref=f68e147]:
+                - link "Technical Documentation Arrow" [ref=f68e148] [cursor=pointer]:
+                  - /url: https://docs.contentsquare.com/
+                  - generic [ref=f68e149]: Technical Documentation
+                  - img "Arrow" [ref=f68e151]
+            - list [ref=f68e153]:
+              - listitem [ref=f68e154]:
+                - link "Linkedin Profile" [ref=f68e155] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/contentsquare/
+                  - img "Linkedin Icon" [ref=f68e156]
+              - listitem [ref=f68e157]:
+                - link "Youtube Account" [ref=f68e158] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@Contentsquare
+                  - img "Youtube Icon" [ref=f68e159]
+              - listitem [ref=f68e160]:
+                - link "Instagram Account" [ref=f68e161] [cursor=pointer]:
+                  - /url: https://www.instagram.com/contentsquareofficial/?hl=en
+                  - img "Instagram Icon" [ref=f68e162]
+            - list [ref=f68e164]:
+              - button "Select site language" [ref=f68e165] [cursor=pointer]:
+                - img "United Kingdom Flag" [ref=f68e167]
+                - generic [ref=f68e180]: English
+                - img "Chevron" [ref=f68e182]
+          - generic [ref=f68e184]:
+            - list [ref=f68e186]:
+              - heading "Platform" [level=2] [ref=f68e187]
+              - list [ref=f68e188]:
+                - listitem [ref=f68e189]:
+                  - link "Product Analytics" [ref=f68e190] [cursor=pointer]:
+                    - /url: /platform/product-analytics/
+                - listitem [ref=f68e191]:
+                  - link "Experience Analytics" [ref=f68e192] [cursor=pointer]:
+                    - /url: /platform/experience-analytics/
+                - listitem [ref=f68e193]:
+                  - link "Experience Monitoring" [ref=f68e194] [cursor=pointer]:
+                    - /url: /platform/experience-monitoring/
+                - listitem [ref=f68e195]:
+                  - link "Voice of Customer" [ref=f68e196] [cursor=pointer]:
+                    - /url: /platform/voice-of-customer/
+                - listitem [ref=f68e197]:
+                  - link "Conversation Intelligence" [ref=f68e198] [cursor=pointer]:
+                    - /url: /platform/conversation-intelligence/
+            - generic [ref=f68e199]:
+              - list [ref=f68e200]:
+                - heading "For Teams" [level=2] [ref=f68e201]
+                - list [ref=f68e202]:
+                  - listitem [ref=f68e203]:
+                    - link "Marketing" [ref=f68e204] [cursor=pointer]:
+                      - /url: /solutions/teams/digital-marketing/
+                  - listitem [ref=f68e205]:
+                    - link "Product" [ref=f68e206] [cursor=pointer]:
+                      - /url: /solutions/teams/product/
+                  - listitem [ref=f68e207]:
+                    - link "Design & UX" [ref=f68e208] [cursor=pointer]:
+                      - /url: /solutions/teams/design-ux/
+                  - listitem [ref=f68e209]:
+                    - link "eCommerce" [ref=f68e210] [cursor=pointer]:
+                      - /url: /solutions/teams/ecommerce/
+                  - listitem [ref=f68e211]:
+                    - link "Data" [ref=f68e212] [cursor=pointer]:
+                      - /url: /solutions/teams/analytics/
+                  - listitem [ref=f68e213]:
+                    - link "Technical & IT" [ref=f68e214] [cursor=pointer]:
+                      - /url: /solutions/teams/tech-and-it/
+              - list [ref=f68e215]:
+                - heading "For Industries" [level=2] [ref=f68e216]
+                - list [ref=f68e217]:
+                  - listitem [ref=f68e218]:
+                    - link "Retail" [ref=f68e219] [cursor=pointer]:
+                      - /url: /solutions/industry/ecommerce-retail/
+                  - listitem [ref=f68e220]:
+                    - link "B2B" [ref=f68e221] [cursor=pointer]:
+                      - /url: /solutions/industry/b2b/
+                  - listitem [ref=f68e222]:
+                    - link "Financial Services" [ref=f68e223] [cursor=pointer]:
+                      - /url: /solutions/industry/banking-and-financial-services/
+                  - listitem [ref=f68e224]:
+                    - link "Travel & Hospitality" [ref=f68e225] [cursor=pointer]:
+                      - /url: /solutions/industry/travel-hospitality/
+                  - listitem [ref=f68e226]:
+                    - link "Automotive" [ref=f68e227] [cursor=pointer]:
+                      - /url: /solutions/industry/automotive/
+                  - listitem [ref=f68e228]:
+                    - link "Public Sector" [ref=f68e229] [cursor=pointer]:
+                      - /url: /solutions/industry/public-sector/
+                  - listitem [ref=f68e230]:
+                    - link "Telecom" [ref=f68e231] [cursor=pointer]:
+                      - /url: /solutions/industry/telecom/
+            - list [ref=f68e233]:
+              - heading "Company" [level=2] [ref=f68e234]
+              - list [ref=f68e235]:
+                - listitem [ref=f68e236]:
+                  - link "About" [ref=f68e237] [cursor=pointer]:
+                    - /url: /company/
+                - listitem [ref=f68e238]:
+                  - link "Services" [ref=f68e239] [cursor=pointer]:
+                    - /url: /platform/services/
+                - listitem [ref=f68e240]:
+                  - link "Partner Program" [ref=f68e241] [cursor=pointer]:
+                    - /url: /partner-program/
+                - listitem [ref=f68e242]:
+                  - link "Careers" [ref=f68e243] [cursor=pointer]:
+                    - /url: https://contentsquare.com/careers/
+                - listitem [ref=f68e244]:
+                  - link "Press & News" [ref=f68e245] [cursor=pointer]:
+                    - /url: /press/
+                - listitem [ref=f68e246]:
+                  - link "Media coverage" [ref=f68e247] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=f68e248]:
+                  - link "Impact" [ref=f68e249] [cursor=pointer]:
+                    - /url: https://contentsquare.com/company/impact/
+                - listitem [ref=f68e250]:
+                  - link "Accessibility Statements Center" [ref=f68e251] [cursor=pointer]:
+                    - /url: /accessibility-statements-center/
+            - generic [ref=f68e252]:
+              - list [ref=f68e253]:
+                - heading "Resources" [level=2] [ref=f68e254]
+                - list [ref=f68e255]:
+                  - listitem [ref=f68e256]:
+                    - link "Customers" [ref=f68e257] [cursor=pointer]:
+                      - /url: /customers/
+                  - listitem [ref=f68e258]:
+                    - link "Blog" [ref=f68e259] [cursor=pointer]:
+                      - /url: /blog/
+                  - listitem [ref=f68e260]:
+                    - link "Guides" [ref=f68e261] [cursor=pointer]:
+                      - /url: /guides/
+                  - listitem [ref=f68e262]:
+                    - link "eBooks & Reports" [ref=f68e263] [cursor=pointer]:
+                      - /url: /ebooks-reports/
+                  - listitem [ref=f68e264]:
+                    - link "Events & Webinars" [ref=f68e265] [cursor=pointer]:
+                      - /url: /events/
+                  - listitem [ref=f68e266]:
+                    - link "Community" [ref=f68e267] [cursor=pointer]:
+                      - /url: https://community.contentsquare.com/private/login
+                  - listitem [ref=f68e268]:
+                    - link "Help Center" [ref=f68e269] [cursor=pointer]:
+                      - /url: https://support.contentsquare.com/hc/en-gb
+                  - listitem [ref=f68e270]:
+                    - link "Learning Hub" [ref=f68e271] [cursor=pointer]:
+                      - /url: https://learn.contentsquare.com/
+                  - listitem [ref=f68e272]:
+                    - link "Contact Us" [ref=f68e273] [cursor=pointer]:
+                      - /url: /contact-us/
+              - list [ref=f68e274]:
+                - heading "Trust Center" [level=2] [ref=f68e275]
+                - list [ref=f68e276]:
+                  - listitem [ref=f68e277]:
+                    - link "Legal" [ref=f68e278] [cursor=pointer]:
+                      - /url: /legal/
+                  - listitem [ref=f68e279]:
+                    - link "Security & Privacy Trust Portal" [ref=f68e280] [cursor=pointer]:
+                      - /url: https://trust.contentsquare.com/
+        - generic [ref=f68e281]:
+          - paragraph [ref=f68e282]: © 2026 ContentSquare. All Rights Reserved.
+          - list [ref=f68e283]:
+            - list [ref=f68e284]:
+              - listitem [ref=f68e285]:
+                - link "Privacy Policies" [ref=f68e286] [cursor=pointer]:
+                  - /url: /privacy-policy/
+              - listitem [ref=f68e287]:
+                - link "Terms of Service" [ref=f68e288] [cursor=pointer]:
+                  - /url: /page-legal-terms-of-service/
+              - listitem [ref=f68e289]:
+                - link "Cookie Policy" [ref=f68e290] [cursor=pointer]:
+                  - /url: /privacy-center/cookie-policy/
+              - listitem [ref=f68e291]:
+                - link "Modern Slavery Statement" [ref=f68e292] [cursor=pointer]:
+                  - /url: /legal/modern-slavery-statement/
+              - listitem [ref=f68e293]:
+                - link "Trust Center" [ref=f68e294] [cursor=pointer]:
+                  - /url: /trust-center/
+              - listitem [ref=f68e295]:
+                - link "Sitemap" [ref=f68e296] [cursor=pointer]:
+                  - /url: https://contentsquare.com/sitemap_index.xml
+              - listitem [ref=f68e297]:
+                - button "Cookies Settings" [ref=f68e298] [cursor=pointer]
+  - alert [ref=f68e299]

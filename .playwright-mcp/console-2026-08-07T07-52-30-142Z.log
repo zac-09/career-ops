@@ -1,0 +1,7 @@
+[    1697ms] [WARNING] Hotjar Tracking Warning: Multiple Hotjar tracking codes were detected on this page. Tracking will not work as expected. @ https://script.hotjar.com/modules.75bf3488a101739acfe9.js:1
+[    1769ms] Uncaught TypeError: Cannot read properties of undefined (reading 'getPageContent')
+    at 6682 (https://script.hotjar.com/modules.75bf3488a101739acfe9.js:1:71388)
+    at n (https://script.hotjar.com/modules.75bf3488a101739acfe9.js:1:232911)
+    at <anonymous> (https://script.hotjar.com/modules.75bf3488a101739acfe9.js:1:234120)
+    at <anonymous> (https://script.hotjar.com/modules.75bf3488a101739acfe9.js:1:234305)
+    at <anonymous> (https://script.hotjar.com/modules.75bf3488a101739acfe9.js:1:234308)

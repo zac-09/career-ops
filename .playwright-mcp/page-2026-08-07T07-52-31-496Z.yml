@@ -1,0 +1,565 @@
+- generic [active] [ref=f74e1]:
+  - generic [ref=f74e3]:
+    - generic [ref=f74e5]:
+      - link "go to Contentsquare" [ref=f74e6] [cursor=pointer]:
+        - /url: /
+      - link "go to Heap" [ref=f74e9] [cursor=pointer]:
+        - /url: https://www.heap.io/
+      - link "go to Hotjar" [ref=f74e22] [cursor=pointer]:
+        - /url: https://www.hotjar.com/
+    - link "Attention job seekers! Beware of scams impersonating Contentsquare and its team members. → To learn more, please visit our blog!" [ref=f74e33] [cursor=pointer]:
+      - /url: https://contentsquare.com/blog/defending-against-fake-job-scams-impersonating-cntentsquare/
+      - generic [ref=f74e34]:
+        - generic [ref=f74e38]: Attention job seekers! Beware of scams impersonating Contentsquare and its team members. →
+        - generic [ref=f74e39]: To learn more, please visit our blog!
+    - banner [ref=f74e42]:
+      - generic [ref=f74e44]:
+        - generic [ref=f74e45] [cursor=pointer]:
+          - link "Content Square - back to home page" [ref=f74e46]:
+            - /url: /
+            - img "Content Square - back to home page" [ref=f74e47]
+          - link "Skip to content":
+            - /url: /careers/#main-content
+        - navigation [ref=f74e49]:
+          - list [ref=f74e50]:
+            - listitem [ref=f74e51]:
+              - button "Products" [ref=f74e52] [cursor=pointer]
+            - listitem [ref=f74e53]:
+              - button "Solutions" [ref=f74e54] [cursor=pointer]
+            - listitem [ref=f74e55]:
+              - link "Customers" [ref=f74e56] [cursor=pointer]:
+                - /url: /customers/
+            - listitem [ref=f74e57]:
+              - button "Resources" [ref=f74e58] [cursor=pointer]
+            - listitem [ref=f74e59]:
+              - link "Pricing" [ref=f74e60] [cursor=pointer]:
+                - /url: /pricing/
+        - generic [ref=f74e62]:
+          - link "Book a demo" [ref=f74e63] [cursor=pointer]:
+            - /url: /request-a-demo/
+            - generic [ref=f74e64]:
+              - generic [ref=f74e65]: Book a demo
+              - generic [ref=f74e66]: Book a demo
+          - link "Start for free" [ref=f74e68] [cursor=pointer]:
+            - /url: https://app.contentsquare.com/signup?cs_lite=1&utm_source=csq_website
+            - generic [ref=f74e69]:
+              - generic [ref=f74e70]: Start for free
+              - generic [ref=f74e71]: Start for free
+    - main [ref=f74e73]:
+      - generic [ref=f74e77]:
+        - generic [ref=f74e79]:
+          - heading "Human mission. Global ambition." [level=1] [ref=f74e80]
+          - generic [ref=f74e82]:
+            - paragraph [ref=f74e83]: Want to help us create a world where everybody has a digital experience they love, seek, and deserve?
+            - paragraph [ref=f74e84]: Interested in a company that values its people, and pours compassion and fun into its culture?
+            - paragraph [ref=f74e85]: You’re in the right place. Join us!
+          - link "See open positions" [ref=f74e87] [cursor=pointer]:
+            - /url: https://jobs.lever.co/contentsquare/
+            - generic [ref=f74e88]:
+              - generic [ref=f74e89]: See open positions
+              - generic [ref=f74e90]: See open positions
+        - img "Career Hero Illustration" [ref=f74e94]
+      - generic [ref=f74e119]:
+        - generic [ref=f74e120]: Careers
+        - list [ref=f74e121]:
+          - listitem [ref=f74e122]:
+            - link "Our values" [ref=f74e124] [cursor=pointer]:
+              - /url: "#values"
+          - listitem [ref=f74e125]:
+            - link "Our locations" [ref=f74e127] [cursor=pointer]:
+              - /url: "#locations"
+          - listitem [ref=f74e128]:
+            - link "Our commitments" [ref=f74e130] [cursor=pointer]:
+              - /url: "#commitments"
+          - listitem [ref=f74e131]:
+            - link "Our benefits" [ref=f74e133] [cursor=pointer]:
+              - /url: "#benefits"
+          - listitem [ref=f74e134]:
+            - link "Our stories" [ref=f74e136] [cursor=pointer]:
+              - /url: "#stories"
+      - generic [ref=f74e139]:
+        - heading "Our values" [level=2] [ref=f74e141]
+        - generic [ref=f74e142]:
+          - generic [ref=f74e144]:
+            - generic [ref=f74e146]:
+              - img "Icon — Be Daring" [ref=f74e147]
+              - generic [ref=f74e148]: Be daring
+              - generic [ref=f74e149]: The biggest risk is no risk.
+              - paragraph [ref=f74e151]: We share an ambition and hunger inside that pushes us to go beyond together. Win or lose, we’re in it together.
+            - generic [ref=f74e153]:
+              - img "Icon — Be understanding" [ref=f74e154]
+              - generic [ref=f74e155]: Be understanding
+              - generic [ref=f74e156]: Empathy is our superpower.
+              - paragraph [ref=f74e158]: We continuously improve by listening and learning from our customers, their customers, and each other.
+            - generic [ref=f74e163]:
+              - img "Icon — Be deliberate" [ref=f74e164]
+              - generic [ref=f74e165]: Be deliberate
+              - generic [ref=f74e166]: We eat data for breakfast.
+              - paragraph [ref=f74e168]: We’re deliberate in our approach and process, using data to guide our decisions so we can make the moves that count.
+            - generic [ref=f74e173]:
+              - img "Icon — Be simplifiers" [ref=f74e174]
+              - generic [ref=f74e175]: Be simplifiers
+              - generic [ref=f74e176]: Ease at every opportunity.
+              - paragraph [ref=f74e178]: We’re all empowered to make the complex simpler—for our customers and each other.
+          - generic [ref=f74e183]:
+            - button "Navigate Image Slider" [disabled]:
+              - generic:
+                - img "Arrow"
+            - button "Navigate Image Slider" [ref=f74e184] [cursor=pointer]:
+              - img "Arrow" [ref=f74e186]
+        - generic [ref=f74e188]:
+          - img "Image — Our story Visual (Option 2)" [ref=f74e191]
+          - img "Image — Our story Visual — Small" [ref=f74e212]
+      - generic [ref=f74e224]:
+        - heading "Our locations" [level=2] [ref=f74e226]
+        - generic [ref=f74e227]:
+          - generic [ref=f74e229]:
+            - generic [ref=f74e231]:
+              - img "Paris Office Cover" [ref=f74e233]
+              - listitem [ref=f74e243]:
+                - generic [ref=f74e244]:
+                  - img "France Flag" [ref=f74e246]
+                  - heading "Paris" [level=4] [ref=f74e247]
+                - generic [ref=f74e248]:
+                  - link "contact-fr@contentsquare.com" [ref=f74e249] [cursor=pointer]:
+                    - /url: mailto:contact-fr@contentsquare.com
+                  - generic [ref=f74e250]:
+                    - paragraph [ref=f74e251]: WeWork 7 rue de Madrid,
+                    - paragraph [ref=f74e252]: Paris 75008
+                    - paragraph [ref=f74e253]: France
+            - generic [ref=f74e255]:
+              - img "London Office Cover" [ref=f74e257]
+              - listitem [ref=f74e267]:
+                - generic [ref=f74e268]:
+                  - img "UK Flag" [ref=f74e270]
+                  - heading "London" [level=4] [ref=f74e271]
+                - generic [ref=f74e272]:
+                  - link "contact-uk@contentsquare.com" [ref=f74e273] [cursor=pointer]:
+                    - /url: mailto:contact-uk@contentsquare.com
+                  - generic [ref=f74e274]:
+                    - paragraph [ref=f74e275]: 6 St Andrew Street,
+                    - paragraph [ref=f74e276]: London EC4A 3AE
+                    - paragraph [ref=f74e277]: United Kingdom
+            - generic [ref=f74e279]:
+              - img "Contentsquare Office - New York" [ref=f74e281]
+              - listitem [ref=f74e291]:
+                - generic [ref=f74e292]:
+                  - img "American Flag" [ref=f74e294]
+                  - heading "New York" [level=4] [ref=f74e295]
+                - generic [ref=f74e296]:
+                  - link "contact-us@contentsquare.com" [ref=f74e297] [cursor=pointer]:
+                    - /url: mailto:contact-us@contentsquare.com
+                  - generic [ref=f74e298]:
+                    - paragraph [ref=f74e299]: 60 Hudson Street
+                    - paragraph [ref=f74e300]: Suite 1803
+                    - paragraph [ref=f74e301]: New York, NY
+                    - paragraph [ref=f74e302]: "10013"
+            - generic [ref=f74e304]:
+              - img "Milan Office Cover Image" [ref=f74e306]
+              - listitem [ref=f74e316]:
+                - generic [ref=f74e317]:
+                  - img "Italian Flag" [ref=f74e319]
+                  - heading "Milan" [level=4] [ref=f74e320]
+                - generic [ref=f74e321]:
+                  - link "contact-ita@contentsquare.com" [ref=f74e322] [cursor=pointer]:
+                    - /url: mailto:contact-ita@contentsquare.com
+                  - generic [ref=f74e323]:
+                    - paragraph [ref=f74e324]: Via Giuseppe Mazzini 9, WeWork,
+                    - paragraph [ref=f74e325]: 20123 Milano
+                    - paragraph [ref=f74e326]: Italy
+          - generic [ref=f74e327]:
+            - button "Navigate Image Slider" [disabled]:
+              - generic:
+                - img "Arrow"
+            - button "Navigate Image Slider" [ref=f74e328] [cursor=pointer]:
+              - img "Arrow" [ref=f74e330]
+      - generic [ref=f74e335]:
+        - img "Two digital marketers, watching conference on a laptop." [ref=f74e338]
+        - generic [ref=f74e340]:
+          - heading "How we hire" [level=2] [ref=f74e341]
+          - generic [ref=f74e343]:
+            - paragraph [ref=f74e344]: From your first interaction with us, we aim to deliver an excellent candidate experience.
+            - paragraph [ref=f74e345]: We want you to succeed from the very beginning.
+          - link "See how we hire" [ref=f74e347] [cursor=pointer]:
+            - /url: /careers/how-we-hire/
+      - generic [ref=f74e359]:
+        - heading "Our commitments" [level=2] [ref=f74e360]
+        - generic [ref=f74e362]:
+          - paragraph
+          - paragraph [ref=f74e363]: Contentsquare’s company mission is reflected in our employee commitment to create an environment where everyone, everywhere, has an experience they love, seek, and deserve. We understand that the kaleidoscope of unique backgrounds, experiences, cultures, knowledge, skills, and self expression combines to provide the richest and most successful company culture possible. We want to celebrate you as an individual.
+          - paragraph [ref=f74e364]: We work hard so you’ll feel safe to be yourself, take part in your team, and feel supported to do your best work. We want you to feel welcome and included on day 1, and every day after. And we want to be the best we can be as a responsible company too—that’s why we’re dedicated to continuously learning and growing.
+          - paragraph [ref=f74e365]:
+            - text: We are committed to diversity, equity, and inclusion throughout our company. In our annual
+            - link "Impact Report" [ref=f74e366] [cursor=pointer]:
+              - /url: https://contentsquare.com/company/impact/
+            - text: "&"
+            - link "Mission Report" [ref=f74e367] [cursor=pointer]:
+              - /url: https://contentsquare.com/company/mission-driven-company/
+            - text: ", we set goals and track progress. This is how we’re confidently on the right path to building an inclusive workplace and an accessible experience for all."
+      - generic [ref=f74e370]:
+        - generic [ref=f74e371]:
+          - heading "Our benefits" [level=2] [ref=f74e372]
+          - generic [ref=f74e374]:
+            - paragraph [ref=f74e375]: At Contentsquare, we’ve got you. Our benefits include competitive pay, generous vacation time, and wellness programs. You’ll also have opportunities for professional growth and development.
+            - paragraph [ref=f74e376]:
+              - strong [ref=f74e377]: "We can offer:"
+        - list [ref=f74e381]:
+          - listitem [ref=f74e382]:
+            - generic [ref=f74e383]:
+              - button "Paid time off" [expanded] [ref=f74e384] [cursor=pointer]
+              - generic "Paid time off" [ref=f74e390]:
+                - generic [ref=f74e391]:
+                  - heading "Paid time off" [level=3] [ref=f74e392]
+                  - paragraph [ref=f74e394]: You’ll receive a generous paid time off policy—tailored to your location. We follow local calendars for country-wide holidays.
+                - img "Paid Time Off - Illustration" [ref=f74e398]
+          - listitem [ref=f74e399]:
+            - generic [ref=f74e400]:
+              - button "Work environment" [ref=f74e401] [cursor=pointer]
+              - generic [ref=f74e407]:
+                - heading [level=3] [ref=f74e408]: Work environment
+                - generic [ref=f74e409]:
+                  - paragraph [ref=f74e410]: You can enjoy a hybrid working environment, across all of our locations. Fully remote options may be available for some roles.
+                  - paragraph [ref=f74e411]: Work from anywhere! Mix it up a little and work from a different place, even abroad, for a designated time each fiscal year.
+                  - paragraph [ref=f74e412]: Our global culture crew organizes fun events, like breakfasts, happy hours, and sports activities, to bring the CSQuad together in-person and remotely!
+          - listitem [ref=f74e417]:
+            - generic [ref=f74e418]:
+              - button "Family care and paid parental leave" [ref=f74e419] [cursor=pointer]
+              - generic [ref=f74e425]:
+                - heading [level=3] [ref=f74e426]: Family care and paid parental leave
+                - generic [ref=f74e427]:
+                  - paragraph [ref=f74e428]: All full-time and permanent employees are immediately eligible for birthing and non-birthing partner and adoption/surrogacy leave according to local regulations.
+                  - paragraph [ref=f74e429]: We know that family life has its own demands so we can provide a flexible return-to-work policy when you come back. You can also use annual family care leave days when your family needs you most.
+          - listitem [ref=f74e434]:
+            - generic [ref=f74e435]:
+              - button "Financial wellbeing" [ref=f74e436] [cursor=pointer]
+              - generic [ref=f74e442]:
+                - heading [level=3] [ref=f74e443]: Financial wellbeing
+                - generic [ref=f74e444]:
+                  - paragraph [ref=f74e445]: "Competitive pay: we offer competitive, equitable salaries to all."
+                  - paragraph [ref=f74e446]: "Stock options: everyone who’s full-time and permanent is eligible for stock options upon joining us."
+                  - paragraph [ref=f74e447]: "Referral program: know someone who’d be a great Contentsquare fit? Tell us about them through our program and get money if they’re hired."
+                  - paragraph [ref=f74e448]: "Retirement contributions: you’ll get retirement resources to support your future planning."
+                  - paragraph [ref=f74e449]: "Performance bonuses: our senior-level employees get performance-based bonuses."
+          - listitem [ref=f74e454]:
+            - generic [ref=f74e455]:
+              - button "Employee Resource Groups (“ERGs”)" [ref=f74e456] [cursor=pointer]
+              - generic [ref=f74e462]:
+                - heading [level=3] [ref=f74e463]: Employee Resource Groups (“ERGs”)
+                - paragraph [ref=f74e465]: "Set up and run by CSquad members, with Exec support, our ERGs create a sense of community and belonging. Choose to join: ElevateHER, Multiculture, Pride, and/or Abilities!"
+          - listitem [ref=f74e470]:
+            - generic [ref=f74e471]:
+              - button "Wellbeing and mental health support" [ref=f74e472] [cursor=pointer]
+              - generic [ref=f74e478]:
+                - heading [level=3] [ref=f74e479]: Wellbeing and mental health support
+                - paragraph [ref=f74e481]: We want to invest in our CSquad not only at work, but outside of work too! You’ll receive a Wellbeing Allowance and Mental Health Support Services.
+          - listitem [ref=f74e486]:
+            - generic [ref=f74e487]:
+              - button "Growth and learning" [ref=f74e488] [cursor=pointer]
+              - generic [ref=f74e494]:
+                - heading [level=3] [ref=f74e495]: Growth and learning
+                - paragraph [ref=f74e497]: Contentsquare offers many opportunities for our employees to grow their skills and keep learning. We offer digital learning tools, professional coaching, and programs like our internal mentorship program, peer-to-peer enrichment program, and the Management & Leadership Academy.
+          - listitem [ref=f74e502]:
+            - generic [ref=f74e503]:
+              - button "Giving back" [ref=f74e504] [cursor=pointer]
+              - generic [ref=f74e510]:
+                - heading [level=3] [ref=f74e511]: Giving back
+                - paragraph [ref=f74e513]: You can enjoy up to 8 hours of volunteering in company time annually to give back to your communities, and everyone is eligible for charitable donation matching. We also enjoy friendly competition with Treely, an app that tracks your steps, puts you in teams, and plants a tree for every 10,000 steps!
+      - generic [ref=f74e520]:
+        - generic [ref=f74e521]:
+          - heading "Our stories" [level=2] [ref=f74e522]
+          - paragraph [ref=f74e525]: Hear real stories from the people shaping experience intelligence here every day. From behind-the-scenes moments to expert advice, discover what makes Contentsquare a great place to grow.
+        - generic [ref=f74e526]:
+          - generic [ref=f74e528]:
+            - generic [ref=f74e557]:
+              - button "Navigate Image Slider" [ref=f74e558] [cursor=pointer]:
+                - img "Arrow" [ref=f74e560]
+              - button "Navigate Image Slider" [ref=f74e562] [cursor=pointer]:
+                - img "Arrow" [ref=f74e564]
+            - generic [ref=f74e568]:
+              - generic [ref=f74e570]:
+                - paragraph [ref=f74e571]: We believe in hiring for character and building the skills. The company is highly investing in in-house training for the people who do not even know the languages, but can learn it from the company
+                - generic [ref=f74e572]:
+                  - generic [ref=f74e573]: Priyanka Ghosh
+                  - generic [ref=f74e574]: Director, Quality Engineering - Paris, on Developing Talent
+              - generic [ref=f74e576]:
+                - paragraph [ref=f74e577]: In the application teams, we have plenty of technical challenges. First, we have to be scalable and sustainable. We are very focused on the end user for customers depending on the locations. We are business driven, but we are doing this in a very fun way.
+                - generic [ref=f74e578]:
+                  - generic [ref=f74e579]: Sylvain Rousseau
+                  - generic [ref=f74e580]: VP Data Collection & Quality Engineering - Paris, on Approaching Challenges
+              - generic [ref=f74e582]:
+                - paragraph [ref=f74e583]: The application process was insightful - engaging in conversations with interviewers helped me identify the skills I needed to develop further. This internal move has significantly altered my career trajectory in a positive way. Personally, I’ve experienced tremendous growth and expanded my professional skill set.
+                - generic [ref=f74e584]:
+                  - generic [ref=f74e585]: Amanda Chen
+                  - generic [ref=f74e586]: Operations Program Manager - Paris, on Internal Mobility
+              - generic [ref=f74e588]:
+                - paragraph [ref=f74e589]: I found that everyone I engaged with during the interview process seemed genuinely interested in understanding how my previous experiences and education would contribute to the team at ContentSquare. The team was also very timely in their responses and application review, which I appreciated.
+                - generic [ref=f74e590]:
+                  - generic [ref=f74e591]: Alexa Benack
+                  - generic [ref=f74e592]: Talent Operations - New York, on the Interview Process
+          - generic [ref=f74e595]:
+            - img "Priyanka - Careers" [ref=f74e607]
+            - generic:
+              - generic:
+                - img "Portrait Sylvain Rousseau"
+            - generic:
+              - generic:
+                - img "Portrait - Amanda Chen"
+            - generic:
+              - generic:
+                - img "Portrait - Alexa Benack"
+      - generic [ref=f74e611]:
+        - img "[Visual] Group or team" [ref=f74e614]
+        - generic [ref=f74e616]:
+          - heading "Life at CSQ" [level=2] [ref=f74e617]
+          - paragraph [ref=f74e620]: From behind-the-scenes moments to expert advice, discover what makes Contentsquare a great place to grow.
+          - link "Explore Life at CSQ" [ref=f74e622] [cursor=pointer]:
+            - /url: /life-at-csq/
+      - list [ref=f74e634]:
+        - listitem [ref=f74e635]:
+          - generic [ref=f74e636]:
+            - img "Deloitte Technology Fast500" [ref=f74e638]
+            - paragraph [ref=f74e640]: Deloitte - Technology Fast500
+        - listitem [ref=f74e644]:
+          - generic [ref=f74e645]:
+            - img "Great Place to Work" [ref=f74e647]
+            - paragraph [ref=f74e649]: Great Place to Work
+        - listitem [ref=f74e653]:
+          - generic [ref=f74e654]:
+            - img "2025 Best Places to Work Badge" [ref=f74e656]
+            - paragraph [ref=f74e658]: Best Places to Work
+        - listitem [ref=f74e659]:
+          - generic [ref=f74e660]:
+            - img "ebg" [ref=f74e662]
+            - paragraph [ref=f74e664]: ebg - Top 100 Companies
+        - listitem [ref=f74e668]:
+          - generic [ref=f74e669]:
+            - img "Happy Index AtWork" [ref=f74e671]
+            - paragraph [ref=f74e673]: Happy Index AtWork
+      - generic [ref=f74e689]:
+        - heading "We can't wait to meet you" [level=2] [ref=f74e690]
+        - paragraph [ref=f74e693]: Discover life at Contentsquare
+        - link "See open positions" [ref=f74e695] [cursor=pointer]:
+          - /url: https://jobs.lever.co/contentsquare/
+          - generic [ref=f74e696]:
+            - generic [ref=f74e697]: See open positions
+            - generic [ref=f74e698]: See open positions
+    - contentinfo [ref=f74e710]:
+      - generic [ref=f74e711]:
+        - generic [ref=f74e712]:
+          - list [ref=f74e713]:
+            - link "Homepage link" [ref=f74e714] [cursor=pointer]:
+              - /url: /
+              - img "Content Square Initials Logo" [ref=f74e715]
+            - list [ref=f74e717]:
+              - listitem [ref=f74e718]:
+                - link "Platform Overview Arrow" [ref=f74e719] [cursor=pointer]:
+                  - /url: /platform/
+                  - generic [ref=f74e720]: Platform Overview
+                  - img "Arrow" [ref=f74e722]
+              - listitem [ref=f74e724]:
+                - link "AI Arrow" [ref=f74e725] [cursor=pointer]:
+                  - /url: /platform/capabilities/ai/
+                  - generic [ref=f74e726]: AI
+                  - img "Arrow" [ref=f74e728]
+              - listitem [ref=f74e730]:
+                - link "Mobile Apps Arrow" [ref=f74e731] [cursor=pointer]:
+                  - /url: /platform/capabilities/mobile/
+                  - generic [ref=f74e732]: Mobile Apps
+                  - img "Arrow" [ref=f74e734]
+              - listitem [ref=f74e736]:
+                - link "Integrations Arrow" [ref=f74e737] [cursor=pointer]:
+                  - /url: /integrations-partners/
+                  - generic [ref=f74e738]: Integrations
+                  - img "Arrow" [ref=f74e740]
+              - listitem [ref=f74e742]:
+                - link "Technical Documentation Arrow" [ref=f74e743] [cursor=pointer]:
+                  - /url: https://docs.contentsquare.com/
+                  - generic [ref=f74e744]: Technical Documentation
+                  - img "Arrow" [ref=f74e746]
+            - list [ref=f74e748]:
+              - listitem [ref=f74e749]:
+                - link "Linkedin Profile" [ref=f74e750] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/contentsquare/
+                  - img "Linkedin Icon" [ref=f74e751]
+              - listitem [ref=f74e752]:
+                - link "Youtube Account" [ref=f74e753] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@Contentsquare
+                  - img "Youtube Icon" [ref=f74e754]
+              - listitem [ref=f74e755]:
+                - link "Instagram Account" [ref=f74e756] [cursor=pointer]:
+                  - /url: https://www.instagram.com/contentsquareofficial/?hl=en
+                  - img "Instagram Icon" [ref=f74e757]
+            - list [ref=f74e759]:
+              - button "Select site language" [ref=f74e760] [cursor=pointer]:
+                - img "United Kingdom Flag" [ref=f74e762]
+                - generic [ref=f74e775]: English
+                - img "Chevron" [ref=f74e777]
+          - generic [ref=f74e779]:
+            - list [ref=f74e781]:
+              - heading "Platform" [level=2] [ref=f74e782]
+              - list [ref=f74e783]:
+                - listitem [ref=f74e784]:
+                  - link "Product Analytics" [ref=f74e785] [cursor=pointer]:
+                    - /url: /platform/product-analytics/
+                - listitem [ref=f74e786]:
+                  - link "Experience Analytics" [ref=f74e787] [cursor=pointer]:
+                    - /url: /platform/experience-analytics/
+                - listitem [ref=f74e788]:
+                  - link "Experience Monitoring" [ref=f74e789] [cursor=pointer]:
+                    - /url: /platform/experience-monitoring/
+                - listitem [ref=f74e790]:
+                  - link "Voice of Customer" [ref=f74e791] [cursor=pointer]:
+                    - /url: /platform/voice-of-customer/
+                - listitem [ref=f74e792]:
+                  - link "Conversation Intelligence" [ref=f74e793] [cursor=pointer]:
+                    - /url: /platform/conversation-intelligence/
+            - generic [ref=f74e794]:
+              - list [ref=f74e795]:
+                - heading "For Teams" [level=2] [ref=f74e796]
+                - list [ref=f74e797]:
+                  - listitem [ref=f74e798]:
+                    - link "Marketing" [ref=f74e799] [cursor=pointer]:
+                      - /url: /solutions/teams/digital-marketing/
+                  - listitem [ref=f74e800]:
+                    - link "Product" [ref=f74e801] [cursor=pointer]:
+                      - /url: /solutions/teams/product/
+                  - listitem [ref=f74e802]:
+                    - link "Design & UX" [ref=f74e803] [cursor=pointer]:
+                      - /url: /solutions/teams/design-ux/
+                  - listitem [ref=f74e804]:
+                    - link "eCommerce" [ref=f74e805] [cursor=pointer]:
+                      - /url: /solutions/teams/ecommerce/
+                  - listitem [ref=f74e806]:
+                    - link "Data" [ref=f74e807] [cursor=pointer]:
+                      - /url: /solutions/teams/analytics/
+                  - listitem [ref=f74e808]:
+                    - link "Technical & IT" [ref=f74e809] [cursor=pointer]:
+                      - /url: /solutions/teams/tech-and-it/
+              - list [ref=f74e810]:
+                - heading "For Industries" [level=2] [ref=f74e811]
+                - list [ref=f74e812]:
+                  - listitem [ref=f74e813]:
+                    - link "Retail" [ref=f74e814] [cursor=pointer]:
+                      - /url: /solutions/industry/ecommerce-retail/
+                  - listitem [ref=f74e815]:
+                    - link "B2B" [ref=f74e816] [cursor=pointer]:
+                      - /url: /solutions/industry/b2b/
+                  - listitem [ref=f74e817]:
+                    - link "Financial Services" [ref=f74e818] [cursor=pointer]:
+                      - /url: /solutions/industry/banking-and-financial-services/
+                  - listitem [ref=f74e819]:
+                    - link "Travel & Hospitality" [ref=f74e820] [cursor=pointer]:
+                      - /url: /solutions/industry/travel-hospitality/
+                  - listitem [ref=f74e821]:
+                    - link "Automotive" [ref=f74e822] [cursor=pointer]:
+                      - /url: /solutions/industry/automotive/
+                  - listitem [ref=f74e823]:
+                    - link "Public Sector" [ref=f74e824] [cursor=pointer]:
+                      - /url: /solutions/industry/public-sector/
+                  - listitem [ref=f74e825]:
+                    - link "Telecom" [ref=f74e826] [cursor=pointer]:
+                      - /url: /solutions/industry/telecom/
+            - list [ref=f74e828]:
+              - heading "Company" [level=2] [ref=f74e829]
+              - list [ref=f74e830]:
+                - listitem [ref=f74e831]:
+                  - link "About" [ref=f74e832] [cursor=pointer]:
+                    - /url: /company/
+                - listitem [ref=f74e833]:
+                  - link "Services" [ref=f74e834] [cursor=pointer]:
+                    - /url: /platform/services/
+                - listitem [ref=f74e835]:
+                  - link "Partner Program" [ref=f74e836] [cursor=pointer]:
+                    - /url: /partner-program/
+                - listitem [ref=f74e837]:
+                  - link "Careers" [ref=f74e838] [cursor=pointer]:
+                    - /url: https://contentsquare.com/careers/
+                - listitem [ref=f74e839]:
+                  - link "Press & News" [ref=f74e840] [cursor=pointer]:
+                    - /url: /press/
+                - listitem [ref=f74e841]:
+                  - link "Media coverage" [ref=f74e842] [cursor=pointer]:
+                    - /url: /news/
+                - listitem [ref=f74e843]:
+                  - link "Impact" [ref=f74e844] [cursor=pointer]:
+                    - /url: https://contentsquare.com/company/impact/
+                - listitem [ref=f74e845]:
+                  - link "Accessibility Statements Center" [ref=f74e846] [cursor=pointer]:
+                    - /url: /accessibility-statements-center/
+            - generic [ref=f74e847]:
+              - list [ref=f74e848]:
+                - heading "Resources" [level=2] [ref=f74e849]
+                - list [ref=f74e850]:
+                  - listitem [ref=f74e851]:
+                    - link "Customers" [ref=f74e852] [cursor=pointer]:
+                      - /url: /customers/
+                  - listitem [ref=f74e853]:
+                    - link "Blog" [ref=f74e854] [cursor=pointer]:
+                      - /url: /blog/
+                  - listitem [ref=f74e855]:
+                    - link "Guides" [ref=f74e856] [cursor=pointer]:
+                      - /url: /guides/
+                  - listitem [ref=f74e857]:
+                    - link "eBooks & Reports" [ref=f74e858] [cursor=pointer]:
+                      - /url: /ebooks-reports/
+                  - listitem [ref=f74e859]:
+                    - link "Events & Webinars" [ref=f74e860] [cursor=pointer]:
+                      - /url: /events/
+                  - listitem [ref=f74e861]:
+                    - link "Community" [ref=f74e862] [cursor=pointer]:
+                      - /url: https://community.contentsquare.com/private/login
+                  - listitem [ref=f74e863]:
+                    - link "Help Center" [ref=f74e864] [cursor=pointer]:
+                      - /url: https://support.contentsquare.com/hc/en-gb
+                  - listitem [ref=f74e865]:
+                    - link "Learning Hub" [ref=f74e866] [cursor=pointer]:
+                      - /url: https://learn.contentsquare.com/
+                  - listitem [ref=f74e867]:
+                    - link "Contact Us" [ref=f74e868] [cursor=pointer]:
+                      - /url: /contact-us/
+              - list [ref=f74e869]:
+                - heading "Trust Center" [level=2] [ref=f74e870]
+                - list [ref=f74e871]:
+                  - listitem [ref=f74e872]:
+                    - link "Legal" [ref=f74e873] [cursor=pointer]:
+                      - /url: /legal/
+                  - listitem [ref=f74e874]:
+                    - link "Security & Privacy Trust Portal" [ref=f74e875] [cursor=pointer]:
+                      - /url: https://trust.contentsquare.com/
+        - generic [ref=f74e876]:
+          - paragraph [ref=f74e877]: © 2026 ContentSquare. All Rights Reserved.
+          - list [ref=f74e878]:
+            - list [ref=f74e879]:
+              - listitem [ref=f74e880]:
+                - link "Privacy Policies" [ref=f74e881] [cursor=pointer]:
+                  - /url: /privacy-policy/
+              - listitem [ref=f74e882]:
+                - link "Terms of Service" [ref=f74e883] [cursor=pointer]:
+                  - /url: /page-legal-terms-of-service/
+              - listitem [ref=f74e884]:
+                - link "Cookie Policy" [ref=f74e885] [cursor=pointer]:
+                  - /url: /privacy-center/cookie-policy/
+              - listitem [ref=f74e886]:
+                - link "Modern Slavery Statement" [ref=f74e887] [cursor=pointer]:
+                  - /url: /legal/modern-slavery-statement/
+              - listitem [ref=f74e888]:
+                - link "Trust Center" [ref=f74e889] [cursor=pointer]:
+                  - /url: /trust-center/
+              - listitem [ref=f74e890]:
+                - link "Sitemap" [ref=f74e891] [cursor=pointer]:
+                  - /url: https://contentsquare.com/sitemap_index.xml
+              - listitem [ref=f74e892]:
+                - button "Cookies Settings" [ref=f74e893] [cursor=pointer]
+  - alert [ref=f74e894]
+  - generic:
+    - region "Cookie banner" [ref=f74e895]:
+      - dialog "Privacy" [ref=f74e896]:
+        - generic [ref=f74e897]:
+          - generic [ref=f74e899]:
+            - text: We use cookies to improve our website, deliver and report on ads, and personalize your experience.
+            - link "More information about your privacy, opens in a new tab" [ref=f74e900] [cursor=pointer]:
+              - /url: https://contentsquare.com/privacy-center/cookie-policy/
+              - text: How we use cookies
+          - button "Cookies Settings" [ref=f74e903] [cursor=pointer]
+          - button "Close" [ref=f74e905] [cursor=pointer]
+    - text: Cookies Settings
