@@ -1,0 +1,121 @@
+- generic [ref=f7e2]:
+  - list [ref=f7e4]:
+    - listitem [ref=f7e5]:
+      - link [ref=f7e6] [cursor=pointer]:
+        - /url: https://makailabs.ai/
+        - img "Makai Labs" [ref=f7e7]
+    - listitem [ref=f7e8]:
+      - link "Back to Makai Labs’s Job Listings" [ref=f7e9] [cursor=pointer]:
+        - /url: /makai-labs
+    - listitem
+  - generic [ref=f7e12]:
+    - heading "Senior Azure Platform / DevOps Engineer" [level=1] [ref=f7e14]
+    - generic [ref=f7e15]:
+      - generic [ref=f7e16]:
+        - generic [ref=f7e17]:
+          - heading "Location" [level=2] [ref=f7e18]
+          - paragraph [ref=f7e19]: Remote; California; Massachusetts; New Jersey; New York; Texas
+        - generic [ref=f7e20]:
+          - heading "Employment Type" [level=2] [ref=f7e21]
+          - paragraph [ref=f7e22]: Full time
+        - generic [ref=f7e23]:
+          - heading "Location Type" [level=2] [ref=f7e24]
+          - paragraph [ref=f7e25]: Remote
+        - generic [ref=f7e26]:
+          - heading "Department" [level=2] [ref=f7e27]
+          - paragraph [ref=f7e28]:
+            - generic [ref=f7e29]: Engineering ›
+            - generic [ref=f7e30]: Quality Assurance
+        - generic [ref=f7e31]:
+          - heading "Compensation" [level=2] [ref=f7e32]
+          - list [ref=f7e33]:
+            - listitem [ref=f7e34]:
+              - generic [ref=f7e35]: $60 – $75 per hour
+      - generic [ref=f7e36]:
+        - tablist [ref=f7e37]:
+          - tab "Overview" [selected] [ref=f7e38] [cursor=pointer]
+          - tab "Application" [ref=f7e39] [cursor=pointer]
+        - tabpanel "Overview" [ref=f7e41]:
+          - generic [ref=f7e42]:
+            - heading [level=1] [ref=f7e43]:
+              - strong [ref=f7e44]: Senior Azure Platform / DevOps Engineer
+            - paragraph [ref=f7e45]
+            - heading [level=3] [ref=f7e46]:
+              - strong [ref=f7e47]: About Makai
+            - paragraph [ref=f7e48]: Makai uses best-in-class AI and data to solve real-world operational and strategic challenges at scale. We help businesses with enterprise automation, human-machine teaming, product design and development, and market intelligence. Until now, people have had to learn and adapt to software. Makai creates solutions that adapt to people because technology will never be 100% accurate. People are essential for all of our human-machine teaming solutions.
+            - paragraph [ref=f7e49]
+            - heading [level=3] [ref=f7e50]:
+              - strong [ref=f7e51]: About the role
+            - paragraph [ref=f7e52]: "We build and run cloud platforms for our clients. A lot of the time that means standing up a reusable Terraform foundation and adapting it for each client and environment. You'd own these platforms: design them, build them from an empty subscription, keep them running, and act as the person who actually knows how the whole thing fits together."
+            - paragraph [ref=f7e53]: This is a senior role with a lot of trust attached. The clients differ, the topologies differ, the pipelines differ. What stays constant is Azure and the expectation that you can size up an unfamiliar setup, make the right calls, and own the result.
+            - paragraph [ref=f7e54]
+            - heading [level=3] [ref=f7e55]:
+              - strong [ref=f7e56]: The ideal candidate will be able to
+            - list [ref=f7e57]:
+              - listitem [ref=f7e58]:
+                - paragraph [ref=f7e59]: "Stand up new platforms from scratch: network, compute, data, and the pipeline to ship to them."
+              - listitem [ref=f7e60]:
+                - paragraph [ref=f7e61]: Make the architecture calls and live with them. That includes knowing when a Terraform change is a safe in-place update and when it's a destroy-and-replace you should never run blind against production.
+              - listitem [ref=f7e62]:
+                - paragraph [ref=f7e63]: Run migrations that carry real risk. Move a live platform onto a new foundation, read the plan correctly, write the runbook, and have a rollback ready before you start.
+              - listitem [ref=f7e64]:
+                - paragraph [ref=f7e65]: "Keep platforms healthy over time: provider upgrades, drift, security, and not letting a shared foundation rot as more clients land on it."
+              - listitem [ref=f7e66]:
+                - paragraph [ref=f7e67]: Work directly with the client's own DevOps engineers. Often they're the ones running the apply and you're advising, so you need to explain a plan, unblock a failure quickly, and be someone the engineer holding the keys trusts.
+            - heading [level=3] [ref=f7e68]:
+              - strong [ref=f7e69]: Qualifications
+            - paragraph [ref=f7e70]: "Azure experience is the hard requirement. You've built and run production Azure yourself, not just used modules someone else wrote. Specifically:"
+            - list [ref=f7e71]:
+              - listitem [ref=f7e72]:
+                - paragraph [ref=f7e73]: "Azure networking is where most of the work lives: VNets and subnets, private endpoints and private DNS zones, NSGs and UDRs, NAT, Application Gateway and WAF, load balancers, and hub-and-spoke / Virtual WAN."
+              - listitem [ref=f7e74]:
+                - paragraph [ref=f7e75]: "Terraform on Azure, with state treated as something you respect: workspaces, migrations, imports, remote backends, and the discipline not to force an apply through a lifecycle guard."
+              - listitem [ref=f7e76]:
+                - paragraph [ref=f7e77]: "The delivery path: Azure Container Registry, VM Scale Sets and cloud-init, and CI/CD with Azure DevOps or GitHub."
+              - listitem [ref=f7e78]:
+                - paragraph [ref=f7e79]: "Azure data services: Postgres Flexible Server, managed Redis, Blob storage, and a real sense of their sizing, failover, and cutover risks."
+              - listitem [ref=f7e80]:
+                - paragraph [ref=f7e81]: "Entra ID and RBAC: app registrations, service principals, role assignments scoped properly across subscriptions."
+              - listitem [ref=f7e82]:
+                - paragraph [ref=f7e83]: Clear writing and a level head on a live call. You can hand someone a runbook they can follow without you in the room.
+            - heading [level=3] [ref=f7e84]:
+              - strong [ref=f7e85]: Nice-to-haves
+            - list [ref=f7e86]:
+              - listitem [ref=f7e87]:
+                - paragraph [ref=f7e88]: Azure certs (AZ-104, AZ-305).
+              - listitem [ref=f7e89]:
+                - paragraph [ref=f7e90]: Temporal or similar workflow runtimes, and scripting (Bash, Python) for the glue.
+              - listitem [ref=f7e91]:
+                - paragraph [ref=f7e92]: Past consulting or client-embedded work. You've been the outside expert before.
+            - heading [level=3] [ref=f7e93]:
+              - strong [ref=f7e94]: How we work
+            - paragraph [ref=f7e95]: Small senior teams, real ownership. We'd rather have one engineer who understands a platform top to bottom than several who each own a slice.
+            - paragraph [ref=f7e96]
+            - heading [level=3] [ref=f7e97]:
+              - strong [ref=f7e98]: Core values for Makai employees
+            - list [ref=f7e99]:
+              - listitem [ref=f7e100]:
+                - paragraph [ref=f7e101]: Be a flexible, innovative and creative thinker
+              - listitem [ref=f7e102]:
+                - paragraph [ref=f7e103]: Be congenial and a team player
+              - listitem [ref=f7e104]:
+                - paragraph [ref=f7e105]: Be self-sufficient
+              - listitem [ref=f7e106]:
+                - paragraph [ref=f7e107]: Be self-driven with an ownership mentality
+              - listitem [ref=f7e108]:
+                - paragraph [ref=f7e109]: Have a strong work ethic
+          - link [ref=f7e110] [cursor=pointer]:
+            - /url: /makai-labs/d563ac6e-31b0-4fb9-967b-f6cda3660034/application
+            - button "Apply for this Job" [ref=f7e111]
+  - contentinfo [ref=f7e112]:
+    - link "Learn more about Ashby" [ref=f7e113] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f7e114]: Powered by
+      - img "Ashby" [ref=f7e115]
+    - paragraph [ref=f7e121]:
+      - link "Privacy Policy" [ref=f7e122] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f7e123] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f7e124] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

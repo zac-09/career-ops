@@ -79,6 +79,7 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **Reflection:** Tie every feature to a money metric before you build it — it changes what you build and how you argue for it.
 **Best for questions about:** Business impact, product mindset, end-to-end feature ownership, measurable outcomes, e-commerce.
 **Growth-archetype framing (Report #183 — Buffer — Senior Growth Engineer):** For growth-engineering roles, split this into two experiment-shaped stories: (1) 3D visualization = conversion experiment ("buyers couldn't evaluate fit → built video-overlay 3D with ffmpeg → conversion increased — ship, measure, iterate"); (2) Express Shipping = revenue experiment ("one slow checkout option → premium shipping end to end: backend, pricing, ops handoff → +$40/order — small surface, large revenue"). Lead with the metric moved, not the system built.
+**Fintech/money-path framing (Report #188 — Yellow Card — Technical Team Lead):** For fintech roles handling real money, frame Express Shipping as a money-path story: pricing logic, payment-adjacent correctness, and the cost of getting a charge wrong — "revenue-critical path where a bug is a refund, not a retry." Pair with the two-way sync story (idempotency = ledger correctness instinct).
 
 
 ### [Real-time systems / streaming] Two-way MongoDB↔Firestore sync on Pub/Sub

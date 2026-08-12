@@ -1,0 +1,295 @@
+- generic [active] [ref=f1e1]:
+  - img "Banner" [ref=f1e3]
+  - main [ref=f1e4]:
+    - generic [ref=f1e5]:
+      - link [ref=f1e7] [cursor=pointer]:
+        - /url: https://www.canonical.com/
+        - img "Canonical Logo" [ref=f1e8]
+      - generic [ref=f1e9]:
+        - generic [ref=f1e11]:
+          - generic [ref=f1e12]:
+            - heading "Software Developer in Observability" [level=1] [ref=f1e13]
+            - generic [ref=f1e14]: Home based - EMEA
+          - button "Apply" [ref=f1e18] [cursor=pointer]: Submit application
+        - generic [ref=f1e20]:
+          - paragraph [ref=f1e21]: Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.
+          - paragraph [ref=f1e22]: The company is founder-led, profitable, and growing.
+          - paragraph [ref=f1e23]: We are hiring a Junior developer with a proven track record in Python and/or Go. As part of the Observability team, you will develop a cloud-native monitoring stack that composes best-in-class open-source monitoring tools. The stack is opinionated, resilient, and scalable, providing deep insights out of the box. The user experience is polished and seamless for the end-users, and its administrators will enjoy smooth, lightweight Day 1 and Day 2 operations.
+          - paragraph [ref=f1e24]: This is an exciting opportunity for a software engineer passionate about open source software, Linux, Kubernetes, and Observability. Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, the growing international software company behind Ubuntu.
+          - paragraph [ref=f1e25]: The monitoring stack will monitor applications running on a mix of cloud technologies such as Kubernetes and OpenStack, as well as bare-metal, virtual machines and containers. The stack will be capable of monitoring applications and infrastructure irrespective of whether they are operated by Juju, and will leverage multiple data sources at various levels of the architecture, including Juju itself, to contextualize the collected telemetry and insights delivered to the end-users.
+          - paragraph [ref=f1e26]:
+            - text: You can read more about the project
+            - link "here" [ref=f1e27] [cursor=pointer]:
+              - /url: https://grafana.com/blog/2021/10/28/open-source-done-right-why-canonical-adopted-grafana-loki-and-grafana-agent-for-their-new-stack/
+            - text: and
+            - link "here" [ref=f1e28] [cursor=pointer]:
+              - /url: https://juju.is/blog/model-driven-observability-part-1
+            - text: .
+          - paragraph [ref=f1e29]:
+            - generic [ref=f1e30]:
+              - strong [ref=f1e31]: "Location:"
+              - emphasis [ref=f1e32]: This role will be based remotely in the EMEA and Americas regions
+          - heading "The role entails" [level=2] [ref=f1e33]
+          - list [ref=f1e34]:
+            - listitem [ref=f1e35]: Collaborate proactively with a globally distributed team
+            - listitem [ref=f1e36]: Write, test and document high quality code to create new features
+            - listitem [ref=f1e37]: Debug issues and interact with a vibrant community
+            - listitem [ref=f1e38]: Review code produced by other engineers
+            - listitem [ref=f1e39]: Attend conferences to represent Canonical and the Charmed Observability Stack
+            - listitem [ref=f1e40]: Work from home with global travel 2 to 4 weeks for internal and external events
+          - heading "What we are looking for in you" [level=2] [ref=f1e41]
+          - list [ref=f1e42]:
+            - listitem [ref=f1e43]: You love technology and working with brilliant people
+            - listitem [ref=f1e44]: You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+            - listitem [ref=f1e45]: You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree
+            - listitem [ref=f1e46]: You are a skilled Python developer, preferably with a track record in open source
+            - listitem [ref=f1e47]: You have a working knowledge of Go
+            - listitem [ref=f1e48]: "You have interest and experience with two or more of the following: Ubuntu Linux, container images, Debian packaging, snap, distributed systems."
+          - heading "What we offer colleagues" [level=2] [ref=f1e49]
+          - paragraph [ref=f1e50]: We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+          - list [ref=f1e51]:
+            - listitem [ref=f1e52]: Distributed work environment with twice-yearly team sprints in person
+            - listitem [ref=f1e53]: Personal learning and development budget of USD 2,000 per year
+            - listitem [ref=f1e54]: Annual compensation review
+            - listitem [ref=f1e55]: Recognition rewards
+            - listitem [ref=f1e56]: Annual holiday leave
+            - listitem [ref=f1e57]: Maternity and paternity leave
+            - listitem [ref=f1e58]: Team Member Assistance Program & Wellness Platform
+            - listitem [ref=f1e59]: Opportunity to travel to new locations to meet colleagues
+            - listitem [ref=f1e60]: Priority Pass and travel upgrades for long-haul company events
+          - heading "About Canonical" [level=2] [ref=f1e61]
+          - paragraph [ref=f1e62]: Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004. Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+          - heading "Canonical is an equal opportunity employer" [level=2] [ref=f1e63]
+          - paragraph [ref=f1e64]:
+            - text: We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products.
+            - link "Whatever your identity, we will give your application fair consideration." [ref=f1e65] [cursor=pointer]:
+              - /url: https://canonical.com/careers/diversity/identity
+          - paragraph [ref=f1e66]
+          - paragraph [ref=f1e67]: "#LI-remote"
+      - separator [ref=f1e68]
+      - generic [ref=f1e69]:
+        - generic [ref=f1e71]:
+          - heading "Apply for this job" [level=2] [ref=f1e73]
+          - generic [ref=f1e74]:
+            - paragraph [ref=f1e76]: "*"
+            - paragraph [ref=f1e77]: indicates a required field
+        - generic [ref=f1e78]:
+          - generic [ref=f1e79]:
+            - generic [ref=f1e82]:
+              - generic [ref=f1e83]: First Name*
+              - textbox "First Name" [ref=f1e84]
+            - generic [ref=f1e87]:
+              - generic [ref=f1e88]: Last Name*
+              - textbox "Last Name" [ref=f1e89]
+            - generic [ref=f1e92]:
+              - generic [ref=f1e93]: Email*
+              - textbox "Email" [ref=f1e94]
+            - group "Phone" [ref=f1e96]:
+              - generic [ref=f1e100]:
+                - generic [ref=f1e101]: Country
+                - generic [ref=f1e102]:
+                  - log [ref=f1e104]
+                  - generic [ref=f1e106]:
+                    - combobox "Country" [ref=f1e109]
+                    - button "Toggle flyout" [ref=f1e111] [cursor=pointer]
+              - generic [ref=f1e116]:
+                - generic [ref=f1e117]: Phone
+                - textbox "Phone" [ref=f1e118]
+            - group "Resume/CV*" [ref=f1e120]:
+              - generic [ref=f1e123]:
+                - generic [ref=f1e125]:
+                  - button "Attach" [ref=f1e126] [cursor=pointer]
+                  - generic [ref=f1e127]: Attach
+                  - button "Attach" [ref=f1e128]
+                - button "Dropbox" [ref=f1e130] [cursor=pointer]
+                - button "Google Drive" [ref=f1e132] [cursor=pointer]
+                - generic [ref=f1e134]:
+                  - button "Enter manually" [ref=f1e135] [cursor=pointer]
+                  - generic [ref=f1e136]: Enter manually
+                - paragraph [ref=f1e137]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=f1e138]:
+            - generic [ref=f1e139]:
+              - separator [ref=f1e140]
+              - paragraph [ref=f1e142]: Education
+              - generic [ref=f1e144]:
+                - generic [ref=f1e145]: School
+                - generic [ref=f1e146]:
+                  - log [ref=f1e148]
+                  - generic [ref=f1e150]:
+                    - generic [ref=f1e151]:
+                      - generic [ref=f1e152]: Select...
+                      - combobox "School" [ref=f1e154]
+                    - button "Toggle flyout" [ref=f1e156] [cursor=pointer]
+              - generic [ref=f1e160]:
+                - generic [ref=f1e161]: Degree
+                - generic [ref=f1e162]:
+                  - log [ref=f1e164]
+                  - generic [ref=f1e166]:
+                    - generic [ref=f1e167]:
+                      - generic [ref=f1e168]: Select...
+                      - combobox "Degree" [ref=f1e170]
+                    - button "Toggle flyout" [ref=f1e172] [cursor=pointer]
+              - generic [ref=f1e176]:
+                - generic [ref=f1e177]: Discipline
+                - generic [ref=f1e178]:
+                  - log [ref=f1e180]
+                  - generic [ref=f1e182]:
+                    - generic [ref=f1e183]:
+                      - generic [ref=f1e184]: Select...
+                      - combobox "Discipline" [ref=f1e186]
+                    - button "Toggle flyout" [ref=f1e188] [cursor=pointer]
+            - button "Add another" [ref=f1e191] [cursor=pointer]
+          - generic [ref=f1e192]:
+            - separator [ref=f1e193]
+            - generic [ref=f1e196]:
+              - generic [ref=f1e197]: During this application process I agree to use only my own words. I understand that plagiarism, the use of AI or other generated content will disqualify my application.*
+              - generic [ref=f1e198]:
+                - log [ref=f1e200]
+                - generic [ref=f1e202]:
+                  - generic [ref=f1e203]:
+                    - generic [ref=f1e204]: Select...
+                    - combobox "During this application process I agree to use only my own words. I understand that plagiarism, the use of AI or other generated content will disqualify my application." [ref=f1e206]
+                  - button "Toggle flyout" [ref=f1e208] [cursor=pointer]
+                - textbox
+            - generic [ref=f1e213]:
+              - generic [ref=f1e214]: How did you perform in mathematics at high school?*
+              - generic [ref=f1e215]:
+                - log [ref=f1e217]
+                - generic [ref=f1e219]:
+                  - generic [ref=f1e220]:
+                    - generic [ref=f1e221]: Select...
+                    - combobox "How did you perform in mathematics at high school?" [ref=f1e223]
+                  - button "Toggle flyout" [ref=f1e225] [cursor=pointer]
+                - textbox
+            - generic [ref=f1e230]:
+              - generic [ref=f1e231]: How did you perform in your native language at high school?*
+              - generic [ref=f1e232]:
+                - log [ref=f1e234]
+                - generic [ref=f1e236]:
+                  - generic [ref=f1e237]:
+                    - generic [ref=f1e238]: Select...
+                    - combobox "How did you perform in your native language at high school?" [ref=f1e240]
+                  - button "Toggle flyout" [ref=f1e242] [cursor=pointer]
+                - textbox
+            - generic [ref=f1e247]:
+              - generic [ref=f1e248]: Please share your rationale or evidence for the high school performance selections above. Make reference to provincial, state or nation-wide scoring systems, rankings, or recognition awards, or to competitive or selective college entrance results such as SAT or ACT scores, JAMB, matriculation results, IB results etc. We recognise every system is different but we will ask you to justify your selections above.*
+              - textbox "Please share your rationale or evidence for the high school performance selections above. Make reference to provincial, state or nation-wide scoring systems, rankings, or recognition awards, or to competitive or selective college entrance results such as SAT or ACT scores, JAMB, matriculation results, IB results etc. We recognise every system is different but we will ask you to justify your selections above." [ref=f1e249]
+            - generic [ref=f1e250]:
+              - generic [ref=f1e252]:
+                - generic [ref=f1e253]: "What was your bachelor's university degree result, or expected result if you have not yet graduated? Please include the grading system to help us understand your result e.g. ‘85 out of 100’, ‘2:1 (Grading system: first class, 2:1, 2:2, third class)’ or ‘GPA score of 3.8/4.0 (predicted)’. We have hired outstanding individuals who did not attend or complete university. If this describes you, please continue with your application and enter ‘no degree’.*"
+                - 'textbox "What was your bachelor''s university degree result, or expected result if you have not yet graduated? Please include the grading system to help us understand your result e.g. ‘85 out of 100’, ‘2:1 (Grading system: first class, 2:1, 2:2, third class)’ or ‘GPA score of 3.8/4.0 (predicted)’. We have hired outstanding individuals who did not attend or complete university. If this describes you, please continue with your application and enter ‘no degree’." [ref=f1e254]'
+              - paragraph [ref=f1e257]: Universities around the world score degrees in different ways. Please indicate your result, or expected result if you are close to graduation, along with information about the grading system.
+            - generic [ref=f1e260]:
+              - generic [ref=f1e261]: Outline your practical Python & Go software engineering experience and level of competence*
+              - textbox "Outline your practical Python & Go software engineering experience and level of competence" [ref=f1e262]
+            - generic [ref=f1e265]:
+              - generic [ref=f1e266]: Outline your practical experience deploying, configuring, debugging, managing, and consuming Linux and Kubernetes*
+              - textbox "Outline your practical experience deploying, configuring, debugging, managing, and consuming Linux and Kubernetes" [ref=f1e267]
+            - generic [ref=f1e270]:
+              - generic [ref=f1e271]: Describe your practical experience installing, configuring and operating Observability tools (profiling, tracing, metrics, logging, visualization)*
+              - textbox "Describe your practical experience installing, configuring and operating Observability tools (profiling, tracing, metrics, logging, visualization)" [ref=f1e272]
+            - generic [ref=f1e273]:
+              - generic [ref=f1e275]:
+                - generic [ref=f1e276]: We require all colleagues to meet in person 2-4 times a year, at internal company events lasting between 1-2 weeks. We try to pick new and interesting locations that will likely require international travel and entry requirement visas and vaccinations. Are you willing and able to commit to this?*
+                - generic [ref=f1e277]:
+                  - log [ref=f1e279]
+                  - generic [ref=f1e281]:
+                    - generic [ref=f1e282]:
+                      - generic [ref=f1e283]: Select...
+                      - combobox "We require all colleagues to meet in person 2-4 times a year, at internal company events lasting between 1-2 weeks. We try to pick new and interesting locations that will likely require international travel and entry requirement visas and vaccinations. Are you willing and able to commit to this?" [ref=f1e285]
+                    - button "Toggle flyout" [ref=f1e287] [cursor=pointer]
+                  - textbox
+              - paragraph [ref=f1e292]: Please note that if you require any accommodation for travel that relates to a physical disability, do let us know during your hiring process and we will be happy to discuss your requirements further.
+            - generic [ref=f1e295]:
+              - generic [ref=f1e296]: Website
+              - textbox "Website" [ref=f1e297]
+            - generic [ref=f1e300]:
+              - generic [ref=f1e301]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=f1e302]
+            - generic [ref=f1e303]:
+              - generic [ref=f1e305]:
+                - generic [ref=f1e306]: Please confirm that you have read and agree to Canonical's Recruitment Privacy Notice and Privacy Policy.*
+                - generic [ref=f1e307]:
+                  - log [ref=f1e309]
+                  - generic [ref=f1e311]:
+                    - generic [ref=f1e312]:
+                      - generic [ref=f1e313]: Select...
+                      - combobox "Please confirm that you have read and agree to Canonical's Recruitment Privacy Notice and Privacy Policy." [ref=f1e315]
+                    - button "Toggle flyout" [ref=f1e317] [cursor=pointer]
+                  - textbox
+              - generic [ref=f1e321]:
+                - paragraph [ref=f1e322]:
+                  - link "Recruitment Privacy Notice" [ref=f1e323] [cursor=pointer]:
+                    - /url: https://ubuntu.com/legal/data-privacy/recruitment
+                - paragraph [ref=f1e324]:
+                  - link "Privacy Policy" [ref=f1e325] [cursor=pointer]:
+                    - /url: https://ubuntu.com/legal/data-privacy?_ga=2.3133040.1366270434.1657548863-1016224624.1649073745
+            - generic [ref=f1e326]:
+              - generic [ref=f1e328]:
+                - generic [ref=f1e329]: In which country do you currently work?*
+                - generic [ref=f1e330]:
+                  - log [ref=f1e332]
+                  - generic [ref=f1e334]:
+                    - generic [ref=f1e335]:
+                      - generic [ref=f1e336]: Select...
+                      - combobox "In which country do you currently work?" [ref=f1e338]
+                    - button "Toggle flyout" [ref=f1e340] [cursor=pointer]
+                  - textbox
+              - paragraph [ref=f1e345]: Please select your current location from the dropdown.
+            - generic [ref=f1e346]:
+              - generic [ref=f1e348]:
+                - generic [ref=f1e349]: In the past ten years, looking only at the time since you graduated your first undergraduate degree, how many companies have you worked for?*
+                - generic [ref=f1e350]:
+                  - log [ref=f1e352]
+                  - generic [ref=f1e354]:
+                    - generic [ref=f1e355]:
+                      - generic [ref=f1e356]: Select...
+                      - combobox "In the past ten years, looking only at the time since you graduated your first undergraduate degree, how many companies have you worked for?" [ref=f1e358]
+                    - button "Toggle flyout" [ref=f1e360] [cursor=pointer]
+                  - textbox
+              - generic [ref=f1e364]:
+                - paragraph [ref=f1e365]: We're focused specifically on the last ten years, and only the portion of that since you left undergrad university. If you graduated three years ago, just count the number of companies you have worked for in those three years. If you graduated 25 years ago, just count the companies in the last ten years.
+                - paragraph [ref=f1e366]: If you worked for a company which was acquired or renamed, then please count that as one company not two. Don't count any university jobs or internships. If you have your own company or do private contracting work in addition to your employment, please count that as one company.
+            - generic [ref=f1e367]:
+              - generic [ref=f1e369]:
+                - generic [ref=f1e370]: Which gender do you identify as?*
+                - generic [ref=f1e371]:
+                  - log [ref=f1e373]
+                  - generic [ref=f1e375]:
+                    - generic [ref=f1e376]:
+                      - generic [ref=f1e377]: Select...
+                      - combobox "Which gender do you identify as?" [ref=f1e379]
+                    - button "Toggle flyout" [ref=f1e381] [cursor=pointer]
+                  - textbox
+              - paragraph [ref=f1e386]: This information is being requested to help us maintain equal opportunities, best practices and comply with legal requirements. The submission of this information is entirely voluntary. The information you provide will not be used in our decision making and will not subject you to any adverse treatment.
+            - generic [ref=f1e387]:
+              - generic [ref=f1e389]:
+                - generic [ref=f1e390]: Please indicate your nationality:*
+                - generic [ref=f1e391]:
+                  - log [ref=f1e393]
+                  - generic [ref=f1e395]:
+                    - generic [ref=f1e396]:
+                      - generic [ref=f1e397]: Select...
+                      - combobox "Please indicate your nationality:" [ref=f1e399]
+                    - button "Toggle flyout" [ref=f1e401] [cursor=pointer]
+                  - textbox
+              - paragraph [ref=f1e406]: This information is being requested to help us maintain equal opportunities, best practices and comply with legal requirements. The submission of this information is entirely voluntary. The information you provide will not be visible to, or used by, our decision makers, and will not subject you to any adverse treatment.
+            - generic [ref=f1e407]:
+              - generic [ref=f1e409]:
+                - generic [ref=f1e410]: Please indicate your race or ethnicity:*
+                - generic [ref=f1e411]:
+                  - log [ref=f1e413]
+                  - generic [ref=f1e415]:
+                    - generic [ref=f1e416]:
+                      - generic [ref=f1e417]: Select...
+                      - combobox "Please indicate your race or ethnicity:" [ref=f1e419]
+                    - button "Toggle flyout" [ref=f1e421] [cursor=pointer]
+                  - textbox
+              - paragraph [ref=f1e426]: This information is being requested to help us maintain equal opportunities, best practices and comply with legal requirements. The submission of this information is entirely voluntary. The information you provide will not be visible to, or used by, our decision makers, and will not subject you to any adverse treatment.
+          - button "Submit application" [ref=f1e428] [cursor=pointer]
+  - contentinfo [ref=f1e429]:
+    - generic [ref=f1e430]:
+      - paragraph [ref=f1e431]: Powered by
+      - link [ref=f1e432] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=f1e433]

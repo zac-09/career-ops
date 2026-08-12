@@ -4,7 +4,7 @@
 **Archetype:** Backend Tech Lead (primary) + Full-Stack Engineer (secondary) — hands-on anchor, explicitly NOT management
 **Score:** 3.4/5
 **URL:** https://yellowcard.bamboohr.com/careers/412
-**PDF:** ✅ output/cv-isaac-mubiru-yellowcard-2026-08-11.pdf
+**PDF:** ✅ output/cv-isaac-yellowcard-2026-08-11.pdf
 **Verification:** live-verified via Playwright 2026-08-11 (full JD + "Apply for This Job" button rendered) + BambooHR API `careers/412/detail` `jobOpeningStatus: Open` (board shows 8 open reqs incl. this one)
 **Recommendation:** APPLY (conditional) — the Yellow Card watch-list finally produced a Node/TS-core role, and the geo is as good as it gets (Africa is REQUIRED, not merely allowed). Two honest conditions: (1) probe the comp band in the first call — levels.fyi data for Yellow Card SWE tops out ~$32K (South Africa), so even a lead premium may sit at or below Isaac's $60K floor; (2) go in gap-forward on AWS serverless depth — his event-driven scars are real but earned on GCP Pub/Sub, not Lambda/SQS/EventBridge.
 
