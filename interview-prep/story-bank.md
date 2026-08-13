@@ -152,3 +152,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Case management for FIDA Uganda and a paralegal database + mobile app for LASPNET shipped and operated in production; multiple USSD providers integrated against one contract (cv.md).
 **Reflection:** Founder-mode is a skill, not a title — talking to users, deciding what to build, and shipping it yourself compounds; the hardest part was knowing when to cut corners (UI polish) and when to be rigorous (data contracts, message idempotency).
 **Best for questions about:** ex-founder/founder-mode roles, ambiguity, thin specs, end-to-end ownership, customer conversations, small-team leadership. NOTE: confirm founder/co-founder wording with Isaac before using "founded" verbatim — cv.md titles the role "Software Engineer".
+
+### [Conversational AI in production] WhatsApp healthcare chatbot with OCR
+**Source:** Report #195 — Ojin — Product Engineer
+**S (Situation):** Healthcare users needed to submit prescriptions and get guidance through a channel they already use daily — WhatsApp — not a new app.
+**T (Task):** Build a conversational assistant that could read prescription photos and respond usefully, within WhatsApp Business API's strict platform constraints.
+**A (Action):** Integrated OpenAI for the conversational layer and Google Vision for prescription OCR, orchestrated behind the WhatsApp Business API (profile.yml proof point) — handling dialogue state, media ingestion, and third-party platform limits.
+**R (Result):** Conversational AI with document understanding running in production over WhatsApp.
+**Reflection:** In conversational AI the platform constraints (rate limits, message windows, media handling) shape the architecture as much as the model does — design for the channel first, the model second.
+**Best for questions about:** conversational interfaces, AI/LLM production systems, agent backends, third-party platform integration, "have you shipped AI to real users?"
