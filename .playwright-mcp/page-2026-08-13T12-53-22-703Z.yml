@@ -1,0 +1,1157 @@
+- generic [active] [ref=f9e1]:
+  - main [ref=f9e3]:
+    - generic [ref=f9e7]:
+      - heading "Cookie Statement" [level=2] [ref=f9e8]
+      - paragraph [ref=f9e9]:
+        - text: Please note that we take your privacy seriously and only process your personal information following Nigeria Data Protection Act, 2023 and any applicable regulations. Your continued use of this platform indicates that you consent to the processing of your data by Moniepoint MFB.Our site also uses cookies to enhance your experience on this platform. You can modify your preference using the option below. Please read our
+        - link "Cookie Policy" [ref=f9e10] [cursor=pointer]:
+          - /url: /ng/cookie-policy
+        - text: for more information.
+      - generic [ref=f9e11]:
+        - button "Accept Cookies" [ref=f9e12] [cursor=pointer]
+        - button "Disable Cookies" [ref=f9e13] [cursor=pointer]
+        - button "Cookie Preference" [ref=f9e14] [cursor=pointer]
+    - generic [ref=f9e16]:
+      - paragraph [ref=f9e17]: You are on our Global Page. To view content relevant to your location, select a different country or region.
+      - generic [ref=f9e18]:
+        - button [ref=f9e19] [cursor=pointer]:
+          - heading [level=2] [ref=f9e20]:
+            - img "Global" [ref=f9e21]
+            - text: Global
+        - button [ref=f9e24] [cursor=pointer]
+    - generic [ref=f9e28]:
+      - link [ref=f9e30] [cursor=pointer]:
+        - /url: /
+        - img "moniepoint" [ref=f9e31]
+      - generic [ref=f9e33]:
+        - button "Solutions" [ref=f9e34] [cursor=pointer]
+        - button "Inside Moniepoint" [ref=f9e37] [cursor=pointer]
+        - link "About" [ref=f9e40] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=f9e41] [cursor=pointer]:
+          - /url: /contact
+        - button "Resources" [ref=f9e42] [cursor=pointer]
+      - generic [ref=f9e46]:
+        - link "Sign up" [ref=f9e47] [cursor=pointer]:
+          - /url: /ng/digital-banking
+        - button [ref=f9e51] [cursor=pointer]:
+          - img "Global" [ref=f9e52]
+    - generic [ref=f9e56]:
+      - generic [ref=f9e58]:
+        - generic [ref=f9e59]: Careers
+        - heading [level=1] [ref=f9e60]:
+          - text: Ready to live your
+          - emphasis [ref=f9e61]: dream
+          - text: "?"
+        - paragraph [ref=f9e62]: Come join a team that's redefining the financial experience for millions of people in emerging markets.
+      - generic [ref=f9e64]:
+        - generic [ref=f9e65]:
+          - searchbox "Search role" [ref=f9e66] [cursor=pointer]
+          - generic [ref=f9e67] [cursor=pointer]: All
+          - generic [ref=f9e74] [cursor=pointer]: All
+          - button "Search" [ref=f9e81] [cursor=pointer]
+        - generic [ref=f9e82]:
+          - heading "Available Roles 116" [level=2] [ref=f9e84]:
+            - text: Available Roles
+            - generic [ref=f9e85]: "116"
+          - generic [ref=f9e86]:
+            - generic [ref=f9e87]:
+              - paragraph [ref=f9e88]: Role
+              - paragraph [ref=f9e89]: Team
+              - paragraph [ref=f9e90]: Office
+            - list [ref=f9e92]:
+              - button [ref=f9e93] [cursor=pointer]:
+                - link "Business Relationship Manager (Abia) Enterprise Sales Abia, Nigeria" [ref=f9e94]:
+                  - /url: /careers/roles/4118354101
+                  - heading "Business Relationship Manager (Abia)" [level=2] [ref=f9e95]
+                  - paragraph [ref=f9e96]:
+                    - generic [ref=f9e97]: Enterprise Sales
+                  - paragraph [ref=f9e98]:
+                    - generic [ref=f9e99]: Abia, Nigeria
+              - button [ref=f9e104] [cursor=pointer]:
+                - link "Business Relationship Manager (Abuja) Enterprise Sales FCT, Nigeria" [ref=f9e105]:
+                  - /url: /careers/roles/4035027101
+                  - heading "Business Relationship Manager (Abuja)" [level=2] [ref=f9e106]
+                  - paragraph [ref=f9e107]:
+                    - generic [ref=f9e108]: Enterprise Sales
+                  - paragraph [ref=f9e109]:
+                    - generic [ref=f9e110]: FCT, Nigeria
+              - button [ref=f9e115] [cursor=pointer]:
+                - link "Business Relationship Manager (Ebonyi) Enterprise Sales Ebonyi, Nigeria" [ref=f9e116]:
+                  - /url: /careers/roles/4118338101
+                  - heading "Business Relationship Manager (Ebonyi)" [level=2] [ref=f9e117]
+                  - paragraph [ref=f9e118]:
+                    - generic [ref=f9e119]: Enterprise Sales
+                  - paragraph [ref=f9e120]:
+                    - generic [ref=f9e121]: Ebonyi, Nigeria
+              - button [ref=f9e126] [cursor=pointer]:
+                - link "Business Relationship Manager (Lagos) Enterprise Sales Lagos, Nigeria" [ref=f9e127]:
+                  - /url: /careers/roles/4021411101
+                  - heading "Business Relationship Manager (Lagos)" [level=2] [ref=f9e128]
+                  - paragraph [ref=f9e129]:
+                    - generic [ref=f9e130]: Enterprise Sales
+                  - paragraph [ref=f9e131]:
+                    - generic [ref=f9e132]: Lagos, Nigeria
+              - button [ref=f9e137] [cursor=pointer]:
+                - link "Business Relationship Manager (Osun) Enterprise Sales Osun, Nigeria" [ref=f9e138]:
+                  - /url: /careers/roles/4107464101
+                  - heading "Business Relationship Manager (Osun)" [level=2] [ref=f9e139]
+                  - paragraph [ref=f9e140]:
+                    - generic [ref=f9e141]: Enterprise Sales
+                  - paragraph [ref=f9e142]:
+                    - generic [ref=f9e143]: Osun, Nigeria
+              - button [ref=f9e148] [cursor=pointer]:
+                - link "Category Manager Moniebook Business Management Tools Rivers, Nigeria" [ref=f9e149]:
+                  - /url: /careers/roles/4939426101
+                  - heading "Category Manager" [level=2] [ref=f9e150]
+                  - paragraph [ref=f9e151]:
+                    - generic [ref=f9e152]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e153]:
+                    - generic [ref=f9e154]: Rivers, Nigeria
+              - button [ref=f9e159] [cursor=pointer]:
+                - link "CRM Copy Writer Creative Team Remote, Nigeria" [ref=f9e160]:
+                  - /url: /careers/roles/4241868101
+                  - heading "CRM Copy Writer" [level=2] [ref=f9e161]
+                  - paragraph [ref=f9e162]:
+                    - generic [ref=f9e163]: Creative Team
+                  - paragraph [ref=f9e164]:
+                    - generic [ref=f9e165]: Remote, Nigeria
+              - button [ref=f9e170] [cursor=pointer]:
+                - link "Customer Experience Researcher Marketing & Sales Lagos, Nigeria" [ref=f9e171]:
+                  - /url: /careers/roles/4880701101
+                  - heading "Customer Experience Researcher" [level=2] [ref=f9e172]
+                  - paragraph [ref=f9e173]:
+                    - generic [ref=f9e174]: Marketing & Sales
+                  - paragraph [ref=f9e175]:
+                    - generic [ref=f9e176]: Lagos, Nigeria
+              - button [ref=f9e181] [cursor=pointer]:
+                - link "CX Research Operations Coordinator Marketing & Sales Lagos, Nigeria" [ref=f9e182]:
+                  - /url: /careers/roles/4880858101
+                  - heading "CX Research Operations Coordinator" [level=2] [ref=f9e183]
+                  - paragraph [ref=f9e184]:
+                    - generic [ref=f9e185]: Marketing & Sales
+                  - paragraph [ref=f9e186]:
+                    - generic [ref=f9e187]: Lagos, Nigeria
+              - button [ref=f9e192] [cursor=pointer]:
+                - link "Data Analyst - Fraud Banking Operations Remote, Kenya" [ref=f9e193]:
+                  - /url: /careers/roles/4943302101
+                  - heading "Data Analyst - Fraud" [level=2] [ref=f9e194]
+                  - paragraph [ref=f9e195]:
+                    - generic [ref=f9e196]: Banking Operations
+                  - paragraph [ref=f9e197]:
+                    - generic [ref=f9e198]: Remote, Kenya
+              - button [ref=f9e203] [cursor=pointer]:
+                - link "Data Analyst - Fraud Banking Operations Remote" [ref=f9e204]:
+                  - /url: /careers/roles/4912002101
+                  - heading "Data Analyst - Fraud" [level=2] [ref=f9e205]
+                  - paragraph [ref=f9e206]:
+                    - generic [ref=f9e207]: Banking Operations
+                  - paragraph [ref=f9e208]:
+                    - generic [ref=f9e209]: Remote
+              - button [ref=f9e214] [cursor=pointer]:
+                - link "Data Analyst - Fraud Banking Operations London, United Kingdom" [ref=f9e215]:
+                  - /url: /careers/roles/4943297101
+                  - heading "Data Analyst - Fraud" [level=2] [ref=f9e216]
+                  - paragraph [ref=f9e217]:
+                    - generic [ref=f9e218]: Banking Operations
+                  - paragraph [ref=f9e219]:
+                    - generic [ref=f9e220]: London, United Kingdom
+              - button [ref=f9e225] [cursor=pointer]:
+                - link "Data Analyst - Fraud Banking Operations Remote, Poland" [ref=f9e226]:
+                  - /url: /careers/roles/4943306101
+                  - heading "Data Analyst - Fraud" [level=2] [ref=f9e227]
+                  - paragraph [ref=f9e228]:
+                    - generic [ref=f9e229]: Banking Operations
+                  - paragraph [ref=f9e230]:
+                    - generic [ref=f9e231]: Remote, Poland
+              - button [ref=f9e236] [cursor=pointer]:
+                - link "Data Analyst - Fraud Banking Operations Remote, Spain" [ref=f9e237]:
+                  - /url: /careers/roles/4943301101
+                  - heading "Data Analyst - Fraud" [level=2] [ref=f9e238]
+                  - paragraph [ref=f9e239]:
+                    - generic [ref=f9e240]: Banking Operations
+                  - paragraph [ref=f9e241]:
+                    - generic [ref=f9e242]: Remote, Spain
+              - button [ref=f9e247] [cursor=pointer]:
+                - link "Data Entry Officer (Delta) Moniebook Business Management Tools Delta, Nigeria" [ref=f9e248]:
+                  - /url: /careers/roles/4828394101
+                  - heading "Data Entry Officer (Delta)" [level=2] [ref=f9e249]
+                  - paragraph [ref=f9e250]:
+                    - generic [ref=f9e251]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e252]:
+                    - generic [ref=f9e253]: Delta, Nigeria
+              - button [ref=f9e258] [cursor=pointer]:
+                - link "Data Entry Officer (Edo) Moniebook Business Management Tools Edo, Nigeria" [ref=f9e259]:
+                  - /url: /careers/roles/4925536101
+                  - heading "Data Entry Officer (Edo)" [level=2] [ref=f9e260]
+                  - paragraph [ref=f9e261]:
+                    - generic [ref=f9e262]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e263]:
+                    - generic [ref=f9e264]: Edo, Nigeria
+              - button [ref=f9e269] [cursor=pointer]:
+                - link "Data Entry Officer (Kano) Moniebook Business Management Tools Kano, Nigeria" [ref=f9e270]:
+                  - /url: /careers/roles/4828406101
+                  - heading "Data Entry Officer (Kano)" [level=2] [ref=f9e271]
+                  - paragraph [ref=f9e272]:
+                    - generic [ref=f9e273]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e274]:
+                    - generic [ref=f9e275]: Kano, Nigeria
+              - button [ref=f9e280] [cursor=pointer]:
+                - link "Data Entry Officer (Lagos) Moniebook Business Management Tools Lagos, Nigeria" [ref=f9e281]:
+                  - /url: /careers/roles/4828361101
+                  - heading "Data Entry Officer (Lagos)" [level=2] [ref=f9e282]
+                  - paragraph [ref=f9e283]:
+                    - generic [ref=f9e284]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e285]:
+                    - generic [ref=f9e286]: Lagos, Nigeria
+              - button [ref=f9e291] [cursor=pointer]:
+                - link "Data Entry Officer (Rivers) Moniebook Business Management Tools Rivers, Nigeria" [ref=f9e292]:
+                  - /url: /careers/roles/4951041101
+                  - heading "Data Entry Officer (Rivers)" [level=2] [ref=f9e293]
+                  - paragraph [ref=f9e294]:
+                    - generic [ref=f9e295]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e296]:
+                    - generic [ref=f9e297]: Rivers, Nigeria
+              - button [ref=f9e302] [cursor=pointer]:
+                - link "Data Science Manager (Credit) Data Science London, United Kingdom" [ref=f9e303]:
+                  - /url: /careers/roles/4938471101
+                  - heading "Data Science Manager (Credit)" [level=2] [ref=f9e304]
+                  - paragraph [ref=f9e305]:
+                    - generic [ref=f9e306]: Data Science
+                  - paragraph [ref=f9e307]:
+                    - generic [ref=f9e308]: London, United Kingdom
+              - button [ref=f9e313] [cursor=pointer]:
+                - link "Data Science Manager (Credit) Data Science Remote, Bangalore" [ref=f9e314]:
+                  - /url: /careers/roles/4736463101
+                  - heading "Data Science Manager (Credit)" [level=2] [ref=f9e315]
+                  - paragraph [ref=f9e316]:
+                    - generic [ref=f9e317]: Data Science
+                  - paragraph [ref=f9e318]:
+                    - generic [ref=f9e319]: Remote, Bangalore
+              - button [ref=f9e324] [cursor=pointer]:
+                - link "Data Science Manager (Credit) Data Science Remote, Spain" [ref=f9e325]:
+                  - /url: /careers/roles/4737157101
+                  - heading "Data Science Manager (Credit)" [level=2] [ref=f9e326]
+                  - paragraph [ref=f9e327]:
+                    - generic [ref=f9e328]: Data Science
+                  - paragraph [ref=f9e329]:
+                    - generic [ref=f9e330]: Remote, Spain
+              - button [ref=f9e335] [cursor=pointer]:
+                - link "Data Science Manager (Credit) Data Science Remote, Lagos, Nigeria" [ref=f9e336]:
+                  - /url: /careers/roles/4736464101
+                  - heading "Data Science Manager (Credit)" [level=2] [ref=f9e337]
+                  - paragraph [ref=f9e338]:
+                    - generic [ref=f9e339]: Data Science
+                  - paragraph [ref=f9e340]:
+                    - generic [ref=f9e341]: Remote, Lagos, Nigeria
+              - button [ref=f9e346] [cursor=pointer]:
+                - link "Data Science Manager (Credit) Data Science Remote, Poland" [ref=f9e347]:
+                  - /url: /careers/roles/4928260101
+                  - heading "Data Science Manager (Credit)" [level=2] [ref=f9e348]
+                  - paragraph [ref=f9e349]:
+                    - generic [ref=f9e350]: Data Science
+                  - paragraph [ref=f9e351]:
+                    - generic [ref=f9e352]: Remote, Poland
+              - button [ref=f9e357] [cursor=pointer]:
+                - link "Data Scientist (Fraud) Data Science Remote, Poland" [ref=f9e358]:
+                  - /url: /careers/roles/4941103101
+                  - heading "Data Scientist (Fraud)" [level=2] [ref=f9e359]
+                  - paragraph [ref=f9e360]:
+                    - generic [ref=f9e361]: Data Science
+                  - paragraph [ref=f9e362]:
+                    - generic [ref=f9e363]: Remote, Poland
+              - button [ref=f9e368] [cursor=pointer]:
+                - link "Data Scientist (Fraud) Data Science Remote, Kenya" [ref=f9e369]:
+                  - /url: /careers/roles/4941104101
+                  - heading "Data Scientist (Fraud)" [level=2] [ref=f9e370]
+                  - paragraph [ref=f9e371]:
+                    - generic [ref=f9e372]: Data Science
+                  - paragraph [ref=f9e373]:
+                    - generic [ref=f9e374]: Remote, Kenya
+              - button [ref=f9e379] [cursor=pointer]:
+                - link "Data Scientist (Fraud) Data Science Remote, South Africa" [ref=f9e380]:
+                  - /url: /careers/roles/4941105101
+                  - heading "Data Scientist (Fraud)" [level=2] [ref=f9e381]
+                  - paragraph [ref=f9e382]:
+                    - generic [ref=f9e383]: Data Science
+                  - paragraph [ref=f9e384]:
+                    - generic [ref=f9e385]: Remote, South Africa
+              - button [ref=f9e390] [cursor=pointer]:
+                - link "Data Scientist (Fraud) Data Science Remote, Spain" [ref=f9e391]:
+                  - /url: /careers/roles/4736488101
+                  - heading "Data Scientist (Fraud)" [level=2] [ref=f9e392]
+                  - paragraph [ref=f9e393]:
+                    - generic [ref=f9e394]: Data Science
+                  - paragraph [ref=f9e395]:
+                    - generic [ref=f9e396]: Remote, Spain
+              - button [ref=f9e401] [cursor=pointer]:
+                - link "Data Scientist (Fraud) Data Science Remote, London, United Kingdom" [ref=f9e402]:
+                  - /url: /careers/roles/4737173101
+                  - heading "Data Scientist (Fraud)" [level=2] [ref=f9e403]
+                  - paragraph [ref=f9e404]:
+                    - generic [ref=f9e405]: Data Science
+                  - paragraph [ref=f9e406]:
+                    - generic [ref=f9e407]: Remote, London, United Kingdom
+              - button [ref=f9e412] [cursor=pointer]:
+                - link "Employee Relations Partner Lagos, Nigeria" [ref=f9e413]:
+                  - /url: /careers/roles/4941364101
+                  - heading "Employee Relations Partner" [level=2] [ref=f9e414]
+                  - paragraph
+                  - paragraph [ref=f9e415]:
+                    - generic [ref=f9e416]: Lagos, Nigeria
+              - button [ref=f9e421] [cursor=pointer]:
+                - 'link "Engineering Manager Pool: Engineering Remote, Poland" [ref=f9e422]':
+                  - /url: /careers/roles/4923034101
+                  - heading "Engineering Manager" [level=2] [ref=f9e423]
+                  - paragraph [ref=f9e424]:
+                    - generic [ref=f9e425]: "Pool: Engineering"
+                  - paragraph [ref=f9e426]:
+                    - generic [ref=f9e427]: Remote, Poland
+              - button [ref=f9e432] [cursor=pointer]:
+                - 'link "Engineering Manager Pool: Engineering Remote, Bangalore" [ref=f9e433]':
+                  - /url: /careers/roles/4792180101
+                  - heading "Engineering Manager" [level=2] [ref=f9e434]
+                  - paragraph [ref=f9e435]:
+                    - generic [ref=f9e436]: "Pool: Engineering"
+                  - paragraph [ref=f9e437]:
+                    - generic [ref=f9e438]: Remote, Bangalore
+              - button [ref=f9e443] [cursor=pointer]:
+                - 'link "Engineering Manager (Site Reliability) Pool: Engineering Remote, Lagos, Nigeria" [ref=f9e444]':
+                  - /url: /careers/roles/4938273101
+                  - heading "Engineering Manager (Site Reliability)" [level=2] [ref=f9e445]
+                  - paragraph [ref=f9e446]:
+                    - generic [ref=f9e447]: "Pool: Engineering"
+                  - paragraph [ref=f9e448]:
+                    - generic [ref=f9e449]: Remote, Lagos, Nigeria
+              - button [ref=f9e454] [cursor=pointer]:
+                - 'link "Engineering Manager (Site Reliability) Pool: Engineering Remote, India" [ref=f9e455]':
+                  - /url: /careers/roles/4939598101
+                  - heading "Engineering Manager (Site Reliability)" [level=2] [ref=f9e456]
+                  - paragraph [ref=f9e457]:
+                    - generic [ref=f9e458]: "Pool: Engineering"
+                  - paragraph [ref=f9e459]:
+                    - generic [ref=f9e460]: Remote, India
+              - button [ref=f9e465] [cursor=pointer]:
+                - link "Field Credit Officer (Lagos) Lagos, Nigeria" [ref=f9e466]:
+                  - /url: /careers/roles/4950072101
+                  - heading "Field Credit Officer (Lagos)" [level=2] [ref=f9e467]
+                  - paragraph
+                  - paragraph [ref=f9e468]:
+                    - generic [ref=f9e469]: Lagos, Nigeria
+              - button [ref=f9e474] [cursor=pointer]:
+                - link "Field Verification Officer Field Credit and Verification Abia, Nigeria; Adamawa, Nigeria; Akwa Ibom, Nigeria; Anambra, Nigeria; Bauchi, Nigeria; Bayelsa, Nigeria; Benue, Nigeria; Borno, Nigeria; Cross River, Nigeria; Delta, Nigeria; Ebonyi, Nigeria; Edo, Nigeria; Ekiti, Nigeria; Enugu, Nigeria; FCT, Nigeria; Gombe, Nigeria; Imo, Nigeria; Jigawa, Nigeria; Kaduna, Nigeria; Kano, Nigeria; Katsina, Nigeria; Kebbi, Nigeria; Kogi, Nigeria; Kwara, Nigeria; Lagos, Nigeria; Nasarawa, Nigeria; Niger, Nigeria; Ogun, Nigeria; Ondo, Nigeria; Osun, Nigeria; Oyo, Nigeria; Plateau, Nigeria; Rivers, Nigeria; Sokoto, Nigeria; Taraba, Nigeria; Yobe, Nigeria; Zamfara, Nigeria" [ref=f9e475]:
+                  - /url: /careers/roles/4943441101
+                  - heading "Field Verification Officer" [level=2] [ref=f9e476]
+                  - paragraph [ref=f9e477]:
+                    - generic [ref=f9e478]: Field Credit and Verification
+                  - paragraph [ref=f9e479]:
+                    - generic [ref=f9e480]: Abia, Nigeria; Adamawa, Nigeria; Akwa Ibom, Nigeria; Anambra, Nigeria; Bauchi, Nigeria; Bayelsa, Nigeria; Benue, Nigeria; Borno, Nigeria; Cross River, Nigeria; Delta, Nigeria; Ebonyi, Nigeria; Edo, Nigeria; Ekiti, Nigeria; Enugu, Nigeria; FCT, Nigeria; Gombe, Nigeria; Imo, Nigeria; Jigawa, Nigeria; Kaduna, Nigeria; Kano, Nigeria; Katsina, Nigeria; Kebbi, Nigeria; Kogi, Nigeria; Kwara, Nigeria; Lagos, Nigeria; Nasarawa, Nigeria; Niger, Nigeria; Ogun, Nigeria; Ondo, Nigeria; Osun, Nigeria; Oyo, Nigeria; Plateau, Nigeria; Rivers, Nigeria; Sokoto, Nigeria; Taraba, Nigeria; Yobe, Nigeria; Zamfara, Nigeria
+              - button [ref=f9e485] [cursor=pointer]:
+                - link "Financial Planning Analyst Finance & Accounting (NG) Remote, Nigeria" [ref=f9e486]:
+                  - /url: /careers/roles/4355709101
+                  - heading "Financial Planning Analyst" [level=2] [ref=f9e487]
+                  - paragraph [ref=f9e488]:
+                    - generic [ref=f9e489]: Finance & Accounting (NG)
+                  - paragraph [ref=f9e490]:
+                    - generic [ref=f9e491]: Remote, Nigeria
+              - button [ref=f9e496] [cursor=pointer]:
+                - link "Financial Planning Analyst Finance & Accounting (NG) Nairobi, Kenya" [ref=f9e497]:
+                  - /url: /careers/roles/4923321101
+                  - heading "Financial Planning Analyst" [level=2] [ref=f9e498]
+                  - paragraph [ref=f9e499]:
+                    - generic [ref=f9e500]: Finance & Accounting (NG)
+                  - paragraph [ref=f9e501]:
+                    - generic [ref=f9e502]: Nairobi, Kenya
+              - button [ref=f9e507] [cursor=pointer]:
+                - link "Fraud Investigation Officer Remote, Lagos, Nigeria" [ref=f9e508]:
+                  - /url: /careers/roles/4940889101
+                  - heading "Fraud Investigation Officer" [level=2] [ref=f9e509]
+                  - paragraph
+                  - paragraph [ref=f9e510]:
+                    - generic [ref=f9e511]: Remote, Lagos, Nigeria
+              - button [ref=f9e516] [cursor=pointer]:
+                - 'link "Generalist Engineer - R&D Pool: Engineering Remote, Poland; Remote, Spain" [ref=f9e517]':
+                  - /url: /careers/roles/4718744101
+                  - heading "Generalist Engineer - R&D" [level=2] [ref=f9e518]
+                  - paragraph [ref=f9e519]:
+                    - generic [ref=f9e520]: "Pool: Engineering"
+                  - paragraph [ref=f9e521]:
+                    - generic [ref=f9e522]: Remote, Poland; Remote, Spain
+              - button [ref=f9e527] [cursor=pointer]:
+                - link "Hardware Engineer Advanced Technical Operations Lagos, Nigeria" [ref=f9e528]:
+                  - /url: /careers/roles/4883663101
+                  - heading "Hardware Engineer" [level=2] [ref=f9e529]
+                  - paragraph [ref=f9e530]:
+                    - generic [ref=f9e531]: Advanced Technical Operations
+                  - paragraph [ref=f9e532]:
+                    - generic [ref=f9e533]: Lagos, Nigeria
+              - button [ref=f9e538] [cursor=pointer]:
+                - link "Head, Business Kenya Moniepoint Kenya Remote, Kenya" [ref=f9e539]:
+                  - /url: /careers/roles/4928579101
+                  - heading "Head, Business Kenya" [level=2] [ref=f9e540]
+                  - paragraph [ref=f9e541]:
+                    - generic [ref=f9e542]: Moniepoint Kenya
+                  - paragraph [ref=f9e543]:
+                    - generic [ref=f9e544]: Remote, Kenya
+              - button [ref=f9e549] [cursor=pointer]:
+                - link "Head, Category Management Moniebook Business Management Tools Lagos, Nigeria" [ref=f9e550]:
+                  - /url: /careers/roles/4930731101
+                  - heading "Head, Category Management" [level=2] [ref=f9e551]
+                  - paragraph [ref=f9e552]:
+                    - generic [ref=f9e553]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e554]:
+                    - generic [ref=f9e555]: Lagos, Nigeria
+              - button [ref=f9e560] [cursor=pointer]:
+                - link "Head, Group FP&A Financial Control Nairobi, Kenya" [ref=f9e561]:
+                  - /url: /careers/roles/4923290101
+                  - heading "Head, Group FP&A" [level=2] [ref=f9e562]
+                  - paragraph [ref=f9e563]:
+                    - generic [ref=f9e564]: Financial Control
+                  - paragraph [ref=f9e565]:
+                    - generic [ref=f9e566]: Nairobi, Kenya
+              - button [ref=f9e571] [cursor=pointer]:
+                - link "Head, Group FP&A Financial Control Remote, Nigeria" [ref=f9e572]:
+                  - /url: /careers/roles/4889337101
+                  - heading "Head, Group FP&A" [level=2] [ref=f9e573]
+                  - paragraph [ref=f9e574]:
+                    - generic [ref=f9e575]: Financial Control
+                  - paragraph [ref=f9e576]:
+                    - generic [ref=f9e577]: Remote, Nigeria
+              - button [ref=f9e582] [cursor=pointer]:
+                - link "Head, Innovation Hubs Lagos, Nigeria" [ref=f9e583]:
+                  - /url: /careers/roles/4930013101
+                  - heading "Head, Innovation Hubs" [level=2] [ref=f9e584]
+                  - paragraph
+                  - paragraph [ref=f9e585]:
+                    - generic [ref=f9e586]: Lagos, Nigeria
+              - button [ref=f9e591] [cursor=pointer]:
+                - 'link "Head of Engineering Pool: Engineering Remote, Poland" [ref=f9e592]':
+                  - /url: /careers/roles/4850128101
+                  - heading "Head of Engineering" [level=2] [ref=f9e593]
+                  - paragraph [ref=f9e594]:
+                    - generic [ref=f9e595]: "Pool: Engineering"
+                  - paragraph [ref=f9e596]:
+                    - generic [ref=f9e597]: Remote, Poland
+              - button [ref=f9e602] [cursor=pointer]:
+                - 'link "Head of Engineering, POS Application Platform Pool: Engineering Remote, Spain" [ref=f9e603]':
+                  - /url: /careers/roles/4900313101
+                  - heading "Head of Engineering, POS Application Platform" [level=2] [ref=f9e604]
+                  - paragraph [ref=f9e605]:
+                    - generic [ref=f9e606]: "Pool: Engineering"
+                  - paragraph [ref=f9e607]:
+                    - generic [ref=f9e608]: Remote, Spain
+              - button [ref=f9e613] [cursor=pointer]:
+                - 'link "Head of Engineering, POS Application Platform Pool: Engineering Remote, Bangalore" [ref=f9e614]':
+                  - /url: /careers/roles/4885572101
+                  - heading "Head of Engineering, POS Application Platform" [level=2] [ref=f9e615]
+                  - paragraph [ref=f9e616]:
+                    - generic [ref=f9e617]: "Pool: Engineering"
+                  - paragraph [ref=f9e618]:
+                    - generic [ref=f9e619]: Remote, Bangalore
+              - button [ref=f9e624] [cursor=pointer]:
+                - link "Head of Recovery Business Operations Lagos, Nigeria" [ref=f9e625]:
+                  - /url: /careers/roles/4609653101
+                  - heading "Head of Recovery" [level=2] [ref=f9e626]
+                  - paragraph [ref=f9e627]:
+                    - generic [ref=f9e628]: Business Operations
+                  - paragraph [ref=f9e629]:
+                    - generic [ref=f9e630]: Lagos, Nigeria
+              - button [ref=f9e635] [cursor=pointer]:
+                - link "Head, POS Hardware & Repair Repairs and Insurance Lagos, Nigeria" [ref=f9e636]:
+                  - /url: /careers/roles/4722002101
+                  - heading "Head, POS Hardware & Repair" [level=2] [ref=f9e637]
+                  - paragraph [ref=f9e638]:
+                    - generic [ref=f9e639]: Repairs and Insurance
+                  - paragraph [ref=f9e640]:
+                    - generic [ref=f9e641]: Lagos, Nigeria
+              - button [ref=f9e646] [cursor=pointer]:
+                - link "Head, Product Control & Accounting Financial Control Nairobi, Kenya" [ref=f9e647]:
+                  - /url: /careers/roles/4923301101
+                  - heading "Head, Product Control & Accounting" [level=2] [ref=f9e648]
+                  - paragraph [ref=f9e649]:
+                    - generic [ref=f9e650]: Financial Control
+                  - paragraph [ref=f9e651]:
+                    - generic [ref=f9e652]: Nairobi, Kenya
+              - button [ref=f9e657] [cursor=pointer]:
+                - link "Head, Product Control & Accounting Financial Control Remote, Nigeria" [ref=f9e658]:
+                  - /url: /careers/roles/4889340101
+                  - heading "Head, Product Control & Accounting" [level=2] [ref=f9e659]
+                  - paragraph [ref=f9e660]:
+                    - generic [ref=f9e661]: Financial Control
+                  - paragraph [ref=f9e662]:
+                    - generic [ref=f9e663]: Remote, Nigeria
+              - button [ref=f9e668] [cursor=pointer]:
+                - link "Implementation Officer (Abia) Moniebook Business Management Tools Abia, Nigeria" [ref=f9e669]:
+                  - /url: /careers/roles/4931500101
+                  - heading "Implementation Officer (Abia)" [level=2] [ref=f9e670]
+                  - paragraph [ref=f9e671]:
+                    - generic [ref=f9e672]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e673]:
+                    - generic [ref=f9e674]: Abia, Nigeria
+              - button [ref=f9e679] [cursor=pointer]:
+                - link "Implementation Officer (Akwa Ibom) Moniebook Business Management Tools Akwa Ibom, Nigeria" [ref=f9e680]:
+                  - /url: /careers/roles/4925530101
+                  - heading "Implementation Officer (Akwa Ibom)" [level=2] [ref=f9e681]
+                  - paragraph [ref=f9e682]:
+                    - generic [ref=f9e683]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e684]:
+                    - generic [ref=f9e685]: Akwa Ibom, Nigeria
+              - button [ref=f9e690] [cursor=pointer]:
+                - link "Implementation Officer (Anambra) Moniebook Business Management Tools Anambra, Nigeria" [ref=f9e691]:
+                  - /url: /careers/roles/4828016101
+                  - heading "Implementation Officer (Anambra)" [level=2] [ref=f9e692]
+                  - paragraph [ref=f9e693]:
+                    - generic [ref=f9e694]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e695]:
+                    - generic [ref=f9e696]: Anambra, Nigeria
+              - button [ref=f9e701] [cursor=pointer]:
+                - link "Implementation Officer (Delta) Moniebook Business Management Tools Delta, Nigeria" [ref=f9e702]:
+                  - /url: /careers/roles/4925534101
+                  - heading "Implementation Officer (Delta)" [level=2] [ref=f9e703]
+                  - paragraph [ref=f9e704]:
+                    - generic [ref=f9e705]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e706]:
+                    - generic [ref=f9e707]: Delta, Nigeria
+              - button [ref=f9e712] [cursor=pointer]:
+                - link "Implementation Officer (Edo) Moniebook Business Management Tools Edo, Nigeria" [ref=f9e713]:
+                  - /url: /careers/roles/4925535101
+                  - heading "Implementation Officer (Edo)" [level=2] [ref=f9e714]
+                  - paragraph [ref=f9e715]:
+                    - generic [ref=f9e716]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e717]:
+                    - generic [ref=f9e718]: Edo, Nigeria
+              - button [ref=f9e723] [cursor=pointer]:
+                - link "Implementation Officer (Enugu) Moniebook Business Management Tools Enugu, Nigeria" [ref=f9e724]:
+                  - /url: /careers/roles/4931501101
+                  - heading "Implementation Officer (Enugu)" [level=2] [ref=f9e725]
+                  - paragraph [ref=f9e726]:
+                    - generic [ref=f9e727]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e728]:
+                    - generic [ref=f9e729]: Enugu, Nigeria
+              - button [ref=f9e734] [cursor=pointer]:
+                - link "Implementation Officer (Imo) Moniebook Business Management Tools Imo, Nigeria" [ref=f9e735]:
+                  - /url: /careers/roles/4931504101
+                  - heading "Implementation Officer (Imo)" [level=2] [ref=f9e736]
+                  - paragraph [ref=f9e737]:
+                    - generic [ref=f9e738]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e739]:
+                    - generic [ref=f9e740]: Imo, Nigeria
+              - button [ref=f9e745] [cursor=pointer]:
+                - link "Implementation Officer (Lagos) Moniebook Business Management Tools Lagos, Nigeria" [ref=f9e746]:
+                  - /url: /careers/roles/4827872101
+                  - heading "Implementation Officer (Lagos)" [level=2] [ref=f9e747]
+                  - paragraph [ref=f9e748]:
+                    - generic [ref=f9e749]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e750]:
+                    - generic [ref=f9e751]: Lagos, Nigeria
+              - button [ref=f9e756] [cursor=pointer]:
+                - link "Implementation Officer (Ogun) Moniebook Business Management Tools Ogun, Nigeria" [ref=f9e757]:
+                  - /url: /careers/roles/4931489101
+                  - heading "Implementation Officer (Ogun)" [level=2] [ref=f9e758]
+                  - paragraph [ref=f9e759]:
+                    - generic [ref=f9e760]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e761]:
+                    - generic [ref=f9e762]: Ogun, Nigeria
+              - button [ref=f9e767] [cursor=pointer]:
+                - link "Implementation Officer (Oyo) Moniebook Business Management Tools Oyo, Nigeria" [ref=f9e768]:
+                  - /url: /careers/roles/4827952101
+                  - heading "Implementation Officer (Oyo)" [level=2] [ref=f9e769]
+                  - paragraph [ref=f9e770]:
+                    - generic [ref=f9e771]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e772]:
+                    - generic [ref=f9e773]: Oyo, Nigeria
+              - button [ref=f9e778] [cursor=pointer]:
+                - link "Implementation Officer (Rivers) Moniebook Business Management Tools Rivers, Nigeria" [ref=f9e779]:
+                  - /url: /careers/roles/4828024101
+                  - heading "Implementation Officer (Rivers)" [level=2] [ref=f9e780]
+                  - paragraph [ref=f9e781]:
+                    - generic [ref=f9e782]: Moniebook Business Management Tools
+                  - paragraph [ref=f9e783]:
+                    - generic [ref=f9e784]: Rivers, Nigeria
+              - button [ref=f9e789] [cursor=pointer]:
+                - link "Lead, Business Analysis Marketing & Sales Remote, Poland" [ref=f9e790]:
+                  - /url: /careers/roles/4941669101
+                  - heading "Lead, Business Analysis" [level=2] [ref=f9e791]
+                  - paragraph [ref=f9e792]:
+                    - generic [ref=f9e793]: Marketing & Sales
+                  - paragraph [ref=f9e794]:
+                    - generic [ref=f9e795]: Remote, Poland
+              - button [ref=f9e800] [cursor=pointer]:
+                - link "Lead, Business Analysis Marketing & Sales London, United Kingdom" [ref=f9e801]:
+                  - /url: /careers/roles/4936062101
+                  - heading "Lead, Business Analysis" [level=2] [ref=f9e802]
+                  - paragraph [ref=f9e803]:
+                    - generic [ref=f9e804]: Marketing & Sales
+                  - paragraph [ref=f9e805]:
+                    - generic [ref=f9e806]: London, United Kingdom
+              - button [ref=f9e811] [cursor=pointer]:
+                - link "Lead, Channels and Audit Analytics Audit Remote, Nigeria" [ref=f9e812]:
+                  - /url: /careers/roles/4687148101
+                  - heading "Lead, Channels and Audit Analytics" [level=2] [ref=f9e813]
+                  - paragraph [ref=f9e814]:
+                    - generic [ref=f9e815]: Audit
+                  - paragraph [ref=f9e816]:
+                    - generic [ref=f9e817]: Remote, Nigeria
+              - button [ref=f9e822] [cursor=pointer]:
+                - link "Lead, Corporate Credit Risk Management Credit Risk Management Lagos, Nigeria" [ref=f9e823]:
+                  - /url: /careers/roles/4828340101
+                  - heading "Lead, Corporate Credit Risk Management" [level=2] [ref=f9e824]
+                  - paragraph [ref=f9e825]:
+                    - generic [ref=f9e826]: Credit Risk Management
+                  - paragraph [ref=f9e827]:
+                    - generic [ref=f9e828]: Lagos, Nigeria
+              - button [ref=f9e833] [cursor=pointer]:
+                - link "Lead, People Business Partner (PBP) People Operations Remote, Nigeria" [ref=f9e834]:
+                  - /url: /careers/roles/4773461101
+                  - heading "Lead, People Business Partner (PBP)" [level=2] [ref=f9e835]
+                  - paragraph [ref=f9e836]:
+                    - generic [ref=f9e837]: People Operations
+                  - paragraph [ref=f9e838]:
+                    - generic [ref=f9e839]: Remote, Nigeria
+              - button [ref=f9e844] [cursor=pointer]:
+                - 'link "Mobile Architect Pool: Engineering Remote, Bangalore" [ref=f9e845]':
+                  - /url: /careers/roles/4330952101
+                  - heading "Mobile Architect" [level=2] [ref=f9e846]
+                  - paragraph [ref=f9e847]:
+                    - generic [ref=f9e848]: "Pool: Engineering"
+                  - paragraph [ref=f9e849]:
+                    - generic [ref=f9e850]: Remote, Bangalore
+              - button [ref=f9e855] [cursor=pointer]:
+                - link "Mobile Architect (POS Terminal) Moniepoint MFB Remote, Poland; Remote, Spain" [ref=f9e856]:
+                  - /url: /careers/roles/4932688101
+                  - heading "Mobile Architect (POS Terminal)" [level=2] [ref=f9e857]
+                  - paragraph [ref=f9e858]:
+                    - generic [ref=f9e859]: Moniepoint MFB
+                  - paragraph [ref=f9e860]:
+                    - generic [ref=f9e861]: Remote, Poland; Remote, Spain
+              - button [ref=f9e866] [cursor=pointer]:
+                - link "Mobile Architect (POS Terminal) Moniepoint MFB Remote, Bangalore" [ref=f9e867]:
+                  - /url: /careers/roles/4378148101
+                  - heading "Mobile Architect (POS Terminal)" [level=2] [ref=f9e868]
+                  - paragraph [ref=f9e869]:
+                    - generic [ref=f9e870]: Moniepoint MFB
+                  - paragraph [ref=f9e871]:
+                    - generic [ref=f9e872]: Remote, Bangalore
+              - button [ref=f9e877] [cursor=pointer]:
+                - link "Offline Customer Support Officer (Bayelsa) Customer Success Bayelsa, Nigeria" [ref=f9e878]:
+                  - /url: /careers/roles/4148334101
+                  - heading "Offline Customer Support Officer (Bayelsa)" [level=2] [ref=f9e879]
+                  - paragraph [ref=f9e880]:
+                    - generic [ref=f9e881]: Customer Success
+                  - paragraph [ref=f9e882]:
+                    - generic [ref=f9e883]: Bayelsa, Nigeria
+              - button [ref=f9e888] [cursor=pointer]:
+                - link "Offline Customer Support Officer (Delta) Customer Success Delta, Nigeria" [ref=f9e889]:
+                  - /url: /careers/roles/4924151101
+                  - heading "Offline Customer Support Officer (Delta)" [level=2] [ref=f9e890]
+                  - paragraph [ref=f9e891]:
+                    - generic [ref=f9e892]: Customer Success
+                  - paragraph [ref=f9e893]:
+                    - generic [ref=f9e894]: Delta, Nigeria
+              - button [ref=f9e899] [cursor=pointer]:
+                - link "Offline Customer Support Officer (Niger) Customer Success Niger, Nigeria" [ref=f9e900]:
+                  - /url: /careers/roles/4929771101
+                  - heading "Offline Customer Support Officer (Niger)" [level=2] [ref=f9e901]
+                  - paragraph [ref=f9e902]:
+                    - generic [ref=f9e903]: Customer Success
+                  - paragraph [ref=f9e904]:
+                    - generic [ref=f9e905]: Niger, Nigeria
+              - button [ref=f9e910] [cursor=pointer]:
+                - link "Payment Operations Officer Distribution Network Sales Lagos, Nigeria" [ref=f9e911]:
+                  - /url: /careers/roles/4572851101
+                  - heading "Payment Operations Officer" [level=2] [ref=f9e912]
+                  - paragraph [ref=f9e913]:
+                    - generic [ref=f9e914]: Distribution Network Sales
+                  - paragraph [ref=f9e915]:
+                    - generic [ref=f9e916]: Lagos, Nigeria
+              - button [ref=f9e921] [cursor=pointer]:
+                - link "Performance Marketing Specialist Digital Marketing Remote, Spain" [ref=f9e922]:
+                  - /url: /careers/roles/4244613101
+                  - heading "Performance Marketing Specialist" [level=2] [ref=f9e923]
+                  - paragraph [ref=f9e924]:
+                    - generic [ref=f9e925]: Digital Marketing
+                  - paragraph [ref=f9e926]:
+                    - generic [ref=f9e927]: Remote, Spain
+              - button [ref=f9e932] [cursor=pointer]:
+                - link "POS Repair Technician (Lagos) Repairs and Insurance Lagos, Nigeria" [ref=f9e933]:
+                  - /url: /careers/roles/4634345101
+                  - heading "POS Repair Technician (Lagos)" [level=2] [ref=f9e934]
+                  - paragraph [ref=f9e935]:
+                    - generic [ref=f9e936]: Repairs and Insurance
+                  - paragraph [ref=f9e937]:
+                    - generic [ref=f9e938]: Lagos, Nigeria
+              - button [ref=f9e943] [cursor=pointer]:
+                - 'link "Principal Generalist Engineer Pool: Engineering Remote, Poland" [ref=f9e944]':
+                  - /url: /careers/roles/4943404101
+                  - heading "Principal Generalist Engineer" [level=2] [ref=f9e945]
+                  - paragraph [ref=f9e946]:
+                    - generic [ref=f9e947]: "Pool: Engineering"
+                  - paragraph [ref=f9e948]:
+                    - generic [ref=f9e949]: Remote, Poland
+              - button [ref=f9e954] [cursor=pointer]:
+                - 'link "Principal Generalist Engineer Pool: Engineering Remote, Spain" [ref=f9e955]':
+                  - /url: /careers/roles/4943408101
+                  - heading "Principal Generalist Engineer" [level=2] [ref=f9e956]
+                  - paragraph [ref=f9e957]:
+                    - generic [ref=f9e958]: "Pool: Engineering"
+                  - paragraph [ref=f9e959]:
+                    - generic [ref=f9e960]: Remote, Spain
+              - button [ref=f9e965] [cursor=pointer]:
+                - link "Principal, People Transformation & Change People Operations Remote, Nigeria" [ref=f9e966]:
+                  - /url: /careers/roles/4788646101
+                  - heading "Principal, People Transformation & Change" [level=2] [ref=f9e967]
+                  - paragraph [ref=f9e968]:
+                    - generic [ref=f9e969]: People Operations
+                  - paragraph [ref=f9e970]:
+                    - generic [ref=f9e971]: Remote, Nigeria
+              - button [ref=f9e976] [cursor=pointer]:
+                - link "Product Auditor Compliance Remote, Lagos, Nigeria" [ref=f9e977]:
+                  - /url: /careers/roles/4821858101
+                  - heading "Product Auditor" [level=2] [ref=f9e978]
+                  - paragraph [ref=f9e979]:
+                    - generic [ref=f9e980]: Compliance
+                  - paragraph [ref=f9e981]:
+                    - generic [ref=f9e982]: Remote, Lagos, Nigeria
+              - button [ref=f9e987] [cursor=pointer]:
+                - 'link "Product Designer (UX) Pool: Engineering Lagos, Nigeria; Remote, Nigeria" [ref=f9e988]':
+                  - /url: /careers/roles/4005353101
+                  - heading "Product Designer (UX)" [level=2] [ref=f9e989]
+                  - paragraph [ref=f9e990]:
+                    - generic [ref=f9e991]: "Pool: Engineering"
+                  - paragraph [ref=f9e992]:
+                    - generic [ref=f9e993]: Lagos, Nigeria; Remote, Nigeria
+              - button [ref=f9e998] [cursor=pointer]:
+                - link "Product Design Lead Product Design London, United Kingdom; Remote, Nigeria" [ref=f9e999]:
+                  - /url: /careers/roles/4629880101
+                  - heading "Product Design Lead" [level=2] [ref=f9e1000]
+                  - paragraph [ref=f9e1001]:
+                    - generic [ref=f9e1002]: Product Design
+                  - paragraph [ref=f9e1003]:
+                    - generic [ref=f9e1004]: London, United Kingdom; Remote, Nigeria
+              - button [ref=f9e1009] [cursor=pointer]:
+                - link "Product Design Manager Product Design Remote, London, United Kingdom; Remote, Nigeria" [ref=f9e1010]:
+                  - /url: /careers/roles/4629921101
+                  - heading "Product Design Manager" [level=2] [ref=f9e1011]
+                  - paragraph [ref=f9e1012]:
+                    - generic [ref=f9e1013]: Product Design
+                  - paragraph [ref=f9e1014]:
+                    - generic [ref=f9e1015]: Remote, London, United Kingdom; Remote, Nigeria
+              - button [ref=f9e1020] [cursor=pointer]:
+                - link "Regional Facilities Manager, North Central FCT, Nigeria" [ref=f9e1021]:
+                  - /url: /careers/roles/4945132101
+                  - heading "Regional Facilities Manager, North Central" [level=2] [ref=f9e1022]
+                  - paragraph
+                  - paragraph [ref=f9e1023]:
+                    - generic [ref=f9e1024]: FCT, Nigeria
+              - button [ref=f9e1029] [cursor=pointer]:
+                - link "Regional Security Lead (North East) Moniepoint MFB Gombe, Nigeria" [ref=f9e1030]:
+                  - /url: /careers/roles/4942964101
+                  - heading "Regional Security Lead (North East)" [level=2] [ref=f9e1031]
+                  - paragraph [ref=f9e1032]:
+                    - generic [ref=f9e1033]: Moniepoint MFB
+                  - paragraph [ref=f9e1034]:
+                    - generic [ref=f9e1035]: Gombe, Nigeria
+              - button [ref=f9e1040] [cursor=pointer]:
+                - link "Regional Security Lead (North West) Moniepoint MFB Kano, Nigeria" [ref=f9e1041]:
+                  - /url: /careers/roles/4940527101
+                  - heading "Regional Security Lead (North West)" [level=2] [ref=f9e1042]
+                  - paragraph [ref=f9e1043]:
+                    - generic [ref=f9e1044]: Moniepoint MFB
+                  - paragraph [ref=f9e1045]:
+                    - generic [ref=f9e1046]: Kano, Nigeria
+              - button [ref=f9e1051] [cursor=pointer]:
+                - link "Regional Security Lead (South East) Moniepoint MFB Enugu, Nigeria" [ref=f9e1052]:
+                  - /url: /careers/roles/4942965101
+                  - heading "Regional Security Lead (South East)" [level=2] [ref=f9e1053]
+                  - paragraph [ref=f9e1054]:
+                    - generic [ref=f9e1055]: Moniepoint MFB
+                  - paragraph [ref=f9e1056]:
+                    - generic [ref=f9e1057]: Enugu, Nigeria
+              - button [ref=f9e1062] [cursor=pointer]:
+                - link "Regional Security Lead (South West) Moniepoint MFB Ekiti, Nigeria" [ref=f9e1063]:
+                  - /url: /careers/roles/4942966101
+                  - heading "Regional Security Lead (South West)" [level=2] [ref=f9e1064]
+                  - paragraph [ref=f9e1065]:
+                    - generic [ref=f9e1066]: Moniepoint MFB
+                  - paragraph [ref=f9e1067]:
+                    - generic [ref=f9e1068]: Ekiti, Nigeria
+              - button [ref=f9e1073] [cursor=pointer]:
+                - link "Senior Associate - Test Automation & Tools Development Engineer Moniepoint Inc. Remote, Bangalore" [ref=f9e1074]:
+                  - /url: /careers/roles/4924934101
+                  - heading "Senior Associate - Test Automation & Tools Development Engineer" [level=2] [ref=f9e1075]
+                  - paragraph [ref=f9e1076]:
+                    - generic [ref=f9e1077]: Moniepoint Inc.
+                  - paragraph [ref=f9e1078]:
+                    - generic [ref=f9e1079]: Remote, Bangalore
+              - button [ref=f9e1084] [cursor=pointer]:
+                - 'link "Senior Backend Engineer (Java) Pool: Engineering Remote, Nigeria" [ref=f9e1085]':
+                  - /url: /careers/roles/4001262101
+                  - heading "Senior Backend Engineer (Java)" [level=2] [ref=f9e1086]
+                  - paragraph [ref=f9e1087]:
+                    - generic [ref=f9e1088]: "Pool: Engineering"
+                  - paragraph [ref=f9e1089]:
+                    - generic [ref=f9e1090]: Remote, Nigeria
+              - button [ref=f9e1095] [cursor=pointer]:
+                - 'link "Senior Backend Engineer (Java) Pool: Engineering Remote, Bangalore" [ref=f9e1096]':
+                  - /url: /careers/roles/4791652101
+                  - heading "Senior Backend Engineer (Java)" [level=2] [ref=f9e1097]
+                  - paragraph [ref=f9e1098]:
+                    - generic [ref=f9e1099]: "Pool: Engineering"
+                  - paragraph [ref=f9e1100]:
+                    - generic [ref=f9e1101]: Remote, Bangalore
+              - button [ref=f9e1106] [cursor=pointer]:
+                - 'link "Senior Backend Engineer (Java) Pool: Engineering Remote, Poland" [ref=f9e1107]':
+                  - /url: /careers/roles/4941322101
+                  - heading "Senior Backend Engineer (Java)" [level=2] [ref=f9e1108]
+                  - paragraph [ref=f9e1109]:
+                    - generic [ref=f9e1110]: "Pool: Engineering"
+                  - paragraph [ref=f9e1111]:
+                    - generic [ref=f9e1112]: Remote, Poland
+              - button [ref=f9e1117] [cursor=pointer]:
+                - link "Senior Business Analyst Remote, Poland" [ref=f9e1118]:
+                  - /url: /careers/roles/4936515101
+                  - heading "Senior Business Analyst" [level=2] [ref=f9e1119]
+                  - paragraph
+                  - paragraph [ref=f9e1120]:
+                    - generic [ref=f9e1121]: Remote, Poland
+              - button [ref=f9e1126] [cursor=pointer]:
+                - link "Senior Business Analyst Remote, Bangalore" [ref=f9e1127]:
+                  - /url: /careers/roles/4912941101
+                  - heading "Senior Business Analyst" [level=2] [ref=f9e1128]
+                  - paragraph
+                  - paragraph [ref=f9e1129]:
+                    - generic [ref=f9e1130]: Remote, Bangalore
+              - button [ref=f9e1135] [cursor=pointer]:
+                - link "Senior Business Analyst Remote, London, United Kingdom" [ref=f9e1136]:
+                  - /url: /careers/roles/4912592101
+                  - heading "Senior Business Analyst" [level=2] [ref=f9e1137]
+                  - paragraph
+                  - paragraph [ref=f9e1138]:
+                    - generic [ref=f9e1139]: Remote, London, United Kingdom
+              - button [ref=f9e1144] [cursor=pointer]:
+                - link "Senior Business Analyst Remote, Spain" [ref=f9e1145]:
+                  - /url: /careers/roles/4944062101
+                  - heading "Senior Business Analyst" [level=2] [ref=f9e1146]
+                  - paragraph
+                  - paragraph [ref=f9e1147]:
+                    - generic [ref=f9e1148]: Remote, Spain
+              - button [ref=f9e1153] [cursor=pointer]:
+                - link "Senior Credit Underwriter Credit Risk Management Lagos, Nigeria" [ref=f9e1154]:
+                  - /url: /careers/roles/4777710101
+                  - heading "Senior Credit Underwriter" [level=2] [ref=f9e1155]
+                  - paragraph [ref=f9e1156]:
+                    - generic [ref=f9e1157]: Credit Risk Management
+                  - paragraph [ref=f9e1158]:
+                    - generic [ref=f9e1159]: Lagos, Nigeria
+              - button [ref=f9e1164] [cursor=pointer]:
+                - link "Senior Data Scientist (Credit) Data Science Remote" [ref=f9e1165]:
+                  - /url: /careers/roles/4808999101
+                  - heading "Senior Data Scientist (Credit)" [level=2] [ref=f9e1166]
+                  - paragraph [ref=f9e1167]:
+                    - generic [ref=f9e1168]: Data Science
+                  - paragraph [ref=f9e1169]:
+                    - generic [ref=f9e1170]: Remote
+              - button [ref=f9e1175] [cursor=pointer]:
+                - link "Senior Data Scientist (Credit) Data Science Remote, Bangalore" [ref=f9e1176]:
+                  - /url: /careers/roles/4737166101
+                  - heading "Senior Data Scientist (Credit)" [level=2] [ref=f9e1177]
+                  - paragraph [ref=f9e1178]:
+                    - generic [ref=f9e1179]: Data Science
+                  - paragraph [ref=f9e1180]:
+                    - generic [ref=f9e1181]: Remote, Bangalore
+              - button [ref=f9e1186] [cursor=pointer]:
+                - link "Senior Data Scientist (Credit) Data Science Remote, Spain" [ref=f9e1187]:
+                  - /url: /careers/roles/4736481101
+                  - heading "Senior Data Scientist (Credit)" [level=2] [ref=f9e1188]
+                  - paragraph [ref=f9e1189]:
+                    - generic [ref=f9e1190]: Data Science
+                  - paragraph [ref=f9e1191]:
+                    - generic [ref=f9e1192]: Remote, Spain
+              - button [ref=f9e1197] [cursor=pointer]:
+                - 'link "Senior Frontend Engineer Pool: Engineering Remote, Pakistan" [ref=f9e1198]':
+                  - /url: /careers/roles/4906474101
+                  - heading "Senior Frontend Engineer" [level=2] [ref=f9e1199]
+                  - paragraph [ref=f9e1200]:
+                    - generic [ref=f9e1201]: "Pool: Engineering"
+                  - paragraph [ref=f9e1202]:
+                    - generic [ref=f9e1203]: Remote, Pakistan
+              - button [ref=f9e1208] [cursor=pointer]:
+                - 'link "Senior Frontend Engineer Pool: Engineering Remote, Bangalore" [ref=f9e1209]':
+                  - /url: /careers/roles/4587490101
+                  - heading "Senior Frontend Engineer" [level=2] [ref=f9e1210]
+                  - paragraph [ref=f9e1211]:
+                    - generic [ref=f9e1212]: "Pool: Engineering"
+                  - paragraph [ref=f9e1213]:
+                    - generic [ref=f9e1214]: Remote, Bangalore
+              - button [ref=f9e1219] [cursor=pointer]:
+                - 'link "Senior Mobile Engineer Pool: Engineering Remote, Poland" [ref=f9e1220]':
+                  - /url: /careers/roles/4945861101
+                  - heading "Senior Mobile Engineer" [level=2] [ref=f9e1221]
+                  - paragraph [ref=f9e1222]:
+                    - generic [ref=f9e1223]: "Pool: Engineering"
+                  - paragraph [ref=f9e1224]:
+                    - generic [ref=f9e1225]: Remote, Poland
+              - button [ref=f9e1230] [cursor=pointer]:
+                - 'link "Senior Mobile Engineer Pool: Engineering Remote, Bangalore" [ref=f9e1231]':
+                  - /url: /careers/roles/4791661101
+                  - heading "Senior Mobile Engineer" [level=2] [ref=f9e1232]
+                  - paragraph [ref=f9e1233]:
+                    - generic [ref=f9e1234]: "Pool: Engineering"
+                  - paragraph [ref=f9e1235]:
+                    - generic [ref=f9e1236]: Remote, Bangalore
+              - button [ref=f9e1241] [cursor=pointer]:
+                - link "Senior POS Mobile Engineer Moniepoint MFB Remote, Poland" [ref=f9e1242]:
+                  - /url: /careers/roles/4945785101
+                  - heading "Senior POS Mobile Engineer" [level=2] [ref=f9e1243]
+                  - paragraph [ref=f9e1244]:
+                    - generic [ref=f9e1245]: Moniepoint MFB
+                  - paragraph [ref=f9e1246]:
+                    - generic [ref=f9e1247]: Remote, Poland
+              - button [ref=f9e1252] [cursor=pointer]:
+                - link "Senior POS Mobile Engineer Moniepoint MFB Remote, Bangalore" [ref=f9e1253]:
+                  - /url: /careers/roles/4780660101
+                  - heading "Senior POS Mobile Engineer" [level=2] [ref=f9e1254]
+                  - paragraph [ref=f9e1255]:
+                    - generic [ref=f9e1256]: Moniepoint MFB
+                  - paragraph [ref=f9e1257]:
+                    - generic [ref=f9e1258]: Remote, Bangalore
+              - button [ref=f9e1263] [cursor=pointer]:
+                - link "Senior Product Designer Product Design Lagos, Nigeria; Remote, Nigeria" [ref=f9e1264]:
+                  - /url: /careers/roles/4612209101
+                  - heading "Senior Product Designer" [level=2] [ref=f9e1265]
+                  - paragraph [ref=f9e1266]:
+                    - generic [ref=f9e1267]: Product Design
+                  - paragraph [ref=f9e1268]:
+                    - generic [ref=f9e1269]: Lagos, Nigeria; Remote, Nigeria
+              - button [ref=f9e1274] [cursor=pointer]:
+                - link "Senior Product Designer - Design System Product Design Lagos, Nigeria; Remote, Nigeria" [ref=f9e1275]:
+                  - /url: /careers/roles/4612208101
+                  - heading "Senior Product Designer - Design System" [level=2] [ref=f9e1276]
+                  - paragraph [ref=f9e1277]:
+                    - generic [ref=f9e1278]: Product Design
+                  - paragraph [ref=f9e1279]:
+                    - generic [ref=f9e1280]: Lagos, Nigeria; Remote, Nigeria
+              - button [ref=f9e1285] [cursor=pointer]:
+                - link "Senior Product Designer (UX). Product Design Remote, Nigeria" [ref=f9e1286]:
+                  - /url: /careers/roles/4918894101
+                  - heading "Senior Product Designer (UX)." [level=2] [ref=f9e1287]
+                  - paragraph [ref=f9e1288]:
+                    - generic [ref=f9e1289]: Product Design
+                  - paragraph [ref=f9e1290]:
+                    - generic [ref=f9e1291]: Remote, Nigeria
+              - button [ref=f9e1296] [cursor=pointer]:
+                - 'link "Senior Product Manager Pool: Product Remote, Spain" [ref=f9e1297]':
+                  - /url: /careers/roles/4823390101
+                  - heading "Senior Product Manager" [level=2] [ref=f9e1298]
+                  - paragraph [ref=f9e1299]:
+                    - generic [ref=f9e1300]: "Pool: Product"
+                  - paragraph [ref=f9e1301]:
+                    - generic [ref=f9e1302]: Remote, Spain
+              - button [ref=f9e1307] [cursor=pointer]:
+                - link "Senior Site Reliability Engineer Site Reliability Engineering Remote, Nigeria" [ref=f9e1308]:
+                  - /url: /careers/roles/4784640101
+                  - heading "Senior Site Reliability Engineer" [level=2] [ref=f9e1309]
+                  - paragraph [ref=f9e1310]:
+                    - generic [ref=f9e1311]: Site Reliability Engineering
+                  - paragraph [ref=f9e1312]:
+                    - generic [ref=f9e1313]: Remote, Nigeria
+              - button [ref=f9e1318] [cursor=pointer]:
+                - link "Senior Videographer Creative Team Lagos, Nigeria" [ref=f9e1319]:
+                  - /url: /careers/roles/4119159101
+                  - heading "Senior Videographer" [level=2] [ref=f9e1320]
+                  - paragraph [ref=f9e1321]:
+                    - generic [ref=f9e1322]: Creative Team
+                  - paragraph [ref=f9e1323]:
+                    - generic [ref=f9e1324]: Lagos, Nigeria
+              - button [ref=f9e1329] [cursor=pointer]:
+                - link "Talent Acquisition Specialist - Tech People Operations Remote, Lagos, Nigeria" [ref=f9e1330]:
+                  - /url: /careers/roles/4911374101
+                  - heading "Talent Acquisition Specialist - Tech" [level=2] [ref=f9e1331]
+                  - paragraph [ref=f9e1332]:
+                    - generic [ref=f9e1333]: People Operations
+                  - paragraph [ref=f9e1334]:
+                    - generic [ref=f9e1335]: Remote, Lagos, Nigeria
+              - button [ref=f9e1340] [cursor=pointer]:
+                - link "Team Lead, Site Reliability Engineering Site Reliability Engineering Lagos, Nigeria" [ref=f9e1341]:
+                  - /url: /careers/roles/4369828101
+                  - heading "Team Lead, Site Reliability Engineering" [level=2] [ref=f9e1342]
+                  - paragraph [ref=f9e1343]:
+                    - generic [ref=f9e1344]: Site Reliability Engineering
+                  - paragraph [ref=f9e1345]:
+                    - generic [ref=f9e1346]: Lagos, Nigeria
+      - generic [ref=f9e1352]:
+        - generic [ref=f9e1353]:
+          - heading "Perks of being on the dream team" [level=2] [ref=f9e1354]
+          - paragraph [ref=f9e1355]: In addition to a competitive salary, here are some of the benefits you enjoy when you join Moniepoint.
+        - list [ref=f9e1356]:
+          - listitem [ref=f9e1357]:
+            - heading "Work from anywhere" [level=2] [ref=f9e1359]
+          - listitem [ref=f9e1360]:
+            - heading "Pension" [level=2] [ref=f9e1362]
+          - listitem [ref=f9e1363]:
+            - heading "Paid Leave Days" [level=2] [ref=f9e1365]
+          - listitem [ref=f9e1366]:
+            - heading "Health Insurance" [level=2] [ref=f9e1368]
+          - listitem [ref=f9e1369]:
+            - heading "Portfolio of projects that matter" [level=2] [ref=f9e1371]
+          - listitem [ref=f9e1372] [cursor=pointer]:
+            - button "See all" [ref=f9e1373]
+      - generic [ref=f9e1378]:
+        - generic [ref=f9e1379]:
+          - heading "Our Interview Process" [level=2] [ref=f9e1380]
+          - paragraph [ref=f9e1381]: Here's what you can expect during our hiring process
+        - generic [ref=f9e1384]:
+          - generic [ref=f9e1385]:
+            - generic [ref=f9e1387]:
+              - paragraph [ref=f9e1389]: "1"
+              - generic [ref=f9e1392]:
+                - heading "Step 1" [level=2] [ref=f9e1393]
+                - paragraph [ref=f9e1394]: Preliminary Phone Screen
+            - generic [ref=f9e1396]:
+              - paragraph [ref=f9e1398]: "2"
+              - generic [ref=f9e1401]:
+                - heading "Step 2" [level=2] [ref=f9e1402]
+                - paragraph [ref=f9e1403]: Technical Assessment/Case Study Interview
+            - generic [ref=f9e1405]:
+              - paragraph [ref=f9e1407]: "3"
+              - generic [ref=f9e1410]:
+                - heading "Step 3" [level=2] [ref=f9e1411]
+                - paragraph [ref=f9e1412]: Panel Interview
+            - generic [ref=f9e1414]:
+              - paragraph [ref=f9e1416]: "4"
+              - generic [ref=f9e1417]:
+                - heading "Step 4" [level=2] [ref=f9e1418]
+                - paragraph [ref=f9e1419]: Executive/Final Interview
+          - generic [ref=f9e1420]:
+            - generic [ref=f9e1421]:
+              - img "Preliminary Phone Screen" [ref=f9e1423]
+              - generic [ref=f9e1424]: Step 1
+              - heading "Preliminary Phone Screen" [level=2] [ref=f9e1425]
+              - paragraph [ref=f9e1426]: Our recruitment team will reach out to you for an initial call. During this conversation, we'll confirm the details of your profile and conduct an initial assessment of your qualifications and communication skills. This step is crucial in getting to know you better and ensuring you're a good fit for the role.
+            - generic [ref=f9e1427]:
+              - img "Technical Assessment/Case Study Interview" [ref=f9e1429]
+              - generic [ref=f9e1430]: Step 2
+              - heading "Technical Assessment/Case Study Interview" [level=2] [ref=f9e1431]
+              - paragraph [ref=f9e1432]: For this stage of the interview process, we will evaluate your technical prowess and problem-solving abilities through a technical assessment or case study, depending on the specific role you are applying for. This stage will challenge you to apply your skills in a hypothetical scenario, allowing us to gauge your aptitude for the position.
+            - generic [ref=f9e1433]:
+              - img "Panel Interview" [ref=f9e1435]
+              - generic [ref=f9e1436]: Step 3
+              - heading "Panel Interview" [level=2] [ref=f9e1437]
+              - paragraph [ref=f9e1438]: This interview will delve into your work experience and what you can potentially bring to the team. It's an opportunity for both you and the team to get to know each other better and assess the alignment of your skills and goals with the position.
+            - generic [ref=f9e1439]:
+              - img "Executive/Final Interview" [ref=f9e1441]
+              - generic [ref=f9e1442]: Step 4
+              - heading "Executive/Final Interview" [level=2] [ref=f9e1443]
+              - paragraph [ref=f9e1444]: The final phase of our interview process involves a meeting with a key member of the executive team. This stage is crucial in ensuring that you are a good fit for the team and the broader organisation. If you successfully pass this interview, you will receive an offer letter, marking the final step before joining our team.
+    - generic [ref=f9e1446]:
+      - link [ref=f9e1447] [cursor=pointer]:
+        - /url: /
+        - img "moniepoint" [ref=f9e1448]
+      - generic [ref=f9e1449]:
+        - generic [ref=f9e1451]:
+          - paragraph [ref=f9e1453]: Moniepoint Inc. is Africa’s all-in-one financial platform, helping 20 million businesses and individuals access seamless payments, banking, credit, cross-border, and business management tools each month.As Nigeria’s largest merchant acquirer, it powers most of the country’s Point of Sale (POS) transactions. Through its subsidiaries, Moniepoint Inc. processes over $250 billion in digital payments transaction value annually.
+          - generic [ref=f9e1454]:
+            - link [ref=f9e1455] [cursor=pointer]:
+              - /url: https://atm.moniepoint.com/onboarding-v2/profile-setup?_smtype=3
+              - generic [ref=f9e1456]:
+                - paragraph [ref=f9e1457]: Get it on
+                - text: App Store
+            - link [ref=f9e1458] [cursor=pointer]:
+              - /url: https://atm.moniepoint.com/onboarding-v2/profile-setup?_smtype=3
+              - generic [ref=f9e1459]:
+                - paragraph [ref=f9e1460]: Get it on
+                - text: Google Play
+        - generic [ref=f9e1461]:
+          - generic [ref=f9e1462]:
+            - term [ref=f9e1463]: Solutions
+            - definition [ref=f9e1464]:
+              - link "Credit" [ref=f9e1465] [cursor=pointer]:
+                - /url: /credit
+            - definition [ref=f9e1466]:
+              - link "Payments" [ref=f9e1467] [cursor=pointer]:
+                - /url: /payments
+            - definition [ref=f9e1468]:
+              - link "Banking" [ref=f9e1469] [cursor=pointer]:
+                - /url: /banking
+            - definition [ref=f9e1470]:
+              - link "Business Management" [ref=f9e1471] [cursor=pointer]:
+                - /url: /business-management
+          - generic [ref=f9e1472]:
+            - term [ref=f9e1473]: Company
+            - definition [ref=f9e1474]:
+              - link "About Us" [ref=f9e1475] [cursor=pointer]:
+                - /url: /about
+            - definition [ref=f9e1476]:
+              - link "Culture" [ref=f9e1477] [cursor=pointer]:
+                - /url: /culture
+            - definition [ref=f9e1478]:
+              - link "Join Our Team" [ref=f9e1479] [cursor=pointer]:
+                - /url: /careers
+            - definition [ref=f9e1480]:
+              - link "Press & Media" [ref=f9e1481] [cursor=pointer]:
+                - /url: /press
+            - definition [ref=f9e1482]:
+              - link "Contact Us" [ref=f9e1483] [cursor=pointer]:
+                - /url: /contact
+          - generic [ref=f9e1484]:
+            - term [ref=f9e1485]: Resources
+            - definition [ref=f9e1486]:
+              - link "Moniepoint Blog" [ref=f9e1487] [cursor=pointer]:
+                - /url: /blog
+            - definition [ref=f9e1488]:
+              - link "Help Centre" [ref=f9e1489] [cursor=pointer]:
+                - /url: https://support.moniepoint.com
+            - definition [ref=f9e1490]:
+              - link "Learning Centre" [ref=f9e1491] [cursor=pointer]:
+                - /url: https://learning.moniepoint.com/
+            - definition [ref=f9e1492]:
+              - link "Whistleblower Policy" [ref=f9e1493] [cursor=pointer]:
+                - /url: /ng/whistleblower-policy
+            - definition [ref=f9e1494]:
+              - link "IMS Policy" [ref=f9e1495] [cursor=pointer]:
+                - /url: /ng/ims-policy
+            - definition [ref=f9e1496]:
+              - link "Report a Vulnerability" [ref=f9e1497] [cursor=pointer]:
+                - /url: /report-a-vulnerability
+            - definition [ref=f9e1498]:
+              - link "Informal Economy Report" [ref=f9e1499] [cursor=pointer]:
+                - /url: https://informalreport.moniepoint.com/
+            - definition [ref=f9e1500]:
+              - link "Security Trust Center" [ref=f9e1501] [cursor=pointer]:
+                - /url: https://trust.moniepoint.com/
+          - generic [ref=f9e1502]:
+            - term [ref=f9e1503]: United Kingdom
+            - definition [ref=f9e1504]: 8th Floor 22 Upper Ground, London, England, SE1 9PD, United Kingdom
+          - generic [ref=f9e1505]:
+            - term [ref=f9e1506]: United States
+            - definition [ref=f9e1507]: Suite 105, 112 S. French Street, Wilmington, Delaware, United States of America
+          - generic [ref=f9e1508]:
+            - term [ref=f9e1509]: Nigeria
+            - definition [ref=f9e1510]: The Post Square, Off Adeola Odeku, Victoria Island, Lagos, Nigeria
+      - generic [ref=f9e1513]:
+        - generic [ref=f9e1515]:
+          - heading "Connect with us" [level=6] [ref=f9e1516]
+          - paragraph [ref=f9e1517]:
+            - link "info@moniepoint.com" [ref=f9e1518] [cursor=pointer]:
+              - /url: mailto:info@moniepoint.com
+          - generic [ref=f9e1519]:
+            - link [ref=f9e1520] [cursor=pointer]:
+              - /url: https://www.linkedin.com/showcase/moniepoint-inc/
+            - link [ref=f9e1521] [cursor=pointer]:
+              - /url: https://twitter.com/moniepoint
+            - link [ref=f9e1522] [cursor=pointer]:
+              - /url: https://instagram.com/moniepoint
+            - link [ref=f9e1523] [cursor=pointer]:
+              - /url: https://www.youtube.com/@Moniepointinc
+        - button [ref=f9e1524] [cursor=pointer]:
+          - heading "Global" [level=2] [ref=f9e1525]
+      - generic [ref=f9e1530]:
+        - generic [ref=f9e1531]:
+          - paragraph [ref=f9e1532]: Copyright © 2026, Moniepoint
+          - generic [ref=f9e1533]:
+            - link "Privacy Policy" [ref=f9e1534] [cursor=pointer]:
+              - /url: /privacy-policy
+            - link "Cookie Policy" [ref=f9e1535] [cursor=pointer]:
+              - /url: /ng/cookie-policy
+        - paragraph [ref=f9e1536]: © 2026. Moniepoint is a bank with its services provided by Moniepoint MFB Limited and duly licensed by the Central Bank of Nigeria. Unauthorised reproduction or redistribution of copyrighted materials on this website and Moniepoint's digital media pages is strictly prohibited. By clicking on some of the links above, you will leave Moniepoint's website and be directed to a third-party website. The privacy practices of those third parties may differ from those of Moniepoint. We recommend you review the privacy statements of those third-party websites, as Moniepoint is not responsible for those third parties' privacy or security practices. Additional disclosures can be found in the resources section of our website.
+  - alert [ref=f9e1537]

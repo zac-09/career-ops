@@ -1,0 +1,136 @@
+- generic [active] [ref=f15e1]:
+  - banner [ref=f15e2]:
+    - navigation [ref=f15e3]:
+      - link "Cogram — home" [ref=f15e4] [cursor=pointer]:
+        - /url: /
+        - img [ref=f15e5]:
+          - generic [ref=f15e7]: cogram
+      - generic [ref=f15e8]:
+        - button "Project" [ref=f15e9]
+        - button "Studio" [ref=f15e12]
+        - link "Pricing" [ref=f15e15] [cursor=pointer]:
+          - /url: /pricing
+        - link "Security" [ref=f15e16] [cursor=pointer]:
+          - /url: /security
+        - button "Company" [ref=f15e17]
+      - generic [ref=f15e20]:
+        - link "Contact us" [ref=f15e21] [cursor=pointer]:
+          - /url: tel:+13476377672
+        - link "Sign In" [ref=f15e24] [cursor=pointer]:
+          - /url: https://app.cogram.com/auth/login
+        - link "Book a Demo" [ref=f15e25] [cursor=pointer]:
+          - /url: /get-demo
+        - link "Start for free" [ref=f15e26] [cursor=pointer]:
+          - /url: /pricing
+  - main [ref=f15e27]:
+    - generic [ref=f15e30]:
+      - paragraph [ref=f15e37]: "404"
+      - heading "Page not found" [level=1] [ref=f15e39]
+      - paragraph [ref=f15e40]: The page you're looking for doesn't exist or has been moved.
+      - generic [ref=f15e41]:
+        - link "Go home" [ref=f15e42] [cursor=pointer]:
+          - /url: /
+        - link "Book a demo" [ref=f15e43] [cursor=pointer]:
+          - /url: /get-demo
+  - contentinfo [ref=f15e46]:
+    - generic [ref=f15e48]:
+      - generic [ref=f15e75]:
+        - generic [ref=f15e76]:
+          - link "Cogram — home" [ref=f15e77] [cursor=pointer]:
+            - /url: /
+            - img [ref=f15e78]:
+              - generic [ref=f15e80]: cogram
+          - paragraph [ref=f15e81]: The AI Platform for Architects and Engineers
+          - paragraph [ref=f15e82]: SF · NY · London · Berlin
+        - generic [ref=f15e83]:
+          - generic [ref=f15e84]: Cogram Project
+          - list [ref=f15e85]:
+            - listitem [ref=f15e86]:
+              - link "Agent" [ref=f15e87] [cursor=pointer]:
+                - /url: /agent
+            - listitem [ref=f15e88]:
+              - link "Email Management" [ref=f15e89] [cursor=pointer]:
+                - /url: /email-management
+            - listitem [ref=f15e90]:
+              - link "RFIs & Submittals" [ref=f15e91] [cursor=pointer]:
+                - /url: /rfi-submittal-management
+            - listitem [ref=f15e92]:
+              - link "Meeting Minutes" [ref=f15e93] [cursor=pointer]:
+                - /url: /meeting-minutes
+            - listitem [ref=f15e94]:
+              - link "Field Reports" [ref=f15e95] [cursor=pointer]:
+                - /url: /field-reports
+        - generic [ref=f15e96]:
+          - generic [ref=f15e97]: Cogram Studio
+          - link "Research Preview" [ref=f15e98] [cursor=pointer]:
+            - /url: /studio
+          - generic [ref=f15e99]: Resources
+          - list [ref=f15e100]:
+            - listitem [ref=f15e101]:
+              - link "Blog" [ref=f15e102] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f15e103]:
+              - link "AEC Resources" [ref=f15e104] [cursor=pointer]:
+                - /url: /resources
+            - listitem [ref=f15e105]:
+              - link "Docs" [ref=f15e106] [cursor=pointer]:
+                - /url: https://docs.cogram.com
+        - generic [ref=f15e107]:
+          - generic [ref=f15e108]:
+            - generic [ref=f15e109]: Company
+            - list [ref=f15e110]:
+              - listitem [ref=f15e111]:
+                - link "About" [ref=f15e112] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f15e113]:
+                - link "Careers" [ref=f15e114] [cursor=pointer]:
+                  - /url: /about#careers
+              - listitem [ref=f15e115]:
+                - link "Case Studies" [ref=f15e116] [cursor=pointer]:
+                  - /url: /case-studies
+              - listitem [ref=f15e117]:
+                - link "Changelog" [ref=f15e118] [cursor=pointer]:
+                  - /url: /changelog
+              - listitem [ref=f15e119]:
+                - link "Security" [ref=f15e120] [cursor=pointer]:
+                  - /url: /security
+          - generic [ref=f15e121]:
+            - generic [ref=f15e122]: Legal
+            - list [ref=f15e123]:
+              - listitem [ref=f15e124]:
+                - link "Terms" [ref=f15e125] [cursor=pointer]:
+                  - /url: /terms
+              - listitem [ref=f15e126]:
+                - link "Privacy" [ref=f15e127] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=f15e128]:
+                - button "Cookie preferences" [ref=f15e129]
+      - generic [ref=f15e130]:
+        - generic [ref=f15e131]:
+          - generic [ref=f15e132]: Contact
+          - paragraph [ref=f15e133]: hi@cogram.com
+          - paragraph [ref=f15e134]:
+            - link "+1 (347) 637-7672" [ref=f15e135] [cursor=pointer]:
+              - /url: tel:+13476377672
+            - text: (US, 7–7 ET Mon–Fri)
+        - generic [ref=f15e136]:
+          - generic [ref=f15e137]: Connect
+          - link "LinkedIn" [ref=f15e138] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/cogramai/
+        - generic [ref=f15e139]:
+          - generic [ref=f15e140]: Copyright
+          - paragraph [ref=f15e141]: © 2026 Cogram Inc.
+      - generic [ref=f15e142]:
+        - generic [ref=f15e143]: A1
+        - generic [ref=f15e144]: A2
+        - generic [ref=f15e145]: A3
+        - generic [ref=f15e146]: A4
+        - generic [ref=f15e147]: A5
+        - generic [ref=f15e148]: A6
+        - generic [ref=f15e149]: A7
+        - generic [ref=f15e150]: A8
+        - generic [ref=f15e151]: A9
+        - generic [ref=f15e152]: A10
+        - generic [ref=f15e153]: A11
+        - generic [ref=f15e154]: A12
+  - alert [ref=f15e155]
