@@ -134,3 +134,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Production recommendation engine driving provider matching in the live marketplace.
 **Reflection:** Ranked confidence beats binary match/no-match — surface scores so humans can review the ambiguous middle instead of trusting or redoing everything.
 **Best for questions about:** entity resolution, fuzzy matching, deduplication, recommender systems, working with messy user-generated data.
+
+### [Cost optimization / FinOps] AWS exit saving $5,000/month
+**Source:** Report #191 — Yellow Card — Senior AI Platform Engineer
+**S (Situation):** MTailor was paying for a split estate: legacy services and storage on AWS (S3/EC2/EBS) alongside the new Firebase/GCP platform, with recurring spend on infrastructure the product no longer needed.
+**T (Task):** Consolidate the estate and eliminate redundant infrastructure cost without disrupting live services.
+**A (Action):** Migrated file storage from S3 to GCS via a Python script and moved all remaining services off AWS onto the consolidated GCP platform, sequencing cutovers so nothing user-facing broke.
+**R (Result):** $5,000/month in recurring infrastructure savings — a durable cost elimination, not a one-time cut (cv.md).
+**Reflection:** Cost work is capacity planning's twin — measure spend before and after every consolidation, and prefer structural savings (fewer platforms) over line-item trimming.
+**Best for questions about:** FinOps, cost optimization, cloud consolidation, infrastructure ownership, usage/cost dashboards, justifying platform decisions to leadership.
