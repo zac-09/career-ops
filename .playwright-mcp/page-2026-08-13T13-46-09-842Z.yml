@@ -1,0 +1,219 @@
+- generic [ref=f551e3]:
+  - navigation [ref=f551e4]:
+    - generic [ref=f551e6]:
+      - generic [ref=f551e7]:
+        - link [ref=f551e9] [cursor=pointer]:
+          - /url: /
+          - img "Y Combinator" [ref=f551e10]
+        - generic [ref=f551e11]:
+          - link "Work at a Startup" [ref=f551e12] [cursor=pointer]:
+            - /url: /
+          - link "Startup Jobs" [ref=f551e13] [cursor=pointer]:
+            - /url: /jobs
+          - link "Education" [ref=f551e14] [cursor=pointer]:
+            - /url: /events
+          - link "How it Works" [ref=f551e15] [cursor=pointer]:
+            - /url: /about
+      - link "Log In" [ref=f551e17] [cursor=pointer]:
+        - /url: https://account.ycombinator.com/magic?continue=https%3A%2F%2Fwww.workatastartup.com%2Fjobs%2F90229
+  - generic [ref=f551e18]:
+    - generic [ref=f551e19]:
+      - generic [ref=f551e20]:
+        - generic [ref=f551e21]:
+          - link [ref=f551e23] [cursor=pointer]:
+            - /url: /companies/cogram
+            - img "Cogram" [ref=f551e24]
+          - generic [ref=f551e25]:
+            - heading "Ex Technical Founder (Product Engineer) at Cogram(W22)" [level=1] [ref=f551e26]:
+              - text: Ex Technical Founder (Product Engineer) at
+              - link "Cogram" [ref=f551e27] [cursor=pointer]:
+                - /url: /companies/cogram
+              - generic [ref=f551e28]: (W22)
+            - generic [ref=f551e29]: €70K - €130K EUR • 0.10% - 0.50%
+            - generic [ref=f551e30]: The AI Platform for Architects, Builders, and Engineers
+            - generic [ref=f551e31]:
+              - generic [ref=f551e32]: Berlin, BE, DE / Remote
+              - generic [ref=f551e36]: Full-time
+              - generic [ref=f551e40]:
+                - img [ref=f551e41]: 
+                - generic [ref=f551e43]: US citizenship/visa not required
+              - generic [ref=f551e44]: 3+ years
+              - generic [ref=f551e48]: Python
+              - generic [ref=f551e49]: React
+              - generic [ref=f551e50]: React Native
+        - link "Apply now" [ref=f551e52] [cursor=pointer]:
+          - /url: https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=25672
+      - generic [ref=f551e53]:
+        - generic [ref=f551e54]: About Cogram
+        - paragraph [ref=f551e56]: Cogram is an AI platform for the architecture, engineering, and construction industry. Our products automate a growing number of workflows such as site reports, meeting minutes, email management, RFIs and submittals. We’re backed by Y Combinator and other world-leading investors and are growing fast and sustainably. We believe that a small, winning team can achieve outsize results and consistently beat competitors 100x our size.
+      - generic [ref=f551e57]:
+        - text: About the role
+        - generic [ref=f551e58]:
+          - paragraph [ref=f551e59]: "Location: Remote Timezone: within CET ±3 hours"
+          - heading "About Us" [level=3] [ref=f551e60]
+          - paragraph [ref=f551e61]:
+            - link "Cogram" [ref=f551e62] [cursor=pointer]:
+              - /url: https://cogram.com
+            - text: "is an AI platform for the architecture, engineering, and construction industry. We automate project admin: RFIs & submittals, email filing, field notes, meeting minutes, reporting. World-leading architecture and engineering firms use Cogram at scale. Backed by YC and Initialized."
+          - paragraph [ref=f551e63]: "AEC is a $13T industry that still runs on email chains, spreadsheets, and manual data entry. We’re building the AI platform that replaces all of it. The problems are seriously hard: messy real-world data, deeply entrenched workflows, and users who need to trust the output on job sites in difficult environments. We’re a small team competing with companies 100x our size, and winning. The goal is to become the default AI platform for design and construction workflows. We need formers technical founders who want to write code, ship product, and help us get there."
+          - heading "Why ex-founders" [level=3] [ref=f551e64]
+          - paragraph [ref=f551e65]: We’re a remote-first team. You talk to customers, decide what to build, build it, ship it, and measure whether it worked. You’re comfortable with thin specs. If something breaks at the edge of your knowledge, you figure it out. If you’ve built and run a company before, this will feel familiar. The pace, the ambiguity, the ownership. The difference is you’re joining a company with traction, paying customers at scale, and a clear technical direction.
+          - heading "What we’re looking for" [level=3] [ref=f551e66]
+          - list [ref=f551e67]:
+            - listitem [ref=f551e68]: You’ve founded or co-founded a tech company and built product yourself.
+            - listitem [ref=f551e69]: You’re good at talking to users and understanding requirements. You can design, ship, and own features end-to-end.
+            - listitem [ref=f551e70]: 3+ years building production software. Strong in at least one backend technology and one frontend technology.
+            - listitem [ref=f551e71]: Habitual power user of AI (Claude Code, Cursor, Codex, or whatever’s next). Strong opinions about AI-augmented engineering. Always finding tools that make you and the team faster.
+            - listitem [ref=f551e72]: "Comfortable in unfamiliar territory: cloud ops, CI pipelines, mobile, a gnarly customer workflow."
+            - listitem [ref=f551e73]: You can explain technical trade-offs to engineers and non-engineers alike.
+            - listitem [ref=f551e74]: You know when to cut corners and when to be rigorous.
+          - paragraph [ref=f551e75]: "Bonus: experience with shipping LLM-based production software, React Native/Expo, cloud ops (AWS, Azure), Terraform, Kubernetes, AEC industry exposure."
+          - heading "Stack" [level=3] [ref=f551e76]
+          - paragraph [ref=f551e77]: Python (FastAPI), Postgres, Redis, React/TypeScript, React Native/Expo, Terraform/Kubernetes on AWS & Azure.
+          - heading "Benefits" [level=3] [ref=f551e78]
+          - paragraph [ref=f551e79]: Fully remote, three offsites/year. 38 paid days off (26 personal + 12 German public holidays). Competitive salary + generous equity. Personal development stipend.
+          - heading "How to apply" [level=3] [ref=f551e80]
+          - list [ref=f551e81]:
+            - listitem [ref=f551e82]: One or two paragraphs on your background.
+            - listitem [ref=f551e83]: One to two lines on what you built and what you took away from it.
+            - listitem [ref=f551e84]: A URL to a live project, repo, or open-source contribution.
+            - listitem [ref=f551e85]: Your current agentic-coding setup.
+          - paragraph [ref=f551e86]: No AI slop, please. If your experience doesn’t match every line, apply anyway. We care more about how you think than where you’ve been. Come join us.
+      - generic [ref=f551e87]:
+        - text: Interview Process
+        - generic [ref=f551e88]:
+          - list [ref=f551e89]:
+            - listitem [ref=f551e90]: Screening call (20–30 min)
+            - listitem [ref=f551e91]: Technical interview (with and without AI, 2–3 hours)
+            - listitem [ref=f551e92]: Cultural-fit interview with co-founder (45 minutes)
+            - listitem [ref=f551e93]: "Optional: paid trial days (remote or in-person) and / or in-person meet-up"
+            - listitem [ref=f551e94]: Decision
+          - paragraph [ref=f551e95]: We move fast. The whole process often takes a few days.
+      - link "Apply now" [ref=f551e97] [cursor=pointer]:
+        - /url: https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D90229&defaults%5BsignUpActive%5D=true&defaults%5Bwaas_company%5D=25672
+    - generic [ref=f551e98]:
+      - heading "Other jobs at Cogram" [level=2] [ref=f551e99]
+      - generic [ref=f551e100]:
+        - generic [ref=f551e101] [cursor=pointer]:
+          - generic [ref=f551e102]:
+            - link "Design Engineer, Technical Designer, or PM" [ref=f551e104]:
+              - /url: /jobs/94044
+            - generic [ref=f551e105]:
+              - generic [ref=f551e106]: Berlin, BE, DE / London, England, GB / Remote
+              - generic [ref=f551e107]: Full-time
+              - generic [ref=f551e108]: €70K - €130K EUR
+              - generic [ref=f551e109]: 0.10% - 0.50%
+              - generic [ref=f551e110]: 1+ years
+          - link "View job" [ref=f551e112]:
+            - /url: /jobs/94044
+        - generic [ref=f551e113] [cursor=pointer]:
+          - generic [ref=f551e114]:
+            - link "Growth Lead" [ref=f551e116]:
+              - /url: /jobs/77278
+            - generic [ref=f551e117]:
+              - generic [ref=f551e118]: London, England, GB / Remote
+              - generic [ref=f551e119]: Full-time
+              - generic [ref=f551e120]: €70K - €90K EUR
+              - generic [ref=f551e121]: 0.10% - 0.50%
+              - generic [ref=f551e122]: 3+ years
+          - link "View job" [ref=f551e124]:
+            - /url: /jobs/77278
+        - generic [ref=f551e125] [cursor=pointer]:
+          - generic [ref=f551e126]:
+            - link "Customer Support Engineer (Product / Technical Support)" [ref=f551e128]:
+              - /url: /jobs/84527
+            - generic [ref=f551e129]:
+              - generic [ref=f551e130]: Berlin, BE, DE / Berlin, Berlin, DE / Remote (US)
+              - generic [ref=f551e131]: Full-time
+              - generic [ref=f551e132]: €60K - €80K EUR
+              - generic [ref=f551e133]: 0.10% - 0.50%
+              - generic [ref=f551e134]: 6+ years
+          - link "View job" [ref=f551e136]:
+            - /url: /jobs/84527
+        - generic [ref=f551e137] [cursor=pointer]:
+          - generic [ref=f551e138]:
+            - link "Account Executive (Full-cycle)" [ref=f551e140]:
+              - /url: /jobs/90938
+            - generic [ref=f551e141]:
+              - generic [ref=f551e142]: London, England, GB / Remote (New York, NY, US; London, England, GB; Chicago, IL, US; Atlanta, GA, US; Austin, TX, US)
+              - generic [ref=f551e143]: Full-time
+              - generic [ref=f551e144]: $75K - $150K
+              - generic [ref=f551e145]: 1+ years
+          - link "View job" [ref=f551e147]:
+            - /url: /jobs/90938
+    - generic [ref=f551e148]:
+      - heading "Hundreds of YC startups are hiring on Work at a Startup." [level=2] [ref=f551e149]
+      - link "Sign up to see more ›" [ref=f551e150] [cursor=pointer]:
+        - /url: https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication&defaults%5BsignUpActive%5D=true
+    - contentinfo [ref=f551e151]:
+      - generic [ref=f551e152]:
+        - link [ref=f551e154] [cursor=pointer]:
+          - /url: /
+          - img "Y Combinator" [ref=f551e155]
+        - generic [ref=f551e156]:
+          - heading "Work at a Startup" [level=3] [ref=f551e157]
+          - link "Jobs" [ref=f551e158] [cursor=pointer]:
+            - /url: /jobs
+          - link "Internships" [ref=f551e159] [cursor=pointer]:
+            - /url: /internships
+          - link "Events" [ref=f551e160] [cursor=pointer]:
+            - /url: /events
+          - link "How it works" [ref=f551e161] [cursor=pointer]:
+            - /url: /about
+          - link "Sign in" [ref=f551e162] [cursor=pointer]:
+            - /url: /application
+          - heading "Y Combinator" [level=3] [ref=f551e163]
+          - link "About YC" [ref=f551e164] [cursor=pointer]:
+            - /url: https://www.ycombinator.com/about/
+          - link "Press" [ref=f551e165] [cursor=pointer]:
+            - /url: https://www.ycombinator.com/press/
+          - link "Privacy & Terms" [ref=f551e166] [cursor=pointer]:
+            - /url: https://www.ycombinator.com/legal/
+          - link "Contact" [ref=f551e167] [cursor=pointer]:
+            - /url: mailto:workatastartup@ycombinator.com
+        - generic [ref=f551e168]:
+          - heading "Jobs by Role" [level=3] [ref=f551e169]
+          - link "Software Engineer Jobs" [ref=f551e170] [cursor=pointer]:
+            - /url: /jobs/l/software-engineer
+          - link "Design & UI/UX Jobs" [ref=f551e171] [cursor=pointer]:
+            - /url: /jobs/l/designer
+          - link "Product Manager Jobs" [ref=f551e172] [cursor=pointer]:
+            - /url: /jobs/l/product-manager
+          - link "Sales Jobs" [ref=f551e173] [cursor=pointer]:
+            - /url: /jobs/l/sales-manager
+          - link "Marketing Jobs" [ref=f551e174] [cursor=pointer]:
+            - /url: /jobs/l/marketing
+          - link "Support Jobs" [ref=f551e175] [cursor=pointer]:
+            - /url: /jobs/l/support
+          - link "Operations Jobs" [ref=f551e176] [cursor=pointer]:
+            - /url: /jobs/l/operations
+        - generic [ref=f551e177]:
+          - heading "Jobs by Location" [level=3] [ref=f551e178]
+          - link "Software Engineer Jobs in San Francisco" [ref=f551e179] [cursor=pointer]:
+            - /url: /jobs/san-francisco/software-engineer
+          - link "Product Manager Jobs in San Francisco" [ref=f551e180] [cursor=pointer]:
+            - /url: /jobs/san-francisco/product-manager
+          - link "Software Engineer Jobs in New York" [ref=f551e181] [cursor=pointer]:
+            - /url: /jobs/new-york/software-engineer
+          - link "Product Manager Jobs in New York" [ref=f551e182] [cursor=pointer]:
+            - /url: /jobs/new-york/product-manager
+          - link "Software Engineer Jobs in Los Angeles" [ref=f551e183] [cursor=pointer]:
+            - /url: /jobs/los-angeles/software-engineer
+          - link "Product Manager Jobs in Los Angeles" [ref=f551e184] [cursor=pointer]:
+            - /url: /jobs/los-angeles/product-manager
+        - generic [ref=f551e185]:
+          - heading "Remote Jobs" [level=3] [ref=f551e186]
+          - link "Remote Software Engineer Jobs" [ref=f551e187] [cursor=pointer]:
+            - /url: /jobs/r/software-engineer
+          - link "Remote Design & UI/UX Jobs" [ref=f551e188] [cursor=pointer]:
+            - /url: /jobs/r/designer
+          - link "Remote Product Manager Jobs" [ref=f551e189] [cursor=pointer]:
+            - /url: /jobs/r/product-manager
+          - link "Remote Sales Jobs" [ref=f551e190] [cursor=pointer]:
+            - /url: /jobs/r/sales-manager
+          - link "Remote Marketing Jobs" [ref=f551e191] [cursor=pointer]:
+            - /url: /jobs/r/marketing
+          - link "Remote Support Jobs" [ref=f551e192] [cursor=pointer]:
+            - /url: /jobs/r/support
+          - link "Remote Operations Jobs" [ref=f551e193] [cursor=pointer]:
+            - /url: /jobs/r/operations

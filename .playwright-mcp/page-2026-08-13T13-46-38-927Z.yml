@@ -1,0 +1,195 @@
+- generic [active] [ref=f553e1]:
+  - img "Banner" [ref=f553e3]
+  - main [ref=f553e4]:
+    - generic [ref=f553e5]:
+      - generic [ref=f553e6]:
+        - link "Back to jobs" [ref=f553e7] [cursor=pointer]:
+          - /url: https://job-boards.eu.greenhouse.io/ojin
+        - generic [ref=f553e11]:
+          - generic [ref=f553e12]:
+            - heading "Product Engineer (m/f/d)" [level=1] [ref=f553e13]
+            - generic [ref=f553e14]: Berlin OR Remote (Europe)
+          - button "Apply" [ref=f553e18] [cursor=pointer]
+        - generic [ref=f553e19]:
+          - generic [ref=f553e20]:
+            - generic [ref=f553e21]:
+              - heading "About Ojin" [level=3] [ref=f553e22]
+              - paragraph [ref=f553e23]: Ojin is The Human AI Company. We build the infrastructure that makes AI feel human. Our Human Agents deliver natural, lifelike conversations in real time, powered by our proprietary models and blazing-fast APIs on a globally distributed GPU fabric.
+              - paragraph [ref=f553e24]: We have delivered award-winning work with brands including BMW, H&M, and Clinique. Our new platform will define how the world experiences AI and we're assembling a small, ambitious team of exceptional people to do it.
+            - generic [ref=f553e25]:
+              - heading "The Role" [level=3] [ref=f553e26]
+              - paragraph [ref=f553e27]: As a Product Engineer, you will not just write code, you will own products and features end-to-end. In the modern AI accelerated landscape, we believe a single high leverage engineer can drive impact comparable to entire teams of the past. You will be the bridge between technical implementation, product design, and user experience.
+              - paragraph [ref=f553e28]: We are looking for a builder who thrives in startup environments. You will work directly on Ojin, building everything from high-end interactive frontends to complex backend agentic systems. You won't just be handed a ticket; you will help define the solution, design the architecture, and ship it to users.
+              - paragraph [ref=f553e29]: This is a full-time position, either in our Berlin office or remote (CET +/- 2h).
+            - generic [ref=f553e30]:
+              - heading "What You'll Do" [level=3] [ref=f553e31]
+              - list [ref=f553e32]:
+                - listitem [ref=f553e33]:
+                  - strong [ref=f553e34]: "End-to-End Ownership:"
+                  - text: Drive features and projects from abstract concepts to production deployment. You will take ownership across UI/UX design, product logic, and technical implementation.
+                - listitem [ref=f553e35]:
+                  - strong [ref=f553e36]: "Full-Stack Web Development:"
+                  - text: Architect and build our core web infrastructure using TypeScript, React, and Node.js. You will ensure our user-facing applications are responsive, intuitive, and robust.
+                - listitem [ref=f553e37]:
+                  - strong [ref=f553e38]: "AI & Agent Systems:"
+                  - text: Develop and maintain Python backends for our AI capabilities, including proxy services, agentic systems, and conversational AI flows.
+                - listitem [ref=f553e39]:
+                  - strong [ref=f553e40]: "Systems Architecture:"
+                  - text: Design scalable backend systems, considering trade-offs around performance and scalability as the product evolves. While you will have support from the team, we expect you to drive architectural decisions that balance speed of delivery with long term reliability.
+                - listitem [ref=f553e41]:
+                  - strong [ref=f553e42]: "Cross-Functional Leadership:"
+                  - text: Collaborate closely with founders, designers, and other engineers. You will be a key voice in shaping the product roadmap and technical strategy.
+            - generic [ref=f553e43]:
+              - heading "What We're Looking For" [level=3] [ref=f553e44]
+              - list [ref=f553e45]:
+                - listitem [ref=f553e46]:
+                  - strong [ref=f553e47]: "Experience:"
+                  - text: You have 3-5 years of professional software development experience.
+                - listitem [ref=f553e48]:
+                  - strong [ref=f553e49]: "Startup Experience:"
+                  - text: Startup experience is a must. You have navigated the ambiguity of early-stage companies and know how to move fast without breaking things.
+                - listitem [ref=f553e50]:
+                  - strong [ref=f553e51]: "True Full-Stack:"
+                  - text: You possess strong hands-on skills in Frontend (React, TypeScript) and Backend (Node.js, TypeScript), and are comfortable owning features across the entire stack independently.
+                - listitem [ref=f553e52]:
+                  - strong [ref=f553e53]: "Python & AI Competence:"
+                  - text: You are proficient in Python and have experience or a strong ambition to build backend systems for AI agents and conversational interfaces.
+                - listitem [ref=f553e54]:
+                  - strong [ref=f553e55]: "Product Mindset:"
+                  - text: You are enthusiastic about UI/UX, product design, and making trade-offs that benefit the customer.
+                - listitem [ref=f553e56]:
+                  - strong [ref=f553e57]: "Architectural Depth:"
+                  - text: You have the rigor to design complex systems that scale, acquired through years of hands-on experience.
+                - listitem [ref=f553e58]:
+                  - strong [ref=f553e59]: "Communication:"
+                  - text: Professional fluency in English, both spoken and written. You can articulate complex technical concepts to the team and stakeholders.
+            - generic [ref=f553e60]:
+              - heading "Nice to Haves" [level=3] [ref=f553e61]
+              - list [ref=f553e62]:
+                - listitem [ref=f553e63]: Experience with WebRTC and WebSockets for real time applications.
+                - listitem [ref=f553e64]: Experience with performance optimization for global, low latency systems.
+                - listitem [ref=f553e65]: Experience with Infrastructure-as-Code (IaC, AWS CDK) and AWS.
+                - listitem [ref=f553e66]: Background in building developer tools, API platforms, or AI enabled products.
+            - generic [ref=f553e67]:
+              - heading "Why Work With Us" [level=3] [ref=f553e68]
+              - paragraph [ref=f553e69]: We offer the autonomy to do your best work, the tools you need to succeed, and the rest you need to recover. We're looking for high performers who take ownership, move fast, and deliver exceptional results.
+              - list [ref=f553e70]:
+                - listitem [ref=f553e71]:
+                  - strong [ref=f553e72]: "High-Impact, Low-Bureaucracy:"
+                  - text: As a Product Engineer, you will have a high degree of autonomy and direct impact on the product direction. You'll work alongside a small team of talented individuals where your productivity is multiplied, not hindered.
+                - listitem [ref=f553e73]:
+                  - strong [ref=f553e74]: "Remote-First Culture:"
+                  - text: We are a remote first company with a Berlin HQ. You can work from anywhere within CET +/-2 hours.
+                - listitem [ref=f553e75]:
+                  - strong [ref=f553e76]: "Rest & Recovery:"
+                  - text: We offer 28 days of paid vacation in Europe (in other countries, specifics may vary) plus 1 additional mental health day per year.
+                - listitem [ref=f553e77]:
+                  - strong [ref=f553e78]: "Continuous Growth:"
+                  - text: We value continuous learning and provide an annual education budget of €900 to support your professional development.
+                - listitem [ref=f553e79]:
+                  - strong [ref=f553e80]: "Home Equipment:"
+                  - text: If you need home office equipment, we'll provide it for you.
+                - listitem [ref=f553e81]:
+                  - strong [ref=f553e82]: "Values:"
+                  - text: We are driven by high performance, transparency, humbleness, and pride in our work.
+          - paragraph [ref=f553e84]:
+            - emphasis [ref=f553e85]: Ojin is committed to creating a diverse and inclusive workplace where everyone is treated with dignity, respect, and fairness. We value diversity in all its forms, including but not limited to race, ethnicity, gender, sexual orientation, age, religion, national origin, disability, and veteran status. We believe that a diverse and inclusive workplace leads to better business outcomes, stronger relationships with our customers and partners, and a more fulfilling work experience for our employees.
+        - generic [ref=f553e89]:
+          - paragraph [ref=f553e90]: Create a Job Alert
+          - paragraph [ref=f553e91]: Interested in building your career at Ojin? Get future opportunities sent straight to your email.
+          - link "Create alert" [ref=f553e92] [cursor=pointer]:
+            - /url: https://my.greenhouse.io/users/sign_in?job_board=ojin&source=job_alert_post
+      - separator [ref=f553e93]
+      - generic [ref=f553e94]:
+        - generic [ref=f553e95]:
+          - generic [ref=f553e96]:
+            - heading "Apply for this job" [level=2] [ref=f553e98]
+            - generic [ref=f553e99]:
+              - paragraph [ref=f553e101]: "*"
+              - paragraph [ref=f553e102]: indicates a required field
+          - button "Autofill my application" [ref=f553e105] [cursor=pointer]
+        - generic [ref=f553e106]:
+          - generic [ref=f553e107]:
+            - generic [ref=f553e110]:
+              - generic [ref=f553e111]: First Name*
+              - textbox "First Name" [ref=f553e112]
+            - generic [ref=f553e115]:
+              - generic [ref=f553e116]: Last Name*
+              - textbox "Last Name" [ref=f553e117]
+            - generic [ref=f553e120]:
+              - generic [ref=f553e121]: Email*
+              - textbox "Email" [ref=f553e122]
+            - group "Phone" [ref=f553e124]:
+              - generic [ref=f553e128]:
+                - generic [ref=f553e129]: Country
+                - generic [ref=f553e130]:
+                  - log [ref=f553e132]
+                  - generic [ref=f553e134]:
+                    - combobox "Country" [ref=f553e137]
+                    - button "Toggle flyout" [ref=f553e139] [cursor=pointer]
+              - generic [ref=f553e144]:
+                - generic [ref=f553e145]: Phone
+                - textbox "Phone" [ref=f553e147]
+            - group "Resume/CV*" [ref=f553e149]:
+              - generic [ref=f553e152]:
+                - generic [ref=f553e154]:
+                  - button "Attach" [ref=f553e155] [cursor=pointer]
+                  - generic [ref=f553e156]: Attach
+                  - button "Attach" [ref=f553e157]
+                - button "Dropbox" [ref=f553e159] [cursor=pointer]
+                - button "Google Drive" [ref=f553e161] [cursor=pointer]
+                - generic [ref=f553e163]:
+                  - button "Enter manually" [ref=f553e164] [cursor=pointer]
+                  - generic [ref=f553e165]: Enter manually
+                - paragraph [ref=f553e166]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=f553e168]:
+              - generic [ref=f553e171]:
+                - generic [ref=f553e173]:
+                  - button "Attach" [ref=f553e174] [cursor=pointer]
+                  - generic [ref=f553e175]: Attach
+                  - button "Attach" [ref=f553e176]
+                - button "Dropbox" [ref=f553e178] [cursor=pointer]
+                - button "Google Drive" [ref=f553e180] [cursor=pointer]
+                - generic [ref=f553e182]:
+                  - button "Enter manually" [ref=f553e183] [cursor=pointer]
+                  - generic [ref=f553e184]: Enter manually
+                - paragraph [ref=f553e185]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=f553e186]:
+            - separator [ref=f553e187]
+            - generic [ref=f553e190]:
+              - generic [ref=f553e191]: LinkedIn URL*
+              - textbox "LinkedIn URL" [ref=f553e192]
+            - generic [ref=f553e195]:
+              - generic [ref=f553e196]: Earliest possible start date*
+              - textbox "Earliest possible start date" [ref=f553e197]
+            - generic [ref=f553e200]:
+              - generic [ref=f553e201]: GitHub URL*
+              - textbox "GitHub URL" [ref=f553e202]
+            - generic [ref=f553e205]:
+              - generic [ref=f553e206]: Do you currently live in the CET timezone (±2 hours)? You’ll need to be within ±2 hours of Berlin, CET.*
+              - textbox "Do you currently live in the CET timezone (±2 hours)? You’ll need to be within ±2 hours of Berlin, CET." [ref=f553e207]
+            - generic [ref=f553e210]:
+              - generic [ref=f553e211]: How many years of professional software experience do you have, and what are your primary languages and frameworks? *
+              - textbox "How many years of professional software experience do you have, and what are your primary languages and frameworks?" [ref=f553e212]
+            - generic [ref=f553e215]:
+              - generic [ref=f553e216]: Have you worked at an early-stage startup? If yes, briefly describe the company and your role there.*
+              - textbox "Have you worked at an early-stage startup? If yes, briefly describe the company and your role there." [ref=f553e217]
+            - generic [ref=f553e220]:
+              - generic [ref=f553e221]: Describe a product or feature you owned end-to-end - from problem definition to shipping. What was it, what did you decide, and what was the outcome? *
+              - textbox "Describe a product or feature you owned end-to-end - from problem definition to shipping. What was it, what did you decide, and what was the outcome?" [ref=f553e222]
+            - generic [ref=f553e225]:
+              - generic [ref=f553e226]: Describe your experience building AI-powered or agentic systems. What did you build, what was your role, and is this work in production?*
+              - textbox "Describe your experience building AI-powered or agentic systems. What did you build, what was your role, and is this work in production?" [ref=f553e227]
+            - generic [ref=f553e230]:
+              - generic [ref=f553e231]: Salary expectations (annual)*
+              - textbox "Salary expectations (annual)" [ref=f553e232]
+            - generic [ref=f553e235]:
+              - generic [ref=f553e236]: Where did you hear about us? *
+              - textbox "Where did you hear about us?" [ref=f553e237]
+          - button "Submit application" [ref=f553e239] [cursor=pointer]
+  - contentinfo [ref=f553e240]:
+    - generic [ref=f553e241]:
+      - paragraph [ref=f553e242]: Powered by
+      - link [ref=f553e243] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=f553e244]
