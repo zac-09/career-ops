@@ -50,8 +50,12 @@ const GENERIC_ROLE_WORDS = new Set([
 ]);
 
 function roleFuzzyMatch(a, b) {
+  // Keep distinctive words: >3 chars, or short domain acronyms (AI, ML, QA, UX, UI, SRE, API...)
+  // so "Senior AI Platform Engineer" doesn't collapse to just ["platform"] and
+  // false-positive match a different role like "Platform Tech Lead".
+  const SHORT_ACRONYMS = /^(ai|ml|qa|ux|ui|sre|api|ios|xr|ar|vr)$/;
   const words = s => s.toLowerCase().split(/[^a-z0-9]+/)
-    .filter(w => w.length > 3 && !GENERIC_ROLE_WORDS.has(w));
+    .filter(w => (w.length > 3 || SHORT_ACRONYMS.test(w)) && !GENERIC_ROLE_WORDS.has(w));
   const wordsA = words(a);
   const wordsB = words(b);
   // Titles made of only generic words (e.g. "Senior Software Engineer"): exact compare
@@ -59,7 +63,11 @@ function roleFuzzyMatch(a, b) {
     const norm = s => s.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
     return norm(a) === norm(b);
   }
-  const overlap = wordsA.filter(w => wordsB.some(wb => wb.includes(w) || w.includes(wb)));
+  // Substring overlap only for longer words; short acronyms must match exactly
+  // (avoids "ai" matching inside "maintainer" etc.)
+  const overlap = wordsA.filter(w => wordsB.some(wb =>
+    w === wb || (w.length > 3 && wb.length > 3 && (wb.includes(w) || w.includes(wb)))
+  ));
   return overlap.length >= Math.min(2, wordsA.length, wordsB.length);
 }
 

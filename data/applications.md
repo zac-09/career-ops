@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 191 | 2026-08-13 | Yellow Card | Senior AI Platform Engineer | 2.4/5 | SKIP | ❌ | [191](reports/191-yellow-card-ai-platform-2026-08-13.md) | SKIP — reopened req regressed to South Africa (Remote) tag (Uganda doubtful); AWS EKS/serverless hard gap repeats #144; LLM FinOps/MCP gaps; SA comp ~$40-55K under floor; head-to-head: take #188 door |
 | 188 | 2026-08-11 | Yellow Card | Technical Team Lead (Full-stack) | 3.4/5 | Evaluated | ✅ | [188](reports/188-yellow-card-team-lead-2026-08-11.md) | APPLY conditional — Africa-required geo (rare); Node/TS full-stack lead core fits; gaps: AWS serverless depth + Vue 3 (JD-sanctioned React ramp); probe comp band (levels.fyi YC SWE ~$32K) |
 | 189 | 2026-08-11 | Canonical | Software Developer in Observability | 2.1/5 | SKIP | ❌ | [189](reports/189-canonical-observability-2026-08-11.md) | SKIP — JD is explicitly a JUNIOR Python/Go seat (two-level downlevel); observability domain gap (cf. #156); geo clean but junior+East-Africa geo-adjusted comp far below floor; heavy assessment process |
 | 190 | 2026-08-11 | Makai Labs | Senior Azure Platform / DevOps Engineer | 1.5/5 | SKIP | ❌ | [190](reports/190-makai-labs-azure-devops-2026-08-11.md) | SKIP geo — US-only confirmed 3 ways (US-states location metadata, required US work-auth form gate + no sponsorship, $60-75/hr US band); Azure/Terraform core absent from CV anyway |
