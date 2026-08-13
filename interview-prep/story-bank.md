@@ -143,3 +143,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** $5,000/month in recurring infrastructure savings — a durable cost elimination, not a one-time cut (cv.md).
 **Reflection:** Cost work is capacity planning's twin — measure spend before and after every consolidation, and prefer structural savings (fewer platforms) over line-item trimming.
 **Best for questions about:** FinOps, cost optimization, cloud consolidation, infrastructure ownership, usage/cost dashboards, justifying platform decisions to leadership.
+
+### [Founder-shaped ownership] Running CodeBits end-to-end
+**Source:** Report #192 — Cogram — Ex Technical Founder (Product Engineer)
+**S (Situation):** NGOs in Uganda (FIDA, LASPNET) needed legal-tech systems but had thin specs, small budgets, and end users on feature phones without data connections.
+**T (Task):** Run a 4-developer team delivering complete products — requirements, architecture, build, ship, support — with no product manager or spec in between.
+**A (Action):** Owned the client relationships directly: sat with the NGOs to understand workflows, decided what to build, architected a Kafka/Docker/Kubernetes microservices backend, shipped a React Native/Expo mobile app and a USSD front end over gRPC, and led the team through delivery.
+**R (Result):** Case management for FIDA Uganda and a paralegal database + mobile app for LASPNET shipped and operated in production; multiple USSD providers integrated against one contract (cv.md).
+**Reflection:** Founder-mode is a skill, not a title — talking to users, deciding what to build, and shipping it yourself compounds; the hardest part was knowing when to cut corners (UI polish) and when to be rigorous (data contracts, message idempotency).
+**Best for questions about:** ex-founder/founder-mode roles, ambiguity, thin specs, end-to-end ownership, customer conversations, small-team leadership. NOTE: confirm founder/co-founder wording with Isaac before using "founded" verbatim — cv.md titles the role "Software Engineer".

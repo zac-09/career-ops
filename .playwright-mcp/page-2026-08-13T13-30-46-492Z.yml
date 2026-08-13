@@ -1,0 +1,95 @@
+- generic [active] [ref=f21e1]:
+  - generic [ref=f21e87]:
+    - generic [ref=f21e88]:
+      - generic [ref=f21e89]:
+        - 'heading "Application: Sr. Backend Engineer (Node/TypeScript)" [level=6] [ref=f21e90]'
+        - button "Exit to job board" [ref=f21e92] [cursor=pointer]:
+          - generic [ref=f21e93]:
+            - generic [ref=f21e94]: 
+            - generic [ref=f21e95]: Exit to job board
+      - progressbar "Progress bar" [ref=f21e96]
+    - generic [ref=f21e100]:
+      - generic [ref=f21e101]:
+        - 'heading "Application: Sr. Backend Engineer (Node/TypeScript)" [level=4] [ref=f21e102]'
+        - generic [ref=f21e103]:
+          - generic [ref=f21e104]: CV*
+          - generic [ref=f21e105]:
+            - generic [ref=f21e106]: Total 0 file selected
+            - generic "Total 0 file selected CV" [ref=f21e107] [cursor=pointer]:
+              - button "Drop or select (.doc / .docx / .pdf)" [ref=f21e108]
+            - generic [ref=f21e114]: The CV will be parsed to fill in the application details
+        - generic [ref=f21e115]:
+          - generic [ref=f21e116]: First name*
+          - textbox "First name" [ref=f21e119]
+        - generic [ref=f21e121]:
+          - generic [ref=f21e122]: Last name*
+          - textbox "Last name" [ref=f21e125]
+        - generic [ref=f21e127]:
+          - generic [ref=f21e128]: Email*
+          - textbox "Email" [ref=f21e131]
+        - generic [ref=f21e133]:
+          - generic [ref=f21e134]: Phone number*
+          - generic [ref=f21e136]:
+            - generic [ref=f21e142] [cursor=pointer]:
+              - combobox "Search" [ref=f21e146]: +44 GB
+              - generic [ref=f21e147]: 
+            - textbox "Phone number" [ref=f21e151]
+        - generic [ref=f21e153]:
+          - generic [ref=f21e154]: Location*
+          - generic [ref=f21e158]:
+            - generic [ref=f21e159]: 
+            - textbox "Location" [ref=f21e161]
+        - generic [ref=f21e163]:
+          - generic [ref=f21e164]: LinkedIn Link
+          - textbox "LinkedIn Link" [ref=f21e167]
+        - generic [ref=f21e171]:
+          - paragraph [ref=f21e174]:
+            - text: Address
+            - generic [ref=f21e175]: "*"
+          - textbox [ref=f21e179]
+        - generic [ref=f21e181]:
+          - paragraph [ref=f21e184]:
+            - text: City
+            - generic [ref=f21e185]: "*"
+          - textbox [ref=f21e189]
+        - generic [ref=f21e191]:
+          - paragraph [ref=f21e194]:
+            - text: State / Territory
+            - generic [ref=f21e195]: "*"
+          - textbox [ref=f21e199]
+        - generic [ref=f21e201]:
+          - paragraph [ref=f21e204]:
+            - text: ZIP / Postal Code
+            - generic [ref=f21e205]: "*"
+          - textbox [ref=f21e209]
+        - generic [ref=f21e211]:
+          - paragraph [ref=f21e214]:
+            - text: Country
+            - generic [ref=f21e215]: "*"
+          - textbox [ref=f21e219]
+        - generic [ref=f21e223]:
+          - paragraph [ref=f21e224]:
+            - text: Tick
+            - strong [ref=f21e225]: "Yes"
+            - text: or
+            - strong [ref=f21e226]: "No"
+            - text: to indicate your agreement to receive text message updates from UTILITY regarding your job application. Frequency may vary. Message and data rates may apply. Reply HELP for assistance. Reply STOP to opt out of future messaging.
+          - radiogroup [ref=f21e229]:
+            - radio "Yes – I consent to receiving text messages" [ref=f21e230] [cursor=pointer]:
+              - paragraph [ref=f21e236]: Yes – I consent to receiving text messages
+            - radio "No – I do not consent to receiving text messages" [ref=f21e237] [cursor=pointer]:
+              - paragraph [ref=f21e243]: No – I do not consent to receiving text messages
+      - generic [ref=f21e246]:
+        - paragraph [ref=f21e247]:
+          - text: By clicking "Apply" you agree to Rippling's
+          - link "Terms of Service" [ref=f21e248] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/user
+          - text: and
+          - link [ref=f21e249] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/privacy
+            - text: User Privacy Notice
+            - link "." [ref=f21e250]:
+              - /url: https://app.rippling.com/legal/privacy
+        - paragraph
+      - button "Apply" [disabled] [ref=f21e261]
+  - alert [ref=f21e86]: Apply - Sr. Backend Engineer (Node/TypeScript)
