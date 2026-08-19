@@ -1,0 +1,123 @@
+- generic [active] [ref=f6e1]:
+  - generic [ref=f6e3]:
+    - generic [ref=f6e5]:
+      - navigation "Breadcrumb" [ref=f6e7]:
+        - list [ref=f6e8]:
+          - listitem [ref=f6e9]:
+            - paragraph [ref=f6e10]:
+              - link "AGNT, Inc. - All Open Roles" [ref=f6e11] [cursor=pointer]
+          - listitem [ref=f6e12]:
+            - generic [ref=f6e13]: 
+            - paragraph [ref=f6e14]:
+              - link "Full Stack Engineer - (REMOTE)"
+      - generic [ref=f6e15]:
+        - img "AGNT, Inc. - All Open Roles" [ref=f6e17]
+        - heading "Full Stack Engineer - (REMOTE)" [level=2] [ref=f6e18]
+        - generic [ref=f6e19]:
+          - generic [ref=f6e20]:
+            - generic [ref=f6e22]:
+              - generic [ref=f6e23]:
+                - paragraph [ref=f6e24]:
+                  - emphasis [ref=f6e26]: We are one of the first work-from-anywhere companies with 2,000+ team members utilizing our virtual office called eXp World. This role is work-from-anywhere in Canada.
+                - paragraph [ref=f6e27]
+                - paragraph [ref=f6e28]:
+                  - strong [ref=f6e30]: Who is eXp?
+                - paragraph [ref=f6e31]: Doing the audacious is part of eXp Realty’s DNA. We are a company that rewards creative minds who can offer bold solutions, where opinions matter, anything is possible and the outcome can be revolutionary. As a global full-service real estate brokerage utilizing a 3-D, fully immersive, cloud office environment, offering 24/7 access to collaborative tools & training, eXp has broken the traditional mold of real estate. We are doing big things. Come join us!
+              - generic [ref=f6e32]:
+                - paragraph [ref=f6e33]
+                - paragraph [ref=f6e34]:
+                  - strong [ref=f6e36]: "What you will do:"
+                - paragraph [ref=f6e37]: We are seeking a talented Full-Stack Software Engineer with strong experience in React and TypeScript on the frontend and Node.js on the backend, with Python as an asset. You are passionate about building high-quality, scalable products and delivering exceptional user experiences.
+                - paragraph [ref=f6e38]
+                - paragraph [ref=f6e39]: In this role, you will design and develop end-to-end solutions across the stack, from intuitive user interfaces to performant backend services and cloud integrations. You will help simplify the real estate journey by building ambitious products and features that serve users across multiple markets.
+                - paragraph [ref=f6e40]
+                - paragraph [ref=f6e41]: Working closely with product, design, and engineering teams, you will play a key role in shaping architecture, implementing robust APIs, integrating AWS services such as S3, messaging queues, and relational databases, and ensuring our applications are secure, reliable, and built to scale.
+                - paragraph [ref=f6e42]
+                - paragraph [ref=f6e43]:
+                  - strong [ref=f6e45]: "How you will make an impact:"
+                - list [ref=f6e46]:
+                  - listitem [ref=f6e47]: Design, develop, and maintain features in our Next.js and React web applications, focusing on usability, performance, and scalability.
+                  - listitem [ref=f6e48]: Build and enhance backend services and APIs using Node.js and TypeScript, with Python as an asset.
+                  - listitem [ref=f6e49]: Maintain a strong functional understanding of AWS environments - Specifically S3, messaging queues, Secrets Manager, and SQL databases to support service development within a DevOps-led deployment model.
+                  - listitem [ref=f6e50]: Collaborate with cross-functional teams to deliver end-to-end solutions, from frontend interfaces to backend services and integrations.
+                  - listitem [ref=f6e51]: Implement vertical story tickets and contribute to new functionality across web and, where applicable, mobile platforms.
+                  - listitem [ref=f6e52]: Write clean, testable, observable, and maintainable code following industry best practices.
+                  - listitem [ref=f6e53]: Participate in code reviews, technical design discussions, and architectural decision-making.
+                  - listitem [ref=f6e54]: Work closely with engineering leadership and senior peers to align technical execution with business objectives.
+                  - listitem [ref=f6e55]: Contribute to operational excellence, including monitoring, performance tuning, and incident response.
+                  - listitem [ref=f6e56]: Perform other duties as assigned.
+                - paragraph [ref=f6e57]
+                - paragraph [ref=f6e58]:
+                  - strong [ref=f6e60]: "How you will grab our attention:"
+                - list [ref=f6e61]:
+                  - listitem [ref=f6e62]: Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.
+                  - listitem [ref=f6e63]: 5+ years of professional software development experience, with strong full-stack exposure.
+                  - listitem [ref=f6e64]: Proven experience building backend services and APIs using Node.js and TypeScript, with Python as an asset.
+                  - listitem [ref=f6e65]: Strong experience developing modern web applications using React and/or Next.js.
+                  - listitem [ref=f6e66]: Solid understanding of JavaScript and TypeScript for building interactive, maintainable user interfaces.
+                  - listitem [ref=f6e67]: Hands-on experience working with relational databases such as PostgreSQL, MySQL, or MariaDB.
+                  - listitem [ref=f6e68]: Demonstrated experience designing and implementing HTTP-based APIs.
+                  - listitem [ref=f6e69]: Strong understanding of API design best practices, including RESTful and hybrid approaches.
+                  - listitem [ref=f6e70]: Experience building, deploying, and supporting production-grade systems.
+                  - listitem [ref=f6e71]: Demonstrated ability to take ownership, collaborate effectively, and deliver high-impact projects.
+                  - listitem [ref=f6e72]: High attention to detail, strong problem-solving skills, and a passion for continuous learning across the technology stack.
+                  - listitem [ref=f6e73]: Familiarity with search and indexing platforms such as Elasticsearch.
+                  - listitem [ref=f6e74]: Experience working with cloud platforms, particularly AWS (S3, messaging, secrets management, serverless).
+                  - listitem [ref=f6e75]: Exposure to containerization and orchestration technologies, including Docker and Kubernetes.
+                  - listitem [ref=f6e76]: Experience with serverless architectures (for example, AWS Lambda).
+                  - listitem [ref=f6e77]: Familiarity with authentication and authorization standards such as OAuth.
+                  - listitem [ref=f6e78]: Experience with CI/CD tools and workflows, including Jenkins and GitHub Actions.
+                  - listitem [ref=f6e79]: Knowledge of observability, monitoring, and performance tooling.
+                  - listitem [ref=f6e80]: Demonstrated full-stack development experience across web and, where applicable, mobile platforms.
+                - paragraph [ref=f6e81]
+                - paragraph [ref=f6e82]:
+                  - emphasis [ref=f6e84]: If you think you’d make a great match for this position but don’t meet all the requirements, we would still encourage you to apply!
+                - paragraph [ref=f6e85]
+                - paragraph [ref=f6e86]:
+                  - strong [ref=f6e88]: "What eXp provides:"
+                - list [ref=f6e89]:
+                  - listitem [ref=f6e90]: Paid Vacation
+                  - listitem [ref=f6e91]: Paid Holidays
+                  - listitem [ref=f6e92]: Up to 4 Paid Personal Days
+                  - listitem [ref=f6e93]: 5 Paid Sick Days
+                  - listitem [ref=f6e94]: $20/pay cheque for the first two pays of the month for your mobile phone/internet
+                  - listitem [ref=f6e95]: Fully remote environment
+                  - listitem [ref=f6e96]: Amazing company culture
+                  - listitem [ref=f6e97]: And more..
+                - paragraph [ref=f6e98]
+                - paragraph [ref=f6e99]:
+                  - emphasis [ref=f6e101]: "EEO Statement:"
+                - paragraph [ref=f6e102]:
+                  - emphasis [ref=f6e104]: We believe strongly in the value of diversity and creating supportive, inclusive environments where our colleagues can succeed. As such, eXp is proud to be an Equal Opportunity Employer. We do not discriminate on the basis of race, color, ancestry, national origin, religion, or religious creed, mental or physical disability, medical condition, genetic information, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender identity, gender expression, age, marital status, military or veteran status, citizenship, or other protected characteristics under federal, state or local law.
+                - paragraph [ref=f6e105]
+            - button "Apply now" [ref=f6e108] [cursor=pointer]
+          - generic [ref=f6e111]:
+            - generic [ref=f6e112]:
+              - generic [ref=f6e113]:
+                - generic [ref=f6e114]: 
+                - paragraph [ref=f6e115]: Technology
+              - generic [ref=f6e116]:
+                - generic [ref=f6e117]: 
+                - paragraph [ref=f6e118]: Canada
+            - generic [ref=f6e119]:
+              - generic [ref=f6e120]:
+                - paragraph [ref=f6e121]: "Share on:"
+                - generic [ref=f6e122]:
+                  - button "Share on LinkedIn" [ref=f6e123] [cursor=pointer]: 
+                  - button "Share on Facebook" [ref=f6e124] [cursor=pointer]: 
+                  - button "Share on Twitter/X" [ref=f6e125] [cursor=pointer]: 
+              - button "Apply now" [ref=f6e128] [cursor=pointer]
+    - generic [ref=f6e132]:
+      - generic [ref=f6e133]:
+        - link "Terms of service" [ref=f6e134] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/user
+        - link "Privacy" [ref=f6e135] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/privacy
+        - link "Cookies" [ref=f6e136] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/cookie-notice
+        - link "Powered by Rippling" [ref=f6e137] [cursor=pointer]:
+          - /url: https://www.rippling.com/recruiting
+      - generic [ref=f6e141] [cursor=pointer]:
+        - combobox "Search" [ref=f6e145]: United Kingdom (English)
+        - generic [ref=f6e146]: 
+  - alert [ref=f6e148]
