@@ -1,0 +1,48 @@
+- generic [ref=f48e2]:
+  - link "Skip to content" [ref=f48e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f48e5]:
+    - generic [ref=f48e10]:
+      - link "Homepage" [ref=f48e12] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f48e13]: Apideck
+      - generic:
+        - navigation:
+          - list
+    - main [ref=f48e15]:
+      - article [ref=f48e24]:
+        - heading "Apply now to join our team 🚀" [level=1] [ref=f48e27]
+      - generic [ref=f48e36]:
+        - heading "Open positions" [level=2] [ref=f48e46]
+        - status [ref=f48e55]:
+          - generic [ref=f48e56]:
+            - generic [ref=f48e59]:
+              - generic [ref=f48e60]:
+                - link "Customer Success Manager" [ref=f48e61] [cursor=pointer]:
+                  - /url: /o/customer-success
+                - generic [ref=f48e62]:
+                  - generic [ref=f48e63]: Remote, Hybrid
+                  - list [ref=f48e69]:
+                    - listitem [ref=f48e70]:
+                      - text: Antwerp
+                      - generic [ref=f48e71]: ","
+                      - text: Antwerpen
+                      - generic [ref=f48e72]: ","
+                      - text: Belgium
+              - link "View job" [ref=f48e74] [cursor=pointer]:
+                - /url: /o/customer-success
+            - generic [ref=f48e77]:
+              - generic [ref=f48e78]:
+                - link "Solutions Engineer" [ref=f48e79] [cursor=pointer]:
+                  - /url: /o/solutions-engineer
+                - generic [ref=f48e80]:
+                  - generic [ref=f48e81]: Remote
+                  - list [ref=f48e87]:
+                    - listitem [ref=f48e88]:
+                      - text: Antwerp
+                      - generic [ref=f48e89]: ","
+                      - text: Antwerpen
+                      - generic [ref=f48e90]: ","
+                      - text: Belgium
+              - link "View job" [ref=f48e92] [cursor=pointer]:
+                - /url: /o/solutions-engineer

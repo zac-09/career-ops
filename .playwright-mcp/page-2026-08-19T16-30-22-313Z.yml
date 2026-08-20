@@ -1,0 +1,283 @@
+- generic [ref=f27e2]:
+  - link "Skip to content" [ref=f27e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f27e5]:
+    - generic [ref=f27e10]:
+      - link "Hostaway logo Homepage" [ref=f27e12] [cursor=pointer]:
+        - /url: /
+        - img "Hostaway logo" [ref=f27e13]
+        - generic [ref=f27e14]: Homepage
+      - generic:
+        - navigation:
+          - list
+    - main [ref=f27e15]:
+      - generic [ref=f27e25]:
+        - heading "Senior Backend Engineer, Integrations - 100% Remote - EMEA" [level=1] [ref=f27e26]
+        - list [ref=f27e27]:
+          - listitem [ref=f27e28]: Remote
+          - listitem [ref=f27e30]:
+            - generic [ref=f27e32]:
+              - list [ref=f27e33]:
+                - listitem [ref=f27e34]:
+                  - text: Vienna
+                  - generic [ref=f27e35]: ","
+                  - text: Wien
+                  - generic [ref=f27e36]: ","
+                  - text: Austria
+              - generic [ref=f27e37]:
+                - generic [ref=f27e38]: •
+                - generic [ref=f27e39]: +18 more
+          - listitem [ref=f27e41]: Engineering
+      - generic [ref=f27e51]:
+        - tablist [ref=f27e54]:
+          - tab "Job details" [selected] [ref=f27e55] [cursor=pointer]
+          - tab "Apply" [ref=f27e56] [cursor=pointer]
+        - tabpanel "Job details" [ref=f27e58]:
+          - generic [ref=f27e60]:
+            - generic [ref=f27e61]:
+              - generic [ref=f27e63]:
+                - heading "Job description" [level=2] [ref=f27e64]
+                - generic [ref=f27e66]:
+                  - paragraph [ref=f27e67]:
+                    - strong [ref=f27e68]:
+                      - text: "NOTE: This is a FULLY remote role, but the candidate must be within EMEA to collaborate with their team, peers, and internal customers. You do not have to be in the specific country or city shown in this listing, but"
+                      - generic [ref=f27e69]: please only apply if you are physically based within EMEA.
+                  - paragraph [ref=f27e70]
+                  - paragraph [ref=f27e71]: Trusted by 20,000+ property managers worldwide, Hostaway is an industry leading, AI-powered vacation rental management platform designed for professional short-term rental operators. Hostaway brings everything together for greater efficiency and faster growth.
+                  - paragraph [ref=f27e72]:
+                    - text: Profitable, high-growth, and the first short-term rental property management software unicorn 🦄. Join us at our most exciting stage yet! Learn more about our recent valuation and story
+                    - link "here" [ref=f27e74] [cursor=pointer]:
+                      - /url: https://www.hostaway.com/blog/short-term-rental-software-unicorn/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+                    - text: .
+                  - paragraph [ref=f27e75]
+                  - heading [level=3] [ref=f27e76]:
+                    - strong [ref=f27e77]: About the role
+                  - paragraph [ref=f27e78]:
+                    - text: Hostaway is seeking a highly motivated
+                    - strong [ref=f27e79]: Senior Backend Engineer
+                    - text: to join the Core team. This team is responsible for the integrations with our key partners (Online Travel Agencies). These integrations are critical to our customers’ daily workflows, powering seamless connectivity between their properties and major booking platforms. If you’ve worked on similar tools that handle huge volumes and interact with a variety of complex APIs, you’ll be a great fit!
+                  - paragraph [ref=f27e80]
+                  - heading [level=3] [ref=f27e81]:
+                    - strong [ref=f27e82]: What you'll do
+                  - list [ref=f27e83]:
+                    - listitem [ref=f27e84]:
+                      - paragraph [ref=f27e85]:
+                        - text: • Design, build, and operate backend services in
+                        - strong [ref=f27e86]: PHP and Go.
+                    - listitem [ref=f27e87]:
+                      - paragraph [ref=f27e88]:
+                        - text: • Drive the
+                        - strong [ref=f27e89]: extraction of services out of our monolith
+                        - text: ", defining clean boundaries, ownership, and migration paths."
+                    - listitem [ref=f27e90]:
+                      - paragraph [ref=f27e91]:
+                        - text: • Collaborate closely with the
+                        - strong [ref=f27e92]: Product Manager
+                        - text: to shape the technical direction and ensure our backend services deliver maximum value.
+                    - listitem [ref=f27e93]:
+                      - paragraph [ref=f27e94]:
+                        - text: • Design and ship
+                        - strong [ref=f27e95]: APIs built for agentic interfaces
+                        - text: — making our guest-facing domain consumable by AI agents and automated workflows.
+                    - listitem [ref=f27e96]:
+                      - paragraph [ref=f27e97]:
+                        - text: • Improve
+                        - strong [ref=f27e98]: page speed and end-to-end performance
+                        - text: ", working closely with frontend peers since conversion depends on it."
+                    - listitem [ref=f27e99]:
+                      - paragraph [ref=f27e100]: • Contribute to high-level architectural decisions and help us move quickly without accumulating regret.
+                    - listitem [ref=f27e101]:
+                      - paragraph [ref=f27e102]:
+                        - text: •
+                        - strong [ref=f27e103]: Leverage AI to accelerate code delivery
+                        - text: — we provide a Claude Team Premium subscription and expect engineers to use it well.
+                - heading "Job requirements" [level=2] [ref=f27e104]
+                - generic [ref=f27e106]:
+                  - list [ref=f27e107]:
+                    - listitem [ref=f27e108]:
+                      - paragraph [ref=f27e109]: • 6+ years of experience as a Backend Engineer, with a strong foundation in software engineering,
+                    - listitem [ref=f27e110]:
+                      - paragraph [ref=f27e111]:
+                        - text: • Strong-level proficiency in
+                        - strong [ref=f27e112]: PHP
+                        - text: and/or
+                        - strong [ref=f27e113]: Golang
+                        - text: ", with a strong willingness to dive into both."
+                    - listitem [ref=f27e114]:
+                      - paragraph [ref=f27e115]:
+                        - text: • Proven experience designing and operating
+                        - strong [ref=f27e116]: high-traffic, customer-facing systems.
+                    - listitem [ref=f27e117]:
+                      - paragraph [ref=f27e118]:
+                        - text: • Experience
+                        - strong [ref=f27e119]: decomposing monoliths
+                        - text: or extracting services, with a pragmatic view on when to do it (and when not to).
+                    - listitem [ref=f27e120]:
+                      - paragraph [ref=f27e121]:
+                        - text: • Solid experience
+                        - strong [ref=f27e122]: designing APIs
+                        - text: — REST, GraphQL, or similar — with an eye on clarity, versioning, and consumability (bonus if you've built APIs for AI agents or LLM-driven clients).
+                    - listitem [ref=f27e123]:
+                      - paragraph [ref=f27e124]: • Familiarity with transitioning event-driven service-oriented architectures by applying Domain Driven Design (DDD) principles
+                    - listitem [ref=f27e125]:
+                      - paragraph [ref=f27e126]:
+                        - text: • Comfortable
+                        - strong [ref=f27e127]: using AI coding tools
+                        - text: (Claude Code, Cursor, Copilot, etc.) as part of your daily workflow, and able to get real leverage out of them.
+                    - listitem [ref=f27e128]:
+                      - paragraph [ref=f27e129]: • Experience working in a Cloud environment (AWS is a plus).
+                    - listitem [ref=f27e130]:
+                      - paragraph [ref=f27e131]: • Experience with message queues (e.g., AWS SQS) is a plus.
+                  - paragraph [ref=f27e132]
+                  - heading [level=3] [ref=f27e133]:
+                    - strong [ref=f27e134]: What success looks like
+                  - list [ref=f27e135]:
+                    - listitem [ref=f27e136]:
+                      - paragraph [ref=f27e137]:
+                        - text: • Services are
+                        - strong [ref=f27e138]: progressively extracted from the monolith
+                        - text: with clear ownership and minimal disruption to delivery.
+                    - listitem [ref=f27e139]:
+                      - paragraph [ref=f27e140]:
+                        - text: •
+                        - strong [ref=f27e141]: Performance
+                        - text: (page speed, latency, uptime) becomes a measurable strength of the products.
+                    - listitem [ref=f27e142]:
+                      - paragraph [ref=f27e143]:
+                        - text: • Our domain is
+                        - strong [ref=f27e144]: accessible through clean, well-designed APIs
+                        - text: that agentic clients can consume reliably.
+                    - listitem [ref=f27e145]:
+                      - paragraph [ref=f27e146]:
+                        - text: • The team
+                        - strong [ref=f27e147]: gets real productivity gains from AI-assisted development
+                        - text: ", without sacrificing code quality or ownership."
+                    - listitem [ref=f27e148]:
+                      - paragraph [ref=f27e149]:
+                        - text: • Cross-functional collaboration with
+                        - strong [ref=f27e150]: Product and Design
+                        - text: runs smoothly, with engineering contributing meaningfully to product direction.
+                  - paragraph [ref=f27e151]
+                  - heading [level=3] [ref=f27e152]:
+                    - strong [ref=f27e153]: What we offer
+                  - list [ref=f27e154]:
+                    - listitem [ref=f27e155]:
+                      - paragraph [ref=f27e156]:
+                        - text: •
+                        - strong [ref=f27e157]: "Competitive Compensation:"
+                        - text: We offer competitive pay based on market rates in the country of the applicant.
+                    - listitem [ref=f27e158]:
+                      - paragraph [ref=f27e159]:
+                        - text: •
+                        - strong [ref=f27e160]: "100% Remote:"
+                        - text: Enjoy the freedom to work from anywhere within your country of residence—be it a co-working space, your home office, or even your dining room table. The choice is yours. Just don’t ask to work in our office (we don’t have one).
+                    - listitem [ref=f27e161]:
+                      - paragraph [ref=f27e162]:
+                        - text: •
+                        - strong [ref=f27e163]: "Equity:"
+                        - text: Every role in our company comes with valuable stock options in a fast-growing and profitable company. This ensures we all share in the company’s success.
+                    - listitem [ref=f27e164]:
+                      - paragraph [ref=f27e165]:
+                        - text: •
+                        - strong [ref=f27e166]: "Values-Driven Leadership:"
+                        - text: Our Core Values are not just words we’ve written to make us feel good. We leverage them daily when making strategic and tactical decisions.
+                    - listitem [ref=f27e167]:
+                      - paragraph [ref=f27e168]:
+                        - text: •
+                        - strong [ref=f27e169]: "Professional Growth:"
+                        - text: Our rapid growth offers unparalleled learning and development opportunities, along with a multitude of career advancement opportunities.
+                    - listitem [ref=f27e170]:
+                      - paragraph [ref=f27e171]:
+                        - text: •
+                        - strong [ref=f27e172]: "Annual Paid Leave:"
+                        - text: The specific amounts vary by country and are aligned with country and/or contract-specific norms.
+                    - listitem [ref=f27e173]:
+                      - paragraph [ref=f27e174]:
+                        - text: •
+                        - strong [ref=f27e175]: "Geographic Specific Benefits:"
+                        - text: As an international employer, we offer different country-specific benefits such as Health Insurance and Pensions in countries where these perks are customary. The specifics depend on the country of the applicant.
+                    - listitem [ref=f27e176]:
+                      - paragraph [ref=f27e177]:
+                        - text: •
+                        - strong [ref=f27e178]: "Dynamic Team Culture:"
+                        - text: As a global company with team members in over 40 countries, our diverse and international culture fuels our innovation and creativity, providing a key pillar to our success (and making it a lot of fun to work here).
+                  - paragraph [ref=f27e179]
+                  - paragraph [ref=f27e180]: Thank you for your interest. If you apply for this role, you will receive an email from our Talent Acquisition team after your application has been reviewed alongside the qualifications for this role and the qualifications of others who have applied.
+                  - paragraph [ref=f27e181]
+              - generic [ref=f27e183]:
+                - button "Apply" [ref=f27e184] [cursor=pointer]
+                - generic [ref=f27e185]:
+                  - paragraph [ref=f27e186]: or
+                  - button "Apply with Indeed" [ref=f27e194] [cursor=pointer]
+                - button "Share job" [ref=f27e196] [cursor=pointer]
+            - generic [ref=f27e198]:
+              - generic [ref=f27e199]: Remote
+              - generic [ref=f27e203]:
+                - list [ref=f27e204]:
+                  - listitem [ref=f27e205]:
+                    - text: Vienna
+                    - generic [ref=f27e206]: ","
+                    - text: Wien
+                    - generic [ref=f27e207]: ","
+                    - text: Austria
+                - generic [ref=f27e208]:
+                  - generic [ref=f27e209]: •
+                  - generic [ref=f27e210]: +18 more
+              - generic [ref=f27e212]: Engineering
+      - list [ref=f27e228]:
+        - listitem [ref=f27e229]:
+          - paragraph [ref=f27e230]:
+            - link "Our website" [ref=f27e231] [cursor=pointer]:
+              - /url: https://www.hostaway.com/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+        - listitem [ref=f27e234]:
+          - paragraph [ref=f27e235]:
+            - link:
+              - /url: https://www.hostaway.com/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+            - link "Our two-minute overview" [ref=f27e236] [cursor=pointer]:
+              - /url: https://www.youtube.com/watch?v=shCoQeHH9WU
+        - listitem [ref=f27e239]:
+          - paragraph [ref=f27e240]:
+            - link "Our product video" [ref=f27e241] [cursor=pointer]:
+              - /url: https://www.youtube.com/watch?v=0hgdriSAKaY
+        - listitem [ref=f27e244]:
+          - paragraph [ref=f27e245]:
+            - link "Our blog" [ref=f27e246] [cursor=pointer]:
+              - /url: https://www.hostaway.com/blog/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+        - listitem [ref=f27e249]:
+          - paragraph [ref=f27e250]:
+            - link "Our customer case studies" [ref=f27e251] [cursor=pointer]:
+              - /url: https://www.hostaway.com/case-studies/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+        - listitem [ref=f27e254]:
+          - paragraph [ref=f27e255]:
+            - link "Our marketplace" [ref=f27e256] [cursor=pointer]:
+              - /url: https://www.hostaway.com/marketplace/
+        - listitem [ref=f27e259]:
+          - paragraph [ref=f27e260]:
+            - link "Our candidate privacy policy" [ref=f27e261] [cursor=pointer]:
+              - /url: /privacypolicy
+        - listitem [ref=f27e264]:
+          - paragraph [ref=f27e265]:
+            - link "Our advice on recruitment scams" [ref=f27e266] [cursor=pointer]:
+              - /url: /recruitment-security
+        - listitem [ref=f27e269]:
+          - paragraph [ref=f27e270]:
+            - link "Our guide to AI use in the interview process" [ref=f27e271] [cursor=pointer]:
+              - /url: /recruitment-security-qg4p4
+      - heading "You can learn more about our team and culture by visiting our profile on Glassdoor" [level=3] [ref=f27e293]:
+        - generic [ref=f27e294]: You can learn more about our team and culture by visiting our profile on
+        - link "Glassdoor" [ref=f27e296] [cursor=pointer]:
+          - /url: https://www.glassdoor.com/Overview/Working-at-Hostaway-EI_IE1358830.11,19.htm
+    - generic [ref=f27e311]:
+      - link "Hostaway logo Homepage" [ref=f27e315] [cursor=pointer]:
+        - /url: /
+        - img "Hostaway logo" [ref=f27e316]
+        - generic [ref=f27e317]: Homepage
+      - generic [ref=f27e320]:
+        - link "linkedin" [ref=f27e321] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/hostaway/
+        - link "facebook" [ref=f27e322] [cursor=pointer]:
+          - /url: https://www.facebook.com/Hostawaycom
+        - link "instagram" [ref=f27e323] [cursor=pointer]:
+          - /url: https://www.instagram.com/hostawaycom/
+        - link "youtube" [ref=f27e324] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UC9QeuvQX1EurqelmrXkgaGw

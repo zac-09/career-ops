@@ -1,0 +1,182 @@
+- generic [ref=f42e2]:
+  - list [ref=f42e4]:
+    - listitem [ref=f42e5]:
+      - link [ref=f42e6] [cursor=pointer]:
+        - /url: https://supabase.com/
+        - img "Supabase" [ref=f42e7]
+    - listitem [ref=f42e8]:
+      - link "Back to Supabase’s Job Listings" [ref=f42e9] [cursor=pointer]:
+        - /url: /supabase
+    - listitem
+  - generic [ref=f42e12]:
+    - heading "SDK Engineer - JavaScript" [level=1] [ref=f42e14]
+    - generic [ref=f42e15]:
+      - generic [ref=f42e16]:
+        - generic [ref=f42e17]:
+          - heading "Location" [level=2] [ref=f42e18]
+          - paragraph [ref=f42e19]: Remote
+        - generic [ref=f42e20]:
+          - heading "Employment Type" [level=2] [ref=f42e21]
+          - paragraph [ref=f42e22]: Full time
+        - generic [ref=f42e23]:
+          - heading "Department" [level=2] [ref=f42e24]
+          - paragraph [ref=f42e25]: Engineering
+      - generic [ref=f42e26]:
+        - tablist [ref=f42e27]:
+          - tab "Overview" [selected] [ref=f42e28] [cursor=pointer]
+          - tab "Application" [ref=f42e29] [cursor=pointer]
+        - tabpanel "Overview" [ref=f42e31]:
+          - generic [ref=f42e32]:
+            - heading [level=2] [ref=f42e33]:
+              - strong [ref=f42e34]: About Supabase
+            - paragraph [ref=f42e35]: Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.
+            - paragraph [ref=f42e36]
+            - heading [level=2] [ref=f42e37]:
+              - strong [ref=f42e38]: About the Role
+            - paragraph [ref=f42e39]:
+              - text: We're looking for a
+              - strong [ref=f42e40]: SDK Engineer - JavaScript
+              - text: to join the SDK team and own a core part of how developers talk to Supabase from JavaScript and TypeScript.
+            - paragraph [ref=f42e41]: "Our JS/TS SDKs are the front door to the platform: database queries, auth, storage, realtime subscriptions and edge functions, used by a very large number of developers and by most of the AI coding tools building on Supabase today."
+            - paragraph [ref=f42e42]: "This is a library-authoring role, and the work happens in the open: public repos, public issue trackers, and API decisions whose consequences are permanent. The type system here is a design surface rather than a formality. If you get satisfaction from an inference that Just Works, from a migration guide that saves people an afternoon, and from an issue tracker that isn't a graveyard, you'll like it here."
+            - paragraph [ref=f42e43]: This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions.
+            - paragraph [ref=f42e44]
+            - heading "What You'll Be Responsible For" [level=2] [ref=f42e45]
+            - list [ref=f42e46]:
+              - listitem [ref=f42e47]:
+                - paragraph [ref=f42e48]:
+                  - strong [ref=f42e49]: Build and evolve our JavaScript/TypeScript SDKs.
+              - listitem [ref=f42e50]:
+                - paragraph [ref=f42e51]:
+                  - strong [ref=f42e52]: Start new things.
+                  - text: Alongside the maintenance work, you're expected to find what's missing, make the case for it, and build it. Some of what we ship next doesn't exist yet, and nobody will hand you the list.
+              - listitem [ref=f42e53]:
+                - paragraph [ref=f42e54]:
+                  - strong [ref=f42e55]: Work in the open.
+                  - text: "These are public repos: you'll triage inbound issues, review and shepherd outside contributions, keep CI and release automation healthy, and hold a clear, kind line on scope."
+              - listitem [ref=f42e56]:
+                - paragraph [ref=f42e57]:
+                  - strong [ref=f42e58]: Own the type experience.
+                  - text: Keep generated database types flowing correctly through the client APIs so autocomplete and inference stay correct in real codebases.
+              - listitem [ref=f42e59]:
+                - paragraph [ref=f42e60]:
+                  - strong [ref=f42e61]: Keep us honest across runtimes.
+                  - text: Node, Deno, Bun, browsers, Cloudflare Workers, React Native/Expo, including dual ESM/CJS publishing and types that resolve correctly under every module resolution mode. Test it, don't assume it.
+              - listitem [ref=f42e62]:
+                - paragraph [ref=f42e63]:
+                  - strong [ref=f42e64]: Work on realtime.
+                  - text: Long-lived WebSocket connections, reconnection, and subscription and presence semantics.
+              - listitem [ref=f42e65]:
+                - paragraph [ref=f42e66]:
+                  - strong [ref=f42e67]: Track the platform.
+                  - text: When auth, realtime, storage, postgrest or edge-runtime ship a change, make sure the SDKs reflect it, and that we say so in the changelog.
+              - listitem [ref=f42e68]:
+                - paragraph [ref=f42e69]:
+                  - strong [ref=f42e70]: Design in public.
+                  - text: Write the RFCs, migration guides, release notes and docs. Treat a breaking change as a deprecation path plus a migration story, not a version bump.
+              - listitem [ref=f42e71]:
+                - paragraph [ref=f42e72]:
+                  - strong [ref=f42e73]: Make our SDKs legible to AI coding agents
+                  - text: ", which are now a major consumer of them."
+            - paragraph [ref=f42e74]
+            - heading "You Might Be a Good Fit If You" [level=2] [ref=f42e75]
+            - list [ref=f42e76]:
+              - listitem [ref=f42e77]:
+                - paragraph [ref=f42e78]:
+                  - strong [ref=f42e79]: Expert-level TypeScript.
+                  - text: You use generics, conditional and mapped types as design tools, you can explain why an inference breaks.
+              - listitem [ref=f42e80]:
+                - paragraph [ref=f42e81]:
+                  - strong [ref=f42e82]: You've authored or maintained a published library
+                  - text: with a public API and consumers outside your own company. You know what it costs to change something people depend on.
+              - listitem [ref=f42e83]:
+                - paragraph [ref=f42e84]:
+                  - strong [ref=f42e85]: You've worked on open-source projects and know the maintainer side of them.
+                  - text: Issue triage at volume, reviewing outside PRs, release automation, changelogs and semver, security reports, and saying no to a feature request without losing the person who asked.
+              - listitem [ref=f42e86]:
+                - paragraph [ref=f42e87]:
+                  - strong [ref=f42e88]: "npm packaging fluency:"
+                  - text: dual ESM/CJS builds, export maps, type resolution, semver discipline, and the failure modes consumers actually hit.
+              - listitem [ref=f42e89]:
+                - paragraph [ref=f42e90]:
+                  - strong [ref=f42e91]: "Testing as a habit:"
+                  - text: unit, type-level and end-to-end against a real stack. Every fix comes with a regression test.
+              - listitem [ref=f42e92]:
+                - paragraph [ref=f42e93]:
+                  - strong [ref=f42e94]: Strong written communication.
+                  - text: Design docs, changelogs and issue replies are a large part of the output here, much of it public, and we're async by default.
+              - listitem [ref=f42e95]:
+                - paragraph [ref=f42e96]:
+                  - strong [ref=f42e97]: "Real autonomy:"
+                  - text: you find the important work, scope it, ship it, and say what you didn't do.
+              - listitem [ref=f42e98]:
+                - paragraph [ref=f42e99]: Communicate clearly across both technical and non-technical audiences.
+              - listitem [ref=f42e100]:
+                - paragraph [ref=f42e101]: Have experience in async or globally distributed teams.
+              - listitem [ref=f42e102]:
+                - paragraph [ref=f42e103]: Are energized by solving real-world problems for developers.
+              - listitem [ref=f42e104]:
+                - paragraph [ref=f42e105]: Are comfortable navigating ambiguity and moving quickly.
+            - paragraph [ref=f42e106]
+            - heading [level=3] [ref=f42e107]:
+              - strong [ref=f42e108]: What We Offer
+            - list [ref=f42e109]:
+              - listitem [ref=f42e110]:
+                - paragraph [ref=f42e111]:
+                  - strong [ref=f42e112]: Fully Remote
+                - paragraph [ref=f42e113]: We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.
+              - listitem [ref=f42e114]:
+                - paragraph [ref=f42e115]:
+                  - strong [ref=f42e116]: ESOP
+                - paragraph [ref=f42e117]: Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together.
+              - listitem [ref=f42e118]:
+                - paragraph [ref=f42e119]:
+                  - strong [ref=f42e120]: Tech Allowance
+                - paragraph [ref=f42e121]: Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work.
+              - listitem [ref=f42e122]:
+                - paragraph [ref=f42e123]:
+                  - strong [ref=f42e124]: Health Benefits
+                - paragraph [ref=f42e125]: Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us.
+              - listitem [ref=f42e126]:
+                - paragraph [ref=f42e127]:
+                  - strong [ref=f42e128]: Annual Off-Sites
+                - paragraph [ref=f42e129]: Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year.
+              - listitem [ref=f42e130]:
+                - paragraph [ref=f42e131]:
+                  - strong [ref=f42e132]: Flexible Work
+                - paragraph [ref=f42e133]: We operate asynchronously and trust you to manage your own time. You know what needs to be done and when.
+              - listitem [ref=f42e134]:
+                - paragraph [ref=f42e135]:
+                  - strong [ref=f42e136]: Professional Development
+                - paragraph [ref=f42e137]: Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth.
+                - paragraph [ref=f42e138]
+            - heading [level=3] [ref=f42e139]:
+              - strong [ref=f42e140]: About the Team
+            - paragraph [ref=f42e141]: Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love.
+            - list [ref=f42e142]:
+              - listitem [ref=f42e143]:
+                - paragraph [ref=f42e144]: ~400 team members
+              - listitem [ref=f42e145]:
+                - paragraph [ref=f42e146]: 60+ countries
+              - listitem [ref=f42e147]:
+                - paragraph [ref=f42e148]: 20+ languages spoken
+              - listitem [ref=f42e149]:
+                - paragraph [ref=f42e150]: Over $1B raised (including our $500M Series F)
+              - listitem [ref=f42e151]:
+                - paragraph [ref=f42e152]: 540,000+ community members
+            - paragraph [ref=f42e153]: We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.
+          - link [ref=f42e154] [cursor=pointer]:
+            - /url: /supabase/f44742fb-18c6-478f-bf78-63707ed57db7/application
+            - button "Apply for this Job" [ref=f42e155]
+  - contentinfo [ref=f42e156]:
+    - link "Learn more about Ashby" [ref=f42e157] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f42e158]: Powered by
+      - img "Ashby" [ref=f42e159]
+    - paragraph [ref=f42e165]:
+      - link "Privacy Policy" [ref=f42e166] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f42e167] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f42e168] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

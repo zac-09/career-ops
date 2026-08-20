@@ -1,0 +1,171 @@
+- generic [active] [ref=f21e1]:
+  - main [ref=f21e2]:
+    - generic [ref=f21e3]:
+      - img "Moniepoint Logo" [ref=f21e5]
+      - generic [ref=f21e6]:
+        - link "Back to jobs" [ref=f21e7] [cursor=pointer]:
+          - /url: https://job-boards.eu.greenhouse.io/moniepoint
+        - generic [ref=f21e11]:
+          - generic [ref=f21e12]:
+            - heading "Senior Fullstack Engineer" [level=1] [ref=f21e13]
+            - generic [ref=f21e14]: Remote
+          - button "Apply" [ref=f21e18] [cursor=pointer]
+        - generic [ref=f21e20]:
+          - paragraph [ref=f21e21]:
+            - strong [ref=f21e22]: Who we are
+          - paragraph [ref=f21e23]: Moniepoint Inc. is Africa’s all-in-one financial ecosystem, helping 10 million businesses and individuals access seamless payments, banking, credit, and business management tools since 2019.As Nigeria’s largest merchant acquirer, Moniepoint Inc. powers most of the country’s point-of-sale (POS) transactions. Through its subsidiaries, Moniepoint Inc. processes $22 billion monthly for its customers while operating profitably.
+          - paragraph [ref=f21e24]:
+            - strong [ref=f21e25]: About the role
+          - paragraph [ref=f21e26]: We’re looking for a Full-Stack Engineer to join the Moniepoint team. The ideal candidate has strong experience with Node.js and TypeScript, and is proficient in at least one object-oriented programming language (e.g., Java, C#, etc.). You’ll be building scalable backend services and intuitive frontend interfaces that power financial services used by millions. This role requires a problem-solver with a builder mindset and the ability to work across the stack to deliver high-impact features.
+          - paragraph [ref=f21e27]: "Location: Remote (Full-time)"
+          - paragraph [ref=f21e28]:
+            - strong [ref=f21e29]: What you’ll get to do
+          - list [ref=f21e30]:
+            - listitem [ref=f21e31]: Work with developers to design algorithms and flowcharts
+            - listitem [ref=f21e32]: Produce clean, efficient code based on specifications
+            - listitem [ref=f21e33]: Integrate software components and third-party programs
+            - listitem [ref=f21e34]: Verify and deploy programs and systems
+            - listitem [ref=f21e35]: Troubleshoot, debug and upgrade existing software
+            - listitem [ref=f21e36]: Gather and evaluate user feedback
+            - listitem [ref=f21e37]: Recommend and execute improvements
+            - listitem [ref=f21e38]: Create technical documentation for reference and reporting
+          - paragraph [ref=f21e39]:
+            - strong [ref=f21e40]: To succeed in this role, we think you should have
+          - list [ref=f21e41]:
+            - listitem [ref=f21e42]: 7-10 years of experience as a Software Developer, Software Engineer or similar role
+            - listitem [ref=f21e43]: 5+ years of MERN stack experience
+            - listitem [ref=f21e44]: 2+ years of OOP language like Java, C# etc.
+            - listitem [ref=f21e45]: Familiarity with Agile development methodologies
+            - listitem [ref=f21e46]: Experience with software design and development in a test-driven environment
+            - listitem [ref=f21e47]: Knowledge of coding languages (e.g. Javascript, Typescript) and frameworks/systems (e.g. ReactJS, Node.js, ExpressJs, Git)
+            - listitem [ref=f21e48]: Experience with databases (MySQL, Mongo) and Object-Relational Mapping (ORM) frameworks
+            - listitem [ref=f21e49]: Ability to learn new languages and technologies
+            - listitem [ref=f21e50]: Excellent communication skills
+            - listitem [ref=f21e51]: Resourcefulness and troubleshooting aptitude
+            - listitem [ref=f21e52]: BSc/BA in Computer Science, Engineering or a related field
+          - paragraph [ref=f21e53]:
+            - strong [ref=f21e54]: Some of the technologies you’ll get to work with
+          - list [ref=f21e55]:
+            - listitem [ref=f21e56]: Javascript & Typescript
+            - listitem [ref=f21e57]: ReactJS and NodeJS
+            - listitem [ref=f21e58]: Docker and Kubernetes
+            - listitem [ref=f21e59]: MySQL, MSSQL, Redis
+            - listitem [ref=f21e60]: Microservices architecture on AWS
+          - paragraph [ref=f21e61]:
+            - strong [ref=f21e62]: What we can offer you
+          - list [ref=f21e63]:
+            - listitem [ref=f21e64]: Culture -We put our people first and prioritize the well-being of every team member. We’ve built a company where all opinions carry weight and where all voices are heard. We value and respect each other and always look out for one another. Above all, we are human.
+            - listitem [ref=f21e65]: Learning - We have a learning and development-focused environment with an emphasis on knowledge sharing, training, and regular internal technical talks.
+            - listitem [ref=f21e66]: Compensation - You’ll receive an attractive salary, pension, health insurance, annual bonus, plus other benefits.
+      - separator [ref=f21e67]
+      - generic [ref=f21e68]:
+        - generic [ref=f21e69]:
+          - generic [ref=f21e70]:
+            - heading "Apply for this job" [level=2] [ref=f21e72]
+            - generic [ref=f21e73]:
+              - paragraph [ref=f21e75]: "*"
+              - paragraph [ref=f21e76]: indicates a required field
+          - button "Autofill my application" [ref=f21e79] [cursor=pointer]
+        - generic [ref=f21e80]:
+          - generic [ref=f21e81]:
+            - generic [ref=f21e84]:
+              - generic [ref=f21e85]: First Name*
+              - textbox "First Name" [ref=f21e86]
+            - generic [ref=f21e89]:
+              - generic [ref=f21e90]: Last Name*
+              - textbox "Last Name" [ref=f21e91]
+            - generic [ref=f21e94]:
+              - generic [ref=f21e95]: Email*
+              - textbox "Email" [ref=f21e96]
+            - group "Phone" [ref=f21e98]:
+              - generic [ref=f21e102]:
+                - generic [ref=f21e103]: Country*
+                - generic [ref=f21e104]:
+                  - log [ref=f21e106]
+                  - generic [ref=f21e108]:
+                    - combobox "Country" [ref=f21e111]
+                    - button "Toggle flyout" [ref=f21e113] [cursor=pointer]
+                  - textbox
+              - generic [ref=f21e118]:
+                - generic [ref=f21e119]: Phone*
+                - textbox "Phone" [ref=f21e120]
+            - group "Resume/CV*" [ref=f21e122]:
+              - generic [ref=f21e125]:
+                - generic [ref=f21e127]:
+                  - button "Attach" [ref=f21e128] [cursor=pointer]
+                  - generic [ref=f21e129]: Attach
+                  - button "Attach" [ref=f21e130]
+                - button "Dropbox" [ref=f21e132] [cursor=pointer]
+                - button "Google Drive" [ref=f21e134] [cursor=pointer]
+                - generic [ref=f21e136]:
+                  - button "Enter manually" [ref=f21e137] [cursor=pointer]
+                  - generic [ref=f21e138]: Enter manually
+                - paragraph [ref=f21e139]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=f21e141]:
+              - generic [ref=f21e144]:
+                - generic [ref=f21e146]:
+                  - button "Attach" [ref=f21e147] [cursor=pointer]
+                  - generic [ref=f21e148]: Attach
+                  - button "Attach" [ref=f21e149]
+                - button "Dropbox" [ref=f21e151] [cursor=pointer]
+                - button "Google Drive" [ref=f21e153] [cursor=pointer]
+                - generic [ref=f21e155]:
+                  - button "Enter manually" [ref=f21e156] [cursor=pointer]
+                  - generic [ref=f21e157]: Enter manually
+                - paragraph [ref=f21e158]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=f21e159]:
+            - separator [ref=f21e160]
+            - generic [ref=f21e163]:
+              - generic [ref=f21e164]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=f21e165]
+            - generic [ref=f21e168]:
+              - generic [ref=f21e169]: Website
+              - textbox "Website" [ref=f21e170]
+            - generic [ref=f21e171]:
+              - generic [ref=f21e173]:
+                - generic [ref=f21e174]: NDPA Consent*
+                - generic [ref=f21e175]:
+                  - log [ref=f21e177]
+                  - generic [ref=f21e179]:
+                    - generic [ref=f21e180]:
+                      - generic [ref=f21e181]: Select...
+                      - combobox "NDPA Consent" [ref=f21e183]
+                    - button "Toggle flyout" [ref=f21e185] [cursor=pointer]
+                  - textbox
+              - paragraph [ref=f21e190]:
+                - text: Please select to give us consent to process your data for recruiting purposes. Your data will be stored for 365 days before being deleted and you have the right to request its deletion at any time, as outlined in our
+                - link "privacy policy" [ref=f21e191] [cursor=pointer]:
+                  - /url: https://moniepoint.com/ng/recruitment-privacy-policy
+                - text: .
+            - generic [ref=f21e194]:
+              - generic [ref=f21e195]: Have you previously been employed by Moniepoint?*
+              - generic [ref=f21e196]:
+                - log [ref=f21e198]
+                - generic [ref=f21e200]:
+                  - generic [ref=f21e201]:
+                    - generic [ref=f21e202]: Select...
+                    - combobox "Have you previously been employed by Moniepoint?" [ref=f21e204]
+                  - button "Toggle flyout" [ref=f21e206] [cursor=pointer]
+                - textbox
+          - separator [ref=f21e209]
+          - generic [ref=f21e210]:
+            - heading "Help Us Support Diversity at Moniepoint" [level=3] [ref=f21e211]
+            - paragraph [ref=f21e214]: At Moniepoint, we are committed to fostering a diverse and inclusive work environment. We do not discriminate based on gender identity, orientation, or other personal characteristics. To help us track and improve our recruitment efforts and ensure we are meeting our gender inclusion goals, we kindly ask you to answer the following demographic questions. Your responses are voluntary and will not impact your application in any way. Thank you for helping us build a more inclusive team
+            - generic [ref=f21e216]:
+              - generic [ref=f21e217]: What is your gender?*
+              - generic [ref=f21e218]:
+                - log [ref=f21e220]
+                - generic [ref=f21e222]:
+                  - generic [ref=f21e223]:
+                    - generic [ref=f21e224]: Select...
+                    - combobox "What is your gender?" [ref=f21e226]
+                  - button "Toggle flyout" [ref=f21e228] [cursor=pointer]
+                - textbox
+          - separator [ref=f21e231]
+          - button "Submit application" [ref=f21e233] [cursor=pointer]
+  - contentinfo [ref=f21e234]:
+    - generic [ref=f21e235]:
+      - paragraph [ref=f21e236]: Powered by
+      - link [ref=f21e237] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=f21e238]

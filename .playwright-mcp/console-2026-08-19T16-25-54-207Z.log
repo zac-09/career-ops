@@ -1,0 +1,2 @@
+[     864ms] [WARNING] <link rel=preload> has an invalid `href` value @ https://moniepoint.com/careers/roles/4001852101:6
+[   10884ms] [LOG] Download the Apollo DevTools for a better development experience: %s https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm @ https://moniepoint.com/_next/static/chunks/pages/_app-5b60dddd27e96157.js:0
