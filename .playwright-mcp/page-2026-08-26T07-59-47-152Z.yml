@@ -1,0 +1,10 @@
+- generic [active] [ref=f29e1]:
+  - generic [ref=f29e6]:
+    - heading "Sorry, we couldn't find anything here" [level=2] [ref=f29e7]
+    - paragraph [ref=f29e8]: The job posting you're looking for might have closed, or it has been removed. (404 error).
+  - generic [ref=f29e10]:
+    - paragraph [ref=f29e12]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+    - link "Jobs powered by Lever logo" [ref=f29e13] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=f29e14]: Jobs powered by
+      - img "Lever logo" [ref=f29e15]
