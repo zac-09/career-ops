@@ -1,0 +1,9 @@
+- generic [active] [ref=f23e1]:
+  - heading "404" [level=1] [ref=f23e2]
+  - heading "File Not Found" [level=2] [ref=f23e3]
+  - link "Back to the homepage" [ref=f23e4] [cursor=pointer]:
+    - /url: /
+  - paragraph [ref=f23e5]:
+    - text: For support please contact
+    - link "software@ycombinator.com" [ref=f23e6] [cursor=pointer]:
+      - /url: mailto:software@ycombinator.com
