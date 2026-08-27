@@ -1,0 +1,26 @@
+[    1524ms] [LOG] saf loaded @ https://cdn.prod.website-files.com/67e6b7885e182e1054b556db%2F689e5ba67671442434f3ca35%2F69cfcd131ff564bd6b3ffb18%2Fsafnav1-1.0.0.js:0
+[    2044ms] Uncaught TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.
+    at b (https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js:12:4741)
+    at mount (https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js:12:65690)
+    at init (https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js:12:65767)
+    at re (https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js:12:60626)
+    at <anonymous> (https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js:12:58965)
+    at re (https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js:12:58922)
+    at <anonymous> (https://www.callstack.com/careers:2390:2)
+[    2045ms] Uncaught TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.
+    at b (https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js:12:4741)
+    at mount (https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js:12:65690)
+    at init (https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js:12:65767)
+    at re (https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js:12:60626)
+    at <anonymous> (https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js:12:58965)
+    at re (https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js:12:58922)
+    at <anonymous> (https://www.callstack.com/careers:2449:0)
+[    5341ms] [ERROR] [Optibase] Error: Element with click conversion ID "" does not have a corresponding Click Conversion on the server. @ https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.25.2/raven.js:57
+[    5341ms] [ERROR] [Optibase] Error: Element with click conversion ID "" does not have a corresponding Click Conversion on the server. @ https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.25.2/raven.js:57
+[    5341ms] [ERROR] [Optibase] Error: Element with click conversion ID "" does not have a corresponding Click Conversion on the server. @ https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.25.2/raven.js:57
+[    5341ms] [ERROR] [Optibase] Error: Element with click conversion ID "" does not have a corresponding Click Conversion on the server. @ https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.25.2/raven.js:57
+[    5341ms] [ERROR] [Optibase] Error: Element with click conversion ID "insights_click" does not have a corresponding Click Conversion on the server. @ https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.25.2/raven.js:57
+[    5342ms] [ERROR] [Optibase] Error: Element with click conversion ID "" does not have a corresponding Click Conversion on the server. @ https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.25.2/raven.js:57
+[    5342ms] [ERROR] [Optibase] Error: Element with click conversion ID "" does not have a corresponding Click Conversion on the server. @ https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.25.2/raven.js:57
+[    5342ms] [ERROR] [Optibase] Error: Element with click conversion ID "" does not have a corresponding Click Conversion on the server. @ https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.25.2/raven.js:57
+[    5342ms] [ERROR] [Optibase] Error: Element with click conversion ID "" does not have a corresponding Click Conversion on the server. @ https://cdnjs.cloudflare.com/ajax/libs/raven.js/3.25.2/raven.js:57
