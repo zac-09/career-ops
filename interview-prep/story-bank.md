@@ -90,6 +90,7 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Parallel production traffic on two datastores throughout the migration with no data loss (cv.md, profile.yml proof point).
 **Reflection:** Idempotency is the whole game in message-driven sync — design for redelivery from day one.
 **Best for questions about:** real-time systems, message queues, data consistency, migration strategy, working under production pressure
+**Betting/high-throughput transactional framing (Report #205 — Sporty Group — Senior Backend Engineer):** For real-money/betting-scale roles, frame this as settlement-semantics evidence: redelivery-safe (at-least-once) message processing with conflict handling is the same correctness class as bet placement/settlement — "a duplicate message must never become a duplicate transaction." Pair with the JD's own vocabulary ("highly transactional systems") and note the design was proven under live parallel production traffic, not in a sandbox.
 
 ### [Distributed infrastructure] Kafka/Kubernetes microservices for FIDA Uganda
 **Source:** Report #167 — Supabase — Edge Functions Engineer

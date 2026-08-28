@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Isaac Mubiru — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    background: #ffffff;
+  }
+  .page { width: 100%; max-width: 210mm; margin: 0 auto; padding: 0; }
+
+  .header { margin-bottom: 16px; }
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 24px; font-weight: 700; color: #1a1a2e;
+    letter-spacing: -0.02em; margin-bottom: 4px;
+  }
+  .header-gradient {
+    height: 2px;
+    background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+    border-radius: 1px; margin-bottom: 8px;
+  }
+  .contact-row {
+    display: flex; flex-wrap: wrap; gap: 6px 16px;
+    font-family: 'DM Sans', sans-serif; font-size: 10px; color: #555;
+  }
+  .contact-row a { color: #555; text-decoration: none; }
+  .contact-row .separator { color: #ccc; }
+
+  .section { margin-bottom: 14px; }
+  .section-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13px; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.05em; color: hsl(187, 74%, 32%);
+    border-bottom: 1px solid #e5e5e5; padding-bottom: 3px; margin-bottom: 8px;
+  }
+  .summary-text { font-size: 11px; line-height: 1.6; color: #333; }
+  a { white-space: nowrap; }
+
+  .competencies-grid { display: flex; flex-wrap: wrap; gap: 6px; }
+  .competency-tag {
+    font-family: 'DM Sans', sans-serif; font-size: 10px; font-weight: 500;
+    color: hsl(187, 74%, 28%); background: hsl(187, 40%, 95%);
+    padding: 3px 10px; border-radius: 3px; border: 1px solid hsl(187, 40%, 88%);
+  }
+
+  .job { margin-bottom: 12px; }
+  .job-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 2px; }
+  .job-company { font-family: 'Space Grotesk', sans-serif; font-size: 12px; font-weight: 600; color: hsl(270, 70%, 45%); }
+  .job-period { font-size: 10px; color: #777; white-space: nowrap; }
+  .job-role { font-size: 11px; font-weight: 500; color: #444; margin-bottom: 4px; }
+  .job ul { padding-left: 16px; margin-top: 4px; }
+  .job li { font-size: 10.5px; line-height: 1.5; color: #333; margin-bottom: 2px; }
+  .job li strong { font-weight: 600; }
+  .job-stack { font-size: 9.5px; color: #888; margin-top: 3px; }
+
+  .project { margin-bottom: 10px; }
+  .project-title { font-family: 'Space Grotesk', sans-serif; font-size: 11px; font-weight: 600; color: hsl(270, 70%, 45%); }
+  .project-desc { font-size: 10.5px; color: #444; margin-top: 2px; }
+  .project-tech { font-size: 9.5px; color: #888; margin-top: 2px; }
+
+  .edu-item { margin-bottom: 6px; }
+  .edu-header { display: flex; justify-content: space-between; align-items: baseline; }
+  .edu-title { font-weight: 600; font-size: 11px; color: #333; }
+  .edu-org { color: hsl(270, 70%, 45%); font-weight: 500; }
+  .edu-year { font-size: 10px; color: #777; }
+
+  .skills-grid { display: flex; flex-wrap: wrap; gap: 4px 12px; }
+  .skill-item { font-size: 10.5px; color: #444; }
+  .skill-category { font-weight: 600; color: #333; font-size: 10.5px; }
+
+  @media print {
+    body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .page { padding: 0; }
+  }
+  .avoid-break { break-inside: avoid; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header">
+    <h1>Isaac Mubiru</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>isaacmubiru99@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://linkedin.com/in/isaac-mubiru-3bb728174">linkedin.com/in/isaac-mubiru-3bb728174</a>
+      <span class="separator">|</span>
+      <a href="https://github.com/zac-09">github.com/zac-09</a>
+      <span class="separator">|</span>
+      <span>Kampala, Uganda (UTC+3) — Remote</span>
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">
+      Senior Backend Engineer with 6+ years designing highly scalable, highly transactional distributed systems: microservices on Docker and Kubernetes, message queues (Apache Kafka, Google Pub/Sub, NATS), REST APIs, and SQL/MongoDB data layers on AWS and GCP. Led a zero-downtime migration of 20+ production applications, building an idempotent two-way MongoDB&#8596;Firestore sync pipeline that kept two datastores consistent under parallel live traffic. Polyglot engineer with strong object-oriented design across JavaScript/Node.js, Python, and Go — and a proven record of ramping onto unfamiliar stacks fast, going from contractor on a new platform to leading the company-wide migration and writing the SDK documentation other engineers onboarded from. Remote-first since 2020 across US, Singapore, and African teams.
+    </div>
+  </div>
+
+  <!-- CORE COMPETENCIES -->
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">Microservices Architecture</span>
+      <span class="competency-tag">Distributed Systems</span>
+      <span class="competency-tag">Highly Transactional Systems</span>
+      <span class="competency-tag">Docker &amp; Kubernetes</span>
+      <span class="competency-tag">Message Queues (Kafka · Pub/Sub · NATS)</span>
+      <span class="competency-tag">REST API Design</span>
+      <span class="competency-tag">SQL &amp; MongoDB</span>
+      <span class="competency-tag">AWS &amp; GCP Cloud</span>
+    </div>
+  </div>
+
+  <!-- WORK EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">MTailor</span>
+        <span class="job-period">Sep 2022 – Present</span>
+      </div>
+      <div class="job-role">Software Engineer — US Remote</div>
+      <ul>
+        <li><strong>Led the end-to-end migration of 20+ production applications</strong> from Parse/MongoDB to Firebase/GCP with zero downtime, reporting directly to the CTO.</li>
+        <li>Built an <strong>idempotent, real-time two-way sync between MongoDB and Firestore</strong> using Node.js and Google Pub/Sub, keeping both datastores consistent while each served live production traffic — redelivery-safe message processing with conflict handling.</li>
+        <li>Implemented Express Shipping end to end on a revenue-critical path, generating an additional $40 per order.</li>
+        <li>Built a 3D visualisation feature using video overlay and ffmpeg, increasing buyer conversion.</li>
+        <li>Consolidated infrastructure off AWS (S3/EC2/EBS) onto GCP, saving $5,000/month; migrated file storage from S3 to GCS via a Python script.</li>
+      </ul>
+      <div class="job-stack">Stack: Node.js, Firebase, GCP Pub/Sub, AWS S3/EC2/EBS, Python, ffmpeg, React, JavaScript</div>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">MTailor</span>
+        <span class="job-period">Mar 2022 – Jul 2022</span>
+      </div>
+      <div class="job-role">Contractor (Backend Migration) — US Remote</div>
+      <ul>
+        <li>Hired onto an unfamiliar stack (Firebase/GCP) and ramped fast: built the MongoDB&#8594;Firestore migration scripts with complex processing logic under contract scrutiny.</li>
+        <li>Wrote the Firebase SDK documentation (Node.js and Python) that fellow engineers onboarded from; trained the Ops team on dashboards and backup procedures — converted to full-time and given leadership of the entire migration.</li>
+      </ul>
+      <div class="job-stack">Stack: Node.js, Firebase, GCP, AWS, JavaScript</div>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Dr Wealth</span>
+        <span class="job-period">Aug 2021 – Jan 2022</span>
+      </div>
+      <div class="job-role">Software Engineer — Singapore Remote</div>
+      <ul>
+        <li>Led optimisation of a real-time stock-price PWA: built batched jobs querying <strong>2M+ Firestore records</strong>, optimising query shape and read patterns to keep customer-facing prices current from Morningstar APIs at low cost.</li>
+        <li>Extended backend REST APIs using Firebase Cloud Functions and Express.js.</li>
+      </ul>
+      <div class="job-stack">Stack: Node.js, Firebase, Express.js, React, JavaScript</div>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Mind2matter</span>
+        <span class="job-period">Jan 2022 – Jul 2022</span>
+      </div>
+      <div class="job-role">Software Engineer — US Remote</div>
+      <ul>
+        <li>Built backends for DeFi applications using Web3 and Node.js; delivered React UIs from Figma designs under tight agency timelines, reporting directly to the CTO.</li>
+      </ul>
+      <div class="job-stack">Stack: Node.js, Web3, Firebase, React, JavaScript</div>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">CodeBits</span>
+        <span class="job-period">Jan 2020 – Jul 2021</span>
+      </div>
+      <div class="job-role">Software Engineer (Team Lead) — Uganda Remote</div>
+      <ul>
+        <li><strong>Architected an event-driven microservices backend</strong> for FIDA Uganda's case management system using Apache Kafka, Docker, and Kubernetes — designed service boundaries, containerised deployment, and led a team of 4 developers through delivery and mentoring.</li>
+        <li>Built a USSD service for legal-aid providers communicating with a Node.js backend via gRPC, with a versioned provider-agnostic contract multiple third parties integrated against.</li>
+        <li>Built a case management system for FIDA Uganda and a paralegal database for LASPNET, plus a cross-platform React Native mobile app with Firebase push notifications.</li>
+      </ul>
+      <div class="job-stack">Stack: Node.js, Apache Kafka, Docker, Kubernetes, NATS Streaming, gRPC, Firebase, React Native, JavaScript</div>
+    </div>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section avoid-break">
+    <div class="section-title">Projects</div>
+
+    <div class="project">
+      <div class="project-title">Real-time Two-way Sync Pipeline (MTailor)</div>
+      <div class="project-desc">Message-driven MongoDB&#8596;Firestore synchronisation backbone supporting parallel production traffic on two datastores for months during a phased migration — idempotent processing designed for redelivery from day one, with zero data loss.</div>
+      <div class="project-tech">Node.js · Google Pub/Sub · MongoDB · Firestore</div>
+    </div>
+
+    <div class="project">
+      <div class="project-title">Kafka/Kubernetes Microservices Platform (FIDA Uganda)</div>
+      <div class="project-desc">Production event-driven microservices backend serving web, mobile, and USSD clients — event boundaries designed to avoid the distributed-monolith trap, deployed on Kubernetes with Docker.</div>
+      <div class="project-tech">Apache Kafka · Docker · Kubernetes · gRPC · Node.js</div>
+    </div>
+
+    <div class="project">
+      <div class="project-title">Marketplace Recommendation Engine</div>
+      <div class="project-desc">Collaborative + content-based filtering engine in MongoDB for service-provider matching, ranking matches by confidence over messy user-generated records in a live marketplace.</div>
+      <div class="project-tech">MongoDB · Node.js</div>
+    </div>
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <span class="edu-title">BSc Computer Engineering — <span class="edu-org">Makerere University</span>, Kampala</span>
+        <span class="edu-year">2018 – 2022</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="section avoid-break">
+    <div class="section-title">Skills</div>
+    <div class="skills-grid">
+      <span class="skill-item"><span class="skill-category">Proficient:</span> Node.js, JavaScript/TypeScript, SQL, MongoDB, Firebase, GCP, Python, Git, Linux</span>
+      <span class="skill-item"><span class="skill-category">Intermediate:</span> Go, AWS, Rust, React Native</span>
+      <span class="skill-item"><span class="skill-category">Infrastructure:</span> Docker, Kubernetes, Apache Kafka, Google Pub/Sub, NATS, gRPC</span>
+      <span class="skill-item"><span class="skill-category">Languages:</span> English, Kiswahili</span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,200 @@
+- generic [active] [ref=f147e1]:
+  - main [ref=f147e2]:
+    - generic [ref=f147e3]:
+      - link [ref=f147e5] [cursor=pointer]:
+        - /url: https://careers.sporty.com/
+        - img "Sporty Group Logo" [ref=f147e6]
+      - generic [ref=f147e7]:
+        - generic [ref=f147e9]:
+          - generic [ref=f147e10]:
+            - heading "Senior Backend Engineer" [level=1] [ref=f147e11]
+            - generic [ref=f147e12]: Global - Remote
+          - button "Apply" [ref=f147e16] [cursor=pointer]
+        - generic [ref=f147e18]:
+          - strong [ref=f147e20]: About the role
+          - paragraph [ref=f147e21]: In this role, you’ll be responsible for developing microservices in a distributed deployment environment with an emphasis on containerisation with Docker and K8S. You won’t just be writing simple CRUD applications, but instead will be working on the core logic of complex systems that are accessed millions of times a day. We wrote our system from scratch about 3 years ago, so you’ll be working with the latest technology and won’t have to worry about decades old legacy code.A willingness to work in Springboot is fine - as long as you are willing to learn and have demonstrable experience in an object-oriented programming language.
+          - strong [ref=f147e23]: Our Stack (we don't expect you to have all of these)
+          - list [ref=f147e24]:
+            - listitem [ref=f147e25]: "Language: Java 17Frameworks: Spring Boot (Tomcat, Netty), Spring Data, Spring Cloud"
+            - listitem [ref=f147e26]: "Architecture: Microservices, REST API, Message Queues"
+            - listitem [ref=f147e27]: "Database: MySQL, MyBatis, ShardingSphere, MongoDB"
+            - listitem [ref=f147e28]: "Caching: Redis (AWS ElastiCache), ElasticSearch"
+            - listitem [ref=f147e29]: "Message Queue: RocketMQCloud: Docker, Kubernetes, AWS"
+            - listitem [ref=f147e30]: "Monitoring: Grafana, Prometheus, Loki, Tempo, AWS CloudWatch"
+          - generic [ref=f147e31]:
+            - strong [ref=f147e32]: What you'll be doing
+            - list [ref=f147e33]:
+              - listitem [ref=f147e34]: Develop highly-scalable mobile internet backends for millions of users
+              - listitem [ref=f147e35]: Work with Product Owners and other development team members to determine new features and user stories needed in new / revised applications or large/complex development projects
+              - listitem [ref=f147e36]: Participate in code reviews with peers and managers to ensure that each increment adheres to original vision as described in the user story and all standard resource libraries and architecture patterns as appropriateRespond to support calls for applications in production for quick diagnosis and repair to keep things running smoothly for users
+              - listitem [ref=f147e37]: Participate in all team ceremonies including planning, grooming, product demonstration and team retrospectivesMentoring less experienced team members
+              - listitem [ref=f147e38]: Potential On-Call responsibilities depending on team and tenure
+            - strong [ref=f147e40]: What you'll bring
+            - list [ref=f147e41]:
+              - listitem [ref=f147e42]: Minimum of 6+ Years within a relevant rolePreferred experience in Spring Boot, Spring Cloud, Spring Data and iBATIS
+              - listitem [ref=f147e43]: Strong experience with highly-scalable web backends
+              - listitem [ref=f147e44]: Experience designing highly transactional systems
+              - listitem [ref=f147e45]: Advanced proficiency in Object Oriented Design (OOD) and analysis
+              - listitem [ref=f147e46]: Advanced proficiency in application of analysis / design engineering functionsAdvanced proficiency in application of non-functional software qualities such as resiliency and maintainability
+              - listitem [ref=f147e47]: Advanced proficiency in modern behavior-driven testing techniquesDeep understanding of Microservices
+              - listitem [ref=f147e48]: Proficient in SQLExpert knowledge of application development with technologies like RabbitMQ, MySQL, Redis etc
+              - listitem [ref=f147e49]: Strong experience with container and cloud solutions such as Docker, Kubernetes and AWS Cloud
+              - listitem [ref=f147e50]: An ability to work independently
+              - listitem [ref=f147e51]: Excellent communication skills in English
+            - strong [ref=f147e53]: What’s in it for you
+          - list [ref=f147e54]:
+            - listitem [ref=f147e55]: Sporty is a remote first company in pursuit of sustainability
+            - listitem [ref=f147e56]: A competitive salary + individual performance based bonuses every quarter
+            - listitem [ref=f147e57]: 28 days paid annual leave
+            - listitem [ref=f147e58]: Our core working hours are 10am-3pm in your local time zone with flexibility outside of this
+            - listitem [ref=f147e59]: Referral bonuses & flash bonuses
+            - listitem [ref=f147e60]: Top of the line equipment
+            - listitem [ref=f147e61]: Annual company retreats to provide great internal networking opportunities
+          - paragraph [ref=f147e62]:
+            - strong [ref=f147e63]: Interview Process
+          - list [ref=f147e64]:
+            - listitem [ref=f147e65]: Remote video screening with our Talent Acquisition Team
+            - listitem [ref=f147e66]: Offline Take home assignment
+            - listitem [ref=f147e67]: Remote video interview with Team Members (60 Mins)
+            - listitem [ref=f147e68]: Final discussion with the hiring manager (60 mins)
+          - paragraph [ref=f147e69]: If you're interested, we encourage you to apply! Every application is reviewed by a member of our team (AI is not used in our recruitment process), and we aim to respond within 48 hours.
+      - separator [ref=f147e70]
+      - generic [ref=f147e71]:
+        - generic [ref=f147e72]:
+          - generic [ref=f147e73]:
+            - heading "Apply for this job" [level=2] [ref=f147e75]
+            - generic [ref=f147e76]:
+              - paragraph [ref=f147e78]: "*"
+              - paragraph [ref=f147e79]: indicates a required field
+          - button "Autofill my application" [ref=f147e82] [cursor=pointer]
+        - generic [ref=f147e83]:
+          - generic [ref=f147e84]:
+            - generic [ref=f147e87]:
+              - generic [ref=f147e88]: First Name*
+              - textbox "First Name" [ref=f147e89]
+            - generic [ref=f147e92]:
+              - generic [ref=f147e93]: Last Name*
+              - textbox "Last Name" [ref=f147e94]
+            - generic [ref=f147e97]:
+              - generic [ref=f147e98]: Preferred First Name
+              - textbox "Preferred First Name" [ref=f147e99]
+            - generic [ref=f147e102]:
+              - generic [ref=f147e103]: Email*
+              - textbox "Email" [ref=f147e104]
+            - group "Phone" [ref=f147e106]:
+              - generic [ref=f147e110]:
+                - generic [ref=f147e111]: Country
+                - generic [ref=f147e112]:
+                  - log [ref=f147e114]
+                  - generic [ref=f147e116]:
+                    - combobox "Country" [ref=f147e119]
+                    - button "Toggle flyout" [ref=f147e121] [cursor=pointer]
+              - generic [ref=f147e126]:
+                - generic [ref=f147e127]: Phone
+                - textbox "Phone" [ref=f147e129]
+            - group "Resume/CV*" [ref=f147e131]:
+              - generic [ref=f147e134]:
+                - generic [ref=f147e136]:
+                  - button "Attach" [ref=f147e137] [cursor=pointer]
+                  - generic [ref=f147e138]: Attach
+                  - button "Attach" [ref=f147e139]
+                - button "Dropbox" [ref=f147e141] [cursor=pointer]
+                - button "Google Drive" [ref=f147e143] [cursor=pointer]
+                - generic [ref=f147e145]:
+                  - button "Enter manually" [ref=f147e146] [cursor=pointer]
+                  - generic [ref=f147e147]: Enter manually
+                - paragraph [ref=f147e148]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=f147e149]:
+            - separator [ref=f147e150]
+            - generic [ref=f147e153]:
+              - generic [ref=f147e154]: Where are you currently based?*
+              - textbox "Where are you currently based?" [ref=f147e155]
+            - generic [ref=f147e158]:
+              - generic [ref=f147e159]: Do you have English proficiency?*
+              - generic [ref=f147e160]:
+                - log [ref=f147e162]
+                - generic [ref=f147e164]:
+                  - generic [ref=f147e165]:
+                    - generic [ref=f147e166]: Select...
+                    - combobox "Do you have English proficiency?" [ref=f147e168]
+                  - button "Toggle flyout" [ref=f147e170] [cursor=pointer]
+                - textbox
+            - generic [ref=f147e175]:
+              - generic [ref=f147e176]: What are your salary expectations?*
+              - textbox "What are your salary expectations?" [ref=f147e177]
+            - generic [ref=f147e180]:
+              - generic [ref=f147e181]: Where did you hear about us?*
+              - generic [ref=f147e182]:
+                - log [ref=f147e184]
+                - generic [ref=f147e186]:
+                  - generic [ref=f147e187]:
+                    - generic [ref=f147e188]: Select...
+                    - combobox "Where did you hear about us?" [ref=f147e190]
+                  - button "Toggle flyout" [ref=f147e192] [cursor=pointer]
+                - textbox
+            - generic [ref=f147e197]:
+              - generic [ref=f147e198]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=f147e199]
+            - generic [ref=f147e200]:
+              - generic [ref=f147e202]:
+                - generic [ref=f147e203]: GDPR Acknowledgement*
+                - generic [ref=f147e204]:
+                  - log [ref=f147e206]
+                  - generic [ref=f147e208]:
+                    - generic [ref=f147e209]:
+                      - generic [ref=f147e210]: Select...
+                      - combobox "GDPR Acknowledgement" [ref=f147e212]
+                    - button "Toggle flyout" [ref=f147e214] [cursor=pointer]
+                  - textbox
+              - paragraph [ref=f147e219]: Sporty is committed to protecting your personal data and ensuring transparent, compliant handling of all information you provide during the application process. Your data will be processed in accordance with applicable privacy laws and retained securely. For details, please review our Privacy Policy.
+            - group "We are committed to providing an inclusive and accessible hiring experience. Do you require any reasonable accommodations or additional support during the recruitment process or, if successful, to perform this role on-site, if required? *" [ref=f147e221]:
+              - generic [ref=f147e223]:
+                - checkbox "Yes" [ref=f147e225]
+                - generic [ref=f147e226]: "Yes"
+              - generic [ref=f147e227]:
+                - checkbox "No" [ref=f147e229]
+                - generic [ref=f147e230]: "No"
+              - generic [ref=f147e231]:
+                - checkbox "Prefer not to say" [ref=f147e233]
+                - generic [ref=f147e234]: Prefer not to say
+            - generic [ref=f147e237]:
+              - generic [ref=f147e238]: Website/Portfolio*
+              - textbox "Website/Portfolio" [ref=f147e239]
+            - generic [ref=f147e242]:
+              - generic [ref=f147e243]: How many years of experience do you have in this field?*
+              - generic [ref=f147e244]:
+                - log [ref=f147e246]
+                - generic [ref=f147e248]:
+                  - generic [ref=f147e249]:
+                    - generic [ref=f147e250]: Select...
+                    - combobox "How many years of experience do you have in this field?" [ref=f147e252]
+                  - button "Toggle flyout" [ref=f147e254] [cursor=pointer]
+                - textbox
+            - generic [ref=f147e259]:
+              - generic [ref=f147e260]: Are you happy working with Sporty under a B2B or B2C arrangement?*
+              - generic [ref=f147e261]:
+                - log [ref=f147e263]
+                - generic [ref=f147e265]:
+                  - generic [ref=f147e266]:
+                    - generic [ref=f147e267]: Select...
+                    - combobox "Are you happy working with Sporty under a B2B or B2C arrangement?" [ref=f147e269]
+                  - button "Toggle flyout" [ref=f147e271] [cursor=pointer]
+                - textbox
+          - separator [ref=f147e274]
+          - generic [ref=f147e276]:
+            - checkbox "By checking this box, I agree to allow Sporty Group to store and process my data for the purpose of considering my eligibility regarding my current application for employment.*" [ref=f147e278]
+            - generic [ref=f147e279]: By checking this box, I agree to allow Sporty Group to store and process my data for the purpose of considering my eligibility regarding my current application for employment.*
+          - generic [ref=f147e281]:
+            - checkbox "By checking this box, I agree to allow Sporty Group to retain my data for future opportunities for employment for up to 730 days after the conclusion of consideration of my current application for employment." [disabled] [ref=f147e283]
+            - generic [ref=f147e284]: By checking this box, I agree to allow Sporty Group to retain my data for future opportunities for employment for up to 730 days after the conclusion of consideration of my current application for employment.
+          - button "Submit application" [ref=f147e286] [cursor=pointer]
+  - contentinfo [ref=f147e287]:
+    - generic [ref=f147e288]:
+      - paragraph [ref=f147e289]: Powered by
+      - link [ref=f147e290] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=f147e291]
+  - iframe [ref=f147e305]:
+    - generic [ref=f149e6]:
+      - text: protected by
+      - strong [ref=f149e7]: reCAPTCHA
