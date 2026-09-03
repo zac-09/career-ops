@@ -146,6 +146,20 @@ The scanner comes with **45+ companies** ready to scan and **19 search queries**
 
 **Job boards searched:** Ashby, Greenhouse, Lever, Wellfound, Workable, RemoteFront
 
+### Portals Added Over Time
+
+- **Initial base:** Ashby, Greenhouse, Lever, Workable, and curated company career pages.
+- **Expanded discovery:** worldwide-remote aggregators and regional boards were added (for example Himalayas, WeWorkRemotely, Remotive, Working Nomads, NoDesk, Jobgether, DailyRemote, EchoJobs, YC Work at a Startup, and HN Who is Hiring).
+- **ATS coverage growth:** additional ATS patterns were introduced over time (for example Greenhouse EU, Recruitee, Rippling ATS, and PINPOINT-based boards in tracked companies).
+- **Quality hardening:** low-signal or unverifiable sources are now selectively disabled in config until they become reliable again.
+
+### Supported Now (Current Scanner Reality)
+
+- **Core ATS/job-board support:** Ashby, Greenhouse (including EU variants), Lever, Workable, Recruitee, Rippling ATS, and BambooHR (where verifiable through company endpoints).
+- **Direct company-page scanning:** first-class support through `tracked_companies` using Playwright/WebSearch plus optional ATS APIs.
+- **Aggregator support (guardrailed):** RemoteFront, Himalayas, WeWorkRemotely, Remotive, Working Nomads, NoDesk, Jobgether, Remote Rocketship, DailyRemote, EchoJobs, and YC Work at a Startup.
+- **Policy:** support is dynamic -- sources can be enabled/disabled based on verification quality and signal, with reasons documented inline in `portals.yml`.
+
 ## Dashboard TUI
 
 The built-in terminal dashboard lets you browse your pipeline visually:
@@ -281,6 +295,20 @@ El scanner viene con **45+ empresas** pre-configuradas y **19 queries** en los p
 **Europa:** Factorial, Attio, Tinybird, Clarity AI, Travelperk
 
 **Portales de empleo:** Ashby, Greenhouse, Lever, Wellfound, Workable, RemoteFront
+
+### Portales agregados con el tiempo
+
+- **Base inicial:** Ashby, Greenhouse, Lever, Workable y paginas de carreras de empresas curadas.
+- **Expansion de descubrimiento:** se agregaron agregadores worldwide-remote y boards regionales (por ejemplo Himalayas, WeWorkRemotely, Remotive, Working Nomads, NoDesk, Jobgether, DailyRemote, EchoJobs, YC Work at a Startup y HN Who is Hiring).
+- **Mas cobertura ATS:** se anadieron patrones ATS adicionales con el tiempo (por ejemplo Greenhouse EU, Recruitee, Rippling ATS y boards PINPOINT en empresas trackeadas).
+- **Endurecimiento de calidad:** fuentes con senal baja o no verificables se deshabilitan de forma selectiva hasta que vuelvan a ser fiables.
+
+### Soporte actual (realidad del scanner hoy)
+
+- **ATS/job boards principales:** Ashby, Greenhouse (incluyendo variantes EU), Lever, Workable, Recruitee, Rippling ATS y BambooHR (cuando se puede verificar por endpoints de empresa).
+- **Escaneo directo de paginas de empresa:** soporte de primera clase via `tracked_companies` usando Playwright/WebSearch y APIs ATS opcionales.
+- **Agregadores con guardrails:** RemoteFront, Himalayas, WeWorkRemotely, Remotive, Working Nomads, NoDesk, Jobgether, Remote Rocketship, DailyRemote, EchoJobs y YC Work at a Startup.
+- **Politica:** el soporte es dinamico -- una fuente puede activarse o desactivarse segun calidad de verificacion y senal; las razones quedan documentadas en `portals.yml`.
 
 ## Uso
 
