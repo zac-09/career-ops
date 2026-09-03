@@ -162,3 +162,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** Conversational AI with document understanding running in production over WhatsApp.
 **Reflection:** In conversational AI the platform constraints (rate limits, message windows, media handling) shape the architecture as much as the model does — design for the channel first, the model second.
 **Best for questions about:** conversational interfaces, AI/LLM production systems, agent backends, third-party platform integration, "have you shipped AI to real users?"
+
+### [Fintech-adjacent backend] DeFi backends on Web3 + Node.js at agency pace
+**Source:** Report #209 — FINN — Senior Backend Engineer
+**S (Situation):** Mind2matter, a US agency with demanding clients, was building DeFi applications where the backend moved real value on-chain and any mistake was visible to end users immediately.
+**T (Task):** Build the backend services for those DeFi apps — Web3 integration, transaction flows, and the API layer — under tight client timelines, reporting directly to the CTO.
+**A (Action):** Built the backends in Node.js with Web3 integration while React UIs were delivered from Figma in parallel, reporting directly to the CTO (cv.md Mind2matter entry). Suggested framing to confirm with Isaac: treat every on-chain call as irreversible — validate before signing, make retries safe, keep the API contract stable for the front end.
+**R (Result):** DeFi backends delivered on the agency's deadlines alongside the front-end work; client engagement retained.
+**Reflection:** Money-moving backends invert the usual tradeoff — you cannot "fix it in the next deploy" once value has moved, so correctness checks belong before the call, not after. The same instinct applies to wage disbursement and payments: a duplicate request must never become a duplicate transfer.
+**Best for questions about:** fintech/payments backends, irreversible operations, Web3/blockchain exposure, working with demanding clients, correctness under deadline pressure, "have you built financial software?" NOTE: cv.md gives one line on this work — confirm specifics (chains, transaction types) with Isaac before adding detail.
