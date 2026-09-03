@@ -44,6 +44,18 @@ Built by someone who used it to evaluate 740+ job offers, generate 100+ tailored
 | **Dashboard TUI** | Terminal UI to browse, filter, and sort your pipeline |
 | **Pipeline Integrity** | Automated merge, dedup, status normalization, health checks |
 
+## Evolution Timeline (What Changed Over Time)
+
+This project has evolved continuously from an initial release into a production-grade job-search operating system. Based on the repository history:
+
+- **2026-09 to 2026-07 (active operations):** Frequent real-world pipeline updates in `data/applications.md`, richer interview narratives in `interview-prep/story-bank.md`, and iterative matching improvements in `merge-tracker.mjs` (especially role fuzzy matching behavior).
+- **2026-08 to 2026-07 (reliability and workflow tuning):** Repeated scanner/runtime diagnostics captured in `.playwright-mcp` console logs; refinements to tracker merge logic and day-to-day evaluation flow.
+- **2026-06 (pipeline integrity hardening):** Status normalization and verification tooling matured (`normalize-statuses.mjs`, `verify-pipeline.mjs`, `merge-tracker.mjs`), reducing duplication and state drift.
+- **2026-05 (product polish):** Major README and docs refinements, onboarding clarity improvements, and better end-user guidance for setup and mode usage.
+- **2026-04 (foundation launch):** Initial release plus the core system architecture: slash-command routing, auto-pipeline flow, onboarding wizard, STAR+Reflection story framework, ethical-use guardrails, portal expansion (45+ companies), tracker TSV spec, and contributor documentation.
+
+If you want a literal commit-by-commit changelog in this README, you can generate one from git history and append it under this section.
+
 ## Quick Start
 
 ```bash
@@ -288,6 +300,16 @@ Career-ops es un unico slash command con multiples modos:
 ```
 
 O simplemente pega una URL o descripcion de oferta -- career-ops la detecta y ejecuta el pipeline completo.
+
+## Evolucion del proyecto (cambios en el tiempo)
+
+Este sistema evoluciono de una primera version a una operacion completa de busqueda laboral en produccion. Segun el historial del repositorio:
+
+- **2026-09 a 2026-07 (operacion activa):** Muchas actualizaciones reales del pipeline en `data/applications.md`, ampliacion del banco de historias en `interview-prep/story-bank.md`, y mejoras iterativas en `merge-tracker.mjs` (especialmente el fuzzy match de roles).
+- **2026-08 a 2026-07 (fiabilidad y ajustes):** Mas diagnosticos del scanner/runtime en logs de `.playwright-mcp` y refinamientos constantes del flujo de evaluacion diaria.
+- **2026-06 (integridad del pipeline):** Maduracion de scripts de normalizacion y verificacion (`normalize-statuses.mjs`, `verify-pipeline.mjs`, `merge-tracker.mjs`) para reducir duplicados y desalineaciones de estado.
+- **2026-05 (pulido del producto):** Mejoras fuertes de README/documentacion y mas claridad en onboarding e instrucciones para usuarios.
+- **2026-04 (lanzamiento base):** Version inicial con arquitectura central: enrutador por slash command, auto-pipeline, wizard de onboarding, framework STAR+Reflection, reglas de uso etico, expansion de portales (45+ empresas), formato TSV del tracker y guia de contribucion.
 
 ## Tambien Open Source
 
