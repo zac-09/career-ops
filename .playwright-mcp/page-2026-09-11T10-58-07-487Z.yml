@@ -1,0 +1,452 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - link [ref=e7] [cursor=pointer]:
+        - /url: https://sourcegraph.com
+        - img "Sourcegraph Logo" [ref=e8]
+      - generic [ref=e9]:
+        - link "Back to jobs" [ref=e10] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/sourcegraph91
+        - generic [ref=e13]: New
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - heading "ML & Agentic Systems Engineer [IC4]" [level=1] [ref=e18]
+            - generic [ref=e19]: Remote
+          - button "Apply" [ref=e23] [cursor=pointer]
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - heading "Who we are" [level=2] [ref=e26]
+            - paragraph [ref=e27]: Our mission is to bring clarity and control to the world's most complex codebases. AI is accelerating code creation, but the infrastructure to understand, oversee, and evolve that code hasn't kept pace. Sourcegraph gives engineering organizations full visibility across their systems, precise context for their agents, and the ability to execute coordinated code changes at scale. As agentic development becomes the dominant engineering paradigm, we provide the context layer teams need to take control of their codebase.With Code Search, Deep Search, MCP, and Agentic Batch Changes, we deliver on that mission today - giving engineering teams and their AI tools the cross-repo context to navigate massive codebases with confidence, and the ability to make changes across hundreds of repositories at once.Companies like Stripe, Reddit, and Leidos rely on Sourcegraph to ship faster and with higher quality. We're backed by a16z, Sequoia, and Redpoint, and proud to operate as a globally distributed team that values high agency, direct communication, and customer love.If you want to build the infrastructure that lets every engineering team - and every agent they deploy - operate on their codebase with confidence, join us.
+          - generic [ref=e28]:
+            - heading [level=2] [ref=e29]:
+              - strong [ref=e31]: Hours & location
+            - paragraph [ref=e32]:
+              - text: 🌎 While we hire
+              - link "almost anywhere" [ref=e33] [cursor=pointer]:
+                - /url: https://sourcegraph.notion.site/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4
+              - text: in the world, we have a preference for someone to reside in the following locations for this role. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with EST for at least 20 hours/week.
+            - paragraph [ref=e34]:
+              - strong [ref=e35]: "Preferred locations:"
+            - list [ref=e36]:
+              - listitem [ref=e37]: Europe
+              - listitem [ref=e38]: North America
+            - heading [level=2] [ref=e39]:
+              - strong [ref=e41]: Why this job is exciting
+            - paragraph [ref=e42]:
+              - text: Sourcegraph is at the forefront of building AI tools to solve the biggest problems in the software industry, problems that only get bigger as codebases grow and as more of the work is done by agents. The
+              - strong [ref=e43]: Code Understanding
+              - text: "team owns the surfaces where that intelligence meets the developer:"
+              - strong [ref=e44]: Deep Search
+              - text: ", our agentic, multi-step answer engine across an enterprise's entire lineup of codebases,"
+              - strong [ref=e45]: Query Assist
+              - text: ", turning natural language queries into Sourcegraph query syntax,"
+              - strong [ref=e46]: Smart Hovers
+              - text: ", concisely summarizing symbols right where devs need it, guided diff review, and the APIs that both humans and AI agents rely on every day."
+            - paragraph [ref=e47]:
+              - text: Most of what makes those surfaces tick is
+              - strong [ref=e48]: agent engineering
+              - text: ": a blend of software engineering, machine learning, and statistics. Agent engineering tells us which model to use and when, how to retrieve and pack context, how to measure answer quality, where to fine-tune or distill a smaller model to cut costs and latency, and how to expand a single LLM call into a reliable multi-step agent. As the"
+              - strong [ref=e49]: staff ML and agent engineer on Code Understanding
+              - text: ", you'll be the technical owner of it: setting the tam’s direction for models, evaluations, and agentic systems, making our products measurably better, faster, and cheaper, and raising the team's fluency in building with models."
+            - paragraph [ref=e50]:
+              - text: This is a
+              - strong [ref=e51]: staff-level role
+              - text: ": we're hiring a technical leader, not just a strong individual contributor. The primary need is a production ML and evaluation authority who also builds production agent systems. You'll own the hardest, most ambiguous problems in this space, set standards others follow, and influence direction beyond your immediate team. You'll get the exhilarating chance to drive the vision on how we can provide the best code understanding experience on the market by combining our deterministic, large-scale systems and AI into experiences never seen before."
+            - paragraph [ref=e52]:
+              - strong [ref=e53]: "Concretely, you'll own work like:"
+            - list [ref=e54]:
+              - listitem [ref=e55]:
+                - strong [ref=e56]: Agentic systems.
+                - text: You'll design and harden the multi-step, tool-using agent loops behind current and new agentic experiences, turning research and experiments into reliable, observable, and affordable products at enterprise scale.
+              - listitem [ref=e57]:
+                - strong [ref=e58]: Pragmatic use of evaluations.
+                - text: Crafting agentic products means needing to tell when a change actually helped, which is hard when agents keep changing and the product keeps shifting. You'll bring judgment about where evaluations earn their keep, when to use targeted smoke tests and metrics, and how to avoid noise dressed up as rigor, so we can move fast with confidence.
+              - listitem [ref=e59]:
+                - strong [ref=e60]: "Models: selection, upgrading, and training."
+                - text: You'll decide which models we run where, drive upgrades, and fine-tune our own when that's the right call.
+              - listitem [ref=e61]:
+                - strong [ref=e62]: Retrieval and context engineering.
+                - text: You'll push on how we ground models in a customer's code - retrieval, ranking, context windows, citations - to make answers more accurate and verifiable.
+              - listitem [ref=e63]:
+                - strong [ref=e64]: Cost and latency.
+                - text: Every surface has a per-user economic budget. You'll treat cost and latency as product features, and profile, distill, cache, and right-size models so we can ship ambitious features sustainably.
+            - paragraph [ref=e65]: "You'll do this on a small, senior-leaning team that ships quickly, owns a lot of product surface, and has streamlined product management: engineers here talk to customers, frame the problem, and own it end-to-end. You'll have real agency over technical direction and a direct line to the impact of your work."
+            - paragraph [ref=e66]:
+              - strong [ref=e67]: 📅 Within one month, you will…
+            - list [ref=e68]:
+              - listitem [ref=e69]: Get the Code Understanding products and their model/agent pipelines running end-to-end locally, and land your first improvements to a model, prompt, retrieval path, or eval.
+              - listitem [ref=e70]: Build a clear picture of where the AI engineering pain is, and the product surfaces most constrained by them.
+              - listitem [ref=e71]: Get to know the team and our customers, and start forming your own opinions about where our agentic products should go next.
+              - listitem [ref=e72]: Join the team's on-call support rotation.
+            - paragraph [ref=e73]:
+              - strong [ref=e74]: 📅 Within three months, you will…
+            - list [ref=e75]:
+              - listitem [ref=e76]: Own a meaningful agentic slice of the product end-to-end, driving it from problem-framing through rollout and measurement.
+              - listitem [ref=e77]: "Establish how the team ships model and prompt changes responsibly: the evals, dashboards, and guardrails that make quality and cost regressions visible before customers feel them."
+              - listitem [ref=e78]: Begin up-leveling teammates in building with models by pairing with them, reviewing their code, and modeling good agent engineering instincts.
+            - paragraph [ref=e79]:
+              - strong [ref=e80]: 📅 Within six months, you will…
+            - list [ref=e81]:
+              - listitem [ref=e82]: Be the recognized technical authority for agent engineering and agentic systems on Code Understanding. You will be the person teammates, and increasingly the wider department, defer to on model, eval, and agent-design decisions.
+              - listitem [ref=e83]: "Have measurably moved the products: better answer quality, lower cost/latency, or new agentic capabilities that weren't feasible before."
+              - listitem [ref=e84]: Be setting the direction of the team's roadmap where it intersects agents, bringing conviction, backed by evidence, about which bets are worth making, and pulling other engineers up to execute on them.
+            - heading [level=2] [ref=e85]:
+              - strong [ref=e87]: About you
+            - paragraph [ref=e88]:
+              - text: You are a
+              - strong [ref=e89]: staff engineer and technical leader with hard-won skills across production machine learning, evaluation, and agent systems
+              - text: . This high-leverage role relies on your ability to make sound model and evaluation decisions for a fast-moving product, build the production systems around them, steer technical direction, and be a force multiplier for a talented, product-minded team. You're equally comfortable reasoning about an eval harness, a fine-tuning run, a retrieval pipeline, and the multi-step agent loop that ties them together, and you make everyone around you better at all of it.
+            - paragraph [ref=e90]: "You operate at staff scope: you own the most ambiguous, highest-risk problems in your domain, go into whatever codebase a problem requires, set standards and patterns others adopt, and translate fluidly between engineering goals and business objectives. You influence direction beyond your immediate team. You lead through technical excellence and mentorship."
+            - list [ref=e91]:
+              - listitem [ref=e92]:
+                - strong [ref=e93]: You have personally owned a production model lifecycle.
+                - text: You have trained or fine-tuned at least one model and taken it from dataset construction through evaluation, production rollout, and monitoring. You can explain how you chose between training or fine-tuning and prompting or retrieval, how you chose baselines and metrics, what error analysis revealed, and how production evidence affected the next version.
+              - listitem [ref=e94]:
+                - strong [ref=e95]: You build agents, fluently and opinionatedly.
+                - text: You've designed multi-step agentic systems and made them reliable, observable, and cost-bounded. You have a point of view on where agents shine and where deterministic code or human judgment is required.
+              - listitem [ref=e96]:
+                - strong [ref=e97]: You have strong evaluation judgment.
+                - text: You build representative datasets, meaningful baselines, useful error taxonomies, and release criteria that connect offline measurements to production behavior. You know where rigorous evaluations earn their keep, where lightweight smoke tests or qualitative review are enough, and where a precise-looking metric is misleading.
+              - listitem [ref=e98]:
+                - strong [ref=e99]: You treat cost and latency as product constraints.
+                - text: You make measured quality, latency, and cost tradeoffs and use the appropriate combination of model selection, prompting, retrieval, caching, distillation, and fine-tuning rather than reaching reflexively for a more complex model.
+              - listitem [ref=e100]:
+                - strong [ref=e101]: You operate autonomously on ambiguous problems.
+                - text: Given a rough product idea, a few customer quotes, and a Slack thread, you come back with a plan, a prototype, milestones, and a point of view on tradeoffs, without it being pre-scoped. You own high-technical-risk projects end-to-end.
+              - listitem [ref=e102]:
+                - strong [ref=e103]: You contribute beyond your domain.
+                - text: As a senior IC, you go into whatever part of the codebase a problem requires, recognize issues beyond your immediate area, and translate between engineering goals and business objectives.
+              - listitem [ref=e104]:
+                - strong [ref=e105]: You up-level the people around you.
+                - text: You mentor by pairing on hard problems, providing substantive design and code reviews, and spreading agent engineering literacy across the team. You see investing in your teammates' growth as part of the job.
+              - listitem [ref=e106]:
+                - strong [ref=e107]: You're customer and product-driven.
+                - text: You're comfortable on customer calls and in feedback threads, you turn raw signals into requirements, scopes, and milestones, and you push back when feedback would lead the product astray.
+              - listitem [ref=e108]:
+                - strong [ref=e109]: You're pragmatic, not a perfectionist.
+                - text: You ship the smallest correct thing, prefer robust solutions over complicated ones, and keep a high-quality bar with simplicity.
+            - paragraph [ref=e110]: "On the engineering fundamentals:"
+            - list [ref=e111]:
+              - listitem [ref=e112]: You're a strong software engineer who can ship production services.
+              - listitem [ref=e113]: You're comfortable across our stack - Go on the backend, TypeScript on the frontend, GraphQL, Postgres, Docker - or you're clearly able and eager to get there.
+              - listitem [ref=e114]: You're fluent with agentic coding tools, and you understand and own every line it submits.
+              - listitem [ref=e115]: You're comfortable in an async-first, multi-service, fast-paced remote environment.
+            - paragraph [ref=e116]: "Nice-to-haves:"
+            - list [ref=e117]:
+              - listitem [ref=e118]: "You've shipped an LLM-powered or agentic developer-facing product you can speak about opinionatedly: what worked, what didn't, what you'd do differently."
+              - listitem [ref=e119]: You've fine-tuned, distilled, or trained models to meet cost, latency, or quality targets in production.
+              - listitem [ref=e120]: Experience with retrieval, ranking, embeddings, or search relevance.
+              - listitem [ref=e121]: Experience working directly with enterprise customers and translating their needs into a product.
+              - listitem [ref=e122]: Experience mentoring or up-leveling engineers, especially raising a team's agent engineering fluency.
+            - heading [level=2] [ref=e123]:
+              - strong [ref=e125]: Level
+            - paragraph [ref=e126]:
+              - text: 📊 This job is an IC4. You can read more about
+              - link "our job leveling philosophy" [ref=e127] [cursor=pointer]:
+                - /url: https://www.notion.so/sourcegraph/Leveling-Guide-0e1b5c76ada64b9caac387f8b7c4fc66
+              - text: in our Handbook.
+            - heading [level=2] [ref=e128]:
+              - strong [ref=e130]: Compensation
+            - paragraph [ref=e131]:
+              - strong [ref=e132]: 💸
+              - text: We pay above-market salaries because we want to hire exceptional people who can focus on building great products, not worrying about paying bills. As an
+              - link "open and transparent" [ref=e133] [cursor=pointer]:
+                - /url: https://sourcegraph.notion.site/Mission-values-e9d37e6b972a4ef395c3076aea2bd07d
+              - text: company, our
+              - link "compensation philosophy" [ref=e134] [cursor=pointer]:
+                - /url: https://app.notion.com/p/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4&assetsVersion=23.13.20260723.1259&clientBuildTarget=client
+              - text: and pay bands are visible to every Sourcegraph teammate, and we strive to make our approach equitable, explainable, and competitive.Your base salary is determined by the IC4 pay band for your location zone (1-4). Our pay bands are informed by market data and designed to ensure competitive compensation wherever you live. During the recruiting process, we'll discuss the range applicable to you based on job level, relevant skills, experience, qualifications, and location zone.
+            - paragraph [ref=e135]:
+              - strong [ref=e136]: 💰
+              - text: "The starting salary for the IC4 pay band in each zone is:"
+            - list [ref=e137]:
+              - listitem [ref=e138]: "Zone 2: $176,000 USD"
+              - listitem [ref=e139]: "Zone 3: $132,000 USD"
+              - listitem [ref=e140]: "Zone 4: $88,000 USD"
+            - paragraph [ref=e141]:
+              - text: 📈 In addition to competitive cash compensation, we offer meaningful equity (because when Sourcegraph succeeds, we want you to succeed, too) and generous
+              - link "perks & benefits" [ref=e142] [cursor=pointer]:
+                - /url: https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba
+              - text: .
+            - heading [level=2] [ref=e143]:
+              - strong [ref=e145]: Interview process
+            - paragraph [ref=e146]:
+              - emphasis [ref=e147]: Below is the interview process you can expect for this role (you can read more about
+              - link [ref=e148] [cursor=pointer]:
+                - /url: https://sourcegraph.notion.site/Types-of-interviews-f279f080583d49ee9f2c60e30c8cb1f7
+                - emphasis [ref=e149]: the types of interviews
+              - emphasis [ref=e150]: in our Handbook). It may look like a lot of steps, but rest assured that we move quickly and the steps are designed to help you get the information needed to determine if we’re the right fit for you… Interviewing is a two-way street, after all!
+            - paragraph [ref=e151]: We expect the interview process to take 4.75 hours in total.
+            - paragraph [ref=e152]:
+              - strong [ref=e153]: 👋 Introduction Stage
+              - text: "- we have initial conversations to get to know you better…"
+            - list [ref=e154]:
+              - listitem [ref=e155]:
+                - text: "[30m]"
+                - link "Recruiter Screen" [ref=e156] [cursor=pointer]:
+                  - /url: https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#99be5ff628b2414194a0ba79d9f25f13
+              - listitem [ref=e157]:
+                - text: "[45m]"
+                - link "Hiring Manager Screen" [ref=e158] [cursor=pointer]:
+                  - /url: https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#1919882c0cf147c487eb1df40db8a694
+                - text: /
+                - link "Resume Deep Dive" [ref=e159] [cursor=pointer]:
+                  - /url: https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#c678a2a86e0e47e4958507e869bf7ded
+            - paragraph [ref=e160]:
+              - strong [ref=e161]: 🧑‍💻 Team Interview Stage
+              - text: "- we then delve into your experience in more depth and introduce you to members of the team, including cross-functional partners…"
+            - list [ref=e162]:
+              - listitem [ref=e163]: "[60m] Technical Interview"
+              - listitem [ref=e164]: "[60m] Technical Interview"
+              - listitem [ref=e165]:
+                - text: "[60m] Cross-functional team collaboration /"
+                - link "Values" [ref=e166] [cursor=pointer]:
+                  - /url: https://www.notion.so/sourcegraph/Types-of-interviews-sample-questions-f279f080583d49ee9f2c60e30c8cb1f7?pvs=4#e3a04291743048df87541a88aa8199dd
+            - paragraph [ref=e167]:
+              - strong [ref=e168]: 🎉 Final Interview Stage
+              - text: "- we move you to our final round, where you gain a better understanding of our business and values holistically…"
+            - list [ref=e169]:
+              - listitem [ref=e170]:
+                - text: "[30]"
+                - link "Leadership" [ref=e171] [cursor=pointer]:
+                  - /url: https://www.notion.so/sourcegraph/How-to-work-with-Quinn-Slack-CEO-807673e0864d473f959cc4efd9642a5a?pvs=4#6f185c0e2011411eac5be9c675f9056c
+              - listitem [ref=e172]: We check references and conduct your background check
+            - paragraph [ref=e173]: Please note - you are welcome to request additional conversations with anyone you would like to meet, but didn’t get to meet during the interview process.
+          - generic [ref=e174]:
+            - heading "Learn more about us" [level=2] [ref=e175]
+            - paragraph [ref=e176]:
+              - text: You can learn more about what it is like to work at Sourcegraph by reading
+              - link "our handbook" [ref=e177] [cursor=pointer]:
+                - /url: https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0
+              - text: .
+            - paragraph [ref=e178]:
+              - text: We are an ambitious team who are collectively working hard to build the most influential company in the world. You can read more about our
+              - link "culture" [ref=e179] [cursor=pointer]:
+                - /url: https://sourcegraph.notion.site/What-it-s-like-working-at-Sourcegraph-119a8e11265880b18911eee4d9b7c460#119a8e1126588062b935fc66104b6115
+              - text: ","
+              - link "competitive compensation" [ref=e180] [cursor=pointer]:
+                - /url: https://sourcegraph.notion.site/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=74
+              - text: and
+              - link "benefits" [ref=e181] [cursor=pointer]:
+                - /url: https://sourcegraph.notion.site/Benefits-Perks-dd1da4b6b3a64780abed010a144d34ba?pvs=74
+              - text: here.
+            - paragraph [ref=e182]: Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds.
+            - paragraph [ref=e183]:
+              - emphasis [ref=e184]: Sourcegraph participates in
+              - link [ref=e185] [cursor=pointer]:
+                - /url: https://sourcegraph.notion.site/E-Verify-2ab3286dde3446d6bac2898c83610107
+                - emphasis [ref=e186]: E-Verify
+              - emphasis [ref=e187]: for U.S. Employees.
+        - generic [ref=e191]:
+          - paragraph [ref=e192]: Create a Job Alert
+          - paragraph [ref=e193]: Interested in building your career at Sourcegraph? Get future opportunities sent straight to your email.
+          - link "Create alert" [ref=e194] [cursor=pointer]:
+            - /url: https://my.greenhouse.io/users/sign_in?job_board=sourcegraph91&source=job_alert_post
+      - separator [ref=e195]
+      - generic [ref=e196]:
+        - generic [ref=e197]:
+          - generic [ref=e198]:
+            - heading "Apply for this job" [level=2] [ref=e200]
+            - generic [ref=e201]:
+              - paragraph [ref=e203]: "*"
+              - paragraph [ref=e204]: indicates a required field
+          - button "Autofill my application" [ref=e207] [cursor=pointer]
+        - generic [ref=e208]:
+          - generic [ref=e209]:
+            - generic [ref=e212]:
+              - generic [ref=e213]: First Name*
+              - textbox "First Name" [ref=e214]
+            - generic [ref=e217]:
+              - generic [ref=e218]: Last Name*
+              - textbox "Last Name" [ref=e219]
+            - generic [ref=e222]:
+              - generic [ref=e223]: Email*
+              - textbox "Email" [ref=e224]
+            - group "Phone" [ref=e226]:
+              - generic [ref=e230]:
+                - generic [ref=e231]: Country*
+                - generic [ref=e232]:
+                  - log [ref=e234]
+                  - generic [ref=e236]:
+                    - combobox "Country" [ref=e239]
+                    - button "Toggle flyout" [ref=e241] [cursor=pointer]
+                  - textbox [aria-hidden]
+              - generic [ref=e246]:
+                - generic [ref=e247]: Phone*
+                - textbox "Phone" [ref=e249]
+            - generic [ref=e250]:
+              - generic [ref=e252]:
+                - generic [ref=e253]: Location (City)*
+                - generic [ref=e254]:
+                  - log [ref=e256]
+                  - combobox "Location (City)" [ref=e261]
+                  - textbox [aria-hidden]
+              - button "Locate me" [ref=e262] [cursor=pointer]
+            - group "Resume/CV" [ref=e264]:
+              - generic [ref=e267]:
+                - generic [ref=e269]:
+                  - button "Attach" [ref=e270] [cursor=pointer]
+                  - generic [ref=e271]: Attach
+                  - button "Attach" [ref=e272]
+                - button "Dropbox" [ref=e274] [cursor=pointer]
+                - button "Google Drive" [ref=e276] [cursor=pointer]
+                - generic [ref=e278]:
+                  - button "Enter manually" [ref=e279] [cursor=pointer]
+                  - generic [ref=e280]: Enter manually
+                - paragraph [ref=e281]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e283]:
+              - generic [ref=e286]:
+                - generic [ref=e288]:
+                  - button "Attach" [ref=e289] [cursor=pointer]
+                  - generic [ref=e290]: Attach
+                  - button "Attach" [ref=e291]
+                - button "Dropbox" [ref=e293] [cursor=pointer]
+                - button "Google Drive" [ref=e295] [cursor=pointer]
+                - generic [ref=e297]:
+                  - button "Enter manually" [ref=e298] [cursor=pointer]
+                  - generic [ref=e299]: Enter manually
+                - paragraph [ref=e300]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e301]:
+            - separator [ref=e302]
+            - generic [ref=e305]:
+              - generic [ref=e306]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=e307]
+            - generic [ref=e310]:
+              - generic [ref=e311]: How did you hear about this position? *
+              - textbox "How did you hear about this position?" [ref=e312]
+            - generic [ref=e315]:
+              - generic [ref=e316]: What experience do you have that aligns with what we're looking for in this role?*
+              - textbox "What experience do you have that aligns with what we're looking for in this role?" [ref=e317]
+            - generic [ref=e320]:
+              - generic [ref=e321]: Describe your hands-on experience with coding agents. What are you opinionated about? Where do they shine, and where do you insist on deterministic code or human judgment?*
+              - textbox "Describe your hands-on experience with coding agents. What are you opinionated about? Where do they shine, and where do you insist on deterministic code or human judgment?" [ref=e322]
+            - generic [ref=e325]:
+              - generic [ref=e326]: Have you designed and shipped a multi-step agentic system that included production controls for reliability, observability, latency, and cost?*
+              - generic [ref=e327]:
+                - log [ref=e329]
+                - generic [ref=e331]:
+                  - generic [ref=e332]:
+                    - generic [ref=e333]: Select...
+                    - combobox "Have you designed and shipped a multi-step agentic system that included production controls for reliability, observability, latency, and cost?" [ref=e335]
+                  - button "Toggle flyout" [ref=e337] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=e342]:
+              - generic [ref=e343]: If so, please provide details.
+              - textbox "If so, please provide details." [ref=e344]
+            - generic [ref=e347]:
+              - generic [ref=e348]: Do you have professional experience shipping production software services and working across multiple parts of a modern application stack, such as backend services, APIs, databases, containers, or frontend applications?*
+              - generic [ref=e349]:
+                - log [ref=e351]
+                - generic [ref=e353]:
+                  - generic [ref=e354]:
+                    - generic [ref=e355]: Select...
+                    - combobox "Do you have professional experience shipping production software services and working across multiple parts of a modern application stack, such as backend services, APIs, databases, containers, or frontend applications?" [ref=e357]
+                  - button "Toggle flyout" [ref=e359] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=e364]:
+              - generic [ref=e365]: If so, please provide details.
+              - textbox "If so, please provide details." [ref=e366]
+            - generic [ref=e369]:
+              - generic [ref=e370]: Have you personally built, evaluated, and operated a machine learning model or ML-powered system in a production environment?*
+              - generic [ref=e371]:
+                - log [ref=e373]
+                - generic [ref=e375]:
+                  - generic [ref=e376]:
+                    - generic [ref=e377]: Select...
+                    - combobox "Have you personally built, evaluated, and operated a machine learning model or ML-powered system in a production environment?" [ref=e379]
+                  - button "Toggle flyout" [ref=e381] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=e386]:
+              - generic [ref=e387]: If so, please provide details.
+              - textbox "If so, please provide details." [ref=e388]
+            - generic [ref=e391]:
+              - generic [ref=e392]: What about this role, and Sourcegraph as a company, aligns with what you’re looking for next?*
+              - textbox "What about this role, and Sourcegraph as a company, aligns with what you’re looking for next?" [ref=e393]
+            - generic [ref=e394]:
+              - generic [ref=e396]:
+                - generic [ref=e397]: What compensation are you targeting?*
+                - textbox "What compensation are you targeting?" [ref=e398]
+              - paragraph [ref=e401]:
+                - text: Please note that the target compensation is based on location and level. You can read more about our compensation philosophy and how people get raises
+                - link "here" [ref=e402] [cursor=pointer]:
+                  - /url: https://www.notion.so/sourcegraph/Compensation-Pay-Transparency-at-Sourcegraph-d58d0774f51b4b489d41c3628d30ff8d?pvs=4
+                - text: and
+                - link "here" [ref=e403] [cursor=pointer]:
+                  - /url: https://www.notion.so/sourcegraph/Impact-review-cycles-0766ce0886594e31adf5a88ca42b06ac?pvs=4
+                - text: .
+            - generic [ref=e406]:
+              - generic [ref=e407]: We are an all-remote team distributed across the world. What location (city, country, zip code) will you work from for 51%+ of the time? *
+              - textbox "We are an all-remote team distributed across the world. What location (city, country, zip code) will you work from for 51%+ of the time?" [ref=e408]
+            - generic [ref=e409]:
+              - generic [ref=e411]:
+                - generic [ref=e412]: Will you need employment visa sponsorship now or in the future to work in your current location?*
+                - generic [ref=e413]:
+                  - log [ref=e415]
+                  - generic [ref=e417]:
+                    - generic [ref=e418]:
+                      - generic [ref=e419]: Select...
+                      - combobox "Will you need employment visa sponsorship now or in the future to work in your current location?" [ref=e421]
+                    - button "Toggle flyout" [ref=e423] [cursor=pointer]
+                  - textbox [aria-hidden]
+              - paragraph [ref=e428]:
+                - text: Since our teammates can generally work from anywhere in the world, we sponsor visas for only roles that require the presence in a particular country as part of the job responsibilities. More details can be found
+                - link "here" [ref=e429] [cursor=pointer]:
+                  - /url: https://www.notion.so/sourcegraph/How-we-engage-talent-outside-of-the-US-218f7193695a46cbb1ef39ef9c1f72d4?pvs=4#d0570612cbc74d4183658da97f29e11f
+                - text: .
+          - separator [ref=e430]
+          - generic [ref=e431]:
+            - heading "Demographic Questions" [level=3] [ref=e432]
+            - paragraph [ref=e435]:
+              - text: At Sourcegraph, we value belonging and believe in fostering an environment where diverse perspectives can thrive. We ask all candidates to respond to the below survey, which is completely voluntary, for required government reporting. Your responses
+              - emphasis [ref=e436]: will not
+              - text: be associated with your specific application and
+              - emphasis [ref=e437]: will not
+              - text: in any way be used in the hiring decision.
+            - generic [ref=e439]:
+              - generic [ref=e440]: Gender *
+              - generic [ref=e441]:
+                - log [ref=e443]
+                - generic [ref=e445]:
+                  - generic [ref=e446]:
+                    - generic [ref=e447]: Select...
+                    - combobox "Gender" [ref=e449]
+                  - button "Toggle flyout" [ref=e451] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=e455]:
+              - generic [ref=e456]: "Race/ethnicity (mark all that apply): *"
+              - generic [ref=e457]:
+                - log [ref=e459]
+                - generic [ref=e461]:
+                  - generic [ref=e462]:
+                    - generic [ref=e463]: Select...
+                    - combobox "Race/ethnicity (mark all that apply):" [ref=e465]
+                  - button "Toggle flyout" [ref=e467] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=e471]:
+              - generic [ref=e472]: Veteran Status *
+              - generic [ref=e473]:
+                - log [ref=e475]
+                - generic [ref=e477]:
+                  - generic [ref=e478]:
+                    - generic [ref=e479]: Select...
+                    - combobox "Veteran Status" [ref=e481]
+                  - button "Toggle flyout" [ref=e483] [cursor=pointer]
+                - textbox [aria-hidden]
+          - separator [ref=e486]
+          - separator [ref=e487]
+          - generic [ref=e489]:
+            - paragraph [ref=e491]: We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.
+            - link "Learn more" [ref=e492] [cursor=pointer]:
+              - /url: http://app4.greenhouse.io/ai_opt_out_request/job_post/6185008004/ai_opt_out
+          - button "Submit application" [ref=e494] [cursor=pointer]
+  - contentinfo [ref=e495]:
+    - generic [ref=e496]:
+      - paragraph [ref=e497]: Powered by
+      - link [ref=e498] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e499]
+  - iframe [ref=e513]:
+    - generic [ref=f2e6]:
+      - text: protected by
+      - strong [ref=f2e7]: reCAPTCHA
