@@ -1,0 +1,154 @@
+- generic [ref=f61e2]:
+  - banner [ref=f61e3]:
+    - generic [ref=f61e4]:
+      - link "Interview Resources" [ref=f61e5] [cursor=pointer]:
+        - /url: /
+      - link "← Back to home" [ref=f61e12] [cursor=pointer]:
+        - /url: /
+  - main [ref=f61e13]:
+    - generic [ref=f61e14]:
+      - link "All open roles" [ref=f61e15] [cursor=pointer]:
+        - /url: /careers
+      - heading "Full Stack AI Engineer (Back-end leaning)" [level=1] [ref=f61e18]
+      - generic [ref=f61e19]:
+        - generic [ref=f61e20]: Remote
+        - generic [ref=f61e24]: Full time
+      - list [ref=f61e28]:
+        - listitem [ref=f61e29]: TypeScript
+        - listitem [ref=f61e30]: Node.js
+        - listitem [ref=f61e31]: Postgres
+        - listitem [ref=f61e32]: Drizzle
+        - listitem [ref=f61e33]: AI SDK
+        - listitem [ref=f61e34]: Vercel
+      - generic [ref=f61e35]:
+        - heading "About the role" [level=2] [ref=f61e36]
+        - paragraph [ref=f61e37]: Behind every report is a pipeline that searches the open web, reads what it finds, extracts candidate questions, grades each one by the strength of its evidence, and throws away the rest. It runs for minutes, costs real money per run, and has to produce something defensible at the end or we refund the credit.
+        - paragraph [ref=f61e38]: This role owns that pipeline. You will work on retrieval quality, prompt and schema design, the grading logic that decides whether a question is evidence-backed or merely inferred, the budget tracker that stops a run before it burns a customer's balance, and the job infrastructure that will move this work off the request path.
+        - paragraph [ref=f61e39]: Back-end leaning means the centre of gravity, not the boundary. You will still open React files, because a pipeline change that nobody can see in the report is not finished.
+      - generic [ref=f61e40]:
+        - heading "What you will do" [level=2] [ref=f61e41]
+        - list [ref=f61e42]:
+          - listitem [ref=f61e43]: "Own the research pipeline end to end: search, extraction, grading, caching, and the report artefact it produces."
+          - listitem [ref=f61e44]: Improve output quality with evaluations rather than vibes. Build the harness if we do not have the one you need.
+          - listitem [ref=f61e45]: "Keep cost per run predictable: budget tracking, model selection, caching, and hard stops that fire before the money is gone."
+          - listitem [ref=f61e46]: Move long-running work onto a durable queue with retries, idempotency, and cancellation that actually cancels.
+          - listitem [ref=f61e47]: Design and migrate the Postgres schema, and keep migrations safe to run against production traffic.
+          - listitem [ref=f61e48]: Build and maintain the credits ledger, payment webhooks, and the reconciliation that catches it when they disagree.
+          - listitem [ref=f61e49]: Instrument everything. When a run degrades at two in the morning, the logs should already answer why.
+      - generic [ref=f61e50]:
+        - heading "What we are looking for" [level=2] [ref=f61e51]
+        - list [ref=f61e52]:
+          - listitem [ref=f61e53]: Four or more years building backend systems in TypeScript or another strongly typed language, including operating them in production.
+          - listitem [ref=f61e54]: "Deep SQL and relational modelling: indexes, transactions, and what happens under concurrent writes."
+          - listitem [ref=f61e55]: You have built something on top of an LLM API that had to be correct, not just impressive in a demo, and you can explain how you measured it.
+          - listitem [ref=f61e56]: Practical experience with queues, retries, idempotency keys, and the failure modes of distributed work.
+          - listitem [ref=f61e57]: A habit of writing tests for the paths that touch money or data integrity.
+          - listitem [ref=f61e58]: Comfort in a codebase where you are also expected to change the front end when the feature needs it.
+      - generic [ref=f61e59]:
+        - heading "Nice to have" [level=2] [ref=f61e60]
+        - list [ref=f61e61]:
+          - listitem [ref=f61e62]: Experience with retrieval, ranking, or search relevance.
+          - listitem [ref=f61e63]: You have run evaluation suites for a generative system and made a real quality call from the results.
+          - listitem [ref=f61e64]: Familiarity with Drizzle, serverless Postgres and connection pooling, or Vercel's runtime model.
+          - listitem [ref=f61e65]: Payments experience, especially the webhook and refund side.
+      - generic [ref=f61e66]:
+        - heading "How the process runs" [level=2] [ref=f61e67]
+        - list [ref=f61e68]:
+          - listitem [ref=f61e69]: Intro call, thirty minutes, with the founder.
+          - listitem [ref=f61e70]: A paid take-home you can finish in a focused afternoon, built on the real stack.
+          - listitem [ref=f61e71]: A ninety minute systems conversation about the pipeline and how you would change it.
+          - listitem [ref=f61e72]: A final conversation about scope, money, and what the first ninety days look like.
+      - generic [ref=f61e73]:
+        - heading "Apply" [level=2] [ref=f61e74]
+        - paragraph [ref=f61e75]: No resume upload and no application portal. Write us something real. A short, specific message about what you have built beats three pages of adjectives every time.
+        - generic [ref=f61e77]:
+          - generic [ref=f61e78]:
+            - generic [ref=f61e79]: Your name
+            - textbox "Your name" [ref=f61e80]
+          - generic [ref=f61e81]:
+            - generic [ref=f61e82]: Email
+            - textbox "Email" [ref=f61e83]
+          - generic [ref=f61e84]:
+            - generic [ref=f61e85]: Message to the recruiter
+            - textbox "Message to the recruiter" [ref=f61e86]
+            - paragraph [ref=f61e87]: No cover letter template, please. Tell us what you have built and why this role.
+          - generic [ref=f61e89] [cursor=pointer]:
+            - checkbox "I give permission for Interview Resources to store the details above and contact me about this application." [ref=f61e90]
+            - generic [ref=f61e91]:
+              - text: I give permission for
+              - strong [ref=f61e92]: Interview Resources
+              - text: to store the details above and contact me about this application.
+          - button "Submit application" [ref=f61e94] [cursor=pointer]
+  - contentinfo [ref=f61e95]:
+    - generic [ref=f61e96]:
+      - generic [ref=f61e97]:
+        - generic [ref=f61e98]:
+          - link "Interview Resources" [ref=f61e99] [cursor=pointer]:
+            - /url: /
+          - paragraph [ref=f61e106]: AI prep intelligence, not prophecy.
+        - generic [ref=f61e107]:
+          - heading "Product" [level=3] [ref=f61e108]
+          - list [ref=f61e109]:
+            - listitem [ref=f61e110]:
+              - link "Pricing" [ref=f61e111] [cursor=pointer]:
+                - /url: /#pricing
+            - listitem [ref=f61e112]:
+              - link "Questions by company" [ref=f61e113] [cursor=pointer]:
+                - /url: /interview-questions
+            - listitem [ref=f61e114]:
+              - link "Changelog" [ref=f61e115] [cursor=pointer]:
+                - /url: /changelog
+            - listitem [ref=f61e116]:
+              - link "Help" [ref=f61e117] [cursor=pointer]:
+                - /url: /help
+        - generic [ref=f61e118]:
+          - heading "Company" [level=3] [ref=f61e119]
+          - list [ref=f61e120]:
+            - listitem [ref=f61e121]:
+              - link "About" [ref=f61e122] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f61e123]:
+              - link "Blog" [ref=f61e124] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f61e125]:
+              - link "Careers" [ref=f61e126] [cursor=pointer]:
+                - /url: /careers
+            - listitem [ref=f61e127]:
+              - link "Contact" [ref=f61e128] [cursor=pointer]:
+                - /url: /contact
+        - generic [ref=f61e129]:
+          - heading "Resources" [level=3] [ref=f61e130]
+          - list [ref=f61e131]:
+            - listitem [ref=f61e132]:
+              - link "How it works" [ref=f61e133] [cursor=pointer]:
+                - /url: /#how-it-works
+            - listitem [ref=f61e134]:
+              - link "Under the hood" [ref=f61e135] [cursor=pointer]:
+                - /url: /#how-agent-works
+            - listitem [ref=f61e136]:
+              - link "Why us" [ref=f61e137] [cursor=pointer]:
+                - /url: /#why-us
+            - listitem [ref=f61e138]:
+              - link "Trust" [ref=f61e139] [cursor=pointer]:
+                - /url: /#trust
+            - listitem [ref=f61e140]:
+              - link "Open Source" [ref=f61e141] [cursor=pointer]:
+                - /url: /licenses
+        - generic [ref=f61e142]:
+          - heading "Legal" [level=3] [ref=f61e143]
+          - list [ref=f61e144]:
+            - listitem [ref=f61e145]:
+              - link "Privacy Policy" [ref=f61e146] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=f61e147]:
+              - link "Terms of Service" [ref=f61e148] [cursor=pointer]:
+                - /url: /terms-of-service
+            - listitem [ref=f61e149]:
+              - link "Cookie Policy" [ref=f61e150] [cursor=pointer]:
+                - /url: /cookies
+            - listitem [ref=f61e151]:
+              - button "Cookie Preferences" [ref=f61e152] [cursor=pointer]
+            - listitem [ref=f61e153]:
+              - link "Security" [ref=f61e154] [cursor=pointer]:
+                - /url: /security
+      - paragraph [ref=f61e156]: © 2026 Interview Resources
