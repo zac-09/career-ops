@@ -1,0 +1,209 @@
+- generic [ref=f49e2]:
+  - list [ref=f49e4]:
+    - listitem [ref=f49e5]:
+      - link [ref=f49e6] [cursor=pointer]:
+        - /url: https://railway.app/
+        - img "Railway" [ref=f49e7]
+    - listitem [ref=f49e8]:
+      - link "Back to Railway’s Job Listings" [ref=f49e9] [cursor=pointer]:
+        - /url: /railway
+    - listitem
+  - generic [ref=f49e12]:
+    - heading "Senior Product Engineer, Scalability" [level=1] [ref=f49e14]
+    - generic [ref=f49e15]:
+      - generic [ref=f49e16]:
+        - generic [ref=f49e17]:
+          - heading "Location" [level=2] [ref=f49e18]
+          - paragraph [ref=f49e19]: Global
+        - generic [ref=f49e20]:
+          - heading "Employment Type" [level=2] [ref=f49e21]
+          - paragraph [ref=f49e22]: Full time
+        - generic [ref=f49e23]:
+          - heading "Location Type" [level=2] [ref=f49e24]
+          - paragraph [ref=f49e25]: Remote
+        - generic [ref=f49e26]:
+          - heading "Department" [level=2] [ref=f49e27]
+          - paragraph [ref=f49e28]:
+            - generic [ref=f49e29]: Product ›
+            - generic [ref=f49e30]: Engineering
+      - generic [ref=f49e31]:
+        - tablist [ref=f49e32]:
+          - tab "Overview" [selected] [ref=f49e33] [cursor=pointer]
+          - tab "Application" [ref=f49e34] [cursor=pointer]
+        - tabpanel "Overview" [ref=f49e36]:
+          - generic [ref=f49e37]:
+            - paragraph [ref=f49e38]: Our core mission at Railway is to make software engineers higher leverage. We believe that people should be given powerful tools so that they can spend less time setting up to do, and more time doing. Railway now powers workloads for millions of builders, and the systems underneath — usage metering, billing and payments, fraud and abuse protection, background workers, and the data pipelines that feed them all — have to scale every week.
+            - paragraph [ref=f49e39]: "You'll be the person who architects that stack: making it fast, correct, and trustworthy at a volume that keeps growing. If you're looking to scale the backbone of an operating system for builders, we'd love to talk with you!"
+            - paragraph [ref=f49e40]:
+              - text: Want to learn about our work culture? Here is a multi-part blog series that will help you see the unique ways our team works (Parts
+              - link "1" [ref=f49e41] [cursor=pointer]:
+                - /url: https://blog.railway.app/p/how-we-work
+              - text: ","
+              - link "2" [ref=f49e42] [cursor=pointer]:
+                - /url: https://blog.railway.app/p/how-we-work-volume-ii
+              - text: ","
+              - link "3" [ref=f49e43] [cursor=pointer]:
+                - /url: https://blog.railway.app/p/how-we-work-volume-iii
+              - text: ", and"
+              - link "4" [ref=f49e44] [cursor=pointer]:
+                - /url: https://blog.railway.com/p/how-we-work-volume-iv
+              - text: ).
+            - heading "About the role" [level=3] [ref=f49e45]
+            - paragraph [ref=f49e46]: This is a backend-leaning role focused on scaling systems. Billing and fraud will be a focus, but your remit spans every high-throughput system at Railway — workers, queues, event pipelines, and the databases underneath them. You'll own your work end-to-end, including when a feature reaches the UI.
+            - paragraph [ref=f49e47]: "For this role, you will:"
+            - list [ref=f49e48]:
+              - listitem [ref=f49e49]:
+                - paragraph [ref=f49e50]: Architect and scale the pipelines that turn raw usage into accurate, real-time billing — metering, aggregation, rating, and invoicing across millions of events, from ingestion in ClickHouse to the rating engine.
+              - listitem [ref=f49e51]:
+                - paragraph [ref=f49e52]: "Build payment flows that are correct under concurrency and partial failure: idempotent charges, retries, reconciliation, and clean handling of provider edge cases (Stripe and beyond)."
+              - listitem [ref=f49e53]:
+                - paragraph [ref=f49e54]: Develop fraud and abuse detection — signal collection, real-time scoring, automated mitigation — that protects platform margin without getting in legitimate users' way.
+              - listitem [ref=f49e55]:
+                - paragraph [ref=f49e56]: "Scale the systems everything else depends on: Postgres under heavy write load, Node.js services under pressure, and long-running workflows orchestrated with Temporal where exactly-once semantics and durability actually matter."
+              - listitem [ref=f49e57]:
+                - paragraph [ref=f49e58]: Build TypeScript + GraphQL APIs where correctness and auditability are non-negotiable.
+              - listitem [ref=f49e59]:
+                - paragraph [ref=f49e60]: Write Engineering Requirement Documents to take something from idea, to defined tasks, to implementation, to monitoring its success and scaling it further.
+              - listitem [ref=f49e61]:
+                - paragraph [ref=f49e62]: Contribute to our open-source repositories (CLI, Typescript SDK, Railpack, etc.) — Rust experience, or the desire to learn it, helps here.
+              - listitem [ref=f49e63]:
+                - paragraph [ref=f49e64]: Be oncall from time to time.
+            - paragraph [ref=f49e65]: "Some projects this team takes on:"
+            - list [ref=f49e66]:
+              - listitem [ref=f49e67]:
+                - paragraph [ref=f49e68]: "Re-architect billing end-to-end: per-second usage metering at platform scale, idempotent payment processing that survives provider outages without double-charging, and credit, prepayment, and enterprise-invoicing models that hold up under audit."
+              - listitem [ref=f49e69]:
+                - paragraph [ref=f49e70]: Stand up a fraud-detection service that scores signups and deployments in real time and automatically throttles abuse (crypto mining, free-tier farming, stolen cards).
+              - listitem [ref=f49e71]:
+                - paragraph [ref=f49e72]: Scale our Temporal workloads to orchestrate workflows across millions of deployments.
+              - listitem [ref=f49e73]:
+                - paragraph [ref=f49e74]: Build internal tooling that gives teams across Railway a trustworthy, real-time view into the systems they depend on.
+            - paragraph [ref=f49e75]: This is a high impact, high agency role with direct effect on company culture, trajectory, and outcome.
+            - heading "About you" [level=3] [ref=f49e76]
+            - list [ref=f49e77]:
+              - listitem [ref=f49e78]:
+                - paragraph [ref=f49e79]: An ability to autonomously lead, design, and implement backend systems where correctness, consistency, and auditability are first-class requirements.
+              - listitem [ref=f49e80]:
+                - paragraph [ref=f49e81]: A track record of scaling systems — you've taken a pipeline, service, or database that was falling over and made it handle 10x, and you know which tools to reach for (and when polling stops being enough).
+              - listitem [ref=f49e82]:
+                - paragraph [ref=f49e83]: Deep expertise in Postgres and relational data modeling — you reach for the right consistency guarantees, understand the cost of getting them wrong, and know how Postgres itself behaves at scale.
+              - listitem [ref=f49e84]:
+                - paragraph [ref=f49e85]: Strong working knowledge of Node.js internals — the event loop, memory behavior, and what to do when a service degrades under load.
+              - listitem [ref=f49e86]:
+                - paragraph [ref=f49e87]: Experience managing complex asynchronous and long-running backend jobs, ideally with a workflow engine like Temporal, for things like billing runs or payment reconciliation.
+              - listitem [ref=f49e88]:
+                - paragraph [ref=f49e89]: "Familiarity with the realities of money movement: payment providers, idempotency, retries, reconciliation, and their failure modes. Direct billing, payments, or fraud experience is a strong plus."
+              - listitem [ref=f49e90]:
+                - paragraph [ref=f49e91]: A security and abuse-aware mindset — you instinctively think about how a system can be gamed, and you design accordingly.
+              - listitem [ref=f49e92]:
+                - paragraph [ref=f49e93]: A desire to be a part of the entire project development process, from research gathering and planning, to implementation and monitoring.
+              - listitem [ref=f49e94]:
+                - paragraph [ref=f49e95]: Great written and verbal communication skills for expressing ideas, designs, and potential solutions in a mostly-asynchronous manner.
+            - paragraph [ref=f49e96]: We value and love to work with diverse persons from all backgrounds.
+            - heading "Things to know" [level=3] [ref=f49e97]
+            - paragraph [ref=f49e98]: For better or worse, we're a startup; our team dynamics are different from companies of different sizes and stages.
+            - list [ref=f49e99]:
+              - listitem [ref=f49e100]:
+                - paragraph [ref=f49e101]: We're globally distributed—and getting more so. Stuff is always happening somewhere.
+              - listitem [ref=f49e102]:
+                - paragraph [ref=f49e103]: We don't expect you to be online all the time, but you'll need to be diligent about your boundaries — your end of day will overlap with someone else's start.
+              - listitem [ref=f49e104]:
+                - paragraph [ref=f49e105]: We're a small, high-ownership team that cares deeply about doing exceptional work. We're scaling quickly, which means we rely on leverage—systems over coordination, judgment over process. Expect ambiguity and a fast-moving environment.
+              - listitem [ref=f49e106]:
+                - paragraph [ref=f49e107]: You'll own real outcomes. That means making decisions, not just executing—and owning the success, or failure, that comes with them.
+            - heading "Benefits and perks" [level=3] [ref=f49e108]
+            - paragraph [ref=f49e109]:
+              - text: At Railway, we provide best in class benefits. Great salary, full health benefits including dependents, strong equity grants, equipment stipend, and much more. For more details, check back on the main
+              - link "careers page" [ref=f49e110] [cursor=pointer]:
+                - /url: https://railway.com/careers
+              - text: .
+            - paragraph [ref=f49e111]: "Beyond compensation, there are a few things that we believe make working at Railway truly unique:"
+            - list [ref=f49e112]:
+              - listitem [ref=f49e113]:
+                - paragraph [ref=f49e114]:
+                  - strong [ref=f49e115]: "Autonomy:"
+                  - text: We have very few meetings. Just a Monday and a Friday to go over the Company Board. We think your time is sacred, whether it's at work, or outside of work.
+              - listitem [ref=f49e116]:
+                - paragraph [ref=f49e117]:
+                  - strong [ref=f49e118]: "Ownership:"
+                  - text: We're a company with a high ownership, high autonomy culture. We hope that you'll come in, help us, and over the course of many years do the best work of your life. When we bring you onboard, we expect you to change the company.
+              - listitem [ref=f49e119]:
+                - paragraph [ref=f49e120]:
+                  - strong [ref=f49e121]: "Novel problems/solutions:"
+                  - text: We're a startup that's well funded, with cool problems, which lets us implement novel solutions! We abhor "busywork" and think, whether it's community, engineering, operations, etc there's always opportunity for creative and high leverage solutions.
+              - listitem [ref=f49e122]:
+                - paragraph [ref=f49e123]:
+                  - strong [ref=f49e124]: "Growth:"
+                  - text: We want you to grow with us, but we know that talent is loaned, so when you figure out what area you want to grow in next, whether it's at Railway or outside, we'll make sure you land there.
+            - heading "How we hire" [level=3] [ref=f49e125]
+            - paragraph [ref=f49e126]: No tricks. No surprises. Here's the entire process.
+            - paragraph [ref=f49e127]:
+              - strong [ref=f49e128]: 1 — Talk with us about the role
+            - paragraph [ref=f49e129]: This is completely open ended and we're just trying to see who you are, what you want to do, and where you wanna go.
+            - paragraph [ref=f49e130]:
+              - strong [ref=f49e131]: 2 — Work on a small project to discuss in the interview
+            - paragraph [ref=f49e132]: "Asynchronously design a system that scales. You choose the domain — pick whichever shows your thinking best:"
+            - list [ref=f49e133]:
+              - listitem [ref=f49e134]:
+                - paragraph [ref=f49e135]: A usage metering and billing pipeline that meters CPU/RAM for millions of workloads and bills accurately (you may depend on third parties such as Stripe), or
+              - listitem [ref=f49e136]:
+                - paragraph [ref=f49e137]: A stream-processing system that ingests high-cardinality observability events in real time, or
+              - listitem [ref=f49e138]:
+                - paragraph [ref=f49e139]
+            - paragraph [ref=f49e140]: "Whatever you pick, come ready to defend the architecture end-to-end. We'll dig into:"
+            - list [ref=f49e141]:
+              - listitem [ref=f49e142]:
+                - paragraph [ref=f49e143]: Polling vs. stream processing, and how you avoid losing data when streaming
+              - listitem [ref=f49e144]:
+                - paragraph [ref=f49e145]: "Correctness under concurrency and partial failure: idempotency, retries, reconciliation, what happens when a step fails halfway through"
+              - listitem [ref=f49e146]:
+                - paragraph [ref=f49e147]: How you handle cardinality, and which tools you lean on and why
+              - listitem [ref=f49e148]:
+                - paragraph [ref=f49e149]: The scalability of the things you depend on — what happens when Postgres becomes the bottleneck
+              - listitem [ref=f49e150]:
+                - paragraph [ref=f49e151]: "Interview Structure to expect (60 Minutes):"
+                - list [ref=f49e152]:
+                  - listitem [ref=f49e153]:
+                    - paragraph [ref=f49e154]: "Prework (submitted before your interview): Your design"
+                  - listitem [ref=f49e155]:
+                    - paragraph [ref=f49e156]: "0–5 minutes: Introductions"
+                  - listitem [ref=f49e157]:
+                    - paragraph [ref=f49e158]: "5–35 minutes: Walking through the design and how you'd extend it — new failure modes, 10x load, a fraud signal"
+                  - listitem [ref=f49e159]:
+                    - paragraph [ref=f49e160]: "35–50 minutes: Noodling on technology, data modeling, and how you think about scale, money-movement, and abuse"
+                  - listitem [ref=f49e161]:
+                    - paragraph [ref=f49e162]: "50–60 minutes: Time for you to ask your interviewers questions"
+            - paragraph [ref=f49e163]: You can, and SHOULD! ask us questions ahead of time. Ask away!
+            - paragraph [ref=f49e164]:
+              - strong [ref=f49e165]: 3 — Review your solution with the Team
+            - paragraph [ref=f49e166]: You'll sit down with someone on the team and go over the above. We'll poke into your solution, as well as get you acquainted with two more members of the team.
+            - paragraph [ref=f49e167]: "Looking for: Learn about your problem solving skills. How you break down a problem and how you present a solution."
+            - paragraph [ref=f49e168]:
+              - strong [ref=f49e169]: 4 — Meet the Team
+            - paragraph [ref=f49e170]: You'll meet the Team, which will be comprised of 4 people from vastly different sections of the company.
+            - paragraph [ref=f49e171]: "Looking for: How you work with the rest of the team and communicate."
+            - paragraph [ref=f49e172]:
+              - strong [ref=f49e173]: 5 — Chat with CEO
+            - paragraph [ref=f49e174]: Sit down with our founder and CEO for 30 minutes. This is a 1:1, open ended conversation.
+            - paragraph [ref=f49e175]:
+              - strong [ref=f49e176]: 6 — Offer call
+            - paragraph [ref=f49e177]: Finally, we will present the offers, hammer out the details about your position, tee up onboarding, and start our journey together.
+            - paragraph [ref=f49e178]:
+              - text: "Final Note: The interview goes"
+              - emphasis [ref=f49e179]: both ways
+              - text: . Once again, please ask us things. Many things! Hard things. That's what we're here for.
+          - link [ref=f49e180] [cursor=pointer]:
+            - /url: /railway/5f51771e-339f-49f9-8da2-e3c7179c7bad/application
+            - button "Apply for this Job" [ref=f49e181]
+  - contentinfo [ref=f49e182]:
+    - link "Learn more about Ashby" [ref=f49e183] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f49e184]: Powered by
+      - img "Ashby" [ref=f49e185]
+    - paragraph [ref=f49e191]:
+      - link "Privacy Policy" [ref=f49e192] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f49e193] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f49e194] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure
