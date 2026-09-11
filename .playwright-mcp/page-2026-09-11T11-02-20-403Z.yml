@@ -1,0 +1,336 @@
+- generic [ref=f31e4]:
+  - banner [ref=f31e5]:
+    - navigation [ref=f31e6]:
+      - link [ref=f31e8] [cursor=pointer]:
+        - /url: /us
+      - list [ref=f31e25]:
+        - listitem [ref=f31e26]:
+          - generic [ref=f31e27] [cursor=pointer]: Enterprise
+        - listitem [ref=f31e28]:
+          - generic [ref=f31e29] [cursor=pointer]: SME
+        - listitem [ref=f31e30]:
+          - generic [ref=f31e31] [cursor=pointer]: Personal
+        - listitem [ref=f31e32]:
+          - generic [ref=f31e33] [cursor=pointer]: Resources
+        - listitem [ref=f31e34]:
+          - generic [ref=f31e35] [cursor=pointer]: Developers
+        - listitem [ref=f31e36]:
+          - generic [ref=f31e37] [cursor=pointer]: Company
+      - list [ref=f31e38]:
+        - listitem [ref=f31e39]:
+          - link "Sign in" [ref=f31e40] [cursor=pointer]:
+            - /url: https://app.flutterwave.com/login
+  - main [ref=f31e41]:
+    - navigation [ref=f31e43]:
+      - generic:
+        - link "View open roles" [ref=f31e44] [cursor=pointer]:
+          - /url: /us/careers/vacancies
+        - link "Graduates" [ref=f31e45] [cursor=pointer]:
+          - /url: /us/careers/graduates
+        - link "Overview" [ref=f31e46] [cursor=pointer]:
+          - /url: /us/careers
+    - generic [ref=f31e48]:
+      - paragraph [ref=f31e49]: Ready to kickstart your journey with Flutterwave? Come join us.
+      - generic [ref=f31e50]:
+        - textbox "Search for a job" [ref=f31e54]
+        - combobox [ref=f31e64]:
+          - option "All teams" [selected]
+          - option "Commercial"
+          - option "Compliance, Risk & Audit"
+          - option "COO"
+          - option "Customer Experience"
+          - option "Design"
+          - option "Engineering"
+          - option "Global Expansion and Market Penetration"
+          - option "Finance"
+          - option "Growth"
+          - option "Branding & Storytelling"
+          - option "Office of the CEO"
+          - option "People & Culture"
+          - option "PMO"
+          - option "Product Marketing"
+          - option "Products"
+          - option "Regulatory, Legal & Govt Affairs"
+          - option "Settlement Operations"
+          - option "Graduates"
+        - combobox [ref=f31e72]:
+          - option "All locations" [selected]
+          - option "Algeria"
+          - option "Angola"
+          - option "Benin"
+          - option "Botswana"
+          - option "Burkina Faso"
+          - option "Burundi"
+          - option "Cameroon"
+          - option "Cape Verde"
+          - option "Central African Republic"
+          - option "Chad"
+          - option "Comoros"
+          - option "Congo"
+          - option "DR Congo"
+          - option "Djibouti"
+          - option "Egypt"
+          - option "Equatorial Guinea"
+          - option "Eritrea"
+          - option "Swaziland"
+          - option "Ethiopia"
+          - option "Gabon"
+          - option "Ghana"
+          - option "Guinea Bissau"
+          - option "Guinea"
+          - option "Côte d'Ivoire"
+          - option "Kenya"
+          - option "Lesotho"
+          - option "Liberia"
+          - option "Madagascar"
+          - option "Malawi"
+          - option "Mali"
+          - option "Mauritania"
+          - option "Mauritius"
+          - option "Morocco"
+          - option "Mozambique"
+          - option "Namibia"
+          - option "Niger"
+          - option "Nigeria"
+          - option "Rwanda"
+          - option "Sao Tome and Principe"
+          - option "Senegal"
+          - option "Seychelles"
+          - option "Sierra Leone"
+          - option "South Africa"
+          - option "Sudan"
+          - option "Tanzania"
+          - option "Gambia"
+          - option "Togo"
+          - option "Tunisia"
+          - option "Uganda"
+          - option "United Kingdom"
+          - option "United States"
+          - option "Zambia"
+          - option "Rest of Europe"
+          - option "Remote"
+      - generic [ref=f31e73]:
+        - paragraph [ref=f31e74]:
+          - link "Product Manager (Open to candidates in Abuja and Lagos)" [ref=f31e75] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1378
+          - generic [ref=f31e76]: Non Engineering
+          - generic [ref=f31e77]:
+            - img "Nigeria's flag" [ref=f31e78]
+            - text: Nigeria
+        - paragraph [ref=f31e79]:
+          - link "MIS Specialist (Open to candidates in Abuja and Lagos)" [ref=f31e80] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1377
+          - generic [ref=f31e81]: Non Engineering
+          - generic [ref=f31e82]:
+            - img "Nigeria's flag" [ref=f31e83]
+            - text: Nigeria
+        - paragraph [ref=f31e84]:
+          - link "Senior Engineer, Technical Program Management" [ref=f31e85] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1373
+          - generic [ref=f31e86]: Engineering
+          - generic [ref=f31e87]:
+            - img "Nigeria's flag" [ref=f31e88]
+            - text: Nigeria
+        - paragraph [ref=f31e89]:
+          - link "Senior Engineer, Core Support" [ref=f31e90] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1369
+          - generic [ref=f31e91]: Engineering
+          - generic [ref=f31e92]:
+            - img "Nigeria's flag" [ref=f31e93]
+            - text: Nigeria
+        - paragraph [ref=f31e94]:
+          - link "Analytics Engineer" [ref=f31e95] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1370
+          - generic [ref=f31e96]: Data
+          - generic [ref=f31e97]:
+            - img "Nigeria's flag" [ref=f31e98]
+            - text: Nigeria
+        - paragraph [ref=f31e99]:
+          - link "GRC, Privacy & Security Awareness Manager" [ref=f31e100] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1364
+          - generic [ref=f31e101]: Engineering
+          - generic [ref=f31e102]:
+            - img "Nigeria's flag" [ref=f31e103]
+            - text: Nigeria
+        - paragraph [ref=f31e104]:
+          - link "Backend Engineer, NodeJS" [ref=f31e105] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1361
+          - generic [ref=f31e106]: Engineering
+          - generic [ref=f31e107]:
+            - img "Nigeria's flag" [ref=f31e108]
+            - text: Nigeria
+        - paragraph [ref=f31e109]:
+          - link "Technical Executive Assistant" [ref=f31e110] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1357
+          - generic [ref=f31e111]: Non Engineering
+          - generic [ref=f31e112]:
+            - img "Nigeria's flag" [ref=f31e113]
+            - text: Abuja
+        - paragraph [ref=f31e114]:
+          - link "Business Operations Partner" [ref=f31e115] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1352
+          - generic [ref=f31e116]: Strategy and Operations
+          - generic [ref=f31e117]:
+            - img "Nigeria's flag" [ref=f31e118]
+            - text: Nigeria
+        - paragraph [ref=f31e119]:
+          - link "Senior Java Backend Engineer" [ref=f31e120] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1347
+          - generic [ref=f31e121]: Engineering
+          - generic [ref=f31e122]:
+            - img "Nigeria's flag" [ref=f31e123]
+            - text: Nigeria
+        - paragraph [ref=f31e124]:
+          - link "Associate, Fraud Risk" [ref=f31e125] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1344
+          - generic [ref=f31e126]: Risk
+          - generic [ref=f31e127]:
+            - img "Nigeria's flag" [ref=f31e128]
+            - text: Nigeria
+        - paragraph [ref=f31e129]:
+          - link "Manager, Fraud Risk" [ref=f31e130] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1340
+          - generic [ref=f31e131]: Risk & Compliance
+          - generic [ref=f31e132]:
+            - img "Nigeria's flag" [ref=f31e133]
+            - text: Nigeria
+        - paragraph [ref=f31e134]:
+          - link "Data Scientist, Risk" [ref=f31e135] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1338
+          - generic [ref=f31e136]: Risk
+          - generic [ref=f31e137]:
+            - img "Nigeria's flag" [ref=f31e138]
+            - text: Nigeria
+        - paragraph [ref=f31e139]:
+          - link "Senior Manager, Financial Reporting" [ref=f31e140] [cursor=pointer]:
+            - /url: https://flutterwavego.bamboohr.com/careers/1256
+          - generic [ref=f31e141]: Finance
+          - generic [ref=f31e142]:
+            - img "Nigeria's flag" [ref=f31e143]
+            - text: Nigeria
+  - generic [ref=f31e146]:
+    - paragraph [ref=f31e147]:
+      - text: We use cookies on our website to improve your user experience. You can accept or manage your cookie preferences. To learn more about our use of cookies,
+      - link "view our detailed Cookie Notice." [ref=f31e148] [cursor=pointer]:
+        - /url: /us/cookies-policy
+    - generic [ref=f31e149]:
+      - button "Accept" [ref=f31e150] [cursor=pointer]
+      - link "Cookie settings" [ref=f31e151] [cursor=pointer]:
+        - /url: /us/cookie-settings
+  - generic [ref=f31e154]:
+    - link "We've secured our banking license in Nigeria, our largest market 🎉. See what this means for you →" [ref=f31e155] [cursor=pointer]:
+      - /url: /us/bank
+    - button [ref=f31e156] [cursor=pointer]
+  - contentinfo [ref=f31e160]:
+    - generic [ref=f31e161]:
+      - generic [ref=f31e162]:
+        - generic [ref=f31e163]:
+          - heading "Products" [level=6] [ref=f31e165]
+          - navigation [ref=f31e166]:
+            - link "Collect Payments" [ref=f31e167] [cursor=pointer]:
+              - /url: /us/collect-payments
+            - link "Send Money" [ref=f31e168] [cursor=pointer]:
+              - /url: /us/send-money
+            - link "Store" [ref=f31e169] [cursor=pointer]:
+              - /url: /us/store
+            - link "Payment Links" [ref=f31e170] [cursor=pointer]:
+              - /url: /us/payment-links
+            - link "Invoices" [ref=f31e171] [cursor=pointer]:
+              - /url: /us/invoices
+            - link "Capital" [ref=f31e172] [cursor=pointer]:
+              - /url: /us/capital
+            - link "Grow" [ref=f31e173] [cursor=pointer]:
+              - /url: /us/grow
+            - link "Card Issuing" [ref=f31e174] [cursor=pointer]:
+              - /url: /us/card-issuing
+            - link "FaaS" [ref=f31e175] [cursor=pointer]:
+              - /url: /us/faas
+            - link "Send App" [ref=f31e176] [cursor=pointer]:
+              - /url: https://send.flutterwave.com/
+        - generic [ref=f31e177]:
+          - heading "Resources" [level=6] [ref=f31e179]
+          - navigation [ref=f31e180]:
+            - link "Pricing" [ref=f31e181] [cursor=pointer]:
+              - /url: /us/pricing
+            - link "Support" [ref=f31e182] [cursor=pointer]:
+              - /url: /us/support
+            - link "Blog" [ref=f31e183] [cursor=pointer]:
+              - /url: /us/blog
+            - link "Integrations" [ref=f31e184] [cursor=pointer]:
+              - /url: /us/integrations
+            - link "Why you got charged" [ref=f31e185] [cursor=pointer]:
+              - /url: https://dispute.flutterwave.com/
+            - link "Cookie settings" [ref=f31e186] [cursor=pointer]:
+              - /url: /us/cookie-settings
+            - link "Payment protection promise" [ref=f31e187] [cursor=pointer]:
+              - /url: /us/payment-protection-promise
+            - link "Dashboard Guide" [ref=f31e188] [cursor=pointer]:
+              - /url: https://static.myflutterwave.com/resource/qrg-2024.pdf
+            - link "White Papers" [ref=f31e189] [cursor=pointer]:
+              - /url: /us/white-paper
+        - generic [ref=f31e190]:
+          - heading "Developers" [level=6] [ref=f31e192]
+          - navigation [ref=f31e193]:
+            - link "API Documentation" [ref=f31e194] [cursor=pointer]:
+              - /url: https://developer.flutterwave.com/docs
+            - link "API Reference" [ref=f31e195] [cursor=pointer]:
+              - /url: https://developer.flutterwave.com/reference
+            - link "API Status" [ref=f31e196] [cursor=pointer]:
+              - /url: https://status.flutterwave.com/
+        - generic [ref=f31e197]:
+          - heading "Company" [level=6] [ref=f31e199]
+          - navigation [ref=f31e200]:
+            - link "Customers" [ref=f31e201] [cursor=pointer]:
+              - /url: /us/customers
+            - link "Careers" [ref=f31e202] [cursor=pointer]:
+              - /url: /us/careers
+            - link "Press" [ref=f31e203] [cursor=pointer]:
+              - /url: /us/press-kit
+            - link "Covid 19" [ref=f31e204] [cursor=pointer]:
+              - /url: https://flutterwave.com/us/blog/our-response-to-covid-19-our-commitment-to-you
+            - link "2024 Enterprise Report" [ref=f31e205] [cursor=pointer]:
+              - /url: /us/eoy-2024
+            - link "Whistleblowing" [ref=f31e206] [cursor=pointer]:
+              - /url: /us/whistleblowing
+            - link "Flutterwave MFB" [ref=f31e207] [cursor=pointer]:
+              - /url: /us/bank
+        - generic [ref=f31e208]:
+          - heading "Contact" [level=6] [ref=f31e210]
+          - navigation [ref=f31e211]:
+            - link "hi@flutterwavego.com" [ref=f31e212] [cursor=pointer]:
+              - /url: mailto:hi@flutterwavego.com
+            - link "X Support" [ref=f31e213] [cursor=pointer]:
+              - /url: https://twitter.com/flwsupport
+      - generic [ref=f31e214]:
+        - button "Nigeria flag United States" [ref=f31e217] [cursor=pointer]:
+          - img "Nigeria flag" [ref=f31e218]
+          - generic [ref=f31e219]: United States
+        - navigation [ref=f31e223]:
+          - link "X (formerly Twitter)" [ref=f31e224] [cursor=pointer]:
+            - /url: https://twitter.com/theflutterwave
+          - link "Facebook" [ref=f31e225] [cursor=pointer]:
+            - /url: https://www.facebook.com/theFlutterwave/
+          - link "Instagram" [ref=f31e226] [cursor=pointer]:
+            - /url: https://www.instagram.com/theflutterwave/
+          - link "YouTube" [ref=f31e227] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCBIAbIysVyppFIiQP9CV-zQ
+          - link "LinkedIn" [ref=f31e228] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/flutterwave/
+      - navigation [ref=f31e230]:
+        - link "Privacy notice" [ref=f31e231] [cursor=pointer]:
+          - /url: /us/privacy-notice
+        - link "Terms of use" [ref=f31e232] [cursor=pointer]:
+          - /url: /us/terms
+        - link "Cookie notice" [ref=f31e233] [cursor=pointer]:
+          - /url: /us/cookies-policy
+        - link "Merchant service agreement" [ref=f31e234] [cursor=pointer]:
+          - /url: /
+        - link "IMS policy" [ref=f31e235] [cursor=pointer]:
+          - /url: /us/ims-policy
+        - link "Send App licenses" [ref=f31e236] [cursor=pointer]:
+          - /url: https://send.flutterwave.com/legal/licenses
+        - link "IP infringement policy" [ref=f31e237] [cursor=pointer]:
+          - /url: /
+        - link "ESG policy" [ref=f31e238] [cursor=pointer]:
+          - /url: /us/esg-policy
+      - paragraph [ref=f31e240]: © Flutterwave Payments, LLC is Registered with FinCEN. NMLS ID# 2391594

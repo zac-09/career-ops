@@ -1,0 +1,413 @@
+- generic [active] [ref=f36e1]:
+  - link "Skip to content" [ref=f36e2] [cursor=pointer]:
+    - /url: "#site-main"
+  - banner [ref=f36e3]:
+    - navigation "Main" [ref=f36e5]:
+      - link "Go to the homepage" [ref=f36e7] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/
+      - list [ref=f36e10]:
+        - listitem
+        - listitem
+        - listitem [ref=f36e11]:
+          - button "Show Platform menu" [ref=f36e13] [cursor=pointer]:
+            - generic: Platform
+        - listitem [ref=f36e14]:
+          - button "Show Channels & Apps menu" [ref=f36e16] [cursor=pointer]:
+            - generic: Channels & Apps
+        - listitem [ref=f36e17]:
+          - link "Switch to ActiveCampaign" [ref=f36e18] [cursor=pointer]:
+            - /url: https://www.activecampaign.com/switch-to-activecampaign
+        - listitem [ref=f36e19]:
+          - link "Pricing" [ref=f36e20] [cursor=pointer]:
+            - /url: https://www.activecampaign.com/pricing
+        - listitem [ref=f36e21]:
+          - link "Demo" [ref=f36e22] [cursor=pointer]:
+            - /url: https://www.activecampaign.com/demo
+      - generic [ref=f36e23]:
+        - list [ref=f36e25]:
+          - listitem [ref=f36e26]:
+            - link "Search" [ref=f36e27] [cursor=pointer]:
+              - /url: https://www.activecampaign.com/search
+          - listitem [ref=f36e28]:
+            - link "Log in" [ref=f36e29] [cursor=pointer]:
+              - /url: https://www.activecampaign.com/login
+          - listitem [ref=f36e30]:
+            - link "Free trial" [ref=f36e31] [cursor=pointer]:
+              - /url: https://www.activecampaign.com/free
+        - button "Show navigation menu" [ref=f36e32] [cursor=pointer]:
+          - generic: Menu
+  - main [ref=f36e33]:
+    - navigation "Subnavigation" [ref=f36e36]:
+      - link "Careers Hub" [ref=f36e38] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/careers
+      - list [ref=f36e40]:
+        - listitem [ref=f36e41]:
+          - link "Benefits" [ref=f36e42] [cursor=pointer]:
+            - /url: https://www.activecampaign.com/careers/benefits
+        - listitem [ref=f36e44]:
+          - link "Hiring Process" [ref=f36e45] [cursor=pointer]:
+            - /url: https://www.activecampaign.com/careers/job-interview-preparation
+        - listitem [ref=f36e47]:
+          - link "Open roles" [ref=f36e48] [cursor=pointer]:
+            - /url: https://www.activecampaign.com/careers/job-listings
+    - generic [ref=f36e51]:
+      - generic [ref=f36e52]:
+        - heading "Openings in any department" [level=1] [ref=f36e53]
+        - paragraph [ref=f36e55]: We're committed to an inclusive hiring process. If you require an accommodation for your interview, please see our FAQs for more information.
+      - link "See FAQs" [ref=f36e59] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/careers/job-interview-preparation#faq
+    - list [ref=f36e65]:
+      - generic [ref=f36e66]:
+        - heading "Customer Experience" [level=2] [ref=f36e67]
+        - listitem [ref=f36e69]:
+          - link "Manager, Customer Experience - Overnight" [ref=f36e70] [cursor=pointer]:
+            - /url: https://www.activecampaign.com/careers/manager-customer-experience-overnight_00bdbec9-348a-4961-bd97-f0c9b26326b4
+          - paragraph [ref=f36e74]: Heredia
+      - generic [ref=f36e75]:
+        - heading "General" [level=2] [ref=f36e76]
+        - listitem [ref=f36e78]:
+          - link "Interested in Joining Our Team?" [ref=f36e79] [cursor=pointer]:
+            - /url: https://www.activecampaign.com/careers/interested-in-joining-our-team_5c3bb654-ad3a-4231-88c7-226866450802
+          - paragraph [ref=f36e83]: United States, Australia, São Paulo, Heredia, Ireland, Krakow, Mexico
+      - generic [ref=f36e84]:
+        - heading "Growth Sales Activation" [level=2] [ref=f36e85]
+        - listitem [ref=f36e87]:
+          - link "Growth Sales Representative" [ref=f36e88] [cursor=pointer]:
+            - /url: https://www.activecampaign.com/careers/growth-sales-representative_c66a033f-2b8f-4bd5-a134-3b2715f0a9e8
+          - paragraph [ref=f36e92]: Chicago
+      - generic [ref=f36e93]:
+        - heading "Platform & Data Engineering" [level=2] [ref=f36e94]
+        - generic [ref=f36e95]:
+          - listitem [ref=f36e96]:
+            - link "Data Software Engineer" [ref=f36e97] [cursor=pointer]:
+              - /url: https://www.activecampaign.com/careers/data-software-engineer_6a871913-6a43-4b34-94dd-1fbd83451dbc
+            - paragraph [ref=f36e101]: Krakow
+          - listitem [ref=f36e102]:
+            - link "Senior Data Software Engineer" [ref=f36e103] [cursor=pointer]:
+              - /url: https://www.activecampaign.com/careers/senior-data-software-engineer_579b67f3-f81e-4c38-a142-d6c6db28f8c9
+            - paragraph [ref=f36e107]: Krakow
+      - generic [ref=f36e108]:
+        - heading "Product" [level=2] [ref=f36e109]
+        - generic [ref=f36e110]:
+          - listitem [ref=f36e111]:
+            - link "Director of Product Marketing" [ref=f36e112] [cursor=pointer]:
+              - /url: https://www.activecampaign.com/careers/director-of-product-marketing_fa5bd04f-1af1-4b06-87d9-004d82435545
+            - paragraph [ref=f36e116]: United States
+          - listitem [ref=f36e117]:
+            - link "Principal Product Manager" [ref=f36e118] [cursor=pointer]:
+              - /url: https://www.activecampaign.com/careers/principal-product-manager_232f468d-13ee-43f0-ab5b-88cc750cf64a
+            - paragraph [ref=f36e122]: United States
+      - generic [ref=f36e123]:
+        - heading "Product Engineering" [level=2] [ref=f36e124]
+        - generic [ref=f36e125]:
+          - listitem [ref=f36e126]:
+            - link "Software Engineer, Agent Development" [ref=f36e127] [cursor=pointer]:
+              - /url: https://www.activecampaign.com/careers/software-engineer-agent-development_3e093aec-8540-49c7-93f1-719727c1191d
+            - paragraph [ref=f36e131]: Krakow
+          - listitem [ref=f36e132]:
+            - link "Staff Software Engineer" [ref=f36e133] [cursor=pointer]:
+              - /url: https://www.activecampaign.com/careers/staff-software-engineer_5371c327-dbfe-4991-bee8-2d576dabb172
+            - paragraph [ref=f36e137]: Krakow
+      - generic [ref=f36e138]:
+        - heading "Sales" [level=2] [ref=f36e139]
+        - generic [ref=f36e140]:
+          - listitem [ref=f36e141]:
+            - link "Account Executive - Trilingual" [ref=f36e142] [cursor=pointer]:
+              - /url: https://www.activecampaign.com/careers/account-executive-trilingual_207fd695-69b4-4696-893a-e20934983f92
+            - paragraph [ref=f36e146]: São Paulo
+          - listitem [ref=f36e147]:
+            - link "Account Executive 2" [ref=f36e148] [cursor=pointer]:
+              - /url: https://www.activecampaign.com/careers/account-executive-2_4b028fa8-d525-4c7c-a323-21cb7edd6fad
+            - paragraph [ref=f36e152]: Chicago
+      - generic [ref=f36e153]:
+        - heading "Strategy" [level=2] [ref=f36e154]
+        - listitem [ref=f36e156]:
+          - link "Senior AI Engineer" [ref=f36e157] [cursor=pointer]:
+            - /url: https://www.activecampaign.com/careers/senior-ai-engineer_4f81223a-50ee-495d-a3b7-942659ca5d4a
+          - paragraph [ref=f36e161]: United States
+    - generic [ref=f36e165]:
+      - generic [ref=f36e166]:
+        - heading "Don’t see exactly what you’re looking for?" [level=2] [ref=f36e167]
+        - paragraph [ref=f36e169]:
+          - text: "Be aware of hiring scams: ActiveCampaign has clear processes and guidelines with regards to recruiting. We do not request personal financial information in connection with a job application. Our people team is in close contact with candidates throughout the interview and employment process. If a job offer from us is unexpected, then it is probably a scam. Contact"
+          - link "careers@activecampaign.com" [ref=f36e170] [cursor=pointer]:
+            - /url: mailto:careers@activecampaign.com
+          - text: should you have any questions or concerns.
+      - link "Submit a general application" [ref=f36e173] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/careers/interested-in-joining-our-team_5c3bb654-ad3a-4231-88c7-226866450802
+  - generic [ref=f36e175]:
+    - generic [ref=f36e177]:
+      - heading "Ready to take ActiveCampaign for a spin?" [level=2] [ref=f36e178]
+      - paragraph [ref=f36e180]: Try it free for 14 days.
+    - generic [ref=f36e184]:
+      - generic [ref=f36e185]: Free 14-day trial with email sign-up
+      - generic [ref=f36e186]:
+        - generic [ref=f36e187]:
+          - generic [ref=f36e188] [cursor=pointer]: Email address
+          - textbox "Email address" [ref=f36e190]
+        - button "Get started" [ref=f36e191] [cursor=pointer]
+      - generic [ref=f36e192]: Join thousands of customers. No credit card needed. Instant setup.
+  - generic [ref=f36e195]:
+    - heading "Connect with all your favorite tools" [level=2] [ref=f36e199]
+    - generic [ref=f36e200]:
+      - link "Salesforce" [ref=f36e201] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/salesforce-integration
+      - link "Wix" [ref=f36e205] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/wix-integration
+      - link "WordPress" [ref=f36e209] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/wordpress-integration
+      - link "Webflow" [ref=f36e213] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/webflow-integration
+      - link "Facebook" [ref=f36e217] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/facebook-integration
+      - link "Instagram" [ref=f36e221] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/instagram-integration
+      - link "Google Ads" [ref=f36e225] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/google-ads-integration
+      - link "Google Sheets" [ref=f36e229] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/google-spreadsheets-integration
+      - link "Calendly" [ref=f36e233] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/calendly-integration
+      - link "Slack" [ref=f36e237] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/slack-integration
+      - link "Square" [ref=f36e241] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/square-integration
+      - link "Typeform" [ref=f36e245] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/typeform-integration
+      - link "Zapier" [ref=f36e249] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/zapier-integration
+      - link "Make" [ref=f36e253] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/make-integration
+      - link "Shopify" [ref=f36e257] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/shopify-integration
+      - link "WooCommerce" [ref=f36e261] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/woocommerce-integration
+      - link "Stripe" [ref=f36e265] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/stripe-integration
+      - link "Mindbody" [ref=f36e269] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/mindbody-integration
+      - link "Clay" [ref=f36e273] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/apps/clay-integration
+  - contentinfo [ref=f36e277]:
+    - generic [ref=f36e278]:
+      - navigation "Platform" [ref=f36e280]:
+        - generic [ref=f36e281]:
+          - heading "Platform" [level=2] [ref=f36e282]
+          - generic [ref=f36e284]:
+            - generic [ref=f36e285]:
+              - heading "Capabilities" [level=3] [ref=f36e286]
+              - list [ref=f36e287]:
+                - listitem [ref=f36e288]:
+                  - link "Autonomous Marketing" [ref=f36e289] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/platform/autonomous-marketing
+                  - generic [ref=f36e290]: New
+                - listitem [ref=f36e291]:
+                  - link "Active Intelligence" [ref=f36e292] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/platform/active-intelligence
+                  - generic [ref=f36e293]: New
+                - listitem [ref=f36e294]:
+                  - link "Marketing Automation" [ref=f36e295] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/platform/marketing-automation
+                - listitem [ref=f36e296]:
+                  - link "CRM" [ref=f36e297] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/platform/sales-crm
+                - listitem [ref=f36e298]:
+                  - link "Content Creation" [ref=f36e299] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/platform/content-creation
+                - listitem [ref=f36e300]:
+                  - link "Analytics & Reporting" [ref=f36e301] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/platform/analytics-and-reporting
+            - generic [ref=f36e302]:
+              - heading "Channels" [level=3] [ref=f36e303]
+              - list [ref=f36e304]:
+                - listitem [ref=f36e305]:
+                  - link "WhatsApp Messaging" [ref=f36e306] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/platform/whatsapp-messaging
+                - listitem [ref=f36e307]:
+                  - link "Email Marketing" [ref=f36e308] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/platform/email-marketing
+                - listitem [ref=f36e309]:
+                  - link "SMS Marketing" [ref=f36e310] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/platform/sms-marketing
+                - listitem [ref=f36e311]:
+                  - link "Segmentation" [ref=f36e312] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/platform/segmentation
+                - listitem [ref=f36e313]:
+                  - link "Landing Pages" [ref=f36e314] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/platform/landing-pages
+            - generic [ref=f36e315]:
+              - heading "Ecosystem" [level=3] [ref=f36e316]
+              - list [ref=f36e317]:
+                - listitem [ref=f36e318]:
+                  - link "Apps & Integrations" [ref=f36e319] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/apps
+                - listitem [ref=f36e320]:
+                  - link "Certified Partners" [ref=f36e321] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/partners/consultants
+      - navigation "Use Cases" [ref=f36e323]:
+        - generic [ref=f36e324]:
+          - heading "Use Cases" [level=2] [ref=f36e325]
+          - generic [ref=f36e327]:
+            - generic [ref=f36e328]:
+              - heading "Featured Industries" [level=3] [ref=f36e329]
+              - list [ref=f36e330]:
+                - listitem [ref=f36e331]:
+                  - link "SaaS & Technology" [ref=f36e332] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/industry/saas-and-technology
+                - listitem [ref=f36e333]:
+                  - link "Ecommerce & Retail" [ref=f36e334] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/industry/ecommerce
+                - listitem [ref=f36e335]:
+                  - link "Franchise & Multi-Location" [ref=f36e336] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/franchise
+                - listitem [ref=f36e337]:
+                  - link "Healthcare" [ref=f36e338] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/industry/healthcare
+                - listitem [ref=f36e339]:
+                  - link "Education & Online Courses" [ref=f36e340] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/industry/online-learning
+                - listitem [ref=f36e341]:
+                  - link "Travel & Hospitality" [ref=f36e342] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/industry/travel-and-hospitality
+                - listitem [ref=f36e343]:
+                  - link "Creators & Influencers" [ref=f36e344] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/industry/creators-and-influencers
+                - listitem [ref=f36e345]:
+                  - link "All Industries" [ref=f36e346] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/solutions
+            - generic [ref=f36e347]:
+              - heading "Audiences" [level=3] [ref=f36e348]
+              - list [ref=f36e349]:
+                - listitem [ref=f36e350]:
+                  - link "Agencies" [ref=f36e351] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/partners/agency
+                - listitem [ref=f36e352]:
+                  - link "Marketers" [ref=f36e353] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/use-cases/marketers
+                - listitem [ref=f36e354]:
+                  - link "Developers" [ref=f36e355] [cursor=pointer]:
+                    - /url: https://developers.activecampaign.com/
+      - navigation "Learn" [ref=f36e357]:
+        - generic [ref=f36e358]:
+          - heading "Learn" [level=2] [ref=f36e359]
+          - generic [ref=f36e361]:
+            - generic [ref=f36e362]:
+              - heading "Resources" [level=3] [ref=f36e363]
+              - list [ref=f36e364]:
+                - listitem [ref=f36e365]:
+                  - link "Case Studies" [ref=f36e366] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/customers
+                - listitem [ref=f36e367]:
+                  - link "Reviews" [ref=f36e368] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/reviews
+                - listitem [ref=f36e369]:
+                  - link "FAQ" [ref=f36e370] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/about/faq
+                - listitem [ref=f36e371]:
+                  - link "Live Events" [ref=f36e372] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/events
+                - listitem [ref=f36e373]:
+                  - link "Templates" [ref=f36e374] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/templates
+                - listitem [ref=f36e375]:
+                  - link "Blog" [ref=f36e376] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/blog
+                - listitem [ref=f36e377]:
+                  - link "Compare" [ref=f36e378] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/compare
+            - generic [ref=f36e379]:
+              - heading "Help" [level=3] [ref=f36e380]
+              - list [ref=f36e381]:
+                - listitem [ref=f36e382]:
+                  - link "Help Docs" [ref=f36e383] [cursor=pointer]:
+                    - /url: https://help.activecampaign.com/hc/en-us
+                - listitem [ref=f36e384]:
+                  - link "Get in Touch" [ref=f36e385] [cursor=pointer]:
+                    - /url: https://help.activecampaign.com/hc/en-us/requests/new
+                - listitem [ref=f36e386]:
+                  - link "Online Training" [ref=f36e387] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/learn
+            - generic [ref=f36e388]:
+              - heading "Services" [level=3] [ref=f36e389]
+              - list [ref=f36e390]:
+                - listitem [ref=f36e391]:
+                  - link "Explore Services" [ref=f36e392] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/services
+            - generic [ref=f36e393]:
+              - heading "Connect" [level=3] [ref=f36e394]
+              - list [ref=f36e395]:
+                - listitem [ref=f36e396]:
+                  - link "Join our Community" [ref=f36e397] [cursor=pointer]:
+                    - /url: https://community.activecampaign.com/
+      - navigation "Company" [ref=f36e399]:
+        - generic [ref=f36e400]:
+          - heading "Company" [level=2] [ref=f36e401]
+          - generic [ref=f36e403]:
+            - generic [ref=f36e404]:
+              - heading "Channel Partners" [level=3] [ref=f36e405]
+              - list [ref=f36e406]:
+                - listitem [ref=f36e407]:
+                  - link "Agency Partners" [ref=f36e408] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/partner
+                - listitem [ref=f36e409]:
+                  - link "Affiliate Partner" [ref=f36e410] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/partners/affiliate
+                - listitem [ref=f36e411]:
+                  - link "App Partners" [ref=f36e412] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/partners/app
+            - generic [ref=f36e413]:
+              - heading "Contact" [level=3] [ref=f36e414]
+              - list [ref=f36e415]:
+                - listitem [ref=f36e416]:
+                  - link "Request Pricing" [ref=f36e417] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/pricing/contact
+                - listitem [ref=f36e418]:
+                  - link "Request a Demo" [ref=f36e419] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/demo
+                - listitem [ref=f36e420]:
+                  - 'link "Sales: +1 (800) 357-0402" [ref=f36e421] [cursor=pointer]':
+                    - /url: tel:+1-800-357-0402
+                - listitem [ref=f36e422]:
+                  - link "Contact Us" [ref=f36e423] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/contact
+            - generic [ref=f36e424]:
+              - heading "Company" [level=3] [ref=f36e425]
+              - list [ref=f36e426]:
+                - listitem [ref=f36e427]:
+                  - link "About Us" [ref=f36e428] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/about
+                - listitem [ref=f36e429]:
+                  - link "Press" [ref=f36e430] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/news
+                - listitem [ref=f36e431]:
+                  - link "Careers" [ref=f36e432] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/careers
+                - listitem [ref=f36e433]:
+                  - link "Privacy Policy" [ref=f36e434] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/legal/privacy-policy
+                - listitem [ref=f36e435]:
+                  - link "CCPA Opt-Out" [ref=f36e436] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/legal/ccpa-updates#how-to-exercise-your-california-privacy-rights
+                - listitem [ref=f36e437]:
+                  - link "Legal Center" [ref=f36e438] [cursor=pointer]:
+                    - /url: https://www.activecampaign.com/legal
+    - generic [ref=f36e440]:
+      - link "Go to the homepage" [ref=f36e442] [cursor=pointer]:
+        - /url: https://www.activecampaign.com/
+      - list [ref=f36e447]:
+        - listitem [ref=f36e448]:
+          - link "Visit ActiveCampaign on Twitter" [ref=f36e449] [cursor=pointer]:
+            - /url: https://twitter.com/ActiveCampaign
+        - listitem [ref=f36e451]:
+          - link "Visit ActiveCampaign on Facebook" [ref=f36e452] [cursor=pointer]:
+            - /url: https://www.facebook.com/activecampaign
+        - listitem [ref=f36e454]:
+          - link "Visit ActiveCampaign on LinkedIn" [ref=f36e455] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/activecampaign
+        - listitem [ref=f36e457]:
+          - link "Visit ActiveCampaign on Instagram" [ref=f36e458] [cursor=pointer]:
+            - /url: https://www.instagram.com/activecampaign
+        - listitem [ref=f36e460]:
+          - link "Visit ActiveCampaign on Youtube" [ref=f36e461] [cursor=pointer]:
+            - /url: https://www.youtube.com/@ActiveCampaign
+      - paragraph [ref=f36e464]: © 2026 ActiveCampaign

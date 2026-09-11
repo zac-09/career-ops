@@ -1,0 +1,147 @@
+- generic [active] [ref=f32e1]:
+  - banner [ref=f32e2]:
+    - navigation "Logo menu" [ref=f32e3]:
+      - link "Fly App performance optimization" [ref=f32e4] [cursor=pointer]:
+        - /url: /
+        - img "Fly App performance optimization"
+      - link "Jobs" [ref=f32e5] [cursor=pointer]:
+        - /url: /jobs/
+        - img "Jobs"
+    - link [ref=f32e7] [cursor=pointer]:
+      - /url: https://fly.io/docs/about/brand/
+      - strong [ref=f32e9]: Need a Logo?
+      - generic [ref=f32e10]: View Our Brand Assets
+    - navigation "Main menu" [ref=f32e13]:
+      - generic [ref=f32e14]:
+        - link "Sign In" [ref=f32e15] [cursor=pointer]:
+          - /url: https://fly.io/app/sign-in
+        - link "Get Started" [ref=f32e16] [cursor=pointer]:
+          - /url: /docs/hands-on/start/
+        - link "RSS Feed" [ref=f32e17] [cursor=pointer]:
+          - /url: /jobs/feed.xml
+  - main [ref=f32e19]:
+    - generic [ref=f32e20]:
+      - heading "Infrastructure Operations Engineer" [level=1] [ref=f32e21]
+      - generic [ref=f32e22]:
+        - term [ref=f32e23]: Work From
+        - definition [ref=f32e24]: Anywhere
+    - article [ref=f32e25]:
+      - generic [ref=f32e26]:
+        - paragraph [ref=f32e28]: "Fly.io builds computers for agents. It’s the thing we’re excited about right now and the future we’re building toward: agents that need a real computer, fast to start, isolated, disposable, reachable from anywhere, spun up thousands at a time and gone again. That unlocks a category of work that doesn’t happen on a shared sandbox, and demand for it is a big part of why our fleet is growing the way it is."
+        - paragraph [ref=f32e29]: The good news, and the reason we can move quickly on it, is that we already built the machine that does this and it has thousands of customers. Our platform transmogrifies Docker containers into Firecracker micro-VMs that run on our own hardware around the world, and connects all of them to a global Anycast network that picks up requests from everywhere and routes them to the nearest VM. That’s what runs apps close to users, and teams run their production workloads on it today. Computers for agents isn’t a separate product bolted on the side, they are born out of the same platform. Our infrastructure needs to support everything, be it an app made by an agent, or a computer that an agent runs on, or the millions of apps that have been running on our platform since before the age of agents.
+        - paragraph [ref=f32e30]: We run customer apps on our own hardware, in a variety of data centers everywhere on the globe. Keeping that fleet healthy, growing, and ahead of demand is the job of the infrastructure operations team. We’re looking for new members.
+        - heading "Anchor About this role" [level=3] [ref=f32e31]:
+          - link "Anchor" [ref=f32e32] [cursor=pointer]:
+            - /url: "#about-this-role"
+          - generic [ref=f32e33]: About this role
+        - paragraph [ref=f32e34]: The kernel of this role is incident management. Not in a procedural sense, but in a visceral, hands-on-keyboard, first-and-last responder sense. For this role to be a fit, this stuff needs to be in your blood. Lots of engineers find incident response unpleasant or even paralyzing. You need to find it energizing, like the loose cannon protagonist of a buddy cop movie.
+        - paragraph [ref=f32e35]: When things go wrong (for you), you’re going to parachute into the middle of it. You’ll inspect physicals and our hosting stack (a mix of standard stuff and a lot of orchestration and systems stuff we built ourselves) and figure out what’s going on. At times, you’ll need to become a world expert in Linux kernel features you only learned about 15 minutes earlier. That’s the gig.
+        - paragraph [ref=f32e36]: Over the past year, we’ve scaled to thousands of servers with a very small team. While none of us work directly inside data centers, that level of hardware and networking knowledge is genuinely valuable here; we often need to be a step ahead of our upstream partners.
+        - paragraph [ref=f32e37]:
+          - text: Beyond logging into servers and configuring software, this is a
+          - strong [ref=f32e38]: communication role
+          - text: ". “Teamwork” is not a platitude here; most incidents require team solutions, and you’ll need to be the force pulling that team together. That includes:"
+        - list [ref=f32e39]:
+          - listitem [ref=f32e40]: • consulting with product teams and figuring out what they actually need
+          - listitem [ref=f32e41]: • working with our upstream providers to acquire new hardware and chase down issues
+          - listitem [ref=f32e42]: • getting onto the radar of different platform teams in our organization (Fly Machines, networking, MPG, Sprites) and getting the right people involved in ongoing incidents
+          - listitem [ref=f32e43]: • much more where that came from.
+        - paragraph [ref=f32e44]: "One big difference between infra at Fly.io and infra at many other places: we have our own Infrastructure as Code stack. You need to be a software developer; you’ll be reading and writing real code in a variety of languages (specifically: we build in Rust, Go, Ruby, and Elixir, on Linux). Willingness to learn any of those languages goes a long way, but you’ll need to have good foundations."
+        - heading "Anchor What we’re looking for" [level=3] [ref=f32e45]:
+          - link "Anchor" [ref=f32e46] [cursor=pointer]:
+            - /url: "#what-were-looking-for"
+          - generic [ref=f32e47]: What we’re looking for
+        - list [ref=f32e48]:
+          - listitem [ref=f32e49]:
+            - text: •
+            - strong [ref=f32e50]: Software development experience.
+            - text: Our IaC is our own, written across a variety of languages. You don’t need to already know all of them, but you do need to be willing to learn.
+          - listitem [ref=f32e51]:
+            - text: •
+            - strong [ref=f32e52]: Domain expertise.
+            - text: At minimum, you need to be day-1 comfortable with Linux networking and routing, standard ops telemetry (Prometheus, OpenTelemetry), and Linux performance measurement. You’re a build-your-own-kernel type.
+          - listitem [ref=f32e53]:
+            - text: •
+            - strong [ref=f32e54]: A talented communicator.
+            - text: The role depends on talking to product teams, upstream providers, and whoever’s in the room during an incident, and turning that into the right action.
+          - listitem [ref=f32e55]:
+            - text: •
+            - strong [ref=f32e56]: Hardware and networking experience.
+            - text: We don’t rack servers ourselves, but we work with partners on the physical side, and knowing that world is a real edge.
+          - listitem [ref=f32e57]:
+            - text: •
+            - strong [ref=f32e58]: Operationally calm under fire.
+            - text: When something breaks, you’re the kind of person who jumps in and figures out what’s actually needed.
+        - heading "Anchor How We Hire" [level=3] [ref=f32e59]:
+          - link "Anchor" [ref=f32e60] [cursor=pointer]:
+            - /url: "#how-we-hire"
+          - generic [ref=f32e61]: How We Hire
+        - paragraph [ref=f32e62]: This is a mid-level, remote, full-time position.
+        - paragraph [ref=f32e63]: In order to optimize for pay equity, Fly.io doesn’t negotiate salaries. We have standardized salaries for each employee level. The salary for this role is $190k USD, and we offer competitive equity grants with a long exercise window. We provide flexible vacation time (with a minimum), hardware/phone allowances, the standard stuff.
+        - paragraph [ref=f32e64]: Our hiring process may be a little different from what you’re used to. We respect career experience but we aren’t hypnotized by it, and we’re thrilled at the prospect of discovering new talent. So instead of resumes and interviews, we’re going to show you the kind of work we’re doing and then see if you enjoy actually doing it, with “work-sample challenges”. Unlike a lot of places that assign “take-home problems”, our challenges are the backbone of our whole process; they’re not pre-screeners for an interview gauntlet. (We’re happy to talk, though!)
+        - paragraph [ref=f32e65]:
+          - text: There’s more about us than you probably want to know
+          - link "at our hiring documentation" [ref=f32e66] [cursor=pointer]:
+            - /url: https://fly.io/docs/hiring/
+          - text: .
+        - paragraph [ref=f32e67]:
+          - text: If you’re interested, mail
+          - link "jobs+infra@fly.io" [ref=f32e68] [cursor=pointer]:
+            - /url: mailto:jobs+infra@fly.io
+          - text: . You can tell us a bit about yourself, if you like. Please include your location, your Github username for work sample access, and your favorite fancy beverage. We probably won’t respond to emails that don’t include all three items.
+  - contentinfo [ref=f32e69]:
+    - generic [ref=f32e70]:
+      - link "Fly App performance optimization" [ref=f32e71] [cursor=pointer]:
+        - /url: /
+        - img "Fly App performance optimization"
+      - generic [ref=f32e72]:
+        - generic [ref=f32e73]:
+          - term [ref=f32e74]: Company
+          - definition [ref=f32e75]:
+            - link "About" [ref=f32e76] [cursor=pointer]:
+              - /url: /about/
+            - link "Pricing" [ref=f32e77] [cursor=pointer]:
+              - /url: /pricing/
+            - link "Jobs" [ref=f32e78] [cursor=pointer]:
+              - /url: /jobs/
+            - link "News" [ref=f32e79] [cursor=pointer]:
+              - /url: /news/
+        - generic [ref=f32e80]:
+          - term [ref=f32e81]: Articles
+          - definition [ref=f32e82]:
+            - link "Blog" [ref=f32e83] [cursor=pointer]:
+              - /url: /blog/
+            - link "Infra Log" [ref=f32e84] [cursor=pointer]:
+              - /url: /infra-log/
+        - generic [ref=f32e85]:
+          - term [ref=f32e86]: Resources
+          - definition [ref=f32e87]:
+            - link "Docs" [ref=f32e88] [cursor=pointer]:
+              - /url: /docs/
+            - link "Support" [ref=f32e89] [cursor=pointer]:
+              - /url: /docs/support/
+            - link "Support Metrics" [ref=f32e90] [cursor=pointer]:
+              - /url: /support/
+            - link "Status" [ref=f32e91] [cursor=pointer]:
+              - /url: https://status.flyio.net/
+        - generic [ref=f32e92]:
+          - term [ref=f32e93]: Contact
+          - definition [ref=f32e94]:
+            - link "GitHub" [ref=f32e95] [cursor=pointer]:
+              - /url: https://github.com/superfly/
+            - link "Twitter" [ref=f32e96] [cursor=pointer]:
+              - /url: https://twitter.com/flydotio
+            - link "Community" [ref=f32e97] [cursor=pointer]:
+              - /url: https://community.fly.io/
+        - generic [ref=f32e98]:
+          - term [ref=f32e99]: Legal
+          - definition [ref=f32e100]:
+            - link "Security" [ref=f32e101] [cursor=pointer]:
+              - /url: /docs/security/
+            - link "Privacy policy" [ref=f32e102] [cursor=pointer]:
+              - /url: /legal/privacy-policy
+            - link "Terms of service" [ref=f32e103] [cursor=pointer]:
+              - /url: /legal/terms-of-service
+            - link "Acceptable Use Policy" [ref=f32e104] [cursor=pointer]:
+              - /url: /legal/acceptable-use-policy
+    - paragraph [ref=f32e105]: Copyright © 2026 Fly.io
