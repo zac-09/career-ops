@@ -49,7 +49,27 @@ const GENERIC_ROLE_WORDS = new Set([
   'remote', 'global', 'technical',
 ]);
 
+// Seniority words are stripped as generic (they carry no domain signal), but two
+// reqs on the same board that differ ONLY by seniority are different jobs with
+// different bands -- e.g. G2i "Senior Engineer (Full-Stack, React 19 + Node.js)"
+// vs "Staff Engineer (Full-Stack lead, React + Node.js)", which otherwise overlap
+// on react/stack and collapse onto one tracker row.
+const SENIORITY_WORDS = new Set([
+  'junior', 'mid', 'senior', 'staff', 'principal', 'lead', 'head', 'director',
+]);
+
+function seniorityTokens(s) {
+  return new Set(s.toLowerCase().split(/[^a-z0-9]+/).filter(w => SENIORITY_WORDS.has(w)));
+}
+
 function roleFuzzyMatch(a, b) {
+  // Different seniority bands are different roles. Only applies when BOTH titles
+  // state a band -- "Backend Engineer" vs "Senior Backend Engineer" still falls
+  // through to the overlap test below, since the bare title may just be shorthand.
+  const senA = seniorityTokens(a);
+  const senB = seniorityTokens(b);
+  if (senA.size && senB.size && ![...senA].some(w => senB.has(w))) return false;
+
   // Keep distinctive words: >3 chars, or short domain acronyms (AI, ML, QA, UX, UI, SRE, API...)
   // so "Senior AI Platform Engineer" doesn't collapse to just ["platform"] and
   // false-positive match a different role like "Platform Tech Lead".
