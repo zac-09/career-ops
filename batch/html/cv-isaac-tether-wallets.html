@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Isaac Mubiru — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin-ext.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin-ext.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    background: #ffffff;
+    padding: 0;
+    margin: 0;
+  }
+
+  .page {
+    width: 100%;
+    max-width: 210mm;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  /* === HEADER === */
+  .header {
+    margin-bottom: 16px;
+  }
+
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #1a1a2e;
+    letter-spacing: -0.02em;
+    margin-bottom: 4px;
+  }
+
+  .header-gradient {
+    height: 2px;
+    background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+    border-radius: 1px;
+    margin-bottom: 8px;
+  }
+
+  .contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 16px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    color: #555;
+  }
+
+  .contact-row a {
+    color: #555;
+    text-decoration: none;
+  }
+
+  .contact-row .separator {
+    color: #ccc;
+  }
+
+  /* === SECTIONS === */
+  .section {
+    margin-bottom: 14px;
+  }
+
+  .section-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: hsl(187, 74%, 32%);
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 3px;
+    margin-bottom: 8px;
+  }
+
+  /* === PROFESSIONAL SUMMARY === */
+  .summary-text {
+    font-size: 11px;
+    line-height: 1.6;
+    color: #333;
+  }
+
+  /* Links must never break across lines */
+  a {
+    white-space: nowrap;
+  }
+
+  /* === CORE COMPETENCIES === */
+  .competencies-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .competency-tag {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    color: hsl(187, 74%, 28%);
+    background: hsl(187, 40%, 95%);
+    padding: 3px 10px;
+    border-radius: 3px;
+    border: 1px solid hsl(187, 40%, 88%);
+  }
+
+  /* === WORK EXPERIENCE === */
+  .job {
+    margin-bottom: 12px;
+  }
+
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 2px;
+  }
+
+  .job-company {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+
+  .job-period {
+    font-size: 10px;
+    color: #777;
+    white-space: nowrap;
+  }
+
+  .job-role {
+    font-size: 11px;
+    font-weight: 500;
+    color: #444;
+    margin-bottom: 4px;
+  }
+
+  .job-location {
+    font-size: 10px;
+    color: #888;
+  }
+
+  .job ul {
+    padding-left: 16px;
+    margin-top: 4px;
+  }
+
+  .job li {
+    font-size: 10.5px;
+    line-height: 1.5;
+    color: #333;
+    margin-bottom: 2px;
+  }
+
+  .job li strong {
+    font-weight: 600;
+  }
+
+  /* === PROJECTS === */
+  .project {
+    margin-bottom: 10px;
+  }
+
+  .project-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+
+  .project-badge {
+    font-size: 9px;
+    font-weight: 500;
+    color: hsl(187, 74%, 32%);
+    background: hsl(187, 40%, 95%);
+    padding: 1px 6px;
+    border-radius: 2px;
+    margin-left: 6px;
+  }
+
+  .project-desc {
+    font-size: 10.5px;
+    color: #444;
+    margin-top: 2px;
+  }
+
+  .project-tech {
+    font-size: 9.5px;
+    color: #888;
+    margin-top: 2px;
+  }
+
+  /* === EDUCATION === */
+  .edu-item {
+    margin-bottom: 6px;
+  }
+
+  .edu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+
+  .edu-title {
+    font-weight: 600;
+    font-size: 11px;
+    color: #333;
+  }
+
+  .edu-org {
+    color: hsl(270, 70%, 45%);
+    font-weight: 500;
+  }
+
+  .edu-year {
+    font-size: 10px;
+    color: #777;
+  }
+
+  .edu-desc {
+    font-size: 10px;
+    color: #666;
+  }
+
+  /* === CERTIFICATIONS === */
+  .cert-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 4px;
+  }
+
+  .cert-title {
+    font-size: 10.5px;
+    font-weight: 500;
+    color: #333;
+  }
+
+  .cert-org {
+    color: hsl(270, 70%, 45%);
+  }
+
+  .cert-year {
+    font-size: 10px;
+    color: #777;
+  }
+
+  /* === SKILLS === */
+  .skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 12px;
+  }
+
+  .skill-item {
+    font-size: 10.5px;
+    color: #444;
+  }
+
+  .skill-category {
+    font-weight: 600;
+    color: #333;
+    font-size: 10.5px;
+  }
+
+  /* === PRINT === */
+  @media print {
+    body {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    .page {
+      padding: 0;
+    }
+  }
+
+  /* === PAGE BREAK CONTROL === */
+  .avoid-break {
+    break-inside: avoid;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header">
+    <h1>Isaac Mubiru</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>isaacmubiru99@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://linkedin.com/in/isaac-mubiru-3bb728174">linkedin.com/in/isaac-mubiru</a>
+      <span class="separator">|</span>
+      <a href="https://github.com/zac-09">github.com/zac-09</a>
+      <span class="separator">|</span>
+      <span>Kampala, Uganda &middot; EAT (UTC+3) &middot; 100% Remote</span>
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">Backend engineer, <strong>very proficient in Node.js and JavaScript</strong>, with 5+ years building and operating complex production platforms. Led the end-to-end migration of <strong>20+ applications</strong> from Parse/MongoDB to Firebase/GCP with <strong>zero downtime</strong> reporting to the CTO, built the <strong>real-time two-way MongoDB &harr; Firestore sync pipeline</strong> on Google Pub/Sub that carried live traffic throughout, and architected a <strong>microservices backend on Apache Kafka, Docker and Kubernetes</strong>. Also built <strong>DeFi backends on Web3</strong>, where every call moves real value and cannot be undone. Now applying that same correctness-first discipline to secure, scalable wallet infrastructure. Open source: <a href="https://github.com/zac-09" style="white-space:nowrap">github.com/zac-09</a></div>
+  </div>
+
+  <!-- CORE COMPETENCIES -->
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">Node.js &amp; JavaScript (5+ yrs)</span>
+      <span class="competency-tag">Microservices Architecture</span>
+      <span class="competency-tag">Complex Platform Development</span>
+      <span class="competency-tag">MongoDB &amp; SQL</span>
+      <span class="competency-tag">Distributed Systems (Kafka, NATS, gRPC)</span>
+      <span class="competency-tag">Scalable Real-Time Backends</span>
+      <span class="competency-tag">Zero-Downtime Migrations</span>
+      <span class="competency-tag">Secure Backend Practices</span>
+    </div>
+  </div>
+
+  <!-- WORK EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+    
+  <div class="job">
+    <div class="job-header">
+      <span class="job-company">MTailor</span>
+      <span class="job-period">Sep 2022 &ndash; Present</span>
+    </div>
+    <div class="job-role">Software Engineer (US Remote, reports to CTO)</div>
+    <ul>
+      <li>Built <strong>real-time two-way sync between MongoDB and Firestore using Node.js and Google Pub/Sub</strong> for message processing &mdash; the pipeline carried live production traffic in both directions throughout a months-long cutover.</li>
+      <li>Led the end-to-end migration of <strong>20+ production applications</strong> from Parse/MongoDB to Firebase/GCP with <strong>zero downtime</strong>, reporting directly to the CTO.</li>
+      <li>Saved the company <strong>$5,000/month</strong> by migrating all services off AWS &mdash; consolidating a two-cloud estate onto one platform and its access model.</li>
+      <li>Migrated file storage from Amazon S3 to Google Cloud Storage via a Python migration script.</li>
+      <li>Implemented Express Shipping end to end, generating an additional <strong>$40 revenue per order</strong>.</li>
+      <li>Built a 3D visualisation feature using video overlay and ffmpeg, increasing buyer conversion.</li>
+    </ul>
+    <div class="job-location">Stack: Node.js, JavaScript, Firebase/Firestore, MongoDB, GCP Pub/Sub, AWS S3/EC2/EBS, Python, React</div>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <span class="job-company">MTailor (Contractor)</span>
+      <span class="job-period">Mar 2022 &ndash; Jul 2022</span>
+    </div>
+    <div class="job-role">Backend Migration Contractor (US Remote)</div>
+    <ul>
+      <li>Hired via Upwork to execute a complex backend migration from Parse/<strong>MongoDB</strong> to Firebase Firestore and GCP.</li>
+      <li>Built the migration script reading from MongoDB and writing to Firestore after complex processing logic.</li>
+      <li>Wrote the <strong>Node.js and Python SDK documentation</strong> fellow engineers onboarded from, and trained the Ops team on the new dashboard and backup procedures &mdash; newcomer to teacher on an unfamiliar stack in a single engagement.</li>
+    </ul>
+    <div class="job-location">Stack: Node.js, JavaScript, MongoDB, Firebase, GCP, AWS</div>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <span class="job-company">Dr Wealth</span>
+      <span class="job-period">Aug 2021 &ndash; Jan 2022</span>
+    </div>
+    <div class="job-role">Software Engineer (Singapore Remote)</div>
+    <ul>
+      <li>Built ad-hoc jobs querying over <strong>2 million Firestore records</strong> to keep customer-facing prices current from Morningstar APIs on a real-time PWA.</li>
+      <li>Extended backend APIs using Firebase Cloud Functions and <strong>Express.js</strong> hosted on Heroku.</li>
+      <li>Added responsive UI pages using React, Tailwind, HTML.</li>
+    </ul>
+    <div class="job-location">Stack: Node.js, JavaScript, Firebase, Express.js, React</div>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <span class="job-company">Mind2matter</span>
+      <span class="job-period">Jan 2022 &ndash; Jul 2022</span>
+    </div>
+    <div class="job-role">Software Engineer (US Remote, reports to CTO)</div>
+    <ul>
+      <li>Built <strong>backends for DeFi applications using Web3 and Node.js</strong> &mdash; value-moving transaction flows on decentralized networks, where every call is irreversible.</li>
+      <li>Delivered React UIs from Figma designs under tight client timelines.</li>
+    </ul>
+    <div class="job-location">Stack: Node.js, JavaScript, Web3, Firebase, React</div>
+  </div>
+
+  <div class="job">
+    <div class="job-header">
+      <span class="job-company">CodeBits</span>
+      <span class="job-period">Jan 2020 &ndash; Jul 2021</span>
+    </div>
+    <div class="job-role">Software Engineer / Team Lead (Uganda Remote)</div>
+    <ul>
+      <li>Architected a <strong>microservices backend</strong> for FIDA Uganda's case management app using <strong>Apache Kafka, Docker and Kubernetes</strong>, with gRPC for synchronous service calls.</li>
+      <li>Led a team of 4 developers building legal-tech systems for NGOs (FIDA Uganda, LASPNET Uganda).</li>
+      <li>Built a USSD service for legal aid providers communicating with a Node.js backend via gRPC &mdash; web, mobile and USSD clients served off the same services.</li>
+      <li>Developed a cross-platform mobile app (React Native + Expo, iOS &amp; Android) with Firebase push notifications.</li>
+    </ul>
+    <div class="job-location">Stack: Node.js, JavaScript, Apache Kafka, NATS Streaming, gRPC, Docker, Kubernetes, Firebase</div>
+  </div>
+
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section avoid-break">
+    <div class="section-title">Projects</div>
+    
+  <div class="project">
+    <div class="project-title">Real-time Two-Way Sync Pipeline (MongoDB &harr; Firestore)<span class="project-badge">live production traffic</span></div>
+    <div class="project-desc">Node.js consumers on Google Pub/Sub keeping two authoritative datastores consistent under concurrent production writes from both sides, across a months-long cutover. Designed so replays and out-of-order delivery were safe &mdash; at-least-once delivery treated as an idempotency problem by default.</div>
+    <div class="project-tech">Node.js, JavaScript, GCP Pub/Sub, MongoDB, Firestore, idempotent consumers</div>
+  </div>
+
+  <div class="project">
+    <div class="project-title">Parse &rarr; Firebase Platform Migration (MTailor)<span class="project-badge">20+ apps, zero downtime</span></div>
+    <div class="project-desc">End-to-end migration of 20+ production applications, owned from plan through cutover and rollback, reporting to the CTO. Per-app sequencing with a reversible step at every stage; $5,000/month infrastructure saving on completion.</div>
+    <div class="project-tech">Node.js, MongoDB, Firestore, GCP, AWS S3/EC2/EBS, Python</div>
+  </div>
+
+  <div class="project">
+    <div class="project-title">Event-Driven Microservices Backend (FIDA Uganda)<span class="project-badge">Kafka + Kubernetes</span></div>
+    <div class="project-desc">Architected service boundaries around Kafka events, deployed on Docker and Kubernetes, with gRPC for synchronous calls and NATS Streaming for lighter-weight messaging. Served web, mobile and USSD clients from one set of services.</div>
+    <div class="project-tech">Node.js, Apache Kafka, NATS Streaming, gRPC, Docker, Kubernetes</div>
+  </div>
+
+  <div class="project">
+    <div class="project-title">DeFi Application Backends (Web3)<span class="project-badge">value-moving flows</span></div>
+    <div class="project-desc">Node.js backends for decentralized finance applications on Web3, built to agency deadlines. Every on-chain call treated as irreversible &mdash; validate before signing, make retries safe, keep the API contract stable.</div>
+    <div class="project-tech">Node.js, JavaScript, Web3, decentralized networks</div>
+  </div>
+
+  </div>
+
+  <!-- EDUCATION & CERTIFICATIONS -->
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <span class="edu-title">B.Sc. Computer Engineering &mdash; <span class="edu-org">Makerere University</span></span>
+        <span class="edu-year">Aug 2018 &ndash; Sep 2022</span>
+      </div>
+      <div class="edu-desc">Kampala, Uganda</div>
+    </div>
+  </div>
+
+  <div class="section avoid-break">
+    <div class="section-title">Certifications</div>
+    <div class="cert-item">
+      <span class="cert-title">Open-source contributor &amp; GitHub portfolio &mdash; <span class="cert-org">github.com/zac-09</span></span>
+      <span class="cert-year">Ongoing</span>
+    </div>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="section avoid-break">
+    <div class="section-title">Skills</div>
+    <div class="skill-item"><span class="skill-category">Proficient:</span> Node.js, JavaScript, MongoDB, SQL, Firebase, GCP, React, Python, Git, Linux</div>
+    <div class="skill-item"><span class="skill-category">Distributed &amp; Infra:</span> Apache Kafka, NATS Streaming, gRPC, Google Pub/Sub, Docker, Kubernetes, Express.js, AWS</div>
+    <div class="skill-item"><span class="skill-category">Intermediate:</span> Go, Rust, React Native, Web3</div>
+    <div class="skill-item"><span class="skill-category">Languages:</span> English (fluent, 5+ yrs US/Singapore remote), Kiswahili</div>
+  </div>
+
+</div>
+</body>
+</html>

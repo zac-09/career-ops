@@ -180,3 +180,15 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** 200+ evaluations produced with false-positive geo and liveness matches eliminated; the expensive model only ever runs on sources that survived the cheap verification step, which also holds the cost per run down.
 **Reflection:** Never let a model grade a source you have not verified — ordering is the whole design. The cheap deterministic check belongs in front of the expensive probabilistic one, both because it is the only way the output stays defensible and because it is where the budget is actually saved.
 **Best for questions about:** LLM/RAG pipeline design, retrieval quality, grading and ranking logic, evidence vs inference, eval and correctness in generative systems, cost per run and model selection, "have you shipped AI that had to be right?"
+
+---
+
+### [Gap handling] Answering the TypeScript / PostgreSQL gap straight
+
+**S (Situation):** Most Node.js backend reqs in the pipeline list TypeScript and PostgreSQL as hard requirements. `cv.md` names neither: TypeScript appears nowhere in the Skills lists or any role's Stack line, and no relational engine is named in any role — the production datastores have been MongoDB and Firestore, with `SQL` sitting on the Proficient line unbacked by a project.
+**T (Task):** Answer the inevitable question without bluffing (the claim is verifiable in ten minutes of screen-share) and without apologising into a rejection.
+**A (Action):** Name the gap first, before the interviewer finds it. Then redirect to the genuinely transferable part: dual-write consistency and zero-downtime cutover between two live datastores (MongoDB ↔ Firestore over Pub/Sub, with idempotent handlers and origin tagging) is a harder consistency problem than most CRUD Postgres work, and it is engine-independent. Add that Go and Rust sit on the Intermediate line, so static typing is familiar ground rather than a new paradigm. Close with an artifact, not an assertion: a small public repo on `github.com/zac-09` — typed Express + TypeScript + PostgreSQL, Dockerised.
+**R (Result):** The weakest two lines on the CV become a demonstration of how gaps get closed rather than a reason to screen out.
+**Reflection:** Never let the interviewer be the one to find the gap. Naming it first costs nothing and buys the framing; naming it first *with code attached* converts it. Standing follow-up: if Isaac confirms real production TypeScript (asserted in `config/profile.yml` `superpowers` as "Node.js / TypeScript backend systems, 5+ years" but absent from `cv.md`), that is a CV maintenance bug costing keyword matches on every Node req — fix `cv.md` rather than injecting the keyword per-application.
+**Best for questions about:** "Do you have production TypeScript?", "Have you used PostgreSQL in production?", any named-technology gap, honesty-under-pressure, how the candidate ramps on unfamiliar tooling.
+**First surfaced:** Report #220 — Zoftify — Backend Developer (Node).

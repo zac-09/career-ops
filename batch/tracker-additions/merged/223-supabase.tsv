@@ -1,0 +1,1 @@
+223	2026-09-21	Supabase	Platform Engineer, Edge & Networking	Evaluated	1.9/5	❌	[223](reports/223-supabase-2026-09-21.md)	SKIP - 8th Supabase req, hardest infra gate yet: 4+ yrs high-scale networking/edge, Go-primary, Envoy/BGP/anycast, IaC all absent. Geo perfect (Remote Global, no work-auth or TZ clause).
