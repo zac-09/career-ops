@@ -88,7 +88,11 @@ function roleFuzzyMatch(a, b) {
   const overlap = wordsA.filter(w => wordsB.some(wb =>
     w === wb || (w.length > 3 && wb.length > 3 && (wb.includes(w) || w.includes(wb)))
   ));
-  return overlap.length >= Math.min(2, wordsA.length, wordsB.length);
+  // Require 2 shared words whenever EITHER title carries that much signal. Using the
+  // shorter title's length let a single shared word match -- "Backend Team Lead" vs
+  // "Backend Developer (Node)" (distinctive words [backend,team] vs [backend]) collapsed
+  // on "backend" alone. Two single-word titles still match on their one word.
+  return overlap.length >= Math.min(2, Math.max(wordsA.length, wordsB.length));
 }
 
 function extractReportNum(reportStr) {
