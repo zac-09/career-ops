@@ -1,0 +1,982 @@
+# Portal Scanner Configuration
+# Used by /career-ops scan to discover new offers automatically.
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. Greenhouse API → structured JSON (fast, Greenhouse-only)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+
+# -- Title filter --
+title_filter:
+  positive:
+    # -- Core backend roles --
+    - 'Backend Engineer'
+    - 'Backend Developer'
+    - 'Software Engineer'
+    - 'Software Developer'
+    - 'Node.js'
+    - 'TypeScript'
+    - 'Full Stack'
+    - 'Full-Stack'
+    # -- Platform / infra --
+    - 'Platform Engineer'
+    - 'Infrastructure Engineer'
+    - 'Cloud Engineer'
+    - 'DevOps'
+    - 'Site Reliability'
+    - 'SRE'
+    # -- API / integration --
+    - 'API Engineer'
+    - 'Integration Engineer'
+    - 'Solutions Engineer'
+    # -- Data / real-time --
+    - 'Data Engineer'
+    - 'Distributed Systems'
+    - 'Systems Engineer'
+  negative:
+    - 'Junior'
+    - 'Intern'
+    - 'Graduate'
+    - 'Entry Level'
+    - 'iOS'
+    - 'Android'
+    - 'Mobile'
+    - 'PHP'
+    - 'Ruby'
+    - 'Java '
+    - '.NET'
+    - 'C#'
+    - 'Embedded'
+    - 'Firmware'
+    - 'FPGA'
+    - 'ASIC'
+    - 'Blockchain'
+    - 'Web3'
+    - 'Crypto'
+    - 'Mainframe'
+    - 'COBOL'
+    - 'SAP '
+    - 'Salesforce Admin'
+    - 'Oracle EBS'
+  seniority_boost:
+    - 'Senior'
+    - 'Staff'
+    - 'Principal'
+    - 'Lead'
+    - 'Head of'
+
+# -- Search queries --
+search_queries:
+  # -- Ashby --
+  - name: Ashby — Senior Backend Engineer
+    query: 'site:jobs.ashbyhq.com "Senior Backend Engineer" OR "Senior Software Engineer" Node.js OR TypeScript remote'
+    enabled: true
+
+  - name: Ashby — Platform & Infrastructure
+    query: 'site:jobs.ashbyhq.com "Platform Engineer" OR "Infrastructure Engineer" OR "Cloud Engineer" remote senior'
+    enabled: true
+
+  - name: Ashby — Full Stack
+    query: 'site:jobs.ashbyhq.com "Full Stack Engineer" OR "Full-Stack Engineer" Node.js OR TypeScript remote senior'
+    enabled: true
+
+  # -- Greenhouse --
+  - name: Greenhouse — Senior Backend Engineer
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Senior Backend Engineer" Node.js OR TypeScript remote'
+    enabled: true
+
+  - name: Greenhouse — Platform & SRE
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Platform Engineer" OR "SRE" OR "Site Reliability" remote senior'
+    enabled: true
+
+  - name: Greenhouse — Full Stack
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Senior Full Stack" OR "Full-Stack Engineer" Node.js OR Firebase remote'
+    enabled: true
+
+  # -- Lever --
+  - name: Lever — Senior Backend / Node.js
+    query: 'site:jobs.lever.co "Senior Backend Engineer" OR "Senior Software Engineer" Node.js OR TypeScript remote'
+    enabled: true
+
+  - name: Lever — Platform & Cloud
+    query: 'site:jobs.lever.co "Platform Engineer" OR "Cloud Engineer" OR "Infrastructure" GCP OR AWS remote senior'
+    enabled: true
+    # 2026-09-11: 1st noise strike — 6 of 7 hits were Jobgether reposts, all 410 Gone.
+
+  # -- Wellfound (startups) --
+  # 2026-07-20: disabled — Wellfound's Cloudflare bot-wall makes listings unverifiable
+  # (curl/WebFetch/Playwright all blocked); user bulk-closed all prior Wellfound finds
+  # on 2026-07-09 for this reason. Re-enable only if verification path is found.
+  - name: Wellfound — Senior Backend
+    query: 'site:wellfound.com "Senior Backend Engineer" Node.js OR TypeScript remote'
+    enabled: false
+
+  - name: Wellfound — Full Stack
+    query: 'site:wellfound.com "Senior Full Stack" OR "Senior Software Engineer" Node.js OR Firebase remote'
+    enabled: false
+
+  # -- Workable --
+  - name: Workable — Senior Backend
+    query: '(site:apply.workable.com OR site:jobs.workable.com) ("Senior Backend Engineer" OR "Senior Software Engineer" OR "Staff Engineer") (Node.js OR TypeScript) remote'
+    enabled: true
+    # 2026-09-21: expanded to Workable's newer jobs.workable.com domain. Live indexed
+    # Node/TS roles found there; most are country-locked, so verify geo per posting.
+
+  # -- Broad cross-portal --
+  - name: Firebase & GCP specialists
+    query: '"Senior Backend Engineer" OR "Senior Software Engineer" Firebase OR Firestore OR "Cloud Functions" remote'
+    enabled: false
+    # 2026-08-26: 1st noise strike — only hire-a-dev marketing pages.
+    # 2026-08-27: DISABLED (2nd strike) — same marketing-only pattern two runs straight.
+
+  - name: Node.js + MongoDB backend
+    query: '"Senior Backend Engineer" Node.js MongoDB remote site:job-boards.greenhouse.io OR site:jobs.ashbyhq.com OR site:jobs.lever.co'
+    enabled: true
+    # 2026-08-27: 1st structural strike — engine ignored site: operators, returned only
+    # Indeed/aggregator index pages.
+    # 2026-09-11: STRIKE CLEARED — site: operators honored, all 7 results on lever/ashby.
+
+  - name: RemoteFront — Backend
+    query: 'site:remotefront.com "Backend Engineer" OR "Software Engineer" Node.js OR TypeScript remote senior'
+    enabled: true
+
+  # -- Africa / worldwide-remote job boards (added 2026-06-08) --
+  # These boards have reliable "Worldwide" / "Africa-eligible" filters — best signal for UTC+3.
+  - name: Himalayas — Worldwide/Africa backend
+    query: 'site:himalayas.app ("Backend Engineer" OR "Full Stack") (Node.js OR TypeScript) (worldwide OR africa OR EMEA)'
+    enabled: true
+
+  - name: RemoteOK — Worldwide/Africa backend
+    query: 'site:remoteok.com (Node.js OR TypeScript) backend ("worldwide" OR "africa")'
+    enabled: false
+    # 2026-08-26: 1st structural strike — only tag-index pages, no individual reqs.
+    # 2026-08-27: DISABLED (2nd strike) — tag-index pages only again, zero individual reqs.
+
+  - name: WeWorkRemotely — Anywhere in the World
+    query: 'site:weworkremotely.com/remote-jobs (Node.js OR TypeScript) backend "anywhere in the world"'
+    enabled: true
+    # 2026-09-11: 1st structural strike — 3 of 8 results off-domain (itjobswatch.co.uk,
+    # builtin.com); engine partially ignored the site: operator.
+
+  - name: RemoteAfrica — backend/fullstack
+    query: 'site:remoteafrica.io ("Backend" OR "Full Stack" OR "Software Engineer") (Node.js OR TypeScript)'
+    enabled: false
+    # 2026-07-20: remoteafrica.io moved individual listings behind the $5/mo "Hunter"
+    # subscription — job pages now render only marketing copy. Unverifiable; disabled.
+
+  - name: Remote4Africa — backend/fullstack
+    query: 'site:remote4africa.com (Node.js OR TypeScript) ("Backend" OR "Full Stack" OR "Software Engineer")'
+    enabled: false
+    # 2026-08-11: only hit resolved to Boolean Ltd recruiting agency, no canonical ATS (1st noise strike).
+    # 2026-08-26: 2nd noise strike — all reqs anonymized "HR Services company", country-locked
+    # (Nigeria/Kenya), application behind paid signup wall. One more strike disables it.
+    # 2026-08-27: DISABLED (3rd strike) — same anonymized signup-walled agency reqs +
+    # engine substitution (itjobswatch); zero resolvable canonical postings three runs straight.
+
+  # -- Worldwide-remote job boards (added 2026-07-20, verified live via site: search) --
+  # All are aggregators — they re-post from ATS boards. Resolve to the ORIGINAL
+  # ATS/careers URL before evaluating so dedup against scan-history.tsv works.
+  # Queries include "worldwide"/"anywhere" to pre-filter for Uganda (UTC+3) eligibility.
+  - name: Remotive — Worldwide backend
+    query: 'site:remotive.com (Node.js OR TypeScript) ("Backend" OR "Full Stack") worldwide'
+    enabled: true
+
+  - name: Working Nomads — Worldwide backend
+    query: 'site:workingnomads.com/jobs (Node.js OR TypeScript) ("Backend" OR "Full Stack") ("worldwide" OR "anywhere")'
+    enabled: true
+
+  - name: NoDesk — Worldwide backend
+    query: 'site:nodesk.co/remote-jobs (Node.js OR TypeScript) ("Backend Engineer" OR "Backend Developer" OR "Full Stack") ("worldwide" OR "anywhere")'
+    enabled: true
+    # 2026-09-11: 1st stale strike — 3 of 5 listings explicitly expired/unavailable,
+    # 2 of 8 results off-domain.
+
+  - name: Jobgether — Worldwide backend
+    query: 'site:jobgether.com/offer (Node.js OR TypeScript) backend "worldwide"'
+    enabled: true
+    # 2026-09-11: 1st strike — on-domain, but EVERY offer resolved to HTTP 410 Gone.
+    # Jobgether also hides company names, making canonical resolution impossible.
+    # Zero verifiable yield; one more strike disables it.
+
+  - name: Remote Rocketship — Worldwide backend
+    query: 'site:remoterocketship.com (Node.js OR TypeScript) backend "worldwide"'
+    enabled: true
+
+  - name: DailyRemote — Worldwide backend
+    query: 'site:dailyremote.com/remote-job (Node.js OR TypeScript) backend "worldwide"'
+    enabled: false
+    # 2026-09-11: DISABLED (2nd noise strike) — only 1 of 8 hits was an actual job page;
+    # the rest were country landing pages plus off-domain substitutions (habr, builtin).
+    # 2026-08-19: worldwide req = hidden-company Web3. 2026-08-27: 1st noise strike —
+    # sole individual hit again hidden-company Web3/NFT; rest country-index pages.
+
+  - name: EchoJobs — EMEA/Worldwide backend
+    query: 'site:echojobs.io (Node.js OR TypeScript) "Senior Backend" ("worldwide" OR "EMEA" OR "anywhere")'
+    enabled: true
+
+  - name: JustRemote — Worldwide backend
+    query: 'site:justremote.co/remote-developer-jobs (Node.js OR TypeScript) ("Backend" OR "Full Stack") ("worldwide" OR "anywhere")'
+    enabled: false
+    # 2026-08-19: DISABLED — site: form returns ZERO justremote.co results (engine
+    # substituted itjobswatch/builtin) — structural, same pattern as Jobicy/Truly Remote.
+
+  - name: YC Work at a Startup — remote backend
+    query: 'site:workatastartup.com/jobs (Node.js OR TypeScript) backend remote ("worldwide" OR "anywhere")'
+    enabled: true
+    # WARNING: many YC roles are "Remote (Americas)" — verify timezone band per role.
+    # 2026-08-19: 1st structural strike — site: form returned zero workatastartup.com
+    # results (engine substituted other boards). One more strike disables it.
+    # 2026-08-26: RECOVERED — real workatastartup.com results returned; strike counter
+    # RESET. Caveat: index is stale (Better Auth worldwide Staff Eng + Rove both 404).
+    # 2026-09-11: 1st structural strike (post-reset) — engine ignored site: again, 6/10
+    # results off-domain and the on-domain hits were internships. Disable on repeat.
+
+  - name: Arc.dev — remote backend
+    query: 'site:arc.dev/remote-jobs (Node.js OR TypeScript) senior backend'
+    enabled: false
+    # Individual job URLs poorly indexed — search only surfaces listing pages.
+    # Browse https://arc.dev/remote-jobs/nodejs manually instead. Partners with WWR.
+
+  # -- ATS-level coverage gaps (added 2026-08-13) --
+  # Canonical-by-construction: results ARE the ATS posting, no aggregator-label risk.
+  # Evidence: Dwelly (EU Greenhouse) scored 4.0/4.1; Bitfinex (Recruitee) 4.2;
+  # Yellow Card (BambooHR) is the live #188 application; Latitude.sh is Rippling.
+  - name: Greenhouse EU — Senior Backend
+    query: 'site:job-boards.eu.greenhouse.io "Senior Backend Engineer" OR "Senior Software Engineer" Node.js OR TypeScript remote'
+    enabled: false
+    # 2026-09-11: DISABLED — structurally incapable of yielding a globally-remote req.
+    # 10/10 hits geo-rejected by construction (the .eu. board is EU-scoped by definition).
+    # The two companies that ever justified it (Dwelly, Sporty Group) are now covered
+    # directly via tracked_companies `api:` against boards.eu.greenhouse.io.
+    # 2026-08-13 first run: 6 hits, ALL closed reqs (CarOnSale/Lionhires/SevenPro/
+    # GR8_TECH Node reqs gone from live boards) or country-locked (Appinio DE/UK/PT/NL/ES).
+    # Keep — canonical format + Dwelly precedent; index staleness is the enemy.
+
+  - name: Lever EU — Senior Backend
+    query: 'site:jobs.eu.lever.co "Senior Backend Engineer" OR "Senior Software Engineer" Node.js OR TypeScript remote'
+    enabled: false
+    # 2026-08-13 first run: weak — Finom + Quadcode reqs 404 (stale index), rest
+    # Berlin-anchored or frontend. One more strike disables it.
+    # 2026-08-19: DISABLED (2nd strike) — Finom .NET, Xentral PHP, flaconi Berlin,
+    # grape Swiss, Quadcode mid-level; zero worldwide seats two runs straight.
+
+  - name: Recruitee — worldwide backend
+    query: 'site:recruitee.com (Node.js OR TypeScript) ("Backend" OR "Software Engineer") remote ("worldwide" OR "anywhere" OR senior)'
+    enabled: true
+    # Boards are {company}.recruitee.com — site: covers subdomains. Some companies
+    # (e.g. Bitfinex careers.bitfinex.com) use custom domains and won't appear here.
+    # 2026-08-13 first run: 1 add (Make freelance, work-from-anywhere) but 4 of 8
+    # boards had LEFT Recruitee (301 to careers_not_hosted: Zerofy, Tomorrows Education,
+    # Tiugo 404, Smartsupp 404). Keep — live boards resolve cleanly when they exist.
+
+  - name: BambooHR — remote backend
+    query: 'site:bamboohr.com "careers" (Node.js OR TypeScript) ("Backend" OR "Software Engineer" OR "Full Stack") remote'
+    enabled: false
+    # Boards are {company}.bamboohr.com/careers/{id}. The /careers/list JSON API
+    # works per-company (see Yellow Card notes).
+    # 2026-08-13: DISABLED — first run returned only bamboohr.com corporate pages;
+    # Google does not index {company}.bamboohr.com job pages under this site: form.
+    # BambooHR coverage stays via tracked companies (Yellow Card, Flutterwave).
+
+  - name: Rippling ATS — remote backend
+    query: 'site:ats.rippling.com (Node.js OR TypeScript) ("Backend" OR "Software Engineer") remote'
+    enabled: true
+    # 2026-08-13 first run: BEST ATS query of the batch — produced Utility add
+    # (100% remote Node/TS) + exposed Wander backend-req closure. Keep.
+
+  - name: Teamtailor — remote backend
+    query: 'site:teamtailor.com (Node.js OR TypeScript) ("Backend" OR "Full Stack") remote'
+    enabled: false
+    # Many Teamtailor boards use custom domains (e.g. career.proxify.io) — this only
+    # catches the {company}.teamtailor.com ones.
+    # 2026-08-13 first run: all hits EU-hybrid (Twin Harbour Malta/Hamburg), Spain
+    # agencies, or LATAM nearshore — zero worldwide. One more strike disables it.
+    # 2026-08-19: DISABLED (2nd strike) — knowmad Spain, Valce/Upstart13 LATAM,
+    # Twin Harbour repeat, Leadtech Barcelona, Virtasant US-locked; zero worldwide again.
+
+  - name: SmartRecruiters — remote backend
+    query: 'site:jobs.smartrecruiters.com (Node.js OR TypeScript) "Senior" ("Backend" OR "Software Engineer") remote'
+    enabled: false
+    # 2026-08-13 first run: all hits country-anchored (Berlin/Brazil/India/Vietnam/US);
+    # YouGov "REMOTE" req unverifiable (posting page + API both 4xx). One more strike disables it.
+    # 2026-08-19: DISABLED (2nd strike) — Bertelsmann/Omio Berlin, SMG Vietnam,
+    # M3USA Brazil, YouGov Barcelona, Cacheflow US; zero worldwide two runs straight.
+
+  # -- ATS discovery expansion (added 2026-09-21) --
+  # These are direct ATS/job-board pages, not generic mirrors. They still require the
+  # normal live-posting and geo checks before evaluation.
+  - name: Personio — remote Node/TS backend
+    query: '(site:jobs.personio.com OR site:jobs.personio.de) (Node.js OR TypeScript) ("Backend Engineer" OR "Software Engineer" OR "Platform Engineer") (remote OR worldwide OR global)'
+    enabled: true
+    # Search + static fetch confirmed readable, structured postings. Test results
+    # included a globally-remote Node/NestJS role with EU-timezone preference.
+
+  - name: Breezy HR — remote Node/TS backend
+    query: 'site:breezy.hr (Node.js OR TypeScript) ("Backend Engineer" OR "Backend Developer" OR "Software Engineer") remote'
+    enabled: true
+    # Direct Breezy pages are fetchable; a live globally-distributed senior Node.js
+    # role was present during validation. Search indexes closed reqs too — verify live.
+
+  - name: JazzHR ApplyToJob — remote Node/TS backend
+    query: 'site:applytojob.com (Node.js OR TypeScript) ("Backend Engineer" OR "Software Engineer" OR "Platform Engineer") remote'
+    enabled: true
+    # Direct JazzHR pages are readable and expose full JDs. Geo wording can be vague
+    # ("remote" with a region preference), so do not infer worldwide eligibility.
+
+  - name: Gem — remote Node/TS backend
+    query: 'site:jobs.gem.com (Node.js OR TypeScript) ("Backend Engineer" OR "Software Engineer" OR "Platform Engineer") remote'
+    enabled: true
+    # Search indexing is strong, but direct pages are JS-heavy. Use Playwright for
+    # verification and expect substantial US/Canada noise.
+
+  - name: JOIN — remote Node/TS backend
+    query: 'site:join.com/companies (Node.js OR TypeScript) ("Backend Engineer" OR "Software Engineer" OR "Full Stack Engineer") remote'
+    enabled: true
+    # Structured canonical postings with direct-apply metadata. Initial test skewed
+    # Europe/Germany, so enforce the per-role geo check before adding to pipeline.
+
+  # -- Aggregators with worldwide filters (added 2026-08-13) --
+  # Same reliability tier as Himalayas/NoDesk: ALWAYS resolve to canonical ATS
+  # posting before evaluating (standing rule — aggregator geo labels lie).
+  - name: Simplify — worldwide/EMEA backend
+    query: 'site:simplify.jobs/p (Node.js OR TypeScript) ("Backend Engineer" OR "Software Engineer" OR "Platform Engineer") (worldwide OR Africa OR EMEA OR Europe) remote'
+    enabled: true
+    # 2026-09-21 validation returned multiple current-looking Node/TS roles and full,
+    # readable JDs. ALWAYS resolve the employer's canonical posting; geo labels vary.
+
+  - name: Hirify — worldwide Node/TS backend
+    query: 'site:hirify.me/jobs (Node.js OR TypeScript) ("Backend" OR "Platform" OR "Fullstack") ("remote (Global)" OR "Worldwide Remote")'
+    enabled: true
+    # Global filter produced readable worldwide listings. Aggregated descriptions may
+    # outlive the canonical req; resolve the employer URL before evaluating.
+
+  - name: EverJobs Uganda — backend/fullstack
+    query: 'site:everjobs.ug/job (Node.js OR TypeScript) ("Backend" OR "Full Stack" OR "Software Engineer" OR "Platform Engineer")'
+    enabled: true
+    # Uganda-local eligibility is high and pages are statically readable. This is a
+    # mirror: reject old/recycled listings and resolve the original employer posting.
+
+  - name: Jobicy — worldwide backend
+    query: 'site:jobicy.com (Node.js OR TypeScript) backend ("worldwide" OR "anywhere")'
+    enabled: false
+    # 2026-08-13: DISABLED — first run returned ZERO jobicy.com results (site: form
+    # not indexed; engine substituted other boards). Structural, not a fluke.
+
+  - name: 4dayweek.io — remote backend
+    query: 'site:4dayweek.io (Node.js OR TypeScript) ("Backend" OR "Software Engineer") ("worldwide" OR "anywhere" OR remote)'
+    enabled: false
+    # 2026-08-13: DISABLED — first run surfaced only stale listings (Feb 2022,
+    # Oct 2025 Buffer EM) + career-advice articles; no live reqs indexed.
+
+  - name: Dynamite Jobs — worldwide backend
+    query: 'site:dynamitejobs.com (Node.js OR TypeScript) backend ("worldwide" OR "anywhere")'
+    enabled: false
+    # 2026-08-13 first run: real listings but high staleness (Netguru freelance req
+    # already closed, Paperpile from 2023). Marginal — one more strike disables it.
+    # 2026-08-19: kept (1 fresh Aug-2026 listing, geo-failed).
+    # 2026-08-26: DISABLED (2nd strike) — stale-only again: Paperpile 2023, Netguru
+    # closed, Nabu Casa Jan-2026 (canonical board no longer has the req), Makeway repeat.
+
+  - name: Jobspresso — remote backend
+    query: 'site:jobspresso.co (Node.js OR TypeScript) ("Backend" OR "Full Stack") remote'
+    enabled: false
+    # 2026-08-13: DISABLED — all indexed listings dated 2017-2025; board effectively
+    # dormant for fresh Node/TS reqs.
+
+  - name: Remote.co — remote backend
+    query: 'site:remote.co (Node.js OR TypeScript) ("Backend" OR "Software Engineer") ("worldwide" OR "anywhere")'
+    enabled: false
+    # 2026-08-13 first run: 1 real "International, Anywhere" hit (CitizenShipper) but
+    # canonical Breezy board was already empty — stale mirror. Marginal; keep one more cycle.
+    # 2026-08-19: DISABLED (2nd strike) — only hit was the SAME stale CitizenShipper
+    # mirror; engine substituted other domains for the rest.
+
+  - name: Truly Remote — worldwide backend
+    query: 'site:trulyremote.co (Node.js OR TypeScript) backend ("worldwide" OR "anywhere")'
+    enabled: false
+    # 2026-08-13: DISABLED — first run returned ZERO trulyremote.co results (domain
+    # not indexed under site: form). Structural.
+
+  # -- High-signal non-standard sources (added 2026-08-13) --
+  - name: HN Who is Hiring — remote Node/TS
+    query: 'site:news.ycombinator.com "who is hiring" (Node.js OR TypeScript) (remote OR worldwide)'
+    enabled: true
+    # Results are monthly THREADS, not individual postings — the scanner must open
+    # the latest thread and search within it (Ctrl-F style) for Node/TypeScript +
+    # REMOTE entries, then resolve each company's own careers URL. Disproportionately
+    # senior + globally-remote; best untapped source for this profile.
+    # 2026-08-13 first run (Aug 2026 thread, id=49156683): CONFIRMED best new source —
+    # 233 top-level posts, 34 Node/TS+remote, 4 pipeline adds (MixRank global, Cogram
+    # CET±3, Ojin CET±2h, Flywheel worldwide-contract). Thread was single-page (no More link).
+    # 2026-09-11 (Sept thread id=49522897, posted 09-10): HIGHEST-YIELD QUERY OF THE RUN and
+    # now the single best source for this profile. 256 posts, 82 remote+fullstack, 39 naming
+    # Node/TS, 10 worldwide. Produced RAILWAY (4 adds, best geo signal in the tracked set) +
+    # Interview Resources, plus 3 geo-good/stack-fail watch items (Enveritas $135-155K global,
+    # CyberAtlas, Mastra). Also caught a geo lie: AiMi posted "Remote(Everywhere)" on HN while
+    # its canonical join.com posting says "Remote (India), $600-1250/month".
+
+  - name: Welcome to the Jungle (ex-Otta) — remote backend
+    query: 'site:welcometothejungle.com (Node.js OR TypeScript) "Backend" remote worldwide'
+    enabled: false
+    # Weak Google indexing of individual postings; better browsed manually with
+    # their remote filter. Re-enable if indexing improves.
+
+# -- Tracked companies --
+# Remote-first or remote-friendly companies with strong Node.js/TypeScript stacks.
+# Prioritizes companies you've already targeted + strong cultural/stack fits.
+
+tracked_companies:
+  # -- Companies you've already applied to --
+
+  - name: Buffer
+    careers_url: https://buffer.com/journey#open-roles
+    scan_method: websearch
+    scan_query: 'site:buffer.com/journey "engineer" OR "backend" OR "software"'
+    notes: 'Fully remote. Async-first culture. Strong Node.js history. 2026-07-31: 2 eng reqs live (Senior Infrastructure Engineer — added to pipeline; Senior Growth Engineer — off-filter). Direct URLs: buffer.com/journey/{uuid}.'
+    enabled: true
+
+  - name: Attio
+    careers_url: https://jobs.ashbyhq.com/attio
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/attio'
+    notes: 'Remote EU. AI-native CRM. Series B $52M. TypeScript-heavy.'
+    enabled: true
+
+  - name: Trigger.dev
+    careers_url: https://jobs.ashbyhq.com/triggerdev
+    api: https://api.ashbyhq.com/posting-api/job-board/triggerdev
+    scan_method: websearch
+    scan_query: 'site:trigger.dev/jobs OR "trigger.dev" careers "engineer"'
+    notes: 'Remote. Open-source background job platform. TypeScript/Node.js core. 2026-07-24: Ashby slug is "triggerdev" (API verified); only 1 non-eng role live (Technical Content Engineer, UK).'
+    enabled: true
+
+  - name: Zencastr
+    careers_url: https://jobs.ashbyhq.com/zencastr
+    api: https://api.ashbyhq.com/posting-api/job-board/zencastr
+    scan_method: websearch
+    scan_query: '"zencastr" careers OR jobs "engineer" OR "backend"'
+    notes: '2026-09-03: zencastr.com/careers 404 — careers_url switched to Ashby board (API works, 4 reqs). Remote. Podcast/media platform. Node.js stack. 2026-07-20: new Senior Fullstack Engineer req live on Ashby (added to pipeline); Senior Backend #103 still open. 2026-08-13: Fullstack req (#161) gone from board; Backend #103 still live.'
+    enabled: true
+
+  - name: Secureframe
+    careers_url: https://jobs.lever.co/secureframe
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/secureframe "engineer" OR "backend" OR "software"'
+    notes: 'Remote. Compliance automation SaaS. Migrated from Greenhouse to Lever (2026-04 verified). 2026-07-31: Lever board is 15 sales/GTM roles, all US onsite — zero engineering reqs.'
+    enabled: true
+
+  - name: WunderGraph
+    careers_url: https://jobs.ashbyhq.com/wundergraph
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/wundergraph OR "wundergraph" careers "engineer"'
+    notes: 'Remote. API federation / GraphQL platform. TypeScript core.'
+    enabled: true
+
+  - name: ElevenLabs
+    careers_url: https://jobs.ashbyhq.com/elevenlabs
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/elevenlabs "backend" OR "engineer" OR "software"'
+    notes: 'Voice AI. Strong backend infra needs. Remote-friendly.'
+    enabled: true
+
+  # -- Developer tooling & infra (strong stack fit) --
+
+  - name: Temporal
+    careers_url: https://jobs.ashbyhq.com/temporal
+    api: https://api.ashbyhq.com/posting-api/job-board/temporal
+    notes: '2026-09-03: Greenhouse board temporaltechnologies 404 — Temporal moved to Ashby (slug temporal, API verified, all eng reqs US-only). Remote. Workflow orchestration. TypeScript SDK, Node.js heavy users. Slug fixed 2026-05-04 (was "temporal", correct is "temporaltechnologies"). Most roles US/Canada-only — geo filter critical.'
+    enabled: true
+
+  - name: Vercel
+    careers_url: https://job-boards.greenhouse.io/vercel
+    api: https://boards-api.greenhouse.io/v1/boards/vercel/jobs
+    notes: 'Remote. Node.js/TypeScript platform. Strong backend/infra roles.'
+    enabled: true
+
+  - name: Supabase
+    careers_url: https://jobs.ashbyhq.com/supabase
+    api: https://api.ashbyhq.com/posting-api/job-board/supabase
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/supabase "backend" OR "engineer" OR "platform"'
+    notes: 'Remote-first. Firebase alternative. Strong Node.js/PostgreSQL stack. 2026-07-24: Ashby posting API works (slug "supabase") — careers_url updated from supabase.com/careers; 4 plain-"Remote" eng reqs added to pipeline. 2026-08-13: Edge Functions req (#167 APPLY-stretch) GONE from board; new API Engineer req is AMER-locked. 2026-08-19: NEW "SDK Engineer - JavaScript" (plain Remote) added to pipeline; CLI/Release/Anti-Abuse/Supalite reqs off-filter; Auth/IaC/SRE dups unchanged. 2026-08-26: NEW "Engineering Manager" (Remote, Anywhere) added to pipeline — first people-leadership req; Edge Functions Engineer (#167) REOPENED on board.'
+    enabled: true
+
+  - name: PlanetScale
+    careers_url: https://job-boards.greenhouse.io/planetscale
+    api: https://boards-api.greenhouse.io/v1/boards/planetscale/jobs
+    notes: 'Remote. MySQL-compatible serverless DB. Backend-heavy hiring.'
+    enabled: true
+
+  - name: Turso
+    careers_url: https://turso.tech/careers
+    scan_method: websearch
+    scan_query: '"turso" careers OR jobs "engineer" OR "backend"'
+    notes: 'Remote. Edge SQLite database. Small team, high impact. 2026-07-31: turso.tech/careers has no job listings section — no open roles.'
+    enabled: true
+
+  - name: Inngest
+    careers_url: https://jobs.ashbyhq.com/inngest
+    api: https://api.ashbyhq.com/posting-api/job-board/inngest
+    scan_method: websearch
+    scan_query: '"inngest" careers OR jobs "engineer" OR "backend"'
+    notes: 'Remote. Background jobs & event-driven functions. TypeScript-first. 2026-07-31: careers_url updated to Ashby board (API verified); only 1 eng req, US/Remote-locked.'
+    enabled: true
+
+  - name: Neon
+    careers_url: https://neon.tech/careers
+    scan_method: websearch
+    scan_query: 'site:neon.tech/careers "backend" OR "engineer" OR "platform"'
+    notes: 'Remote. Serverless PostgreSQL. Strong backend infra team. 2026-07-31: neon.tech/careers now 308-redirects to databricks.com/company/careers — Neon acquired by Databricks, no standalone board. Disabled.'
+    enabled: false
+
+  # -- Cloud & GCP ecosystem (direct stack match) --
+
+  - name: Firebase / Google Cloud (Google)
+    careers_url: https://careers.google.com
+    scan_method: websearch
+    scan_query: 'site:careers.google.com "Firebase" OR "Cloud Functions" OR "Firestore" "engineer" senior'
+    notes: 'Long shot but high stack overlap. Filter for Firebase/GCP-specific roles.'
+    enabled: true
+
+  - name: Cloudflare
+    careers_url: https://job-boards.greenhouse.io/cloudflare
+    api: https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs
+    notes: 'DEPRIORITIZED 2026-09-11: "Distributed" DEFINITIVELY = US-only. Board 353 reqs (Hybrid 254, Distributed 49, In-Office 38, Remote-India 2, plain-Remote 1). Req 8186045 (Senior Solutions Engineer, the one on-filter Distributed seat) states "Available Location: Chicago, Austin, Phoenix, Los Angeles, San Francisco, Denver, St. Louis, Kansas City, Dallas" with a salary table listing only US states. Structurally closed for a Uganda-based candidate — treat like Canonical (#152). Remote. Edge infra. Node.js Workers platform. Strong backend hiring.'
+    enabled: true
+
+  - name: Fly.io
+    careers_url: https://fly.io/jobs
+    scan_method: websearch
+    scan_query: '"fly.io" careers OR jobs "backend" OR "engineer" OR "platform"'
+    notes: 'Remote. App deployment platform. Small team, strong TypeScript presence. 2026-07-31: jobs page explicitly "no open positions at the moment".'
+    enabled: true
+
+  # -- Product SaaS with strong backend teams --
+
+  - name: Linear
+    careers_url: https://linear.app/careers
+    scan_method: websearch
+    scan_query: 'site:linear.app/careers "backend" OR "engineer" OR "software"'
+    notes: 'Remote. Project management tool. TypeScript/Node.js codebase.'
+    enabled: true
+
+  - name: Loom (Atlassian)
+    careers_url: https://www.atlassian.com/company/careers/all-jobs?team=Engineering&search=Loom
+    scan_method: websearch
+    scan_query: 'site:atlassian.com/company/careers/details "Loom" "engineer" OR "backend"'
+    notes: 'Remote. Now part of Atlassian; jobs live under atlassian.com/company/careers (filter by Loom). Greenhouse board retired.'
+    enabled: true
+
+  - name: Notion
+    careers_url: https://jobs.ashbyhq.com/notion
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/notion "engineer" OR "backend" OR "software"'
+    notes: 'SF anchor days (M/Tu/Th in office). TypeScript/Node.js. Migrated from Greenhouse to Ashby (2026-04 verified).'
+    enabled: true
+
+  - name: Intercom
+    careers_url: https://job-boards.greenhouse.io/intercom
+    api: https://boards-api.greenhouse.io/v1/boards/intercom/jobs
+    notes: 'Dublin/Remote. Customer messaging. Node.js services, solid backend team.'
+    enabled: true
+
+  - name: Postmark (ActiveCampaign)
+    careers_url: https://www.activecampaign.com/careers/job-listings
+    scan_method: websearch
+    scan_query: '"activecampaign" careers "backend" OR "engineer" OR "software"'
+    notes: 'Remote. Email delivery infra. Node.js-friendly stack. 2026-08-26: RESOLVED — Ashby board retired; jobs now self-hosted at activecampaign.com/careers/{slug}. 5 eng reqs: 4 Krakow-anchored + 1 Senior AI Engineer (US) — zero worldwide seats. Watch for untagged reqs.'
+    enabled: true
+
+  - name: Resend
+    careers_url: https://resend.com/careers
+    scan_method: websearch
+    scan_query: '"resend.com" careers OR jobs "engineer" OR "backend"'
+    notes: 'Remote. Developer email platform. TypeScript/Node.js native. 2026-08-11: 12 live reqs incl. Backend Engineer (MTA) Core Sending — but ALL region-tagged Americas or Europe, no worldwide seat; watch for untagged reqs.'
+    enabled: true
+
+  # -- EMEA-friendly / remote startups --
+
+  - name: n8n
+    careers_url: https://jobs.ashbyhq.com/n8n
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/n8n "backend" OR "engineer" OR "software"'
+    notes: 'Berlin + remote. Workflow automation. Node.js-first codebase.'
+    enabled: true
+
+  - name: Tinybird
+    careers_url: https://www.tinybird.co/careers
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/tinybird "backend" OR "engineer"'
+    notes: '2026-09-03: careers_url switched to tinybird.co/careers (custom board, /job-offers/{id}); only req is Backend Engineer Remote·Spain. Remote. Real-time data platform. Strong backend + data infra team. Ashby posting API for "tinybird" 404 since 2026-07-20 (also tried tinybirdco/tinybird-co). 2026-08-07: still 404.'
+    enabled: true
+
+  - name: Apideck
+    careers_url: https://jobs.apideck.com
+    scan_method: websearch
+    scan_query: '"apideck" careers OR jobs "backend" OR "engineer"'
+    notes: 'Remote EU. Unified API platform. Node.js/TypeScript stack. 2026-07-31: apideck.com/careers shows no listings; jobs live on separate portal jobs.apideck.com — careers_url updated.'
+    enabled: true
+
+  - name: Prisma
+    careers_url: https://www.prisma.io/careers
+    scan_method: websearch
+    scan_query: 'site:prisma.io/careers "engineer" OR "backend" OR "platform"'
+    notes: 'Remote. TypeScript ORM/data platform. Migrated off Greenhouse to custom careers page (2026-04 verified). 2026-07-31: careers page shows 0 open positions.'
+    enabled: true
+
+  # -- Globally-remote-friendly (added 2026-04-27 from scan) --
+
+  - name: Holepunch
+    careers_url: https://holepunch.recruitee.com
+    scan_method: websearch
+    scan_query: 'site:holepunch.recruitee.com "engineer" OR "node" OR "backend"'
+    notes: 'P2P platform behind Keet/Hypercore. Explicit "100% Remote, Worldwide" — globally-remote friendly.'
+    enabled: true
+
+  - name: Sequent Tech
+    careers_url: https://sequentech.io/careers/
+    scan_method: websearch
+    scan_query: 'site:sequentech.io "engineer" OR "fullstack" OR "devops"'
+    notes: 'Hiring "from all over the world" — remote-anywhere. Cloud/enterprise software.'
+    enabled: true
+
+  - name: Hostinger
+    careers_url: https://jobs.lever.co/hostinger
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/hostinger "Node.js" OR "Backend Engineer" OR "Senior Software Engineer"'
+    notes: 'Lithuania HQ but Lever board lists global remote Node.js roles. Many roles are PHP/Poland-locked — title filter critical. 2026-07-02: Lever board EMPTY (api.lever.co/v0/postings/hostinger returns []) — they now post on WWR instead. 2026-08-19: Lever API now 404 (board deleted) — DISABLED; their WWR posts surface via the WWR query.'
+    enabled: false
+
+  # -- Globally-remote-friendly (added 2026-05-04 from scan) --
+
+  - name: Checkly
+    careers_url: https://jobs.ashbyhq.com/checkly
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/checkly "engineer" OR "backend" OR "infrastructure"'
+    notes: 'Explicit "Remote, UTC-3 to UTC+3" — Uganda (UTC+3) at the edge of the band, qualifies. Monitoring platform for developers. 2026-07-02: board still Talent Community only, no open roles. 2026-07-20: board has only Sales Engineer roles — no eng openings.'
+    enabled: true
+
+  - name: Open Energy Transition
+    careers_url: https://job-boards.greenhouse.io/openenergytransition
+    api: https://boards-api.greenhouse.io/v1/boards/openenergytransition/jobs
+    notes: 'Explicit "Global | Remote | English". Energy/climate non-profit. Strong globally-remote signal.'
+    enabled: true
+
+  - name: Zapier
+    careers_url: https://jobs.ashbyhq.com/zapier
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/zapier "engineer" OR "backend" OR "platform"'
+    notes: 'Fully remote-first globally. Strong Node.js/TypeScript automation platform. 2026-07-20: Ashby board has NO engineering IC roles (sales/marketing/eng-director only) — watch for reposts.'
+    enabled: true
+
+  - name: Langfuse
+    careers_url: https://jobs.ashbyhq.com/langfuse
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/langfuse "engineer" OR "backend" OR "infrastructure"'
+    notes: 'Berlin-based but historically remote-friendly. Open-source LLM engineering platform — TypeScript core. 2026-08-13: board fully Europe-locked (4 reqs incl. new Cloud Infra + SDK) — no longer globally-remote; watch for policy change.'
+    enabled: true
+
+  # -- Uganda/Africa-eligible (Tier 1, verified 2026-06-08) --
+  # Highest-confidence geo fit: each explicitly admits UTC+3 / Africa applicants.
+
+  - name: Mattermost
+    careers_url: https://mattermost.com/careers/
+    scan_method: websearch
+    scan_query: 'site:mattermost.com/careers OR site:boards.greenhouse.io/mattermost "engineer" OR "backend"'
+    notes: 'Hiring-countries list explicitly NAMES Uganda. "Can hire from many countries across the globe." Go backend + TS/React. Greenhouse.'
+    enabled: true
+
+  - name: Hostaway
+    careers_url: https://careers.hostaway.com/
+    scan_method: websearch
+    scan_query: '"hostaway" careers "Backend" OR "Software Engineer" Node.js OR TypeScript'
+    notes: 'Recruitee. "Fully remote, EMEA" — eligibility list names Kenya/Nigeria/SA/Egypt; "EMEA +/- 0h". Node/TS, React, Go, GraphQL. NOTE: some roles PHP/Go-primary — title filter critical. 2026-07-20: Recruitee API shows only Senior Frontend Engineer + non-eng roles — no Node backend openings. 2026-08-19: NEW "Senior Backend Engineer, Integrations - 100% Remote - EMEA" added to pipeline (verify stack — Integrations may be Node); sibling Staff Backend Greenfield is Europe-locked.'
+    enabled: true
+
+  - name: Hotjar
+    careers_url: https://www.hotjar.com/careers/
+    scan_method: websearch
+    scan_query: 'site:hotjar.com/careers OR "hotjar" "Software Engineer" OR "Backend" EMEA remote'
+    notes: 'Contentsquare. EMEA eng band = "UTC-1 to UTC+3" — Uganda at the upper edge, qualifies. Python/TS backend + React. Greenhouse. 2026-07-31: GH API slug "hotjar" 404. 2026-08-07: hotjar.com/careers is now just a pointer page to contentsquare.com/careers — Hotjar board permanently retired; DISABLED. Track Contentsquare directly if a slug is found (contentsquare GH slug also 404).'
+    enabled: false
+
+  - name: Proxify
+    careers_url: https://career.proxify.io/
+    scan_method: websearch
+    scan_query: 'site:career.proxify.io "Node" OR "Backend" OR "Full Stack" senior'
+    notes: 'Teamtailor. Network band "+4GMT to -10GMT" — UTC+3 inside it. Heavy Node/Nest/React demand. NOTE: marketplace/client-placement model, not direct W2.'
+    enabled: true
+
+  - name: Andela
+    careers_url: https://www.andela.com/for-talent
+    scan_method: websearch
+    scan_query: '"andela" "Node.js" OR "Backend Engineer" OR "Full Stack" remote'
+    notes: 'Offices in Kampala; 135-country talent network with explicit Node/TS demand. Marketplace model (client engagements, not direct W2).'
+    enabled: true
+
+  # -- Worldwide-policy (Tier 2, verified 2026-06-08) --
+  # Hire worldwide but individual reqs carry region tags — confirm per-role geo at apply time.
+
+  - name: Cal.com
+    careers_url: https://cal.com/jobs
+    scan_method: websearch
+    scan_query: 'site:cal.com/jobs OR site:jobs.ashbyhq.com/cal.com "engineer" OR "full-stack" OR "backend"'
+    notes: 'Ashby. Globally-remote async eng roles live (Foundation team tagged plain "Remote"). Next.js/TypeScript/Node/PostgreSQL. WARNING: other roles are "Remote, Americas"/"Remote - US" — pick plain "Remote" ones. 2026-07-31: Ashby posting API 404 — jobs now only on cal.com/jobs; zero eng roles. 2026-08-07: still zero eng roles (Chief of Staff GTM + Head Copywriter only).'
+    enabled: true
+
+  - name: Doist
+    careers_url: https://www.todoist.com/careers
+    scan_method: websearch
+    scan_query: 'site:doist.com/careers OR "doist" "engineer" OR "backend" remote'
+    notes: '2026-09-03: doist.com/careers now 308 → todoist.com/careers (careers_url updated; roles list is client-rendered, use Playwright). Greenhouse. "Doisters can work from anywhere in the world. We never place restrictions on locations." 18 timezones. TS/React product. GH slug 404 since 2026-07-20. 2026-08-07: doist.com/careers renders live board — explicitly "No open roles" (that is why the GH slug 404s). Watch for reposts.'
+    enabled: true
+
+  - name: Storyblok
+    careers_url: https://www.storyblok.com/jobs
+    api: https://boards-api.greenhouse.io/v1/boards/storyblok/jobs
+    scan_method: websearch
+    scan_query: 'site:storyblok.com/jobs OR "storyblok" "engineer" OR "backend" remote'
+    notes: 'Recruitee/Greenhouse. "Remote-only since day one"; 45+ countries, self-set hours. Headless CMS — Node/TS backend. GH API slug "storyblok" works. 2026-08-13: Senior Backend Engineer II req region-tagged Europe/LaTAM — Uganda excluded; other eng reqs also region-tagged.'
+    enabled: true
+
+  - name: Ghost
+    careers_url: https://careers.ghost.org
+    scan_method: websearch
+    scan_query: 'site:apply.workable.com/ghost OR "ghost.org" careers "engineer" OR "backend"'
+    notes: 'Workable. "Work from anywhere"; remote since 2013, 4-day week. Node/Express/Knex/React. Often 0 open roles — check notify list. 2026-07-31: Workable widget API for "ghost" returns 0 jobs.'
+    enabled: true
+
+  - name: Redpanda
+    careers_url: https://jobs.ashbyhq.com/redpanda-data
+    api: https://api.ashbyhq.com/posting-api/job-board/redpanda-data
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/redpanda-data "engineer" OR "platform" OR "cloud" remote'
+    notes: 'MOVED Greenhouse → Ashby (slug "redpanda-data", found 2026-08-07 via redpanda.com/jobs). Streaming-data infra — core is C++/Go. 2026-08-07: all eng reqs are US/Canada/Poland(Warsaw hybrid)-locked — zero globally-remote seats; keep tracking for policy change.'
+    enabled: true
+
+  - name: Automattic
+    careers_url: https://job-boards.greenhouse.io/automatticcareers
+    api: https://boards-api.greenhouse.io/v1/boards/automatticcareers/jobs
+    scan_method: websearch
+    scan_query: 'site:automattic.com/work-with-us "engineer" OR "backend" JavaScript OR TypeScript'
+    notes: 'Greenhouse. "Work from anywhere... compensation based on skills, not location." 96 countries. JS/TS/PHP/React, large eng surface. 2026-07-31: GH API slug "automattic" 404. 2026-08-07: FOUND new slug "automatticcareers" (API verified); Senior Systems Engineer (Remote) added to pipeline; Experienced SWE req (#130 Applied) still live.'
+    enabled: true
+
+  - name: GitLab
+    careers_url: https://about.gitlab.com/jobs/
+    scan_method: websearch
+    scan_query: 'site:about.gitlab.com/jobs OR site:boards.greenhouse.io/gitlab "Backend" OR "engineer" remote'
+    notes: 'Greenhouse. All-remote across 65+ countries — but per-role country list applies, confirm Uganda on the specific req. Go/Ruby/TS/Vue, platform/infra heavy.'
+    enabled: true
+
+  - name: Sourcegraph
+    careers_url: https://sourcegraph.com/jobs
+    api: https://boards-api.greenhouse.io/v1/boards/sourcegraph91/jobs
+    scan_method: websearch
+    scan_query: 'site:sourcegraph.com/jobs OR "sourcegraph" "engineer" OR "backend" remote'
+    notes: 'All-remote, "open to hiring engineers from all over the world", async-first. Some reqs region-tagged (US/EU/LATAM) — verify per posting. Go backend + TS frontend. Greenhouse slug: sourcegraph91 (API verified 2026-07-31). 2026-07-31: 2 plain-"Remote" reqs added to pipeline (SWE Platform IC3, SWE/Tech Lead Code Plane IC5).'
+    enabled: true
+
+  - name: Remote.com
+    careers_url: https://remote.com/careers
+    scan_method: websearch
+    scan_query: 'site:remote.com/careers "engineer" OR "backend" TypeScript OR Elixir'
+    notes: 'Greenhouse. "Most roles open globally, few require timezone alignment." Runs EoR in most markets incl. Africa. Elixir + TS/React.'
+    enabled: true
+
+  # -- Globally-remote / Africa-eligible (added 2026-06-11 from discovery scan) --
+
+  - name: Bitfinex
+    careers_url: https://careers.bitfinex.com
+    scan_method: websearch
+    scan_query: 'site:careers.bitfinex.com "Backend" OR "Node" OR "engineer"'
+    notes: 'Recruitee. Posts roles titled "(Fully Remote, Worldwide)". Node.js-first trading platform (microservices, MySQL/MongoDB, Redis). Volatile open/close cycle: closed 2026-07-02..20, reopened 2026-07-24 (8 reqs), live 2026-07-31 (10 reqs). 2026-08-07: CLOSED AGAIN — API shows only 12 Product Manager reqs, zero backend; #134 apply window shut (3rd cycle). Re-check every scan. 2026-08-11: still closed (12 PM reqs only). 2026-08-13: still closed (11 PM reqs only, 4th cycle). 2026-08-19: board FULLY EMPTY — API returns 0 offers, even PM reqs gone (5th cycle, deepest closure); Google-indexed worldwide Node siblings are stale. 2026-08-26: still 0 offers (6th cycle). 2026-08-27: still 0 offers (7th cycle).'
+    enabled: true
+
+  - name: Yellow Card
+    careers_url: https://yellowcard.bamboohr.com/careers
+    scan_method: websearch
+    scan_query: '"yellow card" careers "engineer" OR "backend" OR "platform" remote'
+    notes: 'BambooHR (SPA — but /careers/list JSON API works via curl). Pan-African stablecoin fintech, 25+ countries, Node/TS/AWS. Engineering roles tagged plain "Remote". Verified live 2026-06-11. 2026-08-11: NEW Technical Team Lead (Full-stack) req /412 added to pipeline; Senior Frontend /411 off-filter. 2026-08-13: Senior AI Platform Engineer /385 REOPENED (closed since 2026-07-02) — re-added to pipeline.'
+    enabled: true
+
+  - name: Yassir
+    careers_url: https://jobs.lever.co/Yassir
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/Yassir "Backend" OR "Node" OR "Full Stack"'
+    notes: 'Lever. African super-app (ride/delivery/fintech). Senior/Staff Node roles list Kampala, Uganda + Nairobi/Lagos/Cape Town + Remote. Heavy Node/NestJS/Go. Verified live 2026-06-11. WARNING: many roles Algiers-hybrid — check location list per role. 2026-07-02: Lever API shows only Algiers-hybrid eng roles — remote-Africa Node postings gone; re-verify #135/#137 before applying. 2026-07-31: all Node/backend reqs hybrid Algiers/Cairo (one remote req country-tagged EG) — still no Uganda-eligible roles.'
+    enabled: true
+
+  - name: Xapo Bank
+    careers_url: https://job-boards.greenhouse.io/xapo61
+    api: https://boards-api.greenhouse.io/v1/boards/xapo61/jobs
+    notes: 'Greenhouse (slug xapo61). "Work from anywhere in the world" — 100% remote bank. Backend microservices: Node.js/Python, AWS, PostgreSQL/MongoDB/Redis. Verified 2026-06-11.'
+    enabled: true
+
+  - name: Canonical
+    careers_url: https://job-boards.greenhouse.io/canonical
+    api: https://boards-api.greenhouse.io/v1/boards/canonical/jobs
+    notes: 'Greenhouse. ~300 roles, many "Home based - Worldwide"/"EMEA" — hires from Africa routinely. Mostly Go/Python (stack partial fit) but constant platform/backend openings. Verified 2026-06-11.'
+    enabled: true
+
+  - name: Sticker Mule
+    careers_url: https://jobs.ashbyhq.com/stickermule
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/stickermule "engineer" OR "software"'
+    notes: 'Ashby. "Fully remote from 40+ countries" (country list unpublished — confirm Uganda at apply). TS/Go/React/GraphQL/Postgres on GCP. $150K-250K + $20k signing. Verified live 2026-06-11.'
+    enabled: true
+
+  - name: G2i
+    careers_url: https://himalayas.app/companies/g2i
+    scan_method: websearch
+    scan_query: 'site:himalayas.app/companies/g2i OR "g2i" "engineer" Node.js OR React'
+    notes: 'Hiring platform for React/Node devs — placement model (like Proxify), not direct W2. "Open to candidates from all countries." Staff-level Node/React roles up to $416K. Verified 2026-06-11.'
+    enabled: true
+
+  - name: Chronograph
+    careers_url: https://www.chronograph.pe/jobs/
+    api: https://boards-api.greenhouse.io/v1/boards/chronograph/jobs
+    scan_method: websearch
+    scan_query: '"chronograph" careers "software engineer" remote'
+    notes: 'Private-capital fintech (NYC, 51-200). TS/Node/PostgreSQL/GraphQL/React. GH API slug "chronograph" found 2026-08-07 — careers_url updated from Himalayas. WARNING: #172 proved their "Remote" tag can be US-only (work-auth screening). 2026-08-07: #139 req (4802825007) GONE from board; NEW Sr. SWE, Platform Engineering (Remote, 5187048007) added to pipeline — verify geo before evaluating.'
+    enabled: true
+
+  - name: Dwelly
+    careers_url: https://job-boards.eu.greenhouse.io/dwelly
+    api: https://boards-api.greenhouse.io/v1/boards/dwelly/jobs
+    scan_method: websearch
+    scan_query: '"dwelly" careers "engineer" remote'
+    notes: 'AI-driven lettings startup. Node/TS/React/tRPC/Drizzle. "Open to candidates from all countries." Canonical GH EU board found 2026-08-07 (slug "dwelly") — careers_url updated from Himalayas. 2026-08-07: 2 NEW Remote backend reqs added to pipeline (Applied ML & LLM Systems; Senior Data Migration Platform); Staff SWE = #140 still live (Applied). 2026-08-19: NEW "Applied AI Engineer" (Remote) added to pipeline; #140/#179/#180 reqs all still live.'
+    enabled: true
+
+  - name: Toggl
+    careers_url: https://toggl.com/jobs/
+    scan_method: websearch
+    scan_query: 'site:toggl.com/jobs "Backend" OR "engineer" OR "platform"'
+    notes: '"Work from anywhere between UTC-4 and UTC+8" — Uganda qualifies. Go-primary backend (stack partial fit), PostgreSQL, GCP. ~€80k senior. 40+ countries. Ashby board (slug "toggl"): api.ashbyhq.com/posting-api/job-board/toggl. 2026-08-07: only 1 open req (Events & Field Marketing Manager) — zero engineering. 2026-08-11: posting API now 404 (board page still 200) — API likely disabled, scrape page next scan. 2026-08-13: board PAGE scraped via Playwright (works) — posting API confirmed dead; 2 open reqs (Senior PM Europe, Events & Field Marketing Mgr), zero engineering. 2026-08-26: page embeds jobs.ashbyhq.com/toggl?embed=js as an IFRAME — read the iframe content via Playwright frames; same 2 reqs, zero eng.'
+    enabled: true
+
+  - name: Wave Mobile Money
+    careers_url: https://www.wave.com/en/careers/
+    scan_method: websearch
+    scan_query: 'site:wave.com/en/careers "engineer" OR "backend"'
+    notes: 'African mobile money. Eligible-country list explicitly NAMES Uganda; UTC-5..+3 band. Python-primary backend (stack partial fit), K8s/Kafka/gRPC. $84k-134k.'
+    enabled: true
+
+  - name: M-KOPA
+    careers_url: https://jobs.ashbyhq.com/M-KOPA
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/m-kopa OR site:jobs.ashbyhq.com/M-KOPA "engineer" OR "backend"'
+    notes: 'East-African fintech (operates in Uganda). "Fully remote within UTC-1 to UTC+3." C#/.NET primary (stack mismatch) — track for platform/infra roles only. Postings split across Lever and Ashby. 2026-07-02: Lever API 404 — board likely fully moved to Ashby (jobs.ashbyhq.com/M-KOPA); update careers_url next scan. 2026-07-20: Ashby board has zero engineering roles (telesales/sales only). 2026-07-31: NEW Software Engineering Team Lead req (Remote — Nairobi/Kampala/Lagos/Accra/CPT/JHB) added to pipeline; UK/EU sibling skipped.'
+    enabled: true
+
+  - name: Latitude.sh
+    careers_url: https://www.latitude.sh/careers
+    scan_method: websearch
+    scan_query: '"latitude.sh" careers "engineer" OR "SRE" OR "platform"'
+    notes: 'Bare-metal cloud. "Open to candidates from all countries" (Himalayas). K8s/Terraform/Prometheus — platform/SRE archetype fit. Verify per-role. Canonical board: ats.rippling.com/latitudesh-jobs/jobs (page scrape works, API does not). 2026-08-13: only 2 eng reqs, both evaluated (#186 Backend Brazil-tagged, #187 SRE skip).'
+    enabled: true
+
+  # -- African fintech / Africa-eligible (added 2026-08-13) --
+  # Pattern-match Yellow Card / Wave / M-KOPA — best geo band for Kampala (UTC+3).
+  # careers_url UNVERIFIED at add time — scanner should confirm and correct on first
+  # scan (per careers_url management rules), then remove this caveat from notes.
+
+  - name: Zepz (WorldRemit / Sendwave)
+    careers_url: https://zepz.careers.hibob.com/jobs
+    scan_method: playwright
+    scan_query: '"zepz" OR "worldremit" careers "engineer" OR "backend" remote'
+    notes: 'Cross-border payments (WorldRemit + Sendwave). VERIFIED 2026-08-13: HiBob board (SPA — WebFetch gets shell, use Playwright; zepz.io/careers is a pointer). 45 reqs, Technology dept 8. Geo pattern: every req country-tagged (Remote-UK / Remote-SA / Remote-USA / Hybrid) — eng reqs UK/SA/USA only, NO Uganda site despite historical Kampala presence. Watch for Remote-untagged reqs. 2026-08-19: re-verified via Playwright — 46 reqs, 6 eng, pattern unchanged.'
+    enabled: true
+
+  - name: Chipper Cash
+    careers_url: https://www.chippercash.com/career-current-openings
+    scan_method: websearch
+    scan_query: '"chipper cash" careers "engineer" OR "backend" remote'
+    notes: 'African cross-border P2P fintech, Uganda among core markets. VERIFIED 2026-08-13: GH slug "chippercash" 404 (removed) — jobs live on OWN SITE (Webflow), postings at chippercash.com/career/{slug}. Only 1 req live (Risk & Compliance, Rwanda); Engineering section explicitly "No items found". Track for eng reposts.'
+    enabled: true
+
+  - name: Flutterwave
+    careers_url: https://flutterwave.com/us/careers/vacancies
+    scan_method: websearch
+    scan_query: '"flutterwave" careers "engineer" OR "backend" remote'
+    notes: 'Pan-African payments infrastructure (Lagos/SF). Node.js among core stacks. VERIFIED 2026-08-13: BambooHR, slug "flutterwavego" (reqs at flutterwavego.bamboohr.com/careers/{id}; /careers/list JSON API returns 403 — scrape the vacancies page instead). 19 reqs, 8 eng incl. "Backend Engineer, NodeJS" (/1361) + 3 Senior Fullstack + 1 Staff Fullstack — but ALL reqs location-tagged Nigeria; no remote-Africa/worldwide seats. Watch for untagged reqs.'
+    enabled: true
+
+  - name: Paystack
+    careers_url: https://careers.paystack.com/jobs
+    scan_method: websearch
+    scan_query: '"paystack" careers "engineer" OR "backend" remote'
+    notes: 'Stripe-owned African payments (Lagos). Strong eng brand. VERIFIED 2026-08-13: Teamtailor on custom domain careers.paystack.com (paystack.com/careers is a marketing page, 403s to WebFetch — fetch careers.paystack.com directly). 2026-08-26: board EXPANDED 1→7 reqs; geo pattern shifted to multi-country remote-first lists (e.g. Senior Data Engineer: CIV/GH/SA/UAE/NG/KE) — Uganda still NOT listed on any req. 2026-08-27: expanded again 7→10 (new Sr DevOps: Accra/CPT/Dubai/Lagos/Nairobi; QA/Data-Science/IT/Platform-Security) — Uganda still excluded. 2026-09-11: CONTRACTED 10→12 total but Sr DevOps req GONE; eligibility countries now CIV/Ghana/Kenya/Nigeria/South Africa/UAE, Uganda STILL absent; all eng reqs Hybrid or single-country. ATS CONFIRMED TEAMTAILOR (footer: "Applicant tracking system by Teamtailor") — no Greenhouse/Lever/Ashby slug exists, needs Playwright. Watch for Uganda/EAC additions to eligibility lists.'
+    enabled: true
+
+  - name: Moniepoint
+    careers_url: https://moniepoint.com/careers
+    api: https://boards.eu.greenhouse.io/v1/boards/moniepoint/jobs
+    scan_query: '"moniepoint" careers "engineer" OR "backend" remote'
+    notes: 'Nigerian business-banking unicorn. 2026-08-27: canonical GH EU API FOUND (slug "moniepoint", 127 reqs) — SPA Playwright scrape no longer needed; site reqs at moniepoint.com/careers/roles/{id} = GH EU job ids. Eng geo pattern: per-country remote pools (Remote-Nigeria/Poland/Spain/India/Bangalore) — no worldwide or Uganda seats. Backend = "Senior Backend Engineer (Java)" — Java-primary confirmed, off-stack. 2026-08-19: EXCEPTION FOUND — "Senior Fullstack Engineer" (4001852101) is plain "Remote" while all siblings are country-pooled, and JD core is Node.js/TS/MERN — added to pipeline (#198 APPLY); still live 2026-08-27.'
+    enabled: true
+
+  - name: SafeBoda
+    careers_url: https://safeboda.com/nairobi/05-career-nbo
+    scan_method: playwright
+    scan_query: '"safeboda" careers "engineer" OR "backend"'
+    notes: 'Kampala-based ride-hailing/payments super-app — home-market employer; Kampala on-site/hybrid PASSES location policy. VERIFIED 2026-08-13: safeboda.com/careers 404s; live careers page is the Webflow path above (postings at safeboda.com/careers/{slug} — ironic but true). 5 reqs (Commercial-Jinja, HR, Product Mgmt Associate, Head of BI, Digital Media-Uganda) — zero engineering. Historically hired Node.js backend in Kampala; watch for eng reposts.'
+    enabled: true
+
+  - name: Sun King (ex-Greenlight Planet)
+    careers_url: https://sunking.pinpointhq.com
+    api: https://sunking.pinpointhq.com/postings.json
+    scan_method: websearch
+    scan_query: '"sun king" OR "greenlight planet" careers "software engineer" OR "backend" remote'
+    notes: 'Off-grid solar fintech (PAYG), large East Africa eng footprint incl. Kampala. VERIFIED 2026-08-13: canonical board is PINPOINT (not SmartRecruiters — slugs SunKing/GreenlightPlanet both return 0 postings; sunking.com/careers geo-redirects to ug.sunking.com storefront). postings.json API works. 16 reqs, zero software-eng currently (SWE reqs are India-anchored when they appear); 1 Africa-remote req (GIS Specialist, off-filter).'
+    enabled: true
+
+  - name: Sporty Group
+    careers_url: https://job-boards.eu.greenhouse.io/sportygroup
+    api: https://boards.eu.greenhouse.io/v1/boards/sportygroup/jobs
+    notes: 'ADDED 2026-08-27 (surfaced via 08-26 RN-scan finding). Sports-betting/gaming super-app (SportyBet), millions of users, GH EU board ~44 reqs. Geo pattern: deliberate tag distinction Global-Remote vs Europe-Remote vs LATAM/city — Global-Remote reqs are real (Senior Backend Engineer added to pipeline 2026-08-27); company policy = core hours in own timezone. CAVEATS: backend stack Java 17/Spring-primary (some reqs carry explicit OOP-ramp clause waiving Java); "EMEA" labels unreliable (SRE req JD said "Must be based in Europe"); betting/gambling domain. Watch for Node-stack or Global-Remote platform reqs.'
+    enabled: true
+
+  - name: Sand Technologies
+    careers_url: https://job-boards.eu.greenhouse.io/sandtechholdingslimited
+    api: https://boards.eu.greenhouse.io/v1/boards/sandtechholdingslimited/jobs
+    notes: 'ADDED 2026-08-26 (found via RemoteFront resolution). AI/data-infra for governments/enterprise (healthcare, water, telecom, energy); teams across Africa/Europe/UK/US. GH EU board, 46 reqs incl. real eng. Geo pattern: most reqs country-tagged (SA/Romania/USA/Rwanda) BUT Africa-wide reqs exist (Platform Engineer "Rwanda | Africa" w/ continent-travel clause added to pipeline 2026-08-26). Stack: Python + Node/TS + K8s/GitOps. Watch every scan.'
+    enabled: true
+
+  # -- Talent marketplaces (added 2026-08-13) --
+  # Placement model, NOT direct employment — same caveat as Proxify/Andela/G2i.
+  # Evaluate engagements via `training`/`project` lens; flag marketplace model in reports.
+
+  - name: Toptal
+    careers_url: https://www.toptal.com/talent/apply
+    scan_method: websearch
+    scan_query: '"toptal" (Node.js OR TypeScript) "developer" OR "engineer" remote'
+    notes: 'Global freelance marketplace, accepts African engineers. Screening gauntlet (3-5 weeks). Rates typically $60-120/hr for senior Node/TS. Marketplace — not W2. VERIFIED 2026-08-13: URL live, pure intake funnel (category picker + registration) — no browsable client reqs; nothing to pipeline, evaluate as `training`/`project` decision if Isaac wants to enter the gauntlet.'
+    enabled: true
+
+  - name: Turing
+    careers_url: https://www.turing.com/jobs
+    scan_method: websearch
+    scan_query: '"turing.com" (Node.js OR TypeScript) "Backend" OR "Software Engineer" remote'
+    notes: 'AI-matched placement marketplace, hires globally incl. Africa. US-timezone overlap often required — verify per engagement. Marketplace — not W2. VERIFIED 2026-08-13: turing.com/jobs live but is a signup funnel (developers.turing.com/signup), no browsable reqs pre-signup; nothing to pipeline.'
+    enabled: true
+
+  - name: Braintrust
+    careers_url: https://www.usebraintrust.com/jobs
+    scan_method: websearch
+    scan_query: 'site:usebraintrust.com/jobs (Node.js OR TypeScript) ("Backend" OR "Software Engineer") remote'
+    notes: 'Fee-free talent network (talent keeps 100% of rate). Global, incl. Africa. Mix of contract + full-time client roles. Marketplace — not W2. VERIFIED 2026-08-13: usebraintrust.com/jobs live, shows rate-card previews (Senior Full-Stack $150-200/hr etc.) but real client reqs + geo live behind app.usebraintrust.com/jobs (account-gated) — per-req geo unverifiable without signup; nothing pipelined.'
+    enabled: true
+
+  - name: Railway
+    careers_url: https://jobs.ashbyhq.com/railway
+    api: https://api.ashbyhq.com/posting-api/job-board/railway
+    notes: 'ADDED 2026-09-11 via HN Sept-2026 thread (49522897). BEST GEO SIGNAL IN THE TRACKED SET. Ashby board tags 6 reqs `Location: Global` and 2 reqs `Remote (United States)` — deliberate distinction in its strongest observed form. Application form live-inspected 2026-09-11: Name / Email / Resume / "Why Railway?" ONLY — no location field, no country dropdown, no work-auth question. Stack is squarely Node.js/TypeScript/Postgres/GraphQL/Temporal with Rust as a learn-on-the-job extra. Comp is NOT published on any req ("Great salary, strong equity grants") — probe early. 4 reqs pipelined 2026-09-11; the 2 rejected (Storage, Baremetal Orchestration) failed on Rust-only stack, NOT geo — any new TS/Node req here is an automatic add.'
+    enabled: true
+
+  - name: Sourcegraph (geo policy note)
+    careers_url: https://sourcegraph.com/jobs
+    api: https://boards-api.greenhouse.io/v1/boards/sourcegraph91/jobs
+    notes: 'DUPLICATE ENTRY KEPT DELIBERATELY AS A GEO NOTE — see the primary Sourcegraph entry above. 2026-09-11: JD language confirmed live: "While we hire almost anywhere in the world, we have a preference for someone to reside in [Europe, North America]. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with EST for at least 20 hours/week." Kampala UTC+3 clears the 20h/wk EST overlap with an afternoon/evening shift (16:00-20:00 EAT = 09:00-13:00 EDT). Every req is labelled plain "Remote". TREAT ANY SOURCEGRAPH NODE/TS IC REQ AS A GENUINE DOOR. The 2026-09-11 ML & Agentic Systems Engineer [IC4] was skipped on stack (must have personally trained/fine-tuned a production model end-to-end; Go backend), not geo.'
+    enabled: false
