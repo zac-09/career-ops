@@ -741,9 +741,10 @@ tracked_companies:
 
   - name: Ghost
     careers_url: https://careers.ghost.org
+    api: https://api.ashbyhq.com/posting-api/job-board/ghost
     scan_method: websearch
     scan_query: 'site:apply.workable.com/ghost OR "ghost.org" careers "engineer" OR "backend"'
-    notes: 'Workable. "Work from anywhere"; remote since 2013, 4-day week. Node/Express/Knex/React. Often 0 open roles — check notify list. 2026-07-31: Workable widget API for "ghost" returns 0 jobs.'
+    notes: 'Workable. "Work from anywhere"; remote since 2013, 4-day week. Node/Express/Knex/React. Often 0 open roles — check notify list. 2026-07-31: Workable widget API for "ghost" returns 0 jobs. 2026-09-21: ATS MIGRATED Workable -> ASHBY. Working JSON: api.ashbyhq.com/posting-api/job-board/ghost. 1 req (Founding Engineer, San Francisco) — geo fail.'
     enabled: true
 
   - name: Redpanda
@@ -795,9 +796,10 @@ tracked_companies:
 
   - name: Yellow Card
     careers_url: https://yellowcard.bamboohr.com/careers
+    api: https://yellowcard.bamboohr.com/careers/list
     scan_method: websearch
     scan_query: '"yellow card" careers "engineer" OR "backend" OR "platform" remote'
-    notes: 'BambooHR (SPA — but /careers/list JSON API works via curl). Pan-African stablecoin fintech, 25+ countries, Node/TS/AWS. Engineering roles tagged plain "Remote". Verified live 2026-06-11. 2026-08-11: NEW Technical Team Lead (Full-stack) req /412 added to pipeline; Senior Frontend /411 off-filter. 2026-08-13: Senior AI Platform Engineer /385 REOPENED (closed since 2026-07-02) — re-added to pipeline.'
+    notes: 'BambooHR (SPA — but /careers/list JSON API works via curl). Pan-African stablecoin fintech, 25+ countries, Node/TS/AWS. Engineering roles tagged plain "Remote". Verified live 2026-06-11. 2026-08-11: NEW Technical Team Lead (Full-stack) req /412 added to pipeline; Senior Frontend /411 off-filter. 2026-08-13: Senior AI Platform Engineer /385 REOPENED (closed since 2026-07-02) — re-added to pipeline. 2026-09-21: api: field added (BambooHR /careers/list JSON confirmed working). 8 reqs; only /412 Technical Team Lead (= #188) and /411 Senior Frontend are eng; /385 AI Platform Engineer GONE. No new on-filter reqs.'
     enabled: true
 
   - name: Yassir
@@ -828,9 +830,10 @@ tracked_companies:
 
   - name: G2i
     careers_url: https://himalayas.app/companies/g2i
+    api: https://api.ashbyhq.com/posting-api/job-board/g2i
     scan_method: websearch
     scan_query: 'site:himalayas.app/companies/g2i OR "g2i" "engineer" Node.js OR React'
-    notes: 'Hiring platform for React/Node devs — placement model (like Proxify), not direct W2. "Open to candidates from all countries." Staff-level Node/React roles up to $416K. Verified 2026-06-11.'
+    notes: 'Hiring platform for React/Node devs — placement model (like Proxify), not direct W2. "Open to candidates from all countries." Staff-level Node/React roles up to $416K. Verified 2026-06-11. 2026-09-21: CANONICAL BOARD FOUND — G2i runs its own Ashby board (api.ashbyhq.com/posting-api/job-board/g2i, 10 reqs); stop scanning via Himalayas. Two reqs tagged plain "Remote" with "Remote-first, global team" JD language (Senior Engineer = Full-Stack React 19 + Node.js + tRPC + Docker, $50-150/hr contract; Staff Engineer = same stack + team leadership) — BOTH PIPELINED. Other 8 reqs are US/Europe-tagged or Python/Go/Rust.'
     enabled: true
 
   - name: Chronograph
@@ -874,7 +877,7 @@ tracked_companies:
     careers_url: https://www.latitude.sh/careers
     scan_method: websearch
     scan_query: '"latitude.sh" careers "engineer" OR "SRE" OR "platform"'
-    notes: 'Bare-metal cloud. "Open to candidates from all countries" (Himalayas). K8s/Terraform/Prometheus — platform/SRE archetype fit. Verify per-role. Canonical board: ats.rippling.com/latitudesh-jobs/jobs (page scrape works, API does not). 2026-08-13: only 2 eng reqs, both evaluated (#186 Backend Brazil-tagged, #187 SRE skip).'
+    notes: 'Bare-metal cloud. "Open to candidates from all countries" (Himalayas). K8s/Terraform/Prometheus — platform/SRE archetype fit. Verify per-role. Canonical board: ats.rippling.com/latitudesh-jobs/jobs (page scrape works, API does not). 2026-08-13: only 2 eng reqs, both evaluated (#186 Backend Brazil-tagged, #187 SRE skip). 2026-09-21 WARNING — DO NOT add api: https://boards-api.greenhouse.io/v1/boards/latitude/jobs: that Greenhouse slug is LATITUDE AI, the Ford autonomous-driving subsidiary (Pittsburgh/Palo Alto/Detroit, 43 reqs, 17 on-filter, all US-only), a DIFFERENT COMPANY from latitude.sh the bare-metal cloud. Canonical board for latitude.sh remains ats.rippling.com/latitudesh-jobs/jobs (page scrape only).'
     enabled: true
 
   # -- African fintech / Africa-eligible (added 2026-08-13) --
@@ -905,9 +908,10 @@ tracked_companies:
 
   - name: Paystack
     careers_url: https://careers.paystack.com/jobs
+    api: https://careers.paystack.com/jobs.json
     scan_method: websearch
     scan_query: '"paystack" careers "engineer" OR "backend" remote'
-    notes: 'Stripe-owned African payments (Lagos). Strong eng brand. VERIFIED 2026-08-13: Teamtailor on custom domain careers.paystack.com (paystack.com/careers is a marketing page, 403s to WebFetch — fetch careers.paystack.com directly). 2026-08-26: board EXPANDED 1→7 reqs; geo pattern shifted to multi-country remote-first lists (e.g. Senior Data Engineer: CIV/GH/SA/UAE/NG/KE) — Uganda still NOT listed on any req. 2026-08-27: expanded again 7→10 (new Sr DevOps: Accra/CPT/Dubai/Lagos/Nairobi; QA/Data-Science/IT/Platform-Security) — Uganda still excluded. 2026-09-11: CONTRACTED 10→12 total but Sr DevOps req GONE; eligibility countries now CIV/Ghana/Kenya/Nigeria/South Africa/UAE, Uganda STILL absent; all eng reqs Hybrid or single-country. ATS CONFIRMED TEAMTAILOR (footer: "Applicant tracking system by Teamtailor") — no Greenhouse/Lever/Ashby slug exists, needs Playwright. Watch for Uganda/EAC additions to eligibility lists.'
+    notes: 'Stripe-owned African payments (Lagos). Strong eng brand. VERIFIED 2026-08-13: Teamtailor on custom domain careers.paystack.com (paystack.com/careers is a marketing page, 403s to WebFetch — fetch careers.paystack.com directly). 2026-08-26: board EXPANDED 1→7 reqs; geo pattern shifted to multi-country remote-first lists (e.g. Senior Data Engineer: CIV/GH/SA/UAE/NG/KE) — Uganda still NOT listed on any req. 2026-08-27: expanded again 7→10 (new Sr DevOps: Accra/CPT/Dubai/Lagos/Nairobi; QA/Data-Science/IT/Platform-Security) — Uganda still excluded. 2026-09-11: CONTRACTED 10→12 total but Sr DevOps req GONE; eligibility countries now CIV/Ghana/Kenya/Nigeria/South Africa/UAE, Uganda STILL absent; all eng reqs Hybrid or single-country. ATS CONFIRMED TEAMTAILOR (footer: "Applicant tracking system by Teamtailor") — no Greenhouse/Lever/Ashby slug exists, needs Playwright. Watch for Uganda/EAC additions to eligibility lists. 2026-09-21: Teamtailor JSON endpoint WORKS after all — careers.paystack.com/jobs.json (no Playwright needed). It now returns ZERO offers: the board emptied completely since 09-11.'
     enabled: true
 
   - name: Moniepoint
@@ -980,3 +984,15 @@ tracked_companies:
     api: https://boards-api.greenhouse.io/v1/boards/sourcegraph91/jobs
     notes: 'DUPLICATE ENTRY KEPT DELIBERATELY AS A GEO NOTE — see the primary Sourcegraph entry above. 2026-09-11: JD language confirmed live: "While we hire almost anywhere in the world, we have a preference for someone to reside in [Europe, North America]. However, if you feel qualified, we welcome you to apply regardless of location. No matter what, working hours must overlap with EST for at least 20 hours/week." Kampala UTC+3 clears the 20h/wk EST overlap with an afternoon/evening shift (16:00-20:00 EAT = 09:00-13:00 EDT). Every req is labelled plain "Remote". TREAT ANY SOURCEGRAPH NODE/TS IC REQ AS A GENUINE DOOR. The 2026-09-11 ML & Agentic Systems Engineer [IC4] was skipped on stack (must have personally trained/fine-tuned a production model end-to-end; Go backend), not geo.'
     enabled: false
+
+  - name: Tether
+    careers_url: https://careers.tether.io
+    api: https://careers.tether.io/api/offers/
+    notes: 'ADDED 2026-09-21 via HN Sept-2026 thread (49522897, post 49713455). Recruitee/Tellent on a custom domain; JSON at careers.tether.io/api/offers/ returns ~174 live reqs. Their own HN post: "All of our roles are fully remote, worldwide." STRUCTURAL QUIRK — they clone one req per city (12 x "Technical Lead - GPU Infrastructure" tagged Poland/Italy/Romania/Barcelona/UK/Bangalore/Armenia/Ireland/Cairo/Pakistan), so the Recruitee location field is NOISE: the TITLE carries the geo truth ("100% Remote - Worldwide"). Stack is heavily Node.js/P2P (they own HOLEPUNCH — the Holepunch Node reqs already evaluated as #83/#95 are mirrored onto this board, so DEDUP ON ROLE, NOT URL). Domain caveat: stablecoin issuer + Bitcoin mining; titles are clean of crypto/blockchain keywords so the negative title filter will not catch them.'
+    enabled: true
+
+  - name: Zoftify
+    careers_url: https://zoftify.bamboohr.com/careers
+    api: https://zoftify.bamboohr.com/careers/list
+    notes: 'ADDED 2026-09-21 via RemoteRocketship, resolved to canonical BambooHR. Travel-software product agency (clients in USA/UK/Germany/Switzerland/Italy/France), fully remote since 2019, ~11-50 staff. JD text itself — not an aggregator tag — says "100% remote work from anywhere in the world", the cleanest geo signal of the run. 16 open reqs; on-stack: #41 Full Stack (React + Node.js) and #30 Backend Developer (Node) BOTH PIPELINED, plus #31 Backend Team Lead (missed by title_filter). Expect agency comp, not product-company comp. Detail endpoint: zoftify.bamboohr.com/careers/{id}/detail.'
+    enabled: true
