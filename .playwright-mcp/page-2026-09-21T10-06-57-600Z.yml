@@ -1,0 +1,148 @@
+- generic [ref=f69e2]:
+  - list [ref=f69e4]:
+    - listitem [ref=f69e5]:
+      - link [ref=f69e6] [cursor=pointer]:
+        - /url: https://zencastr.com
+        - img "Zencastr" [ref=f69e7]
+    - listitem [ref=f69e8]:
+      - link "Back to Zencastr’s Job Listings" [ref=f69e9] [cursor=pointer]:
+        - /url: /zencastr
+    - listitem
+  - generic [ref=f69e12]:
+    - heading "Senior Data Engineer (Remote)" [level=1] [ref=f69e14]
+    - generic [ref=f69e15]:
+      - generic [ref=f69e16]:
+        - generic [ref=f69e17]:
+          - heading "Location" [level=2] [ref=f69e18]
+          - paragraph [ref=f69e19]: San Francisco Office
+        - generic [ref=f69e20]:
+          - heading "Employment Type" [level=2] [ref=f69e21]
+          - paragraph [ref=f69e22]: Full time
+        - generic [ref=f69e23]:
+          - heading "Location Type" [level=2] [ref=f69e24]
+          - paragraph [ref=f69e25]: Remote
+        - generic [ref=f69e26]:
+          - heading "Department" [level=2] [ref=f69e27]
+          - paragraph [ref=f69e28]: Data Analytics
+      - generic [ref=f69e29]:
+        - tablist [ref=f69e30]:
+          - tab "Overview" [selected] [ref=f69e31] [cursor=pointer]
+          - tab "Application" [ref=f69e32] [cursor=pointer]
+        - tabpanel "Overview" [ref=f69e34]:
+          - generic [ref=f69e35]:
+            - heading [level=2] [ref=f69e36]:
+              - strong [ref=f69e37]: About the Role
+            - paragraph [ref=f69e38]: As our first dedicated Data Engineer, you will build and own the data foundation that powers analytics, reporting, and decision-making across the organization. This is a hands-on role where you'll design the dimensional model, own the pipelines that feed it, and establish the standards our data practice is built on.
+            - paragraph [ref=f69e39]: You won't be starting from zero or working alone. You'll join a data team with direct analytics experience, and partner closely with engineering and other technical teams who have built and run what we have today. There's real institutional knowledge here to draw on. What's been missing is someone whose focus is turning it into a single, well-modeled foundation the whole company can rely on.
+            - paragraph [ref=f69e40]: "You will work cross-functionally to understand how data is generated and used, and translate those needs into scalable models and structured reporting layers. A central part of the work is identity resolution: building the spine that reliably connects the same entity as it appears across systems that each have their own identifiers and lifecycles."
+            - paragraph [ref=f69e41]: This role is ideal for someone who enjoys owning data systems end to end — from ingestion and transformation through modeling, governance, and performance — and who wants the autonomy to design a warehouse properly, with colleagues who can help you understand the business behind the data.
+            - paragraph [ref=f69e42]
+            - paragraph [ref=f69e43]:
+              - strong [ref=f69e44]: What You’ll Do
+            - list [ref=f69e45]:
+              - listitem [ref=f69e46]:
+                - paragraph [ref=f69e47]: Design and build a conformed, Kimball-style dimensional model across our operational, behavioral, and transactional data
+              - listitem [ref=f69e48]:
+                - paragraph [ref=f69e49]: Own ingestion end to end, including capturing change over time from sources that don't preserve history natively
+              - listitem [ref=f69e50]:
+                - paragraph [ref=f69e51]: Consolidate transformation logic that currently lives in more than one place into a single governed, tested layer
+              - listitem [ref=f69e52]:
+                - paragraph [ref=f69e53]: Implement and manage our data warehouse and transformation layer, taking ownership of the pipelines that move data from our operational systems into it
+              - listitem [ref=f69e54]:
+                - paragraph [ref=f69e55]: Establish foundational best practices for data modeling, documentation, testing, and governance
+              - listitem [ref=f69e56]:
+                - paragraph [ref=f69e57]: Improve data reliability, quality, and accessibility across systems
+              - listitem [ref=f69e58]:
+                - paragraph [ref=f69e59]: Collaborate with analysts and business stakeholders to support evolving data needs
+              - listitem [ref=f69e60]:
+                - paragraph [ref=f69e61]: Encode business metric definitions once, so that reporting stops drifting across teams
+              - listitem [ref=f69e62]:
+                - paragraph [ref=f69e63]: Monitor and optimize performance and cost efficiency across pipelines, storage, and warehouse queries
+            - paragraph [ref=f69e64]
+            - heading [level=2] [ref=f69e65]:
+              - strong [ref=f69e66]: You're a Good Fit If You
+            - list [ref=f69e67]:
+              - listitem [ref=f69e68]:
+                - paragraph [ref=f69e69]: Have 5+ years of experience specifically in data engineering, analytics engineering, or a closely related role, including having built and owned a dimensional model in production
+              - listitem [ref=f69e70]:
+                - paragraph [ref=f69e71]: Have strong proficiency in SQL, with experience across document-based operational databases (e.g., MongoDB) and analytical data warehouses (e.g., BigQuery, Snowflake, Redshift, or similar)
+              - listitem [ref=f69e72]:
+                - paragraph [ref=f69e73]: Have experience building fact and dimension tables using star schema principles to support reporting and data marts, with a clear point of view on grain, conformed dimensions, and slowly-changing dimensions
+              - listitem [ref=f69e74]:
+                - paragraph [ref=f69e75]: Have hands-on experience with modern transformation and modeling frameworks (e.g., dbt, Dataform, or similar), including managing transformation layers within a warehouse environment with version control, testing, and CI
+              - listitem [ref=f69e76]:
+                - paragraph [ref=f69e77]: Have built and maintained reliable ETL/ELT pipelines that transform raw application data into structured, analytics-ready datasets
+              - listitem [ref=f69e78]:
+                - paragraph [ref=f69e79]: Have worked with orchestration tooling (e.g., Airflow, Dagster, Prefect, or similar) and think in terms of dependencies, retries, and backfills
+              - listitem [ref=f69e80]:
+                - paragraph [ref=f69e81]: Have experience with data ingestion or event streaming platforms (e.g., RudderStack, Segment, Pub/Sub, or similar) and ensuring consistent, reliable upstream data flows, including identity stitching across web and mobile
+              - listitem [ref=f69e82]:
+                - paragraph [ref=f69e83]: Have a solid understanding of data modeling best practices, including schema design, dimensional modeling, and performance considerations
+              - listitem [ref=f69e84]:
+                - paragraph [ref=f69e85]: Have a track record of inheriting and operating systems you didn't build
+              - listitem [ref=f69e86]:
+                - paragraph [ref=f69e87]: Have a strong focus on data quality, validation, and governance, with the ability to identify and resolve inconsistencies
+              - listitem [ref=f69e88]:
+                - paragraph [ref=f69e89]: Have an understanding of performance optimization across pipelines, storage, and warehouse queries
+              - listitem [ref=f69e90]:
+                - paragraph [ref=f69e91]: Can explain technical tradeoffs clearly to non-engineers
+              - listitem [ref=f69e92]:
+                - paragraph [ref=f69e93]: Are comfortable operating in a growing environment where you both execute technically and help shape our data architecture standards
+            - paragraph [ref=f69e94]:
+              - strong [ref=f69e95]: Nice to have
+            - list [ref=f69e96]:
+              - listitem [ref=f69e97]:
+                - paragraph [ref=f69e98]: Change data capture patterns from operational databases
+              - listitem [ref=f69e99]:
+                - paragraph [ref=f69e100]: Subscription billing data — proration, refunds, failed payments, trials
+              - listitem [ref=f69e101]:
+                - paragraph [ref=f69e102]: Experience with distributed processing frameworks (e.g., Spark, Beam, Dataflow)
+              - listitem [ref=f69e103]:
+                - paragraph [ref=f69e104]: Experience as a first or early data hire
+            - paragraph [ref=f69e105]
+            - heading [level=2] [ref=f69e106]:
+              - strong [ref=f69e107]: Key Responsibilities
+            - list [ref=f69e108]:
+              - listitem [ref=f69e109]:
+                - paragraph [ref=f69e110]: Design, build, and maintain reliable data pipelines that transform operational data into structured, analytics-ready datasets
+              - listitem [ref=f69e111]:
+                - paragraph [ref=f69e112]: Design and maintain the dimensional model — dimensions, facts, and bridge tables with clearly defined grain
+              - listitem [ref=f69e113]:
+                - paragraph [ref=f69e114]: Develop and maintain scalable data models and data marts to support reporting and business analysis
+              - listitem [ref=f69e115]:
+                - paragraph [ref=f69e116]: Manage and optimize data ingestion and event workflows to ensure consistent, high-quality upstream data flows
+              - listitem [ref=f69e117]:
+                - paragraph [ref=f69e118]: Implement and manage transformation processes that structure raw data for analytics use
+              - listitem [ref=f69e119]:
+                - paragraph [ref=f69e120]: Implement orchestration, testing, freshness monitoring, and alerting so that data issues are caught before stakeholders encounter them
+              - listitem [ref=f69e121]:
+                - paragraph [ref=f69e122]: Build and maintain change capture or snapshotting to support historical reporting and slowly-changing dimensions
+              - listitem [ref=f69e123]:
+                - paragraph [ref=f69e124]: Improve data freshness — moving our core operational data from batch refreshes toward near-real-time availability, and establishing freshness SLAs stakeholders can rely on
+              - listitem [ref=f69e125]:
+                - paragraph [ref=f69e126]: Ensure strong standards for data quality, validation, and consistency across systems
+              - listitem [ref=f69e127]:
+                - paragraph [ref=f69e128]: Document models and definitions so analysts and stakeholders can self-serve with confidence
+              - listitem [ref=f69e129]:
+                - paragraph [ref=f69e130]: Monitor and optimize performance, reliability, and cost efficiency within the analytics environment
+              - listitem [ref=f69e131]:
+                - paragraph [ref=f69e132]: Partner cross-functionally to translate business requirements into scalable data solutions
+              - listitem [ref=f69e133]:
+                - paragraph [ref=f69e134]: Proactively improve our data systems so they remain structured, consistent, and scalable as the organization grows
+            - paragraph [ref=f69e135]
+            - paragraph [ref=f69e136]
+          - link [ref=f69e137] [cursor=pointer]:
+            - /url: /zencastr/96a7ba66-f677-48d7-83cc-9e8bb769821a/application
+            - button "Apply for this Job" [ref=f69e138]
+  - contentinfo [ref=f69e139]:
+    - link "Learn more about Ashby" [ref=f69e140] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f69e141]: Powered by
+      - img "Ashby" [ref=f69e142]
+    - paragraph [ref=f69e148]:
+      - link "Privacy Policy" [ref=f69e149] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f69e150] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f69e151] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

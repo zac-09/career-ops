@@ -1,0 +1,173 @@
+- generic [ref=f47e2]:
+  - link "Skip to content" [ref=f47e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f47e5]:
+    - generic [ref=f47e10]:
+      - link "Tether Operations Limited logo Homepage" [ref=f47e12] [cursor=pointer]:
+        - /url: /
+        - img "Tether Operations Limited logo" [ref=f47e13]
+        - generic [ref=f47e14]: Homepage
+      - navigation [ref=f47e16]:
+        - list [ref=f47e17]:
+          - listitem [ref=f47e18]:
+            - link "Finance" [ref=f47e19] [cursor=pointer]:
+              - /url: /finance
+          - listitem [ref=f47e20]:
+            - link "Power" [ref=f47e21] [cursor=pointer]:
+              - /url: /power
+          - listitem [ref=f47e22]:
+            - link "Data" [ref=f47e23] [cursor=pointer]:
+              - /url: /data
+          - listitem [ref=f47e24]:
+            - link "Education" [ref=f47e25] [cursor=pointer]:
+              - /url: /edu
+          - listitem [ref=f47e26]:
+            - link "Plan ₿" [ref=f47e27] [cursor=pointer]:
+              - /url: /planb
+          - listitem [ref=f47e28]:
+            - link "Tether.to" [ref=f47e29] [cursor=pointer]:
+              - /url: https://tether.to/en/
+          - listitem [ref=f47e30]:
+            - link "twitter" [ref=f47e31] [cursor=pointer]:
+              - /url: https://twitter.com/Tether/
+          - listitem [ref=f47e32]:
+            - link "linkedin" [ref=f47e33] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/tether/
+    - main [ref=f47e34]:
+      - generic [ref=f47e44]:
+        - heading "Backend Engineer - Wallets (100% Remote Worldwide)" [level=1] [ref=f47e45]
+        - list [ref=f47e46]:
+          - listitem [ref=f47e47]: Remote
+          - listitem [ref=f47e49]:
+            - list [ref=f47e52]:
+              - listitem [ref=f47e53]:
+                - text: Dubai
+                - generic [ref=f47e54]: ","
+                - text: Dubai
+                - generic [ref=f47e55]: ","
+                - text: United Arab Emirates
+          - listitem [ref=f47e56]: Development
+        - generic:
+          - generic:
+            - paragraph
+            - paragraph
+      - generic [ref=f47e66]:
+        - tablist [ref=f47e69]:
+          - tab "Job details" [selected] [ref=f47e70] [cursor=pointer]
+          - tab "Apply" [ref=f47e71] [cursor=pointer]
+        - generic [ref=f47e72]:
+          - tabpanel "Job details" [ref=f47e73]:
+            - generic [ref=f47e76]:
+              - generic [ref=f47e78]:
+                - heading "Job description" [level=2] [ref=f47e79]
+                - generic [ref=f47e81]:
+                  - paragraph [ref=f47e82]:
+                    - strong [ref=f47e83]:
+                      - emphasis [ref=f47e84]: Join Tether and Shape the Future of Digital Finance
+                  - paragraph [ref=f47e85]: At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction.
+                  - paragraph [ref=f47e86]
+                  - paragraph [ref=f47e87]:
+                    - strong [ref=f47e88]:
+                      - emphasis [ref=f47e89]: Innovate with Tether
+                  - paragraph [ref=f47e90]:
+                    - strong [ref=f47e91]: "Tether Finance:"
+                    - text: Our innovative product suite features the world’s most trusted stablecoin,
+                    - strong [ref=f47e92]: USDT
+                    - text: ", relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services."
+                  - paragraph [ref=f47e93]: "But that’s just the beginning:"
+                  - paragraph [ref=f47e94]:
+                    - strong [ref=f47e95]: "Tether Power:"
+                    - text: Driving sustainable growth, our energy solutions optimize excess power for Bitcoin mining using eco-friendly practices in state-of-the-art, geo-diverse facilities.
+                  - paragraph [ref=f47e96]:
+                    - strong [ref=f47e97]: "Tether Data:"
+                    - text: Fueling breakthroughs in AI and peer-to-peer technology, we reduce infrastructure costs and enhance global communications with cutting-edge solutions like
+                    - strong [ref=f47e98]: KEET
+                    - text: ", our flagship app that redefines secure and private data sharing."
+                  - paragraph [ref=f47e99]:
+                    - strong [ref=f47e100]: Tether Education
+                    - text: ": Democratizing access to top-tier digital learning, we empower individuals to thrive in the digital and gig economies, driving global growth and opportunity."
+                  - paragraph [ref=f47e101]:
+                    - strong [ref=f47e102]: Tether Evolution
+                    - text: ": At the intersection of technology and human potential, we are pushing the boundaries of what is possible, crafting a future where innovation and human capabilities merge in powerful, unprecedented ways."
+                  - paragraph [ref=f47e103]
+                  - paragraph [ref=f47e104]:
+                    - strong [ref=f47e105]:
+                      - emphasis [ref=f47e106]: Why Join Us?
+                  - paragraph [ref=f47e107]: Our team is a global talent powerhouse, working remotely from every corner of the world. If you’re passionate about making a mark in the fintech space, this is your opportunity to collaborate with some of the brightest minds, pushing boundaries and setting new standards. We’ve grown fast, stayed lean, and secured our place as a leader in the industry.
+                  - paragraph [ref=f47e108]: If you have excellent English communication skills and are ready to contribute to the most innovative platform on the planet, Tether is the place for you.
+                  - paragraph [ref=f47e109]:
+                    - strong [ref=f47e110]: Are you ready to be part of the future?
+                  - paragraph [ref=f47e111]
+                  - paragraph [ref=f47e112]:
+                    - strong [ref=f47e113]: About the job
+                  - paragraph [ref=f47e114]: In this pivotal role, you will leverage your expertise to build robust, scalable, and secure backend solutions that contribute to Tether’s mission of pioneering a decentralized future in digital finance. This is an opportunity to take on formidable challenges and make a significant impact on our cutting-edge, global platform.
+                  - paragraph [ref=f47e115]
+                  - paragraph [ref=f47e116]:
+                    - strong [ref=f47e117]: Responsibilities
+                  - list [ref=f47e118]:
+                    - listitem [ref=f47e119]:
+                      - paragraph [ref=f47e120]: "• Innovative Solutions: Contribute to the creation of groundbreaking projects, utilizing agile methodologies and innovative technologies to create incredible platforms."
+                    - listitem [ref=f47e121]:
+                      - paragraph [ref=f47e122]: "• Scalability: Ensure backend services remain effortlessly responsive and real-time, accommodating the platform's continual growth and evolving user base."
+                    - listitem [ref=f47e123]:
+                      - paragraph [ref=f47e124]: "• Security: Uphold the highest security standards in all backend processes and services to safeguard our users' assets and data."
+                - heading "Job requirements" [level=2] [ref=f47e125]
+                - generic [ref=f47e127]:
+                  - list [ref=f47e128]:
+                    - listitem [ref=f47e129]:
+                      - paragraph [ref=f47e130]: "• Node/JavaScript Expertise: Very proficient in Node.js and JavaScript programming."
+                    - listitem [ref=f47e131]:
+                      - paragraph [ref=f47e132]: "• Microservices Architecture: Familiarity with microservices architecture for scalable applications."
+                    - listitem [ref=f47e133]:
+                      - paragraph [ref=f47e134]: "• Complex Platform Development: Experience in actively developing complex platforms."
+                    - listitem [ref=f47e135]:
+                      - paragraph [ref=f47e136]: "• Peer-to-Peer Technologies: Understanding of Peer-to-Peer technologies."
+                    - listitem [ref=f47e137]:
+                      - paragraph [ref=f47e138]: "• Database Interaction: Proficiency in interacting with databases such as MySQL and MongoDB."
+                    - listitem [ref=f47e139]:
+                      - paragraph [ref=f47e140]: "• Quick Learner: Ability to quickly adapt and learn new technologies."
+                    - listitem [ref=f47e141]:
+                      - paragraph [ref=f47e142]: "• Security Awareness: Strong understanding and experience implementing best security practices."
+                  - paragraph [ref=f47e143]
+                  - paragraph [ref=f47e144]
+                  - paragraph [ref=f47e145]:
+                    - strong [ref=f47e146]: Important information for candidates
+                    - text: "Recruitment scams have become increasingly common. To protect yourself, please keep the following in mind when applying for roles:"
+                  - list [ref=f47e147]:
+                    - listitem [ref=f47e148]:
+                      - paragraph [ref=f47e149]:
+                        - text: •
+                        - strong [ref=f47e150]: Apply only through our official channels.
+                        - text: "We do not use third-party platforms or agencies for recruitment unless clearly stated. All open roles are listed on our official careers page: https://tether.recruitee.com/"
+                    - listitem [ref=f47e151]:
+                      - paragraph [ref=f47e152]:
+                        - text: •
+                        - strong [ref=f47e153]: Verify the recruiter’s identity.
+                        - text: All our recruiters have verified LinkedIn profiles. If you’re unsure, you can confirm their identity by checking their profile or contacting us through our website.
+                    - listitem [ref=f47e154]:
+                      - paragraph [ref=f47e155]:
+                        - text: •
+                        - strong [ref=f47e156]: Be cautious of unusual communication methods.
+                        - text: We do not conduct interviews over WhatsApp, Telegram, or SMS. All communication is done through official company emails and platforms.
+                    - listitem [ref=f47e157]:
+                      - paragraph [ref=f47e158]:
+                        - text: •
+                        - strong [ref=f47e159]: Double-check email addresses.
+                        - text: All communication from us will come from emails ending in
+                        - strong [ref=f47e160]: "@"
+                        - link "tether.to" [ref=f47e161] [cursor=pointer]:
+                          - /url: http://tether.to
+                        - strong [ref=f47e162]: or @
+                        - link "tether.io" [ref=f47e163] [cursor=pointer]:
+                          - /url: http://tether.io
+                    - listitem [ref=f47e164]:
+                      - paragraph [ref=f47e165]:
+                        - text: •
+                        - strong [ref=f47e166]: We will never request payment or financial details.
+                        - text: If someone asks for personal financial information or payment at any point during the hiring process, it is a scam. Please report it immediately.
+                  - paragraph [ref=f47e167]:
+                    - strong [ref=f47e168]: When in doubt, feel free to reach out through our official website.
+              - generic [ref=f47e170]:
+                - button "Apply" [ref=f47e171] [cursor=pointer]
+                - button "Share job" [ref=f47e173] [cursor=pointer]
+          - text:          

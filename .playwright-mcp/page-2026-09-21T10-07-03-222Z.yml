@@ -1,0 +1,44 @@
+- generic [ref=f71e2]:
+  - list [ref=f71e4]:
+    - listitem [ref=f71e5]:
+      - link [ref=f71e6] [cursor=pointer]:
+        - /url: https://zencastr.com
+        - img "Zencastr" [ref=f71e7]
+    - listitem [ref=f71e8]:
+      - link "Back to Zencastr’s Job Listings" [ref=f71e9] [cursor=pointer]:
+        - /url: /zencastr
+    - listitem
+  - generic [ref=f71e12]:
+    - heading "Senior Data Engineer (Remote)" [level=1] [ref=f71e14]
+    - generic [ref=f71e15]:
+      - generic [ref=f71e16]:
+        - generic [ref=f71e17]:
+          - heading "Location" [level=2] [ref=f71e18]
+          - paragraph [ref=f71e19]: San Francisco Office
+        - generic [ref=f71e20]:
+          - heading "Employment Type" [level=2] [ref=f71e21]
+          - paragraph [ref=f71e22]: Full time
+        - generic [ref=f71e23]:
+          - heading "Location Type" [level=2] [ref=f71e24]
+          - paragraph [ref=f71e25]: Remote
+        - generic [ref=f71e26]:
+          - heading "Department" [level=2] [ref=f71e27]
+          - paragraph [ref=f71e28]: Data Analytics
+      - generic [ref=f71e29]:
+        - tablist [ref=f71e30]:
+          - tab "Overview" [ref=f71e31] [cursor=pointer]
+          - tab "Application" [selected] [ref=f71e32] [cursor=pointer]
+        - tabpanel "Application" [ref=f71e34]:
+          - paragraph [ref=f71e42]: Fetching application form
+  - contentinfo [ref=f71e43]:
+    - link "Learn more about Ashby" [ref=f71e44] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f71e45]: Powered by
+      - img "Ashby" [ref=f71e46]
+    - paragraph [ref=f71e52]:
+      - link "Privacy Policy" [ref=f71e53] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f71e54] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f71e55] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure
