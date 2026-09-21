@@ -108,7 +108,8 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **A (Action):** Wrote documentation for the Firebase SDKs (Node.js and Python) and trained the Ops team on the new dashboard and backup procedures.
 **R (Result):** Fellow engineers onboarded to the new stack from the docs; Ops ran backups independently (cv.md).
 **Reflection:** Good docs are a force multiplier — an hour of writing saved many hours of repeated explanation. Directly relevant to build-in-public, community-facing companies.
-**Best for questions about:** developer experience, documentation, knowledge sharing, cross-team collaboration
+**Best for questions about:** developer experience, documentation, knowledge sharing, cross-team collaboration, "tell me about a practice you introduced"
+**Honest limit (added from Report #226):** this was documentation instituted as a migration deliverable rather than after it — i.e. de-risking the bus factor deliberately. But it stops there: no review standards, no testing discipline. When a JD asks for "implementing new practices", say that plainly — owning the practice layer properly is a step up, not something already done.
 
 ### [Building for underserved users] USSD legal-aid service for rural Uganda
 **Source:** Report #174 — M-KOPA — Software Engineering Team Lead
@@ -192,3 +193,31 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **Reflection:** Never let the interviewer be the one to find the gap. Naming it first costs nothing and buys the framing; naming it first *with code attached* converts it. Standing follow-up: if Isaac confirms real production TypeScript (asserted in `config/profile.yml` `superpowers` as "Node.js / TypeScript backend systems, 5+ years" but absent from `cv.md`), that is a CV maintenance bug costing keyword matches on every Node req — fix `cv.md` rather than injecting the keyword per-application.
 **Best for questions about:** "Do you have production TypeScript?", "Have you used PostgreSQL in production?", any named-technology gap, honesty-under-pressure, how the candidate ramps on unfamiliar tooling.
 **First surfaced:** Report #220 — Zoftify — Backend Developer (Node).
+
+### [Team leadership] Leading four developers at CodeBits
+**Source:** Report #226 — Zoftify — Backend Team Lead
+**S (Situation):** Legal-tech delivery for Ugandan NGOs (FIDA, LASPNET) — fixed scope, no slack in the schedule, no product manager in between.
+**T (Task):** Lead four developers across two client systems simultaneously.
+**A (Action):** Led the team and set the architecture they built on — split work across the Kafka/Docker/Kubernetes microservices backend, a React Native + Expo cross-platform app with Firebase push, and a USSD service over gRPC, so four people could build concurrently without blocking each other.
+**R (Result):** Both the FIDA case management system and the LASPNET paralegal database shipped into service (cv.md, Jan 2020 – Jul 2021).
+**Reflection:** I led delivery, not careers. I set architecture and unblocked people; I never ran a hiring loop or a performance cycle. That's the honest edge of it, and it's a gap to close deliberately rather than pretend past.
+**Best for questions about:** "How long have you led a team?", technical leadership, delegation, parallelising work across a small team, lead/Staff-titled roles.
+**Scope note:** ~1.5 years, four direct reports, ended Jul 2021 — five years stale as of 2026. Distinct from [Founder-shaped ownership] Running CodeBits end-to-end, which covers the same employer from the client-ownership angle; use THIS one when the question is specifically about leading people.
+
+### [Cross-platform mobile] LASPNET field app on React Native + Expo
+**Source:** Report #226 — Zoftify — Backend Team Lead
+**S (Situation):** An NGO needed paralegals to access the case database from the field, on both iOS and Android, with no mobile team of its own.
+**T (Task):** One codebase, two app stores, minimal ongoing maintenance burden for the client.
+**A (Action):** Built the app with React Native and Expo, wiring Firebase push notifications for case updates.
+**R (Result):** Shipped to both platforms and operated in production for the NGO (cv.md).
+**Reflection:** Expo bought speed and cost native flexibility. For an NGO with no mobile team that was the right trade; I'd now make that trade explicit up front rather than discovering its edges later.
+**Best for questions about:** mobile breadth, greenfield delivery, build-vs-buy and framework trade-offs, delivering for resource-constrained clients.
+
+### [Gap handling] Leadership tenure, NestJS and AWS depth — the three answers that must not hedge
+**Source:** Report #226 — Zoftify — Backend Team Lead
+**S (Situation):** Lead-titled backend reqs tend to probe three things this CV cannot fully cover: years leading people, NestJS, and AWS depth. Each is verifiable quickly, so a bluff fails in the same conversation it's made.
+**T (Task):** Answer all three straight, in one sentence each, without unravelling into apology.
+**A (Action):** (1) *NestJS* — "Not in production. I've built Node services on Express and architected a Kafka/Docker/Kubernetes microservices backend, so the DI and modular-service model is familiar, but I'd be adopting NestJS, not arriving with it." Never claim it. (2) *Leading a team* — "Eighteen months leading four developers at CodeBits in 2020–21. Since then my leadership has been technical and programme-level: I owned a 20+ application migration end to end reporting to the CTO and set the architecture the team built on." (3) *Hiring and performance reviews* — "No. I've mentored, documented and trained engineers and ops teams onto new systems. I haven't owned a hiring loop or a performance cycle." One sentence, no hedging — it unravels otherwise. (4) *AWS* — intermediate, hands-on S3/EC2/EBS, plus the cost ownership of the $5,000/month exit. Do not inflate.
+**R (Result):** Each gap is stated before the interviewer finds it, which preserves the framing and keeps the rest of the conversation on the evidenced strengths.
+**Reflection:** The leadership answer is the one that decides lead-titled reqs. It works because it concedes the tenure question and immediately re-anchors on programme-scale ownership, which is the thing a ~30-person company actually needs from a lead. It stops working the moment it's padded.
+**Best for questions about:** "How long have you led a team?", "Have you run hiring or performance reviews?", "Do you have NestJS experience?", "How strong is your AWS?", any lead/Staff-titled req. Pairs with [Gap handling] Answering the TypeScript / PostgreSQL gap straight.
