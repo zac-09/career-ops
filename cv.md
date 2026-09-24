@@ -46,9 +46,9 @@ Led optimisation of a PWA delivering real-time stock market prices from a Fireba
 
 - Built ad-hoc jobs to query over 2 million Firestore records, keeping customer prices current from Morningstar APIs
 - Added responsive UI pages to the PWA using HTML, Tailwind, and React
-- Extended backend APIs using Firebase Cloud Functions and Express.js hosted on Heroku
+- Extended backend APIs in TypeScript using Firebase Cloud Functions and Express.js hosted on Heroku
 
-**Stack:** Node.js, Firebase, React, JavaScript, Tailwind, HTML, CSS
+**Stack:** Node.js, TypeScript, Firebase, React, JavaScript, Tailwind, HTML, CSS
 
 ---
 
@@ -82,7 +82,7 @@ Led a team of 4 developers building legal tech systems for NGOs in Uganda.
 
 ## Skills
 
-**Proficient:** Node.js, Firebase, React, GCP, Python, HTML, CSS, Git, Linux, MongoDB, SQL
+**Proficient:** Node.js, TypeScript, Firebase, React, GCP, Python, HTML, CSS, Git, Linux, MongoDB, SQL
 
 **Intermediate:** Go, AWS, Rust, React Native
 
