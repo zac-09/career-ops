@@ -447,7 +447,7 @@ tracked_companies:
     api: https://api.ashbyhq.com/posting-api/job-board/triggerdev
     scan_method: websearch
     scan_query: 'site:trigger.dev/jobs OR "trigger.dev" careers "engineer"'
-    notes: 'Remote. Open-source background job platform. TypeScript/Node.js core. 2026-07-24: Ashby slug is "triggerdev" (API verified); only 1 non-eng role live (Technical Content Engineer, UK).'
+    notes: 'Remote. Open-source background job platform. TypeScript/Node.js core. 2026-07-24: Ashby slug is "triggerdev" (API verified); only 1 non-eng role live (Technical Content Engineer, UK). 2026-09-24: 6 reqs. NEW ''Backend Engineer (Security)'' pipelined geo:unverified — Ashby location ''Remote or Hybrid UK'', JD silent on country; sibling ''Senior Backend Engineer (Europe)'' explicitly EU. Treat as UK/EU-leaning until the form is inspected.'
     enabled: true
 
   - name: Zencastr
@@ -690,7 +690,7 @@ tracked_companies:
     careers_url: https://careers.hostaway.com/
     scan_method: websearch
     scan_query: '"hostaway" careers "Backend" OR "Software Engineer" Node.js OR TypeScript'
-    notes: 'Recruitee. "Fully remote, EMEA" — eligibility list names Kenya/Nigeria/SA/Egypt; "EMEA +/- 0h". Node/TS, React, Go, GraphQL. NOTE: some roles PHP/Go-primary — title filter critical. 2026-07-20: Recruitee API shows only Senior Frontend Engineer + non-eng roles — no Node backend openings. 2026-08-19: NEW "Senior Backend Engineer, Integrations - 100% Remote - EMEA" added to pipeline (verify stack — Integrations may be Node); sibling Staff Backend Greenfield is Europe-locked.'
+    notes: 'Recruitee. "Fully remote, EMEA" — eligibility list names Kenya/Nigeria/SA/Egypt; "EMEA +/- 0h". Node/TS, React, Go, GraphQL. NOTE: some roles PHP/Go-primary — title filter critical. 2026-07-20: Recruitee API shows only Senior Frontend Engineer + non-eng roles — no Node backend openings. 2026-08-19: NEW "Senior Backend Engineer, Integrations - 100% Remote - EMEA" added to pipeline (verify stack — Integrations may be Node); sibling Staff Backend Greenfield is Europe-locked. 2026-09-24: NEW ''Senior Backend Engineer, AI Platform - 100% Remote - EMEA'' pipelined — JD is Python-primary (''working in Python'', LLM tooling), Node not named; Integrations EMEA req still live; Staff Greenfield Europe-locked. Recruitee API careers.hostaway.com/api/offers/ works (9 reqs).'
     enabled: true
 
   - name: Hotjar
@@ -704,7 +704,7 @@ tracked_companies:
     careers_url: https://career.proxify.io/
     scan_method: websearch
     scan_query: 'site:career.proxify.io "Node" OR "Backend" OR "Full Stack" senior'
-    notes: 'Teamtailor. Network band "+4GMT to -10GMT" — UTC+3 inside it. Heavy Node/Nest/React demand. NOTE: marketplace/client-placement model, not direct W2.'
+    notes: 'Teamtailor. Network band "+4GMT to -10GMT" — UTC+3 inside it. Heavy Node/Nest/React demand. NOTE: marketplace/client-placement model, not direct W2. 2026-09-24: career.proxify.io/jobs.json returns 404 (Teamtailor JSON not exposed on this custom domain) — page scrape only; not inspected this run.'
     enabled: true
 
   - name: Andela
@@ -782,7 +782,7 @@ tracked_companies:
     careers_url: https://remote.com/careers
     scan_method: websearch
     scan_query: 'site:remote.com/careers "engineer" OR "backend" TypeScript OR Elixir'
-    notes: 'Greenhouse. "Most roles open globally, few require timezone alignment." Runs EoR in most markets incl. Africa. Elixir + TS/React.'
+    notes: 'Greenhouse. "Most roles open globally, few require timezone alignment." Runs EoR in most markets incl. Africa. Elixir + TS/React. 2026-09-24: GH API slug ''remotecom'' works (176 reqs). NEW ''Team Leader, SRE'' tagged Remote-EMEA pipelined (60% IC / 40% lead, K8s/AWS/Postgres). Senior SRE 7761134003 previously skipped_title.'
     enabled: true
 
   # -- Globally-remote / Africa-eligible (added 2026-06-11 from discovery scan) --
@@ -791,7 +791,7 @@ tracked_companies:
     careers_url: https://careers.bitfinex.com
     scan_method: websearch
     scan_query: 'site:careers.bitfinex.com "Backend" OR "Node" OR "engineer"'
-    notes: 'Recruitee. Posts roles titled "(Fully Remote, Worldwide)". Node.js-first trading platform (microservices, MySQL/MongoDB, Redis). Volatile open/close cycle: closed 2026-07-02..20, reopened 2026-07-24 (8 reqs), live 2026-07-31 (10 reqs). 2026-08-07: CLOSED AGAIN — API shows only 12 Product Manager reqs, zero backend; #134 apply window shut (3rd cycle). Re-check every scan. 2026-08-11: still closed (12 PM reqs only). 2026-08-13: still closed (11 PM reqs only, 4th cycle). 2026-08-19: board FULLY EMPTY — API returns 0 offers, even PM reqs gone (5th cycle, deepest closure); Google-indexed worldwide Node siblings are stale. 2026-08-26: still 0 offers (6th cycle). 2026-08-27: still 0 offers (7th cycle).'
+    notes: 'Recruitee. Posts roles titled "(Fully Remote, Worldwide)". Node.js-first trading platform (microservices, MySQL/MongoDB, Redis). Volatile open/close cycle: closed 2026-07-02..20, reopened 2026-07-24 (8 reqs), live 2026-07-31 (10 reqs). 2026-08-07: CLOSED AGAIN — API shows only 12 Product Manager reqs, zero backend; #134 apply window shut (3rd cycle). Re-check every scan. 2026-08-11: still closed (12 PM reqs only). 2026-08-13: still closed (11 PM reqs only, 4th cycle). 2026-08-19: board FULLY EMPTY — API returns 0 offers, even PM reqs gone (5th cycle, deepest closure); Google-indexed worldwide Node siblings are stale. 2026-08-26: still 0 offers (6th cycle). 2026-08-27: still 0 offers (7th cycle). 2026-09-24: board NON-EMPTY again (9 reqs) but ALL ''Transaction Monitoring Analyst (LATAM OR APAC timezone)'' — zero engineering, 8th eng-closed cycle; #134 still shut.'
     enabled: true
 
   - name: Yellow Card
@@ -889,7 +889,7 @@ tracked_companies:
     careers_url: https://zepz.careers.hibob.com/jobs
     scan_method: playwright
     scan_query: '"zepz" OR "worldremit" careers "engineer" OR "backend" remote'
-    notes: 'Cross-border payments (WorldRemit + Sendwave). VERIFIED 2026-08-13: HiBob board (SPA — WebFetch gets shell, use Playwright; zepz.io/careers is a pointer). 45 reqs, Technology dept 8. Geo pattern: every req country-tagged (Remote-UK / Remote-SA / Remote-USA / Hybrid) — eng reqs UK/SA/USA only, NO Uganda site despite historical Kampala presence. Watch for Remote-untagged reqs. 2026-08-19: re-verified via Playwright — 46 reqs, 6 eng, pattern unchanged.'
+    notes: 'Cross-border payments (WorldRemit + Sendwave). VERIFIED 2026-08-13: HiBob board (SPA — WebFetch gets shell, use Playwright; zepz.io/careers is a pointer). 45 reqs, Technology dept 8. Geo pattern: every req country-tagged (Remote-UK / Remote-SA / Remote-USA / Hybrid) — eng reqs UK/SA/USA only, NO Uganda site despite historical Kampala presence. Watch for Remote-untagged reqs. 2026-08-19: re-verified via Playwright — 46 reqs, 6 eng, pattern unchanged. 2026-09-24: Playwright re-check — 28 reqs, 5 eng via search ''engineer'' (Sr Full-Stack SA-hybrid, Sr Backend Java UK, Security UK, FE UK, Director DS US-ET); pattern unchanged, no Uganda seats.'
     enabled: true
 
   - name: Chipper Cash
@@ -911,7 +911,7 @@ tracked_companies:
     api: https://careers.paystack.com/jobs.json
     scan_method: websearch
     scan_query: '"paystack" careers "engineer" OR "backend" remote'
-    notes: 'Stripe-owned African payments (Lagos). Strong eng brand. VERIFIED 2026-08-13: Teamtailor on custom domain careers.paystack.com (paystack.com/careers is a marketing page, 403s to WebFetch — fetch careers.paystack.com directly). 2026-08-26: board EXPANDED 1→7 reqs; geo pattern shifted to multi-country remote-first lists (e.g. Senior Data Engineer: CIV/GH/SA/UAE/NG/KE) — Uganda still NOT listed on any req. 2026-08-27: expanded again 7→10 (new Sr DevOps: Accra/CPT/Dubai/Lagos/Nairobi; QA/Data-Science/IT/Platform-Security) — Uganda still excluded. 2026-09-11: CONTRACTED 10→12 total but Sr DevOps req GONE; eligibility countries now CIV/Ghana/Kenya/Nigeria/South Africa/UAE, Uganda STILL absent; all eng reqs Hybrid or single-country. ATS CONFIRMED TEAMTAILOR (footer: "Applicant tracking system by Teamtailor") — no Greenhouse/Lever/Ashby slug exists, needs Playwright. Watch for Uganda/EAC additions to eligibility lists. 2026-09-21: Teamtailor JSON endpoint WORKS after all — careers.paystack.com/jobs.json (no Playwright needed). It now returns ZERO offers: the board emptied completely since 09-11.'
+    notes: 'Stripe-owned African payments (Lagos). Strong eng brand. VERIFIED 2026-08-13: Teamtailor on custom domain careers.paystack.com (paystack.com/careers is a marketing page, 403s to WebFetch — fetch careers.paystack.com directly). 2026-08-26: board EXPANDED 1→7 reqs; geo pattern shifted to multi-country remote-first lists (e.g. Senior Data Engineer: CIV/GH/SA/UAE/NG/KE) — Uganda still NOT listed on any req. 2026-08-27: expanded again 7→10 (new Sr DevOps: Accra/CPT/Dubai/Lagos/Nairobi; QA/Data-Science/IT/Platform-Security) — Uganda still excluded. 2026-09-11: CONTRACTED 10→12 total but Sr DevOps req GONE; eligibility countries now CIV/Ghana/Kenya/Nigeria/South Africa/UAE, Uganda STILL absent; all eng reqs Hybrid or single-country. ATS CONFIRMED TEAMTAILOR (footer: "Applicant tracking system by Teamtailor") — no Greenhouse/Lever/Ashby slug exists, needs Playwright. Watch for Uganda/EAC additions to eligibility lists. 2026-09-21: Teamtailor JSON endpoint WORKS after all — careers.paystack.com/jobs.json (no Playwright needed). It now returns ZERO offers: the board emptied completely since 09-11. 2026-09-24: jobs.json still 0 reqs.'
     enabled: true
 
   - name: Moniepoint
@@ -988,11 +988,16 @@ tracked_companies:
   - name: Tether
     careers_url: https://careers.tether.io
     api: https://careers.tether.io/api/offers/
-    notes: 'ADDED 2026-09-21 via HN Sept-2026 thread (49522897, post 49713455). Recruitee/Tellent on a custom domain; JSON at careers.tether.io/api/offers/ returns ~174 live reqs. Their own HN post: "All of our roles are fully remote, worldwide." STRUCTURAL QUIRK — they clone one req per city (12 x "Technical Lead - GPU Infrastructure" tagged Poland/Italy/Romania/Barcelona/UK/Bangalore/Armenia/Ireland/Cairo/Pakistan), so the Recruitee location field is NOISE: the TITLE carries the geo truth ("100% Remote - Worldwide"). Stack is heavily Node.js/P2P (they own HOLEPUNCH — the Holepunch Node reqs already evaluated as #83/#95 are mirrored onto this board, so DEDUP ON ROLE, NOT URL). Domain caveat: stablecoin issuer + Bitcoin mining; titles are clean of crypto/blockchain keywords so the negative title filter will not catch them.'
+    notes: 'ADDED 2026-09-21 via HN Sept-2026 thread (49522897, post 49713455). Recruitee/Tellent on a custom domain; JSON at careers.tether.io/api/offers/ returns ~174 live reqs. Their own HN post: "All of our roles are fully remote, worldwide." STRUCTURAL QUIRK — they clone one req per city (12 x "Technical Lead - GPU Infrastructure" tagged Poland/Italy/Romania/Barcelona/UK/Bangalore/Armenia/Ireland/Cairo/Pakistan), so the Recruitee location field is NOISE: the TITLE carries the geo truth ("100% Remote - Worldwide"). Stack is heavily Node.js/P2P (they own HOLEPUNCH — the Holepunch Node reqs already evaluated as #83/#95 are mirrored onto this board, so DEDUP ON ROLE, NOT URL). Domain caveat: stablecoin issuer + Bitcoin mining; titles are clean of crypto/blockchain keywords so the negative title filter will not catch them. 2026-09-24: API 174 reqs. NEW 9x city-clone ''DevOps Engineer (100% remote)'' — one pipelined (dedup on role). Backend Wallets 8 clones = already evaluated. Title-filter misses: 7x ''Senior Software Architect (100% Remote - Worldwide)'', 11x ''Technical Lead - GPU Infrastructure''.'
     enabled: true
 
   - name: Zoftify
     careers_url: https://zoftify.bamboohr.com/careers
     api: https://zoftify.bamboohr.com/careers/list
     notes: 'ADDED 2026-09-21 via RemoteRocketship, resolved to canonical BambooHR. Travel-software product agency (clients in USA/UK/Germany/Switzerland/Italy/France), fully remote since 2019, ~11-50 staff. JD text itself — not an aggregator tag — says "100% remote work from anywhere in the world", the cleanest geo signal of the run. 16 open reqs; on-stack: #41 Full Stack (React + Node.js) and #30 Backend Developer (Node) BOTH PIPELINED, plus #31 Backend Team Lead (missed by title_filter). Expect agency comp, not product-company comp. Detail endpoint: zoftify.bamboohr.com/careers/{id}/detail.'
+    enabled: true
+
+  - name: Sarwa
+    careers_url: https://careers.sarwa.co/jobs
+    notes: 'ADDED 2026-09-24 via Jobgether -> canonical Teamtailor (careers.sarwa.co). Abu Dhabi robo-advisor / digital wealth fintech (~50 staff, founded 2017). Board says "Fully Remote" and JD says "remote-first — where you choose to work is up to you" (Abu Dhabi office optional) — clean geo signal. STACK CAVEAT: Python/Django + Go primary, PostgreSQL, AWS/K8s, microservices/DDD — Node not named. Backend Engineer req pipelined 2026-09-24. Teamtailor jobs.json NOT exposed on this domain (404) — scrape /jobs page.'
     enabled: true
