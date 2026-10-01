@@ -1,0 +1,1 @@
+233	2026-10-01	Trigger.dev	Backend Engineer (Security)	Evaluated	3.1/5	✅	[233](reports/233-triggerdev-backend-security-2026-10-01.md)	CONSIDER (weak) — strong Node/TS backend match but zero security evidence (pen test/CTF/sandboxing is a stated requirement); geo UNCERTAIN: sibling reqs require CET–ET, Kampala UTC+3 outside band — ask in first screen or SKIP
