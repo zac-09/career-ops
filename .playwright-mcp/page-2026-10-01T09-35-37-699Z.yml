@@ -1,0 +1,222 @@
+- generic [ref=f1e1]:
+  - img "Banner" [ref=f1e3]
+  - main [ref=f1e4]:
+    - generic [ref=f1e5]:
+      - img "Speechify Logo" [ref=f1e7]
+      - generic [ref=f1e8]:
+        - link "Back to jobs" [ref=f1e9] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/speechify
+        - generic [ref=f1e13]:
+          - generic [ref=f1e14]:
+            - heading "Software Engineer, Platform" [level=1] [ref=f1e15]
+            - generic [ref=f1e16]: Remote
+          - button "Apply" [ref=f1e20] [cursor=pointer]
+        - generic [ref=f1e22]:
+          - paragraph [ref=f1e23]: The mission of Speechify is to make sure that reading is never a barrier to learning.
+          - paragraph [ref=f1e24]: Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.
+          - paragraph [ref=f1e25]: Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office.
+          - paragraph [ref=f1e26]:
+            - strong [ref=f1e27]: Overview
+          - paragraph [ref=f1e28]: "The Platform team owns the backend behind everything Speechify ships: the public TTS API, payments, subscriptions, auth, consumption tracking, and analytics — serving over 50 million users across iOS, Android, Mac, Chrome, and web."
+          - paragraph [ref=f1e29]: These are systems where correctness compounds. Subscription state has to stay consistent across five clients and two app-store billing systems that each go quiet at the worst moment. Consumption metering has to be exact enough to bill on and cheap enough to run at our request volume. The public TTS API has external customers with their own products depending on our latency and uptime. None of this degrades gracefully — it is either right, or someone gets charged twice.
+          - paragraph [ref=f1e30]: "The job is to make your own job smaller. Every system you own here should need less of you a year from now than it did the day you took it, and the reward for that is a larger one. That is the entire growth path on this team — there is no separate ladder, and no ceiling except the one you stop raising. We are a flat organization: people become leaders here by taking scope and being right about it, fast."
+          - paragraph [ref=f1e31]:
+            - strong [ref=f1e32]: What Yo
+            - strong [ref=f1e33]: u’
+            - strong [ref=f1e34]: ll Do
+          - list [ref=f1e35]:
+            - listitem [ref=f1e36]: Design, build, and own the APIs behind payments, subscriptions, auth, consumption tracking, and our public TTS API
+            - listitem [ref=f1e37]: Take on services you didn't write and make them faster, cheaper, and harder to break
+            - listitem [ref=f1e38]: Establish that a change is correct before it ships, and leave behind the checks that keep it correct after you've moved on
+            - listitem [ref=f1e39]: Automate the parts of your role that shouldn't need a person, then go take on what that freed you up for
+            - listitem [ref=f1e40]: Turn work you've done once into work the whole team can repeat
+            - listitem [ref=f1e41]: Design B2B and enterprise integrations for customers building on top of us
+            - listitem [ref=f1e42]: Work with product, mobile, and web to keep backend architecture ahead of where the product is going
+          - paragraph [ref=f1e43]:
+            - strong [ref=f1e44]: An Ideal Candidate Should Have
+          - list [ref=f1e45]:
+            - listitem [ref=f1e46]: Proven backend experience in TS/Node (required)
+            - listitem [ref=f1e47]: Direct experience with GCP; working knowledge of AWS, Azure, or another cloud
+            - listitem [ref=f1e48]: A habit of giving away work you used to own, and something to show for the room it created
+            - listitem [ref=f1e49]: A daily working setup with AI agents you can describe in detail — what runs unattended, what you review, and where you've decided it doesn't get to act alone
+            - listitem [ref=f1e50]: The instinct to check a result against the system itself — logs, database state, the actual request — rather than against a summary of it
+            - listitem [ref=f1e51]: Judgment about what not to build, and the ability to say plainly why you dropped it
+            - listitem [ref=f1e52]: A preference for being corrected over being right
+            - listitem [ref=f1e53]: "Preferred: Docker and containerized deployments"
+            - listitem [ref=f1e54]: "Preferred: deploying high-availability applications on Kubernetes"
+          - paragraph [ref=f1e55]:
+            - strong [ref=f1e56]: Interview process
+          - paragraph [ref=f1e57]: Several technical interviews plus a take-home assessment on a real codebase. We aim to finish within a week.
+          - paragraph [ref=f1e58]: "The assessment runs in two stages: you'll submit, get real feedback from an engineer on this team, and have time to act on it. Use the tools you use every day. You'll be asked to walk through your reasoning, so bring it."
+          - paragraph [ref=f1e59]:
+            - strong [ref=f1e60]: What We Offer
+          - list [ref=f1e61]:
+            - listitem [ref=f1e62]: A dynamic environment where your contributions shape the company and its products
+            - listitem [ref=f1e63]: A team that values innovation, intuition, and drive
+            - listitem [ref=f1e64]: Autonomy, fostering focus and creativity
+            - listitem [ref=f1e65]: The opportunity to have a significant impact in a revolutionary industry
+            - listitem [ref=f1e66]: Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
+            - listitem [ref=f1e67]: The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
+            - listitem [ref=f1e68]: An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
+          - paragraph [ref=f1e69]:
+            - strong [ref=f1e70]: The United States Based
+            - text: "Salary range for this role is: 140,000-200,000 USD/Year + Bonus + Stock depending on experience"
+          - paragraph [ref=f1e71]:
+            - strong [ref=f1e72]: Think you’re a good fit for this job?
+          - paragraph [ref=f1e73]: Tell us more about yourself and why you're interested in the role when you apply. And don’t forget to include links to your portfolio and LinkedIn.
+          - paragraph [ref=f1e74]:
+            - strong [ref=f1e75]: Not looking but know someone who would make a great fit?
+          - paragraph [ref=f1e76]: Refer them!
+          - paragraph [ref=f1e77]:
+            - strong [ref=f1e78]: Speechify is committed to a diverse and inclusive workplace.
+          - paragraph [ref=f1e79]: Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+        - generic [ref=f1e83]:
+          - paragraph [ref=f1e84]: Create a Job Alert
+          - paragraph [ref=f1e85]: Interested in building your career at Speechify? Get future opportunities sent straight to your email.
+          - link "Create alert" [ref=f1e300] [cursor=pointer]:
+            - /url: https://my.greenhouse.io/users/sign_in?job_board=speechify&source=job_alert_post
+      - separator [ref=f1e87]
+      - generic [ref=f1e88]:
+        - generic [ref=f1e89]:
+          - generic [ref=f1e90]:
+            - heading "Apply for this job" [level=2] [ref=f1e92]
+            - generic [ref=f1e93]:
+              - paragraph [ref=f1e95]: "*"
+              - paragraph [ref=f1e96]: indicates a required field
+          - button "Autofill my application" [ref=f1e99] [cursor=pointer]
+        - generic [ref=f1e100]:
+          - generic [ref=f1e101]:
+            - generic [ref=f1e104]:
+              - generic [ref=f1e105]: First Name*
+              - textbox "First Name" [ref=f1e106]
+            - generic [ref=f1e109]:
+              - generic [ref=f1e110]: Last Name*
+              - textbox "Last Name" [ref=f1e111]
+            - generic [ref=f1e114]:
+              - generic [ref=f1e115]: Email*
+              - textbox "Email" [ref=f1e116]
+            - group "Phone" [ref=f1e118]:
+              - generic [ref=f1e122]:
+                - generic [ref=f1e123]: Country
+                - generic [ref=f1e124]:
+                  - log [ref=f1e126]
+                  - generic [ref=f1e128]:
+                    - combobox "Country" [ref=f1e131]
+                    - button "Toggle flyout" [ref=f1e133] [cursor=pointer]
+              - generic [ref=f1e138]:
+                - generic [ref=f1e139]: Phone
+                - textbox "Phone" [ref=f1e140]
+            - group "Resume/CV*" [ref=f1e142]:
+              - generic [ref=f1e145]:
+                - generic [ref=f1e147]:
+                  - button "Attach" [ref=f1e148] [cursor=pointer]
+                  - generic [ref=f1e149]: Attach
+                  - button "Attach" [ref=f1e150]
+                - button "Dropbox" [ref=f1e152] [cursor=pointer]
+                - button "Google Drive" [ref=f1e154] [cursor=pointer]
+                - generic [ref=f1e156]:
+                  - button "Enter manually" [ref=f1e157] [cursor=pointer]
+                  - generic [ref=f1e158]: Enter manually
+                - paragraph [ref=f1e159]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=f1e161]:
+              - generic [ref=f1e164]:
+                - generic [ref=f1e166]:
+                  - button "Attach" [ref=f1e167] [cursor=pointer]
+                  - generic [ref=f1e168]: Attach
+                  - button "Attach" [ref=f1e169]
+                - button "Dropbox" [ref=f1e171] [cursor=pointer]
+                - button "Google Drive" [ref=f1e173] [cursor=pointer]
+                - generic [ref=f1e175]:
+                  - button "Enter manually" [ref=f1e176] [cursor=pointer]
+                  - generic [ref=f1e177]: Enter manually
+                - paragraph [ref=f1e178]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=f1e179]:
+            - separator [ref=f1e180]
+            - generic [ref=f1e183]:
+              - generic [ref=f1e184]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=f1e185]
+            - generic [ref=f1e188]:
+              - generic [ref=f1e189]: How did you hear about this opportunity?*
+              - textbox "How did you hear about this opportunity?" [ref=f1e190]
+            - generic [ref=f1e193]:
+              - generic [ref=f1e194]: Why do you want to work at Speechify?*
+              - textbox "Why do you want to work at Speechify?" [ref=f1e195]
+            - generic [ref=f1e198]:
+              - generic [ref=f1e199]: What is one of the hard technical problems you have worked on? *
+              - textbox "What is one of the hard technical problems you have worked on?" [ref=f1e200]
+            - generic [ref=f1e203]:
+              - generic [ref=f1e204]: Where are you located?*
+              - generic [ref=f1e205]:
+                - log [ref=f1e207]: United States/Canada, 1 of 12.12 results available.Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.
+                - generic [ref=f1e209]:
+                  - generic [ref=f1e210]:
+                    - generic [ref=f1e211]: Select...
+                    - combobox "Where are you located?" [expanded] [active] [ref=f1e213]
+                  - button "Toggle flyout" [ref=f1e215] [cursor=pointer]
+                - listbox [ref=f1e303]:
+                  - option "United States/Canada" [ref=f1e304]
+                  - option "Latin America" [ref=f1e305]
+                  - option "Western Europe" [ref=f1e306]
+                  - option "Eastern Europe" [ref=f1e307]
+                  - option "India" [ref=f1e308]
+                  - option "Southeast Asia" [ref=f1e309]
+                  - option "East Asia" [ref=f1e310]
+                  - option "Asia - Other" [ref=f1e311]
+                  - option "Africa" [ref=f1e312]
+                  - option "Middle East" [ref=f1e313]
+                  - option "Australia/New Zealand" [ref=f1e314]
+                  - option "Other" [ref=f1e315]
+                - textbox [aria-hidden]
+          - generic [ref=f1e218]:
+            - separator [ref=f1e219]
+            - generic [ref=f1e220]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=f1e221]
+              - paragraph [ref=f1e222]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=f1e223]: As set forth in Speechify’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=f1e226]:
+              - generic [ref=f1e227]: Gender
+              - generic [ref=f1e228]:
+                - log [ref=f1e230]
+                - generic [ref=f1e232]:
+                  - generic [ref=f1e233]:
+                    - generic [ref=f1e234]: Select...
+                    - combobox "Gender" [ref=f1e236]
+                  - button "Toggle flyout" [ref=f1e238] [cursor=pointer]
+            - generic [ref=f1e241]:
+              - generic [ref=f1e243]:
+                - generic [ref=f1e244]: Are you Hispanic/Latino?
+                - generic [ref=f1e245]:
+                  - log [ref=f1e247]
+                  - generic [ref=f1e249]:
+                    - generic [ref=f1e250]:
+                      - generic [ref=f1e251]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=f1e253]
+                    - button "Toggle flyout" [ref=f1e255] [cursor=pointer]
+              - link "Race & Ethnicity Definitions" [ref=f1e258] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=f1e259]:
+              - paragraph [ref=f1e260]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=f1e261]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=f1e262]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=f1e263]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=f1e264]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=f1e267]:
+              - generic [ref=f1e268]: Veteran Status
+              - generic [ref=f1e269]:
+                - log [ref=f1e271]
+                - generic [ref=f1e273]:
+                  - generic [ref=f1e274]:
+                    - generic [ref=f1e275]: Select...
+                    - combobox "Veteran Status" [ref=f1e277]
+                  - button "Toggle flyout" [ref=f1e279] [cursor=pointer]
+          - button "Submit application" [ref=f1e283] [cursor=pointer]
+  - contentinfo [ref=f1e284]:
+    - generic [ref=f1e285]:
+      - paragraph [ref=f1e286]: Powered by
+      - link [ref=f1e287] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=f1e288]
+  - iframe [ref=f1e318]:
+    - generic [ref=f3e6]:
+      - text: protected by
+      - strong [ref=f3e7]: reCAPTCHA
