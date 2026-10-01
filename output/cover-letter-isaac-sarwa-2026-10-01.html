@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Isaac Mubiru — Cover Letter — Sarwa</title>
+<style>
+  @font-face { font-family:'Space Grotesk'; src:url('../fonts/space-grotesk-latin.woff2') format('woff2'); font-weight:300 700; font-display:swap; }
+  @font-face { font-family:'DM Sans'; src:url('../fonts/dm-sans-latin.woff2') format('woff2'); font-weight:100 1000; font-display:swap; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html { -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  body { font-family:'DM Sans',sans-serif; font-size:11px; line-height:1.6; color:#1a1a2e; background:#fff; }
+  .page { width:100%; max-width:210mm; margin:0 auto; padding:0; }
+  .header { margin-bottom:18px; }
+  .header h1 { font-family:'Space Grotesk',sans-serif; font-size:24px; font-weight:700; color:#1a1a2e; letter-spacing:-0.02em; margin-bottom:4px; }
+  .header-gradient { height:2px; background:linear-gradient(to right,hsl(187,74%,32%),hsl(270,70%,45%)); border-radius:1px; margin-bottom:8px; }
+  .contact-row { display:flex; flex-wrap:wrap; gap:6px 16px; font-size:10px; color:#555; }
+  .contact-row a { color:#555; text-decoration:none; white-space:nowrap; }
+  .contact-row .separator { color:#ccc; }
+  .meta { font-size:10.5px; color:#777; margin-bottom:14px; }
+  .salutation { margin-bottom:10px; }
+  p.body { font-size:11px; line-height:1.6; color:#333; margin-bottom:10px; }
+  p.body strong { font-weight:600; color:#1a1a2e; }
+  .signoff { margin-top:14px; }
+  .signoff .name { font-family:'Space Grotesk',sans-serif; font-weight:600; color:hsl(270,70%,45%); }
+  a.inline { color:hsl(187,74%,32%); text-decoration:none; white-space:nowrap; }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="header">
+    <h1>Isaac Mubiru</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>isaacmubiru99@gmail.com</span><span class="separator">|</span>
+      <a href="https://linkedin.com/in/isaac-mubiru-3bb728174">linkedin.com/in/isaac-mubiru</a><span class="separator">|</span>
+      <a href="https://github.com/zac-09">github.com/zac-09</a><span class="separator">|</span>
+      <span>Kampala, Uganda (UTC+3)</span>
+    </div>
+  </div>
+
+  <div class="meta">Application — Backend Engineer (Technology · Fully Remote) · Sarwa Digital Wealth</div>
+
+  <div class="salutation">Dear Jad and the Sarwa technology team,</div>
+
+  <p class="body">I will start with the thing your first requirement line asks about. My production depth is <strong>Node.js</strong>: six years of backend services, including the migration of <strong>20+ live applications</strong> from Parse/MongoDB to Firebase/GCP at MTailor with zero downtime, reporting to the CTO. <strong>Python</strong> is my second language, used for migration tooling and SDK documentation on that same programme, and I write <strong>Go</strong> at an intermediate level. I have not shipped Django in production and I will not claim otherwise. What I would bring from day one is the part of your posting that takes years rather than weeks to learn.</p>
+
+  <p class="body">Your role is built around <strong>microservices</strong>, <strong>event sourcing</strong>, <strong>data flows</strong> and <strong>third-party integrations</strong> on a platform that moves people&rsquo;s money. I architected an event-driven microservices backend on <strong>Apache Kafka</strong>, Docker and Kubernetes for FIDA Uganda&rsquo;s case-management system, and at MTailor I built a real-time two-way sync between MongoDB and Firestore on Google Pub/Sub that ran under parallel production traffic for months. That work is idempotency, redelivery, ordering and reconciliation, which is the same discipline that keeps a funding or trading ledger consistent. At Dr Wealth I kept prices current for retail investors by running scheduled jobs over <strong>2M+ Firestore records</strong> against the <strong>Morningstar</strong> market-data APIs, so I know what an external financial feed does to your freshness ceiling and your rate-limit floor.</p>
+
+  <p class="body">I have owned projects from infancy to production in small, remote, cross-functional teams across the US, Singapore and Uganda, and I am comfortable being the person who turns a product requirement into scope, architecture and a shipped service. Kampala is one hour behind Abu Dhabi, so a remote-first team with an optional office is a natural fit. Before a technical conversation I will share a small Dockerised Go or Django service with PostgreSQL and tests on <a href="https://github.com/zac-09">github.com/zac-09</a>, so you can judge my ramp speed on your stack directly rather than on my word.</p>
+
+  <p class="body">Sarwa is profitable, regulated and still led by its founders, and the problem you are solving, affordable investing for people the industry ignored, is the kind of work I want to put the next several years into. I would welcome a conversation.</p>
+
+  <div class="signoff">
+    <p class="body">Best regards,</p>
+    <span class="name">Isaac Mubiru</span>
+  </div>
+</div>
+</body>
+</html>
