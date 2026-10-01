@@ -206,3 +206,41 @@ An unlevelled title at a ~50-person company may carry a mid band. **Accept if co
 ## Keywords extracted
 
 Backend Engineer, Python, Go, GoLang, Django, PostgreSQL, AWS, Kubernetes, microservices, micro-services, domain-driven architecture, clean architecture, event sourcing, APIs, data flows, data pipelines, 3rd party services, third-party integrations, application/domain logic, databases, caching, security practices, scalable, maintainable, sizable user base, large volume of data, data consistency, error handling, resilient systems, automated unit/integration tests, tools and processes, stakeholders, product/tech/marketing/operations/sales, ownership, infancy to production, trade-offs, simplicity, readability, performance, speed-of-implementation, Investing, Trading, Account Management, Funding, tens of thousands of clients, remote-first, fintech, wealth management, robo-advisor, Sarwa
+
+---
+
+## G) Draft Application Answers (added 2026-10-01 via `apply`)
+
+Form read live via Playwright 2026-10-01 at careers.sarwa.co/jobs/6606143-backend-engineer/applications/new (Teamtailor). Fields: "Which country do you reside in?*" (text), "Please provide 3-5 references" (numeric field), First/Last name, Email*, Phone (country selector defaults to UAE +971), Upload CV, Additional files, Cover letter (textarea), two consent checkboxes. No video question was present at read time, though the page carries Teamtailor's generic "wait for video answers to finish processing" notice.
+
+### Which country do you reside in?
+> Uganda
+
+### Please provide 3-5 references
+> The field only accepts a number. Enter **3** and have three references ready (name, role, relationship, contact) for the screen. Suggested: the MTailor CTO, a Dr Wealth engineering lead, and a FIDA Uganda or LASPNET stakeholder from CodeBits. Confirm each person's consent first.
+
+### Cover letter (paste into textarea; PDF version under "Additional files")
+Text: `output/cover-letter-isaac-sarwa-2026-10-01.txt` · PDF (1 page, CV design): `output/cover-letter-isaac-sarwa-2026-10-01.pdf`
+
+> Dear Jad and the Sarwa technology team,
+>
+> I will start with the thing your first requirement line asks about. My production depth is Node.js: six years of backend services, including the migration of 20+ live applications from Parse/MongoDB to Firebase/GCP at MTailor with zero downtime, reporting to the CTO. Python is my second language, used for migration tooling and SDK documentation on that same programme, and I write Go at an intermediate level. I have not shipped Django in production and I will not claim otherwise. What I would bring from day one is the part of your posting that takes years rather than weeks to learn.
+>
+> Your role is built around microservices, event sourcing, data flows and third-party integrations on a platform that moves people's money. I architected an event-driven microservices backend on Apache Kafka, Docker and Kubernetes for FIDA Uganda's case-management system, and at MTailor I built a real-time two-way sync between MongoDB and Firestore on Google Pub/Sub that ran under parallel production traffic for months. That work is idempotency, redelivery, ordering and reconciliation, which is the same discipline that keeps a funding or trading ledger consistent. At Dr Wealth I kept prices current for retail investors by running scheduled jobs over 2M+ Firestore records against the Morningstar market-data APIs, so I know what an external financial feed does to your freshness ceiling and your rate-limit floor.
+>
+> I have owned projects from infancy to production in small, remote, cross-functional teams across the US, Singapore and Uganda, and I am comfortable being the person who turns a product requirement into scope, architecture and a shipped service. Kampala is one hour behind Abu Dhabi, so a remote-first team with an optional office is a natural fit. Before a technical conversation I will share a small Dockerised Go or Django service with PostgreSQL and tests on github.com/zac-09, so you can judge my ramp speed on your stack directly rather than on my word.
+>
+> Sarwa is profitable, regulated and still led by its founders, and the problem you are solving, affordable investing for people the industry ignored, is the kind of work I want to put the next several years into. I would welcome a conversation.
+>
+> Best regards,
+> Isaac Mubiru
+
+### Other fields
+- Upload CV: `output/cv-isaac-sarwa-backend-2026-10-01.pdf`
+- Additional files: the cover letter PDF above
+- Phone: change the country selector from UAE (+971) to Uganda (+256)
+- Consent 1 (privacy policy): required. Consent 2 (future contact): your choice.
+
+### Before you submit
+- The cover letter promises a Go or Django + PostgreSQL demo repo before the technical conversation. Either build it this week or delete that sentence; do not leave a promise you will not keep.
+- Comp is unstated; Abu Dhabi backend median is roughly $91K. Ask at the screen how non-UAE hires are engaged (employee via EoR vs contractor) and whether the UAE band applies.

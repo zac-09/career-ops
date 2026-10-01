@@ -179,3 +179,31 @@ The title is already unlevelled, so a downlevel shows up as **pay band**, not ti
 ## Keywords extracted
 
 TypeScript, Node.js, GCP, Google Cloud, AWS, backend APIs, payments, subscriptions, auth, consumption tracking, metering, public API, TTS API, correctness, consistency, idempotency, high availability, Docker, Kubernetes, containerized deployments, B2B integrations, enterprise integrations, automation, AI agents, observability (logs, database state), distributed systems, asynchronous culture, service ownership, cost reduction, backend architecture
+
+---
+
+## G) Draft Application Answers (added 2026-10-01 via `apply`)
+
+Form read live via Playwright 2026-10-01 at the Greenhouse posting. Fields: First/Last Name, Email, Phone, Resume attach, LinkedIn Profile, "How did you hear about this opportunity?*", "Why do you want to work at Speechify?*", "What is one of the hard technical problems you have worked on?*", "Where are you located?*" (dropdown; options include **Africa**), optional US EEO fields (Gender / Hispanic-Latino / Veteran). No cover-letter field.
+
+### How did you hear about this opportunity?
+> Found it on your Greenhouse board while searching specifically for globally remote TypeScript/Node platform roles. The fact that the same role is posted for Lagos, Cape Town and Johannesburg told me you hire where the engineers are.
+
+### Why do you want to work at Speechify?
+> Your posting describes the backend I want to own: APIs where "it is either right, or someone gets charged twice." My last three years were a version of that problem. At MTailor I led the zero-downtime migration of 20+ production applications from Parse/MongoDB to Firebase/GCP, which meant running a real-time two-way sync between MongoDB and Firestore on Node.js and Pub/Sub under live traffic for months. Idempotency, redelivery, ordering and reconciliation were the whole job. I have never owned billing or subscription state, and I would rather say that than imply it. What I have done is keep two live datastores consistent while 20 apps depended on them, and I inherited every one of those services from someone else and made them cheaper (about $5,000 a month) and harder to break. TS/Node and GCP are my deepest stack, and a 100% distributed, asynchronous team is how I have worked since 2020.
+
+### What is one of the hard technical problems you have worked on?
+> Migrating 20+ production apps off Parse/MongoDB onto Firestore without a maintenance window. A big-bang cutover was not acceptable, so I built a bidirectional sync: every write to MongoDB was published to Google Pub/Sub and applied to Firestore, and every Firestore write flowed back, while both stacks served real users. The hard parts were loop prevention (a change applied from the other side must not be re-published), at-least-once delivery (every apply had to be idempotent, keyed on the source record and version), out-of-order arrival, and proving correctness: I reconciled record counts and sampled documents between the two stores continuously and only moved an app's reads once its collections had been clean for a sustained period. The migration finished with zero downtime, and the same pipeline let us retire AWS entirely, saving about $5,000 a month. What I took from it is that the verification harness is the product; the sync code was the easy half.
+
+### Where are you located?
+> **Africa**
+
+### Other fields
+- Resume: `output/cv-isaac-speechify-platform-2026-10-01.pdf`
+- LinkedIn: https://linkedin.com/in/isaac-mubiru-3bb728174
+- Phone: country Uganda (+256), per profile.yml
+- EEO fields (Gender / Hispanic-Latino / Veteran): US-specific and optional. "Decline to self-identify" is a normal choice for a non-US applicant.
+
+### Before you submit
+- Expect an automated email with a recorded 90-minute take-home (webcam, mic, screen) before any human call. Block a fresh slot; do a 2–3 evening TS refresher first (strict mode, generics, zod-style validation).
+- At the first human conversation, anchor comp at $80K–120K and ask how the team tracks work (outcomes or hours). Non-US clones of this req list $30K–120K.
