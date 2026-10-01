@@ -584,14 +584,14 @@ tracked_companies:
     careers_url: https://www.activecampaign.com/careers/job-listings
     scan_method: websearch
     scan_query: '"activecampaign" careers "backend" OR "engineer" OR "software"'
-    notes: 'Remote. Email delivery infra. Node.js-friendly stack. 2026-08-26: RESOLVED — Ashby board retired; jobs now self-hosted at activecampaign.com/careers/{slug}. 5 eng reqs: 4 Krakow-anchored + 1 Senior AI Engineer (US) — zero worldwide seats. Watch for untagged reqs.'
+    notes: 'Remote. Email delivery infra. Node.js-friendly stack. 2026-08-26: RESOLVED — Ashby board retired; jobs now self-hosted at activecampaign.com/careers/{slug}. 5 eng reqs: 4 Krakow-anchored + 1 Senior AI Engineer (US) — zero worldwide seats. Watch for untagged reqs. 2026-10-01: 4 new eng reqs (Data SWE, Sr Data SWE, SWE Agent Development, Staff SWE) — ALL hybrid Krakow (Poland office build-out); skipped_geo.'
     enabled: true
 
   - name: Resend
     careers_url: https://resend.com/careers
     scan_method: websearch
     scan_query: '"resend.com" careers OR jobs "engineer" OR "backend"'
-    notes: 'Remote. Developer email platform. TypeScript/Node.js native. 2026-08-11: 12 live reqs incl. Backend Engineer (MTA) Core Sending — but ALL region-tagged Americas or Europe, no worldwide seat; watch for untagged reqs.'
+    notes: 'Remote. Developer email platform. TypeScript/Node.js native. 2026-08-11: 12 live reqs incl. Backend Engineer (MTA) Core Sending — but ALL region-tagged Americas or Europe, no worldwide seat; watch for untagged reqs. 2026-10-01: 4 Backend Engineer reqs now split by region (Americas / Europe / MTA-Europe / MTA-Americas) — all region-locked, skipped_geo. Watch for an untagged req.'
     enabled: true
 
   # -- EMEA-friendly / remote startups --
@@ -704,7 +704,7 @@ tracked_companies:
     careers_url: https://career.proxify.io/
     scan_method: websearch
     scan_query: 'site:career.proxify.io "Node" OR "Backend" OR "Full Stack" senior'
-    notes: 'Teamtailor. Network band "+4GMT to -10GMT" — UTC+3 inside it. Heavy Node/Nest/React demand. NOTE: marketplace/client-placement model, not direct W2. 2026-09-24: career.proxify.io/jobs.json returns 404 (Teamtailor JSON not exposed on this custom domain) — page scrape only; not inspected this run.'
+    notes: 'Teamtailor. Network band "+4GMT to -10GMT" — UTC+3 inside it. Heavy Node/Nest/React demand. NOTE: marketplace/client-placement model, not direct W2. 2026-09-24: career.proxify.io/jobs.json returns 404 (Teamtailor JSON not exposed on this custom domain) — page scrape only; not inspected this run. 2026-10-01: Playwright — career.proxify.io/jobs shows 3 reqs (Angular FE, RoR task reviewer, Java/Spring fullstack) — zero Node.'
     enabled: true
 
   - name: Andela
@@ -833,7 +833,7 @@ tracked_companies:
     api: https://api.ashbyhq.com/posting-api/job-board/g2i
     scan_method: websearch
     scan_query: 'site:himalayas.app/companies/g2i OR "g2i" "engineer" Node.js OR React'
-    notes: 'Hiring platform for React/Node devs — placement model (like Proxify), not direct W2. "Open to candidates from all countries." Staff-level Node/React roles up to $416K. Verified 2026-06-11. 2026-09-21: CANONICAL BOARD FOUND — G2i runs its own Ashby board (api.ashbyhq.com/posting-api/job-board/g2i, 10 reqs); stop scanning via Himalayas. Two reqs tagged plain "Remote" with "Remote-first, global team" JD language (Senior Engineer = Full-Stack React 19 + Node.js + tRPC + Docker, $50-150/hr contract; Staff Engineer = same stack + team leadership) — BOTH PIPELINED. Other 8 reqs are US/Europe-tagged or Python/Go/Rust.'
+    notes: 'Hiring platform for React/Node devs — placement model (like Proxify), not direct W2. "Open to candidates from all countries." Staff-level Node/React roles up to $416K. Verified 2026-06-11. 2026-09-21: CANONICAL BOARD FOUND — G2i runs its own Ashby board (api.ashbyhq.com/posting-api/job-board/g2i, 10 reqs); stop scanning via Himalayas. Two reqs tagged plain "Remote" with "Remote-first, global team" JD language (Senior Engineer = Full-Stack React 19 + Node.js + tRPC + Docker, $50-150/hr contract; Staff Engineer = same stack + team leadership) — BOTH PIPELINED. Other 8 reqs are US/Europe-tagged or Python/Go/Rust. 2026-10-01: 14 new reqs — 3 identical ''Senior Software Engineer, AI Training'' (worldwide, $100-200/hr, 10-20h/wk, agent-output evaluation; one pipelined a9da315f, two skipped_dup) + 11 country-tagged clones (US/CA/UK/IE/AU/NZ/BR/AR/LATAM — all skipped_geo) + DevOps Engineer (React Native/Expo CI/CD, worldwide, ≤$46/hr — pipelined 81872f0a).'
     enabled: true
 
   - name: Chronograph
@@ -856,7 +856,7 @@ tracked_companies:
     careers_url: https://toggl.com/jobs/
     scan_method: websearch
     scan_query: 'site:toggl.com/jobs "Backend" OR "engineer" OR "platform"'
-    notes: '"Work from anywhere between UTC-4 and UTC+8" — Uganda qualifies. Go-primary backend (stack partial fit), PostgreSQL, GCP. ~€80k senior. 40+ countries. Ashby board (slug "toggl"): api.ashbyhq.com/posting-api/job-board/toggl. 2026-08-07: only 1 open req (Events & Field Marketing Manager) — zero engineering. 2026-08-11: posting API now 404 (board page still 200) — API likely disabled, scrape page next scan. 2026-08-13: board PAGE scraped via Playwright (works) — posting API confirmed dead; 2 open reqs (Senior PM Europe, Events & Field Marketing Mgr), zero engineering. 2026-08-26: page embeds jobs.ashbyhq.com/toggl?embed=js as an IFRAME — read the iframe content via Playwright frames; same 2 reqs, zero eng.'
+    notes: '"Work from anywhere between UTC-4 and UTC+8" — Uganda qualifies. Go-primary backend (stack partial fit), PostgreSQL, GCP. ~€80k senior. 40+ countries. Ashby board (slug "toggl"): api.ashbyhq.com/posting-api/job-board/toggl. 2026-08-07: only 1 open req (Events & Field Marketing Manager) — zero engineering. 2026-08-11: posting API now 404 (board page still 200) — API likely disabled, scrape page next scan. 2026-08-13: board PAGE scraped via Playwright (works) — posting API confirmed dead; 2 open reqs (Senior PM Europe, Events & Field Marketing Mgr), zero engineering. 2026-08-26: page embeds jobs.ashbyhq.com/toggl?embed=js as an IFRAME — read the iframe content via Playwright frames; same 2 reqs, zero eng. 2026-10-01: Playwright — 1 req (Senior Full Stack Engineer, Ashby a4f3e1f5, Serbia/Croatia/France/Poland/Portugal/Spain — already in history 09-03). Static fetch still blind (iframe).'
     enabled: true
 
   - name: Wave Mobile Money
@@ -870,7 +870,7 @@ tracked_companies:
     careers_url: https://jobs.ashbyhq.com/M-KOPA
     scan_method: websearch
     scan_query: 'site:jobs.lever.co/m-kopa OR site:jobs.ashbyhq.com/M-KOPA "engineer" OR "backend"'
-    notes: 'East-African fintech (operates in Uganda). "Fully remote within UTC-1 to UTC+3." C#/.NET primary (stack mismatch) — track for platform/infra roles only. Postings split across Lever and Ashby. 2026-07-02: Lever API 404 — board likely fully moved to Ashby (jobs.ashbyhq.com/M-KOPA); update careers_url next scan. 2026-07-20: Ashby board has zero engineering roles (telesales/sales only). 2026-07-31: NEW Software Engineering Team Lead req (Remote — Nairobi/Kampala/Lagos/Accra/CPT/JHB) added to pipeline; UK/EU sibling skipped.'
+    notes: 'East-African fintech (operates in Uganda). "Fully remote within UTC-1 to UTC+3." C#/.NET primary (stack mismatch) — track for platform/infra roles only. Postings split across Lever and Ashby. 2026-07-02: Lever API 404 — board likely fully moved to Ashby (jobs.ashbyhq.com/M-KOPA); update careers_url next scan. 2026-07-20: Ashby board has zero engineering roles (telesales/sales only). 2026-07-31: NEW Software Engineering Team Lead req (Remote — Nairobi/Kampala/Lagos/Accra/CPT/JHB) added to pipeline; UK/EU sibling skipped. 2026-10-01: NEW Senior Backend Engineer - Asset Sales (Ashby 0c0fdef0) — Remote, Nairobi/Kampala/Lagos/Accra/CPT/JHB, GMT core hours; C#/.NET + Azure Service Bus + K8s (stack warning) — pipelined for evaluation; London sibling (5fc27a56) skipped_geo.'
     enabled: true
 
   - name: Latitude.sh
@@ -889,7 +889,7 @@ tracked_companies:
     careers_url: https://zepz.careers.hibob.com/jobs
     scan_method: playwright
     scan_query: '"zepz" OR "worldremit" careers "engineer" OR "backend" remote'
-    notes: 'Cross-border payments (WorldRemit + Sendwave). VERIFIED 2026-08-13: HiBob board (SPA — WebFetch gets shell, use Playwright; zepz.io/careers is a pointer). 45 reqs, Technology dept 8. Geo pattern: every req country-tagged (Remote-UK / Remote-SA / Remote-USA / Hybrid) — eng reqs UK/SA/USA only, NO Uganda site despite historical Kampala presence. Watch for Remote-untagged reqs. 2026-08-19: re-verified via Playwright — 46 reqs, 6 eng, pattern unchanged. 2026-09-24: Playwright re-check — 28 reqs, 5 eng via search ''engineer'' (Sr Full-Stack SA-hybrid, Sr Backend Java UK, Security UK, FE UK, Director DS US-ET); pattern unchanged, no Uganda seats.'
+    notes: 'Cross-border payments (WorldRemit + Sendwave). VERIFIED 2026-08-13: HiBob board (SPA — WebFetch gets shell, use Playwright; zepz.io/careers is a pointer). 45 reqs, Technology dept 8. Geo pattern: every req country-tagged (Remote-UK / Remote-SA / Remote-USA / Hybrid) — eng reqs UK/SA/USA only, NO Uganda site despite historical Kampala presence. Watch for Remote-untagged reqs. 2026-08-19: re-verified via Playwright — 46 reqs, 6 eng, pattern unchanged. 2026-09-24: Playwright re-check — 28 reqs, 5 eng via search ''engineer'' (Sr Full-Stack SA-hybrid, Sr Backend Java UK, Security UK, FE UK, Director DS US-ET); pattern unchanged, no Uganda seats. 2026-10-01: Playwright — 23 reqs, 6 eng (Sr Full-Stack Hybrid-SA, Sr Backend Python/Kotlin Hybrid-UK, Dir Data Sci Hybrid-UK + Remote-USA, Sr Security Hybrid-UK); pattern unchanged, nothing global.'
     enabled: true
 
   - name: Chipper Cash
@@ -911,7 +911,7 @@ tracked_companies:
     api: https://careers.paystack.com/jobs.json
     scan_method: websearch
     scan_query: '"paystack" careers "engineer" OR "backend" remote'
-    notes: 'Stripe-owned African payments (Lagos). Strong eng brand. VERIFIED 2026-08-13: Teamtailor on custom domain careers.paystack.com (paystack.com/careers is a marketing page, 403s to WebFetch — fetch careers.paystack.com directly). 2026-08-26: board EXPANDED 1→7 reqs; geo pattern shifted to multi-country remote-first lists (e.g. Senior Data Engineer: CIV/GH/SA/UAE/NG/KE) — Uganda still NOT listed on any req. 2026-08-27: expanded again 7→10 (new Sr DevOps: Accra/CPT/Dubai/Lagos/Nairobi; QA/Data-Science/IT/Platform-Security) — Uganda still excluded. 2026-09-11: CONTRACTED 10→12 total but Sr DevOps req GONE; eligibility countries now CIV/Ghana/Kenya/Nigeria/South Africa/UAE, Uganda STILL absent; all eng reqs Hybrid or single-country. ATS CONFIRMED TEAMTAILOR (footer: "Applicant tracking system by Teamtailor") — no Greenhouse/Lever/Ashby slug exists, needs Playwright. Watch for Uganda/EAC additions to eligibility lists. 2026-09-21: Teamtailor JSON endpoint WORKS after all — careers.paystack.com/jobs.json (no Playwright needed). It now returns ZERO offers: the board emptied completely since 09-11. 2026-09-24: jobs.json still 0 reqs.'
+    notes: 'Stripe-owned African payments (Lagos). Strong eng brand. VERIFIED 2026-08-13: Teamtailor on custom domain careers.paystack.com (paystack.com/careers is a marketing page, 403s to WebFetch — fetch careers.paystack.com directly). 2026-08-26: board EXPANDED 1→7 reqs; geo pattern shifted to multi-country remote-first lists (e.g. Senior Data Engineer: CIV/GH/SA/UAE/NG/KE) — Uganda still NOT listed on any req. 2026-08-27: expanded again 7→10 (new Sr DevOps: Accra/CPT/Dubai/Lagos/Nairobi; QA/Data-Science/IT/Platform-Security) — Uganda still excluded. 2026-09-11: CONTRACTED 10→12 total but Sr DevOps req GONE; eligibility countries now CIV/Ghana/Kenya/Nigeria/South Africa/UAE, Uganda STILL absent; all eng reqs Hybrid or single-country. ATS CONFIRMED TEAMTAILOR (footer: "Applicant tracking system by Teamtailor") — no Greenhouse/Lever/Ashby slug exists, needs Playwright. Watch for Uganda/EAC additions to eligibility lists. 2026-09-21: Teamtailor JSON endpoint WORKS after all — careers.paystack.com/jobs.json (no Playwright needed). It now returns ZERO offers: the board emptied completely since 09-11. 2026-09-24: jobs.json still 0 reqs. 2026-10-01: jobs.json is a JSON Feed (items[]) — 14 reqs, no new eng; Senior Backend Engineer still Nigeria-locked.'
     enabled: true
 
   - name: Moniepoint
@@ -999,5 +999,17 @@ tracked_companies:
 
   - name: Sarwa
     careers_url: https://careers.sarwa.co/jobs
-    notes: 'ADDED 2026-09-24 via Jobgether -> canonical Teamtailor (careers.sarwa.co). Abu Dhabi robo-advisor / digital wealth fintech (~50 staff, founded 2017). Board says "Fully Remote" and JD says "remote-first — where you choose to work is up to you" (Abu Dhabi office optional) — clean geo signal. STACK CAVEAT: Python/Django + Go primary, PostgreSQL, AWS/K8s, microservices/DDD — Node not named. Backend Engineer req pipelined 2026-09-24. Teamtailor jobs.json NOT exposed on this domain (404) — scrape /jobs page.'
+    notes: 'ADDED 2026-09-24 via Jobgether -> canonical Teamtailor (careers.sarwa.co). Abu Dhabi robo-advisor / digital wealth fintech (~50 staff, founded 2017). Board says "Fully Remote" and JD says "remote-first — where you choose to work is up to you" (Abu Dhabi office optional) — clean geo signal. STACK CAVEAT: Python/Django + Go primary, PostgreSQL, AWS/K8s, microservices/DDD — Node not named. Backend Engineer req pipelined 2026-09-24. Teamtailor jobs.json NOT exposed on this domain (404) — scrape /jobs page. 2026-10-01: careers.sarwa.co/jobs returns 400 to curl (needs Playwright); 2 reqs live, Backend Engineer (6606143) already pipelined.'
     enabled: true
+
+  - name: Speechify
+    careers_url: https://job-boards.greenhouse.io/speechify
+    api: https://boards-api.greenhouse.io/v1/boards/speechify/jobs
+    enabled: true
+    notes: 'TTS/AI audio; "nearly 200 people around the globe ... 100% distributed, Speechify has no office". Found 2026-10-01 via Level 3. Board has 243 reqs, 241 are CITY CLONES of one "Software Engineer, Platform" JD (incl. Lagos/Abuja/Cape Town/Johannesburg/Casablanca/Alexandria) — dedupe by stripping " - City, Country" from title and prefer the location="Remote" reqs (5058944004, 5533936004). Stack: TS/Node required, GCP required, Docker/K8s preferred. US band $140-200K; non-US likely contractor. 2026-10-01: 5533936004 pipelined.'
+
+  - name: Sequencing.com
+    careers_url: https://jobs.ashbyhq.com/sequencing
+    api: https://api.ashbyhq.com/posting-api/job-board/sequencing
+    enabled: true
+    notes: 'Genomics SaaS. Added 2026-10-01 after Level 3 found a closed Senior Backend TypeScript Developer req (UTC-5 to UTC+3 eligibility = Uganda passes; TS-primary) — removed 2026-09-29. Non-eng reqs are Remote-US; check geo per req. Track for re-opening.'
