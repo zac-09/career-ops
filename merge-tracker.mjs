@@ -95,6 +95,29 @@ function roleFuzzyMatch(a, b) {
   return overlap.length >= Math.min(2, Math.max(wordsA.length, wordsB.length));
 }
 
+// Posting URL from the report's `**URL:**` header, or null if unreadable.
+function reportUrl(reportStr) {
+  const m = reportStr.match(/\]\(([^)]+)\)/);
+  if (!m) return null;
+  const path = join(CAREER_OPS, m[1]);
+  if (!existsSync(path)) return null;
+  const u = readFileSync(path, 'utf-8').match(/\*\*URL:\*\*\s*(\S+)/);
+  if (!u) return null;
+  try { return new URL(u[1]); } catch { return null; }
+}
+
+// Two different postings on the same ATS host (e.g. two Ashby req ids) are
+// different roles even when the titles fuzzy-match -- "Full-Stack Engineer
+// (Global)" vs "Full-stack Engineer - Creative Agents" share [full, stack].
+// A different host falls through to the title match, since companies change ATS.
+function distinctPostings(a, b) {
+  const ua = reportUrl(a);
+  const ub = reportUrl(b);
+  if (!ua || !ub || ua.host !== ub.host) return false;
+  const norm = u => u.pathname.replace(/\/+$/, '').toLowerCase();
+  return norm(ua) !== norm(ub);
+}
+
 function extractReportNum(reportStr) {
   const m = reportStr.match(/\[(\d+)\]/);
   return m ? parseInt(m[1]) : null;
@@ -279,7 +302,8 @@ for (const file of tsvFiles) {
     const normCompany = normalizeCompany(addition.company);
     duplicate = existingApps.find(app => {
       if (normalizeCompany(app.company) !== normCompany) return false;
-      return roleFuzzyMatch(addition.role, app.role);
+      if (!roleFuzzyMatch(addition.role, app.role)) return false;
+      return !distinctPostings(addition.report, app.report);
     });
   }
 
