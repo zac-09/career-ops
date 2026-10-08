@@ -1,0 +1,206 @@
+- generic [active] [ref=f7e1]:
+  - generic [ref=f7e2]:
+    - banner [ref=f7e3]:
+      - navigation "Main" [ref=f7e6]:
+        - generic "Main" [ref=f7e7]:
+          - link "Latitude.sh" [ref=f7e9] [cursor=pointer]:
+            - /url: /
+          - list [ref=f7e44]:
+            - listitem [ref=f7e45]:
+              - button "Products" [ref=f7e46] [cursor=pointer]
+            - listitem [ref=f7e49]:
+              - button "Solutions" [ref=f7e50] [cursor=pointer]
+            - listitem [ref=f7e53]:
+              - button "Developers" [ref=f7e54] [cursor=pointer]
+            - listitem [ref=f7e57]:
+              - link "Customers" [ref=f7e58] [cursor=pointer]:
+                - /url: /customers
+            - listitem [ref=f7e59]:
+              - link "Pricing" [ref=f7e60] [cursor=pointer]:
+                - /url: /pricing
+          - list [ref=f7e63]:
+            - link "Contact" [ref=f7e64] [cursor=pointer]:
+              - /url: /contact
+            - link "Get started" [ref=f7e67] [cursor=pointer]:
+              - /url: /dashboard/signup
+    - article [ref=f7e72]:
+      - generic [ref=f7e78]:
+        - generic [ref=f7e79]:
+          - heading "./careers-at-latitude.sh" [level=2] [ref=f7e80]
+          - heading "Help make the internet faster" [level=1] [ref=f7e81]
+        - generic [ref=f7e82]: At Latitude.sh, we build tools that make running and managing servers easier for everyone. We have a challenging business and a company we love working for, and we think you will too.
+        - link "See open roles" [ref=f7e85] [cursor=pointer]:
+          - /url: "#jobs"
+      - generic [ref=f7e96]:
+        - generic [ref=f7e98]:
+          - heading "Building the company we all want to work at" [level=1] [ref=f7e100]
+          - generic [ref=f7e101]: We believe passionate, committed people can do whatever they set themselves up to. Our team is made of diverse, creative minds that don’t rest until they solve their challenges. If that resonates with you, join us. We are growing fast and talent is something we are always looking for.
+        - generic [ref=f7e102]:
+          - heading "./here's-what-working-with-us-is-like" [level=2] [ref=f7e104]
+          - generic [ref=f7e105]:
+            - generic [ref=f7e106]:
+              - heading "Health insurance" [level=1] [ref=f7e108]
+              - generic [ref=f7e109]: Enjoy coverage of health insurance premiums across our medical and dental plan offerings, including coverage for dependents under 18.
+            - generic [ref=f7e110]:
+              - heading "Work calmly" [level=1] [ref=f7e112]
+              - generic [ref=f7e113]: Work-life balance is important for us, so we keep things calm and balanced by offering flexible work schedules.
+            - generic [ref=f7e114]:
+              - heading "Vacations and paid holidays" [level=1] [ref=f7e116]
+              - generic [ref=f7e117]: Latitude.sh offers 4 weeks of paid vacation and a few national holidays every year.
+            - generic [ref=f7e118]:
+              - heading "Invest in your future" [level=1] [ref=f7e120]
+              - generic [ref=f7e121]: Improve your English with twice-weekly classes, and get support to key certifications in your area.
+            - generic [ref=f7e122]:
+              - heading "Remote workers welcome" [level=1] [ref=f7e124]
+              - generic [ref=f7e125]: Several positions allow for remote working. Latitude.sh gives a stipend for you to use towards renting co-working space in your city.
+            - generic [ref=f7e126]:
+              - heading "Competitive salaries" [level=1] [ref=f7e128]
+              - generic [ref=f7e129]: No ping pong tables, no junk food to keep you in the office indefinitely. We use that money to pay a competitive compensation package that includes salary and bonuses.
+      - generic [ref=f7e133]:
+        - generic [ref=f7e135]:
+          - heading "Open positions" [level=1] [ref=f7e137]
+          - generic [ref=f7e138]: Experience comes in many forms, many skills are transferable, and passion goes a long way. If your experience is this close to what we're looking for, consider applying. We know that diversity of thought makes for the best problem-solving and creative thinking, which is why we're dedicated to adding new perspectives to the team and encourage everyone to apply.
+        - paragraph [ref=f7e140]: Loading open roles…
+    - contentinfo [ref=f7e141]:
+      - navigation "Latitude.sh Directory" [ref=f7e144]:
+        - heading "Footer" [level=2] [ref=f7e145]
+        - generic [ref=f7e146]:
+          - generic [ref=f7e148]:
+            - list [ref=f7e181]:
+              - listitem [ref=f7e182]:
+                - link [ref=f7e183] [cursor=pointer]:
+                  - /url: https://x.com/latitudesh
+              - listitem [ref=f7e186]:
+                - link [ref=f7e187] [cursor=pointer]:
+                  - /url: https://github.com/latitudesh
+                  - img "github" [ref=f7e188]
+              - listitem [ref=f7e190]:
+                - link [ref=f7e191] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/22318494/
+                  - img "LinkedIn" [ref=f7e192]
+            - generic [ref=f7e194]:
+              - generic [ref=f7e195]: Stay updated with our latest news and updates
+              - generic [ref=f7e197]:
+                - textbox "Your email" [ref=f7e198]
+                - button "Loading..." [ref=f7e200] [cursor=pointer]
+          - generic [ref=f7e212]:
+            - generic [ref=f7e213]:
+              - generic [ref=f7e214]:
+                - heading "Platform" [level=1] [ref=f7e216]
+                - generic [ref=f7e217]:
+                  - link "Locations" [ref=f7e219] [cursor=pointer]:
+                    - /url: /locations
+                  - link "Network" [ref=f7e221] [cursor=pointer]:
+                    - /url: /network
+                  - link "Pricing" [ref=f7e223] [cursor=pointer]:
+                    - /url: /pricing
+              - generic [ref=f7e224]:
+                - heading "Products" [level=1] [ref=f7e226]
+                - generic [ref=f7e227]:
+                  - link "Metal" [ref=f7e229] [cursor=pointer]:
+                    - /url: /features
+                  - link "Metal GPU" [ref=f7e231] [cursor=pointer]:
+                    - /url: /accelerate
+                  - link "Kubernetes (LKS)" [ref=f7e233] [cursor=pointer]:
+                    - /url: https://www.latitude.sh/docs/kubernetes
+                  - link "Virtual machines" [ref=f7e235] [cursor=pointer]:
+                    - /url: https://www.latitude.sh/docs/vms/virtual-machines
+                  - link "Build" [ref=f7e237] [cursor=pointer]:
+                    - /url: /build
+                  - link "Storage" [ref=f7e239] [cursor=pointer]:
+                    - /url: /storage
+                  - link "Managed Postgres" [ref=f7e241] [cursor=pointer]:
+                    - /url: /databases
+                  - link "Cloud Gateway" [ref=f7e243] [cursor=pointer]:
+                    - /url: /cloud-gateway
+                  - link "Global Gateway" [ref=f7e245] [cursor=pointer]:
+                    - /url: /global-gateway
+                  - link "Private Networks" [ref=f7e247] [cursor=pointer]:
+                    - /url: /docs/networking/private-networks
+                  - link "Firewall" [ref=f7e249] [cursor=pointer]:
+                    - /url: https://www.latitude.sh/docs/networking/firewall
+                  - link "DDoS Protection" [ref=f7e251] [cursor=pointer]:
+                    - /url: /ddos-protection
+            - generic [ref=f7e253]:
+              - heading "Solutions" [level=1] [ref=f7e255]
+              - generic [ref=f7e256]:
+                - link "AI" [ref=f7e258] [cursor=pointer]:
+                  - /url: /accelerate
+                - link "Web3 & Crypto" [ref=f7e260] [cursor=pointer]:
+                  - /url: /solutions/web3
+                - link "Solana" [ref=f7e262] [cursor=pointer]:
+                  - /url: /solutions/solana
+                - link "Confidential Compute" [ref=f7e264] [cursor=pointer]:
+                  - /url: /solutions/confidential-compute
+                - link "Ethereum" [ref=f7e266] [cursor=pointer]:
+                  - /url: /solutions/ethereum
+                - link "AdTech" [ref=f7e268] [cursor=pointer]:
+                  - /url: /solutions/adtech
+                - link "Gaming" [ref=f7e270] [cursor=pointer]:
+                  - /url: /solutions/online-gaming
+                - link "Kubernetes" [ref=f7e272] [cursor=pointer]:
+                  - /url: /solutions/containers
+                - link "Cloud Migration" [ref=f7e274] [cursor=pointer]:
+                  - /url: /solutions/cloud-migration
+                - link "Video Streaming" [ref=f7e276] [cursor=pointer]:
+                  - /url: /solutions/streaming
+            - generic [ref=f7e278]:
+              - heading "Developers" [level=1] [ref=f7e280]
+              - generic [ref=f7e281]:
+                - link "Docs" [ref=f7e283] [cursor=pointer]:
+                  - /url: https://www.latitude.sh/docs
+                - link "API reference" [ref=f7e285] [cursor=pointer]:
+                  - /url: https://www.latitude.sh/docs/api-reference/summary
+                - link "SDKs" [ref=f7e287] [cursor=pointer]:
+                  - /url: https://www.latitude.sh/docs/api-reference/client-libraries
+                - link "CLI" [ref=f7e289] [cursor=pointer]:
+                  - /url: https://www.latitude.sh/docs/cli
+                - link "Terraform" [ref=f7e291] [cursor=pointer]:
+                  - /url: https://registry.terraform.io/providers/latitudesh/latitudesh/latest
+                - link "Examples" [ref=f7e293] [cursor=pointer]:
+                  - /url: https://github.com/latitudesh/examples
+                - link "Blog" [ref=f7e295] [cursor=pointer]:
+                  - /url: /blog
+                - link "Changelog" [ref=f7e297] [cursor=pointer]:
+                  - /url: /changelog
+                - link "Service status" [ref=f7e299] [cursor=pointer]:
+                  - /url: https://status.latitude.sh/
+                - link "Looking glass" [ref=f7e301] [cursor=pointer]:
+                  - /url: https://lg.latitude.sh/
+            - generic [ref=f7e302]:
+              - generic [ref=f7e303]:
+                - heading "Company" [level=1] [ref=f7e305]
+                - generic [ref=f7e306]:
+                  - link "Customers" [ref=f7e308] [cursor=pointer]:
+                    - /url: /customers
+                  - link "About us" [ref=f7e310] [cursor=pointer]:
+                    - /url: /about
+                  - link "Careers" [ref=f7e312] [cursor=pointer]:
+                    - /url: /careers
+                  - link "Contact sales" [ref=f7e314] [cursor=pointer]:
+                    - /url: /contact
+                  - link "Contact support" [ref=f7e316] [cursor=pointer]:
+                    - /url: https://www.latitude.sh/dashboard/account?contactSupport
+                  - link "Brand assets" [ref=f7e318] [cursor=pointer]:
+                    - /url: https://www.megaport.com/brand-center/
+              - generic [ref=f7e319]:
+                - heading "Legal" [level=1] [ref=f7e321]
+                - generic [ref=f7e322]:
+                  - link "DPA" [ref=f7e324] [cursor=pointer]:
+                    - /url: /legal/dpa
+                  - link "Terms of Service" [ref=f7e326] [cursor=pointer]:
+                    - /url: /legal/terms
+                  - link "Privacy Policy" [ref=f7e328] [cursor=pointer]:
+                    - /url: /legal/privacy
+                  - link "Fair Usage Policy" [ref=f7e330] [cursor=pointer]:
+                    - /url: /legal/fair-usage
+                  - link "Security" [ref=f7e332] [cursor=pointer]:
+                    - /url: /legal/security
+                  - link "Trust Center" [ref=f7e334] [cursor=pointer]:
+                    - /url: https://trust.latitude.sh
+                  - generic [ref=f7e335]: Manage cookies
+      - generic [ref=f7e339]:
+        - generic [ref=f7e340]: © Latitude.sh
+        - generic:
+          - generic [aria-hidden]: ////////////////////////////////////////////////////////////////////////////////////////////////
+  - alert [ref=f7e342]

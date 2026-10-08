@@ -1,0 +1,476 @@
+- generic [active] [ref=f22e1]:
+  - banner [ref=f22e2]:
+    - navigation [ref=f22e3]:
+      - link [ref=f22e4] [cursor=pointer]:
+        - /url: /en/
+        - img "Wave logo" [ref=f22e5]
+      - generic [ref=f22e6]:
+        - list [ref=f22e7]:
+          - listitem [ref=f22e8]:
+            - link "Personal" [ref=f22e9] [cursor=pointer]:
+              - /url: /en/
+          - listitem [ref=f22e10]:
+            - link "Business" [ref=f22e11] [cursor=pointer]:
+              - /url: /en/business/
+        - list [ref=f22e12]:
+          - listitem [ref=f22e13]:
+            - link "About" [ref=f22e14] [cursor=pointer]:
+              - /url: /en/about/
+          - listitem [ref=f22e15]:
+            - link "Careers" [ref=f22e16] [cursor=pointer]:
+              - /url: /en/careers/
+          - listitem [ref=f22e17]:
+            - link "Blog" [ref=f22e18] [cursor=pointer]:
+              - /url: /en/blog/
+  - main [ref=f22e20]:
+    - generic [ref=f22e22]:
+      - heading "Build the future of money, Africa-first" [level=2] [ref=f22e23]
+      - paragraph [ref=f22e24]: Join our global team bringing modern, affordable banking services to those who need them the most.
+      - link "Explore roles" [ref=f22e25] [cursor=pointer]:
+        - /url: /en/careers/#roles
+    - generic [ref=f22e26]:
+      - heading "Working at Wave" [level=2] [ref=f22e27]
+      - generic [ref=f22e28]:
+        - list [ref=f22e29]:
+          - listitem [ref=f22e30]:
+            - paragraph [ref=f22e32]: Our hiring philosophy is rooted in culture and values as much as capability.
+        - list [ref=f22e35]:
+          - listitem [ref=f22e36] [cursor=pointer]
+          - listitem [ref=f22e37] [cursor=pointer]
+          - listitem [ref=f22e38] [cursor=pointer]
+          - listitem [ref=f22e39] [cursor=pointer]
+          - listitem [ref=f22e40] [cursor=pointer]
+          - listitem [ref=f22e41] [cursor=pointer]
+    - generic [ref=f22e42]:
+      - heading "Core Values" [level=2] [ref=f22e43]
+      - list [ref=f22e44]:
+        - listitem [ref=f22e45]:
+          - heading "We’re egolessly mission driven." [level=3] [ref=f22e46]
+          - paragraph [ref=f22e47]: We never forget why we’re in it—to make life better for everyone that touches our products. The people that use Wave to do their jobs, send money to loved ones or save their day’s wages—they’re our real bosses.
+        - listitem [ref=f22e48]:
+          - heading "We don’t wait—we live our fullest lives now." [level=3] [ref=f22e49]
+          - paragraph [ref=f22e50]: Collectively, we take care of our users first, but individually we take time offline to live a full life, whether that means choosing our working hours carefully, turning off notifications, or taking long vacations.
+        - listitem [ref=f22e51]:
+          - heading "We’re embarrassingly honest." [level=3] [ref=f22e52]
+          - paragraph [ref=f22e53]: At most companies, admitting your mistakes is seen as weakness, and direct communication about hard things is taboo. At Wave, being vulnerable and honest about your mistakes is a sign of strength, and giving honest feedback to teammates is an act of generosity.
+        - listitem [ref=f22e54]:
+          - heading "We maximize our rate of learning." [level=3] [ref=f22e55]
+          - paragraph [ref=f22e56]: We’re always iterating on our personal goals and habits to become more effective and happier. Most importantly, we do this fast. The faster we run these loops—as a company and individuals—the faster we’ll achieve our mission.
+    - generic [ref=f22e57]:
+      - heading "Open Roles" [level=2] [ref=f22e58]
+      - generic [ref=f22e59]:
+        - generic [ref=f22e60]:
+          - combobox "Department" [ref=f22e62]:
+            - option "All departments" [selected]
+            - option "Agent Operations"
+            - option "Business Development"
+            - option "Compliance"
+            - option "Engineering"
+            - option "Finance"
+            - option "Growth Distribution and Sales"
+            - option "Legal"
+            - option "Marketing"
+            - option "Payments"
+            - option "People Operations"
+            - option "Product"
+            - option "Risk & Fraud"
+            - option "Support"
+          - combobox "Office" [ref=f22e64]:
+            - option "All offices" [selected]
+            - option "Burkina Faso (BF)"
+            - option "Cameroon (CM)"
+            - option "Cote d'Ivoire (CI)"
+            - option "Democratic Republic of the Congo (CD)"
+            - option "Gambia (GM)"
+            - option "Guinea (GN)"
+            - option "Malawi (MW)"
+            - option "Mali (ML)"
+            - option "Niger (NE)"
+            - option "OpCo"
+            - option "Remote"
+            - option "Senegal (SN)"
+            - option "Sierra Leone (SL)"
+        - generic [ref=f22e65]:
+          - heading "Agent Operations" [level=3] [ref=f22e66]
+          - generic [ref=f22e67]:
+            - link "Agent Liquidity Lead" [ref=f22e68] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6144282004/
+            - generic: Freetown, Sierra Leone
+          - generic [ref=f22e69]:
+            - link "Agent Liquidity Lead" [ref=f22e70] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6177399004/
+            - generic: Cameroon (CM)
+          - generic [ref=f22e71]:
+            - link "Agent Liquidity Lead" [ref=f22e72] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6193104004/
+            - generic: Niamey, Niger
+          - generic [ref=f22e73]:
+            - link "Agent Liquidity Regional Lead" [ref=f22e74] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6202385004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e75]:
+            - link "Agent Operations Lead" [ref=f22e76] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6208510004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e77]:
+            - link "Agent Operations Regional Lead" [ref=f22e78] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6112039004/
+            - generic: Malawi (MW)
+          - generic [ref=f22e79]:
+            - link "Agent Operations Regional Lead" [ref=f22e80] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6139588004/
+            - generic: Freetown, Sierra Leone
+          - generic [ref=f22e81]:
+            - link "Agent Operations Regional Lead" [ref=f22e82] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6201584004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e83]:
+            - link "Agent Operations Territory Lead" [ref=f22e84] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/5982358004/
+            - generic: Niamey, Niger
+          - generic [ref=f22e85]:
+            - link "Agent Operations Territory Lead" [ref=f22e86] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6122276004/
+            - generic: Freetown, Sierra Leone
+          - generic [ref=f22e87]:
+            - link "Agent Operations Territory Lead" [ref=f22e88] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6219162004/
+            - generic: Banjul, The Gambia
+          - generic [ref=f22e89]:
+            - link "Branding Coordinator" [ref=f22e90] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6212008004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e91]:
+            - link "CD Agent Ops Regional Lead - Pool" [ref=f22e92] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6209725004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e93]:
+            - link "Distribution Admin Manager" [ref=f22e94] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6114115004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e95]:
+            - link "Field Officer" [ref=f22e96] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/5825517004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e97]:
+            - link "Field Officer" [ref=f22e98] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6006991004/
+            - generic: Malawi (MW)
+          - generic [ref=f22e99]:
+            - link "Operations Training Regional Lead" [ref=f22e100] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6202395004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e101]:
+            - link "Premium Agent Manager - Construction" [ref=f22e102] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6200262004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e103]:
+            - link "Premium Agent Network Officer" [ref=f22e104] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6190870004/
+            - generic: Abidjan, Côte d'Ivoire
+          - generic [ref=f22e105]:
+            - link "Premium Cash Assistant" [ref=f22e106] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6147463004/
+            - generic: Cameroon (CM)
+          - generic [ref=f22e107]:
+            - link "Premium Cash Assistant" [ref=f22e108] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6210601004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e109]:
+            - link "Premium Cash Officer" [ref=f22e110] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6147405004/
+            - generic: Cameroon (CM)
+          - generic [ref=f22e111]:
+            - link "Premium Cash Officer" [ref=f22e112] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6180183004/
+            - generic: Niamey, Niger
+          - generic [ref=f22e113]:
+            - link "Premium Cash Officer" [ref=f22e114] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6202400004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e115]:
+            - link "Regional Lead" [ref=f22e116] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6202877004/
+            - generic: Cameroon (CM)
+          - generic [ref=f22e117]:
+            - link "Security Officer" [ref=f22e118] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6212903004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+        - generic [ref=f22e119]:
+          - heading "Business Development" [level=3] [ref=f22e120]
+          - generic [ref=f22e121]:
+            - link "Business Development Manager - Mali" [ref=f22e122] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6188123004/
+            - generic: Bamako, Mali
+        - generic [ref=f22e123]:
+          - heading "Compliance" [level=3] [ref=f22e124]
+          - generic [ref=f22e125]:
+            - link "Head of Compliance and Risk" [ref=f22e126] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6173810004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e127]:
+            - link "Risk & Compliance Officer" [ref=f22e128] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6101347004/
+            - generic: Freetown, Sierra Leone
+        - generic [ref=f22e129]:
+          - heading "Engineering" [level=3] [ref=f22e130]
+          - generic [ref=f22e131]:
+            - link "Applied AI Scientist - LLMs & Voice" [ref=f22e132] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/5779974004/
+            - generic: Remote
+          - generic [ref=f22e133]:
+            - link "Chief Technology Officer" [ref=f22e134] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6129464004/
+            - generic: Remote
+          - generic [ref=f22e135]:
+            - link "Observability Specialist" [ref=f22e136] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6146026004/
+            - generic: Canada; Spain; United Kingdom
+          - generic [ref=f22e137]:
+            - link "Senior Endpoint Engineer" [ref=f22e138] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/5710004004/
+            - generic: Remote
+        - generic [ref=f22e139]:
+          - heading "Finance" [level=3] [ref=f22e140]
+          - generic [ref=f22e141]:
+            - link "Assistant Controller" [ref=f22e142] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6113582004/
+            - generic: Niamey, Niger
+          - generic [ref=f22e143]:
+            - link "Burkina Faso Accountant" [ref=f22e144] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6218134004/
+            - generic: Ouagadougou, Burkina Faso
+          - generic [ref=f22e145]:
+            - link "Inventory Clerk" [ref=f22e146] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6136062004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+          - generic [ref=f22e147]:
+            - link "Senior Accountant" [ref=f22e148] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6188058004/
+            - generic: Abidjan, Côte d'Ivoire
+          - generic [ref=f22e149]:
+            - link "Wire Transfer Officer" [ref=f22e150] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6119407004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+        - generic [ref=f22e151]:
+          - heading "Growth Distribution and Sales" [level=3] [ref=f22e152]
+          - generic [ref=f22e153]:
+            - link "Field Officer" [ref=f22e154] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6207363004/
+            - generic: Cameroon (CM)
+          - generic [ref=f22e155]:
+            - link "Regional Lead (User Growth)" [ref=f22e156] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6209493004/
+            - generic: Niamey, Niger
+          - generic [ref=f22e157]:
+            - link "User Growth Regional Lead" [ref=f22e158] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6139584004/
+            - generic: Freetown, Sierra Leone
+        - generic [ref=f22e159]:
+          - heading "Legal" [level=3] [ref=f22e160]
+          - generic [ref=f22e161]:
+            - link "Legal Counsel" [ref=f22e162] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6121085004/
+            - generic: Bamako, Mali
+        - generic [ref=f22e163]:
+          - heading "Marketing" [level=3] [ref=f22e164]
+          - generic [ref=f22e165]:
+            - link "Digital Marketing Coordinator" [ref=f22e166] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6184741004/
+            - generic: Dakar, Senegal
+          - generic [ref=f22e167]:
+            - link "Head of Brand Design and Creative" [ref=f22e168] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/5836751004/
+            - generic: OpCo; Remote
+          - generic [ref=f22e169]:
+            - link "Head of Marketing" [ref=f22e170] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/5817527004/
+            - generic: Ouagadougou, Burkina Faso
+          - generic [ref=f22e171]:
+            - link "Marketing Manager" [ref=f22e172] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6145124004/
+            - generic: Banjul, The Gambia
+          - generic [ref=f22e173]:
+            - link "Senior Marketing Manager" [ref=f22e174] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6108713004/
+            - generic: Dakar, Senegal
+          - generic [ref=f22e175]:
+            - link "Senior Marketing Manager" [ref=f22e176] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6140323004/
+            - generic: Abidjan, Côte d'Ivoire
+        - generic [ref=f22e177]:
+          - heading "Payments" [level=3] [ref=f22e178]
+          - generic [ref=f22e179]:
+            - link "Key Account Lead" [ref=f22e180] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6128507004/
+            - generic: Bamako, Mali
+          - generic [ref=f22e181]:
+            - link "Key Account Manager" [ref=f22e182] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6191353004/
+            - generic: Abidjan, Côte d'Ivoire
+          - generic [ref=f22e183]:
+            - link "Merchant Account Supervisor" [ref=f22e184] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6163846004/
+            - generic: Abidjan, Côte d'Ivoire
+          - generic [ref=f22e185]:
+            - link "Merchant Opening Supervisor" [ref=f22e186] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6191506004/
+            - generic: Abidjan, Côte d'Ivoire
+          - generic [ref=f22e187]:
+            - link "Sales Representative" [ref=f22e188] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6204932004/
+            - generic: Banjul, The Gambia
+        - generic [ref=f22e189]:
+          - heading "People Operations" [level=3] [ref=f22e190]
+          - generic [ref=f22e191]:
+            - link "Facilities Lead" [ref=f22e192] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6113517004/
+            - generic: Dakar, Senegal
+          - generic [ref=f22e193]:
+            - link "Fleet Manager" [ref=f22e194] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6189438004/
+            - generic: Abidjan, Côte d'Ivoire
+          - generic [ref=f22e195]:
+            - link "HR & Payroll Specialist - US/Canada" [ref=f22e196] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6000564004/
+            - generic: United States
+          - generic [ref=f22e197]:
+            - link "People Operations Associate" [ref=f22e198] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6115028004/
+            - generic: Conakry, Conakry, Guinea
+          - generic [ref=f22e199]:
+            - link "People Partner" [ref=f22e200] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/5722332004/
+            - generic: OpCo
+          - generic [ref=f22e201]:
+            - link "People Partner- Support" [ref=f22e202] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6134008004/
+            - generic: Dakar, Senegal
+          - generic [ref=f22e203]:
+            - link "People Partner- Support" [ref=f22e204] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6134012004/
+            - generic: Bamako, Mali; Ouagadougou, Burkina Faso
+          - generic [ref=f22e205]:
+            - link "People Programs Manager" [ref=f22e206] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6101291004/
+            - generic: Abidjan, Côte d'Ivoire; Bamako, Mali; OpCo; Ouagadougou, Burkina Faso
+          - generic [ref=f22e207]:
+            - link "Regional IT Manager" [ref=f22e208] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6102657004/
+            - generic: Abidjan, Côte d'Ivoire; Ouagadougou, Burkina Faso
+          - generic [ref=f22e209]:
+            - link "Senior Recruiter" [ref=f22e210] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6108741004/
+            - generic: Niamey, Niger
+          - generic [ref=f22e211]:
+            - link "Senior Recruiter" [ref=f22e212] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6184860004/
+            - generic: Kinshasa, Democratic Republic of the Congo
+        - generic [ref=f22e213]:
+          - heading "Product" [level=3] [ref=f22e214]
+          - generic [ref=f22e215]:
+            - link "Partner Operations Representative" [ref=f22e216] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6197601004/
+            - generic: Banjul, The Gambia
+          - generic [ref=f22e217]:
+            - link "Partner Operations Team Lead" [ref=f22e218] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6191368004/
+            - generic: Abidjan, Côte d'Ivoire
+        - generic [ref=f22e219]:
+          - heading "Risk & Fraud" [level=3] [ref=f22e220]
+          - generic [ref=f22e221]:
+            - link "Field Auditor" [ref=f22e222] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6200357004/
+            - generic: Cameroon (CM)
+          - generic [ref=f22e223]:
+            - link "Fraud Analyst" [ref=f22e224] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6146453004/
+            - generic: Niamey, Niger
+          - generic [ref=f22e225]:
+            - link "Fraud Analyst" [ref=f22e226] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6150189004/
+            - generic: Abidjan, Côte d'Ivoire
+          - generic [ref=f22e227]:
+            - link "Internal Auditor" [ref=f22e228] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6211657004/
+            - generic: Dakar, Senegal
+          - generic [ref=f22e229]:
+            - link "IT Controller" [ref=f22e230] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6113513004/
+            - generic: Abidjan, Côte d'Ivoire
+          - generic [ref=f22e231]:
+            - link "Risk & Compliance Lead" [ref=f22e232] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6198056004/
+            - generic: Niamey, Niger
+          - generic [ref=f22e233]:
+            - link "Risk & Internal Control Officer" [ref=f22e234] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/5648275004/
+            - generic: Dakar, Senegal
+        - generic [ref=f22e235]:
+          - heading "Support" [level=3] [ref=f22e236]
+          - generic [ref=f22e237]:
+            - link "Customer Support Representative" [ref=f22e238] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6104755004/
+            - generic: Niamey, Niger
+          - generic [ref=f22e239]:
+            - link "Customer Support Representative" [ref=f22e240] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6194388004/
+            - generic: Conakry, Conakry, Guinea
+          - generic [ref=f22e241]:
+            - link "Support Group Lead" [ref=f22e242] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6192751004/
+            - generic: Banjul, The Gambia
+          - generic [ref=f22e243]:
+            - link "Support Group Lead" [ref=f22e244] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6211364004/
+            - generic: Niamey, Niger
+          - generic [ref=f22e245]:
+            - link "Support Quality & Training Lead" [ref=f22e246] [cursor=pointer]:
+              - /url: https://www.wave.com/en/careers/job/6207477004/
+            - generic: Banjul, The Gambia
+  - contentinfo [ref=f22e247]:
+    - generic [ref=f22e248]:
+      - generic [ref=f22e249]:
+        - link [ref=f22e250] [cursor=pointer]:
+          - /url: /en/
+          - img "Wave logo" [ref=f22e251]
+        - button [ref=f22e253] [cursor=pointer]:
+          - heading "English" [level=5] [ref=f22e254]
+        - paragraph [ref=f22e255]: © Wave Mobile Money Inc.
+      - generic [ref=f22e256]:
+        - heading "Company" [level=5] [ref=f22e257]
+        - list [ref=f22e258]:
+          - listitem [ref=f22e259]:
+            - link "About Us" [ref=f22e260] [cursor=pointer]:
+              - /url: /en/about/
+          - listitem [ref=f22e261]:
+            - link "Careers" [ref=f22e262] [cursor=pointer]:
+              - /url: /en/careers/
+          - listitem [ref=f22e263]:
+            - link "Blog" [ref=f22e264] [cursor=pointer]:
+              - /url: /en/blog/
+      - generic [ref=f22e265]:
+        - heading "Legal" [level=5] [ref=f22e266]
+        - list [ref=f22e267]:
+          - listitem [ref=f22e268]:
+            - link "Terms and Conditions" [ref=f22e269] [cursor=pointer]:
+              - /url: /en/terms_and_conditions/
+          - listitem [ref=f22e270]:
+            - link "Responsible Disclosure" [ref=f22e271] [cursor=pointer]:
+              - /url: /en/security/responsible_disclosure
+          - listitem [ref=f22e272]:
+            - link "Wave Digital Finance" [ref=f22e273] [cursor=pointer]:
+              - /url: /en/wdf/
+          - listitem [ref=f22e274]:
+            - link "Privacy Notice" [ref=f22e275] [cursor=pointer]:
+              - /url: /en/privacy/
+          - listitem [ref=f22e276]:
+            - link "Complaints Policy" [ref=f22e277] [cursor=pointer]:
+              - /url: /en/complaints-policy/
+      - generic [ref=f22e279]:
+        - link [ref=f22e280] [cursor=pointer]:
+          - /url: https://play.google.com/store/apps/details?id=com.wave.personal
+          - img "Get it on Google Play" [ref=f22e281]
+        - link [ref=f22e282] [cursor=pointer]:
+          - /url: https://itunes.apple.com/sn/app/wave-mobile-money/id1523884528
+          - img "Download on the App Store" [ref=f22e283]
