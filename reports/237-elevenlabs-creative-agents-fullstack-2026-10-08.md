@@ -131,3 +131,79 @@ LinkedIn: (1) headline "Full-stack / backend engineer · agents, async systems, 
 ## Keywords extracted
 
 full-stack, frontend, backend, agent architecture, creative agents, model orchestration, asynchronous workflows, audio/image/video generation, APIs, data models, cloud infrastructure, deployment, testing, observability, evaluations, MCP integrations, multimodal, end-to-end ownership, product judgement, prototyping, production operation
+
+---
+
+## G. Application Answers (draft 2026-10-08)
+
+## Answers for ElevenLabs — Full-stack Engineer - Creative Agents
+
+Based on: Report #237 | Score: 3.6/5 | Archetype: Full-Stack Engineer + Senior Backend
+
+Form read live via Playwright 2026-10-08 at `jobs.ashbyhq.com/elevenlabs/0b3a97d4-…/application`. Posting is **live**. The H1 reads "Full-stack Engineer - Creative Agents" (matches this report). Location "Remote", Full time, Engineering & Product. 14 fields in total. **No cover-letter field or upload**, so no cover letter was generated. No salary or currency question. No work-authorization or sponsorship question.
+
+---
+
+### Autofill from resume (optional upload)
+> Skip. Fill the fields by hand so the parser can't garble them.
+
+### 1. Name* (text)
+> Isaac Mubiru
+
+### 2. Email* (text)
+> isaacmubiru99@gmail.com
+
+### 3. Location* — "Country you're currently residing in" (type-ahead combobox)
+> Type `Uganda` and pick **Uganda** from the suggestions. If the list only offers cities, pick **Kampala, Uganda**.
+
+### 4. Resume* (upload)
+> `output/cv-isaac-elevenlabs-creative-agents-fullstack-2026-10-08.pdf`
+
+### 5. How did you hear about ElevenLabs?* (radio)
+Options: I'm a user · News article · Job board · Social media (LinkedIn, Instagram, X etc) · In person event · Referral · I was reached out to · Other (please specify)
+> **Job board** (found on your Ashby careers board)
+
+### 6. If other, please specify below (text, optional)
+> Leave blank.
+
+### 7. Link to your Github profile* (text)
+> https://github.com/zac-09
+
+### 8. Link to your LinkedIn profile* (text)
+> https://linkedin.com/in/isaac-mubiru-3bb728174
+
+### 9. Why ElevenLabs, and why now? (textarea, optional; answer it anyway)
+> Your posting describes the job I want: "engineers own complete problems across the full stack: frontend, backend, agent architecture and infrastructure." That is how I've worked for six years. At MTailor I led the zero-downtime migration of 20+ production apps from Parse/MongoDB to Firebase/GCP, reporting to the CTO, and I also shipped customer features on the same stack, including a 3D visualisation built with ffmpeg video overlay that increased buyer conversion.
+>
+> Why now: the creative agent is already live and the team is small. The hard part now is the system around the model: async generation jobs that can fail, retry and still finish, and media pipelines that stay fast and affordable. I've built that kind of plumbing (a Node.js + Pub/Sub sync that ran under live traffic for months), and I build with LLMs too: a WhatsApp assistant that uses OpenAI and Google Vision to read prescription photos, and an agentic job-search pipeline on Claude Code that I run daily.
+>
+> I'll be honest about the gap. I haven't built production agents with formal evals or MCP integrations yet. That's the part of this role I most want to learn, on a product people use every day. I work fully remote from Kampala (UTC+3), which covers the whole European working day.
+
+### 10. What's the most impactful thing you've built? What was your specific contribution? (textarea, optional; answer it)
+> The migration of MTailor's 20+ production applications from Parse/MongoDB to Firebase/GCP with zero downtime.
+>
+> I joined as an Upwork contractor to write the migration scripts. Within months I was full-time and leading the whole programme, reporting directly to the CTO. My part, end to end: I designed and built a real-time two-way sync between MongoDB and Firestore on Node.js and Google Pub/Sub, so both datastores could serve live traffic at the same time. I cut services over one by one, with a rollback option for every service for the whole migration window. I moved file storage from S3 to GCS with a Python script, moved everything else off AWS, wrote the Firebase SDK docs other engineers onboarded from, and trained the Ops team on the new dashboard and backups.
+>
+> Why it mattered: the company never had to take the product down, and leaving AWS cut $5,000 a month in infrastructure costs, permanently.
+
+### 11. How did you know it worked? What did success actually look like? (textarea, optional; answer it)
+> Three signals. First, users never noticed. All 20+ apps moved with zero outages, and both datastores served production traffic in parallel with no data loss. Second, the money: once the last service left AWS, the $5,000/month bill went away and stayed gone. Third, the handover held. Engineers onboarded to the new stack from the docs I wrote, and Ops ran backups without me.
+>
+> The leading indicator was the two-way sync. Because every service could still roll back, each cutover was a small, reversible step instead of a bet.
+
+### 12. Have you used ElevenLabs - even in a personal or side project? What did you build or explore? (textarea, optional)
+> **Needs your input. Don't send a made-up answer.** Two honest versions:
+>
+> **(a) If you have used it** (name exactly what you did): "Yes. I used [Text to Speech / the API / Studio] to [what you built or tried]. What stood out was [one concrete observation about latency, voice quality or the API]."
+>
+> **(b) If you haven't yet:** "Not in a project yet. Before an interview I'll build a small creative agent in TypeScript. It will call your TTS API through tool use, run long generations on an async job queue with retries, and include a basic eval check on the output. Then I can talk about your API from real use, not from the docs." Only write this if you will actually build it. Report #237 recommends this same artifact (gap mitigation #1).
+
+### Submit Application
+> Isaac reviews everything and clicks Submit himself.
+
+---
+
+Notes:
+- **Only apply to this req, not #236** (same Creative Agents team, posted the same day). See the report caveats.
+- Answers stay within cv.md, profile.yml and the story bank. TypeScript is not overstated (no TS claim in the answers). Agents/evals/MCP are named as a gap. No relational-database or testing-tool claims.
+- Uganda eligibility under ElevenLabs' EoR is still unconfirmed. Ask on the first call. If they ask about comp: target $80K–120K USD (profile.yml), floor $60K; use the "output-based, not location-based" line from _shared.md.

@@ -152,3 +152,128 @@ All nine already exist in `interview-prep/story-bank.md`; no new entries are nee
 ## Keywords extracted
 
 senior backend engineer, Elixir, Phoenix, Postgres, GitLab, CI/CD, AWS, Kubernetes, Docker, Next.js, React, agentic workflows, autonomous agents, automation, AI fluency, verification loops, evals, guardrails, secure reliable scalable, API design, HR and payroll, code review, mentoring, RFC, async
+
+---
+
+## G. Application Answers (draft 2026-10-08)
+
+## Answers for Remote — Senior Backend Engineer
+
+Based on: Report #235 | Score: 3.5/5 | Archetype: Senior Backend Engineer (agentic slant)
+
+Read live via Playwright 2026-10-08. Posting `apply.remote.com/jobs/74376551-…` is **live**: status chip "open", H1 "Senior Backend Engineer" (matches this report), sidebar "APAC, EMEA, LATAM, NORAM", band "US$53,300 to US$149,800" (unchanged since the evaluation). Clicking **Apply** opens a modal titled "Apply for Senior Backend Engineer" with 24 fields. **No cover-letter field or upload, and no salary question.** Optional comp and gap notes go in "Anything else we should know?".
+
+---
+
+### 1. Please add a resume or public LinkedIn profile to share details about your experience.* (file attach + "link or note" text box)
+> Attach: `output/cv-isaac-remote-com-senior-backend-2026-10-08.pdf`
+> Link box: https://linkedin.com/in/isaac-mubiru-3bb728174
+
+### 2. Do you have a portfolio or personal site? (text, optional)
+> https://github.com/zac-09
+
+### 3. What are your preferred first and last names?* (two text boxes)
+> First: Isaac · Last: Mubiru
+
+### 4. What pronouns should we use to refer to you? (radio, optional)
+Options: he/him · she/her · they/them · I do not want to answer this question
+> **he/him** (confirm, or choose "I do not want to answer this question")
+
+### 5. What email address should we use for your application? (text)
+> isaacmubiru99@gmail.com
+
+### 6. Which country are you currently based in?* (dropdown)
+> **Uganda** (exact option text, confirmed in the list)
+
+### 7. Which city are you based in? (text, optional)
+> Kampala
+
+### 8. Work eligibility … Are you legally eligible to work in the country where you're planning to work from?* (radio)
+Options: "Yes, I'm legally eligible to work in the country I'll be working from" · "No, I'm not"
+> **Yes, I'm legally eligible to work in the country I'll be working from** (he works from Uganda, where he lives; confirm Ugandan citizenship or residence rights)
+
+### 9. Will you require sponsorship if you join Remote?* (radio: Yes / No)
+> **No** (works remotely from Uganda; profile.yml: "No sponsorship needed for fully remote roles")
+
+### 10. Do you have a non-compete in place with your previous or current employer that prevents you from working for us?* (radio: Yes / No)
+> **No**, but ⚠️ **check your MTailor agreement first.** You are still employed there. Pick "No" only if nothing in that contract restricts you.
+
+### 11. What excites you about this role?* (textarea)
+> Two things.
+>
+> First, the agentic half of the job: "operationalize agentic workflows end-to-end (spec → plan → execute → verify)" with "verification loops (tests, checks, evals, guardrails)". I already work this way on a small scale. I run an agentic job-search pipeline on Claude Code, a fork of an open-source project that I've extended. It scans portals, confirms each posting is live in a headless browser, scores it against my CV and drafts tailored documents. The best lessons came from where it failed. It produced confident evaluations of closed or geo-locked jobs until I moved the verification gate in front of the model. I also made one thing a hard rule: the agent never submits anything; a human does. I'd like to do the same work for a whole engineering org, with real tests and evals, not for one person.
+>
+> Second, the product. I'm a backend engineer in Kampala and I've worked fully remote for teams in the US, Singapore and Uganda since 2020. "Anywhere in the World", async by default, and "we do not agree to or encourage cheap-labor practices" is the company I'd want to build for.
+
+### 12. Do you need any accommodation during the interview process? (textarea, optional)
+> Leave blank, or: "No, thank you."
+
+### 13. Anything else we should know? (textarea, optional)
+> I'd rather name my gaps up front. I haven't run Postgres in production. My production datastores have been MongoDB and Firestore, and the hardest data work I've done is keeping both consistent under live traffic during a 20+ app migration. I haven't owned a GitLab/GitHub CI pipeline as the named owner either. Before the async challenge I plan to build a small Phoenix + Ecto + Postgres API with a CI pipeline and tests, so you can see how I ramp up.
+>
+> On compensation: I'm targeting $80K–100K USD. I saw the band is geo-ranged. What is the range for this role for someone based in Uganda?
+
+> ⚠️ Keep the "plan to build" sentence only if you'll actually build the repo before the challenge. The comp paragraph is optional. If you'd rather raise pay on the recruiter call, delete it and use the script under "Before you submit".
+
+### 14. How did you hear about us?* (radio)
+Options: LinkedIn · A friend at Remote · Job board · Search engine · Other
+> **Job board** (found on Remote's own ATS board)
+
+### 15. BrightHire recording and auto-transcription consent* (radio: I consent / I don't consent; declining "will not affect your candidacy")
+> **I consent** (your choice; either is fine)
+
+### 16. Have you developed, maintained, and delivered production-ready backend code in a professional setting?* (radio)
+Options: "Yes, with Elixir" · "Yes, with other functional programming languages" · "No"
+> **Recommended: "No"**, then clarify at the start of Q17 (below). Both "Yes" options claim Elixir or a functional language, and your production backends are Node.js/JavaScript. ⚠️ **Your decision:** "No" may get auto-filtered, but either "Yes" would be a misstatement. The Q17 opener makes it clear you have six years of production backend work in a non-functional language.
+
+### 17. Our backend is built in Elixir. Could you share details about your experience with the language and your thoughts on it? If you don't have experience with Elixir, how would you approach learning it, and what do you find appealing about functional programming?* (textarea)
+> About the previous question: I picked "No" because none of my production backend code is in Elixir or a functional language. I've shipped production backends in Node.js since 2020. I haven't written Elixir in production.
+>
+> How I'd learn it: the same way I learned Firebase/GCP. I joined MTailor as a contractor on a stack I hadn't used in production, wrote the migration scripts, then wrote the SDK docs other engineers onboarded from, and ended up leading the 20+ app migration. For Elixir: your internal bootcamp, then small real tickets in your codebase as early as possible, with an agent pairing on syntax while I check the semantics myself. Before the challenge I'll build a small Phoenix + Ecto + Postgres API with tests to get the basics in place.
+>
+> What appeals to me: most of my hardest bugs came from shared mutable state and messages that arrive twice. My MongoDB↔Firestore sync on Pub/Sub only worked because every handler was idempotent and safe to redeliver, and the Kafka microservices I architected at CodeBits were message-passing between isolated services. The BEAM builds that model into the runtime: immutable data, isolated processes that talk by message, and supervisors that restart what crashes. Pattern matching makes the failure cases explicit in the code. I've been building that discipline by hand in Node, and I'd like a language where it's the default.
+
+### 18. Do you have experience dealing with non-technical conversations with other stakeholders (i.e. product)?* (radio: Yes / No)
+> **Yes**
+
+### 19. Can you share an example of a product or project you led through collaboration with stakeholders, product, and design? Tell us about it.* (textarea)
+> At CodeBits I led a team of four developers building legal-tech systems for two Ugandan NGOs: a case management system for FIDA Uganda and a paralegal database and mobile app for LASPNET. There was no product manager between us and the client, so that role was mine. I worked with the NGO staff to understand how cases and paralegals actually moved through their organisations, turned that into scope, and decided what to build first.
+>
+> The key product decision came from their users. Many of the people legal-aid providers serve don't have smartphones or data. So besides the web system and a React Native/Expo app for paralegals in the field, we built a USSD service that works on basic phones and talks to a Node.js backend over gRPC. I designed one contract that several USSD providers could integrate against without custom per-provider code. Behind it I architected an event-driven backend on Kafka, Docker and Kubernetes, and split the work so four people could build in parallel.
+>
+> Both systems shipped and ran in production. Looking back, the microservices were heavier than a four-person team needed. The user insight (meet people on the phones they have) mattered more than the architecture.
+
+### 20. Tell us about your proudest achievement from your last two years of work. Why are you proud of it?* (textarea)
+> ⚠️ **Choose based on dates.** The question limits it to Oct 2024 – Oct 2026. Use **A** if the MTailor migration or AWS exit was still running in that window. Otherwise use **B**.
+>
+> **A (MTailor):** Leading MTailor's move of 20+ production applications from Parse/MongoDB to Firebase/GCP with zero downtime, and then taking every service off AWS. I built the real-time two-way MongoDB↔Firestore sync on Node.js and Pub/Sub that let both datastores serve live traffic, cut services over one at a time with a rollback option for each, and reported directly to the CTO. Leaving AWS saves the company $5,000 a month. I'm proud of it because nobody outside engineering noticed: no outage, no maintenance window, no data loss. I'm also proud of the handover. I wrote the SDK docs and trained Ops, so the new platform didn't depend on me.
+>
+> **B (agentic pipeline):** Turning an agentic job-search pipeline into something I trust. It's a fork of an open-source Claude Code project that I've extended and run daily. It has produced 200+ evaluations. Early on, it wrote confident, well-formatted evaluations of jobs that were already closed or geo-locked, because it trusted aggregator metadata. I moved a live headless-browser check in front of the scoring model, made aggregator geo labels untrusted hints, and made the scorer quote the posting for every rating. False liveness and geo matches went away, and the expensive model only runs on verified input. I'm proud of it because it changed how I build with models: put the cheap deterministic check before the expensive probabilistic one, and keep a human on every irreversible step.
+
+### 21. Do you use AI coding assistants (Claude, Copilot, etc.) in your work? If yes: describe a specific scenario where you rejected or significantly rewrote the AI output. What did the AI miss, and how did you catch it? If no: …* (textarea)
+> Yes, every day. I mostly use Claude Code.
+>
+> One example: my job-search pipeline has a merge step that decides whether a new evaluation is the same company and role as an existing tracker row. In an AI-assisted session the agent wrote a fuzzy title match. It set the required number of shared words from the shorter title's length. The code was clean and the happy path worked. But "Backend Team Lead" and a different "Team Lead" role at the same company would collapse into one row on a single shared word ("Lead"), and one evaluation would silently overwrite the other.
+>
+> I caught it by building the counter-example instead of trusting the diff. I took two real titles from my tracker that were different jobs and walked them through the rule. I rejected the change and rewrote the rule: two shared words are required whenever either title is long enough to carry that much signal. I left a comment with the exact failing pair so nobody reintroduces it. After that, the two Team Lead evaluations landed as separate rows. Two weeks later I extended the same logic to tell apart postings from different ATS hosts.
+>
+> What the AI missed was semantics, not syntax. It optimised for "looks reasonable" rather than "what happens with real data". Plausible-but-too-permissive output is the hardest kind to catch, and the fix is to build the case that breaks it.
+
+> ⚠️ The story bank asks you to confirm the original matcher was an AI-assisted diff you reviewed (commit `8b6634d`, 2026-09-21; follow-up `98839fb`, 2026-10-08). If you wrote it by hand, reframe it as "a heuristic I shipped too loose and then tightened" and pick a different AI-rejection example.
+
+### 22. Before you apply, please review how Remote handles your data. Do you acknowledge the notice?* (radio)
+> **I acknowledge** (read the Privacy Notice expander first)
+
+### 23. Do you consent to us keeping your details on file so we can consider you for future roles? (radio: I consent / I don't consent)
+> **I consent** (recommended, since Remote hires globally on other teams too)
+
+### Submit application
+> Isaac reviews everything and clicks Submit himself.
+
+---
+
+Notes:
+- **Comp:** the band floor ($53.3K) is **below** your $60K minimum, and pay is geo-indexed. Recruiter-call script: "I'm targeting $80–100K USD. I understand the band is geo-ranged. What's the range for this role for someone based in Uganda?" If the Uganda range tops out below $60K, stop before the async challenge.
+- No claims of Elixir, Postgres, NestJS or production TypeScript. Agentic work is described as a personal fork of an open-source project, not employer production.
+- Q16/Q17: "No" plus the Q17 clarification is the honest combination. Expect the tailored non-Elixir version of the exercise.
+- If you won't build the Phoenix + Postgres repo before the challenge, remove the "plan to build" / "Before the challenge I'll build" sentences from Q13 and Q17.
