@@ -211,7 +211,7 @@ Options: "Yes, I'm legally eligible to work in the country I'll be working from"
 ### 13. Anything else we should know? (textarea, optional)
 > I'd rather name my gaps up front. I haven't run Postgres in production. My production datastores have been MongoDB and Firestore, and the hardest data work I've done is keeping both consistent under live traffic during a 20+ app migration. I haven't owned a GitLab/GitHub CI pipeline as the named owner either. Before the async challenge I plan to build a small Phoenix + Ecto + Postgres API with a CI pipeline and tests, so you can see how I ramp up.
 >
-> On compensation: I'm targeting $80K–100K USD. I saw the band is geo-ranged. What is the range for this role for someone based in Uganda?
+> On compensation: I'm targeting $80K–120K USD. I saw the band is geo-ranged. What is the range for this role for someone based in Uganda?
 
 > ⚠️ Keep the "plan to build" sentence only if you'll actually build the repo before the challenge. The comp paragraph is optional. If you'd rather raise pay on the recruiter call, delete it and use the script under "Before you submit".
 
@@ -255,7 +255,7 @@ Options: "Yes, with Elixir" · "Yes, with other functional programming languages
 >
 > One example: my job-search pipeline has a merge step that decides whether a new evaluation is the same company and role as an existing tracker row. In an AI-assisted session the agent wrote a fuzzy title match. It set the required number of shared words from the shorter title's length. The code was clean and the happy path worked. But "Backend Team Lead" and a different "Team Lead" role at the same company would collapse into one row on a single shared word ("Lead"), and one evaluation would silently overwrite the other.
 >
-> I caught it by building the counter-example instead of trusting the diff. I took two real titles from my tracker that were different jobs and walked them through the rule. I rejected the change and rewrote the rule: two shared words are required whenever either title is long enough to carry that much signal. I left a comment with the exact failing pair so nobody reintroduces it. After that, the two Team Lead evaluations landed as separate rows. Two weeks later I extended the same logic to tell apart postings from different ATS hosts.
+> I caught it by building the counter-example instead of trusting the diff. I took two real titles from my tracker that were different jobs and walked them through the rule. I rejected the change and rewrote the rule: two shared words are required whenever either title is long enough to carry that much signal. I left a comment with the exact failing pair so nobody reintroduces it. After that, the two Team Lead evaluations landed as separate rows.
 >
 > What the AI missed was semantics, not syntax. It optimised for "looks reasonable" rather than "what happens with real data". Plausible-but-too-permissive output is the hardest kind to catch, and the fix is to build the case that breaks it.
 
@@ -273,7 +273,7 @@ Options: "Yes, with Elixir" · "Yes, with other functional programming languages
 ---
 
 Notes:
-- **Comp:** the band floor ($53.3K) is **below** your $60K minimum, and pay is geo-indexed. Recruiter-call script: "I'm targeting $80–100K USD. I understand the band is geo-ranged. What's the range for this role for someone based in Uganda?" If the Uganda range tops out below $60K, stop before the async challenge.
+- **Comp:** the band floor ($53.3K) is **below** your $60K minimum, and pay is geo-indexed. Recruiter-call script: "I'm targeting $80–120K USD. I understand the band is geo-ranged. What's the range for this role for someone based in Uganda?" If the Uganda range tops out below $60K, stop before the async challenge.
 - No claims of Elixir, Postgres, NestJS or production TypeScript. Agentic work is described as a personal fork of an open-source project, not employer production.
 - Q16/Q17: "No" plus the Q17 clarification is the honest combination. Expect the tailored non-Elixir version of the exercise.
 - If you won't build the Phoenix + Postgres repo before the challenge, remove the "plan to build" / "Before the challenge I'll build" sentences from Q13 and Q17.
