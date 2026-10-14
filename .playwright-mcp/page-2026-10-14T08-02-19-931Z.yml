@@ -1,0 +1,67 @@
+- generic [ref=f10e2]:
+  - list [ref=f10e4]:
+    - listitem [ref=f10e5]:
+      - link [ref=f10e6] [cursor=pointer]:
+        - /url: https://toggl.com/
+        - img "TOGGL" [ref=f10e7]
+    - listitem
+    - listitem
+  - generic [ref=f10e8]:
+    - status [ref=f10e10]:
+      - text: Open Positions
+      - generic [ref=f10e11]: (1)
+    - generic [ref=f10e12]:
+      - generic [ref=f10e13]:
+        - generic [ref=f10e14]:
+          - generic [ref=f10e15]: "Filters:"
+          - button "Reset filters" [disabled]
+        - generic [ref=f10e16]:
+          - combobox "Department" [ref=f10e18]:
+            - option "All Departments"
+            - option "Engineering (1)"
+          - combobox "Employment" [ref=f10e20]:
+            - option "All Employment Types"
+            - option "Full time (1)"
+          - combobox "Location" [ref=f10e22]:
+            - option "All Locations"
+            - option "Croatia (1)"
+            - option "France (1)"
+            - option "Poland (1)"
+            - option "Portugal (1)"
+            - option "Serbia (1)"
+            - option "Spain (1)"
+          - combobox "Location Type" [ref=f10e24]:
+            - option "All Location Types"
+            - option "Remote (1)"
+        - status [ref=f10e25]: No filters applied
+      - generic [ref=f10e26]:
+        - heading "Engineering" [level=2] [ref=f10e27]
+        - link [ref=f10e30] [cursor=pointer]:
+          - /url: /toggl/a4f3e1f5-753b-4af9-b068-86a09a164cd2
+          - generic [ref=f10e31]:
+            - heading "Senior Full Stack Engineer" [level=3] [ref=f10e32]
+            - paragraph [ref=f10e34]: Engineering • Serbia; Croatia; France; Poland; Portugal; Spain • Full time • Remote
+      - generic [ref=f10e35]:
+        - heading [level=1] [ref=f10e36]:
+          - strong [ref=f10e37]: Before you apply...
+        - paragraph [ref=f10e38]:
+          - text: Please read the
+          - link "Toggl Careers Privacy Statement" [ref=f10e39] [cursor=pointer]:
+            - /url: https://toggl.com/legal/candidate-privacy/
+          - text: to learn more about how we handle your data as a job candidate.
+        - paragraph [ref=f10e40]
+        - paragraph [ref=f10e41]:
+          - strong [ref=f10e42]: "⚠️ Please note:"
+          - text: We've been alerted to instances of scammers impersonating Toggl and offering fake job positions. To stay safe, please know that all legitimate openings are listed here and we only accept applications through this page.
+  - contentinfo [ref=f10e43]:
+    - link "Learn more about Ashby" [ref=f10e44] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f10e45]: Powered by
+      - img "Ashby" [ref=f10e46]
+    - paragraph [ref=f10e52]:
+      - link "Privacy Policy" [ref=f10e53] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f10e54] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f10e55] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

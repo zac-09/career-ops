@@ -1,0 +1,506 @@
+- generic [active] [ref=f2e1]:
+  - generic [ref=f2e2]:
+    - banner:
+      - generic [ref=f2e3]:
+        - generic [ref=f2e5]:
+          - generic [ref=f2e6]: Already using Toggl Track or Toggl Plan?
+          - generic [ref=f2e7]: Both remain available and supported for existing users
+        - generic [ref=f2e8]:
+          - link [ref=f2e9] [cursor=pointer]:
+            - /url: https://accounts.toggl.com/track/login
+            - paragraph [ref=f2e11]: Login to Toggl Track
+          - link [ref=f2e12] [cursor=pointer]:
+            - /url: https://accounts.toggl.com/plan/login
+            - paragraph [ref=f2e14]: Login to Toggl Plan
+      - link "Skip to main content":
+        - /url: "#main"
+      - generic:
+        - generic [ref=f2e15]:
+          - link [ref=f2e16] [cursor=pointer]:
+            - /url: /
+          - navigation [ref=f2e23]:
+            - generic [ref=f2e24]:
+              - button "Products" [ref=f2e26] [cursor=pointer]
+              - button "Solutions" [ref=f2e32] [cursor=pointer]
+              - button "Resources" [ref=f2e38] [cursor=pointer]
+              - link "Enterprise" [ref=f2e44] [cursor=pointer]:
+                - /url: /enterprise
+              - link "Pricing" [ref=f2e47] [cursor=pointer]:
+                - /url: /pricing
+        - generic [ref=f2e49]:
+          - generic [ref=f2e50]:
+            - link [ref=f2e51] [cursor=pointer]:
+              - /url: /get-a-demo
+              - paragraph [ref=f2e52]: Book Demo
+            - link [ref=f2e53] [cursor=pointer]:
+              - /url: https://accounts.toggl.com/app/login/
+              - paragraph [ref=f2e54]: Login
+          - link [ref=f2e55] [cursor=pointer]:
+            - /url: https://accounts.toggl.com/app/signup/
+            - paragraph [ref=f2e57]: Try for free
+    - generic [ref=f2e61]:
+      - generic [ref=f2e62]:
+        - heading "Become a Toggler." [level=1] [ref=f2e63]
+        - paragraph [ref=f2e65]: Join our growing team to build the world's most-loved time tracker and capacity planning tool
+      - generic [ref=f2e66]:
+        - link [ref=f2e67] [cursor=pointer]:
+          - /url: "#positions"
+          - paragraph [ref=f2e69]: See job openings
+        - link [ref=f2e70] [cursor=pointer]:
+          - /url: /about-us
+          - paragraph [ref=f2e72]: About us
+    - generic [ref=f2e80]:
+      - generic [ref=f2e81]: Work life at Toggl
+      - generic [ref=f2e84]:
+        - generic [ref=f2e91]:
+          - generic [ref=f2e92]: Fully remote since 2014
+          - generic [ref=f2e93]: We believe in working from wherever you can do your best work. That looks different for everyone, which is why we have colleagues from all around the world.
+        - generic [ref=f2e100]:
+          - generic [ref=f2e101]: Driven by a purpose
+          - generic [ref=f2e102]: We're guided by a strong mission, a distinct vision, and shared values. Trust, our key value, shapes the company culture and direction.
+        - generic [ref=f2e109]:
+          - generic [ref=f2e110]: Work freedom
+          - generic [ref=f2e111]: It doesn't matter when you work or how long you work, as long as you get things done. We call this Results and Accountability First at Toggl, or RAFT™.
+        - generic [ref=f2e118]:
+          - generic [ref=f2e119]: Small but impactful
+          - generic [ref=f2e120]: Each Toggler has a significant impact on what their role entails, embracing accountability and ownership in their day-to-day.
+        - generic [ref=f2e127]:
+          - generic [ref=f2e128]: Challenging (the good kind)
+          - generic [ref=f2e129]: Our globally distributed and diverse team members are as talented as they are opinionated. You'll work together with the best people — each with their unique skillset and perspective — to tackle real problems.
+        - generic [ref=f2e136]:
+          - generic [ref=f2e137]: And... meetups!
+          - generic [ref=f2e138]: As a remote team, we know that virtual calls are not enough and face time is essential. We aim to meet up at least twice a year. And yes, all expenses are covered!
+    - generic [ref=f2e143]:
+      - generic [ref=f2e144]:
+        - heading "Check out our recent meetups" [level=2] [ref=f2e145]
+        - generic [ref=f2e146]:
+          - button "Previous slide" [disabled]
+          - button "Next slide" [ref=f2e147] [cursor=pointer]
+      - region "jobs_meets" [ref=f2e151]:
+        - generic [ref=f2e152]:
+          - group "1 of 9" [ref=f2e153]
+          - group "2 of 9" [ref=f2e156]
+          - group "3 of 9" [ref=f2e159]
+          - group [aria-hidden] [ref=f2e162]
+          - group [aria-hidden] [ref=f2e165]
+          - group [aria-hidden] [ref=f2e167]
+          - group [aria-hidden] [ref=f2e169]
+          - group [aria-hidden] [ref=f2e171]
+          - group [aria-hidden] [ref=f2e173]
+    - generic [ref=f2e179]:
+      - generic [ref=f2e180]:
+        - heading "Why Togglers love it here" [level=2] [ref=f2e181]
+        - generic [ref=f2e182]:
+          - button "Previous slide" [disabled]
+          - button "Next slide" [ref=f2e183] [cursor=pointer]
+      - region "jobs_togglers" [ref=f2e187]:
+        - generic [ref=f2e188]:
+          - group "1 of 7" [ref=f2e189]:
+            - generic [ref=f2e190]:
+              - paragraph [ref=f2e193]: “7 years and counting at Toggl. What keeps me here is the constant evolution of the company — it is not afraid of trying out new ideas and giving its team the opportunities to take ownership of them to grow professionally. The trust that Toggl puts in me keeps up my motivation to deliver results, even amidst the constant chaos that my life is when raising three little boys.”
+              - generic [ref=f2e194]:
+                - generic [ref=f2e195]:
+                  - generic [ref=f2e196]: Liisa
+                  - generic [ref=f2e197]: from
+                  - generic [ref=f2e198]: 🇪🇪
+                - generic [ref=f2e199]: Product Manager
+          - group "2 of 7" [ref=f2e200]:
+            - generic [ref=f2e201]:
+              - paragraph [ref=f2e204]: “For me, it's definitely the trust Toggl shows. I've always felt most productive in the afternoons and evenings. However, office hours are limited and it always felt stressful to force myself to focus in the mornings. Now that Toggl trusts me to manage my own time, I can choose to rest in the mornings and get in the zone in the afternoons. Professional-life equivalence of being treated like a grown up!”
+              - generic [ref=f2e205]:
+                - generic [ref=f2e206]:
+                  - generic [ref=f2e207]: Dorian
+                  - generic [ref=f2e208]: from
+                  - generic [ref=f2e209]: 🇵🇱
+                - generic [ref=f2e210]: Head of Legal
+          - group "3 of 7" [ref=f2e211]:
+            - generic [ref=f2e212]:
+              - paragraph [ref=f2e215]: “For me, it's definitely the trust Toggl shows. I've always felt most productive in the afternoons and evenings. However, office hours are limited and it always felt stressful to force myself to focus in the mornings. Now that Toggl trusts me to manage my own time, I can choose to rest in the mornings and get in the zone in the afternoons. Professional-life equivalence of being treated like a grown up!”
+              - generic [ref=f2e216]:
+                - generic [ref=f2e217]:
+                  - generic [ref=f2e218]: Sera
+                  - generic [ref=f2e219]: from
+                  - generic [ref=f2e220]: 🇹🇷
+                - generic [ref=f2e221]: Backend Developer
+          - group [aria-hidden] [ref=f2e222]:
+            - generic [ref=f2e223]:
+              - paragraph [ref=f2e226]: “Working for Toggl has given me a level of freedom and opportunity that was just not possible in my previous roles. I can work from where I'm most productive; be it from the couch, a local coffeeshop, or another state entirely! I also have the opportunity to learn and grow within my role, as well as receive encouragement to explore and perhaps even switch roles within the company.”
+              - generic [ref=f2e227]:
+                - generic [ref=f2e228]:
+                  - generic [ref=f2e229]: Jake
+                  - generic [ref=f2e230]: from
+                  - generic [ref=f2e231]: 🇺🇸
+                - generic [ref=f2e232]: Support Agent
+          - group [aria-hidden] [ref=f2e233]:
+            - generic [ref=f2e234]:
+              - paragraph [ref=f2e237]: "“The most common question I get from hiring candidates is: \"Vedran, what is your favorite part about working for Toggl\"? My answer is always the same: The people. Despite us working remotely, there's this (almost weird) connection that we share. It's legitimately hard to explain; You're excited when you know you'll see others from the company, either at meetups or at gatherings outside of work.”"
+              - generic [ref=f2e238]:
+                - generic [ref=f2e239]:
+                  - generic [ref=f2e240]: Vedran
+                  - generic [ref=f2e241]: from
+                  - generic [ref=f2e242]: 🇭🇷
+                - generic [ref=f2e243]: Head of Support
+          - group [aria-hidden] [ref=f2e244]:
+            - generic [ref=f2e245]:
+              - paragraph [ref=f2e248]: “What I've always appreciated is the team's ability to move quickly and launch projects without getting bogged down by the need for perfection. We may not always get it right the first time, but we always take the time to learn and improve. Even projects that were put on hold due to practicality are revisited as the team grows, which shows that no idea is ever truly shut down. It keeps things exciting.”
+              - generic [ref=f2e249]:
+                - generic [ref=f2e250]:
+                  - generic [ref=f2e251]: Olivia
+                  - generic [ref=f2e252]: from
+                  - generic [ref=f2e253]: 🇲🇾
+                - generic [ref=f2e254]: Marketing Developer
+          - group [aria-hidden] [ref=f2e255]:
+            - generic [ref=f2e256]:
+              - paragraph [ref=f2e259]: “Working at Toggl feels like you're working in a group rather than being a cog in a hardly oiled creaking enterprise of a machine. You are a human, and you are treated as such. You are trusted to do what's right — no snooping, no bickering, no stress. Live in the Bahamas, work in your pajamas, raise a thousand llamas, have all the fun as long as you get things done.”
+              - generic [ref=f2e260]:
+                - generic [ref=f2e261]:
+                  - generic [ref=f2e262]: Hazem
+                  - generic [ref=f2e263]: from
+                  - generic [ref=f2e264]: 🇪🇬
+                - generic [ref=f2e265]: Frontend Engineer
+    - heading "We're united by our shared commitment to autonomy and high-quality work. You'll be joining a team of smart, passionate colleagues who don't shy away from a challenge or sharing their thoughts. Sound like your jam? Come say hi!" [level=3] [ref=f2e271]
+    - generic [ref=f2e275]:
+      - generic [ref=f2e282]:
+        - generic [ref=f2e283]:
+          - heading "43" [level=3] [ref=f2e284]
+          - generic [ref=f2e285]: countries in 16 timezones
+        - generic [ref=f2e286]:
+          - heading "37" [level=3] [ref=f2e287]
+          - generic [ref=f2e288]: languages spoken
+      - generic [ref=f2e292]:
+        - generic [ref=f2e293]:
+          - heading "4.9" [level=3] [ref=f2e294]
+          - generic [ref=f2e295]: On glassdoor with 44 reviews
+        - generic [ref=f2e296]:
+          - heading "113" [level=3] [ref=f2e297]
+          - generic [ref=f2e298]: cats, dogs, chickens, and more!
+      - generic [ref=f2e302]:
+        - generic [ref=f2e303]: "Learn more about Toggl and stay updated on our activities:"
+        - generic [ref=f2e304]:
+          - link [ref=f2e305] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/toggl
+          - link [ref=f2e310] [cursor=pointer]:
+            - /url: "#"
+    - generic [ref=f2e318]:
+      - generic [ref=f2e319]:
+        - generic [ref=f2e320]: Perks & Benefits
+        - heading "We'll sweeten the deal" [level=2] [ref=f2e321]
+      - generic [ref=f2e322]:
+        - heading "Flexible paid time off" [level=3] [ref=f2e325]
+        - heading "Company and team meetups" [level=3] [ref=f2e328]
+        - heading "Paid parental leave" [level=3] [ref=f2e331]
+        - heading "Paid sabbatical" [level=3] [ref=f2e334]
+        - heading "Annual health and wellbeing budget" [level=3] [ref=f2e337]
+        - heading "Laptop of your choice" [level=3] [ref=f2e340]
+        - heading "Home office setup budget" [level=3] [ref=f2e343]
+        - heading "Coworking and internet allowance" [level=3] [ref=f2e346]
+        - heading "Annual professional development budget" [level=3] [ref=f2e349]
+        - heading "Regular pay reviews" [level=3] [ref=f2e352]
+    - generic [ref=f2e357]:
+      - generic [ref=f2e358]:
+        - generic [ref=f2e359]:
+          - heading "Our hiring process" [level=2] [ref=f2e360]
+          - paragraph [ref=f2e362]: There might be slight differences based on the position and seniority. For the most accurate information, please visit the individual job posting.
+        - generic [ref=f2e363]:
+          - generic [ref=f2e364]:
+            - paragraph [ref=f2e365]: “Toggl’s hiring process was the first time I have ever been encouraged to showcase me, not just a CV. The process was (nearly) as good as the reward — working with 100+ extremely talented humans every day 🙂”
+            - generic [ref=f2e367]:
+              - generic [ref=f2e368]: Kim Meier
+              - generic [ref=f2e369]: Marketing Copywriter
+          - generic [ref=f2e370]:
+            - paragraph [ref=f2e371]: “Toggl’s hiring process, particularly the Test Week, allowed me to ensure the company would be a good fit for me. During that time, I was able to meet the team and get a better grip on what kinds of tasks I would be expected to do in the role.”
+            - generic [ref=f2e373]:
+              - generic [ref=f2e374]: Rodrigo Souza
+              - generic [ref=f2e375]: Analytics Engineer
+      - generic [ref=f2e376]:
+        - generic [ref=f2e377]:
+          - generic [ref=f2e378]: "01"
+          - generic [ref=f2e380]:
+            - heading "Skills assessments" [level=3] [ref=f2e381]
+            - paragraph [ref=f2e382]: Depending on the position, this may include skill tests, video assessments, or home assignments. These help us look beyond resumes and give candidates a fairer chance to show their skills, thinking, and way of working.
+        - generic [ref=f2e384]:
+          - generic [ref=f2e385]: "02"
+          - generic [ref=f2e387]:
+            - heading "Cultural interview" [level=3] [ref=f2e388]
+            - paragraph [ref=f2e389]: A video call with Talent Acquisition for us to know you better and evaluate culture fit. You will also learn more about how we work.
+        - generic [ref=f2e391]:
+          - generic [ref=f2e392]: "03"
+          - generic [ref=f2e394]:
+            - heading "Technical interview" [level=3] [ref=f2e395]
+            - paragraph [ref=f2e396]: A call with the team lead to share more details about the team you’ll be working with while diving deeper into your technical background and experience.
+        - generic [ref=f2e398]:
+          - generic [ref=f2e399]: "04"
+          - generic [ref=f2e401]:
+            - heading "Paid test week" [level=3] [ref=f2e402]
+            - paragraph [ref=f2e403]: You will be paid to join us for 3-5 days. Here, you will have a chance to interact with your future team and work on tasks you would normally work on if hired.
+        - generic [ref=f2e405]:
+          - generic [ref=f2e406]: "05"
+          - generic [ref=f2e408]:
+            - heading "Offer" [level=3] [ref=f2e409]
+            - paragraph [ref=f2e410]: We make an offer to the candidate we feel will thrive with us and is the best addition for the team
+    - generic [ref=f2e416]:
+      - heading "Our current openings" [level=2] [ref=f2e418]
+      - iframe [ref=f2e420]:
+        - generic [ref=f5e2]:
+          - generic [ref=f5e3]:
+            - status [ref=f5e5]:
+              - text: Open Positions
+              - generic [ref=f5e6]: (1)
+            - generic [ref=f5e7]:
+              - generic [ref=f5e8]:
+                - generic [ref=f5e9]:
+                  - generic [ref=f5e10]: "Filters:"
+                  - button "Reset filters" [disabled]
+                - generic [ref=f5e11]:
+                  - combobox "Department" [ref=f5e13]:
+                    - option "All Departments"
+                    - option "Engineering (1)"
+                  - combobox "Employment" [ref=f5e15]:
+                    - option "All Employment Types"
+                    - option "Full time (1)"
+                  - combobox "Location" [ref=f5e17]:
+                    - option "All Locations"
+                    - option "Croatia (1)"
+                    - option "France (1)"
+                    - option "Poland (1)"
+                    - option "Portugal (1)"
+                    - option "Serbia (1)"
+                    - option "Spain (1)"
+                  - combobox "Location Type" [ref=f5e19]:
+                    - option "All Location Types"
+                    - option "Remote (1)"
+                - status [ref=f5e20]: No filters applied
+              - generic [ref=f5e21]:
+                - heading "Engineering" [level=2] [ref=f5e22]
+                - link [ref=f5e25] [cursor=pointer]:
+                  - /url: /toggl/a4f3e1f5-753b-4af9-b068-86a09a164cd2?embed=js
+                  - generic [ref=f5e26]:
+                    - heading "Senior Full Stack Engineer" [level=3] [ref=f5e27]
+                    - paragraph [ref=f5e29]: Engineering • Serbia; Croatia; France; Poland; Portugal; Spain • Full time • Remote
+              - generic [ref=f5e30]:
+                - heading [level=1] [ref=f5e31]:
+                  - strong [ref=f5e32]: Before you apply...
+                - paragraph [ref=f5e33]:
+                  - text: Please read the
+                  - link "Toggl Careers Privacy Statement" [ref=f5e34] [cursor=pointer]:
+                    - /url: https://toggl.com/legal/candidate-privacy/
+                  - text: to learn more about how we handle your data as a job candidate.
+                - paragraph [ref=f5e35]
+                - paragraph [ref=f5e36]:
+                  - strong [ref=f5e37]: "⚠️ Please note:"
+                  - text: We've been alerted to instances of scammers impersonating Toggl and offering fake job positions. To stay safe, please know that all legitimate openings are listed here and we only accept applications through this page.
+          - contentinfo [ref=f5e38]:
+            - link "Learn more about Ashby" [ref=f5e39] [cursor=pointer]:
+              - /url: https://www.ashbyhq.com
+              - generic [ref=f5e40]: Powered by
+              - img "Ashby" [ref=f5e41]
+    - generic [ref=f2e426]:
+      - generic [ref=f2e427]: Sign up for free!No credit card required
+      - generic [ref=f2e429]:
+        - link [ref=f2e430] [cursor=pointer]:
+          - /url: https://accounts.toggl.com/app/signup/
+          - paragraph [ref=f2e432]: Sign up with email
+        - generic [ref=f2e433]:
+          - paragraph [ref=f2e434]: "Or sign up with:"
+          - generic [ref=f2e435]:
+            - link "Google" [ref=f2e436] [cursor=pointer]:
+              - /url: https://accounts.toggl.com/app/login/google
+            - link "Apple" [ref=f2e439] [cursor=pointer]:
+              - /url: https://accounts.toggl.com/app/login/apple
+      - generic [ref=f2e442]: By signing up, you agree to our terms of service, privacy policy and to receiving marketing communication from Toggl. You can opt out anytime.
+    - contentinfo [ref=f2e445]:
+      - generic [ref=f2e448]:
+        - navigation "Footer navigation" [ref=f2e456]:
+          - generic [ref=f2e458]:
+            - paragraph [ref=f2e460]: Product
+            - list [ref=f2e461]:
+              - listitem [ref=f2e462]:
+                - link "Pricing" [ref=f2e463] [cursor=pointer]:
+                  - /url: /pricing
+              - listitem [ref=f2e464]:
+                - link "Case Studies" [ref=f2e465] [cursor=pointer]:
+                  - /url: /customers
+              - listitem [ref=f2e466]:
+                - link "Integrations" [ref=f2e467] [cursor=pointer]:
+                  - /url: /integrations
+              - listitem [ref=f2e468]:
+                - link "Enterprise" [ref=f2e469] [cursor=pointer]:
+                  - /url: /enterprise
+              - listitem [ref=f2e470]:
+                - link "Windows App" [ref=f2e471] [cursor=pointer]:
+                  - /url: /apps/desktop/windows
+              - listitem [ref=f2e472]:
+                - link "Mac App" [ref=f2e473] [cursor=pointer]:
+                  - /url: /apps/desktop/mac
+              - listitem [ref=f2e474]:
+                - link "Android App" [ref=f2e475] [cursor=pointer]:
+                  - /url: /apps/mobile/android
+              - listitem [ref=f2e476]:
+                - link "iOS App" [ref=f2e477] [cursor=pointer]:
+                  - /url: /apps/mobile/ios
+              - listitem [ref=f2e478]:
+                - link "Toggl AI" [ref=f2e479] [cursor=pointer]:
+                  - /url: /ai
+              - listitem [ref=f2e480]:
+                - link "Toggl vs Toggl Track" [ref=f2e481] [cursor=pointer]:
+                  - /url: /track-users-demo
+          - generic [ref=f2e482]:
+            - generic [ref=f2e483]:
+              - paragraph [ref=f2e485]: Use Cases
+              - list [ref=f2e486]:
+                - listitem [ref=f2e487]:
+                  - link "Time billing" [ref=f2e488] [cursor=pointer]:
+                    - /url: /use-cases/time-billing-software
+                - listitem [ref=f2e489]:
+                  - link "Employee time tracking" [ref=f2e490] [cursor=pointer]:
+                    - /url: /use-cases/employee-time-tracking
+                - listitem [ref=f2e491]:
+                  - link "Project time tracking" [ref=f2e492] [cursor=pointer]:
+                    - /url: /use-cases/project-time-tracking
+                - listitem [ref=f2e493]:
+                  - link "Payroll" [ref=f2e494] [cursor=pointer]:
+                    - /url: /use-cases/payroll-hours-tracker
+                - listitem [ref=f2e495]:
+                  - link "Capacity Planning" [ref=f2e496] [cursor=pointer]:
+                    - /url: /use-cases/capacity-planning
+                - listitem [ref=f2e497]:
+                  - link "Project Management" [ref=f2e498] [cursor=pointer]:
+                    - /url: /use-cases/project-management
+                - listitem [ref=f2e499]:
+                  - link "Task Management" [ref=f2e500] [cursor=pointer]:
+                    - /url: /use-cases/task-management
+                - listitem [ref=f2e501]:
+                  - link "Project Planning" [ref=f2e502] [cursor=pointer]:
+                    - /url: /use-cases/project-planning
+            - generic [ref=f2e503]:
+              - paragraph [ref=f2e505]: Toggl vs.
+              - list [ref=f2e506]:
+                - listitem [ref=f2e507]:
+                  - link "Clockify" [ref=f2e508] [cursor=pointer]:
+                    - /url: /compare/clockify-alternative
+                - listitem [ref=f2e509]:
+                  - link "Harvest" [ref=f2e510] [cursor=pointer]:
+                    - /url: /compare/harvest-alternative
+                - listitem [ref=f2e511]:
+                  - link "Hubstaff" [ref=f2e512] [cursor=pointer]:
+                    - /url: /compare/hubstaff-alternative
+                - listitem [ref=f2e513]:
+                  - link "Timely" [ref=f2e514] [cursor=pointer]:
+                    - /url: /compare/timely-alternative
+          - generic [ref=f2e516]:
+            - paragraph [ref=f2e518]: Features
+            - list [ref=f2e519]:
+              - listitem [ref=f2e520]:
+                - link "Automated time tracking" [ref=f2e521] [cursor=pointer]:
+                  - /url: /features/automated-time-tracker
+              - listitem [ref=f2e522]:
+                - link "Online work timer" [ref=f2e523] [cursor=pointer]:
+                  - /url: /features/work-timer
+              - listitem [ref=f2e524]:
+                - link "Timesheet reports" [ref=f2e525] [cursor=pointer]:
+                  - /url: /features/time-reporting
+              - listitem [ref=f2e526]:
+                - link "Calendar Planner" [ref=f2e527] [cursor=pointer]:
+                  - /url: /features/online-calendar-planner
+              - listitem [ref=f2e528]:
+                - link "Kanban Boards" [ref=f2e529] [cursor=pointer]:
+                  - /url: /features/kanban-board
+              - listitem [ref=f2e530]:
+                - link "Gantt Charts" [ref=f2e531] [cursor=pointer]:
+                  - /url: /features/online-gantt-chart
+              - listitem [ref=f2e532]:
+                - link "Time reporting and analytics" [ref=f2e533] [cursor=pointer]:
+                  - /url: /features/time-reporting
+              - listitem [ref=f2e534]:
+                - link "Time off management" [ref=f2e535] [cursor=pointer]:
+                  - /url: /features/time-off-management
+              - listitem
+              - listitem
+          - generic [ref=f2e537]:
+            - paragraph [ref=f2e539]: Help
+            - list [ref=f2e540]:
+              - listitem [ref=f2e541]:
+                - link "Support & Knowledge Base" [ref=f2e542] [cursor=pointer]:
+                  - /url: https://docs.toggl.com/
+              - listitem [ref=f2e543]:
+                - link "Toggl Community" [ref=f2e544] [cursor=pointer]:
+                  - /url: https://community.toggl.com/
+              - listitem [ref=f2e545]:
+                - link "Onboarding" [ref=f2e546] [cursor=pointer]:
+                  - /url: /onboarding
+              - listitem [ref=f2e547]:
+                - link "Talk to Sales" [ref=f2e548] [cursor=pointer]:
+                  - /url: /get-a-demo
+              - listitem [ref=f2e549]:
+                - link "Legal" [ref=f2e550] [cursor=pointer]:
+                  - /url: /legal
+              - listitem [ref=f2e551]:
+                - link "Status" [ref=f2e552] [cursor=pointer]:
+                  - /url: https://status.toggl.com
+          - generic [ref=f2e554]:
+            - paragraph [ref=f2e556]: Resources
+            - list [ref=f2e557]:
+              - listitem [ref=f2e558]:
+                - link "About Us" [ref=f2e559] [cursor=pointer]:
+                  - /url: /about-us
+              - listitem [ref=f2e560]:
+                - link "Blog" [ref=f2e561] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=f2e562]:
+                - link "Jobs" [ref=f2e563] [cursor=pointer]:
+                  - /url: /jobs
+              - listitem [ref=f2e564]:
+                - link "Anti-surveillance" [ref=f2e565] [cursor=pointer]:
+                  - /url: /anti-surveillance-statement
+              - listitem [ref=f2e566]:
+                - link "Timesheet Templates" [ref=f2e567] [cursor=pointer]:
+                  - /url: /templates/timesheet-templates
+              - listitem [ref=f2e568]:
+                - link "Time Card Calculator" [ref=f2e569] [cursor=pointer]:
+                  - /url: /online-tools/time-card-calculator
+              - listitem [ref=f2e570]:
+                - link "Online Timer" [ref=f2e571] [cursor=pointer]:
+                  - /url: /track/online-timer
+              - listitem [ref=f2e572]:
+                - link "ROI Calculator" [ref=f2e573] [cursor=pointer]:
+                  - /url: /online-tools/roi-calculator
+              - listitem [ref=f2e574]:
+                - link "Billable Hours Calculator" [ref=f2e575] [cursor=pointer]:
+                  - /url: /online-tools/billable-hours-calculator
+              - listitem [ref=f2e576]:
+                - link "Time Duration Calculator" [ref=f2e577] [cursor=pointer]:
+                  - /url: /online-tools/time-duration-calculator
+              - listitem [ref=f2e578]:
+                - link "Consulting Rate Calculator" [ref=f2e579] [cursor=pointer]:
+                  - /url: /online-tools/consulting-rate-calculator
+              - listitem [ref=f2e580]:
+                - link "Effective Hourly Rate Calculator" [ref=f2e581] [cursor=pointer]:
+                  - /url: /online-tools/effective-hourly-rate-calculator
+              - listitem [ref=f2e582]:
+                - link "Markup Calculator" [ref=f2e583] [cursor=pointer]:
+                  - /url: /online-tools/markup-calculator
+              - listitem [ref=f2e584]:
+                - link "Overtime Calculator" [ref=f2e585] [cursor=pointer]:
+                  - /url: /online-tools/overtime-calculator
+        - generic [ref=f2e586]:
+          - generic [ref=f2e587]:
+            - paragraph [ref=f2e588]: © 2026 Toggl
+            - generic [ref=f2e589]:
+              - link "Legal Center" [ref=f2e590] [cursor=pointer]:
+                - /url: /legal
+              - generic [ref=f2e591]: "|"
+              - link "Status" [ref=f2e592] [cursor=pointer]:
+                - /url: https://status.toggl.com/
+          - generic [ref=f2e593]:
+            - link "Visit Toggl's LinkedIn profile" [ref=f2e594] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/toggl
+            - link "Visit Toggl's X (Twitter) profile" [ref=f2e598] [cursor=pointer]:
+              - /url: https://x.com/toggl
+            - link "Visit Toggl's YouTube profile" [ref=f2e602] [cursor=pointer]:
+              - /url: https://www.youtube.com/@toggl
+            - link "Visit Toggl's Facebook profile" [ref=f2e607] [cursor=pointer]:
+              - /url: https://www.facebook.com/Toggl
+            - link "Visit Toggl's GitHub profile" [ref=f2e610] [cursor=pointer]:
+              - /url: https://github.com/toggl
+  - iframe [aria-hidden] [ref=f2e614]
+  - iframe
