@@ -438,6 +438,7 @@ tracked_companies:
 
   - name: Attio
     careers_url: https://jobs.ashbyhq.com/attio
+    api: https://api.ashbyhq.com/posting-api/job-board/attio  # 2026-10-14: verified JSON endpoint (scan sweep)
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/attio'
     notes: 'Remote EU. AI-native CRM. Series B $52M. TypeScript-heavy.'
@@ -461,6 +462,7 @@ tracked_companies:
 
   - name: Secureframe
     careers_url: https://jobs.lever.co/secureframe
+    api: https://api.lever.co/v0/postings/secureframe?mode=json  # 2026-10-14: verified JSON endpoint (scan sweep)
     scan_method: websearch
     scan_query: 'site:jobs.lever.co/secureframe "engineer" OR "backend" OR "software"'
     notes: 'Remote. Compliance automation SaaS. Migrated from Greenhouse to Lever (2026-04 verified). 2026-07-31: Lever board is 15 sales/GTM roles, all US onsite — zero engineering reqs.'
@@ -468,6 +470,7 @@ tracked_companies:
 
   - name: WunderGraph
     careers_url: https://jobs.ashbyhq.com/wundergraph
+    api: https://api.ashbyhq.com/posting-api/job-board/wundergraph  # 2026-10-14: verified JSON endpoint (scan sweep)
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/wundergraph OR "wundergraph" careers "engineer"'
     notes: 'Remote. API federation / GraphQL platform. TypeScript core.'
@@ -475,6 +478,7 @@ tracked_companies:
 
   - name: ElevenLabs
     careers_url: https://jobs.ashbyhq.com/elevenlabs
+    api: https://api.ashbyhq.com/posting-api/job-board/elevenlabs  # 2026-10-14: verified JSON endpoint (scan sweep)
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/elevenlabs "backend" OR "engineer" OR "software"'
     notes: 'Voice AI. Strong backend infra needs. Remote-friendly.'
@@ -574,6 +578,7 @@ tracked_companies:
 
   - name: Notion
     careers_url: https://jobs.ashbyhq.com/notion
+    api: https://api.ashbyhq.com/posting-api/job-board/notion  # 2026-10-14: verified JSON endpoint (scan sweep)
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/notion "engineer" OR "backend" OR "software"'
     notes: 'SF anchor days (M/Tu/Th in office). TypeScript/Node.js. Migrated from Greenhouse to Ashby (2026-04 verified).'
@@ -604,6 +609,7 @@ tracked_companies:
 
   - name: n8n
     careers_url: https://jobs.ashbyhq.com/n8n
+    api: https://api.ashbyhq.com/posting-api/job-board/n8n  # 2026-10-14: verified JSON endpoint (scan sweep)
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/n8n "backend" OR "engineer" OR "software"'
     notes: 'Berlin + remote. Workflow automation. Node.js-first codebase.'
@@ -636,6 +642,7 @@ tracked_companies:
 
   - name: Holepunch
     careers_url: https://holepunch.recruitee.com
+    api: https://holepunch.recruitee.com/api/offers/  # 2026-10-14: verified JSON endpoint (scan sweep)
     scan_method: websearch
     scan_query: 'site:holepunch.recruitee.com "engineer" OR "node" OR "backend"'
     notes: 'P2P platform behind Keet/Hypercore. Explicit "100% Remote, Worldwide" — globally-remote friendly.'
@@ -659,6 +666,7 @@ tracked_companies:
 
   - name: Checkly
     careers_url: https://jobs.ashbyhq.com/checkly
+    api: https://api.ashbyhq.com/posting-api/job-board/checkly  # 2026-10-14: verified JSON endpoint (scan sweep)
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/checkly "engineer" OR "backend" OR "infrastructure"'
     notes: 'Explicit "Remote, UTC-3 to UTC+3" — Uganda (UTC+3) at the edge of the band, qualifies. Monitoring platform for developers. 2026-07-02: board still Talent Community only, no open roles. 2026-07-20: board has only Sales Engineer roles — no eng openings.'
@@ -672,6 +680,7 @@ tracked_companies:
 
   - name: Zapier
     careers_url: https://jobs.ashbyhq.com/zapier
+    api: https://api.ashbyhq.com/posting-api/job-board/zapier  # 2026-10-14: verified JSON endpoint (scan sweep)
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/zapier "engineer" OR "backend" OR "platform"'
     notes: 'Fully remote-first globally. Strong Node.js/TypeScript automation platform. 2026-07-20: Ashby board has NO engineering IC roles (sales/marketing/eng-director only) — watch for reposts.'
@@ -820,6 +829,7 @@ tracked_companies:
 
   - name: Yassir
     careers_url: https://jobs.lever.co/Yassir
+    api: https://api.lever.co/v0/postings/Yassir?mode=json  # 2026-10-14: verified JSON endpoint (scan sweep)
     scan_method: websearch
     scan_query: 'site:jobs.lever.co/Yassir "Backend" OR "Node" OR "Full Stack"'
     notes: 'Lever. African super-app (ride/delivery/fintech). Senior/Staff Node roles list Kampala, Uganda + Nairobi/Lagos/Cape Town + Remote. Heavy Node/NestJS/Go. Verified live 2026-06-11. WARNING: many roles Algiers-hybrid — check location list per role. 2026-07-02: Lever API shows only Algiers-hybrid eng roles — remote-Africa Node postings gone; re-verify #135/#137 before applying. 2026-07-31: all Node/backend reqs hybrid Algiers/Cairo (one remote req country-tagged EG) — still no Uganda-eligible roles.'
@@ -839,6 +849,7 @@ tracked_companies:
 
   - name: Sticker Mule
     careers_url: https://jobs.ashbyhq.com/stickermule
+    api: https://api.ashbyhq.com/posting-api/job-board/stickermule  # 2026-10-14: verified JSON endpoint (scan sweep)
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/stickermule "engineer" OR "software"'
     notes: 'Ashby. "Fully remote from 40+ countries" (country list unpublished — confirm Uganda at apply). TS/Go/React/GraphQL/Postgres on GCP. $150K-250K + $20k signing. Verified live 2026-06-11.'
@@ -886,6 +897,7 @@ tracked_companies:
 
   - name: M-KOPA
     careers_url: https://jobs.ashbyhq.com/M-KOPA
+    api: https://api.ashbyhq.com/posting-api/job-board/M-KOPA  # 2026-10-14: verified JSON endpoint (scan sweep)
     scan_method: websearch
     scan_query: 'site:jobs.lever.co/m-kopa OR site:jobs.ashbyhq.com/M-KOPA "engineer" OR "backend"'
     notes: 'East-African fintech (operates in Uganda). "Fully remote within UTC-1 to UTC+3." C#/.NET primary (stack mismatch) — track for platform/infra roles only. Postings split across Lever and Ashby. 2026-07-02: Lever API 404 — board likely fully moved to Ashby (jobs.ashbyhq.com/M-KOPA); update careers_url next scan. 2026-07-20: Ashby board has zero engineering roles (telesales/sales only). 2026-07-31: NEW Software Engineering Team Lead req (Remote — Nairobi/Kampala/Lagos/Accra/CPT/JHB) added to pipeline; UK/EU sibling skipped. 2026-10-01: NEW Senior Backend Engineer - Asset Sales (Ashby 0c0fdef0) — Remote, Nairobi/Kampala/Lagos/Accra/CPT/JHB, GMT core hours; C#/.NET + Azure Service Bus + K8s (stack warning) — pipelined for evaluation; London sibling (5fc27a56) skipped_geo.'
