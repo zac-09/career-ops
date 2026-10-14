@@ -1,0 +1,1 @@
+249	2026-10-14	Supabase	Platform Engineer, Managed Postgres	Evaluated	2.9/5	❌	[242](reports/242-supabase-managed-postgres-2026-10-14.md)	SKIP weak match: Remote Global, soft TS/Go bar, Postgres only nice-to-have; blocked by IaC + SLO/on-call/observability + implicit Postgres domain
