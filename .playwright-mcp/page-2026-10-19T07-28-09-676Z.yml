@@ -1,0 +1,270 @@
+- generic [active] [ref=f14e1]:
+  - generic [ref=f14e2]:
+    - link "Builder's Day Prisma's AI developer conference · October 26 · San Francisco Get tickets" [ref=f14e3] [cursor=pointer]:
+      - /url: https://pris.ly/builders-day
+      - generic [ref=f14e4]:
+        - generic [ref=f14e5]: Builder's Day
+        - generic [ref=f14e6]: Prisma's AI developer conference · October 26 · San Francisco
+        - generic [ref=f14e7]: Get tickets
+    - button "Dismiss banner" [ref=f14e10] [cursor=pointer]
+  - banner:
+    - generic [ref=f14e13]:
+      - link [ref=f14e15] [cursor=pointer]:
+        - /url: /
+        - img "Prisma" [ref=f14e16]
+      - navigation [ref=f14e17]:
+        - navigation "Main" [ref=f14e18]:
+          - list [ref=f14e20]:
+            - listitem [ref=f14e21]:
+              - button "Platform" [ref=f14e22] [cursor=pointer]
+        - link "Pricing" [ref=f14e25] [cursor=pointer]:
+          - /url: /pricing
+        - link "Customers" [ref=f14e26] [cursor=pointer]:
+          - /url: /customers
+        - link "Docs" [ref=f14e27] [cursor=pointer]:
+          - /url: /docs
+        - link "Blog" [ref=f14e28] [cursor=pointer]:
+          - /url: /blog
+      - generic [ref=f14e29]:
+        - button "Search Prisma" [ref=f14e30] [cursor=pointer]
+        - link "Log in" [ref=f14e34] [cursor=pointer]:
+          - /url: https://console.prisma.io/login
+        - link "Get Started" [ref=f14e35] [cursor=pointer]:
+          - /url: https://console.prisma.io/sign-up
+  - main [ref=f14e36]:
+    - generic [ref=f14e40]:
+      - paragraph [ref=f14e41]: Careers
+      - heading "Join Prisma" [level=1] [ref=f14e43]
+      - paragraph [ref=f14e44]: Help us empower developers to build data-driven applications.
+      - link "View open positions" [ref=f14e50] [cursor=pointer]:
+        - /url: "#open-positions"
+      - generic [ref=f14e52]:
+        - generic [ref=f14e53]:
+          - definition [ref=f14e54]: "45"
+          - term [ref=f14e55]: Team members
+        - generic [ref=f14e56]:
+          - definition [ref=f14e57]: "16"
+          - term [ref=f14e58]: Countries
+        - generic [ref=f14e59]:
+          - definition [ref=f14e60]: 100%
+          - term [ref=f14e61]: Remote
+    - generic [ref=f14e63]:
+      - img "A large group of Prisma team members gathered on a beach during a company retreat" [ref=f14e65]
+      - img "A Prisma team member presenting at a conference in front of a Prisma banner" [ref=f14e67]
+      - img "Prisma team members posing in front of illuminated PRISMA lettering" [ref=f14e69]
+      - img "Large Prisma team group photo with a mountain backdrop" [ref=f14e71]
+      - img "Prisma team members smiling and engaged during an indoor workshop" [ref=f14e73]
+      - img "Three Prisma team members receiving a Values Award at a company event" [ref=f14e75]
+    - generic [ref=f14e77]:
+      - heading "Why Prisma?" [level=2] [ref=f14e78]
+      - generic [ref=f14e79]:
+        - generic [ref=f14e80]:
+          - heading "Solve challenging technical problems" [level=3] [ref=f14e81]
+          - paragraph [ref=f14e82]: Prisma is building the data access layer for modern applications. If you're drawn to the technology powering large companies but want the challenges and freedom of a startup, consider joining us.
+        - generic [ref=f14e83]:
+          - heading "Flexible work environment" [level=3] [ref=f14e84]
+          - paragraph [ref=f14e85]: We offer flexible working hours and generous paid time off to accommodate different lifestyles and responsibilities. As long as it suits your team, you build your work schedule around your life.
+        - generic [ref=f14e86]:
+          - heading "Flexible remote organization" [level=3] [ref=f14e87]
+          - paragraph [ref=f14e88]: Our team is globally distributed and everyone can work from any location within UTC-5 to UTC+3. We want you to choose wherever you are happiest and most productive.
+      - generic [ref=f14e89]:
+        - paragraph [ref=f14e90]: Our values
+        - list [ref=f14e91]:
+          - listitem [ref=f14e92]:
+            - generic [ref=f14e93]: Transparency
+          - listitem [ref=f14e95]:
+            - generic [ref=f14e96]: Curiosity
+          - listitem [ref=f14e98]:
+            - generic [ref=f14e99]: Solidarity
+          - listitem [ref=f14e101]:
+            - generic [ref=f14e102]: Accountability
+    - generic [ref=f14e104]:
+      - heading "Benefits" [level=2] [ref=f14e105]
+      - list [ref=f14e106]:
+        - listitem [ref=f14e107]:
+          - paragraph [ref=f14e109]:
+            - strong [ref=f14e110]: Stock options package
+            - text: with a maximum exercise period of 10 years after grant
+        - listitem [ref=f14e111]:
+          - paragraph [ref=f14e113]:
+            - strong [ref=f14e114]: Generous recurring tech budget
+            - text: and subsidy for an ergonomic chair
+        - listitem [ref=f14e115]:
+          - paragraph [ref=f14e117]:
+            - strong [ref=f14e118]: 24 vacation days
+            - text: per year in addition to sick leave and public holidays
+        - listitem [ref=f14e119]:
+          - paragraph [ref=f14e121]:
+            - strong [ref=f14e122]: 20 weeks paid parental leave
+            - text: and 10 days paid time off per year in the event of the sickness of your child
+        - listitem [ref=f14e123]:
+          - paragraph [ref=f14e125]:
+            - strong [ref=f14e126]: 4 mental health days
+            - text: per year
+        - listitem [ref=f14e127]:
+          - paragraph [ref=f14e129]:
+            - strong [ref=f14e130]: 6-week paid sabbatical leave
+            - text: after three years
+        - listitem [ref=f14e131]:
+          - paragraph [ref=f14e133]:
+            - strong [ref=f14e134]: Co-working spaces
+            - text: accessible in your area
+        - listitem [ref=f14e135]:
+          - paragraph [ref=f14e137]:
+            - strong [ref=f14e138]: Dedicated People and Operations team
+            - text: supporting the whole company
+        - listitem [ref=f14e139]:
+          - paragraph [ref=f14e141]:
+            - strong [ref=f14e142]: Two company offsites
+            - text: each year
+        - listitem [ref=f14e143]:
+          - paragraph [ref=f14e145]:
+            - strong [ref=f14e146]: "US: 401K matching"
+            - text: as well as medical, dental, and vision cover
+    - generic [ref=f14e148]:
+      - heading "Open roles" [level=2] [ref=f14e149]
+      - generic [ref=f14e150]:
+        - generic [ref=f14e151]:
+          - paragraph [ref=f14e152]: Engineering
+          - list [ref=f14e153]:
+            - listitem [ref=f14e154]:
+              - 'link "Remote General Applications: Engineering View job listing" [ref=f14e155] [cursor=pointer]':
+                - /url: https://ats.rippling.com/prisma-careers/jobs/0fbcec57-3012-4271-96bf-12b145cf6dea
+                - generic [ref=f14e156]:
+                  - generic [ref=f14e157]: Remote
+                  - generic [ref=f14e158]: "General Applications: Engineering"
+                - generic [ref=f14e159]: View job listing
+        - generic [ref=f14e162]:
+          - paragraph [ref=f14e163]: Product
+          - list [ref=f14e164]:
+            - listitem [ref=f14e165]:
+              - 'link "Remote General Applications: Product View job listing" [ref=f14e166] [cursor=pointer]':
+                - /url: https://ats.rippling.com/prisma-careers/jobs/f055f01a-81c0-4d92-bbe1-6d6e7a8112df
+                - generic [ref=f14e167]:
+                  - generic [ref=f14e168]: Remote
+                  - generic [ref=f14e169]: "General Applications: Product"
+                - generic [ref=f14e170]: View job listing
+  - contentinfo [ref=f14e173]:
+    - generic [ref=f14e175]:
+      - generic [ref=f14e176]:
+        - img "Prisma" [ref=f14e177]
+        - generic [ref=f14e178]:
+          - link "hello@prisma.io" [ref=f14e179] [cursor=pointer]:
+            - /url: mailto:hello@prisma.io
+          - link "Make us preferred on Google (opens Google search preferences)" [ref=f14e182] [cursor=pointer]:
+            - /url: https://www.google.com/preferences/source?q=prisma.io
+            - generic [ref=f14e188]: Make us preferred on Google
+        - paragraph [ref=f14e189]: © 2026 Prisma. All rights reserved.
+      - generic [ref=f14e190]:
+        - generic [ref=f14e191]:
+          - heading "Product" [level=3] [ref=f14e192]
+          - list [ref=f14e193]:
+            - listitem [ref=f14e194]:
+              - link "Postgres" [ref=f14e195] [cursor=pointer]:
+                - /url: /postgres
+            - listitem [ref=f14e196]:
+              - link "Compute" [ref=f14e197] [cursor=pointer]:
+                - /url: /compute
+            - listitem [ref=f14e198]:
+              - link "ORM" [ref=f14e199] [cursor=pointer]:
+                - /url: /orm
+            - listitem [ref=f14e200]:
+              - link "Stack" [ref=f14e201] [cursor=pointer]:
+                - /url: /stack
+            - listitem [ref=f14e202]:
+              - link "Pricing" [ref=f14e203] [cursor=pointer]:
+                - /url: /pricing
+            - listitem [ref=f14e204]:
+              - link "Changelog" [ref=f14e205] [cursor=pointer]:
+                - /url: /changelog
+        - generic [ref=f14e206]:
+          - heading "Company" [level=3] [ref=f14e207]
+          - list [ref=f14e208]:
+            - listitem [ref=f14e209]:
+              - link "About" [ref=f14e210] [cursor=pointer]:
+                - /url: /company
+            - listitem [ref=f14e211]:
+              - link "Careers" [ref=f14e212] [cursor=pointer]:
+                - /url: /company/careers
+            - listitem [ref=f14e213]:
+              - link "Blog" [ref=f14e214] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f14e215]:
+              - link "Customers" [ref=f14e216] [cursor=pointer]:
+                - /url: /customers
+            - listitem [ref=f14e217]:
+              - link "Programs" [ref=f14e218] [cursor=pointer]:
+                - /url: /programs
+        - generic [ref=f14e219]:
+          - heading "Resources" [level=3] [ref=f14e220]
+          - list [ref=f14e221]:
+            - listitem [ref=f14e222]:
+              - link "Docs" [ref=f14e223] [cursor=pointer]:
+                - /url: /docs
+            - listitem [ref=f14e224]:
+              - link "Postgres guides" [ref=f14e225] [cursor=pointer]:
+                - /url: /postgres/guides
+            - listitem [ref=f14e226]:
+              - link "Compute guides" [ref=f14e227] [cursor=pointer]:
+                - /url: /compute/guides
+            - listitem [ref=f14e228]:
+              - link "Apps" [ref=f14e229] [cursor=pointer]:
+                - /url: /apps
+            - listitem [ref=f14e230]:
+              - link "Compare" [ref=f14e231] [cursor=pointer]:
+                - /url: /compare
+            - listitem [ref=f14e232]:
+              - link "Extensions" [ref=f14e233] [cursor=pointer]:
+                - /url: /extensions
+            - listitem [ref=f14e234]:
+              - link "Data Guide" [ref=f14e235] [cursor=pointer]:
+                - /url: https://www.prisma.io/dataguide
+            - listitem [ref=f14e236]:
+              - link "Support" [ref=f14e237] [cursor=pointer]:
+                - /url: /support
+            - listitem [ref=f14e238]:
+              - link "Community" [ref=f14e239] [cursor=pointer]:
+                - /url: /community
+        - generic [ref=f14e240]:
+          - heading "Legal & Trust" [level=3] [ref=f14e241]
+          - list [ref=f14e242]:
+            - listitem [ref=f14e243]:
+              - link "All Legal Documents" [ref=f14e244] [cursor=pointer]:
+                - /url: /legal
+            - listitem [ref=f14e245]:
+              - link "DPA" [ref=f14e246] [cursor=pointer]:
+                - /url: /legal/dpa
+            - listitem [ref=f14e247]:
+              - link "Security & Compliance" [ref=f14e248] [cursor=pointer]:
+                - /url: /legal/security-and-compliance
+            - listitem [ref=f14e249]:
+              - link "SLA" [ref=f14e250] [cursor=pointer]:
+                - /url: /legal/sla
+            - listitem [ref=f14e251]:
+              - link "Status" [ref=f14e252] [cursor=pointer]:
+                - /url: https://www.prisma-status.com
+            - listitem [ref=f14e253]:
+              - link "Terms of Service" [ref=f14e254] [cursor=pointer]:
+                - /url: /legal/terms
+            - listitem [ref=f14e255]:
+              - link "Trust Center" [ref=f14e256] [cursor=pointer]:
+                - /url: https://trust.prisma.io/
+        - generic [ref=f14e257]:
+          - heading "Social Media" [level=3] [ref=f14e258]
+          - list [ref=f14e259]:
+            - listitem [ref=f14e260]:
+              - link "Twitter" [ref=f14e261] [cursor=pointer]:
+                - /url: https://twitter.com/prisma
+            - listitem [ref=f14e264]:
+              - link "LinkedIn" [ref=f14e265] [cursor=pointer]:
+                - /url: https://linkedin.com/company/prisma-io
+            - listitem [ref=f14e268]:
+              - link "GitHub" [ref=f14e269] [cursor=pointer]:
+                - /url: https://github.com/prisma
+            - listitem [ref=f14e272]:
+              - link "YouTube" [ref=f14e273] [cursor=pointer]:
+                - /url: https://www.youtube.com/prismadata
+            - listitem [ref=f14e276]:
+              - link "Bluesky" [ref=f14e277] [cursor=pointer]:
+                - /url: https://bsky.app/profile/prisma.io
+  - alert [ref=f14e280]
