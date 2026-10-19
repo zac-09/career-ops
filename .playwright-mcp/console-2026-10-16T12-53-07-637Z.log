@@ -1,0 +1,3 @@
+[    4694ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://radweb-tele2.com:82/view.html?s=CGQZNjPOsQ43sugV:0
+[    5671ms] [LOG] OS-Windows Version 3.9-2025.11.26 Web 3.7.15 WebGL2 @ https://radweb-tele2.com:82/scripts/main.js?ae5ac62ad7696b0dafc7:1
+[    7424ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://radweb-tele2.com:82/view.html?s=CGQZNjPOsQ43sugV&autostart&notoolbar:0
