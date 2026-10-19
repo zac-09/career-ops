@@ -155,6 +155,40 @@ Sources: [GiveDirectly SSE (Built In)](https://www.builtinnyc.com/job/senior-sof
 
 **Values question prep (likely on the Greenhouse form):** GiveDirectly's values are opinionated, and the form or behavioral round will probe them. Map: "Recipients first" → USSD design; "Accept reality. Propose solutions" → leaving AWS for cost; "Think rigorously; act quickly" → the reversible per-app cutover; "Be proactively candid" → naming the typed-language gap first.
 
+## G) Draft Application Answers
+
+Drafted 2026-10-19 from the live Greenhouse form. Review and edit before submitting. Every fact comes from cv.md or the story bank.
+
+**1. What specifically about this role, or GiveDirectly's mission, makes it a fit for you right now? (200 words max)**
+
+> I live in Kampala, and the people GiveDirectly sends money to are not abstract users to me. Before my recent remote roles, I led a team of four at CodeBits building tools for Ugandan NGOs: a case management system for FIDA Uganda, a paralegal database and mobile app for LASPNET, and a USSD service so legal-aid providers on feature phones could reach a Node.js backend. That work taught me that software for low-income users lives or dies on unreliable networks, basic phones, and field staff who need it to just work.
+>
+> Since then I have spent four years at MTailor owning backend systems end to end. I led the zero-downtime migration of 20+ applications from Parse/MongoDB to Firebase/GCP, reporting directly to the CTO, with a two-way sync keeping both databases live during cutover.
+>
+> GiveDirectly is building a new stack for a roughly 10x change in scale while real money keeps moving. That is the kind of migration I know how to run without dropping anything, and it would be on behalf of people in the region where I live. I want my next few years of work to count for that.
+
+**2. Tell us about a technical tool or approach you introduced or strongly supported in a past role. Why did you choose it, and what impact did it have?**
+
+> At MTailor I pushed for a two-way, real-time sync between MongoDB and Firestore instead of a one-shot data migration. We had 20+ production applications on Parse/MongoDB with live customer traffic, and a "big bang" cutover would have meant freezing writes and betting everything on one weekend.
+>
+> I built the sync in Node.js on Google Pub/Sub, so both databases stayed current while we moved services over one at a time. Because writes flowed in both directions, any service could be rolled back to the old stack at any point during the migration window. That turned a risky project into a series of small, reversible steps.
+>
+> The impact: all 20+ applications moved to Firebase/GCP with zero downtime, and no customer-facing freeze. Moving everything off AWS also saved the company $5,000 a month. I wrote documentation on the new Firebase SDKs for the engineers and trained the Ops team on the new dashboard and backups, so the new stack stuck after cutover.
+>
+> The lesson I took away is that the safest migration is one you can undo, and I would reach for the same pattern on any rebuild where downtime costs real people.
+
+**3. What's something you disagree with about how most companies build software?**
+
+> Most companies build for their best-connected user: a recent smartphone, fast internet, and an app that assumes it is always online. Then they treat everyone else as an edge case to patch later.
+>
+> I learned the opposite at CodeBits. For the legal-aid tools we built in Uganda, the main users were on feature phones, so we built a USSD service talking to a Node.js backend over gRPC. Designing for that constraint first made the whole system simpler and sturdier: small payloads, clear state, and nothing that breaks when the network drops.
+>
+> I think the hardest real-world conditions should be the starting design point, not a later accommodation. If it works on a basic phone with a weak signal, it works for everyone.
+
+**4. In 4 sentences or less, how would you explain the pros and cons of a microservices architecture to a non-technical teammate?**
+
+> Microservices means splitting one big app into small, separate services, like a field office split into teams that each own one job, such as payments, verification, or messaging. The upside is that each team can change and fix its part without risking the others, and if one part fails, the rest can keep running. The downside is coordination: the teams now pass messages constantly, so you need more monitoring, clearer agreements between them, and more effort to find out where something went wrong. It pays off when the system and team are large enough to need that independence, and it is overhead you don't want when they're small.
+
 ---
 
 ## Score Breakdown
