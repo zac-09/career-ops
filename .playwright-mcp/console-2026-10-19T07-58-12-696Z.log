@@ -1,0 +1,13 @@
+[    2265ms] [LOG] %c    _______                                  _       __
+   / ____(_)___  ____ ____  _________  _____(_)___  / /_
+  / /_  / / __ \/ __ `/ _ \/ ___/ __ \/ ___/ / __ \/ __/
+ / __/ / / / / / /_/ /  __/ /  / /_/ / /  / / / / / /_
+/_/   /_/_/ /_/\__, /\___/_/  / .___/_/  /_/_/ /_/\__/
+              /____/         /_/
+
+Welcome to Fingerprint.
+
+- Docs         https://docs.fingerprint.com/docs
+- GitHub       https://github.com/fingerprintjs
+- We're hiring /careers/ color: #F35B22 @ https://fingerprint.com/_astro/ConsoleGreeting.astro_astro_type_script_index_0_lang.kdJlroOp.js?dpl=dpl_GiuUsc3YQXBTnzWvuvqHTiySNCs9:0
+[    8399ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://my.greenhouse.io/users/self?job_post_id=6143257004:0

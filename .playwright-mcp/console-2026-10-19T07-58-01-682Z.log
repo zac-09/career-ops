@@ -1,0 +1,11 @@
+[    3716ms] [INFO] [MS TEAMS SDK] Failed to initialized Error: Initialization Failed. No Parent window found.
+    at wt (https://perfectwiki.page/assets/root-B5OBrwiA.js:3:1344)
+    at https://perfectwiki.page/assets/root-B5OBrwiA.js:3:12479
+    at new Promise (<anonymous>)
+    at https://perfectwiki.page/assets/root-B5OBrwiA.js:3:12395
+    at https://perfectwiki.page/assets/root-B5OBrwiA.js:3:13438
+    at https://perfectwiki.page/assets/root-B5OBrwiA.js:1:5774
+    at new Promise (<anonymous>)
+    at Dn (https://perfectwiki.page/assets/root-B5OBrwiA.js:1:5728)
+    at Qt (https://perfectwiki.page/assets/root-B5OBrwiA.js:3:12367)
+    at Mt (https://perfectwiki.page/assets/root-B5OBrwiA.js:3:8959) @ https://perfectwiki.page/assets/root-B5OBrwiA.js:2

@@ -1,0 +1,137 @@
+- generic [active] [ref=f33e1]:
+  - banner [ref=f33e3]:
+    - generic [ref=f33e4]:
+      - link "Navigate to the homepage" [ref=f33e7] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f33e9]:
+        - generic [ref=f33e10]:
+          - link "Contact Sales" [ref=f33e11] [cursor=pointer]:
+            - /url: /contact-sales/
+          - link "Get Started" [ref=f33e12] [cursor=pointer]:
+            - /url: https://dashboard.fingerprint.com/signup
+        - button "Mobile Menu" [ref=f33e13]
+  - link "← All jobs" [ref=f33e22] [cursor=pointer]:
+    - /url: /careers/jobs/
+  - contentinfo [ref=f33e30]:
+    - generic [ref=f33e31]:
+      - generic [ref=f33e32]:
+        - generic [ref=f33e33]:
+          - link "Navigate to the homepage" [ref=f33e34] [cursor=pointer]:
+            - /url: /
+            - img "Fingerprint" [ref=f33e35]
+          - generic [ref=f33e37]:
+            - paragraph [ref=f33e38]: Subscribe to our newsletter_
+            - generic [ref=f33e39]:
+              - textbox "Email address" [ref=f33e40]:
+                - /placeholder: Email address*
+              - button "Subscribe to newsletter" [ref=f33e41]
+        - navigation [ref=f33e45]:
+          - generic [ref=f33e46]:
+            - heading "Product" [level=3] [ref=f33e47]
+            - link "Device Intelligence Platform" [ref=f33e48] [cursor=pointer]:
+              - /url: /products/fingerprint-pro/
+            - link "Smart Signals" [ref=f33e49] [cursor=pointer]:
+              - /url: /products/smart-signals/
+            - link "AI Agent Detection" [ref=f33e50] [cursor=pointer]:
+              - /url: /products/ai-agent-detection/
+            - link "Integrations" [ref=f33e51] [cursor=pointer]:
+              - /url: /integrations/
+            - link "FingerprintJS vs. Pro" [ref=f33e52] [cursor=pointer]:
+              - /url: /github/
+            - link "Demo" [ref=f33e53] [cursor=pointer]:
+              - /url: /demo/
+            - link "Identification" [ref=f33e54] [cursor=pointer]:
+              - /url: /products/identification/
+            - link "Pricing" [ref=f33e55] [cursor=pointer]:
+              - /url: /pricing/
+          - generic [ref=f33e56]:
+            - heading "Use Cases" [level=3] [ref=f33e57]
+            - link "New Account Fraud" [ref=f33e58] [cursor=pointer]:
+              - /url: /use-cases/new-account-fraud-prevention/
+            - link "Account Takeover" [ref=f33e59] [cursor=pointer]:
+              - /url: /use-cases/account-takeover/
+            - link "Account Sharing Prevention" [ref=f33e60] [cursor=pointer]:
+              - /url: /use-cases/account-sharing-prevention/
+            - link "SMS Fraud" [ref=f33e61] [cursor=pointer]:
+              - /url: /use-cases/sms-fraud/
+            - link "Payment Fraud" [ref=f33e62] [cursor=pointer]:
+              - /url: /use-cases/payment-fraud/
+            - link "Paywall Enforcement" [ref=f33e63] [cursor=pointer]:
+              - /url: /use-cases/paywall/
+            - link "AI Token Fraud" [ref=f33e64] [cursor=pointer]:
+              - /url: /use-cases/ai-token-fraud/
+            - link "Returning User Experience" [ref=f33e65] [cursor=pointer]:
+              - /url: /use-cases/returning-user-experience/
+            - link "Bot Detection" [ref=f33e66] [cursor=pointer]:
+              - /url: /products/bot-detection/
+          - generic [ref=f33e67]:
+            - heading "Resources" [level=3] [ref=f33e68]
+            - link "Resource Center" [ref=f33e69] [cursor=pointer]:
+              - /url: /resources/
+            - link "Bot Directory" [ref=f33e70] [cursor=pointer]:
+              - /url: /bot-directory/
+            - link "Blog" [ref=f33e71] [cursor=pointer]:
+              - /url: /blog/
+            - link "Case Studies" [ref=f33e72] [cursor=pointer]:
+              - /url: /case-studies/
+            - link "Guides" [ref=f33e73] [cursor=pointer]:
+              - /url: /blog/tag/guides/
+            - link "FAQ" [ref=f33e74] [cursor=pointer]:
+              - /url: /resources/frequently-asked-questions-faqs/
+            - link "Support Center" [ref=f33e75] [cursor=pointer]:
+              - /url: /support/
+          - generic [ref=f33e76]:
+            - heading "Developers" [level=3] [ref=f33e77]
+            - link "Documentation" [ref=f33e78] [cursor=pointer]:
+              - /url: https://docs.fingerprint.com
+            - link "Tutorials" [ref=f33e79] [cursor=pointer]:
+              - /url: /blog/tag/tutorials/
+            - link "SDKs and Libraries" [ref=f33e80] [cursor=pointer]:
+              - /url: /sdk-libraries/
+            - link "GitHub" [ref=f33e81] [cursor=pointer]:
+              - /url: https://github.com/fingerprintjs/fingerprintjs/
+            - link "Discord Community" [ref=f33e82] [cursor=pointer]:
+              - /url: https://discord.gg/ad6R2ttHVX
+          - generic [ref=f33e83]:
+            - heading "Company" [level=3] [ref=f33e84]
+            - link "About us" [ref=f33e85] [cursor=pointer]:
+              - /url: /about-us/
+            - link "Careers We're hiring" [ref=f33e86] [cursor=pointer]:
+              - /url: /careers/
+              - text: Careers
+              - generic [ref=f33e87]: We're hiring
+            - link "Info for AI Bots" [ref=f33e88] [cursor=pointer]:
+              - /url: /blog/ai-info-page/
+            - link "Press" [ref=f33e89] [cursor=pointer]:
+              - /url: /resources/press/
+            - link "Partners" [ref=f33e90] [cursor=pointer]:
+              - /url: /partners/
+            - link "System status" [ref=f33e91] [cursor=pointer]:
+              - /url: https://status.fingerprint.com
+            - link "Security" [ref=f33e92] [cursor=pointer]:
+              - /url: /security/
+      - generic [ref=f33e94]:
+        - generic [ref=f33e95]:
+          - generic [ref=f33e96]: © 2026 FingerprintJS, Inc
+          - generic [ref=f33e97]:
+            - link "Privacy policy" [ref=f33e98] [cursor=pointer]:
+              - /url: https://docs.fingerprint.com/docs/privacy-policy
+            - link "Terms and conditions" [ref=f33e99] [cursor=pointer]:
+              - /url: https://docs.fingerprint.com/docs/terms-of-service
+        - generic [ref=f33e100]:
+          - list [ref=f33e102]:
+            - listitem [ref=f33e103]:
+              - link "Discord" [ref=f33e104] [cursor=pointer]:
+                - /url: https://discord.gg/ad6R2ttHVX
+            - listitem [ref=f33e107]:
+              - link "LinkedIn" [ref=f33e108] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/fingerprintjs/
+            - listitem [ref=f33e111]:
+              - link "X (formerly Twitter)" [ref=f33e112] [cursor=pointer]:
+                - /url: https://x.com/fingerprintjs
+            - listitem [ref=f33e115]:
+              - link "GitHub" [ref=f33e116] [cursor=pointer]:
+                - /url: https://github.com/fingerprintjs/fingerprintjs/
+          - link [ref=f33e120] [cursor=pointer]:
+            - /url: https://status.fingerprint.com
+  - button "Open the chat" [ref=f33e127] [cursor=pointer]

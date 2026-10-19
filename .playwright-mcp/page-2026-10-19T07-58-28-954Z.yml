@@ -1,0 +1,126 @@
+- generic [ref=f50e2]:
+  - list [ref=f50e4]:
+    - listitem [ref=f50e5]:
+      - link [ref=f50e6] [cursor=pointer]:
+        - /url: https://livekit.io/
+        - img "LiveKit" [ref=f50e7]
+    - listitem [ref=f50e8]:
+      - link "Back to LiveKit’s Job Listings" [ref=f50e9] [cursor=pointer]:
+        - /url: /livekit
+    - listitem
+  - generic [ref=f50e12]:
+    - heading "Software Engineer, Agents" [level=1] [ref=f50e14]
+    - generic [ref=f50e15]:
+      - generic [ref=f50e16]:
+        - generic [ref=f50e17]:
+          - heading "Location" [level=2] [ref=f50e18]
+          - paragraph [ref=f50e19]: North America; APJ; EMEA
+        - generic [ref=f50e20]:
+          - heading "Employment Type" [level=2] [ref=f50e21]
+          - paragraph [ref=f50e22]: Full time
+        - generic [ref=f50e23]:
+          - heading "Location Type" [level=2] [ref=f50e24]
+          - paragraph [ref=f50e25]: Remote
+        - generic [ref=f50e26]:
+          - heading "Department" [level=2] [ref=f50e27]
+          - paragraph [ref=f50e28]:
+            - generic [ref=f50e29]: R&D ›
+            - generic [ref=f50e30]: Engineering
+        - generic [ref=f50e31]:
+          - heading "Compensation" [level=2] [ref=f50e32]
+          - list [ref=f50e33]:
+            - listitem [ref=f50e34]:
+              - generic [ref=f50e35]: $135K – $300K • Offers Equity
+          - paragraph [ref=f50e37]: As a globally distributed engineering team, our posted range covers differences across international markets and levels. Final compensation depends on your location, seniority, and technical depth evaluated throughout our process.
+      - generic [ref=f50e38]:
+        - tablist [ref=f50e39]:
+          - tab "Overview" [selected] [ref=f50e40] [cursor=pointer]
+          - tab "Application" [ref=f50e41] [cursor=pointer]
+        - tabpanel "Overview" [ref=f50e43]:
+          - generic [ref=f50e44]:
+            - heading [level=2] [ref=f50e45]:
+              - strong [ref=f50e46]: About LiveKit
+            - paragraph [ref=f50e47]: LiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agentic AI applications for OpenAI, Salesforce, Spotify, Meta, and tens of thousands of other developers, collectively facilitating billions of calls each year.
+            - paragraph [ref=f50e48]
+            - heading [level=2] [ref=f50e49]:
+              - strong [ref=f50e50]: About This Role
+            - paragraph [ref=f50e51]:
+              - text: We are looking for an exceptional engineer to join the
+              - strong [ref=f50e52]: Agents team
+              - text: and help shape the future of agentic computing. You'll work on the core abstractions and infrastructure that developers use to build sophisticated AI agents; from real-time voice and text interactions to durable workflows and agent-to-agent communication.
+            - paragraph [ref=f50e53]
+            - heading [level=2] [ref=f50e54]:
+              - strong [ref=f50e55]: What You'll Do
+            - list [ref=f50e56]:
+              - listitem [ref=f50e57]:
+                - paragraph [ref=f50e58]: Design and develop core functionality for the LiveKit Agents framework
+              - listitem [ref=f50e59]:
+                - paragraph [ref=f50e60]:
+                  - strong [ref=f50e61]: Help define the text modality of the framework
+                  - text: ", enabling agents to interact with users across channels such as SMS"
+              - listitem [ref=f50e62]:
+                - paragraph [ref=f50e63]:
+                  - strong [ref=f50e64]: Design abstractions for stateful and durable agentic workflows
+                  - text: ", allowing agents to maintain state and coordinate work across interactions that may span minutes, hours, or longer"
+              - listitem [ref=f50e65]:
+                - paragraph [ref=f50e66]:
+                  - strong [ref=f50e67]: Shape agent-to-agent communication and delegation patterns
+                  - text: ", enabling voice agents to hand off tasks, collaborate, and compose into more sophisticated systems"
+              - listitem [ref=f50e68]:
+                - paragraph [ref=f50e69]: Build simple, powerful developer APIs over complex distributed and real-time systems
+              - listitem [ref=f50e70]:
+                - paragraph [ref=f50e71]: Iterate quickly based on feedback from our developer community
+              - listitem [ref=f50e72]:
+                - paragraph [ref=f50e73]: Write clear documentation, examples, and reference implementations
+              - listitem [ref=f50e74]:
+                - paragraph [ref=f50e75]: Work primarily with Python and TypeScript
+            - paragraph [ref=f50e76]
+            - heading [level=2] [ref=f50e77]:
+              - strong [ref=f50e78]: Who You Are
+            - list [ref=f50e79]:
+              - listitem [ref=f50e80]:
+                - paragraph [ref=f50e81]: Experienced building LLM-based applications and agentic systems
+              - listitem [ref=f50e82]:
+                - paragraph [ref=f50e83]: Skilled at navigating complex systems and turning complexity into clean abstractions
+              - listitem [ref=f50e84]:
+                - paragraph [ref=f50e85]: Comfortable reasoning about state, concurrency and asynchronous workflows
+              - listitem [ref=f50e86]:
+                - paragraph [ref=f50e87]: Product-minded and excited about designing APIs and developer experiences
+              - listitem [ref=f50e88]:
+                - paragraph [ref=f50e89]: Experience building developer tools, frameworks, or SDKs is a plus
+              - listitem [ref=f50e90]:
+                - paragraph [ref=f50e91]: Interested in exploring emerging patterns in agent architecture rather than simply applying established ones
+              - listitem [ref=f50e92]:
+                - paragraph [ref=f50e93]: Comfortable working collaboratively in a remote environment
+            - heading [level=2]
+            - heading [level=2] [ref=f50e94]:
+              - strong [ref=f50e95]: Our Commitment to You
+            - list [ref=f50e96]:
+              - listitem [ref=f50e97]:
+                - paragraph [ref=f50e98]: An opportunity to build something truly impactful to the world
+              - listitem [ref=f50e99]:
+                - paragraph [ref=f50e100]: Contribute to open source alongside world-class engineers
+              - listitem [ref=f50e101]:
+                - paragraph [ref=f50e102]: Competitive salary and equity package
+              - listitem [ref=f50e103]:
+                - paragraph [ref=f50e104]: Health, dental, and vision benefits
+              - listitem [ref=f50e105]:
+                - paragraph [ref=f50e106]: Flexible vacation policy
+            - paragraph [ref=f50e107]
+            - paragraph [ref=f50e108]: LiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact recruiting@livekit.io.
+            - paragraph [ref=f50e109]
+          - link [ref=f50e110] [cursor=pointer]:
+            - /url: /livekit/1757f49e-7e19-4c45-85f7-e4637dff66fb/application
+            - button "Apply for this Job" [ref=f50e111]
+  - contentinfo [ref=f50e112]:
+    - link "Learn more about Ashby" [ref=f50e113] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f50e114]: Powered by
+      - img "Ashby" [ref=f50e115]
+    - paragraph [ref=f50e121]:
+      - link "Privacy Policy" [ref=f50e122] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f50e123] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f50e124] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure
