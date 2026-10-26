@@ -1,0 +1,9 @@
+[    1033ms] [WARNING] Error with Feature-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[    1033ms] [WARNING] Error with Feature-Policy header: Some features are specified in both Feature-Policy and Permissions-Policy header: accelerometer, camera, microphone, geolocation, usb, gyroscope, magnetometer. Values defined in Permissions-Policy header will be used. @ :0
+[    1033ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[    9940ms] [WARNING] The resource https://app.ashbyhq.com/api/images/org-theme-logo/6aae6398-0b67-4480-add4-48ad97a87a37/c497ecb4-1221-4c4a-9314-5e1851f5315b/407af860-3b27-4eba-8b87-c7f68e12b8b1.png was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://jobs.ashbyhq.com/toggl:0
+[   17079ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.activecampaign.com/fonts/IBMPlexSans-Regular.woff2:0
+[   17081ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.activecampaign.com/fonts/IBMPlexSans-Medium.woff2:0
+[   17089ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.activecampaign.com/fonts/Owners-Medium.woff2:0
+[   31981ms] [INFO] Evaluating a string as JavaScript violates the following Content Security Policy directive because 'unsafe-eval' is not an allowed source of script: "script-src 'self' https://front.hibob.com".
+ The policy is report-only, so the violation has been logged but no further action has been taken. @ https://front.hibob.com/master-f3e47d913007c1af6a44ad77d2d2c799c1f4e112/careers/3710.bfbf8b7c490b3441.js:0
