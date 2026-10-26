@@ -118,7 +118,8 @@ search_queries:
   # -- Workable --
   - name: Workable — Senior Backend
     query: '(site:apply.workable.com OR site:jobs.workable.com) ("Senior Backend Engineer" OR "Senior Software Engineer" OR "Staff Engineer") (Node.js OR TypeScript) remote'
-    enabled: true
+    enabled: false
+    # 2026-10-20: DISABLED (2nd strike) — zero on-domain results again (engine ignores site:).
     # 2026-10-19: structural strike — zero on-domain results (engine ignored site:).
     # 2026-09-21: expanded to Workable's newer jobs.workable.com domain. Live indexed
     # Node/TS roles found there; most are country-locked, so verify geo per posting.
@@ -180,7 +181,8 @@ search_queries:
   # Queries include "worldwide"/"anywhere" to pre-filter for Uganda (UTC+3) eligibility.
   - name: Remotive — Worldwide backend
     query: 'site:remotive.com (Node.js OR TypeScript) ("Backend" OR "Full Stack") worldwide'
-    enabled: true
+    enabled: false
+    # 2026-10-20: DISABLED (2nd strike) — zero on-domain results again (engine ignores site:).
     # 2026-10-19: structural strike — zero on-domain results (engine ignored site:).
 
   - name: Working Nomads — Worldwide backend
@@ -214,7 +216,8 @@ search_queries:
 
   - name: EchoJobs — EMEA/Worldwide backend
     query: 'site:echojobs.io (Node.js OR TypeScript) "Senior Backend" ("worldwide" OR "EMEA" OR "anywhere")'
-    enabled: true
+    enabled: false
+    # 2026-10-20: DISABLED (2nd strike) — zero on-domain results again (engine ignores site:).
     # 2026-10-19: structural strike — zero on-domain results (engine ignored site:).
 
   - name: JustRemote — Worldwide backend
@@ -265,7 +268,8 @@ search_queries:
 
   - name: Recruitee — worldwide backend
     query: 'site:recruitee.com (Node.js OR TypeScript) ("Backend" OR "Software Engineer") remote ("worldwide" OR "anywhere" OR senior)'
-    enabled: true
+    enabled: false
+    # 2026-10-20: DISABLED (2nd strike) — zero on-domain results again (engine ignores site:).
     # 2026-10-19: structural strike — zero on-domain results (engine ignored site:).
     # Boards are {company}.recruitee.com — site: covers subdomains. Some companies
     # (e.g. Bitfinex careers.bitfinex.com) use custom domains and won't appear here.
@@ -311,7 +315,8 @@ search_queries:
   # normal live-posting and geo checks before evaluation.
   - name: Personio — remote Node/TS backend
     query: '(site:jobs.personio.com OR site:jobs.personio.de) (Node.js OR TypeScript) ("Backend Engineer" OR "Software Engineer" OR "Platform Engineer") (remote OR worldwide OR global)'
-    enabled: true
+    enabled: false
+    # 2026-10-20: DISABLED (2nd strike) — zero on-domain results again (engine ignores site:).
     # 2026-10-19: structural strike — zero on-domain results (engine ignored site:).
     # Search + static fetch confirmed readable, structured postings. Test results
     # included a globally-remote Node/NestJS role with EU-timezone preference.
@@ -324,21 +329,24 @@ search_queries:
 
   - name: JazzHR ApplyToJob — remote Node/TS backend
     query: 'site:applytojob.com (Node.js OR TypeScript) ("Backend Engineer" OR "Software Engineer" OR "Platform Engineer") remote'
-    enabled: true
+    enabled: false
+    # 2026-10-20: DISABLED (2nd strike) — zero on-domain results again (engine ignores site:).
     # 2026-10-19: structural strike — zero on-domain results (engine ignored site:).
     # Direct JazzHR pages are readable and expose full JDs. Geo wording can be vague
     # ("remote" with a region preference), so do not infer worldwide eligibility.
 
   - name: Gem — remote Node/TS backend
     query: 'site:jobs.gem.com (Node.js OR TypeScript) ("Backend Engineer" OR "Software Engineer" OR "Platform Engineer") remote'
-    enabled: true
+    enabled: false
+    # 2026-10-20: DISABLED (2nd strike) — zero on-domain results again (engine ignores site:).
     # 2026-10-19: structural strike — zero on-domain results (engine ignored site:).
     # Search indexing is strong, but direct pages are JS-heavy. Use Playwright for
     # verification and expect substantial US/Canada noise.
 
   - name: JOIN — remote Node/TS backend
     query: 'site:join.com/companies (Node.js OR TypeScript) ("Backend Engineer" OR "Software Engineer" OR "Full Stack Engineer") remote'
-    enabled: true
+    enabled: false
+    # 2026-10-20: DISABLED (2nd strike) — zero on-domain results again (engine ignores site:).
     # 2026-10-19: structural strike — zero on-domain results (engine ignored site:).
     # Structured canonical postings with direct-apply metadata. Initial test skewed
     # Europe/Germany, so enforce the per-role geo check before adding to pipeline.
@@ -348,21 +356,24 @@ search_queries:
   # posting before evaluating (standing rule — aggregator geo labels lie).
   - name: Simplify — worldwide/EMEA backend
     query: 'site:simplify.jobs/p (Node.js OR TypeScript) ("Backend Engineer" OR "Software Engineer" OR "Platform Engineer") (worldwide OR Africa OR EMEA OR Europe) remote'
-    enabled: true
+    enabled: false
+    # 2026-10-20: DISABLED (2nd strike) — zero on-domain results again (engine ignores site:).
     # 2026-10-19: structural strike — zero on-domain results (engine ignored site:).
     # 2026-09-21 validation returned multiple current-looking Node/TS roles and full,
     # readable JDs. ALWAYS resolve the employer's canonical posting; geo labels vary.
 
   - name: Hirify — worldwide Node/TS backend
     query: 'site:hirify.me/jobs (Node.js OR TypeScript) ("Backend" OR "Platform" OR "Fullstack") ("remote (Global)" OR "Worldwide Remote")'
-    enabled: true
+    enabled: false
+    # 2026-10-20: DISABLED (2nd strike) — zero on-domain results again (engine ignores site:).
     # 2026-10-19: structural strike — zero on-domain results (engine ignored site:).
     # Global filter produced readable worldwide listings. Aggregated descriptions may
     # outlive the canonical req; resolve the employer URL before evaluating.
 
   - name: EverJobs Uganda — backend/fullstack
     query: 'site:everjobs.ug/job (Node.js OR TypeScript) ("Backend" OR "Full Stack" OR "Software Engineer" OR "Platform Engineer")'
-    enabled: true
+    enabled: false
+    # 2026-10-20: DISABLED (2nd strike) — zero on-domain results again (engine ignores site:).
     # 2026-10-19: structural strike — zero on-domain results (engine ignored site:).
     # Uganda-local eligibility is high and pages are statically readable. This is a
     # mirror: reject old/recycled listings and resolve the original employer posting.
@@ -411,7 +422,8 @@ search_queries:
   # -- High-signal non-standard sources (added 2026-08-13) --
   - name: HN Who is Hiring — remote Node/TS
     query: 'site:news.ycombinator.com "who is hiring" (Node.js OR TypeScript) (remote OR worldwide)'
-    enabled: true
+    enabled: false
+    # 2026-10-20: DISABLED (2nd strike) — WebSearch form useless again. KEEP reading the monthly thread directly via hn.algolia.com/api/v1/items/{id}; that is where all HN yield comes from.
     # 2026-10-19: structural strike — WebSearch form returned only user profiles + a 2015 thread; all yield came from reading the Oct thread via Algolia API directly (2 adds).
     # Results are monthly THREADS, not individual postings — the scanner must open
     # the latest thread and search within it (Ctrl-F style) for Node/TypeScript +
