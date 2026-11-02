@@ -303,3 +303,12 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** The gap is converted from a screening reason into a ramp-speed demonstration; the rest of the conversation runs on evidenced strengths.
 **Reflection:** Language gaps are the cheapest gaps to close visibly and the most expensive to hide. Named first with code attached, they read as self-awareness; discovered by the interviewer, they read as misrepresentation. Pairs with "Answering the TypeScript / PostgreSQL gap straight" — the same repo closes both.
 **Best for questions about:** "Why should we hire a Node engineer for a Python/Go team?", "Django/Go in production?", any primary-language mismatch, ramp speed, honesty under pressure.
+
+### [Measuring automation] Scan-hygiene rule — disable a source on its second zero-yield strike
+**Source:** Report #252 — Tether — Fullstack Engineer - AgenticOps (100% Remote)
+**S (Situation):** The career-ops scheduled scan ran 50+ web-search queries plus dozens of ATS boards every few days. Many queries returned nothing on-domain or only stale, closed postings, and each one cost tokens, time and reviewer attention.
+**T (Task):** Keep an automated, agent-driven workflow cheap and trustworthy without hand-curating it every run.
+**A (Action):** Made every rejection a logged row with a status and reason (skipped_title, skipped_geo, skipped_closed, skipped_dup). Added a dated per-query strike note in config on each zero-yield run and a rule to disable the query on the second strike, with the reason recorded next to it so it can be re-enabled deliberately. Tracked yield per source across runs.
+**R (Result):** 14 of 52 queries remain enabled; the scan's per-run cost dropped while adds per run held steady, and the history file shows exactly why every URL was accepted or rejected.
+**Reflection:** Automation that is not measured quietly rots. The disable rule did more for signal quality than any prompt change, because it removed sources that were wrong twice instead of asking the agent to be smarter about them. The same discipline applies to automated PR review: log every finding with a reason, measure precision, and cut the noisy checks.
+**Best for questions about:** measuring tooling effectiveness and operating cost, reducing noise in automated review, running agents in scheduled workflows, judgment about AI-agent limitations.

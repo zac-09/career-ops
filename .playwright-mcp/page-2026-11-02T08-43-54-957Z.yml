@@ -1,0 +1,181 @@
+- generic [ref=f1e2]:
+  - link "Skip to content" [ref=f1e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=f1e5]:
+    - generic [ref=f1e10]:
+      - link "Tether Operations Limited logo Homepage" [ref=f1e12] [cursor=pointer]:
+        - /url: /
+        - img "Tether Operations Limited logo" [ref=f1e13]
+        - generic [ref=f1e14]: Homepage
+      - navigation [ref=f1e16]:
+        - list [ref=f1e17]:
+          - listitem [ref=f1e18]:
+            - link "Finance" [ref=f1e19] [cursor=pointer]:
+              - /url: /finance
+          - listitem [ref=f1e20]:
+            - link "Power" [ref=f1e21] [cursor=pointer]:
+              - /url: /power
+          - listitem [ref=f1e22]:
+            - link "Data" [ref=f1e23] [cursor=pointer]:
+              - /url: /data
+          - listitem [ref=f1e24]:
+            - link "Education" [ref=f1e25] [cursor=pointer]:
+              - /url: /edu
+          - listitem [ref=f1e26]:
+            - link "Plan ₿" [ref=f1e27] [cursor=pointer]:
+              - /url: /planb
+          - listitem [ref=f1e28]:
+            - link "Tether.to" [ref=f1e29] [cursor=pointer]:
+              - /url: https://tether.to/en/
+          - listitem [ref=f1e30]:
+            - link "twitter" [ref=f1e31] [cursor=pointer]:
+              - /url: https://twitter.com/Tether/
+          - listitem [ref=f1e32]:
+            - link "linkedin" [ref=f1e33] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/tether/
+    - main [ref=f1e34]:
+      - generic [ref=f1e44]:
+        - heading "Fullstack Engineer - AgenticOps (100% Remote)" [level=1] [ref=f1e45]
+        - list [ref=f1e46]:
+          - listitem [ref=f1e47]: Remote
+          - listitem [ref=f1e49]:
+            - list [ref=f1e52]:
+              - listitem [ref=f1e53]:
+                - text: United Kindom
+                - generic [ref=f1e54]: ","
+                - text: Armagh City, Banbridge and Craigavon
+                - generic [ref=f1e55]: ","
+                - text: United Kingdom
+          - listitem [ref=f1e56]: Engineering
+        - generic:
+          - generic:
+            - paragraph
+            - paragraph
+      - generic [ref=f1e66]:
+        - tablist [ref=f1e69]:
+          - tab "Job details" [selected] [ref=f1e70] [cursor=pointer]
+          - tab "Apply" [ref=f1e71] [cursor=pointer]
+        - tabpanel "Job details" [ref=f1e72]:
+          - generic [ref=f1e75]:
+            - generic [ref=f1e77]:
+              - heading "Job description" [level=2] [ref=f1e78]
+              - generic [ref=f1e80]:
+                - paragraph [ref=f1e81]:
+                  - strong [ref=f1e82]:
+                    - emphasis [ref=f1e83]: Join Tether and Shape the Future of Digital Finance
+                - paragraph [ref=f1e84]: At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction.
+                - paragraph [ref=f1e85]
+                - paragraph [ref=f1e86]:
+                  - strong [ref=f1e87]:
+                    - emphasis [ref=f1e88]: Innovate with Tether
+                - paragraph [ref=f1e89]:
+                  - strong [ref=f1e90]: "Tether Finance:"
+                  - text: Our innovative product suite features the world’s most trusted stablecoin,
+                  - strong [ref=f1e91]: USDT
+                  - text: ", relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services."
+                - paragraph [ref=f1e92]: "But that’s just the beginning:"
+                - paragraph [ref=f1e93]:
+                  - strong [ref=f1e94]: "Tether Power:"
+                  - text: Driving sustainable growth, our energy solutions optimize excess power for Bitcoin mining using eco-friendly practices in state-of-the-art, geo-diverse facilities.
+                - paragraph [ref=f1e95]:
+                  - strong [ref=f1e96]: "Tether Data:"
+                  - text: Fueling breakthroughs in AI and peer-to-peer technology, we reduce infrastructure costs and enhance global communications with cutting-edge solutions like
+                  - strong [ref=f1e97]: KEET
+                  - text: ", our flagship app that redefines secure and private data sharing."
+                - paragraph [ref=f1e98]:
+                  - strong [ref=f1e99]: Tether Education
+                  - text: ": Democratizing access to top-tier digital learning, we empower individuals to thrive in the digital and gig economies, driving global growth and opportunity."
+                - paragraph [ref=f1e100]:
+                  - strong [ref=f1e101]: Tether Evolution
+                  - text: ": At the intersection of technology and human potential, we are pushing the boundaries of what is possible, crafting a future where innovation and human capabilities merge in powerful, unprecedented ways."
+                - paragraph [ref=f1e102]
+                - paragraph [ref=f1e103]:
+                  - strong [ref=f1e104]:
+                    - emphasis [ref=f1e105]: Why Join Us?
+                - paragraph [ref=f1e106]: Our team is a global talent powerhouse, working remotely from every corner of the world. If you’re passionate about making a mark in the fintech space, this is your opportunity to collaborate with some of the brightest minds, pushing boundaries and setting new standards. We’ve grown fast, stayed lean, and secured our place as a leader in the industry.
+                - paragraph [ref=f1e107]: If you have excellent English communication skills and are ready to contribute to the most innovative platform on the planet, Tether is the place for you.
+                - paragraph [ref=f1e108]:
+                  - strong [ref=f1e109]: Are you ready to be part of the future?
+                - paragraph [ref=f1e110]
+                - paragraph [ref=f1e111]:
+                  - strong [ref=f1e112]: About the job
+                - paragraph [ref=f1e113]: We are looking for Fullstack Engineer to help QVAC application teams develop, review, test, and deliver reliable software with less friction. Your focus will be our desktop and mobile applications and their shared runtime, AI harness, and skills packages. You will build and maintain developer tools, integrate AI agents into engineering workflows, and improve code quality and delivery automation.
+                - paragraph [ref=f1e114]: This is a hands-on engineering role with room to shape the tooling roadmap. You will work with engineers to identify useful improvements and own them from implementation through adoption and ongoing support. Success means shorter feedback loops, dependable automation, and tools that developers trust and use.
+                - paragraph [ref=f1e115]
+                - paragraph [ref=f1e116]
+                - paragraph [ref=f1e117]:
+                  - strong [ref=f1e118]: Responsibilities
+                - list [ref=f1e119]:
+                  - listitem [ref=f1e120]:
+                    - paragraph [ref=f1e121]: • Evaluate, integrate, and maintain developer tools and AI agents, including the repository guidance and integrations they need to work effectively.
+                  - listitem [ref=f1e122]:
+                    - paragraph [ref=f1e123]: • Build and operate agents in CI and scheduled workflows that investigate failures, propose fixes, and give engineers evidence they can act on.
+                  - listitem [ref=f1e124]:
+                    - paragraph [ref=f1e125]: • Improve automated pull request reviews, evaluating finding accuracy and reducing noise for reviewers.
+                  - listitem [ref=f1e126]:
+                    - paragraph [ref=f1e127]: • Develop code quality scripts and checks for complexity, function and file size, dependency cycles, and performance regressions. Work with package owners on practical thresholds and targeted refactoring.
+                  - listitem [ref=f1e128]:
+                    - paragraph [ref=f1e129]: • Improve development environments, testing, and build and release workflows so engineers and agents can verify changes reliably.
+                  - listitem [ref=f1e130]:
+                    - paragraph [ref=f1e131]: • Prioritize improvements with engineering teams, support adoption through documentation and onboarding, and measure effectiveness, reliability, and operating costs.
+                - paragraph [ref=f1e132]: Example projects include agents that investigate CI failures, diagnose compatibility and performance regressions, and flag changes that affect package interfaces or architecture. You will choose and refine these workflows with the engineers who use them.
+              - heading "Job requirements" [level=2] [ref=f1e133]
+              - generic [ref=f1e135]:
+                - list [ref=f1e136]:
+                  - listitem [ref=f1e137]:
+                    - paragraph [ref=f1e138]:
+                      - text: • Experience building and maintaining developer tools or engineering automation used by others, with strong JavaScript/TypeScript and
+                      - link "Node.js" [ref=f1e139] [cursor=pointer]:
+                        - /url: http://Node.js
+                      - text: skills.
+                  - listitem [ref=f1e140]:
+                    - paragraph [ref=f1e141]: • Hands-on experience using and integrating AI coding tools or agents, with sound judgment about their limitations, output validation, and human review.
+                  - listitem [ref=f1e142]:
+                    - paragraph [ref=f1e143]: • Experience with Git, CI/CD, automated testing, and systematic debugging of build, test, or integration failures.
+                  - listitem [ref=f1e144]:
+                    - paragraph [ref=f1e145]: "• A strong approach to code quality: maintainable code, useful automated checks, and refactoring that preserves behavior."
+                  - listitem [ref=f1e146]:
+                    - paragraph [ref=f1e147]: • Ability to work independently, collaborate with engineers, and communicate clearly in English within a remote, globally distributed team.
+                - paragraph [ref=f1e148]
+                - paragraph [ref=f1e149]
+                - paragraph [ref=f1e150]:
+                  - strong [ref=f1e151]: Important information for candidates
+                  - text: "Recruitment scams have become increasingly common. To protect yourself, please keep the following in mind when applying for roles:"
+                - list [ref=f1e152]:
+                  - listitem [ref=f1e153]:
+                    - paragraph [ref=f1e154]:
+                      - text: •
+                      - strong [ref=f1e155]: Apply only through our official channels.
+                      - text: "We do not use third-party platforms or agencies for recruitment unless clearly stated. All open roles are listed on our official careers page: https://tether.recruitee.com/"
+                  - listitem [ref=f1e156]:
+                    - paragraph [ref=f1e157]:
+                      - text: •
+                      - strong [ref=f1e158]: Verify the recruiter’s identity.
+                      - text: All our recruiters have verified LinkedIn profiles. If you’re unsure, you can confirm their identity by checking their profile or contacting us through our website.
+                  - listitem [ref=f1e159]:
+                    - paragraph [ref=f1e160]:
+                      - text: •
+                      - strong [ref=f1e161]: Be cautious of unusual communication methods.
+                      - text: We do not conduct interviews over WhatsApp, Telegram, or SMS. All communication is done through official company emails and platforms.
+                  - listitem [ref=f1e162]:
+                    - paragraph [ref=f1e163]:
+                      - text: •
+                      - strong [ref=f1e164]: Double-check email addresses.
+                      - text: All communication from us will come from emails ending in
+                      - strong [ref=f1e165]: "@"
+                      - link "tether.to" [ref=f1e166] [cursor=pointer]:
+                        - /url: http://tether.to
+                      - strong [ref=f1e167]: or @
+                      - link "tether.io" [ref=f1e168] [cursor=pointer]:
+                        - /url: http://tether.io
+                  - listitem [ref=f1e169]:
+                    - paragraph [ref=f1e170]:
+                      - text: •
+                      - strong [ref=f1e171]: We will never request payment or financial details.
+                      - text: If someone asks for personal financial information or payment at any point during the hiring process, it is a scam. Please report it immediately.
+                - paragraph [ref=f1e172]:
+                  - strong [ref=f1e173]: When in doubt, feel free to reach out through our official website.
+            - generic [ref=f1e175]:
+              - button "Apply" [ref=f1e176] [cursor=pointer]
+              - button "Share job" [ref=f1e178] [cursor=pointer]
+        - text:          
