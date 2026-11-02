@@ -71,14 +71,17 @@ search_queries:
   - name: Ashby — Senior Backend Engineer
     query: 'site:jobs.ashbyhq.com "Senior Backend Engineer" OR "Senior Software Engineer" Node.js OR TypeScript remote'
     enabled: true
+    # 2026-11-02: 1st structural strike — zero on-domain results (engine ignored site:; only aggregator mirrors).
 
   - name: Ashby — Platform & Infrastructure
     query: 'site:jobs.ashbyhq.com "Platform Engineer" OR "Infrastructure Engineer" OR "Cloud Engineer" remote senior'
     enabled: true
+    # 2026-11-02: 1st structural strike — zero on-domain results (all hits were mirrors of Ashby-the-company's own US/EU/UK platform reqs).
 
   - name: Ashby — Full Stack
     query: 'site:jobs.ashbyhq.com "Full Stack Engineer" OR "Full-Stack Engineer" Node.js OR TypeScript remote senior'
     enabled: true
+    # 2026-11-02: 1st structural strike — zero on-domain results; only new lead (Infisical) is US/UK/BR/CA-locked.
 
   # -- Greenhouse --
   - name: Greenhouse — Senior Backend Engineer
@@ -88,10 +91,12 @@ search_queries:
   - name: Greenhouse — Platform & SRE
     query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Platform Engineer" OR "SRE" OR "Site Reliability" remote senior'
     enabled: true
+    # 2026-11-02: 1st structural strike — zero on-domain results (engine ignored site:).
 
   - name: Greenhouse — Full Stack
     query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Senior Full Stack" OR "Full-Stack Engineer" Node.js OR Firebase remote'
     enabled: true
+    # 2026-11-02: 1st stale strike — single on-domain hit (VIP) already logged closed 10-01; rest off-domain.
 
   # -- Lever --
   - name: Lever — Senior Backend / Node.js
@@ -100,7 +105,8 @@ search_queries:
 
   - name: Lever — Platform & Cloud
     query: 'site:jobs.lever.co "Platform Engineer" OR "Cloud Engineer" OR "Infrastructure" GCP OR AWS remote senior'
-    enabled: true
+    enabled: false
+    # 2026-11-02: DISABLED (2nd strike) — only 2 on-domain hits, both Jobgether reposts (one already 404 in history, one Brazil-locked).
     # 2026-09-11: 1st noise strike — 6 of 7 hits were Jobgether reposts, all 410 Gone.
 
   # -- Wellfound (startups) --
@@ -156,7 +162,9 @@ search_queries:
 
   - name: WeWorkRemotely — Anywhere in the World
     query: 'site:weworkremotely.com/remote-jobs (Node.js OR TypeScript) backend "anywhere in the world"'
-    enabled: true
+    enabled: false
+    # 2026-11-02: DISABLED (2nd strike) — zero weworkremotely.com results; all hits were mirrors (realworkfromanywhere, arc, jointaro).
+    # The realworkfromanywhere.com mirror has been this query's only real source since 10-19 — consider a dedicated query for it.
     # 2026-09-11: 1st structural strike — 3 of 8 results off-domain (itjobswatch.co.uk,
     # builtin.com); engine partially ignored the site: operator.
 
@@ -188,16 +196,19 @@ search_queries:
   - name: Working Nomads — Worldwide backend
     query: 'site:workingnomads.com/jobs (Node.js OR TypeScript) ("Backend" OR "Full Stack") ("worldwide" OR "anywhere")'
     enabled: true
+    # 2026-11-02: 1st structural strike — only the /remote-nodejs-jobs category page on-domain, zero individual reqs.
 
   - name: NoDesk — Worldwide backend
     query: 'site:nodesk.co/remote-jobs (Node.js OR TypeScript) ("Backend Engineer" OR "Backend Developer" OR "Full Stack") ("worldwide" OR "anywhere")'
-    enabled: true
+    enabled: false
+    # 2026-11-02: DISABLED (2nd stale strike) — on-domain hits were category pages + expired reqs (Bigscreen closed, Kodify SRE already logged expired, Vizzuality ES/PT/UK).
     # 2026-09-11: 1st stale strike — 3 of 5 listings explicitly expired/unavailable,
     # 2 of 8 results off-domain.
 
   - name: Jobgether — Worldwide backend
     query: 'site:jobgether.com/offer (Node.js OR TypeScript) backend "worldwide"'
-    enabled: true
+    enabled: false
+    # 2026-11-02: DISABLED (2nd strike) — single on-domain hit was HTTP 410 again (Remotebase clone); rest off-domain.
     # 2026-09-11: 1st strike — on-domain, but EVERY offer resolved to HTTP 410 Gone.
     # Jobgether also hides company names, making canonical resolution impossible.
     # Zero verifiable yield; one more strike disables it.
@@ -205,6 +216,7 @@ search_queries:
   - name: Remote Rocketship — Worldwide backend
     query: 'site:remoterocketship.com (Node.js OR TypeScript) backend "worldwide"'
     enabled: true
+    # 2026-11-02: 1st stale strike — both 'Worldwide' hits (fusionSpan, PrimeBase) are 404 on-site; others US/IT/PH-locked.
 
   - name: DailyRemote — Worldwide backend
     query: 'site:dailyremote.com/remote-job (Node.js OR TypeScript) backend "worldwide"'
@@ -228,7 +240,8 @@ search_queries:
 
   - name: YC Work at a Startup — remote backend
     query: 'site:workatastartup.com/jobs (Node.js OR TypeScript) backend remote ("worldwide" OR "anywhere")'
-    enabled: true
+    enabled: false
+    # 2026-11-02: DISABLED (2nd structural strike post-reset) — zero workatastartup.com results again.
     # WARNING: many YC roles are "Remote (Americas)" — verify timezone band per role.
     # 2026-08-19: 1st structural strike — site: form returned zero workatastartup.com
     # results (engine substituted other boards). One more strike disables it.
@@ -457,7 +470,7 @@ tracked_companies:
     api: https://api.ashbyhq.com/posting-api/job-board/buffer
     scan_method: websearch
     scan_query: 'site:buffer.com/journey "engineer" OR "backend" OR "software"'
-    notes: 'Fully remote. Async-first culture. Strong Node.js history. 2026-07-31: 2 eng reqs live (Senior Infrastructure Engineer — added to pipeline; Senior Growth Engineer — off-filter). Direct URLs: buffer.com/journey/{uuid}.'
+    notes: 'Fully remote. Async-first culture. Strong Node.js history. 2026-07-31: 2 eng reqs live (Senior Infrastructure Engineer — added to pipeline; Senior Growth Engineer — off-filter). Direct URLs: buffer.com/journey/{uuid}. 2026-11-02: Ashby API returns 0 jobs and journey page says no open roles.'
     enabled: true
 
   - name: Attio
@@ -1044,20 +1057,23 @@ tracked_companies:
     enabled: false
 
   - name: Tether
-    careers_url: https://careers.tether.io
-    api: https://careers.tether.io/api/offers/
+    careers_url: https://tether.recruitee.com
+    # 2026-11-02: careers.tether.io/api/offers/ now HTTP 404 (page still 200). Working JSON is the
+    # Recruitee subdomain tether.recruitee.com/api/offers/ (247 reqs); JDs themselves name
+    # tether.recruitee.com as the official board. careers_url + api switched.
+    api: https://tether.recruitee.com/api/offers/
     notes: 'ADDED 2026-09-21 via HN Sept-2026 thread (49522897, post 49713455). Recruitee/Tellent on a custom domain; JSON at careers.tether.io/api/offers/ returns ~174 live reqs. Their own HN post: "All of our roles are fully remote, worldwide." STRUCTURAL QUIRK — they clone one req per city (12 x "Technical Lead - GPU Infrastructure" tagged Poland/Italy/Romania/Barcelona/UK/Bangalore/Armenia/Ireland/Cairo/Pakistan), so the Recruitee location field is NOISE: the TITLE carries the geo truth ("100% Remote - Worldwide"). Stack is heavily Node.js/P2P (they own HOLEPUNCH — the Holepunch Node reqs already evaluated as #83/#95 are mirrored onto this board, so DEDUP ON ROLE, NOT URL). Domain caveat: stablecoin issuer + Bitcoin mining; titles are clean of crypto/blockchain keywords so the negative title filter will not catch them. 2026-09-24: API 174 reqs. NEW 9x city-clone ''DevOps Engineer (100% remote)'' — one pipelined (dedup on role). Backend Wallets 8 clones = already evaluated. Title-filter misses: 7x ''Senior Software Architect (100% Remote - Worldwide)'', 11x ''Technical Lead - GPU Infrastructure''.'
     enabled: true
 
   - name: Zoftify
     careers_url: https://zoftify.bamboohr.com/careers
     api: https://zoftify.bamboohr.com/careers/list
-    notes: 'ADDED 2026-09-21 via RemoteRocketship, resolved to canonical BambooHR. Travel-software product agency (clients in USA/UK/Germany/Switzerland/Italy/France), fully remote since 2019, ~11-50 staff. JD text itself — not an aggregator tag — says "100% remote work from anywhere in the world", the cleanest geo signal of the run. 16 open reqs; on-stack: #41 Full Stack (React + Node.js) and #30 Backend Developer (Node) BOTH PIPELINED, plus #31 Backend Team Lead (missed by title_filter). Expect agency comp, not product-company comp. Detail endpoint: zoftify.bamboohr.com/careers/{id}/detail.'
+    notes: 'ADDED 2026-09-21 via RemoteRocketship, resolved to canonical BambooHR. Travel-software product agency (clients in USA/UK/Germany/Switzerland/Italy/France), fully remote since 2019, ~11-50 staff. JD text itself — not an aggregator tag — says "100% remote work from anywhere in the world", the cleanest geo signal of the run. 16 open reqs; on-stack: #41 Full Stack (React + Node.js) and #30 Backend Developer (Node) BOTH PIPELINED, plus #31 Backend Team Lead (missed by title_filter). Expect agency comp, not product-company comp. Detail endpoint: zoftify.bamboohr.com/careers/{id}/detail. 2026-11-02: BambooHR list returns 0 reqs — board empty (#41/#30/#31 closed).'
     enabled: true
 
   - name: Sarwa
     careers_url: https://careers.sarwa.co/jobs
-    notes: 'ADDED 2026-09-24 via Jobgether -> canonical Teamtailor (careers.sarwa.co). Abu Dhabi robo-advisor / digital wealth fintech (~50 staff, founded 2017). Board says "Fully Remote" and JD says "remote-first — where you choose to work is up to you" (Abu Dhabi office optional) — clean geo signal. STACK CAVEAT: Python/Django + Go primary, PostgreSQL, AWS/K8s, microservices/DDD — Node not named. Backend Engineer req pipelined 2026-09-24. Teamtailor jobs.json NOT exposed on this domain (404) — scrape /jobs page. 2026-10-01: careers.sarwa.co/jobs returns 400 to curl (needs Playwright); 2 reqs live, Backend Engineer (6606143) already pipelined.'
+    notes: 'ADDED 2026-09-24 via Jobgether -> canonical Teamtailor (careers.sarwa.co). Abu Dhabi robo-advisor / digital wealth fintech (~50 staff, founded 2017). Board says "Fully Remote" and JD says "remote-first — where you choose to work is up to you" (Abu Dhabi office optional) — clean geo signal. STACK CAVEAT: Python/Django + Go primary, PostgreSQL, AWS/K8s, microservices/DDD — Node not named. Backend Engineer req pipelined 2026-09-24. Teamtailor jobs.json NOT exposed on this domain (404) — scrape /jobs page. 2026-10-01: careers.sarwa.co/jobs returns 400 to curl (needs Playwright); 2 reqs live, Backend Engineer (6606143) already pipelined. 2026-11-02: Playwright — board down to 2 marketing reqs; Backend Engineer 6606143 GONE (pipelined req closed).'
     enabled: true
 
   - name: Speechify
