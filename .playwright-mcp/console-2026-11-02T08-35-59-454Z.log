@@ -1,0 +1,2 @@
+[    5323ms] [INFO] Evaluating a string as JavaScript violates the following Content Security Policy directive because 'unsafe-eval' is not an allowed source of script: "script-src 'self' https://front.hibob.com".
+ The policy is report-only, so the violation has been logged but no further action has been taken. @ https://front.hibob.com/master-a8b0e302717fae1ce1221101c9c14a8878003f23/careers/1459.380a4eb0f0c6d5fb.js:0

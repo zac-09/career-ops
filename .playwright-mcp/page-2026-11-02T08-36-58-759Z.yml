@@ -1,0 +1,407 @@
+- generic [ref=f3e1]:
+  - region "Cookie preferences":
+    - button "Save cookies preferences" [ref=f3e2] [cursor=pointer]:
+      - img "Cookie Control toggle icon" [ref=f3e3]
+    - dialog [ref=f3e5]:
+      - generic [ref=f3e6]:
+        - heading "Your choice regarding cookies on this site" [level=1] [ref=f3e7]
+        - paragraph [ref=f3e8]: Some of these cookies are essential, while others help us to improve our services and your experience by providing insights into how the site is being used.
+      - generic [ref=f3e9]:
+        - button "Accept all" [active] [ref=f3e10] [cursor=pointer]
+        - button "Reject optional" [ref=f3e11] [cursor=pointer]
+        - button "Settings" [ref=f3e12] [cursor=pointer]
+  - banner [ref=f3e14]:
+    - link "Skip to main content" [ref=f3e15] [cursor=pointer]:
+      - /url: "#main"
+    - navigation "Main navigation" [ref=f3e16]:
+      - generic [ref=f3e19]:
+        - link "Remote home" [ref=f3e20] [cursor=pointer]:
+          - /url: /
+        - list [ref=f3e23]:
+          - listitem [ref=f3e24]:
+            - button "Products" [ref=f3e25] [cursor=pointer]
+          - listitem [ref=f3e28]:
+            - button "Solutions" [ref=f3e29] [cursor=pointer]
+          - listitem [ref=f3e32]:
+            - button "Partners" [ref=f3e33] [cursor=pointer]
+          - listitem [ref=f3e36]:
+            - button "Resources" [ref=f3e37] [cursor=pointer]
+          - listitem [ref=f3e40]:
+            - link "Pricing" [ref=f3e41] [cursor=pointer]:
+              - /url: /pricing
+        - generic [ref=f3e42]:
+          - 'button "Select language — current: English" [ref=f3e45] [cursor=pointer]'
+          - generic [ref=f3e51]:
+            - link "Login" [ref=f3e53] [cursor=pointer]:
+              - /url: https://employ.remote.com/sign-in
+            - button "Book a demo" [ref=f3e56] [cursor=pointer]
+  - main [ref=f3e61]:
+    - generic [ref=f3e68]:
+      - heading "Join our team" [level=1] [ref=f3e70]
+      - generic [ref=f3e71]:
+        - paragraph [ref=f3e72]: Remote is a true global company. We do not have an office anywhere in the world. What we offer is the flexibility to work when and where you want, which means you can plan your schedule around your life (and not around meetings).
+        - paragraph [ref=f3e73]: Most of our jobs are globally remote! Job boards often require us to select a location though, so the location you see under the job titles are for advertising purposes only. To check if a role has location or timezone restrictions, please check the Practicals section at the bottom of each advert.
+      - link "See openings" [ref=f3e75] [cursor=pointer]:
+        - /url: "#jobs-wrapper"
+    - navigation "Department filter" [ref=f3e84]:
+      - list [ref=f3e85]:
+        - listitem [ref=f3e86]:
+          - link "All departments" [ref=f3e87] [cursor=pointer]:
+            - /url: /openings
+        - listitem [ref=f3e89]:
+          - link "Customer Experience" [ref=f3e90] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3AQ3VzdG9tZXIgRXhwZXJpZW5jZQ
+        - listitem [ref=f3e92]:
+          - link "EOR Operations" [ref=f3e93] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3ARU9SIE9wZXJhdGlvbnM
+        - listitem [ref=f3e95]:
+          - link "Finance" [ref=f3e96] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3ARmluYW5jZQ
+        - listitem [ref=f3e98]:
+          - link "Legal" [ref=f3e99] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3ATGVnYWw
+        - listitem [ref=f3e101]:
+          - link "Marketing" [ref=f3e102] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3ATWFya2V0aW5n
+        - listitem [ref=f3e104]:
+          - link "Payroll" [ref=f3e105] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3AUGF5cm9sbA
+        - listitem [ref=f3e107]:
+          - link "Product" [ref=f3e108] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3AUHJvZHVjdA
+        - listitem [ref=f3e110]:
+          - link "Risk Operations" [ref=f3e111] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3AUmlzayBPcGVyYXRpb25z
+        - listitem [ref=f3e113]:
+          - link "Sales" [ref=f3e114] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3AU2FsZXM
+    - generic [ref=f3e120]:
+      - region [ref=f3e121]:
+        - heading "Customer Experience" [level=2] [ref=f3e123]
+        - list [ref=f3e124]:
+          - listitem [ref=f3e125]:
+            - link "Specialist, Payroll Client Services" [ref=f3e126] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/340a9752-885a-46a1-8329-be9e42c21470
+          - listitem [ref=f3e132]:
+            - link "Payroll Client Services Specialist Lead - UK" [ref=f3e133] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/010651de-9f5a-4443-9248-56bb8a2f6dc7
+          - listitem [ref=f3e139]:
+            - link "Sr. Customer Success Manager, MM/ENT - AMER" [ref=f3e140] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/e17bc9df-b0b2-4639-baa5-fd8e08566a23
+          - listitem [ref=f3e146]:
+            - link "Coordinator, Payroll Client Services - APAC" [ref=f3e147] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/1c6e6ac9-5ef5-4357-97f6-ffdc485ac6e8
+          - listitem [ref=f3e153]:
+            - link "Coordinator, Payroll Client Services - AMER" [ref=f3e154] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/fb9e4132-8ecb-4d13-a061-f77763eb3501
+      - region [ref=f3e160]:
+        - heading "EOR Operations" [level=2] [ref=f3e162]
+        - list [ref=f3e163]:
+          - listitem [ref=f3e164]:
+            - link "Senior Lifecycle Specialist, Employee Relations & Transitions - AMER" [ref=f3e165] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/a0b3d7b3-7a31-4a69-b8a4-cc6a455af46f
+          - listitem [ref=f3e171]:
+            - link "Manager, Mobility" [ref=f3e172] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/bafbe437-8af0-44be-bef6-bf8ee456cd8d
+          - listitem [ref=f3e178]:
+            - link "Payroll Specialist Lead - Netherlands" [ref=f3e179] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/1d580702-331f-40b9-994b-bc56f3023fd7
+          - listitem [ref=f3e185]:
+            - link "Payroll Specialist Lead - Canada" [ref=f3e186] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/9f9e6a18-f44a-497c-9ae9-7745a8eefa2f
+          - listitem [ref=f3e192]:
+            - link "Senior Lifecycle Specialist, Benefits & Insurance Management" [ref=f3e193] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/dde0c4ec-a210-4f0e-be0c-79f2761dbbba
+          - listitem [ref=f3e199]:
+            - link "Lifecycle Operations Lead (HR Process and System Specialist) - EMEA" [ref=f3e200] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/60e33d15-ec42-433c-b964-a4e758052036
+          - listitem [ref=f3e206]:
+            - link "Manager, Payroll Operations - Eastern Europe" [ref=f3e207] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/c4664116-f2a2-4876-ac3e-9ed2d00a1fc0
+          - listitem [ref=f3e213]:
+            - link "Payroll Specialist Lead - France" [ref=f3e214] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/aafbac95-c9df-416e-ac98-2eefc59a81b6
+          - listitem [ref=f3e220]:
+            - link "HR AI and Automation Operations Lead - Benefits" [ref=f3e221] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/de06dc96-8f28-458a-99d6-6eb70ab4dcb0
+          - listitem [ref=f3e227]:
+            - link "Mobility Specialist" [ref=f3e228] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/679ab3cc-71e3-4a23-b4ee-7646132fb995
+          - listitem [ref=f3e234]:
+            - link "HR AI & Automation Operations Lead - Mobility" [ref=f3e235] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/f5e1d99a-5562-4725-9e64-ab1b342000e1
+          - listitem [ref=f3e241]:
+            - link "Payroll Specialist Lead - Japan" [ref=f3e242] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/ea657c7f-1f8d-4741-88c9-bebc97be1d8b
+          - listitem [ref=f3e248]:
+            - link "Manager, Lifecycle Time & Attendance - AMER" [ref=f3e249] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/4e00a0fb-6565-42eb-bada-705394b94546
+          - listitem [ref=f3e255]:
+            - link "Lifecycle Specialist, Employee Relations & Transitions" [ref=f3e256] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/02856f59-84b1-4634-a508-05082b509e4f
+          - listitem [ref=f3e262]:
+            - link "EOR Compliance & Audit Lead" [ref=f3e263] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/9b504ff4-ba2d-4eae-8423-67124728c8df
+          - listitem [ref=f3e269]:
+            - link "Payroll Specialist Lead - India" [ref=f3e270] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/f11c3c9c-660f-4416-8199-da5546896bef
+          - listitem [ref=f3e276]:
+            - link "Senior Lifecycle Specialist, Employee Relations & Transitions - EMEA" [ref=f3e277] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/773811e3-3830-4d6e-a137-3166a36e81d5
+      - region [ref=f3e283]:
+        - heading "Finance" [level=2] [ref=f3e285]
+        - list [ref=f3e286]:
+          - listitem [ref=f3e287]:
+            - link "Senior Tax Manager" [ref=f3e288] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/4ab729a5-e034-4fd3-8fee-e114757eabf1
+          - listitem [ref=f3e294]:
+            - link "Tax Analyst - PEO" [ref=f3e295] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/b9299933-d841-4fdd-8b34-7e714e010ee7
+          - listitem [ref=f3e301]:
+            - link "Tax Analyst (Direct Tax)" [ref=f3e302] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/02ef4dff-72b8-4289-9497-8cb8856b6968
+          - listitem [ref=f3e308]:
+            - link "Accounting Analyst" [ref=f3e309] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/7c07f678-d631-4bff-b737-d670b8bd3cb5
+      - region [ref=f3e315]:
+        - heading "Legal" [level=2] [ref=f3e317]
+        - list [ref=f3e318]:
+          - listitem [ref=f3e319]:
+            - link "Managing Counsel, Product (PAYROLL EXPERIENCE REQUIRED)" [ref=f3e320] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/b4ae4564-738a-46de-9ee1-bc725f906e0e
+          - listitem [ref=f3e326]:
+            - link "Senior Legal Counsel - Core" [ref=f3e327] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/c25ccc33-480d-4035-95a4-412f3f4646f6
+          - listitem [ref=f3e333]:
+            - link "Senior Legal Counsel" [ref=f3e334] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/5ae89c8c-9c24-4650-bde4-cc28c2f3ccfa
+          - listitem [ref=f3e340]:
+            - link "Managing Counsel, Employment Legal" [ref=f3e341] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/15b23d94-cae1-490f-9d6e-806d3309a8cc
+      - region [ref=f3e347]:
+        - heading "Marketing" [level=2] [ref=f3e349]
+        - list [ref=f3e350]:
+          - listitem [ref=f3e351]:
+            - link "Senior Marketing Manager, Lifecycle Marketing - Messaging Channels" [ref=f3e352] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/fe8481e4-3401-4050-8730-7174c49cf203
+          - listitem [ref=f3e358]:
+            - link "Integrated Campaign Manager" [ref=f3e359] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/a67929d2-7843-49d1-9c6f-2d7482eca901
+          - listitem [ref=f3e365]:
+            - link "Senior Partner Marketing Manager" [ref=f3e366] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/bb05278b-9554-43eb-a67f-1840a05649de
+          - listitem [ref=f3e372]:
+            - link "Principal, Marketing Analytics" [ref=f3e373] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/380be4ef-7a24-4fc9-b06d-acdec58d51bb
+      - region [ref=f3e379]:
+        - heading "Payroll" [level=2] [ref=f3e381]
+        - list [ref=f3e382]:
+          - listitem [ref=f3e383]:
+            - link "Manager, Project Management" [ref=f3e384] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/f9f85de8-b172-4fbb-bbe8-f53aba3490f2
+          - listitem [ref=f3e390]:
+            - link "Payroll Implementation Lead - Spain" [ref=f3e391] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/d5ed8b07-2115-4226-866c-903b1d3963bf
+          - listitem [ref=f3e397]:
+            - link "Operational Assurance Lead" [ref=f3e398] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/16778c83-8995-4003-886a-1b6e262eaf93
+          - listitem [ref=f3e404]:
+            - link "Migration Assurance Specialist" [ref=f3e405] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/765480ce-d94c-43fc-879c-9b1d5bab9111
+          - listitem [ref=f3e411]:
+            - link "Payroll Implementation Lead - Germany" [ref=f3e412] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/eaddb247-0a85-46b2-8d02-f57632ede8f6
+          - listitem [ref=f3e418]:
+            - link "Payroll Vendor Relationship Manager" [ref=f3e419] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/a0032907-5bda-4833-b461-28fd982f4f12
+          - listitem [ref=f3e425]:
+            - link "Payroll Specialist Lead - Spain" [ref=f3e426] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/c4d74343-f96d-472c-8676-9bda939182d5
+          - listitem [ref=f3e432]:
+            - link "Manager, Payroll Operations - Colombia and Brazil" [ref=f3e433] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/82aa9fad-7246-4af8-8014-b7f48819df5e
+      - region [ref=f3e439]:
+        - heading "Product" [level=2] [ref=f3e441]
+        - list [ref=f3e442]:
+          - listitem [ref=f3e443]:
+            - link "Senior Product Manager, HRIS Integrations" [ref=f3e444] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/2782e924-1848-4d56-8733-0453fa35056e
+      - region [ref=f3e450]:
+        - heading "Risk Operations" [level=2] [ref=f3e452]
+        - list [ref=f3e453]:
+          - listitem [ref=f3e454]:
+            - link "Senior Compliance Officer – Netherlands" [ref=f3e455] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/03cb74fd-5115-4d64-a400-d5b8d9034bc4
+      - region [ref=f3e461]:
+        - heading "Sales" [level=2] [ref=f3e463]
+        - list [ref=f3e464]:
+          - listitem [ref=f3e465]:
+            - link "Principal CRM Engineer" [ref=f3e466] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/ef51d083-81fa-4e0d-ba06-278df11a7630
+          - listitem [ref=f3e472]:
+            - link "Associate Account Executive - AMER" [ref=f3e473] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/34e7b7bf-74b7-4b40-9585-bbf4a238f0ed
+          - listitem [ref=f3e479]:
+            - link "Account Executive - AMER" [ref=f3e480] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/ffb49b16-6105-4310-b3b7-4ca3b83b4301
+          - listitem [ref=f3e486]:
+            - link "Associate Account Manager" [ref=f3e487] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/9178a8fb-451f-4dde-a040-074d8d139201
+          - listitem [ref=f3e493]:
+            - link "RFP Response Manager" [ref=f3e494] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/c2101144-fbd7-40ea-b955-87434ecf69f4
+          - listitem [ref=f3e500]:
+            - link "Director, Strategic Partner Sales" [ref=f3e501] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/5e5491a1-4681-4aed-86f8-45dd167e57b7
+          - listitem [ref=f3e507]:
+            - link "Enterprise Account Executive - Workday Practice" [ref=f3e508] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/83659595-7881-4509-8757-a2c00b58affc
+          - listitem [ref=f3e514]:
+            - link "Senior Account Executive - AMER MM+" [ref=f3e515] [cursor=pointer]:
+              - /url: https://apply.remote.com/jobs/34293d65-5a1b-4c65-b095-17a0da0af906
+    - generic [ref=f3e525]:
+      - article [ref=f3e526]:
+        - generic [ref=f3e529]:
+          - heading [level=3] [ref=f3e532]:
+            - link "October product updates" [ref=f3e533] [cursor=pointer]:
+              - /url: /blog/october-product-updates
+          - link "Monthly Updates" [ref=f3e535] [cursor=pointer]:
+            - /url: /blog/tag/monthly-updates
+      - article [ref=f3e537]:
+        - heading [level=3] [ref=f3e543]:
+          - link "Benchmarking Global HR and Payroll" [ref=f3e544] [cursor=pointer]:
+            - /url: /blog/benchmarking-global-hr-and-payroll
+      - article [ref=f3e545]:
+        - heading [level=3] [ref=f3e551]:
+          - 'link "The story of our new global brand campaign: For a world that works" [ref=f3e552] [cursor=pointer]':
+            - /url: /blog/for-a-world-that-works
+  - contentinfo [ref=f3e554]:
+    - generic [ref=f3e555]:
+      - generic [ref=f3e556]:
+        - list [ref=f3e561]:
+          - listitem [ref=f3e562]:
+            - link "App Store (opens in new tab)" [ref=f3e563] [cursor=pointer]:
+              - /url: https://apps.apple.com/app/apple-store/id1613496903?pt=122685638&ct=Remote.com&mt=8
+          - listitem [ref=f3e564]:
+            - link "Google Play (opens in new tab)" [ref=f3e565] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.remote.employ&referrer=utm_source%3DRemote.com%26utm_medium%3Dbanner
+        - navigation "Footer" [ref=f3e566]:
+          - generic [ref=f3e567]:
+            - paragraph [ref=f3e568]: Products
+            - list [ref=f3e569]:
+              - listitem [ref=f3e570]:
+                - link "Global Payroll" [ref=f3e571] [cursor=pointer]:
+                  - /url: /global-hr/global-payroll
+              - listitem [ref=f3e572]:
+                - link "Employer of Record" [ref=f3e573] [cursor=pointer]:
+                  - /url: /global-hr/employer-of-record
+              - listitem [ref=f3e574]:
+                - link "PEO (US)" [ref=f3e575] [cursor=pointer]:
+                  - /url: /global-hr/professional-employer-organization
+              - listitem [ref=f3e576]:
+                - link "Contractor of Record" [ref=f3e577] [cursor=pointer]:
+                  - /url: /global-hr/contractor-of-record
+              - listitem [ref=f3e578]:
+                - link "Contractor Management" [ref=f3e579] [cursor=pointer]:
+                  - /url: /global-hr/contractor-management
+          - generic [ref=f3e580]:
+            - paragraph [ref=f3e581]: Developers
+            - list [ref=f3e582]:
+              - listitem [ref=f3e583]:
+                - link "API Reference" [ref=f3e584] [cursor=pointer]:
+                  - /url: /global-hr/remote-api
+              - listitem [ref=f3e585]:
+                - link "MCP Server" [ref=f3e586] [cursor=pointer]:
+                  - /url: /remote-mcp
+              - listitem [ref=f3e587]:
+                - link "CLI" [ref=f3e588] [cursor=pointer]:
+                  - /url: https://developer.remote.com/
+              - listitem [ref=f3e589]:
+                - link "Webhooks" [ref=f3e590] [cursor=pointer]:
+                  - /url: https://developer.remote.com/docs/subscribing-to-webhooks
+              - listitem [ref=f3e591]:
+                - link "Status" [ref=f3e592] [cursor=pointer]:
+                  - /url: /status
+          - generic [ref=f3e593]:
+            - paragraph [ref=f3e594]: Solutions
+            - list [ref=f3e595]:
+              - listitem [ref=f3e596]:
+                - link "Startups" [ref=f3e597] [cursor=pointer]:
+                  - /url: /global-hr/startups
+              - listitem [ref=f3e598]:
+                - link "Mid-Market" [ref=f3e599] [cursor=pointer]:
+                  - /url: /global-hr/midsize
+              - listitem [ref=f3e600]:
+                - link "Enterprise" [ref=f3e601] [cursor=pointer]:
+                  - /url: /global-hr/enterprise
+              - listitem [ref=f3e602]:
+                - link "Partners" [ref=f3e603] [cursor=pointer]:
+                  - /url: /partners
+          - generic [ref=f3e604]:
+            - paragraph [ref=f3e605]: Resources
+            - list [ref=f3e606]:
+              - listitem [ref=f3e607]:
+                - link "Blog" [ref=f3e608] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=f3e609]:
+                - link "Global hiring guides" [ref=f3e610] [cursor=pointer]:
+                  - /url: /country-explorer
+              - listitem [ref=f3e611]:
+                - link "Help center" [ref=f3e612] [cursor=pointer]:
+                  - /url: https://support.remote.com/
+              - listitem [ref=f3e613]:
+                - link "Security" [ref=f3e614] [cursor=pointer]:
+                  - /url: /why-remote/security-compliance
+              - listitem [ref=f3e615]:
+                - link "Changelog" [ref=f3e616] [cursor=pointer]:
+                  - /url: https://developer.remote.com/docs/changelogs
+          - generic [ref=f3e617]:
+            - paragraph [ref=f3e618]: Company
+            - list [ref=f3e619]:
+              - listitem [ref=f3e620]:
+                - link "About" [ref=f3e621] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f3e622]:
+                - link "Careers" [ref=f3e623] [cursor=pointer]:
+                  - /url: /careers
+              - listitem [ref=f3e624]:
+                - link "Newsroom" [ref=f3e625] [cursor=pointer]:
+                  - /url: /blog/tag/company-news
+              - listitem [ref=f3e626]:
+                - link "Contact" [ref=f3e627] [cursor=pointer]:
+                  - /url: /contact-us
+              - listitem [ref=f3e628]:
+                - link "Accessibility Statement" [ref=f3e629] [cursor=pointer]:
+                  - /url: /policy/accessibility-statement
+          - list [ref=f3e631]:
+            - listitem [ref=f3e632]:
+              - link "Remote's LinkedIn account (opens in new tab)" [ref=f3e633] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/remote.com
+            - listitem [ref=f3e636]:
+              - link "Remote's X account (opens in new tab)" [ref=f3e637] [cursor=pointer]:
+                - /url: https://x.com/remote
+            - listitem [ref=f3e640]:
+              - link "Remote's Instagram account (opens in new tab)" [ref=f3e641] [cursor=pointer]:
+                - /url: https://www.instagram.com/remote/
+            - listitem [ref=f3e644]:
+              - link "Remote's YouTube channel (opens in new tab)" [ref=f3e645] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCPJsrP8zyttajAybEMQBNgA
+      - generic [ref=f3e648]:
+        - paragraph [ref=f3e651]: © 2026 Remote Technologies, Inc. All rights reserved.
+        - list [ref=f3e653]:
+          - listitem [ref=f3e654]:
+            - link "Privacy Policy" [ref=f3e655] [cursor=pointer]:
+              - /url: /policy/privacy-policy
+          - listitem [ref=f3e656]:
+            - link "Cookie Policy" [ref=f3e657] [cursor=pointer]:
+              - /url: /policy/cookie-policy
+          - listitem [ref=f3e658]:
+            - link "Terms of Use" [ref=f3e659] [cursor=pointer]:
+              - /url: /policy/terms-of-use
+          - listitem [ref=f3e660]:
+            - link "Disclaimer" [ref=f3e661] [cursor=pointer]:
+              - /url: /policy/disclaimer
+          - listitem [ref=f3e662]:
+            - link "Imprint" [ref=f3e663] [cursor=pointer]:
+              - /url: /policy/imprint
+  - alert [ref=f3e664]
