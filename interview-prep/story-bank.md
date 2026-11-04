@@ -312,3 +312,21 @@ This file accumulates your best interview stories over time. Each evaluation (Bl
 **R (Result):** 14 of 52 queries remain enabled; the scan's per-run cost dropped while adds per run held steady, and the history file shows exactly why every URL was accepted or rejected.
 **Reflection:** Automation that is not measured quietly rots. The disable rule did more for signal quality than any prompt change, because it removed sources that were wrong twice instead of asking the agent to be smarter about them. The same discipline applies to automated PR review: log every finding with a reason, measure precision, and cut the noisy checks.
 **Best for questions about:** measuring tooling effectiveness and operating cost, reducing noise in automated review, running agents in scheduled workflows, judgment about AI-agent limitations.
+
+### [Gap handling] AI evals from representative examples — answer straight
+**Source:** Report #256 — eventfirst — Senior Full-Stack Engineer (TypeScript, AI)
+**S (Situation):** AI-product JDs now list "build evals from representative examples to measure quality, investigate failures and test improvements" as a must-have. cv.md has no eval suite; the nearest real work is career-ops' verification gates and logged rejection reasons.
+**T (Task):** Answer without passing guardrails off as evals, and show a credible method.
+**A (Action):** Name the gap first. Separate the two things: guardrails (deterministic checks before the model, as in career-ops) stop bad inputs; evals measure whether a change made outputs better. Describe the method: collect representative cases with labelled expected outcomes, set a pass-rate baseline, categorise every failure, rerun on each prompt/model change, and add each new production failure to the set. Close with an artifact: a fixture-based eval set for the career-ops scorer (past postings with known geo/score verdicts) run under Vitest. Cite it only once it exists.
+**R (Result):** The gap becomes evidence of method rather than a screen-out, and the artifact doubles as the "project you're proud of".
+**Reflection:** Guardrails and evals are different jobs. A pipeline can be safe and still quietly get worse; only a fixed example set tells you which.
+**Best for questions about:** "How do you evaluate an AI feature?", LLM quality regression, investigating AI failures, prompt iteration discipline.
+
+### [Gap handling] Answering the Java / Postgres gap for a JVM trading stack
+**Source:** Report #255 — KSC Trading — Senior Backend Software Engineer
+**S (Situation):** A small trading firm runs on Java, GCP and Postgres. cv.md has no Java anywhere, names no relational engine in any role, and "SQL" on the Proficient line has no project behind it. GCP is strong (Pub/Sub, GCS, 20+ app migration). The JD says "experience with the tech stack is not expected".
+**T (Task):** Turn an explicitly waived stack gap into evidence of how fast he ramps, without claiming JVM or Postgres production time.
+**A (Action):** Name it in the first email, not at the screen. Point to static-typing ground already covered (production TypeScript at Dr Wealth; Go and Rust at Intermediate). Bring something built: a small public Java service that pulls one public prediction-market data API, normalises it into a single schema, writes to Postgres, and comes with a test and one measured latency or throughput number.
+**R (Result):** The interview moves from "can he write Java?" to "here is his Java, and it does our job in miniature". (Pending: repo not yet built.)
+**Reflection:** When a team says stack experience isn't required, the cheapest way to win is to remove their doubt before they have to take the risk. One weekend repo covers Java, Postgres and the domain at once.
+**Best for questions about:** "Have you written Java?", "Postgres in production?", primary-language mismatch, ramp speed, interest in trading/market-data domains.

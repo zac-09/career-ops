@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Isaac Mubiru — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin-ext.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin-ext.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { font-family: 'DM Sans', sans-serif; font-size: 11px; line-height: 1.55; color: #1a1a2e; background: #fff; }
+  .page { width: 100%; max-width: 210mm; margin: 0 auto; }
+  .header h1 { font-family: 'Space Grotesk', sans-serif; font-size: 24px; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 4px; }
+  .header-gradient { height: 2px; background: linear-gradient(to right, hsl(187,74%,32%), hsl(270,70%,45%)); border-radius: 1px; margin-bottom: 8px; }
+  .contact-row { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 10px; color: #555; margin-bottom: 18px; }
+  .contact-row a { color: #555; text-decoration: none; }
+  .contact-row .separator { color: #ccc; }
+  a { white-space: nowrap; }
+  .re { font-family: 'Space Grotesk', sans-serif; font-size: 12px; font-weight: 600; color: hsl(187,74%,32%); margin-bottom: 12px; }
+  p { margin-bottom: 10px; color: #333; }
+  strong { font-weight: 600; color: #1a1a2e; }
+  .sign { margin-top: 14px; }
+  .sign .name { font-family: 'Space Grotesk', sans-serif; font-weight: 600; color: hsl(270,70%,45%); }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="header">
+    <h1>Isaac Mubiru</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>isaacmubiru99@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://linkedin.com/in/isaac-mubiru-3bb728174">linkedin.com/in/isaac-mubiru</a>
+      <span class="separator">|</span>
+      <a href="https://github.com/zac-09">github.com/zac-09</a>
+      <span class="separator">|</span>
+      <span>Kampala, Uganda &middot; EAT (UTC+3)</span>
+    </div>
+  </div>
+
+  <div class="re">Re: Job no. 596538 &mdash; Connectivity Credits Backend Software Engineering Consultant, Digital Impact Division (6 months, remote)</div>
+
+  <p>Dear Hiring Manager,</p>
+
+  <p>Connectivity Credits is moving from pilots to a production platform that links measured connectivity to incentives for providers, through <strong>event-driven workflows, integrations and rule-based decisions</strong>. That is the kind of backend I have built and operated: services that consume events, call external systems and must keep data correct while live traffic is running. I would like to provide that capacity for the next six months, working within the architecture your product and tech team sets.</p>
+
+  <p><strong>Event-driven and distributed systems.</strong> At CodeBits I architected an event-driven microservices backend on <strong>Apache Kafka, Docker and Kubernetes</strong> for FIDA Uganda's case-management system, with gRPC between services. At MTailor I built a real-time two-way sync between MongoDB and Firestore on <strong>Google Pub/Sub</strong>, which let 20+ production applications move to GCP with zero downtime. Asynchronous, message-driven processing was the core of both.</p>
+
+  <p><strong>Backend services, APIs and integrations.</strong> Six years of Node.js backend work. At Dr Wealth I extended backend APIs in <strong>TypeScript</strong> (Cloud Functions, Express.js) and ran jobs over 2 million records against the Morningstar APIs to keep customer prices current. I use <strong>Python</strong> for data and migration tooling (S3 to Google Cloud Storage at MTailor) and wrote the Node.js and Python SDK documentation other engineers worked from. I have also built <strong>Web3 backends</strong> for DeFi applications at Mind2matter, which is relevant to the digital value-transfer side of the platform.</p>
+
+  <p><strong>Building for the contexts Giga serves.</strong> I am based in Kampala and have built for users at the edge of connectivity: a USSD service that let legal-aid providers in Uganda reach people on basic phones, backed by a Node.js service. The pilots in Kenya, Malawi and South Africa sit in my region and time zone, two hours ahead of Geneva, and I speak English and Kiswahili.</p>
+
+  <p>I have worked remotely and independently for five years, for US and Singapore teams, reporting directly to the CTO at MTailor and Mind2matter. I take a technical design, ask the questions early, and ship maintainable code. To be direct about where I would ramp: my TypeScript production time is shorter than my Node.js time, and I have not worked with a dedicated rules or workflow engine. I would close both in the first weeks against your existing MVP code.</p>
+
+  <p>My CV and financial proposal are attached. Thank you for your consideration.</p>
+
+  <div class="sign">
+    <p>Sincerely,<br><span class="name">Isaac Mubiru</span></p>
+  </div>
+</div>
+</body>
+</html>
