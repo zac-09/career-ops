@@ -1,0 +1,1 @@
+[    4543ms] [WARNING] The resource https://netbird.io/_next/static/chunks/eb7fb74ccc213572.css?dpl=dpl_C2wV9wjN8dNt1X4nYH8iiP6Kjb5q was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://netbird.io/careers:0

@@ -1,0 +1,411 @@
+- generic [active] [ref=f106e1]:
+  - navigation [ref=f106e2]:
+    - generic [ref=f106e4]:
+      - generic [ref=f106e5]:
+        - link [ref=f106e6] [cursor=pointer]:
+          - /url: /
+          - img "NetBird.io" [ref=f106e7]
+        - generic [ref=f106e8]:
+          - link [ref=f106e9] [cursor=pointer]:
+            - /url: https://github.com/netbirdio/netbird
+            - button [ref=f106e10]:
+              - img "netbird.io" [ref=f106e12]
+          - link [ref=f106e13] [cursor=pointer]:
+            - /url: https://trust.netbird.io
+      - generic [ref=f106e17]:
+        - list [ref=f106e18]:
+          - listitem [ref=f106e19]:
+            - generic [ref=f106e20] [cursor=pointer]: Use Cases
+          - listitem [ref=f106e23]:
+            - link "Resources" [ref=f106e24] [cursor=pointer]:
+              - /url: /knowledge-hub
+          - listitem [ref=f106e27]:
+            - link "Community" [ref=f106e28] [cursor=pointer]:
+              - /url: /community
+          - listitem [ref=f106e31]:
+            - link "Docs" [ref=f106e32] [cursor=pointer]:
+              - /url: https://docs.netbird.io/
+          - listitem [ref=f106e35]:
+            - link "Pricing" [ref=f106e36] [cursor=pointer]:
+              - /url: /pricing
+          - listitem [ref=f106e37]:
+            - link "Install" [ref=f106e38] [cursor=pointer]:
+              - /url: https://app.netbird.io/install
+        - link [ref=f106e39] [cursor=pointer]:
+          - /url: https://app.netbird.io/
+          - button "Get Started" [ref=f106e41]
+  - main [ref=f106e44]:
+    - generic [ref=f106e47]:
+      - link "Why" [ref=f106e48] [cursor=pointer]:
+        - /url: "#why"
+      - link "Values" [ref=f106e50] [cursor=pointer]:
+        - /url: "#values"
+      - link "Culture" [ref=f106e51] [cursor=pointer]:
+        - /url: "#culture"
+      - link "Positions" [ref=f106e52] [cursor=pointer]:
+        - /url: "#positions"
+    - generic [ref=f106e53]:
+      - generic [ref=f106e57]:
+        - heading "Come build something that matters people rely on you're proud of" [level=1] [ref=f106e58]:
+          - text: Come build something
+          - generic [ref=f106e59]:
+            - generic [ref=f106e60]: that matters
+            - generic [ref=f106e61]: people rely on
+            - generic [ref=f106e62]: you're proud of
+        - paragraph [ref=f106e63]: A small team of talented people taking on the giants of network security. Open source, built in Europe, used by thousands worldwide.
+      - generic [ref=f106e67]:
+        - link "25k+ GitHub stars" [ref=f106e68] [cursor=pointer]:
+          - /url: https://github.com/netbirdio/netbird
+          - generic [ref=f106e72]: 25k+
+          - generic [ref=f106e73]: GitHub stars
+        - link "Series A Funded & growing" [ref=f106e74] [cursor=pointer]:
+          - /url: https://www.nautacapital.com/news-insights/netbird-10m-series-a
+          - generic [ref=f106e78]: Series A
+          - generic [ref=f106e79]: Funded & growing
+        - generic [ref=f106e80]:
+          - generic [ref=f106e84]: European
+          - generic [ref=f106e85]: Built in Berlin
+        - link "Global Customers worldwide" [ref=f106e86] [cursor=pointer]:
+          - /url: /customers
+          - generic [ref=f106e92]: Global
+          - generic [ref=f106e93]: Customers worldwide
+      - generic [ref=f106e96]:
+        - heading "Secure private networking is a fundamental right of every modern company" [level=2] [ref=f106e98]
+        - generic [ref=f106e99]:
+          - paragraph [ref=f106e100]: Network security is complex and expensive, often built for companies with multi-million dollar IT budgets, while millions of smaller teams are left behind. NetBird's mission is to make advanced networking and cybersecurity easy to use and affordable for teams of all sizes. By combining open source with modern technology, NetBird aims to set the standard for connecting and securing IT infrastructure.
+          - paragraph [ref=f106e101]: Building something like NetBird is hard, which is exactly why it's fun. The people who thrive here love open source and networking, own problems end to end, and would rather build a new standard than keep an old one running. If you've ever figured you could do networking better, you'll fit right in.
+    - generic [ref=f106e104]:
+      - generic [ref=f106e106]:
+        - text: How we work
+        - heading "Our values" [level=2] [ref=f106e107]
+        - paragraph [ref=f106e108]: How we work together matters as much as what we ship, especially when the world runs on what we build. These are the principles we work by.
+      - generic [ref=f106e109]:
+        - generic [ref=f106e111]:
+          - heading "Build in the open" [level=3] [ref=f106e116]
+          - paragraph [ref=f106e117]: Open source isn't a feature, it's how we work. Our code is public and people run what we ship every day. That openness keeps us honest.
+        - generic [ref=f106e119]:
+          - heading "Own the outcome" [level=3] [ref=f106e124]
+          - paragraph [ref=f106e125]: Small team, real scope. You own problems end to end and see your work in production fast, not buried in process.
+        - generic [ref=f106e127]:
+          - heading "Default to candor" [level=3] [ref=f106e131]
+          - paragraph [ref=f106e132]: Direct, kind, and specific. Best argument wins, not the loudest voice, and feedback stays about the work, never the person.
+        - generic [ref=f106e134]:
+          - heading "Stay close to the user" [level=3] [ref=f106e137]
+          - paragraph [ref=f106e138]: Engineers talk to users and everyone does support sometimes. The product is everyone's job, not a department.
+        - generic [ref=f106e140]:
+          - heading "It just has to work" [level=3] [ref=f106e143]
+          - paragraph [ref=f106e144]: We build for the teams actually using NetBird, make it genuinely good first, and earn the right to scale instead of over-engineering.
+        - generic [ref=f106e146]:
+          - heading "Security is the promise" [level=3] [ref=f106e150]
+          - paragraph [ref=f106e151]: Networks around the world trust us to protect them, and we earn that trust every day. Reliability is the baseline, not a feature.
+    - generic [ref=f106e152]:
+      - generic [ref=f106e154]:
+        - generic [ref=f106e156]:
+          - text: Working here
+          - heading "Life at NetBird" [level=2] [ref=f106e157]
+          - paragraph [ref=f106e158]: "We value doing things together: the hard problems and the wins, but also the dinners, the offsites, and everything in between."
+        - generic [ref=f106e162]:
+          - img "NetBird team at a laser tag offsite" [ref=f106e164]
+          - img "The NetBird team in a working session" [ref=f106e166]
+          - img "NetBird team at a conference booth" [ref=f106e168]
+          - img "NetBird team working from an offsite" [ref=f106e170]
+          - img "NetBird team dinner" [ref=f106e172]
+          - img "The NetBird office in Berlin" [ref=f106e174]
+          - img "NetBird team at a paintball offsite" [ref=f106e176]
+          - img "NetBird team out for hotpot" [ref=f106e178]
+          - img "NetBird team at a laser tag offsite" [ref=f106e180]
+          - img "The NetBird team in a working session" [ref=f106e182]
+          - img "NetBird team at a conference booth" [ref=f106e184]
+          - img "NetBird team working from an offsite" [ref=f106e186]
+          - img "NetBird team dinner" [ref=f106e188]
+          - img "The NetBird office in Berlin" [ref=f106e190]
+          - img "NetBird team at a paintball offsite" [ref=f106e192]
+          - img "NetBird team out for hotpot" [ref=f106e194]
+      - generic [ref=f106e196]:
+        - generic [ref=f106e198]:
+          - text: In their words
+          - heading "What the team says" [level=2] [ref=f106e199]
+        - generic [ref=f106e201]:
+          - generic [ref=f106e202]:
+            - button "Previous" [disabled] [ref=f106e203]
+            - button "Next" [ref=f106e206] [cursor=pointer]
+          - generic [ref=f106e209]:
+            - figure "Brandon Brandon Developer Advocate Brandon on LinkedIn Brandon on GitHub" [ref=f106e210]:
+              - blockquote [ref=f106e211]: “I was running NetBird in my own homelab before I ever worked here, so joining wasn't a leap. I've built my whole career around open source, and NetBird is one of the few companies where that's the foundation, not a checkbox. It makes marketing simple too. When the product is this good, my job is mostly just showing people what it can do.”
+              - generic [ref=f106e212]:
+                - img "Brandon" [ref=f106e213]
+                - generic [ref=f106e214]:
+                  - generic [ref=f106e215]: Brandon
+                  - generic [ref=f106e216]: Developer Advocate
+                - generic [ref=f106e217]:
+                  - link "Brandon on LinkedIn" [ref=f106e218] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/hopki/
+                  - link "Brandon on GitHub" [ref=f106e223] [cursor=pointer]:
+                    - /url: https://github.com/TechHutTV
+            - figure "Driton Driton Account Executive Driton on LinkedIn" [ref=f106e227]:
+              - blockquote [ref=f106e228]: "“I joined NetBird because I wanted to work on something that actually matters. Something built the right way: secure, simple, open source, made in Europe, and giving people real control over their own networks. The mission clicked with me immediately, and after meeting the team, it felt like the right place to do my best work. The chance to help grow a fast-moving project from the inside made the decision easy.”"
+              - generic [ref=f106e229]:
+                - img "Driton" [ref=f106e230]
+                - generic [ref=f106e231]:
+                  - generic [ref=f106e232]: Driton
+                  - generic [ref=f106e233]: Account Executive
+                - link "Driton on LinkedIn" [ref=f106e235] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/dritonhalili/
+            - figure "Nima Nima Chief of Staff Nima on LinkedIn Nima on GitHub" [ref=f106e240]:
+              - blockquote [ref=f106e241]: "“The best part of this job is the people: a genuinely talented team that loves solving hard technical problems. Getting to work alongside them and help build the company around them is exactly what I came here for.”"
+              - generic [ref=f106e242]:
+                - img "Nima" [ref=f106e243]
+                - generic [ref=f106e244]:
+                  - generic [ref=f106e245]: Nima
+                  - generic [ref=f106e246]: Chief of Staff
+                - generic [ref=f106e247]:
+                  - link "Nima on LinkedIn" [ref=f106e248] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/nima-sadeghifard-85b848146/
+                  - link "Nima on GitHub" [ref=f106e253] [cursor=pointer]:
+                    - /url: https://github.com/nsadeghi97
+            - figure "Viktor Viktor Engineer Viktor on LinkedIn Viktor on GitHub" [ref=f106e257]:
+              - blockquote [ref=f106e258]: “Beyond the day-to-day work, I get to bring in the ideas I find exciting and actually build them into the product. They don't sit in a backlog; they ship and get used by real people. NetBird is one of the few places where I can combine the two things I care about most, networking and deep coding, and that combination is genuinely rare.”
+              - generic [ref=f106e259]:
+                - img "Viktor" [ref=f106e260]
+                - generic [ref=f106e261]:
+                  - generic [ref=f106e262]: Viktor
+                  - generic [ref=f106e263]: Engineer
+                - generic [ref=f106e264]:
+                  - link "Viktor on LinkedIn" [ref=f106e265] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/viktor-l-002056173/
+                  - link "Viktor on GitHub" [ref=f106e270] [cursor=pointer]:
+                    - /url: https://github.com/lixmal
+            - figure "Pascal Pascal Engineer Pascal on LinkedIn Pascal on GitHub" [ref=f106e274]:
+              - blockquote [ref=f106e275]: "“Having worked with Misha and Maycon in the past, joining them was an easy decision: great people, an amazing vision, and a product I believed in from day one. What makes building NetBird special is seeing your own ideas shape the product and become something our customers rely on every day.”"
+              - generic [ref=f106e276]:
+                - img "Pascal" [ref=f106e277]
+                - generic [ref=f106e278]:
+                  - generic [ref=f106e279]: Pascal
+                  - generic [ref=f106e280]: Engineer
+                - generic [ref=f106e281]:
+                  - link "Pascal on LinkedIn" [ref=f106e282] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/pascal-fischer-284058265/
+                  - link "Pascal on GitHub" [ref=f106e287] [cursor=pointer]:
+                    - /url: https://github.com/pascal-fischer
+            - figure "Eduard Eduard Engineer Eduard on GitHub" [ref=f106e291]:
+              - blockquote [ref=f106e292]: “What drew me to NetBird was the chance to make a difference. Making the complex world of zero trust feel simple and intuitive is challenging and fun, and there's always more to learn. I love getting the small UI details right, because that's what the user actually feels. Best of all, the whole team cares about those details as much as I do.”
+              - generic [ref=f106e293]:
+                - img "Eduard" [ref=f106e294]
+                - generic [ref=f106e295]:
+                  - generic [ref=f106e296]: Eduard
+                  - generic [ref=f106e297]: Engineer
+                - link "Eduard on GitHub" [ref=f106e299] [cursor=pointer]:
+                  - /url: https://github.com/heisbrot
+    - generic [ref=f106e303]:
+      - generic [ref=f106e305]:
+        - generic [ref=f106e307]:
+          - text: Join us
+          - heading "Open positions" [level=2] [ref=f106e308]
+          - paragraph [ref=f106e309]: Don't see a perfect fit? If you're passionate about open source, infrastructure, or private networking, we'd still love to hear from you.
+        - generic [ref=f106e311]:
+          - generic [ref=f106e312]:
+            - button "Engineering" [ref=f106e313] [cursor=pointer]
+            - button "Commercial" [ref=f106e314] [cursor=pointer]
+            - button "Strategy & Operations" [ref=f106e315] [cursor=pointer]
+          - generic [ref=f106e316]:
+            - link "Software Engineer (Backend) Apply" [ref=f106e317] [cursor=pointer]:
+              - /url: https://jobs.ashbyhq.com/netbird/34a8f26f-7537-4321-b7b4-39146c68d7ad
+              - generic [ref=f106e318]:
+                - generic [ref=f106e319]: Software Engineer (Backend)
+                - generic [ref=f106e320]: Apply
+            - link "Software Engineer (Networking) Apply" [ref=f106e325] [cursor=pointer]:
+              - /url: https://jobs.ashbyhq.com/netbird/de9d26cf-1f24-41ea-9e81-33fb998c7f3e
+              - generic [ref=f106e326]:
+                - generic [ref=f106e327]: Software Engineer (Networking)
+                - generic [ref=f106e328]: Apply
+            - link "Software Engineer (Frontend) Apply" [ref=f106e333] [cursor=pointer]:
+              - /url: https://jobs.ashbyhq.com/netbird/e21bee56-f91c-49c4-b2af-80a162491223
+              - generic [ref=f106e334]:
+                - generic [ref=f106e335]: Software Engineer (Frontend)
+                - generic [ref=f106e336]: Apply
+            - link "Software Engineer (Mobile) Apply" [ref=f106e341] [cursor=pointer]:
+              - /url: https://jobs.ashbyhq.com/netbird/f637b989-a675-44db-a527-85b4462d4efc
+              - generic [ref=f106e342]:
+                - generic [ref=f106e343]: Software Engineer (Mobile)
+                - generic [ref=f106e344]: Apply
+            - link "Platform Engineer Apply" [ref=f106e349] [cursor=pointer]:
+              - /url: https://jobs.ashbyhq.com/netbird/5b1ad324-dda1-4dc2-97e6-b8f7344c4127
+              - generic [ref=f106e350]:
+                - generic [ref=f106e351]: Platform Engineer
+                - generic [ref=f106e352]: Apply
+            - link "Open Source Engineer Apply" [ref=f106e357] [cursor=pointer]:
+              - /url: https://jobs.ashbyhq.com/netbird/103f9e7d-e32b-4ac2-a041-501b470c9fc4
+              - generic [ref=f106e358]:
+                - generic [ref=f106e359]: Open Source Engineer
+                - generic [ref=f106e360]: Apply
+            - link "Engineering Manager Apply" [ref=f106e365] [cursor=pointer]:
+              - /url: https://jobs.ashbyhq.com/netbird/a97242f2-a80a-4680-b8c6-bd37200825a0
+              - generic [ref=f106e366]:
+                - generic [ref=f106e367]: Engineering Manager
+                - generic [ref=f106e368]: Apply
+            - link "Technical Product Owner Apply" [ref=f106e373] [cursor=pointer]:
+              - /url: https://jobs.ashbyhq.com/netbird/e3edb2b0-ef01-4498-90c9-a0b4995871db
+              - generic [ref=f106e374]:
+                - generic [ref=f106e375]: Technical Product Owner
+                - generic [ref=f106e376]: Apply
+            - link "Technical Support Engineer Apply" [ref=f106e381] [cursor=pointer]:
+              - /url: https://jobs.ashbyhq.com/netbird/2e1f5386-24f6-4c15-b233-57e1ba0a636b
+              - generic [ref=f106e382]:
+                - generic [ref=f106e383]: Technical Support Engineer
+                - generic [ref=f106e384]: Apply
+      - generic [ref=f106e390]:
+        - generic [ref=f106e392]:
+          - text: The process
+          - heading "How hiring works" [level=2] [ref=f106e393]
+          - paragraph [ref=f106e394]: A clear, focused process that respects your time. You'll always know where you stand.
+        - generic [ref=f106e395]:
+          - generic [ref=f106e397]:
+            - text: "01"
+            - heading "Application" [level=3] [ref=f106e398]
+            - paragraph [ref=f106e399]: Every application is reviewed by someone on the team, and you'll hear back from us either way.
+          - generic [ref=f106e401]:
+            - text: "02"
+            - heading "Intro call" [level=3] [ref=f106e402]
+            - paragraph [ref=f106e403]: A conversation about your experience, the role, and what you're looking for in your next step.
+          - generic [ref=f106e405]:
+            - text: "03"
+            - heading "Deep dive" [level=3] [ref=f106e406]
+            - paragraph [ref=f106e407]: Meet the team and work through challenges drawn from the actual role, not artificial puzzles.
+          - generic [ref=f106e409]:
+            - text: "04"
+            - heading "Offer" [level=3] [ref=f106e410]
+            - paragraph [ref=f106e411]: When it's a mutual fit, we move quickly and make you a clear, transparent offer.
+  - contentinfo [ref=f106e412]:
+    - generic [ref=f106e413]:
+      - generic [ref=f106e414]:
+        - paragraph [ref=f106e415]: Short on time? Let your favorite AI sum up NetBird
+        - list [ref=f106e416]:
+          - listitem [ref=f106e417]:
+            - link "Summarize NetBird with ChatGPT" [ref=f106e418] [cursor=pointer]:
+              - /url: https://chatgpt.com/?prompt=I'm%20evaluating%20NetBird%20(https%3A%2F%2Fnetbird.io)%20for%20connecting%20and%20securing%20my%20company's%20servers%2C%20devices%2C%20and%20people.%20Based%20on%20netbird.io%20and%20docs.netbird.io%2C%20give%20me%20a%20practical%20overview%3A%20what%20it%20does%2C%20how%20the%20WireGuard-based%20mesh%20network%20and%20zero%20trust%20access%20controls%20work%2C%20how%20it%20compares%20to%20a%20traditional%20VPN%2C%20and%20the%20quickest%20way%20to%20try%20it%20out.
+              - text: ChatGPT
+          - listitem [ref=f106e421]:
+            - link "Summarize NetBird with Perplexity" [ref=f106e422] [cursor=pointer]:
+              - /url: https://www.perplexity.ai/search?q=I'm%20evaluating%20NetBird%20(https%3A%2F%2Fnetbird.io)%20for%20connecting%20and%20securing%20my%20company's%20servers%2C%20devices%2C%20and%20people.%20Based%20on%20netbird.io%20and%20docs.netbird.io%2C%20give%20me%20a%20practical%20overview%3A%20what%20it%20does%2C%20how%20the%20WireGuard-based%20mesh%20network%20and%20zero%20trust%20access%20controls%20work%2C%20how%20it%20compares%20to%20a%20traditional%20VPN%2C%20and%20the%20quickest%20way%20to%20try%20it%20out.
+              - text: Perplexity
+          - listitem [ref=f106e425]:
+            - link "Summarize NetBird with Claude" [ref=f106e426] [cursor=pointer]:
+              - /url: https://claude.ai/new?q=I'm%20evaluating%20NetBird%20(https%3A%2F%2Fnetbird.io)%20for%20connecting%20and%20securing%20my%20company's%20servers%2C%20devices%2C%20and%20people.%20Based%20on%20netbird.io%20and%20docs.netbird.io%2C%20give%20me%20a%20practical%20overview%3A%20what%20it%20does%2C%20how%20the%20WireGuard-based%20mesh%20network%20and%20zero%20trust%20access%20controls%20work%2C%20how%20it%20compares%20to%20a%20traditional%20VPN%2C%20and%20the%20quickest%20way%20to%20try%20it%20out.
+              - text: Claude
+          - listitem [ref=f106e429]:
+            - link "Summarize NetBird with Gemini" [ref=f106e430] [cursor=pointer]:
+              - /url: https://www.google.com/search?q=I'm%20evaluating%20NetBird%20(https%3A%2F%2Fnetbird.io)%20for%20connecting%20and%20securing%20my%20company's%20servers%2C%20devices%2C%20and%20people.%20Based%20on%20netbird.io%20and%20docs.netbird.io%2C%20give%20me%20a%20practical%20overview%3A%20what%20it%20does%2C%20how%20the%20WireGuard-based%20mesh%20network%20and%20zero%20trust%20access%20controls%20work%2C%20how%20it%20compares%20to%20a%20traditional%20VPN%2C%20and%20the%20quickest%20way%20to%20try%20it%20out.&udm=50
+              - text: Gemini
+      - generic [ref=f106e433]:
+        - generic [ref=f106e434]:
+          - generic [ref=f106e435]:
+            - heading "Product" [level=4] [ref=f106e436]
+            - list [ref=f106e437]:
+              - listitem [ref=f106e438] [cursor=pointer]:
+                - link "Knowledge Hub" [ref=f106e439]:
+                  - /url: /knowledge-hub
+              - listitem [ref=f106e440] [cursor=pointer]:
+                - link "Webinars & Events" [ref=f106e441]:
+                  - /url: /webinars
+              - listitem [ref=f106e442] [cursor=pointer]:
+                - link "Compare NetBird" [ref=f106e443]:
+                  - /url: /compare
+              - listitem [ref=f106e444] [cursor=pointer]:
+                - link "Self-hosting NetBird" [ref=f106e445]:
+                  - /url: https://docs.netbird.io/selfhosted/selfhosted-quickstart
+              - listitem [ref=f106e446] [cursor=pointer]:
+                - link "Documentation" [ref=f106e447]:
+                  - /url: https://docs.netbird.io/
+              - listitem [ref=f106e448] [cursor=pointer]:
+                - link "Demo for Enterprise" [ref=f106e449]:
+                  - /url: /demo?form=enterprise
+              - listitem [ref=f106e450] [cursor=pointer]:
+                - link "Demo for MSP" [ref=f106e451]:
+                  - /url: /msp
+              - listitem [ref=f106e452] [cursor=pointer]:
+                - link "NetBird Integrations" [ref=f106e453]:
+                  - /url: /integrations
+              - listitem [ref=f106e454] [cursor=pointer]:
+                - link "Become a Partner" [ref=f106e455]:
+                  - /url: /integrations/become-a-partner
+              - listitem [ref=f106e456] [cursor=pointer]:
+                - link "Pricing" [ref=f106e457]:
+                  - /url: /pricing
+          - generic [ref=f106e458]:
+            - heading "Support" [level=4] [ref=f106e459]
+            - list [ref=f106e460]:
+              - listitem [ref=f106e461] [cursor=pointer]:
+                - link "Slack" [ref=f106e462]:
+                  - /url: https://docs.netbird.io/slack-url
+              - listitem [ref=f106e463] [cursor=pointer]:
+                - link "GitHub" [ref=f106e464]:
+                  - /url: https://github.com/netbirdio/netbird
+              - listitem [ref=f106e465] [cursor=pointer]:
+                - link "NetBird Status" [ref=f106e466]:
+                  - /url: https://status.netbird.io
+          - generic [ref=f106e467]:
+            - heading "Company" [level=4] [ref=f106e468]
+            - list [ref=f106e469]:
+              - listitem [ref=f106e470] [cursor=pointer]:
+                - link "About" [ref=f106e471]:
+                  - /url: /about
+              - listitem [ref=f106e472] [cursor=pointer]:
+                - link "Press" [ref=f106e473]:
+                  - /url: /press
+              - listitem [ref=f106e474] [cursor=pointer]:
+                - link "Careers" [ref=f106e475]:
+                  - /url: /careers
+              - listitem [ref=f106e476] [cursor=pointer]:
+                - link "Trust Center" [ref=f106e477]:
+                  - /url: https://trust.netbird.io/
+              - listitem [ref=f106e478]:
+                - button "Contact us" [ref=f106e480] [cursor=pointer]
+          - generic [ref=f106e483]:
+            - heading "Legal" [level=4] [ref=f106e484]
+            - list [ref=f106e485]:
+              - listitem [ref=f106e486] [cursor=pointer]:
+                - link "Privacy" [ref=f106e487]:
+                  - /url: /privacy
+              - listitem [ref=f106e488] [cursor=pointer]:
+                - link "Imprint" [ref=f106e489]:
+                  - /url: /imprint
+              - listitem [ref=f106e490] [cursor=pointer]:
+                - link "CLA" [ref=f106e491]:
+                  - /url: /cla
+              - listitem [ref=f106e492] [cursor=pointer]:
+                - link "Terms of Service" [ref=f106e493]:
+                  - /url: /terms
+              - listitem [ref=f106e494] [cursor=pointer]:
+                - link "Self-Hosted EULA" [ref=f106e495]:
+                  - /url: /self-hosted-EULA
+              - listitem [ref=f106e496] [cursor=pointer]:
+                - button "Cookie Settings" [ref=f106e497]
+        - generic [ref=f106e498]:
+          - heading "Subscribe to our Newsletter" [level=4] [ref=f106e499]
+          - generic [ref=f106e500]:
+            - textbox "john.doe@company.com" [ref=f106e503]
+            - button "Subscribe" [ref=f106e506] [cursor=pointer]
+          - checkbox "I accept the newsletter and data privacy statement." [ref=f106e509] [cursor=pointer]
+          - paragraph [ref=f106e511]:
+            - text: We care about the protection of your data. Read our
+            - link "Privacy Policy." [ref=f106e512] [cursor=pointer]:
+              - /url: /privacy
+          - generic [ref=f106e513]:
+            - link "GDPR" [ref=f106e514] [cursor=pointer]:
+              - /url: https://trust.netbird.io
+            - link "ISO 27001" [ref=f106e518] [cursor=pointer]:
+              - /url: https://trust.netbird.io
+            - link "DORA" [ref=f106e522] [cursor=pointer]:
+              - /url: https://trust.netbird.io
+      - paragraph [ref=f106e526]: 2026 NetBird. All rights reserved.
+  - alert [ref=f106e527]
+  - generic [ref=f106e530]:
+    - heading "We are using cookies" [level=3] [ref=f106e531]
+    - paragraph [ref=f106e532]:
+      - text: We use our own cookies as well as third-party cookies on our websites to enhance your experience, analyze our traffic, and for security and marketing. View our
+      - link "Privacy Policy" [ref=f106e533] [cursor=pointer]:
+        - /url: /privacy
+      - text: for more information.
+    - generic [ref=f106e534]:
+      - button "Required only cookies" [ref=f106e535] [cursor=pointer]
+      - button "Accept all cookies" [ref=f106e539] [cursor=pointer]
