@@ -576,10 +576,10 @@ tracked_companies:
   # -- Cloud & GCP ecosystem (direct stack match) --
 
   - name: Firebase / Google Cloud (Google)
-    careers_url: https://careers.google.com
+    careers_url: https://www.google.com/about/careers/applications/
     scan_method: websearch
-    scan_query: 'site:careers.google.com "Firebase" OR "Cloud Functions" OR "Firestore" "engineer" senior'
-    notes: 'Long shot but high stack overlap. Filter for Firebase/GCP-specific roles.'
+    scan_query: 'site:google.com/about/careers/applications/jobs/results ("Firebase" OR "Cloud Functions" OR "Firestore") "engineer" senior'
+    notes: '2026-11-09: careers.google.com redirects to the new Google Careers applications URL; updated canonical page and search domain. Long shot but high stack overlap. Filter for Firebase/GCP-specific roles.'
     enabled: true
 
   - name: Cloudflare
