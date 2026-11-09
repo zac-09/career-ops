@@ -1,0 +1,51 @@
+- generic [ref=f4e2]:
+  - list [ref=f4e4]:
+    - listitem [ref=f4e5]:
+      - link [ref=f4e6] [cursor=pointer]:
+        - /url: https://toggl.com/
+        - img "TOGGL" [ref=f4e7]
+    - listitem
+    - listitem
+  - generic [ref=f4e8]:
+    - status [ref=f4e10]:
+      - text: Open Positions
+      - generic [ref=f4e11]: (0)
+    - generic [ref=f4e12]:
+      - generic [ref=f4e13]:
+        - generic [ref=f4e14]:
+          - generic [ref=f4e15]: "Filters:"
+          - button "Reset filters" [disabled]
+        - generic [ref=f4e16]:
+          - combobox "Department" [ref=f4e18]:
+            - option "All Departments"
+          - combobox "Employment" [ref=f4e20]:
+            - option "All Employment Types"
+          - combobox "Location" [ref=f4e22]:
+            - option "All Locations"
+          - combobox "Location Type" [ref=f4e24]:
+            - option "All Location Types"
+        - status [ref=f4e25]: No filters applied
+      - generic [ref=f4e26]:
+        - heading [level=1] [ref=f4e27]:
+          - strong [ref=f4e28]: Before you apply...
+        - paragraph [ref=f4e29]:
+          - text: Please read the
+          - link "Toggl Careers Privacy Statement" [ref=f4e30] [cursor=pointer]:
+            - /url: https://toggl.com/legal/candidate-privacy/
+          - text: to learn more about how we handle your data as a job candidate.
+        - paragraph [ref=f4e31]
+        - paragraph [ref=f4e32]:
+          - strong [ref=f4e33]: "⚠️ Please note:"
+          - text: We've been alerted to instances of scammers impersonating Toggl and offering fake job positions. To stay safe, please know that all legitimate openings are listed here and we only accept applications through this page.
+  - contentinfo [ref=f4e34]:
+    - link "Learn more about Ashby" [ref=f4e35] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f4e36]: Powered by
+      - img "Ashby" [ref=f4e37]
+    - paragraph [ref=f4e43]:
+      - link "Privacy Policy" [ref=f4e44] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f4e45] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f4e46] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

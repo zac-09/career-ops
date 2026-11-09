@@ -1,0 +1,3 @@
+[    1792ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://cal.com/1100e7f5c1bf1a7d/script.js:0
+[    1792ms] [ERROR] Refused to execute script from 'https://cal.com/1100e7f5c1bf1a7d/script.js' because its MIME type ('text/html') is not executable, and strict MIME type checking is enabled. @ https://cal.com/jobs:0
+[    1793ms] [LOG] [Vercel Speed Insights] Failed to load script from /1100e7f5c1bf1a7d/script.js. Please check if any content blockers are enabled and try again. @ https://cal.com/_site/_next/static/chunks/0sbc8c6xphgb_.js?dpl=dpl_3nHxRAqV8a8DQvWRztzfh4QmNNTv:0

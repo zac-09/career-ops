@@ -1,0 +1,7 @@
+[     760ms] [WARNING] Error with Feature-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[     760ms] [WARNING] Error with Feature-Policy header: Some features are specified in both Feature-Policy and Permissions-Policy header: accelerometer, camera, microphone, geolocation, usb, gyroscope, magnetometer. Values defined in Permissions-Policy header will be used. @ :0
+[     760ms] [WARNING] Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'. @ :0
+[    2207ms] [WARNING] You are attempting to call CookieControl.getCategoryConsent() before Cookie Control has finished loading.
+Please refer to https://www.civicuk.com/cookie-control/documentation. @ https://remote.com/_next/static/chunks/33tvktcxo67-3.js:5
+[    2207ms] [WARNING] You are attempting to call CookieControl.getCategoryConsent() before Cookie Control has finished loading.
+Please refer to https://www.civicuk.com/cookie-control/documentation. @ https://remote.com/_next/static/chunks/33tvktcxo67-3.js:5

@@ -1,0 +1,590 @@
+- generic [active] [ref=f57e1]:
+  - navigation "Main" [ref=f57e3]:
+    - link [ref=f57e6] [cursor=pointer]:
+      - /url: /
+      - img "Cal.com" [ref=f57e8]
+    - navigation [ref=f57e10]:
+      - list [ref=f57e11]:
+        - listitem [ref=f57e12]:
+          - button "Products" [ref=f57e13]
+        - listitem [ref=f57e17]:
+          - button "Use cases" [ref=f57e18]
+        - listitem [ref=f57e22]:
+          - button "Features" [ref=f57e23]
+        - listitem [ref=f57e27]:
+          - button "Resources" [ref=f57e28]
+        - listitem [ref=f57e32]:
+          - link "Enterprise" [ref=f57e33] [cursor=pointer]:
+            - /url: /enterprise
+        - listitem [ref=f57e34]:
+          - link "Pricing" [ref=f57e35] [cursor=pointer]:
+            - /url: /pricing
+    - generic [ref=f57e36]:
+      - link "Talk to sales" [ref=f57e38] [cursor=pointer]:
+        - /url: /talk-to-sales
+      - link "Sign in" [ref=f57e44] [cursor=pointer]:
+        - /url: https://app.cal.com/auth/login
+      - link "Get started" [ref=f57e45] [cursor=pointer]:
+        - /url: https://app.cal.com/signup
+  - main [ref=f57e46]:
+    - article [ref=f57e47]:
+      - generic [ref=f57e48]:
+        - generic [ref=f57e50]:
+          - generic [ref=f57e51]:
+            - heading "Work with us and connect a billion people by 2031" [level=1] [ref=f57e52]:
+              - generic [ref=f57e53]: Work with us
+              - generic [ref=f57e54]: and connect a billion people by 2031
+            - paragraph [ref=f57e55]: A fully remote team across Europe, the Americas and Asia, building the scheduling platform in the open.
+            - link "1 open role" [ref=f57e56] [cursor=pointer]:
+              - /url: "#roles"
+          - generic [aria-hidden] [ref=f57e58]:
+            - figure [ref=f57e61]
+            - figure [ref=f57e66]
+            - figure [ref=f57e71]
+            - figure [ref=f57e76]
+        - generic [ref=f57e79]:
+          - heading "Open roles" [level=2] [ref=f57e80]
+          - list [ref=f57e81]:
+            - listitem [ref=f57e82]:
+              - link "IC4 Senior Full-Stack Engineer A senior engineer who carries Foundation's engineering vision into a product team and owns the technical bar from planning to deployment. Foundation Remote Full-time $132k-$150k + Equity" [ref=f57e83] [cursor=pointer]:
+                - /url: /jobs/ic4-senior-full-stack-engineer-foundation
+                - generic [ref=f57e84]:
+                  - generic [ref=f57e85]: IC4 Senior Full-Stack Engineer
+                  - generic [ref=f57e86]: A senior engineer who carries Foundation's engineering vision into a product team and owns the technical bar from planning to deployment.
+                - list [ref=f57e87]:
+                  - listitem [ref=f57e88]: Foundation
+                  - listitem [ref=f57e94]: Remote
+                  - listitem [ref=f57e98]: Full-time
+                  - listitem [ref=f57e102]: $132k-$150k + Equity
+          - link "Don't see your role? Write to jobs@cal.com with what you'd build here, and we'll keep you in mind." [ref=f57e108] [cursor=pointer]:
+            - /url: mailto:jobs@cal.com
+            - generic [ref=f57e109]:
+              - generic [ref=f57e110]: Don't see your role?
+              - generic [ref=f57e111]: Write to jobs@cal.com with what you'd build here, and we'll keep you in mind.
+        - generic [ref=f57e114]:
+          - heading "Why Cal.com" [level=2] [ref=f57e116]
+          - generic [ref=f57e117]:
+            - article [ref=f57e119]:
+              - heading "Remote across borders" [level=3] [ref=f57e126]
+              - generic [ref=f57e127]: No office. Engineers, designers, product and go-to-market people across Europe, the Americas and Asia.
+            - link [ref=f57e128] [cursor=pointer]:
+              - /url: /open
+              - article [ref=f57e129]:
+                - heading "An open startup" [level=3] [ref=f57e137]
+                - generic [ref=f57e138]: Revenue, growth and team metrics are public on cal.com/open.
+            - article [ref=f57e140]:
+              - heading "Built in the open" [level=3] [ref=f57e145]
+              - generic [ref=f57e146]: Most of the team codes in public, on a product people embed in their own.
+            - link [ref=f57e147] [cursor=pointer]:
+              - /url: /about#releases
+              - article [ref=f57e148]:
+                - heading "Ships every month" [level=3] [ref=f57e158]
+                - generic [ref=f57e159]: A dated, versioned release every month since 2021, used by teams in over 100 countries.
+        - generic [ref=f57e160]:
+          - generic [ref=f57e161]:
+            - generic [ref=f57e162]:
+              - heading "Who you'd work with" [level=2] [ref=f57e163]
+              - paragraph [ref=f57e164]: Everyone at Cal.com today.
+            - link "Meet the team" [ref=f57e165] [cursor=pointer]:
+              - /url: /about#team
+          - list "Who you'd work with" [ref=f57e166]:
+            - listitem "Peer Richelsen" [ref=f57e167]:
+              - figure [ref=f57e168]
+            - listitem "Bailey Pumfleet" [ref=f57e172]:
+              - figure [ref=f57e173]
+            - listitem "Adam Winn" [ref=f57e177]:
+              - figure [ref=f57e178]
+            - listitem "Adarsh Tiwari" [ref=f57e182]:
+              - figure [ref=f57e183]
+            - listitem "Alex van Andel" [ref=f57e187]:
+              - figure [ref=f57e188]
+            - listitem "Alexandra Nunez" [ref=f57e192]:
+              - figure [ref=f57e193]
+            - listitem "Alina Osborn" [ref=f57e197]:
+              - figure [ref=f57e198]
+            - listitem "Andreas Kruszakin-Liboska" [ref=f57e202]:
+              - figure [ref=f57e203]
+            - listitem "Anik Dhabal Babu" [ref=f57e207]:
+              - figure [ref=f57e208]
+            - listitem "Anirban Singha" [ref=f57e212]:
+              - figure [ref=f57e213]
+            - listitem "Benny Joo" [ref=f57e217]:
+              - figure [ref=f57e218]
+            - listitem "Cédric van Ravesteijn" [ref=f57e222]:
+              - figure [ref=f57e223]
+            - listitem "David Borenius" [ref=f57e227]:
+              - figure [ref=f57e228]
+            - listitem "Felix Kolodziej" [ref=f57e232]:
+              - figure [ref=f57e233]
+            - listitem "Hariom Balhara" [ref=f57e237]:
+              - figure [ref=f57e238]
+            - listitem "Isaac Lizardo" [ref=f57e242]:
+              - figure [ref=f57e243]
+            - listitem "Joe Au-Yeung" [ref=f57e247]:
+              - figure [ref=f57e248]
+            - listitem "Jorge Gonzalez" [ref=f57e252]:
+              - figure [ref=f57e253]
+            - listitem "Jose Urena" [ref=f57e257]:
+              - figure [ref=f57e258]
+            - listitem "Juan" [ref=f57e262]:
+              - figure [ref=f57e263]
+            - listitem "Juan Stiza" [ref=f57e267]:
+              - figure [ref=f57e268]
+            - listitem "Keith Williams" [ref=f57e272]:
+              - figure [ref=f57e273]
+            - listitem "Lauris Skraucis" [ref=f57e277]:
+              - figure [ref=f57e278]
+            - listitem "Matt Litherland" [ref=f57e282]:
+              - figure [ref=f57e283]
+            - listitem "Milos Puac" [ref=f57e287]:
+              - figure [ref=f57e288]
+            - listitem "Morgan Vernay" [ref=f57e292]:
+              - figure [ref=f57e293]
+            - listitem "Nilufar Bava" [ref=f57e297]:
+              - figure [ref=f57e298]
+            - listitem "Pasquale Vitiello" [ref=f57e302]:
+              - figure [ref=f57e303]
+            - listitem "Pedro Castro" [ref=f57e307]:
+              - figure [ref=f57e308]
+            - listitem "Reilly Barry" [ref=f57e312]:
+              - figure [ref=f57e313]
+            - listitem "Sean Brydon" [ref=f57e317]:
+              - figure [ref=f57e318]
+            - listitem "Syed Ali Shahbaz" [ref=f57e322]:
+              - figure [ref=f57e323]
+            - listitem "Udit Takkar" [ref=f57e327]:
+              - figure [ref=f57e328]
+            - listitem "Volnei Munhoz" [ref=f57e332]:
+              - figure [ref=f57e333]
+  - contentinfo [ref=f57e337]:
+    - generic [ref=f57e339]:
+      - generic [ref=f57e340]:
+        - generic [ref=f57e341]:
+          - img "Cal.com" [ref=f57e342]
+          - paragraph [ref=f57e343]: Our mission is to connect a billion people by 2031 through calendar scheduling.
+          - generic [ref=f57e344]:
+            - paragraph [ref=f57e345]: Need help?
+            - paragraph [ref=f57e346]:
+              - link "support@cal.com" [ref=f57e347] [cursor=pointer]:
+                - /url: mailto:support@cal.com
+              - text: or visit
+              - link "cal.com/help" [ref=f57e348] [cursor=pointer]:
+                - /url: https://cal.com/help
+          - link "System status" [ref=f57e349] [cursor=pointer]:
+            - /url: https://status.cal.com
+          - generic [ref=f57e351]:
+            - generic [ref=f57e352]:
+              - combobox "Language" [ref=f57e353]:
+                - generic [ref=f57e357]: English
+              - textbox [aria-hidden] [ref=f57e361]: en
+            - group "Theme" [ref=f57e362]:
+              - button "System" [pressed] [ref=f57e363]
+              - button "Light" [ref=f57e366]
+              - button "Dark" [ref=f57e373]
+          - list "Social" [ref=f57e376]:
+            - listitem [ref=f57e377]:
+              - link "X" [ref=f57e378] [cursor=pointer]:
+                - /url: https://x.com/calcom
+            - listitem [ref=f57e381]:
+              - link "LinkedIn" [ref=f57e382] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/cal-com
+            - listitem [ref=f57e385]:
+              - link "YouTube" [ref=f57e386] [cursor=pointer]:
+                - /url: https://www.youtube.com/@calcominc
+          - generic [ref=f57e389]:
+            - generic [ref=f57e390]:
+              - paragraph [ref=f57e391]: Get the app
+              - list "Get the app" [ref=f57e392]:
+                - listitem [ref=f57e393]:
+                  - link "iPhone" [ref=f57e394] [cursor=pointer]:
+                    - /url: https://go.cal.com/ios
+                - listitem [ref=f57e395]:
+                  - link "Android" [ref=f57e396] [cursor=pointer]:
+                    - /url: https://go.cal.com/android
+                - listitem [ref=f57e397]:
+                  - link "Mac" [ref=f57e398] [cursor=pointer]:
+                    - /url: https://cal.com/download
+                - listitem [ref=f57e399]:
+                  - link "Windows" [ref=f57e400] [cursor=pointer]:
+                    - /url: https://cal.com/download
+                - listitem [ref=f57e401]:
+                  - link "Linux" [ref=f57e402] [cursor=pointer]:
+                    - /url: https://cal.com/download
+            - generic [ref=f57e403]:
+              - paragraph [ref=f57e404]: Browser extensions
+              - list "Browser extensions" [ref=f57e405]:
+                - listitem [ref=f57e406]:
+                  - link "Chrome" [ref=f57e407] [cursor=pointer]:
+                    - /url: https://go.cal.com/chrome
+                - listitem [ref=f57e408]:
+                  - link "Safari" [ref=f57e409] [cursor=pointer]:
+                    - /url: https://go.cal.com/safari
+                - listitem [ref=f57e410]:
+                  - link "Edge" [ref=f57e411] [cursor=pointer]:
+                    - /url: https://go.cal.com/edge
+                - listitem [ref=f57e412]:
+                  - link "Firefox" [ref=f57e413] [cursor=pointer]:
+                    - /url: https://go.cal.com/firefox
+        - generic [ref=f57e414]:
+          - navigation "Products" [ref=f57e415]:
+            - paragraph [ref=f57e416]: Products
+            - list [ref=f57e417]:
+              - listitem [ref=f57e418]:
+                - link "Scheduling" [ref=f57e419] [cursor=pointer]:
+                  - /url: /scheduling
+              - listitem [ref=f57e422]:
+                - link "Companion app" [ref=f57e423] [cursor=pointer]:
+                  - /url: /app
+              - listitem [ref=f57e427]:
+                - link "Events" [ref=f57e428] [cursor=pointer]:
+                  - /url: /events
+              - listitem [ref=f57e431]:
+                - link "Discover" [ref=f57e432] [cursor=pointer]:
+                  - /url: https://cal.com/discover
+              - listitem [ref=f57e436]:
+                - link "Cal.ai" [ref=f57e437] [cursor=pointer]:
+                  - /url: /assistant
+              - listitem [ref=f57e441]:
+                - link "Cal Video" [ref=f57e442] [cursor=pointer]:
+                  - /url: /features/cal-video
+              - listitem [ref=f57e446]:
+                - link "Cal Pay" [ref=f57e447] [cursor=pointer]:
+                  - /url: https://cal.com/payments
+              - listitem [ref=f57e450]:
+                - link "Enterprise" [ref=f57e451] [cursor=pointer]:
+                  - /url: /enterprise
+          - navigation "Platform" [ref=f57e456]:
+            - paragraph [ref=f57e457]: Platform
+            - list [ref=f57e458]:
+              - listitem [ref=f57e459]:
+                - link "Pricing" [ref=f57e460] [cursor=pointer]:
+                  - /url: /pricing
+              - listitem [ref=f57e461]:
+                - link "Organizations" [ref=f57e462] [cursor=pointer]:
+                  - /url: /organizations
+              - listitem [ref=f57e463]:
+                - link "Routing" [ref=f57e464] [cursor=pointer]:
+                  - /url: /routing
+              - listitem [ref=f57e465]:
+                - link "Workflows" [ref=f57e466] [cursor=pointer]:
+                  - /url: /workflows
+              - listitem [ref=f57e467]:
+                - link "App Store" [ref=f57e468] [cursor=pointer]:
+                  - /url: /features/app-store
+              - listitem [ref=f57e469]:
+                - link "iOS & Android app" [ref=f57e470] [cursor=pointer]:
+                  - /url: /app
+        - navigation "Features" [ref=f57e472]:
+          - paragraph [ref=f57e473]: Features
+          - list [ref=f57e474]:
+            - listitem [ref=f57e475]:
+              - link "Round-robin scheduling" [ref=f57e476] [cursor=pointer]:
+                - /url: /features/round-robin
+            - listitem [ref=f57e477]:
+              - link "Collective events" [ref=f57e478] [cursor=pointer]:
+                - /url: /features/collective-events
+            - listitem [ref=f57e479]:
+              - link "Dynamic group links" [ref=f57e480] [cursor=pointer]:
+                - /url: /features/dynamic-group-links
+            - listitem [ref=f57e481]:
+              - link "Smart routing" [ref=f57e482] [cursor=pointer]:
+                - /url: /smart-routing
+            - listitem [ref=f57e483]:
+              - link "Recurring events" [ref=f57e484] [cursor=pointer]:
+                - /url: /features/recurring-events
+            - listitem [ref=f57e485]:
+              - link "Requires confirmation" [ref=f57e486] [cursor=pointer]:
+                - /url: /features/requires-confirmation
+            - listitem [ref=f57e487]:
+              - link "Instant meetings" [ref=f57e488] [cursor=pointer]:
+                - /url: /features/instant-meetings
+            - listitem [ref=f57e489]:
+              - link "Out of office" [ref=f57e490] [cursor=pointer]:
+                - /url: /features/ooo
+            - listitem [ref=f57e491]:
+              - link "Payments" [ref=f57e492] [cursor=pointer]:
+                - /url: /features/payments
+            - listitem [ref=f57e493]:
+              - link "No-show fees" [ref=f57e494] [cursor=pointer]:
+                - /url: /features/no-show-fees
+            - listitem [ref=f57e495]:
+              - link "Embed" [ref=f57e496] [cursor=pointer]:
+                - /url: /embed
+            - listitem [ref=f57e497]:
+              - link "Teams" [ref=f57e498] [cursor=pointer]:
+                - /url: /teams
+            - listitem [ref=f57e499]:
+              - link "Booking questions" [ref=f57e500] [cursor=pointer]:
+                - /url: /features/booking-questions
+            - listitem [ref=f57e501]:
+              - link "Seats" [ref=f57e502] [cursor=pointer]:
+                - /url: /features/seats
+            - listitem [ref=f57e503]:
+              - link "Managed links" [ref=f57e504] [cursor=pointer]:
+                - /url: /features/managed-events
+            - listitem [ref=f57e505]:
+              - link "Multiple durations" [ref=f57e506] [cursor=pointer]:
+                - /url: /features/multiple-durations
+            - listitem [ref=f57e507]:
+              - link "Buffers & limits" [ref=f57e508] [cursor=pointer]:
+                - /url: /features/buffers-and-limits
+            - listitem [ref=f57e509]:
+              - link "Private links" [ref=f57e510] [cursor=pointer]:
+                - /url: /features/private-links
+            - listitem [ref=f57e511]:
+              - link "Restriction schedules" [ref=f57e512] [cursor=pointer]:
+                - /url: /features/restriction-schedules
+            - listitem [ref=f57e513]:
+              - link "Date overrides" [ref=f57e514] [cursor=pointer]:
+                - /url: /features/date-overrides
+            - listitem [ref=f57e515]:
+              - link "Insights" [ref=f57e516] [cursor=pointer]:
+                - /url: /features/insights
+            - listitem [ref=f57e517]:
+              - link "Webhooks" [ref=f57e518] [cursor=pointer]:
+                - /url: /features/webhooks
+            - listitem [ref=f57e519]:
+              - link "Audit logs" [ref=f57e520] [cursor=pointer]:
+                - /url: /features/audit-logs
+            - listitem [ref=f57e521]:
+              - link "Delegated credentials" [ref=f57e522] [cursor=pointer]:
+                - /url: /features/delegated-credentials
+            - listitem [ref=f57e523]:
+              - link "SSO & SCIM" [ref=f57e524] [cursor=pointer]:
+                - /url: /features/sso-scim
+        - generic [ref=f57e525]:
+          - navigation "Use cases" [ref=f57e526]:
+            - paragraph [ref=f57e527]: Use cases
+            - list [ref=f57e528]:
+              - listitem [ref=f57e529]:
+                - link "Sales" [ref=f57e530] [cursor=pointer]:
+                  - /url: /scheduling/sales-teams
+              - listitem [ref=f57e531]:
+                - link "Marketing" [ref=f57e532] [cursor=pointer]:
+                  - /url: /scheduling/marketing
+              - listitem [ref=f57e533]:
+                - link "Talent acquisition" [ref=f57e534] [cursor=pointer]:
+                  - /url: /scheduling/talent-acquisition-teams
+              - listitem [ref=f57e535]:
+                - link "Customer support" [ref=f57e536] [cursor=pointer]:
+                  - /url: /scheduling/customer-support
+              - listitem [ref=f57e537]:
+                - link "Higher education" [ref=f57e538] [cursor=pointer]:
+                  - /url: /scheduling/higher-education
+              - listitem [ref=f57e539]:
+                - link "Telehealth" [ref=f57e540] [cursor=pointer]:
+                  - /url: /scheduling/telehealth
+              - listitem [ref=f57e541]:
+                - link "Professional services" [ref=f57e542] [cursor=pointer]:
+                  - /url: /scheduling/professional-services
+              - listitem [ref=f57e543]:
+                - link "Hiring marketplace" [ref=f57e544] [cursor=pointer]:
+                  - /url: /scheduling/hiring-marketplaces
+              - listitem [ref=f57e545]:
+                - link "Human resources" [ref=f57e546] [cursor=pointer]:
+                  - /url: /scheduling/people-operations
+              - listitem [ref=f57e547]:
+                - link "Tutoring" [ref=f57e548] [cursor=pointer]:
+                  - /url: /scheduling/higher-education
+              - listitem [ref=f57e549]:
+                - link "C-suite" [ref=f57e550] [cursor=pointer]:
+                  - /url: /scheduling/c-suite
+              - listitem [ref=f57e551]:
+                - link "Law" [ref=f57e552] [cursor=pointer]:
+                  - /url: /scheduling/law
+              - listitem [ref=f57e553]:
+                - link "Healthcare" [ref=f57e554] [cursor=pointer]:
+                  - /url: /scheduling/healthcare
+              - listitem [ref=f57e555]:
+                - link "Recruiting" [ref=f57e556] [cursor=pointer]:
+                  - /url: /scheduling/talent-acquisition-teams
+              - listitem [ref=f57e557]:
+                - link "Fitness" [ref=f57e558] [cursor=pointer]:
+                  - /url: /scheduling/fitness
+              - listitem [ref=f57e559]:
+                - link "Beauty & wellness" [ref=f57e560] [cursor=pointer]:
+                  - /url: /scheduling/beauty
+          - navigation "Tools" [ref=f57e561]:
+            - paragraph [ref=f57e562]: Tools
+            - list [ref=f57e563]:
+              - listitem [ref=f57e564]:
+                - link "All tools" [ref=f57e565] [cursor=pointer]:
+                  - /url: /calendar-tools
+              - listitem [ref=f57e566]:
+                - link "World clock" [ref=f57e567] [cursor=pointer]:
+                  - /url: /world-clock
+              - listitem [ref=f57e568]:
+                - link "Timezone clock" [ref=f57e569] [cursor=pointer]:
+                  - /url: /world-clock/timezone-clock
+              - listitem [ref=f57e570]:
+                - link "Time zone converter" [ref=f57e571] [cursor=pointer]:
+                  - /url: /world-clock/time-zone-converter
+              - listitem [ref=f57e572]:
+                - link "Meeting planner" [ref=f57e573] [cursor=pointer]:
+                  - /url: /world-clock/meeting-planner
+              - listitem [ref=f57e574]:
+                - link "Time zone abbreviations" [ref=f57e575] [cursor=pointer]:
+                  - /url: /world-clock/time-zones
+              - listitem [ref=f57e576]:
+                - link "Daylight saving time" [ref=f57e577] [cursor=pointer]:
+                  - /url: /world-clock/daylight-saving-time
+              - listitem [ref=f57e578]:
+                - link "Week numbers" [ref=f57e579] [cursor=pointer]:
+                  - /url: /world-clock/week-number
+              - listitem [ref=f57e580]:
+                - link "Date calculator" [ref=f57e581] [cursor=pointer]:
+                  - /url: /world-clock/date-calculator
+              - listitem [ref=f57e582]:
+                - link "Weather calendar" [ref=f57e583] [cursor=pointer]:
+                  - /url: /calendar-tools/weather-calendar
+        - generic [ref=f57e584]:
+          - navigation "Developers" [ref=f57e585]:
+            - paragraph [ref=f57e586]: Developers
+            - list [ref=f57e587]:
+              - listitem [ref=f57e588]:
+                - link "Docs" [ref=f57e589] [cursor=pointer]:
+                  - /url: https://cal.com/docs
+              - listitem [ref=f57e590]:
+                - link "API reference" [ref=f57e591] [cursor=pointer]:
+                  - /url: https://cal.com/docs/api-reference/v2/introduction
+              - listitem [ref=f57e592]:
+                - link "Cal.com Atoms" [ref=f57e593] [cursor=pointer]:
+                  - /url: https://cal.com/atoms
+              - listitem [ref=f57e594]:
+                - link "Integrate with Cal.com" [ref=f57e595] [cursor=pointer]:
+                  - /url: /integrate
+              - listitem [ref=f57e596]:
+                - link "Scheduling API (coss.com)" [ref=f57e597] [cursor=pointer]:
+                  - /url: https://coss.com/products/scheduling
+              - listitem [ref=f57e598]:
+                - link "For AI agents" [ref=f57e599] [cursor=pointer]:
+                  - /url: /scheduling-for-agents
+              - listitem [ref=f57e600]:
+                - link "Scheduling agents" [ref=f57e601] [cursor=pointer]:
+                  - /url: /ai
+              - listitem [ref=f57e602]:
+                - link "Enterprise API" [ref=f57e603] [cursor=pointer]:
+                  - /url: https://cal.com/docs/enterprise-features/api
+              - listitem [ref=f57e604]:
+                - link "GitHub" [ref=f57e605] [cursor=pointer]:
+                  - /url: https://github.com/calcom/cal.com
+              - listitem [ref=f57e606]:
+                - link "llms.txt" [ref=f57e607] [cursor=pointer]:
+                  - /url: /llms.txt
+          - navigation "Contact" [ref=f57e608]:
+            - paragraph [ref=f57e609]: Contact
+            - list [ref=f57e610]:
+              - listitem [ref=f57e611]:
+                - link "support@cal.com" [ref=f57e612] [cursor=pointer]:
+                  - /url: mailto:support@cal.com
+              - listitem [ref=f57e613]:
+                - link "security@cal.com" [ref=f57e614] [cursor=pointer]:
+                  - /url: mailto:security@cal.com
+              - listitem [ref=f57e615]:
+                - link "privacy@cal.com" [ref=f57e616] [cursor=pointer]:
+                  - /url: mailto:privacy@cal.com
+              - listitem [ref=f57e617]:
+                - link "press@cal.com" [ref=f57e618] [cursor=pointer]:
+                  - /url: mailto:press@cal.com
+        - navigation "Resources" [ref=f57e620]:
+          - paragraph [ref=f57e621]: Resources
+          - list [ref=f57e622]:
+            - listitem [ref=f57e623]:
+              - link "Help docs" [ref=f57e624] [cursor=pointer]:
+                - /url: https://cal.com/help
+            - listitem [ref=f57e625]:
+              - link "FAQ" [ref=f57e626] [cursor=pointer]:
+                - /url: /faq
+            - listitem [ref=f57e627]:
+              - link "Blog" [ref=f57e628] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f57e629]:
+              - link "Customer stories" [ref=f57e630] [cursor=pointer]:
+                - /url: /customers
+            - listitem [ref=f57e631]:
+              - link "Compare" [ref=f57e632] [cursor=pointer]:
+                - /url: https://cal.com/compare
+            - listitem [ref=f57e633]:
+              - link "Cal.com vs Calendly" [ref=f57e634] [cursor=pointer]:
+                - /url: /calcom-vs-calendly
+            - listitem [ref=f57e635]:
+              - link "Migrate to Cal.com" [ref=f57e636] [cursor=pointer]:
+                - /url: /migrate
+            - listitem [ref=f57e637]:
+              - link "Changelog" [ref=f57e638] [cursor=pointer]:
+                - /url: /changelog
+            - listitem [ref=f57e639]:
+              - link "Status" [ref=f57e640] [cursor=pointer]:
+                - /url: https://status.cal.com
+            - listitem [ref=f57e641]:
+              - link "Cal Sans" [ref=f57e642] [cursor=pointer]:
+                - /url: /font
+            - listitem [ref=f57e643]:
+              - link "Brand assets" [ref=f57e644] [cursor=pointer]:
+                - /url: /brand
+        - navigation "Company" [ref=f57e646]:
+          - paragraph [ref=f57e647]: Company
+          - list [ref=f57e648]:
+            - listitem [ref=f57e649]:
+              - link "About" [ref=f57e650] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=f57e651]:
+              - link "Jobs" [ref=f57e652] [cursor=pointer]:
+                - /url: /jobs
+            - listitem [ref=f57e653]:
+              - link "Open startup" [ref=f57e654] [cursor=pointer]:
+                - /url: /open
+            - listitem [ref=f57e655]:
+              - link "Press" [ref=f57e656] [cursor=pointer]:
+                - /url: /press-kit
+            - listitem [ref=f57e657]:
+              - link "Affiliate program" [ref=f57e658] [cursor=pointer]:
+                - /url: /affiliate-program
+            - listitem [ref=f57e659]:
+              - link "Support" [ref=f57e660] [cursor=pointer]:
+                - /url: https://app.cal.com/support
+            - listitem [ref=f57e661]:
+              - link "Contact" [ref=f57e662] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=f57e663]:
+              - link "Get a demo" [ref=f57e664] [cursor=pointer]:
+                - /url: /talk-to-sales
+            - listitem [ref=f57e665]:
+              - link "Talk to sales" [ref=f57e666] [cursor=pointer]:
+                - /url: /talk-to-sales
+            - listitem [ref=f57e667]:
+              - link "Security" [ref=f57e668] [cursor=pointer]:
+                - /url: /security
+            - listitem [ref=f57e669]:
+              - link "Compliance" [ref=f57e670] [cursor=pointer]:
+                - /url: /compliance
+            - listitem [ref=f57e671]:
+              - link "Data Privacy Framework" [ref=f57e672] [cursor=pointer]:
+                - /url: /dpf-data-privacy-framework
+            - listitem [ref=f57e673]:
+              - link "Privacy" [ref=f57e674] [cursor=pointer]:
+                - /url: /privacy
+            - listitem [ref=f57e675]:
+              - link "Terms" [ref=f57e676] [cursor=pointer]:
+                - /url: /terms
+      - generic [ref=f57e677]:
+        - list "Compliance" [ref=f57e678]:
+          - listitem [ref=f57e679]:
+            - button [ref=f57e680]:
+              - img "ISO 27001 Information Security" [ref=f57e681]
+          - listitem [ref=f57e682]:
+            - button [ref=f57e683]:
+              - img "AICPA SOC 2" [ref=f57e684]
+          - listitem [ref=f57e685]:
+            - button [ref=f57e686]:
+              - img "CCPA compliant" [ref=f57e687]
+          - listitem [ref=f57e688]:
+            - button [ref=f57e689]:
+              - img "GDPR aligned" [ref=f57e690]
+          - listitem [ref=f57e691]:
+            - button [ref=f57e692]:
+              - img "HIPAA compliant" [ref=f57e693]
+        - paragraph [ref=f57e694]:
+          - generic [ref=f57e695]: © 2026 Cal.com, Inc. All rights reserved.
+          - generic [ref=f57e696]: Cal.com® and Cal® are registered trademarks of Cal.com, Inc.
+  - alert [ref=f57e700]
