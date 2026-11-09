@@ -1,0 +1,493 @@
+- generic [ref=f68e4]:
+  - banner [ref=f68e5]:
+    - navigation [ref=f68e8]:
+      - generic [ref=f68e11]:
+        - link "Home" [ref=f68e13] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f68e34]:
+          - generic [ref=f68e35]:
+            - button "AI" [ref=f68e37] [cursor=pointer]
+            - button "Product" [ref=f68e39] [cursor=pointer]
+            - button "Solutions" [ref=f68e41] [cursor=pointer]
+            - button "Resources" [ref=f68e43] [cursor=pointer]
+            - button "Company" [ref=f68e45] [cursor=pointer]
+            - link "Pricing" [ref=f68e47] [cursor=pointer]:
+              - /url: /pricing/
+          - region "Main menu"
+        - generic [ref=f68e50]:
+          - link "Sign in" [ref=f68e52] [cursor=pointer]:
+            - /url: https://dashboard.fundraiseup.com/
+          - link "Get started" [ref=f68e54] [cursor=pointer]:
+            - /url: /contact-sales/
+  - main [ref=f68e60]:
+    - generic [ref=f68e61]:
+      - generic [ref=f68e66]:
+        - heading "Curious minds. Real ownership. Shared mission." [level=1] [ref=f68e67]
+        - paragraph [ref=f68e69]: We believe generosity deserves better. Join the people changing it.
+        - link "View open roles" [ref=f68e71] [cursor=pointer]:
+          - /url: "#careers-jobs-list-table"
+      - button "Play video" [ref=f68e89] [cursor=pointer]
+    - generic [ref=f68e92]:
+      - heading "Who we are" [level=2] [ref=f68e93]
+      - generic [ref=f68e96]:
+        - paragraph [ref=f68e97]: "Fundraise Up is a nonprofit fundraising platform that has transformed the donation experience for donors. We built it around the modern donor and their needs: global, privacy-compliant and AI-first. By reimagining traditional donation forms, we’ve helped thousands of organizations increase their conversion rates, grow their monthly donor file, and capture more revenue from every giving opportunity."
+        - paragraph [ref=f68e98]: Nonprofits deserve better technology, and generosity deserves better infrastructure. That belief shapes everything we build from frictionless checkout experiences to intelligent optimization tools that ultimately help mission-driven organizations deliver on their mission.
+        - paragraph [ref=f68e99]: "Curiosity drives how we operate: thinking beyond convention, exploring what motivates donor behavior, and reimagining technology around the donor experience. We’re a team of builders, strategists, and problem-solvers. We bring a global perspective to our work, collaborating across countries and showing up with an unwavering commitment to the nonprofits we serve."
+    - generic [ref=f68e104]:
+      - heading "Our values" [level=2] [ref=f68e105]
+      - generic [ref=f68e107]:
+        - paragraph [ref=f68e108]: "Donor experience is the growth engine of modern fundraising. Everything we build, design, and deliver is grounded in a simple belief: when the donor experience improves, generosity grows. These values shape how we show up for nonprofits, donors, and each other."
+        - paragraph [ref=f68e109]: We attract and hire people who want to build, a culture where experimentation is encouraged, ownership is expected, and where honest collaboration drives better outcomes.
+      - generic [ref=f68e112]:
+        - generic [ref=f68e115]:
+          - heading "Continuous innovation" [level=3] [ref=f68e116]
+          - paragraph [ref=f68e117]: Bold ideas, no rigid playbooks. We push what’s possible for nonprofits and the donors who support them.
+        - generic [ref=f68e120]:
+          - heading "Ownership" [level=3] [ref=f68e121]
+          - paragraph [ref=f68e122]: Real responsibility, real impact, roles that matter. When a nonprofit raises more, we feel it. When they don’t, we fix it.
+        - generic [ref=f68e125]:
+          - heading "Candid collaboration" [level=3] [ref=f68e126]
+          - paragraph [ref=f68e127]: Low ego, direct communication, trust that drives results. The best ideas come from people who collaborate without politics.
+    - generic [ref=f68e130]:
+      - heading "Ready to build with us?" [level=2] [ref=f68e131]
+      - paragraph [ref=f68e133]: Explore open roles and discover where you can make an impact.
+      - link "View open roles" [ref=f68e135] [cursor=pointer]:
+        - /url: "#careers-jobs-list-table"
+    - generic [ref=f68e139]:
+      - heading "Our team" [level=2] [ref=f68e140]
+      - paragraph [ref=f68e156]: At Fundraise Up, our team spans the globe from Brooklyn to Lisbon, Buenos Aires to London. We’re a truly distributed company, shaped by the cultures and perspectives of our diverse teams.
+      - paragraph [ref=f68e173]: Collaboration is core to how we work, across teams, across time zones, and alongside the organizations we support. We believe generosity is worth celebrating, and we care deeply about helping nonprofits raise more for the causes they serve.
+    - generic [ref=f68e175]:
+      - generic [ref=f68e177]:
+        - generic [ref=f68e179]:
+          - generic:
+            - img "Warsaw" [ref=f68e183]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Warsaw"
+                - generic: Warsaw
+            - img "Krakow" [ref=f68e184]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Krakow"
+                - generic: Krakow
+            - img "Belgrade" [ref=f68e185]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Belgrade"
+                - generic: Belgrade
+            - img "Barcelona" [ref=f68e186]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Barcelona"
+                - generic: Barcelona
+            - img "Valencia" [ref=f68e187]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Valencia"
+                - generic: Valencia
+            - img "Tbilisi" [ref=f68e188]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Tbilisi"
+                - generic: Tbilisi
+            - img "New York" [ref=f68e189]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "New York"
+                - generic: New York
+            - img "Rio de Janeiro" [ref=f68e190]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Rio de Janeiro"
+                - generic: Rio de Janeiro
+            - img "Buenos Aires" [ref=f68e191]:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Buenos Aires"
+                - generic: Buenos Aires
+        - generic [ref=f68e192]:
+          - generic [ref=f68e193]:
+            - paragraph [ref=f68e194]: "0"
+            - paragraph [ref=f68e196]: team members
+          - generic [ref=f68e197]:
+            - paragraph [ref=f68e198]: "0"
+            - paragraph [ref=f68e200]: countries around the world
+          - generic [ref=f68e201]:
+            - paragraph [ref=f68e202]: "0"
+            - paragraph [ref=f68e204]: nonprofits using Fundraise Up
+      - generic [ref=f68e207]:
+        - button "Open photo" [ref=f68e208] [cursor=pointer]
+        - button "Open photo" [ref=f68e211] [cursor=pointer]
+        - button "Open photo" [ref=f68e214] [cursor=pointer]
+        - button "Open photo" [ref=f68e217] [cursor=pointer]
+        - button "Open photo" [ref=f68e220] [cursor=pointer]
+        - button "Open photo" [ref=f68e223] [cursor=pointer]
+        - button "Open photo" [ref=f68e226] [cursor=pointer]
+        - button "Open photo" [ref=f68e229] [cursor=pointer]
+        - button "Open photo" [ref=f68e232] [cursor=pointer]
+        - button "Open photo" [ref=f68e235] [cursor=pointer]
+        - button "Open photo" [ref=f68e238] [cursor=pointer]
+        - button "Open photo" [ref=f68e241] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e244] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e247] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e250] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e253] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e256] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e259] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e262] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e265] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e268] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e271] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e274] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e277] [cursor=pointer]
+      - generic [ref=f68e282]:
+        - button "Open photo" [ref=f68e283] [cursor=pointer]
+        - button "Open photo" [ref=f68e286] [cursor=pointer]
+        - button "Open photo" [ref=f68e289] [cursor=pointer]
+        - button "Open photo" [ref=f68e292] [cursor=pointer]
+        - button "Open photo" [ref=f68e295] [cursor=pointer]
+        - button "Open photo" [ref=f68e298] [cursor=pointer]
+        - button "Open photo" [ref=f68e301] [cursor=pointer]
+        - button "Open photo" [ref=f68e304] [cursor=pointer]
+        - button "Open photo" [ref=f68e307] [cursor=pointer]
+        - button "Open photo" [ref=f68e310] [cursor=pointer]
+        - button "Open photo" [ref=f68e313] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e316] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e319] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e322] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e325] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e328] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e331] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e334] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e337] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e340] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e343] [cursor=pointer]
+        - button [aria-hidden] [ref=f68e346] [cursor=pointer]
+      - generic [ref=f68e350]:
+        - heading "Ready to build with us?" [level=2] [ref=f68e351]
+        - paragraph [ref=f68e353]: Explore open roles and discover where you can make an impact.
+        - button "View open roles" [ref=f68e355] [cursor=pointer]
+    - generic [ref=f68e359]:
+      - heading "Why work with us" [level=2] [ref=f68e360]
+      - generic [ref=f68e364]:
+        - button "Play video" [ref=f68e374] [cursor=pointer]
+        - button "Play video" [ref=f68e384] [cursor=pointer]
+        - button "Play video" [ref=f68e394] [cursor=pointer]
+        - button "Play video" [ref=f68e404] [cursor=pointer]
+    - generic [ref=f68e406]:
+      - heading "Why you’ll thrive at Fundraise Up" [level=2] [ref=f68e408]
+      - paragraph [ref=f68e410]: This is a place for ambitious people motivated by the opportunity to shape the future of fundraising alongside some of the world’s most impactful organizations. You’ll work alongside smart, sincere teammates who care deeply about doing exceptional work. As a Series B funded start-up scaling globally, we offer the benefits and infrastructure you’d expect from a mature company, paired with the energy and opportunity of high growth.
+      - generic [ref=f68e412]:
+        - generic [ref=f68e413]:
+          - paragraph [ref=f68e418]: 401(k) plan
+          - paragraph [ref=f68e423]: Comprehensive medical, dental, and vision coverage for you and your family
+        - generic [ref=f68e424]:
+          - paragraph [ref=f68e429]: Educational assistance for courses, certifications, and professional development
+          - paragraph [ref=f68e434]: Paid volunteer time off and a charitable giving match
+        - generic [ref=f68e435]:
+          - paragraph [ref=f68e440]: Paid time off — we set clear expectations and trust you to manage your time
+          - paragraph [ref=f68e445]: Home office stipend
+    - generic [ref=f68e449]:
+      - heading "Join a global team building the fundraising platform that helps nonprofits raise more" [level=2] [ref=f68e450]
+      - generic [ref=f68e452]:
+        - navigation "Filter by department" [ref=f68e454]:
+          - button "All roles"
+          - button "Customer Success" [ref=f68e455] [cursor=pointer]
+          - button "Design" [ref=f68e456] [cursor=pointer]
+          - button "Engineering" [ref=f68e457] [cursor=pointer]
+          - button "Finance" [ref=f68e458] [cursor=pointer]
+          - button "Growth" [ref=f68e459] [cursor=pointer]
+          - button "Marketing" [ref=f68e460] [cursor=pointer]
+          - button "Partnerships" [ref=f68e461] [cursor=pointer]
+          - button "Product Management" [ref=f68e462] [cursor=pointer]
+          - button "RevOps" [ref=f68e463] [cursor=pointer]
+          - button "Solutions" [ref=f68e464] [cursor=pointer]
+        - generic [ref=f68e465]:
+          - generic [ref=f68e466]:
+            - textbox "Search for a job" [ref=f68e469]
+            - button "All locations" [ref=f68e472] [cursor=pointer]
+          - generic [ref=f68e476]:
+            - link "Account-Based Marketing Manager USA Remote" [ref=f68e477] [cursor=pointer]:
+              - /url: /careers/4741315005/?gh_jid=4741315005
+              - generic [ref=f68e478]: Account-Based Marketing Manager
+              - generic [ref=f68e479]:
+                - generic [ref=f68e480]: USA
+                - generic [ref=f68e483]: Remote
+            - link "Account Executive, Education Vertical USA Remote" [ref=f68e484] [cursor=pointer]:
+              - /url: /careers/4741317005/?gh_jid=4741317005
+              - generic [ref=f68e485]: Account Executive, Education Vertical
+              - generic [ref=f68e486]:
+                - generic [ref=f68e487]: USA
+                - generic [ref=f68e490]: Remote
+            - link "Customer Growth Manager USA Remote" [ref=f68e491] [cursor=pointer]:
+              - /url: /careers/4749631005/?gh_jid=4749631005
+              - generic [ref=f68e492]: Customer Growth Manager
+              - generic [ref=f68e493]:
+                - generic [ref=f68e494]: USA
+                - generic [ref=f68e497]: Remote
+            - link "Director, Strategic Ecosystems & Alliances USA Remote" [ref=f68e498] [cursor=pointer]:
+              - /url: /careers/4742440005/?gh_jid=4742440005
+              - generic [ref=f68e499]: Director, Strategic Ecosystems & Alliances
+              - generic [ref=f68e500]:
+                - generic [ref=f68e501]: USA
+                - generic [ref=f68e504]: Remote
+            - link "Head Of Data USA Remote" [ref=f68e505] [cursor=pointer]:
+              - /url: /careers/4741318005/?gh_jid=4741318005
+              - generic [ref=f68e506]: Head Of Data
+              - generic [ref=f68e507]:
+                - generic [ref=f68e508]: USA
+                - generic [ref=f68e511]: Remote
+            - link "Paid Media Manager USA Remote" [ref=f68e512] [cursor=pointer]:
+              - /url: /careers/4741517005/?gh_jid=4741517005
+              - generic [ref=f68e513]: Paid Media Manager
+              - generic [ref=f68e514]:
+                - generic [ref=f68e515]: USA
+                - generic [ref=f68e518]: Remote
+            - link "Revenue Analytics Manager USA Remote" [ref=f68e519] [cursor=pointer]:
+              - /url: /careers/4746089005/?gh_jid=4746089005
+              - generic [ref=f68e520]: Revenue Analytics Manager
+              - generic [ref=f68e521]:
+                - generic [ref=f68e522]: USA
+                - generic [ref=f68e525]: Remote
+            - link "Senior Director Christian Faith USA Remote" [ref=f68e526] [cursor=pointer]:
+              - /url: /careers/4749483005/?gh_jid=4749483005
+              - generic [ref=f68e527]: Senior Director Christian Faith
+              - generic [ref=f68e528]:
+                - generic [ref=f68e529]: USA
+                - generic [ref=f68e532]: Remote
+            - link "Senior Product Manager, Partnerships USA Remote" [ref=f68e533] [cursor=pointer]:
+              - /url: /careers/4740439005/?gh_jid=4740439005
+              - generic [ref=f68e534]: Senior Product Manager, Partnerships
+              - generic [ref=f68e535]:
+                - generic [ref=f68e536]: USA
+                - generic [ref=f68e539]: Remote
+            - link "Sr. Partnership Manager, HubSpot USA Remote" [ref=f68e540] [cursor=pointer]:
+              - /url: /careers/4742455005/?gh_jid=4742455005
+              - generic [ref=f68e541]: Sr. Partnership Manager, HubSpot
+              - generic [ref=f68e542]:
+                - generic [ref=f68e543]: USA
+                - generic [ref=f68e546]: Remote
+          - button "Show more" [ref=f68e547] [cursor=pointer]:
+            - text: Show
+            - generic [ref=f68e548]: more
+    - generic [ref=f68e561]:
+      - heading "Unlocking the world’s generosity potential" [level=3] [ref=f68e562]
+      - paragraph [ref=f68e564]: Fundraise Up is a global, AI-powered fundraising platform that helps nonprofits increase revenue by improving conversion and growing recurring giving.
+      - link "Explore Fundraise Up story" [ref=f68e566] [cursor=pointer]:
+        - /url: /about/
+  - contentinfo [ref=f68e568]:
+    - generic [ref=f68e570]:
+      - generic [ref=f68e571]:
+        - generic [ref=f68e573]:
+          - generic [ref=f68e574]: Features
+          - generic [ref=f68e577]:
+            - link "Checkout" [ref=f68e581] [cursor=pointer]:
+              - /url: /features/checkout/
+            - link "Campaign Pages" [ref=f68e584] [cursor=pointer]:
+              - /url: /features/campaign-pages/
+            - link "P2P Fundraising" [ref=f68e587] [cursor=pointer]:
+              - /url: /features/peer-to-peer-fundraising/
+            - link "Gift Cart" [ref=f68e590] [cursor=pointer]:
+              - /url: /features/gift-cart/
+            - link "Insights dashboard" [ref=f68e593] [cursor=pointer]:
+              - /url: /features/insights-dashboard/
+            - link "Elements" [ref=f68e596] [cursor=pointer]:
+              - /url: /features/elements/
+            - link "Donor Portal" [ref=f68e599] [cursor=pointer]:
+              - /url: /features/donor-portal/
+            - link "In-Person Giving" [ref=f68e602] [cursor=pointer]:
+              - /url: /features/in-person-giving/
+            - link "Integrations" [ref=f68e605] [cursor=pointer]:
+              - /url: /features/integrations/
+            - link "Pledges" [ref=f68e608] [cursor=pointer]:
+              - /url: /features/pledges/
+            - link "Designations" [ref=f68e611] [cursor=pointer]:
+              - /url: /features/designations/
+            - link "Languages & dialects" [ref=f68e614] [cursor=pointer]:
+              - /url: /features/languages/
+            - link "Tributes" [ref=f68e617] [cursor=pointer]:
+              - /url: /features/tributes/
+            - link "Data exports" [ref=f68e620] [cursor=pointer]:
+              - /url: /features/data-exports/
+            - link "Country-specific features" [ref=f68e623] [cursor=pointer]:
+              - /url: /features/country-specific-features/
+            - link "Virtual Terminal" [ref=f68e626] [cursor=pointer]:
+              - /url: /features/virtual-terminal/
+            - link "Emails" [ref=f68e629] [cursor=pointer]:
+              - /url: /features/emails/
+            - link "Subaccounts" [ref=f68e632] [cursor=pointer]:
+              - /url: /features/subaccounts/
+            - link "White label" [ref=f68e635] [cursor=pointer]:
+              - /url: /features/white-label/
+            - link "Currencies" [ref=f68e638] [cursor=pointer]:
+              - /url: /features/currencies/
+            - link "Company matching" [ref=f68e641] [cursor=pointer]:
+              - /url: /features/company-matching/
+        - generic [ref=f68e642]:
+          - generic [ref=f68e643]:
+            - generic [ref=f68e644]: AI
+            - generic [ref=f68e647]:
+              - link "AI Overview" [ref=f68e651] [cursor=pointer]:
+                - /url: /ai/
+              - link "Agentic Giving" [ref=f68e654] [cursor=pointer]:
+                - /url: /ai/agentic-giving/
+              - link "AI Donor Experience" [ref=f68e657] [cursor=pointer]:
+                - /url: /ai/ai-donor-experience/
+              - link "AI Fundraiser" [ref=f68e660] [cursor=pointer]:
+                - /url: /ai/ai-fundraiser/
+              - link "Fundraise Up MCP" [ref=f68e663] [cursor=pointer]:
+                - /url: /ai/fundraise-up-mcp/
+          - generic [ref=f68e664]:
+            - generic [ref=f68e666]: Platform
+            - generic [ref=f68e669]:
+              - link "Payment methods" [ref=f68e673] [cursor=pointer]:
+                - /url: /platform/payment-methods/
+              - link "REST API" [ref=f68e676] [cursor=pointer]:
+                - /url: /platform/rest-api/
+              - link "Enterprise support" [ref=f68e679] [cursor=pointer]:
+                - /url: /platform/enterprise-support/
+              - link "Migration services" [ref=f68e682] [cursor=pointer]:
+                - /url: /migration-services/
+              - link "Compliances" [ref=f68e685] [cursor=pointer]:
+                - /url: /platform/compliances/
+              - link "Security" [ref=f68e688] [cursor=pointer]:
+                - /url: /platform/security/
+              - link "Scalability" [ref=f68e691] [cursor=pointer]:
+                - /url: /platform/scalability/
+              - link "Fraud protection" [ref=f68e694] [cursor=pointer]:
+                - /url: /platform/fraud-protection/
+        - generic [ref=f68e695]:
+          - generic [ref=f68e696]:
+            - generic [ref=f68e697]: Resources
+            - generic [ref=f68e700]:
+              - link "Resource center" [ref=f68e704] [cursor=pointer]:
+                - /url: /resources/
+              - link "Blog" [ref=f68e707] [cursor=pointer]:
+                - /url: /blog/
+              - link "Case studies" [ref=f68e710] [cursor=pointer]:
+                - /url: /case-studies/
+              - link "Events" [ref=f68e713] [cursor=pointer]:
+                - /url: /events/
+              - link "Demo center" [ref=f68e716] [cursor=pointer]:
+                - /url: /demo-center/
+              - link "Docs" [ref=f68e719] [cursor=pointer]:
+                - /url: /docs/
+              - link "Product updates" [ref=f68e722] [cursor=pointer]:
+                - /url: /docs/changelog/
+              - link "Donor experience hub" [ref=f68e725] [cursor=pointer]:
+                - /url: /donor-experience-hub/
+              - link "AI Visibility Assessment" [ref=f68e728] [cursor=pointer]:
+                - /url: /resources/ai-visibility-assessment/
+              - link "Help center" [ref=f68e731] [cursor=pointer]:
+                - /url: /support/
+              - link "Partner marketplace" [ref=f68e734] [cursor=pointer]:
+                - /url: https://marketplace.fundraiseup.com/
+          - generic [ref=f68e735]:
+            - generic [ref=f68e737]: Solutions
+            - generic [ref=f68e740]:
+              - link "Animal welfare" [ref=f68e744] [cursor=pointer]:
+                - /url: /fundraising-for-animal-welfare/
+              - link "Environment" [ref=f68e747] [cursor=pointer]:
+                - /url: /environment/
+              - link "Education" [ref=f68e750] [cursor=pointer]:
+                - /url: /sectors/education/
+              - link "Faith-based fundraising" [ref=f68e753] [cursor=pointer]:
+                - /url: /faith-based/
+              - link "International relief" [ref=f68e756] [cursor=pointer]:
+                - /url: /fundraising-for-international-aid/
+              - link "Conversion rate optimization" [ref=f68e759] [cursor=pointer]:
+                - /url: /conversion-rate-optimization/
+              - link "Recurring giving" [ref=f68e762] [cursor=pointer]:
+                - /url: /use-cases/recurring-giving/
+              - link "Real-time donor data" [ref=f68e765] [cursor=pointer]:
+                - /url: https://fundraiseup.com/use-cases/real-time-donor-data/
+              - link "Giving Season" [ref=f68e768] [cursor=pointer]:
+                - /url: https://fundraiseup.com/use-cases/giving-season/
+              - link "Multi-channel donations" [ref=f68e771] [cursor=pointer]:
+                - /url: https://fundraiseup.com/use-cases/multi-channel-donations/
+              - link "Emergency appeals" [ref=f68e774] [cursor=pointer]:
+                - /url: /use-cases/emergency-appeals/
+              - link "Global fundraising" [ref=f68e777] [cursor=pointer]:
+                - /url: /use-cases/global-fundraising/
+              - link "High volume events" [ref=f68e780] [cursor=pointer]:
+                - /url: /high-volume-events/
+              - link "Non-digital channels" [ref=f68e783] [cursor=pointer]:
+                - /url: /non-digital-channels/
+              - link "Over-the-phone donations" [ref=f68e786] [cursor=pointer]:
+                - /url: /over-the-phone-donations/
+              - link "Telethons" [ref=f68e789] [cursor=pointer]:
+                - /url: /telethons/
+        - generic [ref=f68e790]:
+          - generic [ref=f68e791]:
+            - generic [ref=f68e792]: Compare
+            - generic [ref=f68e795]:
+              - link "Compare Fundraise Up" [ref=f68e799] [cursor=pointer]:
+                - /url: /comparison/
+              - link "Fundraise Up vs Blackbaud" [ref=f68e802] [cursor=pointer]:
+                - /url: /comparison/fundraiseup-vs-blackbaud/
+              - link "Fundraise Up vs Luminate Online" [ref=f68e805] [cursor=pointer]:
+                - /url: /comparison/fundraiseup-vs-luminate-online/
+              - link "Fundraise Up vs Engaging Networks" [ref=f68e808] [cursor=pointer]:
+                - /url: /comparison/fundraiseup-vs-engaging-networks/
+              - link "Fundraise Up vs GoFundMe Pro" [ref=f68e811] [cursor=pointer]:
+                - /url: /comparison/fundraiseup-vs-gofundmepro/
+              - link "Fundraise Up vs Bonterra" [ref=f68e814] [cursor=pointer]:
+                - /url: /comparison/fundraiseup-vs-bonterra/
+              - link "Fundraise Up vs Givebutter" [ref=f68e817] [cursor=pointer]:
+                - /url: /comparison/fundraiseup-vs-givebutter/
+              - link "Fundraise Up vs Donorbox" [ref=f68e820] [cursor=pointer]:
+                - /url: /comparison/fundraiseup-vs-donorbox/
+              - link "Fundraise Up vs Bloomerang" [ref=f68e823] [cursor=pointer]:
+                - /url: /comparison/fundraiseup-vs-bloomerang/
+          - generic [ref=f68e824]:
+            - generic [ref=f68e826]: Company
+            - generic [ref=f68e829]:
+              - link "About Fundraise Up" [ref=f68e833] [cursor=pointer]:
+                - /url: /about/
+              - link "Identity guidelines" [ref=f68e836] [cursor=pointer]:
+                - /url: /identity-guidelines/
+              - link [ref=f68e839] [cursor=pointer]:
+                - /url: /careers/
+                - text: Careers
+                - generic [ref=f68e840]: We’re Hiring!
+              - link "Partner program" [ref=f68e844] [cursor=pointer]:
+                - /url: /partner-program/
+              - link "Community space" [ref=f68e847] [cursor=pointer]:
+                - /url: /community-space/
+              - link "Contact us" [ref=f68e850] [cursor=pointer]:
+                - /url: /contact-us/
+              - link "Pricing" [ref=f68e853] [cursor=pointer]:
+                - /url: /pricing/
+          - generic [ref=f68e854]:
+            - link "Status" [ref=f68e857] [cursor=pointer]:
+              - /url: https://status.fundraiseup.com/
+            - link "Privacy" [ref=f68e859] [cursor=pointer]:
+              - /url: /privacy/
+            - link "Cookie Policy" [ref=f68e861] [cursor=pointer]:
+              - /url: /cookie-policy/
+            - link "Terms" [ref=f68e863] [cursor=pointer]:
+              - /url: /terms/
+            - link "Trust Center" [ref=f68e865] [cursor=pointer]:
+              - /url: https://trust.fundraiseup.com/
+      - generic [ref=f68e867]:
+        - generic [ref=f68e868]: Fundraise Up
+        - paragraph [ref=f68e890]: © 2026 Fundraise Up Inc. All rights reserved.
+        - generic [ref=f68e894]:
+          - link "Facebook" [ref=f68e896] [cursor=pointer]:
+            - /url: https://www.facebook.com/fundraiseup
+          - link "Linked In" [ref=f68e902] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/fundraiseup/
+          - link "YouTube" [ref=f68e908] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UC0MypDCRuGSmQbNwHX6oWWA
+          - link "Twitter" [ref=f68e914] [cursor=pointer]:
+            - /url: https://twitter.com/fundraiseup
