@@ -1,5 +1,5 @@
 # Personal data (user fills these)
-cv.md
+# cv.md
 article-digest.md
 # A CV exported or saved at the repo root (cv.pdf, resume.docx). The repo
 # tracks no PDF or DOCX anywhere; the rules are root-anchored so a fixture or
@@ -26,7 +26,7 @@ data/*
 !data/offers/
 !data/parser-output/
 # Received offers/contracts, promise notes, prep reports (PII — never commit)
-data/offers/*   
+data/offers/*
 !data/offers/.gitkeep
 data/parser-output/**
 !data/parser-output/**/
@@ -42,9 +42,9 @@ reports/**/*.md
 # them. Kept as a third rule for the same updater reason (#6535).
 reports/*
 !reports/.gitkeep
-/output
-!/output/
-output/*
+# /output
+# !/output/
+# output/*
 !output/.gitkeep
 # batch/ holds generated worker output. Ignore the directory and allowlist the
 # tracked scaffolding, so a filename a future generator picks is covered by
@@ -129,7 +129,7 @@ config/privacy.yml
 # update-system.mjs. Gitignored on purpose: it describes THIS clone, not the
 # project, and must survive the sync that overwrites update-system.mjs (#2421).
 config/local-paths.txt
-portals.yml
+# portals.yml
 modes/_profile.md
 modes/_custom.md
 modes/_brief.md
