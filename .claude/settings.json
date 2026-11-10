@@ -1,0 +1,43 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node generate-pdf.mjs /tmp/cv-isaac-buffer.html output/cv-isaac-buffer-2026-05-25.pdf --format=letter)",
+      "mcp__playwright__browser_evaluate",
+      "Bash(printf '%s\\\\t2026-06-02\\\\t%s\\\\t%s\\\\t%s\\\\tadded\\\\n' https://www.myjobmag.co.ke/job/senior-software-engineer-backend-node-js-deimos-2 'WebSearch — Africa Remote' 'Senior Software Engineer \\(Backend Node.js\\)' Deimos)",
+      "Bash(printf '%s\\\\t2026-06-02\\\\t%s\\\\t%s\\\\t%s\\\\tadded\\\\n' https://jobs.ashbyhq.com/checkly/bf265e14-fd7b-47a7-a964-f9ba151d7807 'Tracked — Checkly' 'Staff Software Engineer - Infrastructure' Checkly)",
+      "Bash(printf '%s\\\\t2026-06-02\\\\t%s\\\\t%s\\\\t%s\\\\tskipped_title\\\\n' https://himalayas.app/companies/hostaway/jobs/senior-backend-engineer-booking-platform-100-remote-emea 'WebSearch — EMEA Remote' 'Senior Backend Engineer, Booking Platform \\(PHP/Go primary\\)' Hostaway)",
+      "WebFetch(domain:www.myjobmag.co.ke)",
+      "WebFetch(domain:api.ashbyhq.com)",
+      "WebFetch(domain:posthog.com)",
+      "WebFetch(domain:medusajs.com)",
+      "WebFetch(domain:close.com)",
+      "WebFetch(domain:www.appwrite.careers)",
+      "WebFetch(domain:careers.novu.co)",
+      "WebFetch(domain:railway.com)",
+      "WebFetch(domain:careers.ghost.org)",
+      "WebFetch(domain:hookdeck.com)",
+      "WebFetch(domain:doist.com)",
+      "WebFetch(domain:www.storyblok.com)",
+      "WebFetch(domain:www.unkey.com)",
+      "WebFetch(domain:documenso.com)",
+      "WebFetch(domain:formbricks.com)",
+      "WebFetch(domain:www.redpanda.com)",
+      "WebFetch(domain:www.dragonflydb.io)",
+      "WebFetch(domain:strapi.io)",
+      "Bash(node -e \"const fs=require\\('fs'\\);let y;try{y=require\\('js-yaml'\\)}catch\\(e\\){console.log\\('js-yaml not installed, skipping parse check'\\);process.exit\\(0\\)}const d=y.load\\(fs.readFileSync\\('portals.yml','utf8'\\)\\);console.log\\('OK — parsed.'\\);console.log\\('search_queries:',d.search_queries.length\\);console.log\\('tracked_companies:',d.tracked_companies.length\\);\")",
+      "Bash(python3 -c \"import yaml,sys; d=yaml.safe_load\\(open\\('portals.yml'\\)\\); print\\('OK — parsed.'\\); print\\('search_queries:',len\\(d['search_queries']\\)\\); print\\('tracked_companies:',len\\(d['tracked_companies']\\)\\)\")",
+      "WebFetch(domain:cal.com)",
+      "WebFetch(domain:automattic.com)",
+      "WebFetch(domain:careers.hostaway.com)",
+      "WebFetch(domain:remoteok.com)",
+      "Bash(awk -F'\\\\t' '{print NF\" fields\"}' /Volumes/software/code/career-ops/batch/tracker-additions/132-planetscale-vitess.tsv)",
+      "Bash(node generate-pdf.mjs /tmp/cv-candidate-automattic.html output/cv-candidate-automattic-2026-06-08.pdf --format=letter)",
+      "Bash(node generate-pdf.mjs /tmp/cv-candidate-calcom.html output/cv-candidate-calcom-2026-06-08.pdf --format=letter)",
+      "Bash(node generate-pdf.mjs /tmp/cv-candidate-hostaway.html output/cv-candidate-hostaway-2026-06-08.pdf --format=a4)",
+      "Bash(echo \"---EXIT:$?---\")",
+      "Bash(awk -F'\\\\t' '{print NF\" fields\"}' batch/tracker-additions/129-hostaway.tsv)",
+      "Bash(node generate-pdf.mjs /tmp/cover-letter-hostaway.html output/cover-letter-hostaway-2026-06-08.pdf --format=a4)",
+      "Bash(node generate-pdf.mjs /tmp/cover-letter-calcom.html output/cover-letter-calcom-2026-06-08.pdf --format=letter)"
+    ]
+  }
+}
