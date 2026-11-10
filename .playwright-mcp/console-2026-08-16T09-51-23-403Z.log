@@ -1,0 +1,2 @@
+[    1167ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://www.betpawa.ug/?bookingCode=N0UERZV:0
+[    2259ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://o318738.ingest.us.sentry.io/api/4509988594384896/envelope/?sentry_version=7&sentry_key=7dbd827f7c2773299b99ce1c442758d5&sentry_client=sentry.javascript.nextjs%2F10.33.0:0

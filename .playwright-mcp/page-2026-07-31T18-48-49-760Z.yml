@@ -1,0 +1,490 @@
+- generic [active] [ref=f16e1]:
+  - generic [ref=f16e2]:
+    - banner [ref=f16e3]:
+      - navigation [ref=f16e4]:
+        - paragraph [ref=f16e5]: Top navigation
+        - generic [ref=f16e6]:
+          - link "Buffer" [ref=f16e8] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f16e17]:
+            - button "Features" [ref=f16e19] [cursor=pointer]
+            - button "Integrations" [ref=f16e27] [cursor=pointer]
+            - button "Made for" [ref=f16e35] [cursor=pointer]
+            - button "Resources" [ref=f16e43] [cursor=pointer]
+            - link "Pricing" [ref=f16e50] [cursor=pointer]:
+              - /url: /pricing?cta=bufferSite-globalNav-pricing-pricing-1
+          - generic [ref=f16e51]:
+            - link "Log in" [ref=f16e52] [cursor=pointer]:
+              - /url: https://login.buffer.com/login?plan=free&cycle=year&cta=bufferSite-globalNav-login-1
+            - link "Get started for free" [ref=f16e54] [cursor=pointer]:
+              - /url: https://login.buffer.com/signup?product=buffer&plan=free&cycle=year&cta=bufferSite-globalNav-signup-1
+    - main [ref=f16e56]:
+      - generic [ref=f16e58]:
+        - generic [ref=f16e59]:
+          - heading "Join the Buffer Journey" [level=1] [ref=f16e60]
+          - paragraph [ref=f16e61]: Working at Buffer is more than just a job. Want to come along for the ride?
+        - link [ref=f16e63] [cursor=pointer]:
+          - /url: "#open-roles"
+      - region [ref=f16e67]:
+        - generic [ref=f16e68]:
+          - generic [ref=f16e69]:
+            - generic [ref=f16e70]:
+              - heading "What is Buffer?" [level=2] [ref=f16e71]
+              - paragraph [ref=f16e72]: We’re a small team on a mission to help innovative companies grow their businesses – and along the way, we’re championing a more human way to work.
+              - paragraph [ref=f16e73]: Buffer was started in 2010 as a simple way to schedule posts on Twitter. Today it’s a growing suite of tools now serving more than 75,000 customers.
+            - generic [ref=f16e74]:
+              - link [ref=f16e75] [cursor=pointer]:
+                - /url: /transparency
+              - link [ref=f16e79] [cursor=pointer]:
+                - /url: /open
+          - img "The full Buffer team gathered during the 2025 Turkey retreat in front of a hotel with traditional relief carved decoration." [ref=f16e85]
+      - region [ref=f16e86]:
+        - generic [ref=f16e88]:
+          - generic [ref=f16e89]:
+            - heading "Where will I work?" [level=2] [ref=f16e90]
+            - paragraph [ref=f16e91]: Buffer is a fully remote team, spread across the whole planet. We have teammates in 22 countries, 51 cities, and 11 timezones (and counting!). As a member of our team, you will be invited to work wherever you’re happiest and most productive.
+            - generic [ref=f16e92]:
+              - generic [ref=f16e93]:
+                - term [ref=f16e94]: Countries
+                - definition [ref=f16e95]:
+                  - generic [ref=f16e96]: 🗺️
+                  - generic [ref=f16e98]: "22"
+              - generic [ref=f16e99]:
+                - term [ref=f16e100]: Cities
+                - definition [ref=f16e101]:
+                  - generic [ref=f16e102]: 🌆
+                  - generic [ref=f16e104]: "51"
+              - generic [ref=f16e105]:
+                - term [ref=f16e106]: Timezones
+                - definition [ref=f16e107]:
+                  - generic [ref=f16e108]: 🕓
+                  - generic [ref=f16e110]: "11"
+          - link [ref=f16e112] [cursor=pointer]:
+            - /url: /resources/distributed-team-benefits/
+      - region [ref=f16e116]:
+        - generic [ref=f16e117]:
+          - generic [ref=f16e118]:
+            - heading "United by our values" [level=2] [ref=f16e119]
+            - paragraph [ref=f16e120]: "We’re building a company that’s focused not just on the bottom line, but also on the happiness of our customers and team. Here are the values that guide our decisions and actions:"
+          - generic [ref=f16e121]:
+            - generic [ref=f16e122]:
+              - generic [ref=f16e123]: 📖
+              - heading "Default to transparency" [level=3] [ref=f16e125]
+              - paragraph [ref=f16e126]: Our true North Star. Transparency is the value we’re best known for, and yet, still very aspirational. We aspire to always default to transparency as a company and as individuals in our decisions and actions.
+              - group [ref=f16e127]
+            - generic [ref=f16e132]:
+              - generic [ref=f16e133]: ⬆️
+              - heading "Improve consistently" [level=3] [ref=f16e135]
+              - paragraph [ref=f16e136]: Improving consistently is about striving to be better, not in competition with anyone but our yesterday selves. We are committed to working every day toward personal and professional growth.
+              - group [ref=f16e137]
+            - generic [ref=f16e142]:
+              - generic [ref=f16e143]: ⛵
+              - heading "Be a no-ego doer" [level=3] [ref=f16e145]
+              - paragraph [ref=f16e146]: We don’t attach our personal selves to ideas. We remove ourselves—our fears, our pride—from our work to lead to a better, more productive experience for us and everyone around us. We’re all rowing this boat together.
+              - group [ref=f16e147]
+            - generic [ref=f16e152]:
+              - generic [ref=f16e153]: 💛
+              - heading "Show gratitude" [level=3] [ref=f16e155]
+              - paragraph [ref=f16e156]: This value is deeply ingrained in our culture. We regularly show gratitude for each other, for the technology to make this company and life possible, and for the many blessings that Buffer brings to our lives.
+              - group [ref=f16e157]
+            - generic [ref=f16e162]:
+              - generic [ref=f16e163]: 🥛
+              - heading "Choose optimism" [level=3] [ref=f16e165]
+              - paragraph [ref=f16e166]: Choosing optimism is foundational to Buffer’s kind and joyful culture. Optimism helps us look to the future with positivity, while embracing hard conversations and decisions in service of Buffer’s health and future.
+              - group [ref=f16e167]
+            - generic [ref=f16e172]:
+              - generic [ref=f16e173]: 🪞
+              - heading "Reflect to unblock" [level=3] [ref=f16e175]
+              - paragraph [ref=f16e176]: We carve out time for reflection in order to unblock ourselves. We believe personal growth stems from vulnerability and introspection as we focus on ongoing self-improvement.
+              - group [ref=f16e177]
+      - region [ref=f16e182]:
+        - generic [ref=f16e184]:
+          - heading "What is the Buffer team like?" [level=2] [ref=f16e185]
+          - paragraph [ref=f16e186]: Buffer is an equal opportunity employer that has the awesome opportunity to add teammates from anywhere in the world! We’re united by Buffer’s values, and we celebrate our unique differences.
+          - paragraph [ref=f16e187]: What kind of people work at Buffer? All kinds! We hire talented teammates from a wide variety of backgrounds and experiences, and we’re committed to a work environment of respect and kindness.
+      - region [ref=f16e324]:
+        - generic [ref=f16e325]:
+          - generic [ref=f16e326]:
+            - heading "Perks and benefits" [level=2] [ref=f16e327]
+            - paragraph [ref=f16e328]: Our focus with perks and benefits is to offer everything teammates need to do their best, healthiest work and keep developing their craft.
+          - list [ref=f16e329]:
+            - listitem [ref=f16e330]:
+              - generic [ref=f16e331]: 💰
+              - generic [ref=f16e333]:
+                - heading "Competitive salary" [level=3] [ref=f16e334]
+                - paragraph [ref=f16e335]:
+                  - text: Our
+                  - link "salary formula" [ref=f16e336] [cursor=pointer]:
+                    - /url: /salaries
+                  - text: adjusts to your cost of living and experience.
+            - listitem [ref=f16e337]:
+              - generic [ref=f16e338]: 🏝
+              - generic [ref=f16e340]:
+                - heading "Work remotely" [level=3] [ref=f16e341]
+                - paragraph [ref=f16e342]: Live and work wherever you are the happiest and most productive!
+            - listitem [ref=f16e343]:
+              - generic [ref=f16e344]: 🗓
+              - generic [ref=f16e346]:
+                - heading "4-Day workweeks" [level=3] [ref=f16e347]
+                - paragraph [ref=f16e348]: Our schedule is four workdays, with a flexible, meeting-free fifth day for overflow tasks or personal time as you see fit.
+            - listitem [ref=f16e349]:
+              - generic [ref=f16e350]: 💪
+              - generic [ref=f16e352]:
+                - heading "Health insurance" [level=3] [ref=f16e353]
+                - paragraph [ref=f16e354]: We offer health insurance for all of our team members, international or US.
+            - listitem [ref=f16e355]:
+              - generic [ref=f16e356]: 🏠
+              - generic [ref=f16e358]:
+                - heading "Home office setup" [level=3] [ref=f16e359]
+                - paragraph [ref=f16e360]: Get $1000 to set up your home office!
+            - listitem [ref=f16e361]:
+              - generic [ref=f16e362]: 👓
+              - generic [ref=f16e364]:
+                - heading "Growth mindset fund" [level=3] [ref=f16e365]
+                - paragraph [ref=f16e366]: Extra money each year for learning and development.
+            - listitem [ref=f16e367]:
+              - generic [ref=f16e368]: 💻
+              - generic [ref=f16e370]:
+                - heading "New laptop" [level=3] [ref=f16e371]
+                - paragraph [ref=f16e372]: Get a powerful new laptop or PC from your first day at Buffer and every 3 years after.
+            - listitem [ref=f16e373]:
+              - generic [ref=f16e374]: 📚
+              - generic [ref=f16e376]:
+                - heading "Unlimited free books" [level=3] [ref=f16e377]
+                - paragraph [ref=f16e378]: Get a free Kindle and all the digital or audio books you like, no questions asked.
+            - listitem [ref=f16e379]:
+              - generic [ref=f16e380]: ⚡
+              - generic [ref=f16e382]:
+                - heading "AI tools stipend" [level=3] [ref=f16e383]
+                - paragraph [ref=f16e384]: Level up your work with the latest AI tools.
+            - listitem [ref=f16e385]:
+              - generic [ref=f16e386]: ⛺️
+              - generic [ref=f16e388]:
+                - heading "Flexible time off" [level=3] [ref=f16e389]
+                - paragraph [ref=f16e390]: No set limits. Take the time you need to rest and recharge.
+            - listitem [ref=f16e391]:
+              - generic [ref=f16e392]: 💵
+              - generic [ref=f16e394]:
+                - heading "Savings plan" [level=3] [ref=f16e395]
+                - paragraph [ref=f16e396]: With 3% company match.
+            - listitem [ref=f16e397]:
+              - generic [ref=f16e398]: 📈
+              - generic [ref=f16e400]:
+                - heading "Profit sharing" [level=3] [ref=f16e401]
+                - paragraph [ref=f16e402]: When the company does well, all team members share the profits.
+            - listitem [ref=f16e403]:
+              - generic [ref=f16e404]: 🍼
+              - generic [ref=f16e406]:
+                - heading "Family leave" [level=3] [ref=f16e407]
+                - paragraph [ref=f16e408]: 16 weeks of family leave for all parents, fully paid.
+            - listitem [ref=f16e409]:
+              - generic [ref=f16e410]: 👨‍👩‍👧
+              - generic [ref=f16e412]:
+                - heading "Family support fund" [level=3] [ref=f16e413]
+                - paragraph [ref=f16e414]: A stipend for each kiddo.
+            - listitem [ref=f16e415]:
+              - generic [ref=f16e416]: ☕️
+              - generic [ref=f16e418]:
+                - heading "Working smarter stipend" [level=3] [ref=f16e419]
+                - paragraph [ref=f16e420]: Extra funds for a coworking space or some coffee shop treats.
+            - listitem [ref=f16e421]:
+              - generic [ref=f16e422]: ⛱
+              - generic [ref=f16e424]:
+                - heading "Sabbaticals" [level=3] [ref=f16e425]
+                - paragraph [ref=f16e426]: Take a 6-week break, fully paid, after every 5 years with Buffer.
+      - region [ref=f16e427]:
+        - generic [ref=f16e428]:
+          - heading "Open roles" [level=2] [ref=f16e429]
+          - generic [ref=f16e431]:
+            - heading "Engineering" [level=3] [ref=f16e432]
+            - list [ref=f16e433]:
+              - listitem [ref=f16e434]:
+                - link "Senior Growth Engineer" [ref=f16e435] [cursor=pointer]:
+                  - /url: /journey/6ee07995-2738-4cee-b16d-fc8967674346
+                  - generic [ref=f16e437]: Apply
+              - listitem [ref=f16e441]:
+                - link "Senior Infrastructure Engineer" [ref=f16e442] [cursor=pointer]:
+                  - /url: /journey/1ee8b707-48a0-40cc-a319-3fb7c665a1e8
+                  - generic [ref=f16e444]: Apply
+          - paragraph [ref=f16e448]:
+            - emphasis [ref=f16e449]:
+              - strong [ref=f16e450]: "Please be aware:"
+              - text: we’ve received a few concerning reports that scammers are falsely using Buffer’s name and reaching out to people about fake job opportunities. We post all open roles here, and only accept job applications through the forms on this page.
+          - generic [ref=f16e451]:
+            - heading "Be the first to know about new roles at Buffer" [level=3] [ref=f16e452]
+            - generic [ref=f16e454]:
+              - generic [ref=f16e455]: Enter your email
+              - generic [ref=f16e456]:
+                - textbox "Enter your email" [ref=f16e457]:
+                  - /placeholder: Enter your email...
+                - button [disabled] [ref=f16e458]
+      - region [ref=f16e462]:
+        - generic [ref=f16e463]:
+          - generic [ref=f16e464]:
+            - generic [ref=f16e465]:
+              - heading "About us" [level=2] [ref=f16e466]
+              - paragraph [ref=f16e467]: We are an open company
+              - paragraph [ref=f16e468]: Since 2013, we’ve shared Buffer’s finances, team salaries, and other key metrics openly. Our commitment to transparency is rooted in our belief that it fosters trust, keeps us accountable, and helps drive positive change within our industry.
+            - link "Open dashboard" [ref=f16e469] [cursor=pointer]:
+              - /url: /open
+          - generic [ref=f16e474]:
+            - generic [ref=f16e475]:
+              - term [ref=f16e476]:
+                - generic [ref=f16e477]: MAU
+                - generic [ref=f16e478]: Monthly active users
+              - definition [ref=f16e479]: 239,586
+            - generic [ref=f16e480]:
+              - term [ref=f16e481]:
+                - generic [ref=f16e482]: Total customers
+                - generic [ref=f16e483]: Total customers
+              - definition [ref=f16e484]: 79,056
+            - generic [ref=f16e485]:
+              - term [ref=f16e486]:
+                - generic [ref=f16e487]: Teammates
+                - generic [ref=f16e488]: Across 15 countries
+              - definition [ref=f16e489]: "73"
+            - generic [ref=f16e490]:
+              - term [ref=f16e491]:
+                - generic [ref=f16e492]: ARR
+                - generic [ref=f16e493]: Annual recurring revenue
+              - definition [ref=f16e494]: $25.8M
+    - contentinfo [ref=f16e496]:
+      - heading "Buffer" [level=2] [ref=f16e497]
+      - generic [ref=f16e498]:
+        - generic [ref=f16e499]:
+          - generic [ref=f16e500]:
+            - generic [ref=f16e501]:
+              - heading "Features" [level=3] [ref=f16e502]
+              - list [ref=f16e503]:
+                - listitem [ref=f16e504]:
+                  - link "Create" [ref=f16e505] [cursor=pointer]:
+                    - /url: /create
+                - listitem [ref=f16e506]:
+                  - link "Publish" [ref=f16e507] [cursor=pointer]:
+                    - /url: /publish
+                - listitem [ref=f16e508]:
+                  - link "Community" [ref=f16e509] [cursor=pointer]:
+                    - /url: /community
+                - listitem [ref=f16e510]:
+                  - link "Insights New" [ref=f16e511] [cursor=pointer]:
+                    - /url: /insights
+                    - text: Insights
+                    - generic [ref=f16e512]: New
+                - listitem [ref=f16e513]:
+                  - link "Collaborate" [ref=f16e514] [cursor=pointer]:
+                    - /url: /collaborate
+            - generic [ref=f16e515]:
+              - heading "Tools" [level=3] [ref=f16e516]
+              - list [ref=f16e517]:
+                - listitem [ref=f16e518]:
+                  - link "AI Assistant" [ref=f16e519] [cursor=pointer]:
+                    - /url: /ai-assistant
+                - listitem [ref=f16e520]:
+                  - link "Start Page" [ref=f16e521] [cursor=pointer]:
+                    - /url: /start-page
+                - listitem [ref=f16e522]:
+                  - link "Integrations" [ref=f16e523] [cursor=pointer]:
+                    - /url: /integrations
+                - listitem [ref=f16e524]:
+                  - link "iOS App" [ref=f16e525] [cursor=pointer]:
+                    - /url: https://apps.apple.com/us/app/buffer-plan-schedule-posts/id490474324?pt=936146&ct=SiteFooter&mt=8
+                - listitem [ref=f16e526]:
+                  - link "Android App" [ref=f16e527] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=org.buffer.android&hl=en
+                - listitem [ref=f16e528]:
+                  - link "Browser Extension" [ref=f16e529] [cursor=pointer]:
+                    - /url: /extensions
+          - generic [ref=f16e530]:
+            - heading "Channels" [level=3] [ref=f16e531]
+            - list [ref=f16e532]:
+              - listitem [ref=f16e533]:
+                - link "Bluesky" [ref=f16e534] [cursor=pointer]:
+                  - /url: /bluesky
+              - listitem [ref=f16e535]:
+                - link "Facebook" [ref=f16e536] [cursor=pointer]:
+                  - /url: /facebook
+              - listitem [ref=f16e537]:
+                - link "Google Business Profile" [ref=f16e538] [cursor=pointer]:
+                  - /url: /google-business-profile
+              - listitem [ref=f16e539]:
+                - link "Instagram" [ref=f16e540] [cursor=pointer]:
+                  - /url: /instagram
+              - listitem [ref=f16e541]:
+                - link "LinkedIn" [ref=f16e542] [cursor=pointer]:
+                  - /url: /linkedin
+              - listitem [ref=f16e543]:
+                - link "Mastodon" [ref=f16e544] [cursor=pointer]:
+                  - /url: /mastodon
+              - listitem [ref=f16e545]:
+                - link "Pinterest" [ref=f16e546] [cursor=pointer]:
+                  - /url: /pinterest
+              - listitem [ref=f16e547]:
+                - link "Threads" [ref=f16e548] [cursor=pointer]:
+                  - /url: /threads
+              - listitem [ref=f16e549]:
+                - link "TikTok" [ref=f16e550] [cursor=pointer]:
+                  - /url: /tiktok
+              - listitem [ref=f16e551]:
+                - link "X" [ref=f16e552] [cursor=pointer]:
+                  - /url: /x
+              - listitem [ref=f16e553]:
+                - link "YouTube" [ref=f16e554] [cursor=pointer]:
+                  - /url: /youtube
+          - generic [ref=f16e555]:
+            - heading "Made for" [level=3] [ref=f16e556]
+            - list [ref=f16e557]:
+              - listitem [ref=f16e558]:
+                - link "Creators" [ref=f16e559] [cursor=pointer]:
+                  - /url: /made-for/creators
+              - listitem [ref=f16e560]:
+                - link "Small Business" [ref=f16e561] [cursor=pointer]:
+                  - /url: /made-for/small-business
+              - listitem [ref=f16e562]:
+                - link "Agencies" [ref=f16e563] [cursor=pointer]:
+                  - /url: /partners/agencies
+              - listitem [ref=f16e564]:
+                - link "Nonprofits" [ref=f16e565] [cursor=pointer]:
+                  - /url: /nonprofits
+              - listitem [ref=f16e566]:
+                - link "Higher Education" [ref=f16e567] [cursor=pointer]:
+                  - /url: /made-for/higher-education
+              - listitem [ref=f16e568]:
+                - link "Developers" [ref=f16e569] [cursor=pointer]:
+                  - /url: /made-for/developers
+              - listitem [ref=f16e570]:
+                - link "Startups" [ref=f16e571] [cursor=pointer]:
+                  - /url: /made-for/startups
+        - generic [ref=f16e572]:
+          - generic [ref=f16e573]:
+            - heading "Resources" [level=3] [ref=f16e574]
+            - list [ref=f16e575]:
+              - listitem [ref=f16e576]:
+                - link "Blog" [ref=f16e577] [cursor=pointer]:
+                  - /url: /resources/
+              - listitem [ref=f16e578]:
+                - link "Template Library" [ref=f16e579] [cursor=pointer]:
+                  - /url: /templates
+              - listitem [ref=f16e580]:
+                - link "Social Media Benchmarks" [ref=f16e581] [cursor=pointer]:
+                  - /url: /social-media-benchmarks
+              - listitem [ref=f16e582]:
+                - link "Resource Library" [ref=f16e583] [cursor=pointer]:
+                  - /url: /library
+              - listitem [ref=f16e584]:
+                - link "Social Media Terms Glossary" [ref=f16e585] [cursor=pointer]:
+                  - /url: /social-media-terms
+              - listitem [ref=f16e586]:
+                - link "Free Marketing Tools" [ref=f16e587] [cursor=pointer]:
+                  - /url: /free-tools
+              - listitem [ref=f16e588]:
+                - link "AI Social Media Post Generator" [ref=f16e589] [cursor=pointer]:
+                  - /url: /ai-assistant/social-media-post-creator
+              - listitem [ref=f16e590]:
+                - link "Compare Buffer" [ref=f16e591] [cursor=pointer]:
+                  - /url: /compare
+              - listitem [ref=f16e592]:
+                - link "Our Community" [ref=f16e593] [cursor=pointer]:
+                  - /url: /our-community
+              - listitem [ref=f16e594]:
+                - link "Buffer API" [ref=f16e595] [cursor=pointer]:
+                  - /url: /api
+              - listitem [ref=f16e596]:
+                - link "Developer Docs" [ref=f16e597] [cursor=pointer]:
+                  - /url: https://developers.buffer.com/
+          - generic [ref=f16e598]:
+            - generic [ref=f16e599]:
+              - heading "Support" [level=3] [ref=f16e600]
+              - list [ref=f16e601]:
+                - listitem [ref=f16e602]:
+                  - link "Help Center" [ref=f16e603] [cursor=pointer]:
+                    - /url: https://support.buffer.com/
+                - listitem [ref=f16e604]:
+                  - link "Status" [ref=f16e605] [cursor=pointer]:
+                    - /url: https://status.buffer.com/
+                - listitem [ref=f16e606]:
+                  - link "Changelog" [ref=f16e607] [cursor=pointer]:
+                    - /url: /changelog
+                - listitem [ref=f16e608]:
+                  - link "Request a Feature" [ref=f16e609] [cursor=pointer]:
+                    - /url: https://suggestions.buffer.com/
+            - generic [ref=f16e610]:
+              - heading "Transparency" [level=3] [ref=f16e611]
+              - list [ref=f16e612]:
+                - listitem [ref=f16e613]:
+                  - link "Open Hub" [ref=f16e614] [cursor=pointer]:
+                    - /url: /open
+                - listitem [ref=f16e615]:
+                  - link "Transparent Metrics" [ref=f16e616] [cursor=pointer]:
+                    - /url: /metrics
+                - listitem [ref=f16e617]:
+                  - link "Transparent Pricing" [ref=f16e618] [cursor=pointer]:
+                    - /url: /transparent-pricing
+                - listitem [ref=f16e619]:
+                  - link "Transparent Salaries" [ref=f16e620] [cursor=pointer]:
+                    - /url: /salaries
+                - listitem [ref=f16e621]:
+                  - link "Product Roadmap" [ref=f16e622] [cursor=pointer]:
+                    - /url: https://suggestions.buffer.com/roadmap
+          - generic [ref=f16e623]:
+            - heading "Company" [level=3] [ref=f16e624]
+            - list [ref=f16e625]:
+              - listitem [ref=f16e626]:
+                - link "About" [ref=f16e627] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f16e628]:
+                - link "Careers" [ref=f16e629] [cursor=pointer]:
+                  - /url: /journey
+              - listitem [ref=f16e630]:
+                - link "Press" [ref=f16e631] [cursor=pointer]:
+                  - /url: /press
+              - listitem [ref=f16e632]:
+                - link "Partner Program" [ref=f16e633] [cursor=pointer]:
+                  - /url: /partners
+              - listitem [ref=f16e634]:
+                - link "Legal" [ref=f16e635] [cursor=pointer]:
+                  - /url: /legal
+              - listitem [ref=f16e636]:
+                - link "Sitemap" [ref=f16e637] [cursor=pointer]:
+                  - /url: /sitemap
+      - generic [ref=f16e638]:
+        - link "Buffer" [ref=f16e639] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f16e648]:
+          - generic [ref=f16e649]:
+            - heading "Social media" [level=3] [ref=f16e650]
+            - list [ref=f16e651]:
+              - listitem [ref=f16e652]:
+                - link "Instagram" [ref=f16e653] [cursor=pointer]:
+                  - /url: https://www.instagram.com/buffer
+              - listitem [ref=f16e659]:
+                - link "Facebook" [ref=f16e660] [cursor=pointer]:
+                  - /url: https://www.facebook.com/bufferapp
+              - listitem [ref=f16e664]:
+                - link "Bluesky" [ref=f16e665] [cursor=pointer]:
+                  - /url: https://bsky.app/profile/buffer.com
+              - listitem [ref=f16e669]:
+                - link "X" [ref=f16e670] [cursor=pointer]:
+                  - /url: https://x.com/buffer
+              - listitem [ref=f16e674]:
+                - link "LinkedIn" [ref=f16e675] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/bufferapp
+              - listitem [ref=f16e679]:
+                - link "Threads" [ref=f16e680] [cursor=pointer]:
+                  - /url: https://www.threads.net/@buffer
+          - generic [ref=f16e684]:
+            - heading "Policies" [level=3] [ref=f16e685]
+            - generic [ref=f16e686]:
+              - paragraph [ref=f16e687]: Copyright ©2026 Buffer
+              - generic [ref=f16e688]: "|"
+              - paragraph [ref=f16e689]:
+                - link "Privacy" [ref=f16e690] [cursor=pointer]:
+                  - /url: /legal#privacy-policy
+              - generic [ref=f16e691]: "|"
+              - paragraph [ref=f16e692]:
+                - link "Terms" [ref=f16e693] [cursor=pointer]:
+                  - /url: /legal#terms
+              - generic [ref=f16e694]: "|"
+              - paragraph [ref=f16e695]:
+                - link "Security" [ref=f16e696] [cursor=pointer]:
+                  - /url: /legal#security
+  - alert [ref=f16e697]

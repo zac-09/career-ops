@@ -1,0 +1,145 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link [ref=e7] [cursor=pointer]:
+        - /url: https://zepz.io/
+        - img "Company logo" [ref=e8]
+      - text: 
+      - generic [ref=e9]:
+        - generic [ref=e10]: Careers homepage
+        - generic [ref=e12]: Current openings
+  - main [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e19]:
+            - generic: 
+            - searchbox "Search jobs" [active] [ref=e20]: engineer
+            - button "Clear" [ref=e215] [cursor=pointer]:
+              - generic: 
+          - text: 
+        - generic [ref=e21]:
+          - button "Department" [ref=e23] [cursor=pointer]:
+            - generic [ref=e26]: 
+          - button "Employment type" [ref=e29] [cursor=pointer]:
+            - generic [ref=e32]: 
+          - button "Site" [ref=e35] [cursor=pointer]:
+            - generic [ref=e36]: 
+            - generic [ref=e41]: 
+          - button "Working model" [ref=e44] [cursor=pointer]:
+            - generic [ref=e47]: 
+      - generic [ref=e49]:
+        - navigation [ref=e50]:
+          - generic [ref=e52]:
+            - generic [ref=e53]:
+              - generic [ref=e54]: "Total: 7"
+              - generic [ref=e55]:
+                - generic [ref=e56] [cursor=pointer]: 
+                - button "Sort by" [ref=e59] [cursor=pointer]:
+                  - generic [ref=e60]:
+                    - generic [ref=e61]: Sort by
+                    - generic [ref=e62]: 
+            - generic [ref=e64]:
+              - generic [ref=e141] [cursor=pointer]:
+                - generic [ref=e142]: Full Stack Engineer (Internal Tools & Payments)
+                - generic [ref=e145]: Technology · Hybrid - South Africa · Permanent · Hybrid
+                - generic [ref=e146]: Posted on Aug 13, 2026
+              - generic [ref=e129] [cursor=pointer]:
+                - generic [ref=e130]: Senior Security Engineer
+                - generic [ref=e133]: Technology · Hybrid - UK · Permanent · Hybrid
+                - generic [ref=e134]: Posted on Aug 11, 2026
+              - generic [ref=e117] [cursor=pointer]:
+                - generic [ref=e118]: Software Engineer - FinCrime
+                - generic [ref=e121]: Technology · Hybrid - UK · Permanent · Hybrid
+                - generic [ref=e122]: Posted on Aug 13, 2026
+              - generic [ref=e105] [cursor=pointer]:
+                - generic [ref=e106]: Sr Front End Engineer
+                - generic [ref=e109]: Technology · Hybrid - UK · Permanent · Hybrid
+                - generic [ref=e110]: Posted on Aug 13, 2026
+              - generic [ref=e93] [cursor=pointer]:
+                - generic [ref=e94]: Engineering Manager - Cape Town
+                - generic [ref=e97]: Technology · In Office - South Africa · Permanent · Hybrid
+                - generic [ref=e98]: Posted on Aug 11, 2026
+              - generic [ref=e81] [cursor=pointer]:
+                - generic [ref=e82]: Can’t find the right role? Join our Technology & Engineering talent community instead
+                - generic [ref=e85]: Technology · Remote - UK · Permanent · Remote
+                - generic [ref=e86]: Posted on Dec 8, 2025
+              - generic [ref=e69] [cursor=pointer]:
+                - generic [ref=e70]: Senior Security Engineer
+                - generic [ref=e73]: Technology · Remote - USA (ET) · Permanent · Remote
+                - generic [ref=e74]: Posted on Aug 5, 2026
+        - generic [ref=e151]:
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - heading "Internal Audit Manager" [level=2] [ref=e154]
+              - generic [ref=e155]: Audit · Hybrid - Belgium · Permanent · Hybrid
+            - generic [ref=e157]:
+              - button " Share job" [ref=e159] [cursor=pointer]
+              - button "Apply" [ref=e161] [cursor=pointer]
+          - region "Job details for Internal Audit Manager" [ref=e162]:
+            - generic [ref=e164]:
+              - heading "Internal Audit Manager" [level=3] [ref=e165]
+              - generic [ref=e166]:
+                - strong [ref=e167]: "Join Zepz: Breaking Down Borders, Together"
+                - strong [ref=e168]: Our Meaningful Mission
+                - text: At Zepz, we're all about breaking down barriers for our customers and our teammates. Our purpose is deeply personal, we provide a lifeline and deliver opportunities to cross-border communities that need it most through cutting edge finance and tech.Zepz is the power behind WorldRemit and Sendwave, driven by the mission to celebrate the incredible impact migrants have, both at home and abroad. We're not just moving money; we're building a world that truly recognizes and supports global connections.
+                - strong [ref=e169]: Who You'll Be Joining
+                - text: We look for mission-driven builders who thrive in a fast-paced environment connected to a true purpose. We’re an always developing team of experts that enjoy problem solving and bring clarity to tough challenges. At Zepz, we are Relentless Learners, always seeking feedback, and Responsible Owners, treating company resources like your own. We depend on Transparent Communicators who keep the team aligned through open, honest talk.
+                - strong [ref=e170]: Our Core Commitments — What We Live By
+                - text: "Our vibrant and truly diverse culture is built on three core commitments, that guide how we work and interact:"
+                - list [ref=e171]:
+                  - listitem [level=1] [ref=e172]:
+                    - strong [ref=e173]: "Integrity:"
+                    - text: We always do the right thing. It’s simple, but it’s the foundation of everything we build for our customers and each other.
+                  - listitem [level=1] [ref=e174]:
+                    - strong [ref=e175]: "Outcomes:"
+                    - text: We work for our customers. Their success and prosperity are the results we focus on delivering.
+                  - listitem [level=1] [ref=e176]:
+                    - strong [ref=e177]: "Velocity:"
+                    - text: We are fast! We maintain high energy levels and make smart decisions quickly, keeping us nimble and ahead of the curve.
+                - strong [ref=e178]: Perks of Joining Our Team
+                - text: We believe in empowering colleagues because we genuinely trust our team. Our culture is founded on this high trust, which naturally encourages the high ownership that drives us to meet our shared high expectations and deliver high performance. While we have all the tools to work remotely, we value the purpose and benefits of in-person connections so we expect our teams to come to the office on a regular basis, and therefore be within a comfortable commutable distance from our London office. Alongside a great office environment, think unlimited annual leave , great healthcare benefits, and employee discounts. We want you to thrive and focus entirely on making your biggest impact! In turn, we expect you to bring high ownership and commitment to your work. This is a place where we value trust and high performance, and we'll provide the environment and support needed for you to excel
+                - strong [ref=e179]: About the Role
+                - text: This is a hands-on role in a small, collaborative team providing independent assurance across our global fintech business. You will cover operational, regulatory, financial, and technology risks while gaining exposure to diverse products and jurisdictions.You will lead and execute on audits from planning to reporting, partner with global stakeholders, and strengthen controls as Zepz scales. This is ideal for a curious professional eager to understand a global payments business end-to-end.
+                - strong [ref=e180]: What You Bring to the Table
+                - text: "We’re looking for someone who brings:"
+                - list [ref=e181]:
+                  - listitem [level=1] [ref=e182]: 7-10 years experience in internal/external audit, preferably within fintech, payments, or financial services.
+                  - listitem [level=1] [ref=e183]: Experience leading and executing on audit engagements from planning through to reporting.
+                  - listitem [level=1] [ref=e184]: Strong understanding of risk management, governance, and the regulatory frameworks of E-Money Institutions/Payment Institutions (PSD2, AML Regulations, FCA Handbook).
+                  - listitem [level=1] [ref=e185]: Ability to analyse data, challenge constructively, and form evidence-based conclusions.
+                  - listitem [level=1] [ref=e186]: Excellent written and verbal communication skills for complex topics.
+                  - listitem [level=1] [ref=e187]: Proactive mindset, comfortable in fast-paced environments, and able to work independently.
+                - strong [ref=e188]: What You Will Focus On
+                - text: Deliver Risk-Based Audits
+                - list [ref=e189]:
+                  - listitem [level=1] [ref=e190]: Lead and deliver internal audits from planning through to reporting and follow-up.
+                  - listitem [level=1] [ref=e191]: Assess the design and effectiveness of controls across operational, regulatory, financial and technology processes.
+                  - listitem [level=1] [ref=e192]: Identify risks, determine root causes and provide practical recommendations to strengthen controls and improve outcomes.
+                - text: Provide Assurance Across a Global Regulatory Environment
+                - list [ref=e193]:
+                  - listitem [level=1] [ref=e194]: Deliver assurance work across our regulated business and assess compliance with regulatory obligations across multiple jurisdictions.
+                  - listitem [level=1] [ref=e195]: Evaluate controls supporting areas such as Safeguarding, AML, Consumer Protection, Data Privacy, and Regulatory Reporting.
+                  - listitem [level=1] [ref=e196]: Develop understanding of evolving regulatory expectations and emerging risks affecting the global payments and remittance industry.
+                - text: Partner with Stakeholders
+                - list [ref=e197]:
+                  - listitem [level=1] [ref=e198]: Build and maintain effective working relationships with internal stakeholders across the 1st and 2nd Lines of Defense.
+                  - listitem [level=1] [ref=e199]: Communicate audit observations clearly and support stakeholders in developing effective remediation plans.
+                  - listitem [level=1] [ref=e200]: Contribute to continuous improvement of the Internal Audit function and support audit planning and risk assessment activities.
+                - text: Use Data and Technology
+                - list [ref=e201]:
+                  - listitem [level=1] [ref=e202]: Use data analytics, automation and AI-enabled audit techniques to enhance audit coverage, support analysis and improve efficiency.
+                  - listitem [level=1] [ref=e203]: Leverage technology to identify insights, perform testing and strengthen assurance activities.
+                  - listitem [level=1] [ref=e204]: Maintain an awareness of emerging technologies and their impact on business risks and controls.
+                - strong [ref=e205]: AI Literacy & Tools
+                - text: "As Zepz continues to build AI into how we work, we expect everyone to engage with it as a core part of their role. For this position we are looking for:"
+                - list [ref=e206]:
+                  - listitem [level=1] [ref=e207]: A genuine curiosity about AI and how it can be applied in your area of work — from accelerating analysis and insight generation, to improving how we design and deliver processes and communications.
+                  - listitem [level=1] [ref=e208]: Practical experience using AI tools in a professional context — whether to connect information, draft content, build frameworks, or create insights from data. We want people who actively use AI to increase productivity, not those who are waiting to be told to.
+                  - listitem [level=1] [ref=e209]: Strong AI literacy — an understanding of what AI assistants can and cannot do, how to prompt effectively, and how to critically evaluate AI-generated output before using it.
+                  - listitem [level=1] [ref=e210]: Awareness of the ethical considerations and responsible use of AI in the workplace, particularly in the context of sensitive data, customer experience, and compliance.
+                  - listitem [level=1] [ref=e211]: Prior experience using Claude (Anthropic) is a nice-to-have but not essential — what matters most is that you are genuinely engaged with AI as a tool, comfortable experimenting, and eager to share what works with your wider team
+                - text: If you want to join us in our journey to help break barriers in financial access and improve lives globally, there's no better place or time to join.Our global team of
+                - strong [ref=e212]: 800+ people is spread across six continents.
+                - text: We aspire to hire the best mix of people from former Olympians to YouTube influencers and we speak over twenty languages. This incredible diversity isn't a bonus; it's the engine that lets us serve the world.
+                - strong [ref=e213]: Ready to Apply? Let’s Go.

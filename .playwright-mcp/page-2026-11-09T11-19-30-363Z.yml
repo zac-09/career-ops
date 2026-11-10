@@ -1,0 +1,2234 @@
+- generic [ref=f8e5]:
+  - generic [ref=f8e6]:
+    - navigation "Main" [ref=f8e7]:
+      - generic [ref=f8e8]:
+        - generic [ref=f8e9]:
+          - link "Skip to content" [ref=f8e10] [cursor=pointer]:
+            - /url: "#content"
+          - link "Atlassian logo" [ref=f8e11] [cursor=pointer]:
+            - /url: /
+            - img "Atlassian" [ref=f8e13]
+        - generic [ref=f8e26]:
+          - menubar [ref=f8e28]:
+            - menuitem "Products" [ref=f8e29] [cursor=pointer]
+            - tabpanel:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading [level=2]: Featured apps
+                      - list:
+                        - listitem:
+                          - link:
+                            - /url: /software/jira
+                            - generic:
+                              - generic:
+                                - strong: Jira
+                              - generic: Flexible project management
+                        - listitem:
+                          - link:
+                            - /url: /software/confluence
+                            - generic:
+                              - generic:
+                                - strong: Confluence
+                              - generic: Knowledge, all in one place
+                        - listitem:
+                          - link:
+                            - /url: /software/jira/service-management
+                            - generic:
+                              - generic:
+                                - strong: Jira Service Management
+                              - generic: Deliver service at high velocity
+                  - heading [level=2]: Atlassian Collections
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: /collections/teamwork
+                        - generic:
+                          - generic: Supercharge teamwork seamlessly
+                          - generic: Jira Confluence Loom
+                    - listitem:
+                      - link:
+                        - /url: /collections/strategy
+                        - generic:
+                          - generic: Optimize strategy and outcomes confidently
+                          - generic: Focus Talent Align
+                    - listitem:
+                      - link:
+                        - /url: /collections/service
+                        - generic:
+                          - generic: Deliver service at high-velocity
+                          - generic: Jira Service Management Customer Service Management Assets
+                    - listitem:
+                      - link:
+                        - /url: /software/jira/dev
+                        - generic:
+                          - generic: Ship high-quality software fast
+                          - generic: DX Pipelines Bitbucket
+                    - listitem:
+                      - link:
+                        - /url: /collections/product
+                        - generic:
+                          - generic: Build products with confidence
+                          - generic: Jira Product Discovery Feedback Rovo
+                - generic:
+                  - generic:
+                    - heading [level=2]: Powered by
+                - link:
+                  - /url: /software/rovo
+                  - generic:
+                    - generic: Rovo
+                    - paragraph: AI-powered apps – driven by your team's knowledge.
+            - menuitem "AI" [ref=f8e33] [cursor=pointer]
+            - menuitem "Solutions" [ref=f8e37] [cursor=pointer]
+            - menuitem "Why Atlassian" [ref=f8e41] [cursor=pointer]
+            - menuitem "Resources" [ref=f8e45] [cursor=pointer]
+            - menuitem "Enterprise" [ref=f8e49] [cursor=pointer]
+          - generic [ref=f8e50]:
+            - search [ref=f8e52]:
+              - generic: Search
+              - button "search" [ref=f8e53] [cursor=pointer]
+            - link "Sign in" [ref=f8e61] [cursor=pointer]:
+              - /url: https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.com%2Fgateway%2Fapi%2Fstart%2Fauthredirect%3Fcontinue%3Dhttps%3A%2F%2Fwww.atlassian.com%2Fcompany%2Fcareers%2Fall-jobs%3Fteam%3DEngineering%26search%3DLoom&application=wac--ic
+    - navigation "Company" [ref=f8e62]:
+      - generic [ref=f8e63]:
+        - link "Company" [ref=f8e65] [cursor=pointer]:
+          - /url: /company
+        - menubar [ref=f8e69]:
+          - menuitem "Customers" [ref=f8e70] [cursor=pointer]
+          - menuitem "Careers" [ref=f8e71] [cursor=pointer]
+          - menuitem "Investors" [ref=f8e75] [cursor=pointer]
+          - menuitem "Events" [ref=f8e76] [cursor=pointer]
+          - menuitem "Blog" [ref=f8e77] [cursor=pointer]
+          - menuitem "Newsroom" [ref=f8e78] [cursor=pointer]
+          - menuitem "Press kit" [ref=f8e79] [cursor=pointer]
+          - menuitem "Contact" [ref=f8e80] [cursor=pointer]
+  - main [ref=f8e82]:
+    - generic [ref=f8e83]:
+      - list [ref=f8e84]:
+        - listitem [ref=f8e85]:
+          - link "Company" [ref=f8e86] [cursor=pointer]:
+            - /url: /company
+          - text: /
+        - listitem [ref=f8e87]:
+          - link "Careers" [ref=f8e88] [cursor=pointer]:
+            - /url: /company/careers
+          - text: /
+        - listitem [ref=f8e89]:
+          - link "All Jobs" [ref=f8e90] [cursor=pointer]:
+            - /url: /company/careers/all-jobs
+      - generic [ref=f8e92]:
+        - heading "Browse jobs" [level=1] [ref=f8e93]
+        - paragraph [ref=f8e95]: Select a function and the country where you're eligible to work to see remote-eligible roles in your area. We can hire people in any country where we have a legal entity, assuming you have eligible working rights and a sufficient timezone overlap with your team. All Atlassians can choose to work remotely or return to an office (unless it's necessary for the role to be performed in the office).
+      - generic [ref=f8e99]:
+        - generic [ref=f8e100]:
+          - group "WHAT FUNCTION MATCHES YOU?" [ref=f8e101]:
+            - list [ref=f8e103]:
+              - listitem [ref=f8e104]:
+                - generic [ref=f8e105] [cursor=pointer]:
+                  - checkbox "Analytics & Data Science (15)" [ref=f8e107]
+                  - text: Analytics & Data Science (15)
+              - listitem [ref=f8e109]:
+                - generic [ref=f8e110] [cursor=pointer]:
+                  - checkbox "Atlassian Corporate Engineering (ACE) (3)" [ref=f8e112]
+                  - text: Atlassian Corporate Engineering (ACE) (3)
+              - listitem [ref=f8e114]:
+                - generic [ref=f8e115] [cursor=pointer]:
+                  - checkbox "Design (9)" [ref=f8e117]
+                  - text: Design (9)
+              - listitem [ref=f8e119]:
+                - generic [ref=f8e120] [cursor=pointer]:
+                  - checkbox "Engineering (116)" [ref=f8e122]
+                  - text: Engineering (116)
+              - listitem [ref=f8e124]:
+                - generic [ref=f8e125] [cursor=pointer]:
+                  - checkbox "Finance & Accounting (4)" [ref=f8e127]
+                  - text: Finance & Accounting (4)
+              - listitem [ref=f8e129]:
+                - generic [ref=f8e130] [cursor=pointer]:
+                  - checkbox "Graduates (7)" [ref=f8e132]
+                  - text: Graduates (7)
+              - listitem [ref=f8e134]:
+                - generic [ref=f8e135] [cursor=pointer]:
+                  - checkbox "Interns (14)" [ref=f8e137]
+                  - text: Interns (14)
+              - listitem [ref=f8e139]:
+                - generic [ref=f8e140] [cursor=pointer]:
+                  - checkbox "Legal (3)" [ref=f8e142]
+                  - text: Legal (3)
+              - listitem [ref=f8e144]:
+                - generic [ref=f8e145] [cursor=pointer]:
+                  - checkbox "Marketing (6)" [ref=f8e147]
+                  - text: Marketing (6)
+              - listitem [ref=f8e149]:
+                - generic [ref=f8e150] [cursor=pointer]:
+                  - checkbox "Other (8)" [ref=f8e152]
+                  - text: Other (8)
+              - listitem [ref=f8e154]:
+                - generic [ref=f8e155] [cursor=pointer]:
+                  - checkbox "People (1)" [ref=f8e157]
+                  - text: People (1)
+              - listitem [ref=f8e159]:
+                - generic [ref=f8e160] [cursor=pointer]:
+                  - checkbox "Product Management (11)" [ref=f8e162]
+                  - text: Product Management (11)
+              - listitem [ref=f8e164]:
+                - generic [ref=f8e165] [cursor=pointer]:
+                  - checkbox "Program Management (1)" [ref=f8e167]
+                  - text: Program Management (1)
+              - listitem [ref=f8e169]:
+                - generic [ref=f8e170] [cursor=pointer]:
+                  - checkbox "Sales (136)" [ref=f8e172]
+                  - text: Sales (136)
+              - listitem [ref=f8e174]:
+                - generic [ref=f8e175] [cursor=pointer]:
+                  - checkbox "Security (6)" [ref=f8e177]
+                  - text: Security (6)
+              - listitem [ref=f8e179]:
+                - generic [ref=f8e180] [cursor=pointer]:
+                  - checkbox "Site Reliability Engineering (1)" [ref=f8e182]
+                  - text: Site Reliability Engineering (1)
+              - listitem [ref=f8e184]:
+                - generic [ref=f8e185] [cursor=pointer]:
+                  - checkbox "Support (1)" [ref=f8e187]
+                  - text: Support (1)
+          - group "WHERE ARE YOU ELIGIBLE TO WORK?" [ref=f8e189]:
+            - list [ref=f8e191]:
+              - listitem [ref=f8e192]:
+                - generic [ref=f8e193] [cursor=pointer]:
+                  - checkbox "Australia (25)" [ref=f8e195]
+                  - text: Australia (25)
+              - listitem [ref=f8e197]:
+                - generic [ref=f8e198] [cursor=pointer]:
+                  - checkbox "Canada (16)" [ref=f8e200]
+                  - text: Canada (16)
+              - listitem [ref=f8e202]:
+                - generic [ref=f8e203] [cursor=pointer]:
+                  - checkbox "France (10)" [ref=f8e205]
+                  - text: France (10)
+              - listitem [ref=f8e207]:
+                - generic [ref=f8e208] [cursor=pointer]:
+                  - checkbox "Germany (11)" [ref=f8e210]
+                  - text: Germany (11)
+              - listitem [ref=f8e212]:
+                - generic [ref=f8e213] [cursor=pointer]:
+                  - checkbox "India (43)" [ref=f8e215]
+                  - text: India (43)
+              - listitem [ref=f8e217]:
+                - generic [ref=f8e218] [cursor=pointer]:
+                  - checkbox "Japan (1)" [ref=f8e220]
+                  - text: Japan (1)
+              - listitem [ref=f8e222]:
+                - generic [ref=f8e223] [cursor=pointer]:
+                  - checkbox "Netherlands (6)" [ref=f8e225]
+                  - text: Netherlands (6)
+              - listitem [ref=f8e227]:
+                - generic [ref=f8e228] [cursor=pointer]:
+                  - checkbox "New Zealand (3)" [ref=f8e230]
+                  - text: New Zealand (3)
+              - listitem [ref=f8e232]:
+                - generic [ref=f8e233] [cursor=pointer]:
+                  - checkbox "Philippines (6)" [ref=f8e235]
+                  - text: Philippines (6)
+              - listitem [ref=f8e237]:
+                - generic [ref=f8e238] [cursor=pointer]:
+                  - checkbox "Poland (5)" [ref=f8e240]
+                  - text: Poland (5)
+              - listitem [ref=f8e242]:
+                - generic [ref=f8e243] [cursor=pointer]:
+                  - checkbox "Singapore (4)" [ref=f8e245]
+                  - text: Singapore (4)
+              - listitem [ref=f8e247]:
+                - generic [ref=f8e248] [cursor=pointer]:
+                  - checkbox "South Korea (1)" [ref=f8e250]
+                  - text: South Korea (1)
+              - listitem [ref=f8e252]:
+                - generic [ref=f8e253] [cursor=pointer]:
+                  - checkbox "Turkey (0)" [ref=f8e255]
+                  - text: Turkey (0)
+              - listitem [ref=f8e257]:
+                - generic [ref=f8e258] [cursor=pointer]:
+                  - checkbox "United Kingdom (56)" [ref=f8e260]
+                  - text: United Kingdom (56)
+              - listitem [ref=f8e262]:
+                - generic [ref=f8e263] [cursor=pointer]:
+                  - checkbox "United States (168)" [ref=f8e265]
+                  - text: United States (168)
+        - status [ref=f8e267]: 342 jobs
+        - generic [ref=f8e268]:
+          - textbox "Search the results" [ref=f8e269]
+          - button "Search" [ref=f8e270] [cursor=pointer]
+        - generic [ref=f8e272]:
+          - heading "Analytics & Data Science" [level=3] [ref=f8e273]
+          - table [ref=f8e274]:
+            - rowgroup [ref=f8e275]:
+              - row [ref=f8e276]:
+                - columnheader "Position" [ref=f8e277]
+                - columnheader "Location" [ref=f8e278]
+            - rowgroup [ref=f8e279]:
+              - row [ref=f8e280]:
+                - cell [ref=f8e281]:
+                  - link "Principal Data Scientist" [ref=f8e282] [cursor=pointer]:
+                    - /url: /company/careers/details/27694
+                - cell "Seattle or Remote" [ref=f8e283]
+              - row [ref=f8e284]:
+                - cell [ref=f8e285]:
+                  - link "Senior Data Engineer" [ref=f8e286] [cursor=pointer]:
+                    - /url: /company/careers/details/27575
+                - cell "Remote or Remote" [ref=f8e287]
+              - row [ref=f8e288]:
+                - cell [ref=f8e289]:
+                  - link "Principal Data Scientist" [ref=f8e290] [cursor=pointer]:
+                    - /url: /company/careers/details/26573
+                - cell "Remote or Remote" [ref=f8e291]
+              - row [ref=f8e292]:
+                - cell [ref=f8e293]:
+                  - link "Senior Data Engineer, DX" [ref=f8e294] [cursor=pointer]:
+                    - /url: /company/careers/details/26572
+                - cell "Salt Lake City or Remote" [ref=f8e295]
+              - row [ref=f8e296]:
+                - cell [ref=f8e297]:
+                  - link "Data Engineer" [ref=f8e298] [cursor=pointer]:
+                    - /url: /company/careers/details/27443
+                - cell "San Francisco" [ref=f8e299]
+              - row [ref=f8e300]:
+                - cell [ref=f8e301]:
+                  - link "Senior Data Engineering Manager" [ref=f8e302] [cursor=pointer]:
+                    - /url: /company/careers/details/26571
+                - cell "Bengaluru or Remote" [ref=f8e303]
+              - row [ref=f8e304]:
+                - cell [ref=f8e305]:
+                  - link "Principal Data Engineer" [ref=f8e306] [cursor=pointer]:
+                    - /url: /company/careers/details/27555
+                - cell "Bengaluru or Remote" [ref=f8e307]
+              - row [ref=f8e308]:
+                - cell [ref=f8e309]:
+                  - link "Head of Data Governance & Enterprise Context Eng" [ref=f8e310] [cursor=pointer]:
+                    - /url: /company/careers/details/27227
+                - cell "San Francisco or Remote" [ref=f8e311]
+              - row [ref=f8e312]:
+                - cell [ref=f8e313]:
+                  - link "Principal Analyst, Sales Strategy & Operations" [ref=f8e314] [cursor=pointer]:
+                    - /url: /company/careers/details/27191
+                - cell "San Francisco or Remote" [ref=f8e315]
+              - row [ref=f8e316]:
+                - cell [ref=f8e317]:
+                  - link "Principal Data Scientist" [ref=f8e318] [cursor=pointer]:
+                    - /url: /company/careers/details/26696
+                - cell "San Francisco or Remote" [ref=f8e319]
+              - row [ref=f8e320]:
+                - cell [ref=f8e321]:
+                  - link "Principal Data Scientist, Loom" [ref=f8e322] [cursor=pointer]:
+                    - /url: /company/careers/details/26575
+                - cell "San Francisco or Remote" [ref=f8e323]
+              - row [ref=f8e324]:
+                - cell [ref=f8e325]:
+                  - link "Principal Analyst, Sales Strategy & Operations - EMEA Sales" [ref=f8e326] [cursor=pointer]:
+                    - /url: /company/careers/details/27616
+                - cell "London or Remote" [ref=f8e327]
+              - row [ref=f8e328]:
+                - cell [ref=f8e329]:
+                  - link "Principal Value Advisor, DX" [ref=f8e330] [cursor=pointer]:
+                    - /url: /company/careers/details/26966
+                - cell "Salt Lake City or Remote" [ref=f8e331]
+              - row [ref=f8e332]:
+                - cell [ref=f8e333]:
+                  - link "Principal Data Engineer" [ref=f8e334] [cursor=pointer]:
+                    - /url: /company/careers/details/26569
+                - cell "Bengaluru or Remote" [ref=f8e335]
+              - row [ref=f8e336]:
+                - cell [ref=f8e337]:
+                  - link "Principal Data Scientist" [ref=f8e338] [cursor=pointer]:
+                    - /url: /company/careers/details/26576
+                - cell "Bengaluru or Remote" [ref=f8e339]
+        - generic [ref=f8e340]:
+          - heading "Atlassian Corporate Engineering (ACE)" [level=3] [ref=f8e341]
+          - table [ref=f8e342]:
+            - rowgroup [ref=f8e343]:
+              - row [ref=f8e344]:
+                - columnheader "Position" [ref=f8e345]
+                - columnheader "Location" [ref=f8e346]
+            - rowgroup [ref=f8e347]:
+              - row [ref=f8e348]:
+                - cell [ref=f8e349]:
+                  - link "Application Development Engineer" [ref=f8e350] [cursor=pointer]:
+                    - /url: /company/careers/details/26833
+                - cell "Seattle or Remote" [ref=f8e351]
+              - row [ref=f8e352]:
+                - cell [ref=f8e353]:
+                  - link "Senior Engineering Manager, GTM Systems (SalesTech)" [ref=f8e354] [cursor=pointer]:
+                    - /url: /company/careers/details/27697
+                - cell "Austin or Remote" [ref=f8e355]
+              - row [ref=f8e356]:
+                - cell [ref=f8e357]:
+                  - link "Senior Application Engineering Manager, Core Financial Apps" [ref=f8e358] [cursor=pointer]:
+                    - /url: /company/careers/details/27069
+                - cell "Seattle" [ref=f8e359]
+        - generic [ref=f8e360]:
+          - heading "Design" [level=3] [ref=f8e361]
+          - table [ref=f8e362]:
+            - rowgroup [ref=f8e363]:
+              - row [ref=f8e364]:
+                - columnheader "Position" [ref=f8e365]
+                - columnheader "Location" [ref=f8e366]
+            - rowgroup [ref=f8e367]:
+              - row [ref=f8e368]:
+                - cell [ref=f8e369]:
+                  - link "Senior Product Designer, Administration" [ref=f8e370] [cursor=pointer]:
+                    - /url: /company/careers/details/27779
+                - cell "Sydney or Remote" [ref=f8e371]
+              - row [ref=f8e372]:
+                - cell [ref=f8e373]:
+                  - link "Lead Product Designer, Jira" [ref=f8e374] [cursor=pointer]:
+                    - /url: /company/careers/details/27323
+                - cell "Sydney or Remote" [ref=f8e375]
+              - row [ref=f8e376]:
+                - cell [ref=f8e377]:
+                  - link "Principal Product Designer, AI" [ref=f8e378] [cursor=pointer]:
+                    - /url: /company/careers/details/27204
+                - cell "San Francisco or Remote" [ref=f8e379]
+              - row [ref=f8e380]:
+                - cell [ref=f8e381]:
+                  - link "Senior Director, Jira Design" [ref=f8e382] [cursor=pointer]:
+                    - /url: /company/careers/details/24872
+                - cell "San Francisco or Remote" [ref=f8e383]
+              - row [ref=f8e384]:
+                - cell [ref=f8e385]:
+                  - link "Senior Design Manager, Strategy Collection" [ref=f8e386] [cursor=pointer]:
+                    - /url: /company/careers/details/27282
+                - cell "Mountain View or Remote" [ref=f8e387]
+              - row [ref=f8e388]:
+                - cell [ref=f8e389]:
+                  - link "Lead Product Designer, AI" [ref=f8e390] [cursor=pointer]:
+                    - /url: /company/careers/details/27321
+                - cell "San Francisco or Remote" [ref=f8e391]
+              - row [ref=f8e392]:
+                - cell [ref=f8e393]:
+                  - link "Lead Product Designer, Jira" [ref=f8e394] [cursor=pointer]:
+                    - /url: /company/careers/details/27324
+                - cell "San Francisco or Remote" [ref=f8e395]
+              - row [ref=f8e396]:
+                - cell [ref=f8e397]:
+                  - link "Principal Product Designer, Jira" [ref=f8e398] [cursor=pointer]:
+                    - /url: /company/careers/details/27322
+                - cell "San Francisco or Remote" [ref=f8e399]
+              - row [ref=f8e400]:
+                - cell [ref=f8e401]:
+                  - link "Lead Product Designer, Growth Platform" [ref=f8e402] [cursor=pointer]:
+                    - /url: /company/careers/details/27320
+                - cell "San Francisco or Remote" [ref=f8e403]
+        - generic [ref=f8e404]:
+          - heading "Engineering" [level=3] [ref=f8e405]
+          - table [ref=f8e406]:
+            - rowgroup [ref=f8e407]:
+              - row [ref=f8e408]:
+                - columnheader "Position" [ref=f8e409]
+                - columnheader "Location" [ref=f8e410]
+            - rowgroup [ref=f8e411]:
+              - row [ref=f8e412]:
+                - cell [ref=f8e413]:
+                  - link "Senior FinOps Analyst" [ref=f8e414] [cursor=pointer]:
+                    - /url: /company/careers/details/27375
+                - cell "Sydney or Remote" [ref=f8e415]
+              - row [ref=f8e416]:
+                - cell [ref=f8e417]:
+                  - link "Site Reliability Engineer" [ref=f8e418] [cursor=pointer]:
+                    - /url: /company/careers/details/27635
+                - cell "Sydney or Remote" [ref=f8e419]
+              - row [ref=f8e420]:
+                - cell [ref=f8e421]:
+                  - link "Principle Machine Learning Engineer" [ref=f8e422] [cursor=pointer]:
+                    - /url: /company/careers/details/27455
+                - cell "Sydney or Remote" [ref=f8e423]
+              - row [ref=f8e424]:
+                - cell [ref=f8e425]:
+                  - link "Senior Machine Learning Engineer" [ref=f8e426] [cursor=pointer]:
+                    - /url: /company/careers/details/27453
+                - cell "Sydney or Remote" [ref=f8e427]
+              - row [ref=f8e428]:
+                - cell [ref=f8e429]:
+                  - link "Senior Principal Engineer - Growth Organization" [ref=f8e430] [cursor=pointer]:
+                    - /url: /company/careers/details/27369
+                - cell "Sydney or Remote" [ref=f8e431]
+              - row [ref=f8e432]:
+                - cell [ref=f8e433]:
+                  - link "Senior Software Engineer- Data Platform" [ref=f8e434] [cursor=pointer]:
+                    - /url: /company/careers/details/27078
+                - cell "Sydney or Remote" [ref=f8e435]
+              - row [ref=f8e436]:
+                - cell [ref=f8e437]:
+                  - link "Senior Machine Learning Systems Engineer" [ref=f8e438] [cursor=pointer]:
+                    - /url: /company/careers/details/27025
+                - cell "Sydney or Remote" [ref=f8e439]
+              - row [ref=f8e440]:
+                - cell [ref=f8e441]:
+                  - link "Senior Machine Learning Engineer" [ref=f8e442] [cursor=pointer]:
+                    - /url: /company/careers/details/26850
+                - cell "Sydney or Remote" [ref=f8e443]
+              - row [ref=f8e444]:
+                - cell [ref=f8e445]:
+                  - link "Senior Backend Software Engineer" [ref=f8e446] [cursor=pointer]:
+                    - /url: /company/careers/details/25565
+                - cell "Sydney or Remote" [ref=f8e447]
+              - row [ref=f8e448]:
+                - cell [ref=f8e449]:
+                  - link "Senior Machine Learning Engineer" [ref=f8e450] [cursor=pointer]:
+                    - /url: /company/careers/details/27482
+                - cell "London or Remote" [ref=f8e451]
+              - row [ref=f8e452]:
+                - cell [ref=f8e453]:
+                  - link "Software Engineer" [ref=f8e454] [cursor=pointer]:
+                    - /url: /company/careers/details/27459
+                - cell "Seattle or Remote" [ref=f8e455]
+              - row [ref=f8e456]:
+                - cell [ref=f8e457]:
+                  - link "Software Engineer" [ref=f8e458] [cursor=pointer]:
+                    - /url: /company/careers/details/27458
+                - cell "Seattle or Remote" [ref=f8e459]
+              - row [ref=f8e460]:
+                - cell [ref=f8e461]:
+                  - link "Senior Software Engineer" [ref=f8e462] [cursor=pointer]:
+                    - /url: /company/careers/details/27457
+                - cell "Seattle or Remote" [ref=f8e463]
+              - row [ref=f8e464]:
+                - cell [ref=f8e465]:
+                  - link "Machine Learning Engineer" [ref=f8e466] [cursor=pointer]:
+                    - /url: /company/careers/details/27234
+                - cell "Seattle or Remote" [ref=f8e467]
+              - row [ref=f8e468]:
+                - cell [ref=f8e469]:
+                  - link "Principal Forward Deployed Engineer" [ref=f8e470] [cursor=pointer]:
+                    - /url: /company/careers/details/27181
+                - cell "Bengaluru or Remote" [ref=f8e471]
+              - row [ref=f8e472]:
+                - cell [ref=f8e473]:
+                  - link "Senior Machine Learning Engineer" [ref=f8e474] [cursor=pointer]:
+                    - /url: /company/careers/details/27027
+                - cell "Sydney or Remote" [ref=f8e475]
+              - row [ref=f8e476]:
+                - cell [ref=f8e477]:
+                  - link "Senior Machine Learning Engineer" [ref=f8e478] [cursor=pointer]:
+                    - /url: /company/careers/details/26983
+                - cell "San Francisco or Remote" [ref=f8e479]
+              - row [ref=f8e480]:
+                - cell [ref=f8e481]:
+                  - link "Principal Software Engineer - Trusted Data Platform" [ref=f8e482] [cursor=pointer]:
+                    - /url: /company/careers/details/26748
+                - cell "Bengaluru or Remote" [ref=f8e483]
+              - row [ref=f8e484]:
+                - cell [ref=f8e485]:
+                  - link "Principal Software Engineer - Encryption" [ref=f8e486] [cursor=pointer]:
+                    - /url: /company/careers/details/26565
+                - cell "Bengaluru or Remote" [ref=f8e487]
+              - row [ref=f8e488]:
+                - cell [ref=f8e489]:
+                  - link "Principal Software Engineer" [ref=f8e490] [cursor=pointer]:
+                    - /url: /company/careers/details/26548
+                - cell "Bengaluru or Remote" [ref=f8e491]
+              - row [ref=f8e492]:
+                - cell [ref=f8e493]:
+                  - link "Senior Principal Forward Deployed Engineer" [ref=f8e494] [cursor=pointer]:
+                    - /url: /company/careers/details/27180
+                - cell "Bengaluru or Remote" [ref=f8e495]
+              - row [ref=f8e496]:
+                - cell [ref=f8e497]:
+                  - link "Senior Machine Learning Engineer" [ref=f8e498] [cursor=pointer]:
+                    - /url: /company/careers/details/26639
+                - cell "Remote or Remote" [ref=f8e499]
+              - row [ref=f8e500]:
+                - cell [ref=f8e501]:
+                  - link "Senior Machine Learning Engineer - Responsible AI" [ref=f8e502] [cursor=pointer]:
+                    - /url: /company/careers/details/27643
+                - cell "Bengaluru or Remote" [ref=f8e503]
+              - row [ref=f8e504]:
+                - cell [ref=f8e505]:
+                  - link "Senior Principal Engineer" [ref=f8e506] [cursor=pointer]:
+                    - /url: /company/careers/details/25716
+                - cell "San Francisco or Remote" [ref=f8e507]
+              - row [ref=f8e508]:
+                - cell [ref=f8e509]:
+                  - link "Senior Engineering Manager - Jira Platform" [ref=f8e510] [cursor=pointer]:
+                    - /url: /company/careers/details/27338
+                - cell "Bengaluru or Remote" [ref=f8e511]
+              - row [ref=f8e512]:
+                - cell [ref=f8e513]:
+                  - link "Principal Forward Deployed Engineer, AI (Remote Poland)" [ref=f8e514] [cursor=pointer]:
+                    - /url: /company/careers/details/27182
+                - cell "Gdańsk or Remote" [ref=f8e515]
+              - row [ref=f8e516]:
+                - cell [ref=f8e517]:
+                  - link "Principal Backend Software Engineer" [ref=f8e518] [cursor=pointer]:
+                    - /url: /company/careers/details/25577
+                - cell "Bengaluru or Remote" [ref=f8e519]
+              - row [ref=f8e520]:
+                - cell [ref=f8e521]:
+                  - link "Principal Technical Program Manager - Trust" [ref=f8e522] [cursor=pointer]:
+                    - /url: /company/careers/details/27224
+                - cell "Seattle or Remote" [ref=f8e523]
+              - row [ref=f8e524]:
+                - cell [ref=f8e525]:
+                  - link "Principal Full Stack Software Engineer - Canada" [ref=f8e526] [cursor=pointer]:
+                    - /url: /company/careers/details/27641
+                - cell "Canada or Remote" [ref=f8e527]
+              - row [ref=f8e528]:
+                - cell [ref=f8e529]:
+                  - link "Principal Full Stack Software Engineer" [ref=f8e530] [cursor=pointer]:
+                    - /url: /company/careers/details/27017
+                - cell "San Francisco or Remote" [ref=f8e531]
+              - row [ref=f8e532]:
+                - cell [ref=f8e533]:
+                  - link "Senior Engineering Manager - Core Engineering, Trusted Data Platform" [ref=f8e534] [cursor=pointer]:
+                    - /url: /company/careers/details/27016
+                - cell "Seattle or Remote" [ref=f8e535]
+              - row [ref=f8e536]:
+                - cell [ref=f8e537]:
+                  - link "Senior Principal Software Engineer" [ref=f8e538] [cursor=pointer]:
+                    - /url: /company/careers/details/27622
+                - cell "Gdańsk or Remote" [ref=f8e539]
+              - row [ref=f8e540]:
+                - cell [ref=f8e541]:
+                  - link "Software Engineer II" [ref=f8e542] [cursor=pointer]:
+                    - /url: /company/careers/details/27346
+                - cell "Remote or Remote" [ref=f8e543]
+              - row [ref=f8e544]:
+                - cell [ref=f8e545]:
+                  - link "Senior Software Engineer" [ref=f8e546] [cursor=pointer]:
+                    - /url: /company/careers/details/26757
+                - cell [ref=f8e547]
+              - row [ref=f8e548]:
+                - cell [ref=f8e549]:
+                  - link "Senior Software Engineer - Trusted Data Platform" [ref=f8e550] [cursor=pointer]:
+                    - /url: /company/careers/details/26637
+                - cell "Remote or Remote" [ref=f8e551]
+              - row [ref=f8e552]:
+                - cell [ref=f8e553]:
+                  - link "Senior Principal Engineering Manager / Head of Engineering" [ref=f8e554] [cursor=pointer]:
+                    - /url: /company/careers/details/28404
+                - cell "Seattle or Remote" [ref=f8e555]
+              - row [ref=f8e556]:
+                - cell [ref=f8e557]:
+                  - link "Principal Software Engineer" [ref=f8e558] [cursor=pointer]:
+                    - /url: /company/careers/details/27363
+                - cell "Seattle or Remote" [ref=f8e559]
+              - row [ref=f8e560]:
+                - cell [ref=f8e561]:
+                  - link "Principal Technical Program Manager" [ref=f8e562] [cursor=pointer]:
+                    - /url: /company/careers/details/27781
+                - cell "Seattle or Remote" [ref=f8e563]
+              - row [ref=f8e564]:
+                - cell [ref=f8e565]:
+                  - link "Software Engineer" [ref=f8e566] [cursor=pointer]:
+                    - /url: /company/careers/details/26758
+                - cell [ref=f8e567]
+              - row [ref=f8e568]:
+                - cell [ref=f8e569]:
+                  - link "Principal Full Stack Software Engineer (P60) — Growth" [ref=f8e570] [cursor=pointer]:
+                    - /url: /company/careers/details/27640
+                - cell "San Francisco or Remote" [ref=f8e571]
+              - row [ref=f8e572]:
+                - cell [ref=f8e573]:
+                  - link "Senior Principal Forward Deployed Engineer" [ref=f8e574] [cursor=pointer]:
+                    - /url: /company/careers/details/27617
+                - cell "San Francisco or Remote" [ref=f8e575]
+              - row [ref=f8e576]:
+                - cell [ref=f8e577]:
+                  - link "Senior Machine Learning Engineer" [ref=f8e578] [cursor=pointer]:
+                    - /url: /company/careers/details/27613
+                - cell "San Francisco or Remote" [ref=f8e579]
+              - row [ref=f8e580]:
+                - cell [ref=f8e581]:
+                  - link "Principal Machine Learning Engineer" [ref=f8e582] [cursor=pointer]:
+                    - /url: /company/careers/details/27612
+                - cell "San Francisco or Remote" [ref=f8e583]
+              - row [ref=f8e584]:
+                - cell [ref=f8e585]:
+                  - link "Senior Software Engineer" [ref=f8e586] [cursor=pointer]:
+                    - /url: /company/careers/details/27568
+                - cell "Seattle or Remote" [ref=f8e587]
+              - row [ref=f8e588]:
+                - cell [ref=f8e589]:
+                  - link "Senior Engineering Manager" [ref=f8e590] [cursor=pointer]:
+                    - /url: /company/careers/details/27288
+                - cell "Bengaluru or Remote" [ref=f8e591]
+              - row [ref=f8e592]:
+                - cell [ref=f8e593]:
+                  - link "Senior Fullstack Software Engineer, DX" [ref=f8e594] [cursor=pointer]:
+                    - /url: /company/careers/details/26664
+                - cell "San Francisco or Remote" [ref=f8e595]
+              - row [ref=f8e596]:
+                - cell [ref=f8e597]:
+                  - link "AI Researcher (PhD), 2027 Graduate U.S." [ref=f8e598] [cursor=pointer]:
+                    - /url: /company/careers/details/26246
+                - cell "San Francisco or Remote" [ref=f8e599]
+              - row [ref=f8e600]:
+                - cell [ref=f8e601]:
+                  - link "Data Platform Engineer" [ref=f8e602] [cursor=pointer]:
+                    - /url: /company/careers/details/27589
+                - cell "Bengaluru or Remote" [ref=f8e603]
+              - row [ref=f8e604]:
+                - cell [ref=f8e605]:
+                  - link "Senior Data Platform Engineer" [ref=f8e606] [cursor=pointer]:
+                    - /url: /company/careers/details/27230
+                - cell "Bengaluru or Remote" [ref=f8e607]
+              - row [ref=f8e608]:
+                - cell [ref=f8e609]:
+                  - link "Senior ML Performance Engineer" [ref=f8e610] [cursor=pointer]:
+                    - /url: /company/careers/details/26377
+                - cell "Mountain View or Remote" [ref=f8e611]
+              - row [ref=f8e612]:
+                - cell [ref=f8e613]:
+                  - link "Senior Backend Software Engineer" [ref=f8e614] [cursor=pointer]:
+                    - /url: /company/careers/details/25558
+                - cell "San Francisco or Remote" [ref=f8e615]
+              - row [ref=f8e616]:
+                - cell [ref=f8e617]:
+                  - link "Senior Principal engineer" [ref=f8e618] [cursor=pointer]:
+                    - /url: /company/careers/details/27054
+                - cell "Bengaluru or Remote" [ref=f8e619]
+              - row [ref=f8e620]:
+                - cell [ref=f8e621]:
+                  - link "Principal Backend Engineer" [ref=f8e622] [cursor=pointer]:
+                    - /url: /company/careers/details/27485
+                - cell "San Francisco or Remote" [ref=f8e623]
+              - row [ref=f8e624]:
+                - cell [ref=f8e625]:
+                  - link "Senior Mobile iOS Engineer" [ref=f8e626] [cursor=pointer]:
+                    - /url: /company/careers/details/26545
+                - cell "Bengaluru or Remote" [ref=f8e627]
+              - row [ref=f8e628]:
+                - cell [ref=f8e629]:
+                  - link "Senior Mobile Android Engineer" [ref=f8e630] [cursor=pointer]:
+                    - /url: /company/careers/details/26530
+                - cell "Bengaluru or Remote" [ref=f8e631]
+              - row [ref=f8e632]:
+                - cell [ref=f8e633]:
+                  - link "Principal Machine Learning Engineer" [ref=f8e634] [cursor=pointer]:
+                    - /url: /company/careers/details/25797
+                - cell "Seattle or Remote" [ref=f8e635]
+              - row [ref=f8e636]:
+                - cell [ref=f8e637]:
+                  - link "Senior Backend Software Engineer - Platform" [ref=f8e638] [cursor=pointer]:
+                    - /url: /company/careers/details/25737
+                - cell "Seattle or Remote" [ref=f8e639]
+              - row [ref=f8e640]:
+                - cell [ref=f8e641]:
+                  - link "Principal Software Engineer" [ref=f8e642] [cursor=pointer]:
+                    - /url: /company/careers/details/27814
+                - cell "San Francisco or Remote" [ref=f8e643]
+              - row [ref=f8e644]:
+                - cell [ref=f8e645]:
+                  - link "Backend Software Engineer" [ref=f8e646] [cursor=pointer]:
+                    - /url: /company/careers/details/27794
+                - cell "Canada or Remote" [ref=f8e647]
+              - row [ref=f8e648]:
+                - cell [ref=f8e649]:
+                  - link "Senior Engineering Manager" [ref=f8e650] [cursor=pointer]:
+                    - /url: /company/careers/details/27193
+                - cell "Bengaluru or Remote" [ref=f8e651]
+              - row [ref=f8e652]:
+                - cell [ref=f8e653]:
+                  - link "Senior Principal Software Engineer JIRA Search" [ref=f8e654] [cursor=pointer]:
+                    - /url: /company/careers/details/27121
+                - cell "Bengaluru or Remote" [ref=f8e655]
+              - row [ref=f8e656]:
+                - cell [ref=f8e657]:
+                  - link "Principal Software Engineer" [ref=f8e658] [cursor=pointer]:
+                    - /url: /company/careers/details/26993
+                - cell "Seattle or Remote" [ref=f8e659]
+              - row [ref=f8e660]:
+                - cell [ref=f8e661]:
+                  - link "Principal Machine Learning Systems Engineer - Search & Intelligence" [ref=f8e662] [cursor=pointer]:
+                    - /url: /company/careers/details/26787
+                - cell "Seattle or Remote" [ref=f8e663]
+              - row [ref=f8e664]:
+                - cell [ref=f8e665]:
+                  - link "Principal Backend Software Engineer" [ref=f8e666] [cursor=pointer]:
+                    - /url: /company/careers/details/25586
+                - cell "San Francisco or Remote" [ref=f8e667]
+              - row [ref=f8e668]:
+                - cell [ref=f8e669]:
+                  - link "Senior Full Stack Software Engineer" [ref=f8e670] [cursor=pointer]:
+                    - /url: /company/careers/details/25546
+                - cell "San Francisco or Remote" [ref=f8e671]
+              - row [ref=f8e672]:
+                - cell [ref=f8e673]:
+                  - link "Principal Technical Program Manager- Agent Quality and API Governance" [ref=f8e674] [cursor=pointer]:
+                    - /url: /company/careers/details/27630
+                - cell "Seattle or Remote" [ref=f8e675]
+              - row [ref=f8e676]:
+                - cell [ref=f8e677]:
+                  - link "Principal Fullstack Software Engineer" [ref=f8e678] [cursor=pointer]:
+                    - /url: /company/careers/details/27074
+                - cell "San Francisco or Remote" [ref=f8e679]
+              - row [ref=f8e680]:
+                - cell [ref=f8e681]:
+                  - link "Full Stack Software Engineer" [ref=f8e682] [cursor=pointer]:
+                    - /url: /company/careers/details/25561
+                - cell "San Francisco or Remote" [ref=f8e683]
+              - row [ref=f8e684]:
+                - cell [ref=f8e685]:
+                  - link "Senior Machine Learning Systems Engineering Manager - AI & ML Platform" [ref=f8e686] [cursor=pointer]:
+                    - /url: /company/careers/details/25682
+                - cell "Bengaluru or Remote" [ref=f8e687]
+              - row [ref=f8e688]:
+                - cell [ref=f8e689]:
+                  - link "EMEA Field CTO, DX — Engineering Executive Advisor" [ref=f8e690] [cursor=pointer]:
+                    - /url: /company/careers/details/24899
+                - cell "London or Remote" [ref=f8e691]
+              - row [ref=f8e692]:
+                - cell [ref=f8e693]:
+                  - link "Senior Full Stack Software Engineer" [ref=f8e694] [cursor=pointer]:
+                    - /url: /company/careers/details/27805
+                - cell "Canada or Remote" [ref=f8e695]
+              - row [ref=f8e696]:
+                - cell [ref=f8e697]:
+                  - link "Senior Backend Software Engineer" [ref=f8e698] [cursor=pointer]:
+                    - /url: /company/careers/details/27790
+                - cell "Canada or Remote" [ref=f8e699]
+              - row [ref=f8e700]:
+                - cell [ref=f8e701]:
+                  - link "Senior Principal Software Engineer" [ref=f8e702] [cursor=pointer]:
+                    - /url: /company/careers/details/27468
+                - cell "Seattle or Remote" [ref=f8e703]
+              - row [ref=f8e704]:
+                - cell [ref=f8e705]:
+                  - link "Principal Backend Software Engineer" [ref=f8e706] [cursor=pointer]:
+                    - /url: /company/careers/details/25563
+                - cell "Sydney or Remote" [ref=f8e707]
+              - row [ref=f8e708]:
+                - cell [ref=f8e709]:
+                  - link "Backend Software Engineer" [ref=f8e710] [cursor=pointer]:
+                    - /url: /company/careers/details/25539
+                - cell "San Francisco or Remote" [ref=f8e711]
+              - row [ref=f8e712]:
+                - cell [ref=f8e713]:
+                  - link "Senior machine learning engineer" [ref=f8e714] [cursor=pointer]:
+                    - /url: /company/careers/details/27356
+                - cell "Mountain View or Remote" [ref=f8e715]
+              - row [ref=f8e716]:
+                - cell [ref=f8e717]:
+                  - link "Senior Frontend Software Engineer" [ref=f8e718] [cursor=pointer]:
+                    - /url: /company/careers/details/27184
+                - cell "Canada or Remote" [ref=f8e719]
+              - row [ref=f8e720]:
+                - cell [ref=f8e721]:
+                  - link "Senior Machine Learning Engineer - Growth" [ref=f8e722] [cursor=pointer]:
+                    - /url: /company/careers/details/26918
+                - cell "Seattle or Remote" [ref=f8e723]
+              - row [ref=f8e724]:
+                - cell [ref=f8e725]:
+                  - link "Senior Engineering Manager- TDP Insights and Data Resiliency" [ref=f8e726] [cursor=pointer]:
+                    - /url: /company/careers/details/26739
+                - cell "Bengaluru or Remote" [ref=f8e727]
+              - row [ref=f8e728]:
+                - cell [ref=f8e729]:
+                  - link "Principal Forward Deployed Engineer, AI (Remote UK)" [ref=f8e730] [cursor=pointer]:
+                    - /url: /company/careers/details/27183
+                - cell "London or Remote" [ref=f8e731]
+              - row [ref=f8e732]:
+                - cell [ref=f8e733]:
+                  - link "Senior Principal Forward Deployed Engineer" [ref=f8e734] [cursor=pointer]:
+                    - /url: /company/careers/details/27179
+                - cell "San Francisco or Remote" [ref=f8e735]
+              - row [ref=f8e736]:
+                - cell [ref=f8e737]:
+                  - link "Principal Forward Deployed Engineer" [ref=f8e738] [cursor=pointer]:
+                    - /url: /company/careers/details/27178
+                - cell "San Francisco or Remote" [ref=f8e739]
+              - row [ref=f8e740]:
+                - cell [ref=f8e741]:
+                  - link "Principal Software Engineer Jira Platform Search" [ref=f8e742] [cursor=pointer]:
+                    - /url: /company/careers/details/26578
+                - cell "Bengaluru or Remote" [ref=f8e743]
+              - row [ref=f8e744]:
+                - cell [ref=f8e745]:
+                  - link "Senior Backend Software Engineer, DX" [ref=f8e746] [cursor=pointer]:
+                    - /url: /company/careers/details/27730
+                - cell "Remote or Remote" [ref=f8e747]
+              - row [ref=f8e748]:
+                - cell [ref=f8e749]:
+                  - link "Senior Machine Learning Engineer" [ref=f8e750] [cursor=pointer]:
+                    - /url: /company/careers/details/26955
+                - cell "Seattle or Remote" [ref=f8e751]
+              - row [ref=f8e752]:
+                - cell [ref=f8e753]:
+                  - link "Machine Learning Engineering Manager" [ref=f8e754] [cursor=pointer]:
+                    - /url: /company/careers/details/22861
+                - cell "Seattle or Remote" [ref=f8e755]
+              - row [ref=f8e756]:
+                - cell [ref=f8e757]:
+                  - link "Principle Machine Learning Systems Engineer" [ref=f8e758] [cursor=pointer]:
+                    - /url: /company/careers/details/27796
+                - cell "San Francisco or Remote" [ref=f8e759]
+              - row [ref=f8e760]:
+                - cell [ref=f8e761]:
+                  - link "Full Stack Software Engineer" [ref=f8e762] [cursor=pointer]:
+                    - /url: /company/careers/details/25566
+                - cell "Canada or Remote" [ref=f8e763]
+              - row [ref=f8e764]:
+                - cell [ref=f8e765]:
+                  - link "Senior Principal Engineer, Search Platform" [ref=f8e766] [cursor=pointer]:
+                    - /url: /company/careers/details/25718
+                - cell "Bengaluru or Remote" [ref=f8e767]
+              - row [ref=f8e768]:
+                - cell [ref=f8e769]:
+                  - link "Senior Machine Learning Engineer, Search & Intelligence" [ref=f8e770] [cursor=pointer]:
+                    - /url: /company/careers/details/26788
+                - cell "Seattle or Remote" [ref=f8e771]
+              - row [ref=f8e772]:
+                - cell [ref=f8e773]:
+                  - link "Senior Machine Learning Engineer" [ref=f8e774] [cursor=pointer]:
+                    - /url: /company/careers/details/26954
+                - cell "Seattle or Remote" [ref=f8e775]
+              - row [ref=f8e776]:
+                - cell [ref=f8e777]:
+                  - link "Senior Machine Learning Engineer - Growth" [ref=f8e778] [cursor=pointer]:
+                    - /url: /company/careers/details/26917
+                - cell "Seattle or Remote" [ref=f8e779]
+              - row [ref=f8e780]:
+                - cell [ref=f8e781]:
+                  - link "Senior Machine Learning Engineer, AI-Native Evaluation & Search" [ref=f8e782] [cursor=pointer]:
+                    - /url: /company/careers/details/26789
+                - cell "San Francisco or Remote" [ref=f8e783]
+              - row [ref=f8e784]:
+                - cell [ref=f8e785]:
+                  - link "Software Engineer – Full Stack (Loom Billing & Integrations)" [ref=f8e786] [cursor=pointer]:
+                    - /url: /company/careers/details/27431
+                - cell "Canada or Remote" [ref=f8e787]
+              - row [ref=f8e788]:
+                - cell [ref=f8e789]:
+                  - link "Principal Machine Learning System Engineer" [ref=f8e790] [cursor=pointer]:
+                    - /url: /company/careers/details/26927
+                - cell "San Francisco or Remote" [ref=f8e791]
+              - row [ref=f8e792]:
+                - cell [ref=f8e793]:
+                  - link "Principal Machine Learning Engineer (GenAI Products with Enterprise Knowledge)" [ref=f8e794] [cursor=pointer]:
+                    - /url: /company/careers/details/26968
+                - cell "Singapore or Remote" [ref=f8e795]
+              - row [ref=f8e796]:
+                - cell [ref=f8e797]:
+                  - link "Senior Engineering Manager" [ref=f8e798] [cursor=pointer]:
+                    - /url: /company/careers/details/27318
+                - cell "Austin or Remote" [ref=f8e799]
+              - row [ref=f8e800]:
+                - cell [ref=f8e801]:
+                  - link "Senior Principal Technical Program Manager - Agent Infrastructure" [ref=f8e802] [cursor=pointer]:
+                    - /url: /company/careers/details/27187
+                - cell "Seattle or Remote" [ref=f8e803]
+              - row [ref=f8e804]:
+                - cell [ref=f8e805]:
+                  - link "Senior Principal Engineer - Jira Platform" [ref=f8e806] [cursor=pointer]:
+                    - /url: /company/careers/details/27051
+                - cell "Bengaluru or Remote" [ref=f8e807]
+              - row [ref=f8e808]:
+                - cell [ref=f8e809]:
+                  - link "Senior Engineering Manager - Atlassian Government Cloud" [ref=f8e810] [cursor=pointer]:
+                    - /url: /company/careers/details/27216
+                - cell "San Francisco or Remote" [ref=f8e811]
+              - row [ref=f8e812]:
+                - cell [ref=f8e813]:
+                  - link "Principal Machine Learning Architect | Enterprise Agentic Search" [ref=f8e814] [cursor=pointer]:
+                    - /url: /company/careers/details/27494
+                - cell "Seattle or Remote" [ref=f8e815]
+              - row [ref=f8e816]:
+                - cell [ref=f8e817]:
+                  - link "Senior Principal Software Engineer" [ref=f8e818] [cursor=pointer]:
+                    - /url: /company/careers/details/25687
+                - cell "Seattle or Remote" [ref=f8e819]
+              - row [ref=f8e820]:
+                - cell [ref=f8e821]:
+                  - link "Principal Technical Program Manager (Analytics or AI/ML Platform)" [ref=f8e822] [cursor=pointer]:
+                    - /url: /company/careers/details/26965
+                - cell "Bengaluru or Remote" [ref=f8e823]
+              - row [ref=f8e824]:
+                - cell [ref=f8e825]:
+                  - link "Principal Machine Learning Engineer" [ref=f8e826] [cursor=pointer]:
+                    - /url: /company/careers/details/25394
+                - cell "Mountain View or Remote" [ref=f8e827]
+              - row [ref=f8e828]:
+                - cell [ref=f8e829]:
+                  - link "Senior Machine Learning Engineer" [ref=f8e830] [cursor=pointer]:
+                    - /url: /company/careers/details/27149
+                - cell "San Francisco or Remote" [ref=f8e831]
+              - row [ref=f8e832]:
+                - cell [ref=f8e833]:
+                  - link "Principal Engineer - Kubernetes Platform" [ref=f8e834] [cursor=pointer]:
+                    - /url: /company/careers/details/26359
+                - cell "Seattle or Remote" [ref=f8e835]
+              - row [ref=f8e836]:
+                - cell [ref=f8e837]:
+                  - link "Senior Machine Learning Engineer" [ref=f8e838] [cursor=pointer]:
+                    - /url: /company/careers/details/27208
+                - cell "Mountain View or Remote" [ref=f8e839]
+              - row [ref=f8e840]:
+                - cell [ref=f8e841]:
+                  - link "Principal Machine Learning Engineer" [ref=f8e842] [cursor=pointer]:
+                    - /url: /company/careers/details/27122
+                - cell "Seattle or Remote" [ref=f8e843]
+              - row [ref=f8e844]:
+                - cell [ref=f8e845]:
+                  - link "Senior ML System Engineer" [ref=f8e846] [cursor=pointer]:
+                    - /url: /company/careers/details/26762
+                - cell "Remote or Remote" [ref=f8e847]
+              - row [ref=f8e848]:
+                - cell [ref=f8e849]:
+                  - link "Senior Principal Engineer, Rovo Experiences & Growth" [ref=f8e850] [cursor=pointer]:
+                    - /url: /company/careers/details/26836
+                - cell "Seattle or Remote" [ref=f8e851]
+              - row [ref=f8e852]:
+                - cell [ref=f8e853]:
+                  - link "Principal Engineer, Search Platform" [ref=f8e854] [cursor=pointer]:
+                    - /url: /company/careers/details/27090
+                - cell "Bengaluru or Remote" [ref=f8e855]
+              - row [ref=f8e856]:
+                - cell [ref=f8e857]:
+                  - link "Principal Software Engineer" [ref=f8e858] [cursor=pointer]:
+                    - /url: /company/careers/details/27084
+                - cell "Seattle or Remote" [ref=f8e859]
+              - row [ref=f8e860]:
+                - cell [ref=f8e861]:
+                  - link "Principal Machine Learning Engineer" [ref=f8e862] [cursor=pointer]:
+                    - /url: /company/careers/details/27037
+                - cell "San Francisco or Remote" [ref=f8e863]
+              - row [ref=f8e864]:
+                - cell [ref=f8e865]:
+                  - link "Principal Machine Learning Engineer" [ref=f8e866] [cursor=pointer]:
+                    - /url: /company/careers/details/26848
+                - cell "Seattle or Remote" [ref=f8e867]
+              - row [ref=f8e868]:
+                - cell [ref=f8e869]:
+                  - link "Senior Principal Software Engineer, Jira Data Management" [ref=f8e870] [cursor=pointer]:
+                    - /url: /company/careers/details/26577
+                - cell "Bengaluru or Remote" [ref=f8e871]
+              - row [ref=f8e872]:
+                - cell [ref=f8e873]:
+                  - link "Senior Principal Machine Learning Systems Engineer, Search Platform" [ref=f8e874] [cursor=pointer]:
+                    - /url: /company/careers/details/27089
+                - cell "Seattle" [ref=f8e875]
+        - generic [ref=f8e876]:
+          - heading "Finance & Accounting" [level=3] [ref=f8e877]
+          - table [ref=f8e878]:
+            - rowgroup [ref=f8e879]:
+              - row [ref=f8e880]:
+                - columnheader "Position" [ref=f8e881]
+                - columnheader "Location" [ref=f8e882]
+            - rowgroup [ref=f8e883]:
+              - row [ref=f8e884]:
+                - cell [ref=f8e885]:
+                  - link "Senior GL Payroll Accountant" [ref=f8e886] [cursor=pointer]:
+                    - /url: /company/careers/details/27258
+                - cell "Manila or Remote" [ref=f8e887]
+              - row [ref=f8e888]:
+                - cell [ref=f8e889]:
+                  - link "Revenue and Technical Accounting Analyst" [ref=f8e890] [cursor=pointer]:
+                    - /url: /company/careers/details/27397
+                - cell "Manila or Remote" [ref=f8e891]
+              - row [ref=f8e892]:
+                - cell [ref=f8e893]:
+                  - link "Director of Investor Relations" [ref=f8e894] [cursor=pointer]:
+                    - /url: /company/careers/details/27651
+                - cell "San Francisco or Remote" [ref=f8e895]
+              - row [ref=f8e896]:
+                - cell [ref=f8e897]:
+                  - link "Senior Finance Manager, AI & Infrastructure" [ref=f8e898] [cursor=pointer]:
+                    - /url: /company/careers/details/27312
+                - cell "Seattle or Remote" [ref=f8e899]
+        - generic [ref=f8e900]:
+          - heading "Graduates" [level=3] [ref=f8e901]
+          - table [ref=f8e902]:
+            - rowgroup [ref=f8e903]:
+              - row [ref=f8e904]:
+                - columnheader "Position" [ref=f8e905]
+                - columnheader "Location" [ref=f8e906]
+            - rowgroup [ref=f8e907]:
+              - row [ref=f8e908]:
+                - cell [ref=f8e909]:
+                  - link "Software Engineer, 2027 Graduate U.S." [ref=f8e910] [cursor=pointer]:
+                    - /url: /company/careers/details/25813
+                - cell "Seattle" [ref=f8e911]
+              - row [ref=f8e912]:
+                - cell [ref=f8e913]:
+                  - link "AI Researcher (PhD), 2027 Graduate Canada" [ref=f8e914] [cursor=pointer]:
+                    - /url: /company/careers/details/26074
+                - cell "Canada or Remote" [ref=f8e915]
+              - row [ref=f8e916]:
+                - cell [ref=f8e917]:
+                  - link "Software Engineer, 2027 Graduate Canada" [ref=f8e918] [cursor=pointer]:
+                    - /url: /company/careers/details/26070
+                - cell "Canada" [ref=f8e919]
+              - row [ref=f8e920]:
+                - cell [ref=f8e921]:
+                  - link "Security Engineer, 2027 Graduate U.S." [ref=f8e922] [cursor=pointer]:
+                    - /url: /company/careers/details/25997
+                - cell "Seattle" [ref=f8e923]
+              - row [ref=f8e924]:
+                - cell [ref=f8e925]:
+                  - link "Data Scientist, 2027 Graduate U.S." [ref=f8e926] [cursor=pointer]:
+                    - /url: /company/careers/details/26000
+                - cell "Seattle or Remote" [ref=f8e927]
+              - row [ref=f8e928]:
+                - cell [ref=f8e929]:
+                  - link "Machine Learning Engineer, 2027 Graduate U.S." [ref=f8e930] [cursor=pointer]:
+                    - /url: /company/careers/details/25999
+                - cell "Seattle" [ref=f8e931]
+              - row [ref=f8e932]:
+                - cell [ref=f8e933]:
+                  - link "Data Engineer, 2027 Graduate U.S" [ref=f8e934] [cursor=pointer]:
+                    - /url: /company/careers/details/25998
+                - cell "Seattle" [ref=f8e935]
+        - generic [ref=f8e936]:
+          - heading "Interns" [level=3] [ref=f8e937]
+          - table [ref=f8e938]:
+            - rowgroup [ref=f8e939]:
+              - row [ref=f8e940]:
+                - columnheader "Position" [ref=f8e941]
+                - columnheader "Location" [ref=f8e942]
+            - rowgroup [ref=f8e943]:
+              - row [ref=f8e944]:
+                - cell [ref=f8e945]:
+                  - link "Digital Asset Management (DAM) Operations Intern, 2027 Summer U.S." [ref=f8e946] [cursor=pointer]:
+                    - /url: /company/careers/details/27474
+                - cell "San Francisco or Remote" [ref=f8e947]
+              - row [ref=f8e948]:
+                - cell [ref=f8e949]:
+                  - link "AI Research Intern (PhD), 2027 Summer U.S." [ref=f8e950] [cursor=pointer]:
+                    - /url: /company/careers/details/26269
+                - cell "San Francisco or Remote" [ref=f8e951]
+              - row [ref=f8e952]:
+                - cell [ref=f8e953]:
+                  - link "Software Engineer Intern, 2027 Canada" [ref=f8e954] [cursor=pointer]:
+                    - /url: /company/careers/details/26275
+                - cell "Canada" [ref=f8e955]
+              - row [ref=f8e956]:
+                - cell [ref=f8e957]:
+                  - link "Data Engineer Intern, 2027 Summer U.S." [ref=f8e958] [cursor=pointer]:
+                    - /url: /company/careers/details/26272
+                - cell "Seattle or Remote" [ref=f8e959]
+              - row [ref=f8e960]:
+                - cell [ref=f8e961]:
+                  - link "Data Scientist Intern, 2027 Summer U.S." [ref=f8e962] [cursor=pointer]:
+                    - /url: /company/careers/details/26271
+                - cell "Seattle" [ref=f8e963]
+              - row [ref=f8e964]:
+                - cell [ref=f8e965]:
+                  - link "Research Intern, 2027 Summer U.S." [ref=f8e966] [cursor=pointer]:
+                    - /url: /company/careers/details/26270
+                - cell "Seattle" [ref=f8e967]
+              - row [ref=f8e968]:
+                - cell [ref=f8e969]:
+                  - link "Machine Learning Intern, 2027 Summer U.S." [ref=f8e970] [cursor=pointer]:
+                    - /url: /company/careers/details/26268
+                - cell "San Francisco" [ref=f8e971]
+              - row [ref=f8e972]:
+                - cell [ref=f8e973]:
+                  - link "Security Engineer Intern, 2027 Summer U.S." [ref=f8e974] [cursor=pointer]:
+                    - /url: /company/careers/details/26267
+                - cell "Seattle" [ref=f8e975]
+              - row [ref=f8e976]:
+                - cell [ref=f8e977]:
+                  - link "Software Engineer Intern, 2027 Summer U.S." [ref=f8e978] [cursor=pointer]:
+                    - /url: /company/careers/details/26266
+                - cell "San Francisco" [ref=f8e979]
+              - row [ref=f8e980]:
+                - cell [ref=f8e981]:
+                  - link "Product Design Intern, 2027 Summer U.S." [ref=f8e982] [cursor=pointer]:
+                    - /url: /company/careers/details/26273
+                - cell "San Francisco or Remote" [ref=f8e983]
+              - row [ref=f8e984]:
+                - cell [ref=f8e985]:
+                  - link "Product Management Intern, 2027 Summer U.S." [ref=f8e986] [cursor=pointer]:
+                    - /url: /company/careers/details/26274
+                - cell "San Francisco or Remote" [ref=f8e987]
+              - row [ref=f8e988]:
+                - cell [ref=f8e989]:
+                  - link "Customer Engagement Marketing Intern, 2027 Summer U.S." [ref=f8e990] [cursor=pointer]:
+                    - /url: /company/careers/details/26847
+                - cell "San Francisco or Remote" [ref=f8e991]
+              - row [ref=f8e992]:
+                - cell [ref=f8e993]:
+                  - link "Marketing Business Operations Intern, 2027 Summer U.S." [ref=f8e994] [cursor=pointer]:
+                    - /url: /company/careers/details/26846
+                - cell "San Francisco or Remote" [ref=f8e995]
+              - row [ref=f8e996]:
+                - cell [ref=f8e997]:
+                  - link "AI Demand Intelligence Intern, 2027 Summer U.S." [ref=f8e998] [cursor=pointer]:
+                    - /url: /company/careers/details/26843
+                - cell "San Francisco or Remote" [ref=f8e999]
+        - generic [ref=f8e1000]:
+          - heading "Legal" [level=3] [ref=f8e1001]
+          - table [ref=f8e1002]:
+            - rowgroup [ref=f8e1003]:
+              - row [ref=f8e1004]:
+                - columnheader "Position" [ref=f8e1005]
+                - columnheader "Location" [ref=f8e1006]
+            - rowgroup [ref=f8e1007]:
+              - row [ref=f8e1008]:
+                - cell [ref=f8e1009]:
+                  - link "Senior Privacy Counsel - Cybersecurity & Trust" [ref=f8e1010] [cursor=pointer]:
+                    - /url: /company/careers/details/27696
+                - cell "London" [ref=f8e1011]
+              - row [ref=f8e1012]:
+                - cell [ref=f8e1013]:
+                  - link "Director of Product Counsel" [ref=f8e1014] [cursor=pointer]:
+                    - /url: /company/careers/details/27270
+                - cell "San Francisco or Remote" [ref=f8e1015]
+              - row [ref=f8e1016]:
+                - cell [ref=f8e1017]:
+                  - link "Senior Commercial Counsel - Enterprise Sales" [ref=f8e1018] [cursor=pointer]:
+                    - /url: /company/careers/details/26770
+                - cell "San Francisco or Remote" [ref=f8e1019]
+        - generic [ref=f8e1020]:
+          - heading "Marketing" [level=3] [ref=f8e1021]
+          - table [ref=f8e1022]:
+            - rowgroup [ref=f8e1023]:
+              - row [ref=f8e1024]:
+                - columnheader "Position" [ref=f8e1025]
+                - columnheader "Location" [ref=f8e1026]
+            - rowgroup [ref=f8e1027]:
+              - row [ref=f8e1028]:
+                - cell [ref=f8e1029]:
+                  - link "Design Lead - Systems" [ref=f8e1030] [cursor=pointer]:
+                    - /url: /company/careers/details/28236
+                - cell "Sydney or Remote" [ref=f8e1031]
+              - row [ref=f8e1032]:
+                - cell [ref=f8e1033]:
+                  - link "Social Media Intern, 2027 Summer U.S." [ref=f8e1034] [cursor=pointer]:
+                    - /url: /company/careers/details/27223
+                - cell "San Francisco or Remote" [ref=f8e1035]
+              - row [ref=f8e1036]:
+                - cell [ref=f8e1037]:
+                  - link "Senior Product Marketing Manager - Teamwork Graph Adoption" [ref=f8e1038] [cursor=pointer]:
+                    - /url: /company/careers/details/27558
+                - cell "Remote or Remote" [ref=f8e1039]
+              - row [ref=f8e1040]:
+                - cell [ref=f8e1041]:
+                  - link "Principal Product Marketing Manager, Developer Platform & GTM" [ref=f8e1042] [cursor=pointer]:
+                    - /url: /company/careers/details/27203
+                - cell "San Francisco or Remote" [ref=f8e1043]
+              - row [ref=f8e1044]:
+                - cell [ref=f8e1045]:
+                  - link "Senior Brand Strategist" [ref=f8e1046] [cursor=pointer]:
+                    - /url: /company/careers/details/26959
+                - cell "San Francisco or Remote" [ref=f8e1047]
+              - row [ref=f8e1048]:
+                - cell [ref=f8e1049]:
+                  - link "Senior AR Manager, Developer Solutions" [ref=f8e1050] [cursor=pointer]:
+                    - /url: /company/careers/details/27022
+                - cell "San Francisco or Remote" [ref=f8e1051]
+        - generic [ref=f8e1052]:
+          - heading "Other" [level=3] [ref=f8e1053]
+          - table [ref=f8e1054]:
+            - rowgroup [ref=f8e1055]:
+              - row [ref=f8e1056]:
+                - columnheader "Position" [ref=f8e1057]
+                - columnheader "Location" [ref=f8e1058]
+            - rowgroup [ref=f8e1059]:
+              - row [ref=f8e1060]:
+                - cell [ref=f8e1061]:
+                  - link "Lead Product Designer" [ref=f8e1062] [cursor=pointer]:
+                    - /url: /company/careers/details/27574
+                - cell "Sydney or Remote" [ref=f8e1063]
+              - row [ref=f8e1064]:
+                - cell [ref=f8e1065]:
+                  - link "Principal Product Designer, Studio" [ref=f8e1066] [cursor=pointer]:
+                    - /url: /company/careers/details/27427
+                - cell "Sydney or Remote" [ref=f8e1067]
+              - row [ref=f8e1068]:
+                - cell [ref=f8e1069]:
+                  - link "Sr. Business Process Partner, Sales Process & Productivity" [ref=f8e1070] [cursor=pointer]:
+                    - /url: /company/careers/details/27341
+                - cell "Remote or Remote" [ref=f8e1071]
+              - row [ref=f8e1072]:
+                - cell [ref=f8e1073]:
+                  - link "Principal Strategist, Sales & Success Strategy" [ref=f8e1074] [cursor=pointer]:
+                    - /url: /company/careers/details/27414
+                - cell "Seattle or Remote" [ref=f8e1075]
+              - row [ref=f8e1076]:
+                - cell [ref=f8e1077]:
+                  - link "Risk and Compliance Senior Manager" [ref=f8e1078] [cursor=pointer]:
+                    - /url: /company/careers/details/26665
+                - cell "San Francisco or Remote" [ref=f8e1079]
+              - row [ref=f8e1080]:
+                - cell [ref=f8e1081]:
+                  - link "Principal Product Designer, DX" [ref=f8e1082] [cursor=pointer]:
+                    - /url: /company/careers/details/27399
+                - cell "Salt Lake City or Remote" [ref=f8e1083]
+              - row [ref=f8e1084]:
+                - cell [ref=f8e1085]:
+                  - link "Strategy and Business Operations Principal - Rovo and AI" [ref=f8e1086] [cursor=pointer]:
+                    - /url: /company/careers/details/27486
+                - cell "San Francisco or Remote" [ref=f8e1087]
+              - row [ref=f8e1088]:
+                - cell [ref=f8e1089]:
+                  - link "Lead Product Designer, AI" [ref=f8e1090] [cursor=pointer]:
+                    - /url: /company/careers/details/27441
+                - cell "San Francisco or Remote" [ref=f8e1091]
+        - generic [ref=f8e1092]:
+          - heading "People" [level=3] [ref=f8e1093]
+          - table [ref=f8e1094]:
+            - rowgroup [ref=f8e1095]:
+              - row [ref=f8e1096]:
+                - columnheader "Position" [ref=f8e1097]
+                - columnheader "Location" [ref=f8e1098]
+            - rowgroup [ref=f8e1099]:
+              - row [ref=f8e1100]:
+                - cell [ref=f8e1101]:
+                  - link "Employee Relations Partner" [ref=f8e1102] [cursor=pointer]:
+                    - /url: /company/careers/details/27638
+                - cell "San Francisco or Remote" [ref=f8e1103]
+        - generic [ref=f8e1104]:
+          - heading "Product Management" [level=3] [ref=f8e1105]
+          - table [ref=f8e1106]:
+            - rowgroup [ref=f8e1107]:
+              - row [ref=f8e1108]:
+                - columnheader "Position" [ref=f8e1109]
+                - columnheader "Location" [ref=f8e1110]
+            - rowgroup [ref=f8e1111]:
+              - row [ref=f8e1112]:
+                - cell [ref=f8e1113]:
+                  - link "Group Product Manager, Global Experiences Platform" [ref=f8e1114] [cursor=pointer]:
+                    - /url: /company/careers/details/28403
+                - cell "Seattle or Remote" [ref=f8e1115]
+              - row [ref=f8e1116]:
+                - cell [ref=f8e1117]:
+                  - link "Senior Principal Outbound Product Manager, Service Collection" [ref=f8e1118] [cursor=pointer]:
+                    - /url: /company/careers/details/27426
+                - cell "Seattle or Remote" [ref=f8e1119]
+              - row [ref=f8e1120]:
+                - cell [ref=f8e1121]:
+                  - link "Principal Product Manager, Usage Based Pricing" [ref=f8e1122] [cursor=pointer]:
+                    - /url: /company/careers/details/26958
+                - cell "San Francisco or Remote" [ref=f8e1123]
+              - row [ref=f8e1124]:
+                - cell [ref=f8e1125]:
+                  - link "Senior Director - (IC) Product Manager, AI" [ref=f8e1126] [cursor=pointer]:
+                    - /url: /company/careers/details/27205
+                - cell "San Francisco or Remote" [ref=f8e1127]
+              - row [ref=f8e1128]:
+                - cell [ref=f8e1129]:
+                  - link "Senior Product Manager, DX - Data Platform and Integrations" [ref=f8e1130] [cursor=pointer]:
+                    - /url: /company/careers/details/26663
+                - cell "Salt Lake City or Remote" [ref=f8e1131]
+              - row [ref=f8e1132]:
+                - cell [ref=f8e1133]:
+                  - link "Principal Product Manager, Confluence Aggregation" [ref=f8e1134] [cursor=pointer]:
+                    - /url: /company/careers/details/27291
+                - cell "San Francisco or Remote" [ref=f8e1135]
+              - row [ref=f8e1136]:
+                - cell [ref=f8e1137]:
+                  - link "Principal Product Manager, Product Collection Growth" [ref=f8e1138] [cursor=pointer]:
+                    - /url: /company/careers/details/27621
+                - cell "Gdańsk or Remote" [ref=f8e1139]
+              - row [ref=f8e1140]:
+                - cell [ref=f8e1141]:
+                  - link "Senior Product Manager - Forge (Developer Platform)" [ref=f8e1142] [cursor=pointer]:
+                    - /url: /company/careers/details/27274
+                - cell "Bengaluru or Remote" [ref=f8e1143]
+              - row [ref=f8e1144]:
+                - cell [ref=f8e1145]:
+                  - link "Product Manager, Atlassian Government Cloud" [ref=f8e1146] [cursor=pointer]:
+                    - /url: /company/careers/details/27433
+                - cell "Seattle or Remote" [ref=f8e1147]
+              - row [ref=f8e1148]:
+                - cell [ref=f8e1149]:
+                  - link "Senior Product Manager - IT Operations" [ref=f8e1150] [cursor=pointer]:
+                    - /url: /company/careers/details/27326
+                - cell "Bengaluru or Remote" [ref=f8e1151]
+              - row [ref=f8e1152]:
+                - cell [ref=f8e1153]:
+                  - link "Principal Product Manager (CMK/Encryption Platform)" [ref=f8e1154] [cursor=pointer]:
+                    - /url: /company/careers/details/27197
+                - cell "Bengaluru or Remote" [ref=f8e1155]
+        - generic [ref=f8e1156]:
+          - heading "Program Management" [level=3] [ref=f8e1157]
+          - table [ref=f8e1158]:
+            - rowgroup [ref=f8e1159]:
+              - row [ref=f8e1160]:
+                - columnheader "Position" [ref=f8e1161]
+                - columnheader "Location" [ref=f8e1162]
+            - rowgroup [ref=f8e1163]:
+              - row [ref=f8e1164]:
+                - cell [ref=f8e1165]:
+                  - link "Principal Program Manager, Sales Strategy" [ref=f8e1166] [cursor=pointer]:
+                    - /url: /company/careers/details/27422
+                - cell "San Francisco or Remote" [ref=f8e1167]
+        - generic [ref=f8e1168]:
+          - heading "Sales" [level=3] [ref=f8e1169]
+          - table [ref=f8e1170]:
+            - rowgroup [ref=f8e1171]:
+              - row [ref=f8e1172]:
+                - columnheader "Position" [ref=f8e1173]
+                - columnheader "Location" [ref=f8e1174]
+            - rowgroup [ref=f8e1175]:
+              - row [ref=f8e1176]:
+                - cell [ref=f8e1177]:
+                  - link "Senior Manager, Implementation" [ref=f8e1178] [cursor=pointer]:
+                    - /url: /company/careers/details/28370
+                - cell "Sydney or Remote" [ref=f8e1179]
+              - row [ref=f8e1180]:
+                - cell [ref=f8e1181]:
+                  - link "Senior Solutions Consultant" [ref=f8e1182] [cursor=pointer]:
+                    - /url: /company/careers/details/28368
+                - cell "Sydney or Remote" [ref=f8e1183]
+              - row [ref=f8e1184]:
+                - cell [ref=f8e1185]:
+                  - link "Manager, Account Executive, Mid Market, ANZ" [ref=f8e1186] [cursor=pointer]:
+                    - /url: /company/careers/details/28302
+                - cell "Sydney" [ref=f8e1187]
+              - row [ref=f8e1188]:
+                - cell [ref=f8e1189]:
+                  - link "Solution Sales Executive, Strategy Collection" [ref=f8e1190] [cursor=pointer]:
+                    - /url: /company/careers/details/27751
+                - cell "Sydney" [ref=f8e1191]
+              - row [ref=f8e1192]:
+                - cell [ref=f8e1193]:
+                  - link "Enterprise Account Manager" [ref=f8e1194] [cursor=pointer]:
+                    - /url: /company/careers/details/27500
+                - cell "Sydney or Remote" [ref=f8e1195]
+              - row [ref=f8e1196]:
+                - cell [ref=f8e1197]:
+                  - link "Principal Consultant - Agile Scale" [ref=f8e1198] [cursor=pointer]:
+                    - /url: /company/careers/details/27314
+                - cell "Sydney or Remote" [ref=f8e1199]
+              - row [ref=f8e1200]:
+                - cell [ref=f8e1201]:
+                  - link "Revenue Enablement Readiness Manager - SDR" [ref=f8e1202] [cursor=pointer]:
+                    - /url: /company/careers/details/26823
+                - cell "San Francisco or Remote" [ref=f8e1203]
+              - row [ref=f8e1204]:
+                - cell [ref=f8e1205]:
+                  - link "Senior Solutions Architect" [ref=f8e1206] [cursor=pointer]:
+                    - /url: /company/careers/details/26323
+                - cell "Sydney or Remote" [ref=f8e1207]
+              - row [ref=f8e1208]:
+                - cell [ref=f8e1209]:
+                  - link "Senior Solutions Engineer, Strategic" [ref=f8e1210] [cursor=pointer]:
+                    - /url: /company/careers/details/25138
+                - cell "New York or Remote" [ref=f8e1211]
+              - row [ref=f8e1212]:
+                - cell [ref=f8e1213]:
+                  - link "Principal Revenue Enablement Readiness Manager - Solution Sales" [ref=f8e1214] [cursor=pointer]:
+                    - /url: /company/careers/details/27714
+                - cell "Mountain View or Remote" [ref=f8e1215]
+              - row [ref=f8e1216]:
+                - cell [ref=f8e1217]:
+                  - link "Senior Customer Success Architect (AI)" [ref=f8e1218] [cursor=pointer]:
+                    - /url: /company/careers/details/27514
+                - cell "San Francisco or Remote" [ref=f8e1219]
+              - row [ref=f8e1220]:
+                - cell [ref=f8e1221]:
+                  - link "Strategic Account Executive - Chicago" [ref=f8e1222] [cursor=pointer]:
+                    - /url: /company/careers/details/27417
+                - cell "New York or Remote" [ref=f8e1223]
+              - row [ref=f8e1224]:
+                - cell [ref=f8e1225]:
+                  - link "Senior Partner Marketing Manager, AMER GSI" [ref=f8e1226] [cursor=pointer]:
+                    - /url: /company/careers/details/27415
+                - cell [ref=f8e1227]
+              - row [ref=f8e1228]:
+                - cell [ref=f8e1229]:
+                  - link "Senior Solutions Engineer, Enterprise BLX & Spain" [ref=f8e1230] [cursor=pointer]:
+                    - /url: /company/careers/details/27293
+                - cell "Amsterdam or Remote" [ref=f8e1231]
+              - row [ref=f8e1232]:
+                - cell [ref=f8e1233]:
+                  - link "Customer Success Architect (AI)" [ref=f8e1234] [cursor=pointer]:
+                    - /url: /company/careers/details/27189
+                - cell "New York or Remote" [ref=f8e1235]
+              - row [ref=f8e1236]:
+                - cell [ref=f8e1237]:
+                  - link "Senior Solution Sales Executive, Strategy Collection - France" [ref=f8e1238] [cursor=pointer]:
+                    - /url: /company/careers/details/26817
+                - cell "Paris or Remote" [ref=f8e1239]
+              - row [ref=f8e1240]:
+                - cell [ref=f8e1241]:
+                  - link "Senior Solutions Architect" [ref=f8e1242] [cursor=pointer]:
+                    - /url: /company/careers/details/26716
+                - cell "Remote or Remote" [ref=f8e1243]
+              - row [ref=f8e1244]:
+                - cell [ref=f8e1245]:
+                  - link "Senior Sales Development Represenative | DX" [ref=f8e1246] [cursor=pointer]:
+                    - /url: /company/careers/details/26675
+                - cell "London or Remote" [ref=f8e1247]
+              - row [ref=f8e1248]:
+                - cell [ref=f8e1249]:
+                  - link "Senior Sales Development Representative | DX" [ref=f8e1250] [cursor=pointer]:
+                    - /url: /company/careers/details/26631
+                - cell "London or Remote" [ref=f8e1251]
+              - row [ref=f8e1252]:
+                - cell [ref=f8e1253]:
+                  - link "Senior Services Solutions Advocate" [ref=f8e1254] [cursor=pointer]:
+                    - /url: /company/careers/details/26250
+                - cell "Munich or Remote" [ref=f8e1255]
+              - row [ref=f8e1256]:
+                - cell [ref=f8e1257]:
+                  - link "Senior Account Executive, Enterprise - East & Central" [ref=f8e1258] [cursor=pointer]:
+                    - /url: /company/careers/details/25559
+                - cell "Remote or Remote" [ref=f8e1259]
+              - row [ref=f8e1260]:
+                - cell [ref=f8e1261]:
+                  - link "Sales Development Representative, Mid-Market" [ref=f8e1262] [cursor=pointer]:
+                    - /url: /company/careers/details/25360
+                - cell "London or Remote" [ref=f8e1263]
+              - row [ref=f8e1264]:
+                - cell [ref=f8e1265]:
+                  - link "Principal Solutions Engineer, Strategic (East & Central)" [ref=f8e1266] [cursor=pointer]:
+                    - /url: /company/careers/details/25274
+                - cell "Washington DC or Remote" [ref=f8e1267]
+              - row [ref=f8e1268]:
+                - cell [ref=f8e1269]:
+                  - link "Account Executive, Mid-Market DX DACH (German speaking)" [ref=f8e1270] [cursor=pointer]:
+                    - /url: /company/careers/details/26707
+                - cell "Remote or Remote" [ref=f8e1271]
+              - row [ref=f8e1272]:
+                - cell [ref=f8e1273]:
+                  - link "Senior Enterprise Solution Sales Executive - Teamwork, Enterprise AI" [ref=f8e1274] [cursor=pointer]:
+                    - /url: /company/careers/details/26290
+                - cell "London or Remote" [ref=f8e1275]
+              - row [ref=f8e1276]:
+                - cell [ref=f8e1277]:
+                  - link "Strategic Account Executive, DACH telco (German speaking)" [ref=f8e1278] [cursor=pointer]:
+                    - /url: /company/careers/details/26013
+                - cell "Munich or Remote" [ref=f8e1279]
+              - row [ref=f8e1280]:
+                - cell [ref=f8e1281]:
+                  - link "Strategic Account Executive, DACH manufacturing/automotive (German speaking)" [ref=f8e1282] [cursor=pointer]:
+                    - /url: /company/careers/details/25556
+                - cell "Munich or Remote" [ref=f8e1283]
+              - row [ref=f8e1284]:
+                - cell [ref=f8e1285]:
+                  - link "Account Executive, Mid-Market Benelux | DX (Dutch speaking)" [ref=f8e1286] [cursor=pointer]:
+                    - /url: /company/careers/details/24831
+                - cell "Amsterdam or Remote" [ref=f8e1287]
+              - row [ref=f8e1288]:
+                - cell [ref=f8e1289]:
+                  - link "Account Executive, Mid-Market, Nordics" [ref=f8e1290] [cursor=pointer]:
+                    - /url: /company/careers/details/27329
+                - cell "London or Remote" [ref=f8e1291]
+              - row [ref=f8e1292]:
+                - cell [ref=f8e1293]:
+                  - link "Field CTO - APAC Region" [ref=f8e1294] [cursor=pointer]:
+                    - /url: /company/careers/details/27280
+                - cell "Remote or Remote" [ref=f8e1295]
+              - row [ref=f8e1296]:
+                - cell [ref=f8e1297]:
+                  - link "Senior Partner Solutions Architect - Cloud Platform" [ref=f8e1298] [cursor=pointer]:
+                    - /url: /company/careers/details/27278
+                - cell "San Francisco or Remote" [ref=f8e1299]
+              - row [ref=f8e1300]:
+                - cell [ref=f8e1301]:
+                  - link "Manager, Enterprise Sales | DX" [ref=f8e1302] [cursor=pointer]:
+                    - /url: /company/careers/details/26709
+                - cell "Remote or Remote" [ref=f8e1303]
+              - row [ref=f8e1304]:
+                - cell [ref=f8e1305]:
+                  - link "Senior Manager, Strategic Sales | DX" [ref=f8e1306] [cursor=pointer]:
+                    - /url: /company/careers/details/25734
+                - cell "Salt Lake City or Remote" [ref=f8e1307]
+              - row [ref=f8e1308]:
+                - cell [ref=f8e1309]:
+                  - link "Solution Sales Executive, Service Collection (ITSM/ESM) - Spanish speaking" [ref=f8e1310] [cursor=pointer]:
+                    - /url: /company/careers/details/25258
+                - cell "Remote or Remote" [ref=f8e1311]
+              - row [ref=f8e1312]:
+                - cell [ref=f8e1313]:
+                  - link "Manager, Solution Sales, Service Collection" [ref=f8e1314] [cursor=pointer]:
+                    - /url: /company/careers/details/25229
+                - cell "San Francisco or Remote" [ref=f8e1315]
+              - row [ref=f8e1316]:
+                - cell [ref=f8e1317]:
+                  - link "Senior Solution Sales Executive, Service Collection (ITSM/ESM/CX), France" [ref=f8e1318] [cursor=pointer]:
+                    - /url: /company/careers/details/25082
+                - cell "Paris or Remote" [ref=f8e1319]
+              - row [ref=f8e1320]:
+                - cell [ref=f8e1321]:
+                  - link "Senior Account Executive Mid-Market, Benelux" [ref=f8e1322] [cursor=pointer]:
+                    - /url: /company/careers/details/28785
+                - cell "London or Remote" [ref=f8e1323]
+              - row [ref=f8e1324]:
+                - cell [ref=f8e1325]:
+                  - link "Manager, Deal Operations (EMEA)" [ref=f8e1326] [cursor=pointer]:
+                    - /url: /company/careers/details/27693
+                - cell "London or Remote" [ref=f8e1327]
+              - row [ref=f8e1328]:
+                - cell [ref=f8e1329]:
+                  - link "Account Executive SMB - EMEA" [ref=f8e1330] [cursor=pointer]:
+                    - /url: /company/careers/details/28033
+                - cell "London or Remote" [ref=f8e1331]
+              - row [ref=f8e1332]:
+                - cell [ref=f8e1333]:
+                  - link "Account Executive Manager, SMB - EMEA" [ref=f8e1334] [cursor=pointer]:
+                    - /url: /company/careers/details/28029
+                - cell "London or Remote" [ref=f8e1335]
+              - row [ref=f8e1336]:
+                - cell [ref=f8e1337]:
+                  - link "Senior Customer Success Manager, Mid Market" [ref=f8e1338] [cursor=pointer]:
+                    - /url: /company/careers/details/27402
+                - cell "Austin or Remote" [ref=f8e1339]
+              - row [ref=f8e1340]:
+                - cell [ref=f8e1341]:
+                  - link "Senior Manager, Strategic Sales | DX" [ref=f8e1342] [cursor=pointer]:
+                    - /url: /company/careers/details/26678
+                - cell "San Francisco or Remote" [ref=f8e1343]
+              - row [ref=f8e1344]:
+                - cell [ref=f8e1345]:
+                  - link "Manager, Strategic Account Management (German speaking)" [ref=f8e1346] [cursor=pointer]:
+                    - /url: /company/careers/details/27513
+                - cell "London or Remote" [ref=f8e1347]
+              - row [ref=f8e1348]:
+                - cell [ref=f8e1349]:
+                  - link "Senior Solutions Architect | DX" [ref=f8e1350] [cursor=pointer]:
+                    - /url: /company/careers/details/24713
+                - cell "London or Remote" [ref=f8e1351]
+              - row [ref=f8e1352]:
+                - cell [ref=f8e1353]:
+                  - link "Inside Sales Representative" [ref=f8e1354] [cursor=pointer]:
+                    - /url: /company/careers/details/27791
+                - cell "Manila or Remote" [ref=f8e1355]
+              - row [ref=f8e1356]:
+                - cell [ref=f8e1357]:
+                  - link "Solution Sales Executive, Service Collection, Nordics" [ref=f8e1358] [cursor=pointer]:
+                    - /url: /company/careers/details/27664
+                - cell "London" [ref=f8e1359]
+              - row [ref=f8e1360]:
+                - cell [ref=f8e1361]:
+                  - link "Senior Solution Consultant, Strategy Collection" [ref=f8e1362] [cursor=pointer]:
+                    - /url: /company/careers/details/27550
+                - cell "New York or Remote" [ref=f8e1363]
+              - row [ref=f8e1364]:
+                - cell [ref=f8e1365]:
+                  - link "Senior Partner Solutions Architect - ITSM" [ref=f8e1366] [cursor=pointer]:
+                    - /url: /company/careers/details/27392
+                - cell "Singapore or Remote" [ref=f8e1367]
+              - row [ref=f8e1368]:
+                - cell [ref=f8e1369]:
+                  - link "Principal CSM, Strategic (Korean Speaking)" [ref=f8e1370] [cursor=pointer]:
+                    - /url: /company/careers/details/27196
+                - cell "Seoul or Remote" [ref=f8e1371]
+              - row [ref=f8e1372]:
+                - cell [ref=f8e1373]:
+                  - link "Senior Solutions Engineer | DX" [ref=f8e1374] [cursor=pointer]:
+                    - /url: /company/careers/details/26989
+                - cell "New York or Remote" [ref=f8e1375]
+              - row [ref=f8e1376]:
+                - cell [ref=f8e1377]:
+                  - link "Account Executive, Strategic | DX" [ref=f8e1378] [cursor=pointer]:
+                    - /url: /company/careers/details/26831
+                - cell "Salt Lake City or Remote" [ref=f8e1379]
+              - row [ref=f8e1380]:
+                - cell [ref=f8e1381]:
+                  - link "Account Executive, Strategic | DX" [ref=f8e1382] [cursor=pointer]:
+                    - /url: /company/careers/details/26830
+                - cell "Salt Lake City or Remote" [ref=f8e1383]
+              - row [ref=f8e1384]:
+                - cell [ref=f8e1385]:
+                  - link "Sales Development Representative | DX" [ref=f8e1386] [cursor=pointer]:
+                    - /url: /company/careers/details/25549
+                - cell "Salt Lake City" [ref=f8e1387]
+              - row [ref=f8e1388]:
+                - cell [ref=f8e1389]:
+                  - link "Sales Development Representative, Mid-Market JSM DACH" [ref=f8e1390] [cursor=pointer]:
+                    - /url: /company/careers/details/25398
+                - cell "London or Remote" [ref=f8e1391]
+              - row [ref=f8e1392]:
+                - cell [ref=f8e1393]:
+                  - link "Sales Development Representative, Strategic" [ref=f8e1394] [cursor=pointer]:
+                    - /url: /company/careers/details/27564
+                - cell "London or Remote" [ref=f8e1395]
+              - row [ref=f8e1396]:
+                - cell [ref=f8e1397]:
+                  - link "Sales Development Representative, Strategic DACH" [ref=f8e1398] [cursor=pointer]:
+                    - /url: /company/careers/details/27505
+                - cell "London or Remote" [ref=f8e1399]
+              - row [ref=f8e1400]:
+                - cell [ref=f8e1401]:
+                  - link "Customer Success Manager, Mid Market" [ref=f8e1402] [cursor=pointer]:
+                    - /url: /company/careers/details/27401
+                - cell "New York or Remote" [ref=f8e1403]
+              - row [ref=f8e1404]:
+                - cell [ref=f8e1405]:
+                  - link "Principal Solutions Architect | DX" [ref=f8e1406] [cursor=pointer]:
+                    - /url: /company/careers/details/26318
+                - cell "Salt Lake City or Remote" [ref=f8e1407]
+              - row [ref=f8e1408]:
+                - cell [ref=f8e1409]:
+                  - link "Customer Success Manager, Spanish & English" [ref=f8e1410] [cursor=pointer]:
+                    - /url: /company/careers/details/26236
+                - cell "San Francisco or Remote" [ref=f8e1411]
+              - row [ref=f8e1412]:
+                - cell [ref=f8e1413]:
+                  - link "Account Executive, Mid Market Central" [ref=f8e1414] [cursor=pointer]:
+                    - /url: /company/careers/details/25522
+                - cell "Austin or Remote" [ref=f8e1415]
+              - row [ref=f8e1416]:
+                - cell [ref=f8e1417]:
+                  - link "Account Executive, Mid Market" [ref=f8e1418] [cursor=pointer]:
+                    - /url: /company/careers/details/25482
+                - cell "Remote or Remote" [ref=f8e1419]
+              - row [ref=f8e1420]:
+                - cell [ref=f8e1421]:
+                  - link "Account Executive, Mid Market Canada" [ref=f8e1422] [cursor=pointer]:
+                    - /url: /company/careers/details/25370
+                - cell "Canada" [ref=f8e1423]
+              - row [ref=f8e1424]:
+                - cell [ref=f8e1425]:
+                  - link "Deal Manager (Enterprise), EMEA" [ref=f8e1426] [cursor=pointer]:
+                    - /url: /company/careers/details/27801
+                - cell "London or Remote" [ref=f8e1427]
+              - row [ref=f8e1428]:
+                - cell [ref=f8e1429]:
+                  - link "Global GTM Lead, Teamwork Collection – Mid-Market" [ref=f8e1430] [cursor=pointer]:
+                    - /url: /company/careers/details/27480
+                - cell "Remote or Remote" [ref=f8e1431]
+              - row [ref=f8e1432]:
+                - cell [ref=f8e1433]:
+                  - link "Account Executive" [ref=f8e1434] [cursor=pointer]:
+                    - /url: /company/careers/details/27339
+                - cell "Manila" [ref=f8e1435]
+              - row [ref=f8e1436]:
+                - cell [ref=f8e1437]:
+                  - link "Solutions Engineer, ITSM" [ref=f8e1438] [cursor=pointer]:
+                    - /url: /company/careers/details/26979
+                - cell "San Francisco or Remote" [ref=f8e1439]
+              - row [ref=f8e1440]:
+                - cell [ref=f8e1441]:
+                  - link "Senior Solutions Engineer, Enterprise - LATAM" [ref=f8e1442] [cursor=pointer]:
+                    - /url: /company/careers/details/25994
+                - cell "Remote or Remote" [ref=f8e1443]
+              - row [ref=f8e1444]:
+                - cell [ref=f8e1445]:
+                  - link "Senior Solution Consultant, Teamwork Foundations + AI" [ref=f8e1446] [cursor=pointer]:
+                    - /url: /company/careers/details/25307
+                - cell "Remote or Remote" [ref=f8e1447]
+              - row [ref=f8e1448]:
+                - cell [ref=f8e1449]:
+                  - link "Senior Onboarding Success Manager, TWC" [ref=f8e1450] [cursor=pointer]:
+                    - /url: /company/careers/details/25062
+                - cell "Bengaluru or Remote" [ref=f8e1451]
+              - row [ref=f8e1452]:
+                - cell [ref=f8e1453]:
+                  - link "Sales Development Manager, DX" [ref=f8e1454] [cursor=pointer]:
+                    - /url: /company/careers/details/26333
+                - cell "London or Remote" [ref=f8e1455]
+              - row [ref=f8e1456]:
+                - cell [ref=f8e1457]:
+                  - link "Readiness Enablement Manager - EMEA" [ref=f8e1458] [cursor=pointer]:
+                    - /url: /company/careers/details/27541
+                - cell "London or Remote" [ref=f8e1459]
+              - row [ref=f8e1460]:
+                - cell [ref=f8e1461]:
+                  - link "Manager, Customer Success, Enterprise - DACH (German Speaking)" [ref=f8e1462] [cursor=pointer]:
+                    - /url: /company/careers/details/27325
+                - cell "Munich or Remote" [ref=f8e1463]
+              - row [ref=f8e1464]:
+                - cell [ref=f8e1465]:
+                  - link "Senior Manager, Customer Success, Strategic - DACH (German Speaking)" [ref=f8e1466] [cursor=pointer]:
+                    - /url: /company/careers/details/27195
+                - cell "Munich or Remote" [ref=f8e1467]
+              - row [ref=f8e1468]:
+                - cell [ref=f8e1469]:
+                  - link "Renewals Manager, Mid-Market, Renewals (Dutch speaking)" [ref=f8e1470] [cursor=pointer]:
+                    - /url: /company/careers/details/27508
+                - cell "London or Remote" [ref=f8e1471]
+              - row [ref=f8e1472]:
+                - cell [ref=f8e1473]:
+                  - link "Senior Partner Solutions Architect - ITSM/ESM" [ref=f8e1474] [cursor=pointer]:
+                    - /url: /company/careers/details/27091
+                - cell "London or Remote" [ref=f8e1475]
+              - row [ref=f8e1476]:
+                - cell [ref=f8e1477]:
+                  - link "Senior Solutions Engineer, Mid-Market (East & Central)" [ref=f8e1478] [cursor=pointer]:
+                    - /url: /company/careers/details/27713
+                - cell "New York or Remote" [ref=f8e1479]
+              - row [ref=f8e1480]:
+                - cell [ref=f8e1481]:
+                  - link "Sales Executive" [ref=f8e1482] [cursor=pointer]:
+                    - /url: /company/careers/details/27428
+                - cell "Manila or Remote" [ref=f8e1483]
+              - row [ref=f8e1484]:
+                - cell [ref=f8e1485]:
+                  - link "Head of APAC Sales, DX" [ref=f8e1486] [cursor=pointer]:
+                    - /url: /company/careers/details/26710
+                - cell "Singapore or Remote" [ref=f8e1487]
+              - row [ref=f8e1488]:
+                - cell [ref=f8e1489]:
+                  - link "Account Executive, Mid Market | DX" [ref=f8e1490] [cursor=pointer]:
+                    - /url: /company/careers/details/26075
+                - cell "Remote or Remote" [ref=f8e1491]
+              - row [ref=f8e1492]:
+                - cell [ref=f8e1493]:
+                  - link "Senior Manager, Customer Success Architects, EMEA" [ref=f8e1494] [cursor=pointer]:
+                    - /url: /company/careers/details/27645
+                - cell "London or Remote" [ref=f8e1495]
+              - row [ref=f8e1496]:
+                - cell [ref=f8e1497]:
+                  - link "Solutions Engineering Manager | DX" [ref=f8e1498] [cursor=pointer]:
+                    - /url: /company/careers/details/27360
+                - cell "New York or Remote" [ref=f8e1499]
+              - row [ref=f8e1500]:
+                - cell [ref=f8e1501]:
+                  - link "Senior Account Executive, Enterprise - West" [ref=f8e1502] [cursor=pointer]:
+                    - /url: /company/careers/details/25759
+                - cell "Remote or Remote" [ref=f8e1503]
+              - row [ref=f8e1504]:
+                - cell [ref=f8e1505]:
+                  - link "Senior Manager, Solutions Engineering Strategic EMEA - France (French Speaking)" [ref=f8e1506] [cursor=pointer]:
+                    - /url: /company/careers/details/27709
+                - cell "Paris or Remote" [ref=f8e1507]
+              - row [ref=f8e1508]:
+                - cell [ref=f8e1509]:
+                  - link "Principal Solutions Engineer, Strategic France (French Speaking)" [ref=f8e1510] [cursor=pointer]:
+                    - /url: /company/careers/details/26034
+                - cell "Paris or Remote" [ref=f8e1511]
+              - row [ref=f8e1512]:
+                - cell [ref=f8e1513]:
+                  - link "Solutions Engineer, SMB EMEA" [ref=f8e1514] [cursor=pointer]:
+                    - /url: /company/careers/details/27483
+                - cell "Remote or Remote" [ref=f8e1515]
+              - row [ref=f8e1516]:
+                - cell [ref=f8e1517]:
+                  - link "EMEA Solutions Engineering Manager | DX" [ref=f8e1518] [cursor=pointer]:
+                    - /url: /company/careers/details/26840
+                - cell "London or Remote" [ref=f8e1519]
+              - row [ref=f8e1520]:
+                - cell [ref=f8e1521]:
+                  - link "Principal Customer Success Manager, Strategic - France" [ref=f8e1522] [cursor=pointer]:
+                    - /url: /company/careers/details/26241
+                - cell "Paris or Remote" [ref=f8e1523]
+              - row [ref=f8e1524]:
+                - cell [ref=f8e1525]:
+                  - link "Account Executive, Mid-Market West" [ref=f8e1526] [cursor=pointer]:
+                    - /url: /company/careers/details/25537
+                - cell "San Francisco or Remote" [ref=f8e1527]
+              - row [ref=f8e1528]:
+                - cell [ref=f8e1529]:
+                  - link "Associate Solutions Engineer - SMB+" [ref=f8e1530] [cursor=pointer]:
+                    - /url: /company/careers/details/27724
+                - cell "Manila or Remote" [ref=f8e1531]
+              - row [ref=f8e1532]:
+                - cell [ref=f8e1533]:
+                  - link "Account Manager, Strategic (French Speaking)" [ref=f8e1534] [cursor=pointer]:
+                    - /url: /company/careers/details/27701
+                - cell "London or Remote" [ref=f8e1535]
+              - row [ref=f8e1536]:
+                - cell [ref=f8e1537]:
+                  - link "Account Manager, Enterprise (Public Sector DACH)" [ref=f8e1538] [cursor=pointer]:
+                    - /url: /company/careers/details/27502
+                - cell "London or Remote" [ref=f8e1539]
+              - row [ref=f8e1540]:
+                - cell [ref=f8e1541]:
+                  - link "Customer Success Architect (AI), EMEA" [ref=f8e1542] [cursor=pointer]:
+                    - /url: /company/careers/details/26380
+                - cell "London or Remote" [ref=f8e1543]
+              - row [ref=f8e1544]:
+                - cell [ref=f8e1545]:
+                  - link "Customer Success Manager, Mid-Market EMEA | DX" [ref=f8e1546] [cursor=pointer]:
+                    - /url: /company/careers/details/26306
+                - cell "London or Remote" [ref=f8e1547]
+              - row [ref=f8e1548]:
+                - cell [ref=f8e1549]:
+                  - link "Key Account Manager DACH (German speaking)" [ref=f8e1550] [cursor=pointer]:
+                    - /url: /company/careers/details/25376
+                - cell "London or Remote" [ref=f8e1551]
+              - row [ref=f8e1552]:
+                - cell [ref=f8e1553]:
+                  - link "Strategic Solutions Sales Executive, ITSM/ESM Southern Europe" [ref=f8e1554] [cursor=pointer]:
+                    - /url: /company/careers/details/25170
+                - cell "Paris or Remote" [ref=f8e1555]
+              - row [ref=f8e1556]:
+                - cell [ref=f8e1557]:
+                  - link "Strategic Solutions Sales Executive, ITSM/ESM DACH" [ref=f8e1558] [cursor=pointer]:
+                    - /url: /company/careers/details/25169
+                - cell "Munich or Remote" [ref=f8e1559]
+              - row [ref=f8e1560]:
+                - cell [ref=f8e1561]:
+                  - link "Solution Sales Executive - Service Collection (India)" [ref=f8e1562] [cursor=pointer]:
+                    - /url: /company/careers/details/25689
+                - cell "Remote or Remote" [ref=f8e1563]
+              - row [ref=f8e1564]:
+                - cell [ref=f8e1565]:
+                  - link "Manager, AMER - Teamwork Collection | Enterprise Solutions" [ref=f8e1566] [cursor=pointer]:
+                    - /url: /company/careers/details/27498
+                - cell "New York or Remote" [ref=f8e1567]
+              - row [ref=f8e1568]:
+                - cell [ref=f8e1569]:
+                  - link "Solution Sales Executive, TWC" [ref=f8e1570] [cursor=pointer]:
+                    - /url: /company/careers/details/27411
+                - cell "New York or Remote" [ref=f8e1571]
+              - row [ref=f8e1572]:
+                - cell [ref=f8e1573]:
+                  - link "Account Executive, DX Strategic - DACH (German Speaking)" [ref=f8e1574] [cursor=pointer]:
+                    - /url: /company/careers/details/27066
+                - cell "London or Remote" [ref=f8e1575]
+              - row [ref=f8e1576]:
+                - cell [ref=f8e1577]:
+                  - link "(Senior) Solutions Engineer, Mid-Market France (French speaking)" [ref=f8e1578] [cursor=pointer]:
+                    - /url: /company/careers/details/27715
+                - cell "Paris or Remote" [ref=f8e1579]
+              - row [ref=f8e1580]:
+                - cell [ref=f8e1581]:
+                  - link "Head of Deal Desk, APAC" [ref=f8e1582] [cursor=pointer]:
+                    - /url: /company/careers/details/25536
+                - cell "Singapore or Remote" [ref=f8e1583]
+              - row [ref=f8e1584]:
+                - cell [ref=f8e1585]:
+                  - link "Senior Manager, Solutions Engineering Strategic EMEA - DACH (German Speaking)" [ref=f8e1586] [cursor=pointer]:
+                    - /url: /company/careers/details/27067
+                - cell "Munich or Remote" [ref=f8e1587]
+              - row [ref=f8e1588]:
+                - cell [ref=f8e1589]:
+                  - link "Associate Customer Success Manager" [ref=f8e1590] [cursor=pointer]:
+                    - /url: /company/careers/details/27063
+                - cell "Salt Lake City" [ref=f8e1591]
+              - row [ref=f8e1592]:
+                - cell [ref=f8e1593]:
+                  - link "Enterprise Customer Success Manager, DX" [ref=f8e1594] [cursor=pointer]:
+                    - /url: /company/careers/details/27793
+                - cell "New York or Remote" [ref=f8e1595]
+              - row [ref=f8e1596]:
+                - cell [ref=f8e1597]:
+                  - link "Commercial Customer Success Manager, DX" [ref=f8e1598] [cursor=pointer]:
+                    - /url: /company/careers/details/27792
+                - cell "Salt Lake City or Remote" [ref=f8e1599]
+              - row [ref=f8e1600]:
+                - cell [ref=f8e1601]:
+                  - link "Customer Success Manager, DX" [ref=f8e1602] [cursor=pointer]:
+                    - /url: /company/careers/details/26305
+                - cell "San Francisco or Remote" [ref=f8e1603]
+              - row [ref=f8e1604]:
+                - cell [ref=f8e1605]:
+                  - link "Strategic Account Executive, Benelux/Nordics" [ref=f8e1606] [cursor=pointer]:
+                    - /url: /company/careers/details/27335
+                - cell "Amsterdam or Remote" [ref=f8e1607]
+              - row [ref=f8e1608]:
+                - cell [ref=f8e1609]:
+                  - link "Account Executive, Mid-Market UKI" [ref=f8e1610] [cursor=pointer]:
+                    - /url: /company/careers/details/25089
+                - cell "London or Remote" [ref=f8e1611]
+              - row [ref=f8e1612]:
+                - cell [ref=f8e1613]:
+                  - link "Strategic Solution Sales Executive, Strategy Collection - UKI" [ref=f8e1614] [cursor=pointer]:
+                    - /url: /company/careers/details/27379
+                - cell "London or Remote" [ref=f8e1615]
+              - row [ref=f8e1616]:
+                - cell [ref=f8e1617]:
+                  - link "Manager, Customer Success Architects (AI)" [ref=f8e1618] [cursor=pointer]:
+                    - /url: /company/careers/details/26995
+                - cell "Austin or Remote" [ref=f8e1619]
+              - row [ref=f8e1620]:
+                - cell [ref=f8e1621]:
+                  - link "Senior Customer Success Manager, Enterprise - France (French Speaking)" [ref=f8e1622] [cursor=pointer]:
+                    - /url: /company/careers/details/27301
+                - cell "Paris or Remote" [ref=f8e1623]
+              - row [ref=f8e1624]:
+                - cell [ref=f8e1625]:
+                  - link "Account Executive, Public Sector - State and Local Government (West)" [ref=f8e1626] [cursor=pointer]:
+                    - /url: /company/careers/details/25829
+                - cell "Washington DC or Remote" [ref=f8e1627]
+              - row [ref=f8e1628]:
+                - cell [ref=f8e1629]:
+                  - link "Enterprise Customer Success Manager, DX" [ref=f8e1630] [cursor=pointer]:
+                    - /url: /company/careers/details/26315
+                - cell "London or Remote" [ref=f8e1631]
+              - row [ref=f8e1632]:
+                - cell [ref=f8e1633]:
+                  - link "Principal Customer Success Manager, Public Sector & Enterprise - BLX & Nord (Dutch speaking)" [ref=f8e1634] [cursor=pointer]:
+                    - /url: /company/careers/details/26058
+                - cell "Remote or Remote" [ref=f8e1635]
+              - row [ref=f8e1636]:
+                - cell [ref=f8e1637]:
+                  - link "Principal Customer Success Manager, Public Sector UKI" [ref=f8e1638] [cursor=pointer]:
+                    - /url: /company/careers/details/26042
+                - cell "Remote or Remote" [ref=f8e1639]
+              - row [ref=f8e1640]:
+                - cell [ref=f8e1641]:
+                  - link "Solution Consultant, Data Center & Cloud Platform" [ref=f8e1642] [cursor=pointer]:
+                    - /url: /company/careers/details/27563
+                - cell "Washington DC or Remote" [ref=f8e1643]
+              - row [ref=f8e1644]:
+                - cell [ref=f8e1645]:
+                  - link "Account Executive, DX Enterprise, EMEA" [ref=f8e1646] [cursor=pointer]:
+                    - /url: /company/careers/details/25730
+                - cell "London or Remote" [ref=f8e1647]
+              - row [ref=f8e1648]:
+                - cell [ref=f8e1649]:
+                  - link "Customer Program Manager | DX" [ref=f8e1650] [cursor=pointer]:
+                    - /url: /company/careers/details/27700
+                - cell "Remote or Remote" [ref=f8e1651]
+              - row [ref=f8e1652]:
+                - cell [ref=f8e1653]:
+                  - link "Senior Solutions Engineer, ITSM, DACH" [ref=f8e1654] [cursor=pointer]:
+                    - /url: /company/careers/details/27299
+                - cell "Munich or Remote" [ref=f8e1655]
+              - row [ref=f8e1656]:
+                - cell [ref=f8e1657]:
+                  - link "Account Executive, Mid-Market Southern Europe" [ref=f8e1658] [cursor=pointer]:
+                    - /url: /company/careers/details/27162
+                - cell "London or Remote" [ref=f8e1659]
+              - row [ref=f8e1660]:
+                - cell [ref=f8e1661]:
+                  - link "Manager, Account Executives, Mid-Market" [ref=f8e1662] [cursor=pointer]:
+                    - /url: /company/careers/details/25611
+                - cell "Remote or Remote" [ref=f8e1663]
+              - row [ref=f8e1664]:
+                - cell [ref=f8e1665]:
+                  - link "Account Executive, Mid Market DACH" [ref=f8e1666] [cursor=pointer]:
+                    - /url: /company/careers/details/27368
+                - cell "London or Remote" [ref=f8e1667]
+              - row [ref=f8e1668]:
+                - cell [ref=f8e1669]:
+                  - link "Mid Market Sales Manager, UKI" [ref=f8e1670] [cursor=pointer]:
+                    - /url: /company/careers/details/26760
+                - cell "London or Remote" [ref=f8e1671]
+              - row [ref=f8e1672]:
+                - cell [ref=f8e1673]:
+                  - link "Digital Success Manager" [ref=f8e1674] [cursor=pointer]:
+                    - /url: /company/careers/details/26053
+                - cell "London or Remote" [ref=f8e1675]
+              - row [ref=f8e1676]:
+                - cell [ref=f8e1677]:
+                  - link "Senior Solution Sales Executive, Service Collection CEE (Polish/Czech Speaking)" [ref=f8e1678] [cursor=pointer]:
+                    - /url: /company/careers/details/26231
+                - cell "Remote or Remote" [ref=f8e1679]
+              - row [ref=f8e1680]:
+                - cell [ref=f8e1681]:
+                  - link "Senior Solution Consultant, Cloud Platform and AI" [ref=f8e1682] [cursor=pointer]:
+                    - /url: /company/careers/details/27413
+                - cell "San Francisco or Remote" [ref=f8e1683]
+              - row [ref=f8e1684]:
+                - cell [ref=f8e1685]:
+                  - link "Strategic Account Executive - West" [ref=f8e1686] [cursor=pointer]:
+                    - /url: /company/careers/details/25758
+                - cell "San Francisco or Remote" [ref=f8e1687]
+              - row [ref=f8e1688]:
+                - cell [ref=f8e1689]:
+                  - link "Agentic Success Portfolio Lead" [ref=f8e1690] [cursor=pointer]:
+                    - /url: /company/careers/details/26052
+                - cell "San Francisco or Remote" [ref=f8e1691]
+              - row [ref=f8e1692]:
+                - cell [ref=f8e1693]:
+                  - link "Principal Strategist, Sales & Success Strategy - Public Sector" [ref=f8e1694] [cursor=pointer]:
+                    - /url: /company/careers/details/25128
+                - cell "San Francisco or Remote" [ref=f8e1695]
+              - row [ref=f8e1696]:
+                - cell [ref=f8e1697]:
+                  - link "Account Executive, Enterprise - Financial Services" [ref=f8e1698] [cursor=pointer]:
+                    - /url: /company/careers/details/25417
+                - cell "Remote or Remote" [ref=f8e1699]
+              - row [ref=f8e1700]:
+                - cell [ref=f8e1701]:
+                  - link "Strategic Account Executive, France" [ref=f8e1702] [cursor=pointer]:
+                    - /url: /company/careers/details/26981
+                - cell "Paris or Remote" [ref=f8e1703]
+              - row [ref=f8e1704]:
+                - cell [ref=f8e1705]:
+                  - link "Head of Sales Development, Strategic & Enterprise" [ref=f8e1706] [cursor=pointer]:
+                    - /url: /company/careers/details/26264
+                - cell "London or Remote" [ref=f8e1707]
+              - row [ref=f8e1708]:
+                - cell [ref=f8e1709]:
+                  - link "Account Executive Manager" [ref=f8e1710] [cursor=pointer]:
+                    - /url: /company/careers/details/26379
+                - cell "Yokohama or Remote" [ref=f8e1711]
+              - row [ref=f8e1712]:
+                - cell [ref=f8e1713]:
+                  - link "Account Executive, DX Enterprise Benelux (Dutch speaker)" [ref=f8e1714] [cursor=pointer]:
+                    - /url: /company/careers/details/25731
+                - cell "London or Remote" [ref=f8e1715]
+              - row [ref=f8e1716]:
+                - cell [ref=f8e1717]:
+                  - link "Solution Consultant, Cloud Platform Development and Integration" [ref=f8e1718] [cursor=pointer]:
+                    - /url: /company/careers/details/24970
+                - cell "Remote or Remote" [ref=f8e1719]
+        - generic [ref=f8e1720]:
+          - heading "Security" [level=3] [ref=f8e1721]
+          - table [ref=f8e1722]:
+            - rowgroup [ref=f8e1723]:
+              - row [ref=f8e1724]:
+                - columnheader "Position" [ref=f8e1725]
+                - columnheader "Location" [ref=f8e1726]
+            - rowgroup [ref=f8e1727]:
+              - row [ref=f8e1728]:
+                - cell [ref=f8e1729]:
+                  - link "Head of Detection and Response" [ref=f8e1730] [cursor=pointer]:
+                    - /url: /company/careers/details/27257
+                - cell "Sydney or Remote" [ref=f8e1731]
+              - row [ref=f8e1732]:
+                - cell [ref=f8e1733]:
+                  - link "Principal Incident Response Analyst" [ref=f8e1734] [cursor=pointer]:
+                    - /url: /company/careers/details/27081
+                - cell "Sydney or Remote" [ref=f8e1735]
+              - row [ref=f8e1736]:
+                - cell [ref=f8e1737]:
+                  - link "Principal Enterprise Security Engineer" [ref=f8e1738] [cursor=pointer]:
+                    - /url: /company/careers/details/26288
+                - cell "Seattle or Remote" [ref=f8e1739]
+              - row [ref=f8e1740]:
+                - cell [ref=f8e1741]:
+                  - link "Principal Security Engineer, Cloud Security" [ref=f8e1742] [cursor=pointer]:
+                    - /url: /company/careers/details/27390
+                - cell "Bengaluru or Remote" [ref=f8e1743]
+              - row [ref=f8e1744]:
+                - cell [ref=f8e1745]:
+                  - link "Security Testing Engineer - Penetration Tester" [ref=f8e1746] [cursor=pointer]:
+                    - /url: /company/careers/details/26643
+                - cell "Remote or Remote" [ref=f8e1747]
+              - row [ref=f8e1748]:
+                - cell [ref=f8e1749]:
+                  - link "Senior Incident Response Analyst" [ref=f8e1750] [cursor=pointer]:
+                    - /url: /company/careers/details/26712
+                - cell "Gdańsk or Remote" [ref=f8e1751]
+        - generic [ref=f8e1752]:
+          - heading "Site Reliability Engineering" [level=3] [ref=f8e1753]
+          - table [ref=f8e1754]:
+            - rowgroup [ref=f8e1755]:
+              - row [ref=f8e1756]:
+                - columnheader "Position" [ref=f8e1757]
+                - columnheader "Location" [ref=f8e1758]
+            - rowgroup [ref=f8e1759]:
+              - row [ref=f8e1760]:
+                - cell [ref=f8e1761]:
+                  - link "Senior Site Reliability Engineer" [ref=f8e1762] [cursor=pointer]:
+                    - /url: /company/careers/details/25095
+                - cell "Bengaluru or Remote" [ref=f8e1763]
+        - generic [ref=f8e1764]:
+          - heading "Support" [level=3] [ref=f8e1765]
+          - table [ref=f8e1766]:
+            - rowgroup [ref=f8e1767]:
+              - row [ref=f8e1768]:
+                - columnheader "Position" [ref=f8e1769]
+                - columnheader "Location" [ref=f8e1770]
+            - rowgroup [ref=f8e1771]:
+              - row [ref=f8e1772]:
+                - cell [ref=f8e1773]:
+                  - link "Principal Enterprise Delivery Manager" [ref=f8e1774] [cursor=pointer]:
+                    - /url: /company/careers/details/26793
+                - cell "Bengaluru or Remote" [ref=f8e1775]
+  - contentinfo [ref=f8e1777]:
+    - generic [ref=f8e1778]:
+      - generic [ref=f8e1780]:
+        - generic [ref=f8e1781]:
+          - link "Atlassian logo" [ref=f8e1783] [cursor=pointer]:
+            - /url: /
+          - list [ref=f8e1788]:
+            - listitem [ref=f8e1789]:
+              - link "Company" [ref=f8e1791] [cursor=pointer]:
+                - /url: /company
+            - listitem [ref=f8e1793]:
+              - link "Careers" [ref=f8e1795] [cursor=pointer]:
+                - /url: /company/careers
+            - listitem [ref=f8e1797]:
+              - link "Events" [ref=f8e1799] [cursor=pointer]:
+                - /url: /company/events
+            - listitem [ref=f8e1801]:
+              - link "Blogs" [ref=f8e1803] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f8e1805]:
+              - link "Investor Relations" [ref=f8e1807] [cursor=pointer]:
+                - /url: https://investors.atlassian.com
+            - listitem [ref=f8e1809]:
+              - link "Atlassian Foundation" [ref=f8e1811] [cursor=pointer]:
+                - /url: https://www.atlassianfoundation.org/
+            - listitem [ref=f8e1813]:
+              - link "Press kit" [ref=f8e1815] [cursor=pointer]:
+                - /url: /company/news/press-kit
+            - listitem [ref=f8e1817]:
+              - link "Contact us" [ref=f8e1819] [cursor=pointer]:
+                - /url: /company/contact
+        - generic [ref=f8e1821]:
+          - heading "Products" [level=2] [ref=f8e1823]
+          - list [ref=f8e1824]:
+            - listitem [ref=f8e1825]:
+              - link "Rovo" [ref=f8e1827] [cursor=pointer]:
+                - /url: /rovo
+            - listitem [ref=f8e1829]:
+              - link "Jira" [ref=f8e1831] [cursor=pointer]:
+                - /url: /software/jira
+            - listitem [ref=f8e1833]:
+              - link "Jira Align" [ref=f8e1835] [cursor=pointer]:
+                - /url: /software/jira/align
+            - listitem [ref=f8e1837]:
+              - link "Jira Service Management" [ref=f8e1839] [cursor=pointer]:
+                - /url: /software/jira/service-management
+            - listitem [ref=f8e1841]:
+              - link "Confluence" [ref=f8e1843] [cursor=pointer]:
+                - /url: /software/confluence
+            - listitem [ref=f8e1845]:
+              - link "Loom" [ref=f8e1847] [cursor=pointer]:
+                - /url: /software/loom
+            - listitem [ref=f8e1849]:
+              - link "Trello" [ref=f8e1851] [cursor=pointer]:
+                - /url: https://trello.com/home
+            - listitem [ref=f8e1853]:
+              - link "Bitbucket" [ref=f8e1855] [cursor=pointer]:
+                - /url: /software/bitbucket
+          - link "See all products" [ref=f8e1859] [cursor=pointer]:
+            - /url: /software
+        - generic [ref=f8e1863]:
+          - heading "Resources" [level=2] [ref=f8e1865]
+          - list [ref=f8e1866]:
+            - listitem [ref=f8e1867]:
+              - link "Technical support" [ref=f8e1869] [cursor=pointer]:
+                - /url: https://support.atlassian.com/
+            - listitem [ref=f8e1871]:
+              - link "Purchasing & licensing" [ref=f8e1873] [cursor=pointer]:
+                - /url: /licensing/purchase-licensing
+            - listitem [ref=f8e1875]:
+              - link "Templates" [ref=f8e1877] [cursor=pointer]:
+                - /url: /templates
+            - listitem [ref=f8e1879]:
+              - link "Atlassian Community" [ref=f8e1881] [cursor=pointer]:
+                - /url: https://community.atlassian.com/
+            - listitem [ref=f8e1883]:
+              - link "Knowledge base" [ref=f8e1885] [cursor=pointer]:
+                - /url: https://confluence.atlassian.com/kb
+            - listitem [ref=f8e1887]:
+              - link "Marketplace" [ref=f8e1889] [cursor=pointer]:
+                - /url: https://marketplace.atlassian.com/
+            - listitem [ref=f8e1891]:
+              - link "My account" [ref=f8e1893] [cursor=pointer]:
+                - /url: https://my.atlassian.com/products/index
+          - link "Create support ticket" [ref=f8e1897] [cursor=pointer]:
+            - /url: https://support.atlassian.com/contact/
+        - generic [ref=f8e1901]:
+          - heading "Learn" [level=2] [ref=f8e1903]
+          - list [ref=f8e1904]:
+            - listitem [ref=f8e1905]:
+              - link "Partners" [ref=f8e1907] [cursor=pointer]:
+                - /url: /partners
+            - listitem [ref=f8e1909]:
+              - link "Training & certification" [ref=f8e1911] [cursor=pointer]:
+                - /url: /university
+            - listitem [ref=f8e1913]:
+              - link "Documentation" [ref=f8e1915] [cursor=pointer]:
+                - /url: https://confluence.atlassian.com/display/ALLDOC/Atlassian+Documentation
+            - listitem [ref=f8e1917]:
+              - link "Developer resources" [ref=f8e1919] [cursor=pointer]:
+                - /url: /developers
+            - listitem [ref=f8e1921]:
+              - link "Enterprise services" [ref=f8e1923] [cursor=pointer]:
+                - /url: /enterprise/services
+          - link "See all resources" [ref=f8e1927] [cursor=pointer]:
+            - /url: /resources
+      - generic [ref=f8e1931]:
+        - generic [ref=f8e1932]: Copyright © 2026 Atlassian
+        - generic [ref=f8e1933]:
+          - list [ref=f8e1934]:
+            - listitem [ref=f8e1935]:
+              - link "Privacy policy" [ref=f8e1937] [cursor=pointer]:
+                - /url: /legal/privacy-policy
+            - listitem [ref=f8e1939]:
+              - link "Notice at Collection" [ref=f8e1940] [cursor=pointer]:
+                - /url: /legal/privacy-policy#additional-disclosures-for-ca-residents
+            - listitem [ref=f8e1942]:
+              - link "Terms" [ref=f8e1944] [cursor=pointer]:
+                - /url: /legal/cloud-terms-of-service
+            - listitem [ref=f8e1946]:
+              - link "Trust Center" [ref=f8e1948] [cursor=pointer]:
+                - /url: /trust
+            - listitem [ref=f8e1950]:
+              - link "Impressum" [ref=f8e1952] [cursor=pointer]:
+                - /url: /legal/impressum
+          - generic [ref=f8e1954] [cursor=pointer]:
+            - generic [ref=f8e1963]: English
+            - generic [aria-hidden] [ref=f8e1964]: ▾

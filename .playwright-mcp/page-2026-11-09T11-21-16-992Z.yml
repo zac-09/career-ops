@@ -1,0 +1,146 @@
+- generic [ref=f66e2]:
+  - banner [ref=f66e4]:
+    - generic [ref=f66e5]:
+      - link [ref=f66e6] [cursor=pointer]:
+        - /url: "#"
+      - navigation [ref=f66e7]:
+        - list [ref=f66e8]:
+          - listitem [ref=f66e9]:
+            - link "Why SafeBoda?" [ref=f66e10] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f66e11]:
+            - link "Our Services" [ref=f66e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f66e13]:
+            - link "SafeBoda for Business" [ref=f66e14] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f66e15]:
+            - link "Who we are?" [ref=f66e16] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f66e17]:
+            - button "Join Us" [ref=f66e19] [cursor=pointer]: 
+          - listitem [ref=f66e21]:
+            - link "Get in Touch" [ref=f66e22] [cursor=pointer]:
+              - /url: "#Get-in-touch"
+        - list [ref=f66e23]:
+          - listitem [ref=f66e24]:
+            - link [ref=f66e25] [cursor=pointer]:
+              - /url: /home-ug
+            - link [ref=f66e26] [cursor=pointer]:
+              - /url: /
+            - link "Join as Business" [ref=f66e27] [cursor=pointer]:
+              - /url: https://business.safeboda.com/sign-up
+            - link "Download App" [ref=f66e28] [cursor=pointer]:
+              - /url: "#"
+      - text: 
+  - generic [ref=f66e29]:
+    - heading "Open Positions" [level=2] [ref=f66e31]
+    - list [ref=f66e33]:
+      - listitem [ref=f66e34]:
+        - link "Finance Manager" [ref=f66e36] [cursor=pointer]:
+          - /url: /careers/finance-manager
+      - listitem [ref=f66e37]:
+        - link "Senior Business Development Manager NBO" [ref=f66e39] [cursor=pointer]:
+          - /url: /careers/senior-business-development-manager
+      - listitem [ref=f66e40]:
+        - link "QA Engineering Lead" [ref=f66e42] [cursor=pointer]:
+          - /url: /careers/qa-engineering-lead
+      - listitem [ref=f66e43]:
+        - link "Corporate Sales Representative" [ref=f66e45] [cursor=pointer]:
+          - /url: /careers/corporate-sales-representative-lyru1
+  - generic [ref=f66e49]:
+    - paragraph [ref=f66e50]: Our Team
+    - paragraph [ref=f66e51]: At SafeBoda we believe that everyone in African cities should have access to affordable services at a click of a button. Our platform is carefully designed to meet the needs of African consumers as a one-stop-shop for transportation, payments and on demand services. While motorcycle taxis serve as the lifeblood of many cities in Africa, they are extremely unsafe and disorganized. Our safe, convenient, transportation platform provides for Africa’s booming young population as well as creating community and stability for our rider fleet.
+  - generic [ref=f66e52]:
+    - generic [ref=f66e53]: What we offer
+    - generic [ref=f66e54]:
+      - generic [ref=f66e55]:
+        - heading "Competitive Salary" [level=1] [ref=f66e57]
+        - heading "Life & Health Insurance" [level=1] [ref=f66e59]
+        - heading "Paid Annual Leave" [level=1] [ref=f66e61]
+      - generic [ref=f66e62]:
+        - heading "Supportive Culture to Enable Career Growth" [level=1] [ref=f66e64]
+        - heading "Free Tasty Lunch at SafeBoda Offices" [level=1] [ref=f66e66]
+        - heading "Free Transport Allowance to SafeBoda Offices" [level=1] [ref=f66e68]
+  - generic [ref=f66e70]:
+    - generic [ref=f66e71]:
+      - generic [ref=f66e83]: SafeBoda
+      - generic [ref=f66e84]:
+        - generic [ref=f66e85]:
+          - generic [ref=f66e86]: Quick Links
+          - link "Create Business Account" [ref=f66e89] [cursor=pointer]:
+            - /url: https://business.safeboda.com/sign-up
+          - link "Login to Business Portal" [ref=f66e92] [cursor=pointer]:
+            - /url: https://business.safeboda.com/sign-in
+          - link "SafeBoda Website UG" [ref=f66e95] [cursor=pointer]:
+            - /url: https://www.safeboda.com/home-ug
+          - link "SafeBoda Website KE" [ref=f66e98] [cursor=pointer]:
+            - /url: https://www.safeboda.com/
+        - generic [ref=f66e99]:
+          - generic [ref=f66e100]: Join SafeBoda
+          - link "Careers" [ref=f66e101] [cursor=pointer]:
+            - /url: /nairobi/05-career-nbo
+          - link "Join as a driver" [ref=f66e102] [cursor=pointer]:
+            - /url: /nairobi/06-driver-nbo
+          - link "Join as Business" [ref=f66e103] [cursor=pointer]:
+            - /url: /website-v2/nairobi-sb-for-business
+        - generic [ref=f66e104]:
+          - generic [ref=f66e105]: Support
+          - link "Frequently Asked Questions" [ref=f66e108] [cursor=pointer]:
+            - /url: https://www.safeboda.com/uganda-website/faqs-nbo
+          - link "Terms of Use" [ref=f66e111] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy Policy" [ref=f66e114] [cursor=pointer]:
+            - /url: https://www.safeboda.com/privacy-policy
+          - link "Account Deletion Policy" [ref=f66e117] [cursor=pointer]:
+            - /url: https://www.safeboda.com/uganda-website/account-rectification-deletion-policy
+          - link [ref=f66e118] [cursor=pointer]:
+            - /url: /courier-terms-conditions
+            - strong [ref=f66e119]: Courier Terms & Conditions
+        - generic [ref=f66e120]:
+          - generic [ref=f66e121]: Download App
+          - link [ref=f66e122] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.safeboda.passenger
+          - link [ref=f66e123] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/safeboda-with-safecar/id1274389246?ls=1
+      - generic [ref=f66e125]:
+        - generic [ref=f66e126]: Get in Touch, Visit Our Offices
+        - generic [ref=f66e127]:
+          - generic [ref=f66e129]:
+            - link "Graceland Court, 1st Floor, Office No. 3 Keiyo RD, Parklands" [ref=f66e133] [cursor=pointer]:
+              - /url: "#"
+            - link "+254 20 776 3333 12 hours (on call) 24 hours (online)" [ref=f66e137] [cursor=pointer]:
+              - /url: "#"
+              - text: +254 20 776 333312 hours (on call) 24 hours (online)
+            - link "teamkenya@safeboda.com" [ref=f66e141] [cursor=pointer]:
+              - /url: mailto:support@safeboda.com?subject=Support
+            - link "Our Blog" [ref=f66e145] [cursor=pointer]:
+              - /url: /blog
+            - generic [ref=f66e146]:
+              - link:
+                - /url: https://www.youtube.com/@safeboda7160
+              - link:
+                - /url: https://www.instagram.com/safeboda_kenya/?hl=en
+              - link:
+                - /url: https://x.com/SafeBoda_Kenya
+              - link:
+                - /url: https://www.facebook.com/SafeBoda254/
+              - link:
+                - /url: https://api.whatsapp.com/send/?phone=+254207763333&text&type=phone_number&app_absent=0
+          - region "carousel" [ref=f66e147]:
+            - generic [ref=f66e148]:
+              - group "1 of 6" [ref=f66e149]:
+                - generic [ref=f66e150]:
+                  - img "safeboda offices Kenya"
+              - group "2 of 6" [ref=f66e151]:
+                - generic [ref=f66e152]:
+                  - img "safeboda offices Kenya"
+              - group "3 of 6" [ref=f66e153]:
+                - generic [ref=f66e154]:
+                  - img "safeboda offices Kenya"
+              - group [aria-hidden] [ref=f66e155]
+              - group [aria-hidden] [ref=f66e157]
+              - group [aria-hidden] [ref=f66e159]
+            - button "next slide" [ref=f66e162] [cursor=pointer]
+    - generic [ref=f66e163]: © SafeBoda 2025, All rights reserved.
+  - generic [ref=f66e165]: © SafeBoda 2025, All rights reserved.

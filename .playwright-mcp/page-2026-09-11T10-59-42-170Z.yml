@@ -1,0 +1,960 @@
+- generic [active] [ref=f12e1]:
+  - generic [ref=f12e4]:
+    - generic [ref=f12e7]:
+      - link [ref=f12e8] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f12e14]:
+        - generic [ref=f12e15]:
+          - button [ref=f12e16]:
+            - text: Product
+            - generic [ref=f12e17]: "[]"
+          - link "Pricing" [ref=f12e21] [cursor=pointer]:
+            - /url: /pricing
+          - link "Docs" [ref=f12e22] [cursor=pointer]:
+            - /url: /docs/forward/quickstarts
+          - button [ref=f12e23]:
+            - text: Resources
+            - generic [ref=f12e24]: "[]"
+        - generic [ref=f12e28]:
+          - img "Bars" [ref=f12e30]
+          - generic [ref=f12e33]:
+            - generic [ref=f12e34]:
+              - paragraph [ref=f12e35]: Data Platform
+              - link "Managed ClickHouse® Production-ready with Tinybird's DX" [ref=f12e36] [cursor=pointer]:
+                - /url: /product/managed-clickhouse
+                - generic [ref=f12e37]:
+                  - text: Managed ClickHouse
+                  - superscript [ref=f12e39]: ®
+                - generic [ref=f12e40]: Production-ready with Tinybird's DX
+              - link "Ingest Plug in your data, ship in minutes" [ref=f12e41] [cursor=pointer]:
+                - /url: /product/ingest
+                - generic [ref=f12e42]: Ingest
+                - generic [ref=f12e44]: Plug in your data, ship in minutes
+              - link "Query Sub-second SQL APIs for your data platform" [ref=f12e45] [cursor=pointer]:
+                - /url: /product/query
+                - generic [ref=f12e46]: Query
+                - generic [ref=f12e48]: Sub-second SQL APIs for your data platform
+              - link "Kafka Connector Real-time analytics over your Kafka topics" [ref=f12e49] [cursor=pointer]:
+                - /url: /product/kafka
+                - generic [ref=f12e50]: Kafka Connector
+                - generic [ref=f12e52]: Real-time analytics over your Kafka topics
+            - generic [ref=f12e53]:
+              - paragraph [ref=f12e54]: Developer Experience
+              - link "AI-focused DevEx Built for agents and developers" [ref=f12e55] [cursor=pointer]:
+                - /url: /product/ai
+                - generic [ref=f12e56]: AI-focused DevEx
+                - generic [ref=f12e58]: Built for agents and developers
+              - link "Schema iteration Safe migrations with zero downtime" [ref=f12e59] [cursor=pointer]:
+                - /url: /product/schema-iteration
+                - generic [ref=f12e60]: Schema iteration
+                - generic [ref=f12e62]: Safe migrations with zero downtime
+              - link "Branches Zero-copy, full-stack environments with prod data" [ref=f12e63] [cursor=pointer]:
+                - /url: /product/branches
+                - generic [ref=f12e64]: Branches
+                - generic [ref=f12e66]: Zero-copy, full-stack environments with prod data
+              - link "Workspace Monitor, explore, and operate your data infrastructure" [ref=f12e67] [cursor=pointer]:
+                - /url: /product/workspace
+                - generic [ref=f12e68]: Workspace
+                - generic [ref=f12e70]: Monitor, explore, and operate your data infrastructure
+            - generic [ref=f12e71]:
+              - paragraph [ref=f12e72]: Enterprise
+              - link "SaaS and Enterprise Ship real-time at enterprise scale" [ref=f12e73] [cursor=pointer]:
+                - /url: /product/enterprise
+                - generic [ref=f12e74]: SaaS and Enterprise
+                - generic [ref=f12e76]: Ship real-time at enterprise scale
+              - link "Cluster management Keep the controls, skip the cluster ops" [ref=f12e77] [cursor=pointer]:
+                - /url: /product/cluster-management
+                - generic [ref=f12e78]: Cluster management
+                - generic [ref=f12e80]: Keep the controls, skip the cluster ops
+              - link "Support You're not on call alone" [ref=f12e81] [cursor=pointer]:
+                - /url: /product/support
+                - generic [ref=f12e82]: Support
+                - generic [ref=f12e84]: You're not on call alone
+              - link "Organizations Let every team ship, keep one place in control" [ref=f12e85] [cursor=pointer]:
+                - /url: /product/organizations
+                - generic [ref=f12e86]: Organizations
+                - generic [ref=f12e88]: Let every team ship, keep one place in control
+      - generic [ref=f12e89]:
+        - link "Sign in" [ref=f12e90] [cursor=pointer]:
+          - /url: https://cloud.tinybird.co/login
+        - link "Sign up" [ref=f12e92] [cursor=pointer]:
+          - /url: https://cloud.tinybird.co/signup
+    - generic [ref=f12e98]:
+      - heading "We're building data infrastructure for software teams" [level=1] [ref=f12e99]
+      - generic [ref=f12e100]: Tinybird exists to help developers create insights, actions, and business value with real-time data. We're not just building a fast database, we're building a faster way to work with data at any scale.
+    - dialog [ref=f12e101]:
+      - generic [ref=f12e102]:
+        - button "Console" [ref=f12e104]
+        - generic [ref=f12e105] [cursor=pointer]
+      - code [ref=f12e112]:
+        - generic [ref=f12e113]: <!-- Welcome to Tinybird -->
+        - generic [ref=f12e114]: <section class="hero">
+        - generic [ref=f12e115]: <h1 class="text-h1">
+        - generic [ref=f12e116]: We're building data infrastructure for
+        - generic [ref=f12e117]: <span class="text-primary hover:font-mono cursor-pointer">
+        - generic [ref=f12e118]: software teams
+        - generic [ref=f12e119]: </span>
+        - generic [ref=f12e120]: </h1>
+        - generic [ref=f12e121]: <p>
+        - generic [ref=f12e122]: Tinybird exists to help developers create insights, actions,
+        - generic [ref=f12e123]: and business value with real-time data. We're not just building
+        - generic [ref=f12e124]: a fast database, we're building a faster way to work with data
+        - generic [ref=f12e125]: at any scale.
+        - generic [ref=f12e126]: </p>
+        - generic [ref=f12e127]: <img
+        - generic [ref=f12e128]: alt="About us"
+        - generic [ref=f12e129]: loading="lazy"
+        - generic [ref=f12e130]: class="object-cover"
+        - generic [ref=f12e131]: src="./assets/flock-25.png"
+        - generic [ref=f12e132]: />
+        - generic [ref=f12e133]: </section>
+        - generic [ref=f12e134]: <section class="story">
+        - generic [ref=f12e135]: <h2 class="text-h2">
+        - generic [ref=f12e136]: <span class="block text-primary">[01]</span>
+        - generic [ref=f12e137]: <span>Our Story</span>
+        - generic [ref=f12e138]: </h2>
+        - generic [ref=f12e139]: <p>
+        - generic [ref=f12e140]: Like most good developer tools, Tinybird began as a solution to
+        - generic [ref=f12e141]: our own problems. Our companies had lots of data, but we (the
+        - generic [ref=f12e142]: software developers) didn't have easy access to it. It was locked
+        - generic [ref=f12e143]: away in a cloud data warehouse behind corporate gatekeepers.
+        - generic [ref=f12e144]: </p>
+        - generic [ref=f12e145]: <p>
+        - generic [ref=f12e146]: We built Tinybird so you could turn data at any scale into a
+        - generic [ref=f12e147]: real-time, secure, REST API. That solved our problem then, and it's
+        - generic [ref=f12e148]: still solving problems for software teams of all sizes today.
+        - generic [ref=f12e149]: </p>
+        - generic [ref=f12e150]: <p>
+        - generic [ref=f12e151]: With AI, software teams are getting smaller and faster. We keep
+        - generic [ref=f12e152]: building Tinybird to make it possible for AI-native software teams
+        - generic [ref=f12e153]: of any size to build things with data at any scale.
+        - generic [ref=f12e154]: </p>
+        - generic [ref=f12e155]: </section>
+    - generic [ref=f12e158]:
+      - generic [ref=f12e160]:
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - generic:
+          - img "About us"
+        - img "About us" [ref=f12e162]
+      - generic [ref=f12e227]:
+        - generic [ref=f12e228]:
+          - paragraph [ref=f12e229]: "[01]"
+          - generic [ref=f12e230]:
+            - heading "Our Story" [level=2] [ref=f12e231]
+            - generic [ref=f12e232]:
+              - paragraph [ref=f12e233]: Like most good developer tools, Tinybird began as a solution to our own problems. Our companies had lots of data, but we (the software developers) didn't have easy access to it. It was locked away in a cloud data warehouse behind corporate gatekeepers.
+              - paragraph [ref=f12e234]: We built Tinybird so you could turn data at any scale into a real-time, secure, REST API. That solved our problem then, and it's still solving problems for software teams of all sizes today.
+              - paragraph [ref=f12e235]: With AI, software teams are getting smaller and faster. We keep building Tinybird to make it possible for AI-native software teams of any size to build things with data at any scale.
+        - img "Bird" [ref=f12e237]
+      - generic [ref=f12e238]:
+        - generic [ref=f12e239]:
+          - paragraph [ref=f12e240]: "[02]"
+          - generic [ref=f12e241]:
+            - heading "Our Team" [level=2] [ref=f12e242]
+            - generic [ref=f12e243]: We are a group of talented engineers, product leaders, ops specialists, growth gurus, and infra junkies. We celebrate diversity, mutual respect and excellence across our global team.
+        - heading "/ Meet our team" [level=3] [ref=f12e245]
+        - table "Team members" [ref=f12e246]:
+          - row [ref=f12e247]:
+            - columnheader "/ Name - Surname" [ref=f12e248]
+            - columnheader "/ Job Position" [ref=f12e249]
+            - columnheader "/ Social Networks" [ref=f12e250]
+          - row "Row for Aitana Azcona" [ref=f12e251]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Aitana Azcona"
+            - generic [ref=f12e252]:
+              - cell "Aitana Azcona" [ref=f12e253]
+              - cell "Head of Product" [ref=f12e254]
+              - cell [ref=f12e255]:
+                - generic [ref=f12e256]:
+                  - link "X profile of Aitana Azcona" [ref=f12e257] [cursor=pointer]:
+                    - /url: https://x.com/AitanaAzc
+                  - link "LinkedIn profile of Aitana Azcona" [ref=f12e262] [cursor=pointer]:
+                    - /url: https://linkedin.com/in/aitana-azcona-8aa06975
+          - row "Row for Alejandro del Amo" [ref=f12e267]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Alejandro del Amo"
+            - generic [ref=f12e268]:
+              - cell "Alejandro del Amo" [ref=f12e269]
+              - cell "Engineering Ops Tech Lead" [ref=f12e270]
+              - cell [ref=f12e271]:
+                - link "X profile of Alejandro del Amo" [ref=f12e273] [cursor=pointer]:
+                  - /url: https://x.com/a_delamo
+          - row "Row for Alejandro Morera" [ref=f12e278]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Alejandro Morera"
+            - generic [ref=f12e279]:
+              - cell "Alejandro Morera" [ref=f12e280]
+              - cell "Backend Engineer" [ref=f12e281]
+              - cell [ref=f12e282]:
+                - link "LinkedIn profile of Alejandro Morera" [ref=f12e284] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/alejandro-morera-fuentes-a9b72b248
+          - row "Row for Alison Davey" [ref=f12e289]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Alison Davey"
+            - generic [ref=f12e290]:
+              - cell "Alison Davey" [ref=f12e291]
+              - cell "Operational Analytics" [ref=f12e292]
+              - cell [ref=f12e293]:
+                - generic [ref=f12e294]:
+                  - link "X profile of Alison Davey" [ref=f12e295] [cursor=pointer]:
+                    - /url: https://x.com/AlisonDavey
+                  - link "LinkedIn profile of Alison Davey" [ref=f12e300] [cursor=pointer]:
+                    - /url: https://linkedin.com/in/alisondavey
+          - row "Row for Aristides Pérez" [ref=f12e305]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Aristides Pérez"
+            - generic [ref=f12e306]:
+              - cell "Aristides Pérez" [ref=f12e307]
+              - cell "Brand Designer" [ref=f12e308]
+              - cell [ref=f12e309]:
+                - link "LinkedIn profile of Aristides Pérez" [ref=f12e311] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/arístides-pérez-02319629
+          - row "Row for Artur Filatenkov" [ref=f12e316]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Artur Filatenkov"
+            - generic [ref=f12e317]:
+              - cell "Artur Filatenkov" [ref=f12e318]
+              - cell "ClickHouse Developer" [ref=f12e319]
+              - cell [ref=f12e320]:
+                - link "LinkedIn profile of Artur Filatenkov" [ref=f12e322] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/artur-filatenkov
+          - row "Row for Bruno Giordano" [ref=f12e327]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Bruno Giordano"
+            - generic [ref=f12e328]:
+              - cell "Bruno Giordano" [ref=f12e329]
+              - cell "Rev Ops Manager" [ref=f12e330]
+              - cell [ref=f12e331]:
+                - link "LinkedIn profile of Bruno Giordano" [ref=f12e333] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/brunogiordano11
+          - row "Row for Cristina Alonso" [ref=f12e338]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Cristina Alonso"
+            - generic [ref=f12e339]:
+              - cell "Cristina Alonso" [ref=f12e340]
+              - cell "Head of People Operations" [ref=f12e341]
+              - cell [ref=f12e342]:
+                - link "LinkedIn profile of Cristina Alonso" [ref=f12e344] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/cristina-alonso-iglesias
+          - row "Row for Daniel Manchón" [ref=f12e349]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Daniel Manchón"
+            - generic [ref=f12e350]:
+              - cell "Daniel Manchón" [ref=f12e351]
+              - cell "Backend Engineer" [ref=f12e352]
+              - cell [ref=f12e353]:
+                - link "LinkedIn profile of Daniel Manchón" [ref=f12e355] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/dmanchon
+          - row "Row for Daniel Pozo" [ref=f12e360]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Daniel Pozo"
+            - generic [ref=f12e361]:
+              - cell "Daniel Pozo" [ref=f12e362]
+              - cell "ClickHouse SRE" [ref=f12e363]
+              - cell [ref=f12e364]:
+                - link "LinkedIn profile of Daniel Pozo" [ref=f12e366] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/danielpozoescalona
+          - row "Row for Daniel Sangorrín" [ref=f12e371]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Daniel Sangorrín"
+            - generic [ref=f12e372]:
+              - cell "Daniel Sangorrín" [ref=f12e373]
+              - cell "Data Engineer" [ref=f12e374]
+              - cell [ref=f12e375]:
+                - link "LinkedIn profile of Daniel Sangorrín" [ref=f12e377] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/sangorrin
+          - row "Row for Diego Coladas" [ref=f12e382]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Diego Coladas"
+            - generic [ref=f12e383]:
+              - cell "Diego Coladas" [ref=f12e384]
+              - cell "Backend Engineer" [ref=f12e385]
+              - cell [ref=f12e386]:
+                - link "LinkedIn profile of Diego Coladas" [ref=f12e388] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/dcoladas
+          - row "Row for Enzo Kajiya" [ref=f12e393]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Enzo Kajiya"
+            - generic [ref=f12e394]:
+              - cell "Enzo Kajiya" [ref=f12e395]
+              - cell "Sales Executive" [ref=f12e396]
+              - cell [ref=f12e397]:
+                - link "LinkedIn profile of Enzo Kajiya" [ref=f12e399] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/enzokajiya
+          - row "Row for Francisco González" [ref=f12e404]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Egg"
+                  - generic: This bird has yet to hatch
+            - generic [ref=f12e405]:
+              - cell "Francisco González" [ref=f12e406]
+              - cell "Data Engineer" [ref=f12e407]
+              - cell [ref=f12e408]:
+                - link "LinkedIn profile of Francisco González" [ref=f12e410] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/fgonzalezlopez
+          - row "Row for Gonzalo Gómez" [ref=f12e415]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Gonzalo Gómez"
+            - generic [ref=f12e416]:
+              - cell "Gonzalo Gómez" [ref=f12e417]
+              - cell "Product Marketing Engineer" [ref=f12e418]
+              - cell [ref=f12e419]:
+                - generic [ref=f12e420]:
+                  - link "X profile of Gonzalo Gómez" [ref=f12e421] [cursor=pointer]:
+                    - /url: https://x.com/gnzjgo
+                  - link "LinkedIn profile of Gonzalo Gómez" [ref=f12e426] [cursor=pointer]:
+                    - /url: https://linkedin.com/in/gonzalojgo
+          - row "Row for Iago Enríquez" [ref=f12e431]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Iago Enríquez"
+            - generic [ref=f12e432]:
+              - cell "Iago Enríquez" [ref=f12e433]
+              - cell "Data Engineer" [ref=f12e434]
+              - cell [ref=f12e435]:
+                - link "LinkedIn profile of Iago Enríquez" [ref=f12e437] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/iago-enríquez
+          - row "Row for Irene Martínez" [ref=f12e442]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Irene Martínez"
+            - generic [ref=f12e443]:
+              - cell "Irene Martínez" [ref=f12e444]
+              - cell "ClickHouse Developer" [ref=f12e445]
+              - cell [ref=f12e446]:
+                - link "LinkedIn profile of Irene Martínez" [ref=f12e448] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/irenemtnz
+          - row "Row for Javier Cañadas" [ref=f12e453]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Javier Cañadas"
+            - generic [ref=f12e454]:
+              - cell "Javier Cañadas" [ref=f12e455]
+              - cell "Backend Engineer" [ref=f12e456]
+              - cell [ref=f12e457]:
+                - link "LinkedIn profile of Javier Cañadas" [ref=f12e459] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/javiercanadas
+          - row "Row for Javier Goizueta" [ref=f12e464]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Javier Goizueta"
+            - generic [ref=f12e465]:
+              - cell "Javier Goizueta" [ref=f12e466]
+              - cell "ClickHouse Developer" [ref=f12e467]
+              - cell [ref=f12e468]:
+                - link "LinkedIn profile of Javier Goizueta" [ref=f12e470] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/javier-goizueta-b6887349
+          - row "Row for Javier Jimenez" [ref=f12e475]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Javier Jimenez"
+            - generic [ref=f12e476]:
+              - cell "Javier Jimenez" [ref=f12e477]
+              - cell "Office Manager" [ref=f12e478]
+              - cell [ref=f12e479]:
+                - link "LinkedIn profile of Javier Jimenez" [ref=f12e481] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/javierjimal
+          - row "Row for Jesús Botella" [ref=f12e486]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Jesús Botella"
+            - generic [ref=f12e487]:
+              - cell "Jesús Botella" [ref=f12e488]
+              - cell "Backend Engineer" [ref=f12e489]
+              - cell [ref=f12e490]:
+                - generic [ref=f12e491]:
+                  - link "X profile of Jesús Botella" [ref=f12e492] [cursor=pointer]:
+                    - /url: https://x.com/sn00b
+                  - link "LinkedIn profile of Jesús Botella" [ref=f12e497] [cursor=pointer]:
+                    - /url: https://linkedin.com/in/jesusbotella
+          - row "Row for John Martin" [ref=f12e502]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "John Martin"
+            - generic [ref=f12e503]:
+              - cell "John Martin" [ref=f12e504]
+              - cell "Data Engineer" [ref=f12e505]
+              - cell [ref=f12e506]:
+                - link "LinkedIn profile of John Martin" [ref=f12e508] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/john-martin-218b231a9
+          - row "Row for Jordi Contestí" [ref=f12e513]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Egg"
+                  - generic: This bird has yet to hatch
+            - generic [ref=f12e514]:
+              - cell "Jordi Contestí" [ref=f12e515]
+              - cell "Data Engineer" [ref=f12e516]
+              - cell [ref=f12e517]:
+                - link "LinkedIn profile of Jordi Contestí" [ref=f12e519] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/jcontesti
+          - row "Row for Jordi Orihuela" [ref=f12e524]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Jordi Orihuela"
+            - generic [ref=f12e525]:
+              - cell "Jordi Orihuela" [ref=f12e526]
+              - cell "Backend Engineer" [ref=f12e527]
+              - cell [ref=f12e528]:
+                - generic [ref=f12e529]:
+                  - link "X profile of Jordi Orihuela" [ref=f12e530] [cursor=pointer]:
+                    - /url: https://x.com/jordiori2
+                  - link "LinkedIn profile of Jordi Orihuela" [ref=f12e535] [cursor=pointer]:
+                    - /url: https://linkedin.com/in/jordi-orihuela
+          - row "Row for Jorge De Lara" [ref=f12e540]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Egg"
+                  - generic: This bird has yet to hatch
+            - generic [ref=f12e541]:
+              - cell "Jorge De Lara" [ref=f12e542]
+              - cell "Sr Director of Account Growth and Expansion" [ref=f12e543]
+              - cell [ref=f12e544]:
+                - link "LinkedIn profile of Jorge De Lara" [ref=f12e546] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/jndelara
+          - row "Row for Jorge Sancha" [ref=f12e551]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Egg"
+                  - generic: This bird has yet to hatch
+            - generic [ref=f12e552]:
+              - cell "Jorge Sancha" [ref=f12e553]
+              - cell "Co‑Founder and CEO" [ref=f12e554]
+              - cell [ref=f12e555]:
+                - generic [ref=f12e556]:
+                  - link "X profile of Jorge Sancha" [ref=f12e557] [cursor=pointer]:
+                    - /url: https://x.com/jorgesancha
+                  - link "LinkedIn profile of Jorge Sancha" [ref=f12e562] [cursor=pointer]:
+                    - /url: https://linkedin.com/in/jorgesancha
+          - row "Row for Juan Madurga" [ref=f12e567]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Juan Madurga"
+            - generic [ref=f12e568]:
+              - cell "Juan Madurga" [ref=f12e569]
+              - cell "Backend Engineer" [ref=f12e570]
+              - cell [ref=f12e571]:
+                - link "LinkedIn profile of Juan Madurga" [ref=f12e573] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/jlmadurga
+          - row "Row for Kirill Kiazimov" [ref=f12e578]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Kirill Kiazimov"
+            - generic [ref=f12e579]:
+              - cell "Kirill Kiazimov" [ref=f12e580]
+              - cell "ClickHouse Developer" [ref=f12e581]
+              - cell [ref=f12e582]:
+                - link "LinkedIn profile of Kirill Kiazimov" [ref=f12e584] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/kirill-kiazimov-747423213
+          - row "Row for Laura Álvarez" [ref=f12e589]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Laura Álvarez"
+            - generic [ref=f12e590]:
+              - cell "Laura Álvarez" [ref=f12e591]
+              - cell "Head of Rev Ops" [ref=f12e592]
+              - cell [ref=f12e593]:
+                - link "LinkedIn profile of Laura Álvarez" [ref=f12e595] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/laura-alvarez-ruiperez
+          - row "Row for Lucas Quintanilha" [ref=f12e600]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Lucas Quintanilha"
+            - generic [ref=f12e601]:
+              - cell "Lucas Quintanilha" [ref=f12e602]
+              - cell "Support Engineer" [ref=f12e603]
+              - cell [ref=f12e604]:
+                - link "LinkedIn profile of Lucas Quintanilha" [ref=f12e606] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/lquintanilha
+          - row "Row for Luis Rodriguez" [ref=f12e611]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Luis Rodriguez"
+            - generic [ref=f12e612]:
+              - cell "Luis Rodriguez" [ref=f12e613]
+              - cell "Backend Engineer" [ref=f12e614]
+              - cell [ref=f12e615]:
+                - link "LinkedIn profile of Luis Rodriguez" [ref=f12e617] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/luisrodriguezcegarra
+          - row "Row for Manu Martin" [ref=f12e622]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Manu Martin"
+            - generic [ref=f12e623]:
+              - cell "Manu Martin" [ref=f12e624]
+              - cell "Software Engineer" [ref=f12e625]
+              - cell [ref=f12e626]:
+                - link "LinkedIn profile of Manu Martin" [ref=f12e628] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/manumartinmorante
+          - row "Row for Maksim Kita" [ref=f12e633]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Maksim Kita"
+            - generic [ref=f12e634]:
+              - cell "Maksim Kita" [ref=f12e635]
+              - cell "CTO RawTree" [ref=f12e636]
+              - cell [ref=f12e637]:
+                - link "LinkedIn profile of Maksim Kita" [ref=f12e639] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/maksim-kita
+          - row "Row for Macarena Poletti" [ref=f12e644]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Macarena Poletti"
+            - generic [ref=f12e645]:
+              - cell "Macarena Poletti" [ref=f12e646]
+              - cell "Head of Finance" [ref=f12e647]
+              - cell [ref=f12e648]:
+                - link "LinkedIn profile of Macarena Poletti" [ref=f12e650] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/macarena-poletti
+          - row "Row for Marco Vidal" [ref=f12e655]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Marco Vidal"
+            - generic [ref=f12e656]:
+              - cell "Marco Vidal" [ref=f12e657]
+              - cell "Product Engineer" [ref=f12e658]
+              - cell [ref=f12e659]:
+                - generic [ref=f12e660]:
+                  - link "X profile of Marco Vidal" [ref=f12e661] [cursor=pointer]:
+                    - /url: https://x.com/mvidalgarcia
+                  - link "LinkedIn profile of Marco Vidal" [ref=f12e666] [cursor=pointer]:
+                    - /url: https://linkedin.com/in/mvidalgarcia
+          - row "Row for Nuria Mediavilla" [ref=f12e671]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Nuria Mediavilla"
+            - generic [ref=f12e672]:
+              - cell "Nuria Mediavilla" [ref=f12e673]
+              - cell "Product Designer" [ref=f12e674]
+              - cell [ref=f12e675]:
+                - generic [ref=f12e676]:
+                  - link "X profile of Nuria Mediavilla" [ref=f12e677] [cursor=pointer]:
+                    - /url: https://x.com/nmediavilla19
+                  - link "LinkedIn profile of Nuria Mediavilla" [ref=f12e682] [cursor=pointer]:
+                    - /url: https://linkedin.com/in/nuriamediavilla
+          - row "Row for Pablo Abella" [ref=f12e687]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Pablo Abella"
+            - generic [ref=f12e688]:
+              - cell "Pablo Abella" [ref=f12e689]
+              - cell "Frontend Engineer" [ref=f12e690]
+              - cell [ref=f12e691]:
+                - link "LinkedIn profile of Pablo Abella" [ref=f12e693] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/pabloabellavallina
+          - row "Row for Rafael Moreno" [ref=f12e698]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Rafael Moreno"
+            - generic [ref=f12e699]:
+              - cell "Rafael Moreno" [ref=f12e700]
+              - cell "Frontend Engineer" [ref=f12e701]
+              - cell [ref=f12e702]:
+                - generic [ref=f12e703]:
+                  - link "X profile of Rafael Moreno" [ref=f12e704] [cursor=pointer]:
+                    - /url: https://x.com/rmorehig
+                  - link "LinkedIn profile of Rafael Moreno" [ref=f12e709] [cursor=pointer]:
+                    - /url: https://linkedin.com/in/rmorehig
+          - row "Row for Rubén del Campo" [ref=f12e714]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Rubén del Campo"
+            - generic [ref=f12e715]:
+              - cell "Rubén del Campo" [ref=f12e716]
+              - cell "Head of Platform" [ref=f12e717]
+              - cell [ref=f12e718]:
+                - link "LinkedIn profile of Rubén del Campo" [ref=f12e720] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/rdelcampog
+          - row "Row for Sergio Álvarez Leiva" [ref=f12e725]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Egg"
+                  - generic: This bird has yet to hatch
+            - generic [ref=f12e726]:
+              - cell "Sergio Álvarez Leiva" [ref=f12e727]
+              - cell "Co‑Founder and COO" [ref=f12e728]
+              - cell [ref=f12e729]:
+                - generic [ref=f12e730]:
+                  - link "X profile of Sergio Álvarez Leiva" [ref=f12e731] [cursor=pointer]:
+                    - /url: https://x.com/saleiva
+                  - link "LinkedIn profile of Sergio Álvarez Leiva" [ref=f12e736] [cursor=pointer]:
+                    - /url: https://linkedin.com/in/saleiva
+          - row "Row for Sergio García" [ref=f12e741]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Sergio García"
+            - generic [ref=f12e742]:
+              - cell "Sergio García" [ref=f12e743]
+              - cell "Software Engineer" [ref=f12e744]
+              - cell [ref=f12e745]:
+                - link "LinkedIn profile of Sergio García" [ref=f12e747] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/garciparedes
+          - row "Row for Tomás Healy" [ref=f12e752]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Tomás Healy"
+            - generic [ref=f12e753]:
+              - cell "Tomás Healy" [ref=f12e754]
+              - cell "Backend Engineer" [ref=f12e755]
+              - cell [ref=f12e756]:
+                - link "LinkedIn profile of Tomás Healy" [ref=f12e758] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/tomás-healy-corominas-0b42b6119
+          - row "Row for Valentín Pérez Cerdá" [ref=f12e763]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Valentín Pérez Cerdá"
+            - generic [ref=f12e764]:
+              - cell "Valentín Pérez Cerdá" [ref=f12e765]
+              - cell "Site Reliability Engineer" [ref=f12e766]
+              - cell [ref=f12e767]:
+                - link "LinkedIn profile of Valentín Pérez Cerdá" [ref=f12e769] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/valentín-pérez-cerdá-633a57249
+          - row "Row for Victor Mariano Fernández" [ref=f12e774]:
+            - generic:
+              - generic:
+                - generic:
+                  - img "Victor Mariano Fernández"
+            - generic [ref=f12e775]:
+              - cell "Victor Mariano Fernández" [ref=f12e776]
+              - cell "Site Reliability Engineer" [ref=f12e777]
+              - cell [ref=f12e778]:
+                - link "LinkedIn profile of Victor Mariano Fernández" [ref=f12e780] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/victor-m-fernandez-0119691b5
+      - generic [ref=f12e785]:
+        - paragraph [ref=f12e786]: “I've worked with quite a few different data stacks, and I truly don't think we could have shipped what we have without Tinybird. We have achieved in a few days what would have taken ages with any other tooling.”
+        - generic [ref=f12e787]:
+          - paragraph [ref=f12e788]: Guy Needham
+          - paragraph [ref=f12e789]: Staff Backend Engineer at Canva
+      - generic [ref=f12e790]:
+        - generic [ref=f12e791]:
+          - paragraph [ref=f12e792]: "[03]"
+          - generic [ref=f12e793]:
+            - heading "Our Principles" [level=2] [ref=f12e794]
+            - generic [ref=f12e795]: We care about speed, autonomy, and developer experience.
+        - generic [ref=f12e796]:
+          - generic [ref=f12e797]:
+            - heading "/ Speed wins" [level=3] [ref=f12e798]:
+              - generic [ref=f12e799]: /
+              - generic [ref=f12e800]: Speed wins
+            - generic [ref=f12e801]:
+              - paragraph [ref=f12e802]: Move fast with intent.
+              - paragraph [ref=f12e803]: Ship early, learn from real usage, and keep feedback loops tight.
+              - paragraph [ref=f12e804]: Fast decisions, fast APIs, fast execution.
+          - generic [ref=f12e806]:
+            - heading "/ Own It & Drive It" [level=3] [ref=f12e807]:
+              - generic [ref=f12e808]: /
+              - generic [ref=f12e809]: Own It & Drive It
+            - generic [ref=f12e810]:
+              - paragraph [ref=f12e811]: Think and act like an owner.
+              - paragraph [ref=f12e812]: If it matters, take responsibility—push, unblock, follow up, and finish.
+              - paragraph [ref=f12e813]:
+                - text: "No"
+                - emphasis [ref=f12e814]: “someone should…”
+                - text: —
+                - strong [ref=f12e815]: you start
+                - text: .
+          - generic [ref=f12e816]:
+            - heading "/ Seek the Best Answer, Together" [level=3] [ref=f12e817]:
+              - generic [ref=f12e818]: /
+              - generic [ref=f12e819]: Seek the Best Answer, Together
+            - generic [ref=f12e820]:
+              - paragraph [ref=f12e821]: Challenge ideas, not people.
+              - paragraph [ref=f12e822]: Be ego-free, clear, transparent, and frugal.
+              - paragraph [ref=f12e823]: Share context, document decisions, work async, and choose simple, cost-effective solutions that keep everyone aligned and moving.
+      - generic [ref=f12e824]:
+        - heading "Backed by top-tier investors and angels" [level=3] [ref=f12e826]
+        - list [ref=f12e827]:
+          - listitem [ref=f12e828]:
+            - link [ref=f12e829] [cursor=pointer]:
+              - /url: https://www.balderton.com/
+              - img "Balderton Capital" [ref=f12e830]
+          - listitem [ref=f12e831]:
+            - link [ref=f12e832] [cursor=pointer]:
+              - /url: https://www.crv.com/
+              - img "CRV" [ref=f12e833]
+          - listitem [ref=f12e834]:
+            - link [ref=f12e835] [cursor=pointer]:
+              - /url: https://singular.vc/
+              - img "Singular" [ref=f12e836]
+          - listitem [ref=f12e837]:
+            - link [ref=f12e838] [cursor=pointer]:
+              - /url: https://crane.vc/
+              - img "Crane" [ref=f12e839]
+      - generic [ref=f12e840]:
+        - generic [ref=f12e841]:
+          - paragraph [ref=f12e842]: "[04]"
+          - generic [ref=f12e843]:
+            - heading "Join our team" [level=2] [ref=f12e844]
+            - generic [ref=f12e845]: "We embrace hard problems. We treat each other with respect. We strive to make this the best place we have ever worked. Check out our open positions:"
+        - table "Team members" [ref=f12e846]:
+          - row [ref=f12e847]:
+            - columnheader "/Job Position" [ref=f12e848]
+            - columnheader [ref=f12e849]
+        - generic [ref=f12e851]:
+          - paragraph [ref=f12e852]: Don't see your dream job?
+          - paragraph [ref=f12e853]:
+            - text: We always look for people to take our team to the next level. Apply via the
+            - link "open application" [ref=f12e854] [cursor=pointer]:
+              - /url: /job-offers/22cbcc27-89c4-4f87-87bc-6937712e7b10
+            - text: and tell us about yourself and what you'd like to work on at Tinybird.
+    - generic [ref=f12e857]:
+      - generic [ref=f12e858]:
+        - paragraph [ref=f12e859]: START NOW
+        - heading "Skip the infra work. Deploy your first ClickHouse project now" [level=2] [ref=f12e861]
+      - link "Try it now" [ref=f12e863] [cursor=pointer]:
+        - /url: https://cloud.tinybird.co/signup
+      - img "A geometric decoration with a matrix of rectangles." [ref=f12e867]
+    - generic [ref=f12e869]:
+      - generic [ref=f12e870]:
+        - generic [ref=f12e871]:
+          - generic [ref=f12e872]:
+            - paragraph [ref=f12e873]: Product /
+            - link "Watch the demo" [ref=f12e874] [cursor=pointer]:
+              - /url: https://www.youtube.com/watch?v=XB4UPBuSDSM
+            - link "Pricing" [ref=f12e875] [cursor=pointer]:
+              - /url: /pricing
+            - link "Security" [ref=f12e876] [cursor=pointer]:
+              - /url: /security
+            - link "Contact sales" [ref=f12e877] [cursor=pointer]:
+              - /url: /contact-us
+          - generic [ref=f12e878]:
+            - paragraph [ref=f12e879]: Company /
+            - link "About Us" [ref=f12e880] [cursor=pointer]:
+              - /url: /about
+            - link "Shop" [ref=f12e881] [cursor=pointer]:
+              - /url: https://shop.tinybird.co/
+            - link "Careers" [ref=f12e882] [cursor=pointer]:
+              - /url: /about#join-us
+        - generic [ref=f12e884]:
+          - paragraph [ref=f12e885]: Features /
+          - link "Managed ClickHouse" [ref=f12e886] [cursor=pointer]:
+            - /url: /product/managed-clickhouse
+          - link "Ingest" [ref=f12e887] [cursor=pointer]:
+            - /url: /product/ingest
+          - link "Query" [ref=f12e888] [cursor=pointer]:
+            - /url: /product/query
+          - link "Kafka Connector" [ref=f12e889] [cursor=pointer]:
+            - /url: /product/kafka
+          - link "AI-focused DevEx" [ref=f12e890] [cursor=pointer]:
+            - /url: /product/ai
+          - link "Schema Iteration" [ref=f12e891] [cursor=pointer]:
+            - /url: /product/schema-iteration
+          - link "Branches" [ref=f12e892] [cursor=pointer]:
+            - /url: /product/branches
+          - link "Workspace" [ref=f12e893] [cursor=pointer]:
+            - /url: /product/workspace
+          - link "Cluster Management" [ref=f12e894] [cursor=pointer]:
+            - /url: /product/cluster-management
+          - link "Organizations" [ref=f12e895] [cursor=pointer]:
+            - /url: /product/organizations
+        - generic [ref=f12e897]:
+          - paragraph [ref=f12e898]: Support /
+          - link "Plans" [ref=f12e899] [cursor=pointer]:
+            - /url: /product/support
+          - link "Documentation" [ref=f12e900] [cursor=pointer]:
+            - /url: /docs/forward/support
+          - link "SQL Reference" [ref=f12e901] [cursor=pointer]:
+            - /url: /docs/sql-reference
+          - link "Community" [ref=f12e902] [cursor=pointer]:
+            - /url: /docs/community
+          - link "Changelog" [ref=f12e903] [cursor=pointer]:
+            - /url: /docs/changelog
+        - generic [ref=f12e905]:
+          - paragraph [ref=f12e906]: Resources /
+          - link "Observability" [ref=f12e907] [cursor=pointer]:
+            - /url: /observability
+          - link "Blog" [ref=f12e908] [cursor=pointer]:
+            - /url: /blog
+          - link "AI Resources" [ref=f12e909] [cursor=pointer]:
+            - /url: /blog/category/ai-resources
+          - link "Customer Stories" [ref=f12e910] [cursor=pointer]:
+            - /url: /customer-stories
+          - link "Templates" [ref=f12e911] [cursor=pointer]:
+            - /url: /templates
+          - link "Tinybird Builds" [ref=f12e912] [cursor=pointer]:
+            - /url: /builds
+          - link "Glossary" [ref=f12e913] [cursor=pointer]:
+            - /url: /glossary
+          - link "RSS Feed" [ref=f12e914] [cursor=pointer]:
+            - /url: /blog/rss.xml
+          - link "Newsletter" [ref=f12e915] [cursor=pointer]:
+            - /url: /schema-evolution
+        - generic [ref=f12e917]:
+          - paragraph [ref=f12e918]: Integrations /
+          - link "Apache Kafka" [ref=f12e919] [cursor=pointer]:
+            - /url: /docs/forward/get-data-in/connectors/kafka
+          - link "Confluent Cloud" [ref=f12e920] [cursor=pointer]:
+            - /url: /docs/forward/get-data-in/connectors/kafka
+          - link "Redpanda" [ref=f12e921] [cursor=pointer]:
+            - /url: /docs/forward/get-data-in/connectors/kafka
+          - link "Google BigQuery" [ref=f12e922] [cursor=pointer]:
+            - /url: /docs/forward/get-data-in/guides/ingest-from-bigquery-using-google-cloud-storage
+          - link "Snowflake" [ref=f12e923] [cursor=pointer]:
+            - /url: /docs/forward/get-data-in/guides/ingest-from-snowflake-using-aws-s3
+          - link "Postgres Table Function" [ref=f12e924] [cursor=pointer]:
+            - /url: /docs/forward/get-data-in/table-functions/postgresql
+          - link "Amazon DynamoDB" [ref=f12e925] [cursor=pointer]:
+            - /url: /docs/forward/get-data-in/connectors
+          - link "Amazon S3" [ref=f12e926] [cursor=pointer]:
+            - /url: /docs/forward/get-data-in/connectors/s3
+        - generic [ref=f12e928]:
+          - link [ref=f12e929] [cursor=pointer]:
+            - /url: /docs/use-cases
+            - paragraph [ref=f12e930]: Use Cases /
+          - link "User-facing dashboards" [ref=f12e931] [cursor=pointer]:
+            - /url: /docs/use-cases/user-facing-dashboards
+          - link "Real-time Change Data Capture (CDC)" [ref=f12e932] [cursor=pointer]:
+            - /url: /docs/use-cases/realtime-cdc
+          - link "Gaming analytics" [ref=f12e933] [cursor=pointer]:
+            - /url: /docs/use-cases/gaming-analytics
+          - link "Web analytics" [ref=f12e934] [cursor=pointer]:
+            - /url: /docs/use-cases/web-analytics
+          - link "Real-time personalization" [ref=f12e935] [cursor=pointer]:
+            - /url: /docs/use-cases/realtime-personalization
+          - link "User-generated content (UGC) analytics" [ref=f12e936] [cursor=pointer]:
+            - /url: /docs/use-cases/ugc-analytics
+          - link "Content recommendation systems" [ref=f12e937] [cursor=pointer]:
+            - /url: /docs/use-cases/content-recommendation
+          - link "Vector search" [ref=f12e938] [cursor=pointer]:
+            - /url: /docs/use-cases/vector-search
+      - link "All systems operational" [ref=f12e941] [cursor=pointer]:
+        - /url: https://status.tinybird.co
+      - generic [ref=f12e954]:
+        - paragraph [ref=f12e955]: Copyright © 2026 Tinybird. All rights reserved
+        - generic [ref=f12e956]:
+          - link "Terms & conditions" [ref=f12e957] [cursor=pointer]:
+            - /url: /terms-and-conditions
+          - link "Cookies" [ref=f12e958] [cursor=pointer]:
+            - /url: /privacy#cookies
+          - button "Cookie Settings" [ref=f12e959]
+          - link "Trust Center" [ref=f12e960] [cursor=pointer]:
+            - /url: https://trust.tinybird.co/
+          - link "Compliance Helpline" [ref=f12e961] [cursor=pointer]:
+            - /url: https://tinybird.factorialhr.co/complaints
+        - generic [ref=f12e962]:
+          - link [ref=f12e963] [cursor=pointer]:
+            - /url: https://x.com/@tinybird
+          - link [ref=f12e967] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/tinybird-co/
+          - link [ref=f12e971] [cursor=pointer]:
+            - /url: /docs/community
+          - link [ref=f12e975] [cursor=pointer]:
+            - /url: https://instagram.com/tinybird_co
+    - img "Tinybird wordmark" [ref=f12e979]
+  - alert [ref=f12e980]
+  - generic [ref=f12e982]:
+    - generic [ref=f12e983]:
+      - paragraph [ref=f12e984]:
+        - text: Tinybird uses cookies and similar tech to enhance site navigation, analyze site usage and traffic, and as further described in our
+        - link "Privacy Notice" [ref=f12e985] [cursor=pointer]:
+          - /url: /privacy#cookies
+        - text: .
+      - paragraph [ref=f12e986]:
+        - text: Click "Allow All" to enable all cookies or "Reject All" to reject them.
+        - button "Privacy settings" [ref=f12e987] [cursor=pointer]
+        - text: .
+    - generic [ref=f12e989]:
+      - button "Reject all" [ref=f12e990] [cursor=pointer]
+      - button "Allow all" [ref=f12e992] [cursor=pointer]

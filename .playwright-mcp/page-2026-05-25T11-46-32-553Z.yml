@@ -1,0 +1,263 @@
+- generic [active] [ref=e1]:
+  - img "Banner" [ref=e3]
+  - main [ref=e4]:
+    - generic [ref=e5]:
+      - img "Open Energy Transition Logo" [ref=e7]
+      - generic [ref=e8]:
+        - link "Back to jobs" [ref=e9] [cursor=pointer]:
+          - /url: https://job-boards.eu.greenhouse.io/openenergytransition
+          - img [ref=e10]
+          - text: Back to jobs
+        - generic [ref=e13]:
+          - generic [ref=e14]:
+            - 'heading "Proactive Application: Energy System Modeler (Global | Remote | English)" [level=1] [ref=e15]'
+            - generic [ref=e16]:
+              - img [ref=e17]
+              - generic [ref=e19]: Global
+          - button "Apply" [ref=e20] [cursor=pointer]: Submit an application
+        - generic [ref=e22]:
+          - 'heading "🌍 Proactive Job Application: Energy System Modeler (Global | Remote | English)" [level=2] [ref=e23]':
+            - strong [ref=e24]: 🌍
+            - strong [ref=e25]: "Proactive Job Application: Energy System Modeler (Global | Remote | English)"
+          - paragraph [ref=e26]:
+            - strong [ref=e27]: "Location:"
+            - text: Remote | Global Opportunities Available
+            - text: (While we are incorporated in Germany, we are remote, and open to applicants from everywhere)
+            - strong [ref=e28]: "Type:"
+            - text: Open to Various Contract Types
+            - strong [ref=e29]: "Sector:"
+            - text: Non-Profit | Energy Transition
+          - heading "About Open Energy Transition" [level=4] [ref=e30]:
+            - strong [ref=e31]: About Open Energy Transition
+          - paragraph [ref=e32]:
+            - text: Open Energy Transition is a non-profit organization dedicated to accelerating the global energy transition through innovative open-source energy planning solutions. We are a team of passionate individuals committed to creating a sustainable future by enabling accessible, effective, and transparent energy management tools. More info at
+            - link "our website" [ref=e33] [cursor=pointer]:
+              - /url: https://openenergytransition.org/
+            - text: .
+          - heading "Why Apply Proactively?" [level=4] [ref=e34]:
+            - strong [ref=e35]: Why Apply Proactively?
+          - paragraph [ref=e36]: At Open Energy Transition, we value initiative and creativity. We recognize that exceptional talent may not always align with our posted roles but can make significant contributions to our mission.
+          - paragraph [ref=e37]: By submitting a proactive application, you give us the opportunity to consider your skills, experience, and cultural alignment for future roles.
+          - heading "Who Should Apply?" [level=4] [ref=e38]:
+            - strong [ref=e39]: Who Should Apply?
+          - paragraph [ref=e40]: "We encourage applications from individuals who:"
+          - list [ref=e41]:
+            - listitem [ref=e42]: Are deeply passionate about advancing the global energy transition.
+            - listitem [ref=e43]: Have expertise in areas such as energy modeling, data analysis, or other fields relevant to our mission.
+            - listitem [ref=e44]: Thrive in a collaborative, flexible, and mission-driven environments, with a flat hierarchy, and lots of collaboration across fully remote teams and different cultures.
+          - heading "What We Look For" [level=4] [ref=e45]:
+            - strong [ref=e46]: What We Look For
+          - paragraph [ref=e47]: "When reviewing proactive applications, we consider:"
+          - list [ref=e48]:
+            - listitem [ref=e49]: Relevant skills, experience, and/or projects that align with our mission and goals.
+            - listitem [ref=e50]: Demonstrated initiative, adaptability, dedication, self-management, and teamwork (including cross-functional collaboration).
+            - listitem [ref=e51]: A clear connection to Open Energy Transition’s vision and values (which you can learn more about on our website).
+            - listitem [ref=e52]: Having worked in a fully remote role before is a bonus (our team members are based all around the world - mainly in the EMEA region).
+          - paragraph [ref=e53]: We also value the diversity of our team. OET is open to applicants from all backgrounds, cultures, regions, and language groups. If you require any special accommodations during hiring or work, please let us know when applying.
+          - paragraph [ref=e54]: Individuals from both commercial and academic environments will be considered.
+          - heading "Next Steps" [level=4] [ref=e55]:
+            - strong [ref=e56]: Next Steps
+          - paragraph [ref=e57]: "Please note: applying via the proactive posting does not mean you will be contacted. We only reach out to proactive applicants if a suitable role arises, and we wish to proceed with screening calls."
+          - paragraph [ref=e58]: Your application will be reviewed and kept in our ATS. We may add certain individuals to specific Talent Pools for future consideration.
+          - paragraph [ref=e59]: Should an opportunity arise that aligns with your skills and interests, we will reach out to explore next steps.
+          - paragraph [ref=e60]: Join us in shaping a sustainable future. We look forward to learning more about you!
+        - generic [ref=e61]:
+          - img [ref=e62]
+          - generic [ref=e64]:
+            - paragraph [ref=e65]: Create a Job Alert
+            - paragraph [ref=e66]: Interested in building your career at Open Energy Transition? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e67] [cursor=pointer]
+      - separator [ref=e68]
+      - generic [ref=e69]:
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - heading "Apply for this job" [level=2] [ref=e73]
+            - generic [ref=e74]:
+              - paragraph [ref=e76]: "*"
+              - paragraph [ref=e77]: indicates a required field
+          - button "Autofill with MyGreenhouse" [ref=e80] [cursor=pointer]
+        - generic [ref=e81]:
+          - generic [ref=e82]:
+            - generic [ref=e85]:
+              - generic [ref=e86]: First Name*
+              - textbox "First Name" [ref=e87]
+            - generic [ref=e90]:
+              - generic [ref=e91]: Last Name*
+              - textbox "Last Name" [ref=e92]
+            - generic [ref=e95]:
+              - generic [ref=e96]: Preferred First Name
+              - textbox "Preferred First Name" [ref=e97]
+            - generic [ref=e100]:
+              - generic [ref=e101]: Email*
+              - textbox "Email" [ref=e102]
+            - group "Phone" [ref=e104]:
+              - generic [ref=e105]: Phone
+              - generic [ref=e108]:
+                - generic [ref=e109]: Country
+                - generic [ref=e110]:
+                  - log [ref=e112]
+                  - generic [ref=e114]:
+                    - combobox "Country" [ref=e117]
+                    - button "Toggle flyout" [ref=e119] [cursor=pointer]:
+                      - img [ref=e120]
+              - generic [ref=e124]:
+                - generic [ref=e125]: Phone
+                - textbox "Phone" [ref=e126]
+            - group "Resume/CV*" [ref=e128]:
+              - generic [ref=e129]: Resume/CV*
+              - generic [ref=e131]:
+                - generic [ref=e133]:
+                  - button "Attach" [ref=e134] [cursor=pointer]
+                  - generic [ref=e135]: Attach
+                  - button "Attach" [ref=e136]
+                - button "Dropbox" [ref=e138] [cursor=pointer]
+                - button "Google Drive" [ref=e140] [cursor=pointer]
+                - generic [ref=e142]:
+                  - button "Enter manually" [ref=e143] [cursor=pointer]
+                  - generic [ref=e144]: Enter manually
+                - paragraph [ref=e145]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter*" [ref=e147]:
+              - generic [ref=e148]: Cover Letter*
+              - generic [ref=e150]:
+                - generic [ref=e152]:
+                  - button "Attach" [ref=e153] [cursor=pointer]
+                  - generic [ref=e154]: Attach
+                  - button "Attach" [ref=e155]
+                - button "Dropbox" [ref=e157] [cursor=pointer]
+                - button "Google Drive" [ref=e159] [cursor=pointer]
+                - generic [ref=e161]:
+                  - button "Enter manually" [ref=e162] [cursor=pointer]
+                  - generic [ref=e163]: Enter manually
+                - paragraph [ref=e164]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e165]:
+            - generic [ref=e166]:
+              - separator [ref=e167]
+              - paragraph [ref=e169]: Education
+              - generic [ref=e171]:
+                - generic [ref=e172]: School*
+                - generic [ref=e173]:
+                  - log [ref=e175]
+                  - generic [ref=e177]:
+                    - generic [ref=e178]:
+                      - generic [ref=e179]: Select...
+                      - combobox "School" [ref=e181]
+                    - button "Toggle flyout" [ref=e183] [cursor=pointer]:
+                      - img [ref=e184]
+                  - textbox
+              - generic [ref=e187]:
+                - generic [ref=e188]: Degree*
+                - generic [ref=e189]:
+                  - log [ref=e191]
+                  - generic [ref=e193]:
+                    - generic [ref=e194]:
+                      - generic [ref=e195]: Select...
+                      - combobox "Degree" [ref=e197]
+                    - button "Toggle flyout" [ref=e199] [cursor=pointer]:
+                      - img [ref=e200]
+                  - textbox
+              - generic [ref=e203]:
+                - generic [ref=e204]: Discipline*
+                - generic [ref=e205]:
+                  - log [ref=e207]
+                  - generic [ref=e209]:
+                    - generic [ref=e210]:
+                      - generic [ref=e211]: Select...
+                      - combobox "Discipline" [ref=e213]
+                    - button "Toggle flyout" [ref=e215] [cursor=pointer]:
+                      - img [ref=e216]
+                  - textbox
+              - generic [ref=e218]:
+                - generic [ref=e219]:
+                  - generic [ref=e221]:
+                    - generic [ref=e222]: Start date month
+                    - generic [ref=e223]:
+                      - log [ref=e225]
+                      - generic [ref=e227]:
+                        - generic [ref=e228]:
+                          - generic [ref=e229]: Select...
+                          - combobox "Start date month" [ref=e231]
+                        - button "Toggle flyout" [ref=e233] [cursor=pointer]:
+                          - img [ref=e234]
+                  - generic [ref=e237]:
+                    - generic [ref=e238]: Start date year*
+                    - spinbutton "Start date year" [ref=e239]
+                - generic [ref=e240]:
+                  - generic [ref=e242]:
+                    - generic [ref=e243]: End date month
+                    - generic [ref=e244]:
+                      - log [ref=e246]
+                      - generic [ref=e248]:
+                        - generic [ref=e249]:
+                          - generic [ref=e250]: Select...
+                          - combobox "End date month" [ref=e252]
+                        - button "Toggle flyout" [ref=e254] [cursor=pointer]:
+                          - img [ref=e255]
+                  - generic [ref=e258]:
+                    - generic [ref=e259]: End date year*
+                    - spinbutton "End date year" [ref=e260]
+            - button "Add another" [ref=e261] [cursor=pointer]
+          - generic [ref=e262]:
+            - separator [ref=e263]
+            - generic [ref=e264]:
+              - generic [ref=e266]:
+                - generic [ref=e267]: Salary expectation (in EUR, per year, gross)*
+                - textbox "Salary expectation (in EUR, per year, gross)" [ref=e268]
+              - paragraph [ref=e271]: Please indicate your salary expectation in EUR (euros), per year, gross (i.e., before deductions)
+            - generic [ref=e272]:
+              - generic [ref=e274]:
+                - generic [ref=e275]: Please indicate your earliest start date*
+                - textbox "Please indicate your earliest start date" [ref=e276]
+              - paragraph [ref=e279]: Kindly include any relevant notice period information. If you don't have a specific start date, you can just type "whenever required".
+            - generic [ref=e280]:
+              - generic [ref=e282]:
+                - generic [ref=e283]: Please indicate your ideal start date*
+                - textbox "Please indicate your ideal start date" [ref=e284]
+              - generic [ref=e286]:
+                - paragraph
+                - paragraph [ref=e287]: Kindly include any relevant notice period information. If you don't have an ideal start date, you can just type "whenever required".
+                - paragraph
+            - generic [ref=e288]:
+              - generic [ref=e290]:
+                - generic [ref=e291]: LinkedIn Profile Link
+                - textbox "LinkedIn Profile Link" [ref=e292]
+              - paragraph [ref=e295]: Please link us to your LinkedIn profile, if you have one.
+            - generic [ref=e296]:
+              - generic [ref=e298]:
+                - generic [ref=e299]: GitHub / GitLab Profile Link
+                - textbox "GitHub / GitLab Profile Link" [ref=e300]
+              - paragraph [ref=e303]: Please share this if you have profiles on these sites
+            - generic [ref=e304]:
+              - generic [ref=e306]:
+                - generic [ref=e307]: Website Links
+                - textbox "Website Links" [ref=e308]
+              - paragraph [ref=e311]: Please link us to any personal websites and portfolios you have. You may include a link to Google Drive, if you host work or academic-related files there.
+            - generic [ref=e312]:
+              - generic [ref=e314]:
+                - generic [ref=e315]: What skills, qualifications, and experience would you bring to OET?*
+                - textbox "What skills, qualifications, and experience would you bring to OET?" [ref=e316]
+              - generic [ref=e318]:
+                - paragraph [ref=e319]: Please elaborate on what you envision yourself bringing to OET, which has led you to apply to be part of our team.
+                - paragraph [ref=e320]: Kindly include information about any relevant skills, qualifications, and experience.
+            - generic [ref=e323]:
+              - generic [ref=e324]: What career or academic accomplishment are you most proud of, and why?*
+              - textbox "What career or academic accomplishment are you most proud of, and why?" [ref=e325]
+            - generic [ref=e326]:
+              - generic [ref=e328]:
+                - generic [ref=e329]: How do you think your current and/or former team members (in your career or in academia) would describe you?*
+                - textbox "How do you think your current and/or former team members (in your career or in academia) would describe you?" [ref=e330]
+              - paragraph [ref=e333]: Please add as much info as you'd like to. A few characteristics is sufficient.
+            - generic [ref=e334]:
+              - generic [ref=e336]:
+                - generic [ref=e337]: What kind of work culture do you enjoy?*
+                - textbox "What kind of work culture do you enjoy?" [ref=e338]
+              - paragraph [ref=e341]: Please include any relevant information about your personality, styles of working and communicating, and what you believe you'd bring to OET's culture. Feel free to provide examples of cultures you've enjoyed being a part of in the past, and why you enjoyed them.
+            - generic [ref=e344]:
+              - generic [ref=e345]: Is there anything else you'd like to tell us, as part of your application?
+              - textbox "Is there anything else you'd like to tell us, as part of your application?" [ref=e346]
+          - button "Submit application" [ref=e348] [cursor=pointer]
+  - contentinfo [ref=e349]:
+    - generic [ref=e350]:
+      - paragraph [ref=e351]: Powered by
+      - link "Greenhouse logo" [ref=e352] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e353]

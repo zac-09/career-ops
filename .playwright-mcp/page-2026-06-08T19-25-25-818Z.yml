@@ -1,0 +1,483 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - navigation
+        - link "Remote4Africa Homepage" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]
+        - generic [ref=e28]:
+          - button "Remote Jobs" [ref=e29] [cursor=pointer]
+          - button "Resources" [ref=e30] [cursor=pointer]
+          - button "Job Seekers" [ref=e31] [cursor=pointer]
+          - link "Get Started" [ref=e32] [cursor=pointer]:
+            - /url: /register
+        - button "Search" [ref=e34] [cursor=pointer]:
+          - img [ref=e35]
+    - main [ref=e38]:
+      - generic [ref=e39]:
+        - generic [ref=e40]:
+          - generic [ref=e41]:
+            - navigation "breadcrumb" [ref=e42]:
+              - list [ref=e43]:
+                - listitem [ref=e44]:
+                  - link "Remote4Africa" [ref=e45] [cursor=pointer]:
+                    - /url: /
+                - listitem [ref=e46]: ›
+                - listitem [ref=e47]:
+                  - link "Latest Remote Jobs" [ref=e48] [cursor=pointer]:
+                    - /url: /jobs
+                - listitem [ref=e49]: ›
+                - listitem [ref=e50]:
+                  - link "Remote Software Development (web/mobile) Jobs" [ref=e51] [cursor=pointer]:
+                    - /url: /categories/software-development
+                - listitem [ref=e52]: ›
+                - listitem [ref=e53]:
+                  - heading "Remote Backend Engineer, Node.js/TypeScript | EMEA" [level=1] [ref=e54]
+            - generic [ref=e55]:
+              - generic [ref=e56]:
+                - generic [ref=e57]:
+                  - generic [ref=e58]: Posted on May 14
+                  - generic [ref=e59]:
+                    - button "Sign in to save" [ref=e60] [cursor=pointer]:
+                      - img [ref=e61]
+                    - button "Share job" [ref=e63] [cursor=pointer]:
+                      - img [ref=e64]
+                - heading "Backend Engineer, Node.js/TypeScript | EMEA fulltime" [level=3] [ref=e66]:
+                  - text: Backend Engineer, Node.js/TypeScript | EMEA
+                  - generic [ref=e68]: fulltime
+                - generic [ref=e69]:
+                  - heading "Human Resource Services Company" [level=6] [ref=e70]
+                  - link "Subscribe to reveal company" [ref=e71] [cursor=pointer]:
+                    - /url: /subscriptions/plans
+                    - img [ref=e72]
+              - generic [ref=e76]:
+                - generic [ref=e77]:
+                  - generic [ref=e78]: Category
+                  - link "Software Development (web/mobile)" [ref=e80] [cursor=pointer]:
+                    - /url: /categories/software-development
+                - generic [ref=e81]:
+                  - generic [ref=e82]: Regions
+                  - link "Kenya" [ref=e84] [cursor=pointer]:
+                    - /url: /jobs/region/kenya
+                - generic [ref=e85]:
+                  - generic [ref=e86]: Countries
+                  - generic [ref=e87]:
+                    - link "Kenya" [ref=e89] [cursor=pointer]:
+                      - /url: /remote-jobs/ke
+                    - generic [ref=e91]:
+                      - text: more
+                      - img [ref=e93]
+                - generic [ref=e97]:
+                  - generic [ref=e98]: Skills
+                  - generic [ref=e99]:
+                    - link "AWS" [ref=e100] [cursor=pointer]:
+                      - /url: /jobs/skill/aws
+                    - link "JavaScript" [ref=e101] [cursor=pointer]:
+                      - /url: /jobs/skill/javascript
+                    - link "Node.js" [ref=e102] [cursor=pointer]:
+                      - /url: /jobs/skill/node-js
+                    - link "PostgreSQL" [ref=e103] [cursor=pointer]:
+                      - /url: /jobs/skill/postgresql
+                    - link "SQL" [ref=e104] [cursor=pointer]:
+                      - /url: /jobs/skill/sql
+                    - link "Typescript" [ref=e105] [cursor=pointer]:
+                      - /url: /jobs/skill/typescript
+                - generic [ref=e106]:
+                  - generic [ref=e107]: Timezones
+                  - link "EAT (UTC +3)" [ref=e110] [cursor=pointer]:
+                    - /url: /jobs/timezone/EAT
+              - generic [ref=e111]:
+                - generic [ref=e112]: Location Kenya&nbsp;Who we are is what we do.Our software is the all-in-one payroll and HR platform for global teams. Our vision is to unlock global opportunity for every person, team, and business. B
+                - link "Get Instant Access to This Job + 1,000s More ✓ One-click apply to verified remote jobs ✓ 100% scam-free guarantee ✓ Jobs verified to hire from Africa ✓ Direct application links (no middlemen) ✓ Free AI resume grading & interview prep Join Free & Apply Now" [ref=e116] [cursor=pointer]:
+                  - /url: /register?callbackUrl=/jobs/backend-engineer-nodejstypescript-emea-4
+                  - generic [ref=e118]:
+                    - generic [ref=e119]:
+                      - img [ref=e120]
+                      - heading "Get Instant Access to This Job + 1,000s More" [level=3] [ref=e121]
+                      - list [ref=e122]:
+                        - listitem [ref=e123]: ✓ One-click apply to verified remote jobs
+                        - listitem [ref=e124]: ✓ 100% scam-free guarantee
+                        - listitem [ref=e125]: ✓ Jobs verified to hire from Africa
+                        - listitem [ref=e126]: ✓ Direct application links (no middlemen)
+                        - listitem [ref=e127]: ✓ Free AI resume grading & interview prep
+                    - button "Join Free & Apply Now" [ref=e129]
+              - alert [ref=e131]:
+                - img [ref=e133]
+                - generic [ref=e135]:
+                  - text: Consider reviewing or updating your resume and cover letter to make a strong first impression.
+                  - link "Get Started" [ref=e136] [cursor=pointer]:
+                    - /url: https://cvhack.com?utm_source=remote4africa&utm_medium=referral&utm_campaign=remote4africa_below_apply_button
+          - generic [ref=e137]:
+            - heading "Related Jobs" [level=2] [ref=e139]
+            - generic [ref=e141]:
+              - generic [ref=e142]:
+                - generic [ref=e143]:
+                  - generic [ref=e144]:
+                    - generic [ref=e145]: I
+                    - generic [ref=e146]:
+                      - paragraph [ref=e147]:
+                        - text: IT Services and IT Consulting Company
+                        - link "Subscribe to reveal company" [ref=e148] [cursor=pointer]:
+                          - /url: /subscriptions/plans
+                          - img [ref=e149]
+                      - link "Sr Software Test Engineer (Enterprise Platform)" [ref=e152] [cursor=pointer]:
+                        - /url: /jobs/sr-software-test-engineer-enterprise-platform
+                      - generic [ref=e153]:
+                        - generic [ref=e154]: 100% Remote
+                        - generic [ref=e155]: fulltime
+                        - generic [ref=e156]: Anywhere in the World
+                      - generic [ref=e157]:
+                        - img [ref=e158]
+                        - text: Global
+                  - paragraph [ref=e161]: Jun 06
+                - generic [ref=e162]:
+                  - generic [ref=e163]:
+                    - generic [ref=e164]: I
+                    - generic [ref=e165]:
+                      - paragraph [ref=e166]:
+                        - text: IT Services and IT Consulting Company
+                        - link "Subscribe to reveal company" [ref=e167] [cursor=pointer]:
+                          - /url: /subscriptions/plans
+                          - img [ref=e168]
+                      - link "Senior Front-End Engineer" [ref=e171] [cursor=pointer]:
+                        - /url: /jobs/senior-front-end-engineer-9
+                      - generic [ref=e172]:
+                        - generic [ref=e173]: 100% Remote
+                        - generic [ref=e174]: fulltime
+                        - generic [ref=e175]: Anywhere in the World
+                      - generic [ref=e176]:
+                        - img [ref=e177]
+                        - text: Global
+                  - paragraph [ref=e180]: Jun 06
+                - generic [ref=e181]:
+                  - generic [ref=e182]:
+                    - generic [ref=e183]: F
+                    - generic [ref=e184]:
+                      - paragraph [ref=e185]:
+                        - text: Financial Services / FinTech Company
+                        - link "Subscribe to reveal company" [ref=e186] [cursor=pointer]:
+                          - /url: /subscriptions/plans
+                          - img [ref=e187]
+                      - 'link "Senior Software Engineer (Backend): Cards" [ref=e190] [cursor=pointer]':
+                        - /url: /jobs/senior-software-engineer-backend-cards
+                      - generic [ref=e191]:
+                        - generic [ref=e192]: Hybrid Remote
+                        - generic [ref=e193]: fulltime
+                      - generic [ref=e194]:
+                        - img [ref=e195]
+                        - text: South Africa, Bulgaria, Poland and Spain
+                  - paragraph [ref=e198]: Jun 06
+                - generic [ref=e199]:
+                  - generic [ref=e200]:
+                    - generic [ref=e201]: F
+                    - generic [ref=e202]:
+                      - paragraph [ref=e203]:
+                        - text: Financial Services / FinTech Company
+                        - link "Subscribe to reveal company" [ref=e204] [cursor=pointer]:
+                          - /url: /subscriptions/plans
+                          - img [ref=e205]
+                      - 'link "Senior Software Engineer (Backend): Crypto Payments" [ref=e208] [cursor=pointer]':
+                        - /url: /jobs/senior-software-engineer-backend-crypto-payments
+                      - generic [ref=e209]:
+                        - generic [ref=e210]: Hybrid Remote
+                        - generic [ref=e211]: fulltime
+                      - generic [ref=e212]:
+                        - img [ref=e213]
+                        - text: South Africa, Bulgaria, Poland, Spain
+                  - paragraph [ref=e216]: Jun 06
+                - generic [ref=e217]:
+                  - generic [ref=e218]:
+                    - generic [ref=e219]: F
+                    - generic [ref=e220]:
+                      - paragraph [ref=e221]:
+                        - text: Financial Services / FinTech Company
+                        - link "Subscribe to reveal company" [ref=e222] [cursor=pointer]:
+                          - /url: /subscriptions/plans
+                          - img [ref=e223]
+                      - 'link "Senior Software Engineer (Backend): FinCrime" [ref=e226] [cursor=pointer]':
+                        - /url: /jobs/senior-software-engineer-backend-fincrime
+                      - generic [ref=e227]:
+                        - generic [ref=e228]: Hybrid Remote
+                        - generic [ref=e229]: fulltime
+                      - generic [ref=e230]:
+                        - img [ref=e231]
+                        - text: South Africa, Bulgaria, Poland, Spain
+                  - paragraph [ref=e234]: Jun 06
+              - link "View all Jobs" [ref=e236] [cursor=pointer]:
+                - /url: /categories/software-development
+                - text: View all Jobs
+                - img [ref=e238]
+          - generic [ref=e241]:
+            - heading "Prepare for this role" [level=2] [ref=e242]
+            - generic [ref=e243]:
+              - generic [ref=e245]:
+                - link "Data Analytics Interview Questions and Answers" [ref=e246] [cursor=pointer]:
+                  - /url: /interviews/data-analytics-interview-questions-and-answers
+                  - img "Data Analytics Interview Questions and Answers" [ref=e247]
+                - generic [ref=e248]:
+                  - generic [ref=e249]:
+                    - generic [ref=e251]: medium
+                    - generic [ref=e252]:
+                      - img [ref=e253]
+                      - generic [ref=e255]: Timed
+                  - heading "Data Analytics Interview Questions and Answers" [level=3] [ref=e256]:
+                    - link "Data Analytics Interview Questions and Answers" [ref=e257] [cursor=pointer]:
+                      - /url: /interviews/data-analytics-interview-questions-and-answers
+                  - paragraph [ref=e258]: This guide is designed to help you prepare for a Data Analytics interview and technical assessment. The Data Analytics i
+                  - generic [ref=e259]: "Role: Data Analytics"
+                  - generic [ref=e260]:
+                    - generic [ref=e261]:
+                      - img [ref=e262]
+                      - paragraph [ref=e265]: 172 questions
+                    - generic [ref=e266]:
+                      - img [ref=e267]
+                      - paragraph [ref=e270]: 60 min
+              - generic [ref=e272]:
+                - link "Database Administrator Interview Questions and Answers" [ref=e273] [cursor=pointer]:
+                  - /url: /interviews/database-administrator-interview-questions-and-answers
+                  - img "Database Administrator Interview Questions and Answers" [ref=e274]
+                - generic [ref=e275]:
+                  - generic [ref=e276]:
+                    - generic [ref=e278]: medium
+                    - generic [ref=e279]:
+                      - img [ref=e280]
+                      - generic [ref=e282]: Timed
+                  - heading "Database Administrator Interview Questions and Answers" [level=3] [ref=e283]:
+                    - link "Database Administrator Interview Questions and Answers" [ref=e284] [cursor=pointer]:
+                      - /url: /interviews/database-administrator-interview-questions-and-answers
+                  - paragraph [ref=e285]: This guide is designed to help you prepare for a Database Administrator (DBA) interview and technical test. The Database
+                  - generic [ref=e286]: "Role: Database Administrator"
+                  - generic [ref=e287]:
+                    - generic [ref=e288]:
+                      - img [ref=e289]
+                      - paragraph [ref=e292]: 250 questions
+                    - generic [ref=e293]:
+                      - img [ref=e294]
+                      - paragraph [ref=e297]: 60 min
+              - generic [ref=e299]:
+                - link "Data Analyst Interview Questions and Answers" [ref=e300] [cursor=pointer]:
+                  - /url: /interviews/data-analyst-interview-questions-and-answers
+                  - img "Data Analyst Interview Questions and Answers" [ref=e301]
+                - generic [ref=e302]:
+                  - generic [ref=e303]:
+                    - generic [ref=e305]: medium
+                    - generic [ref=e306]:
+                      - img [ref=e307]
+                      - generic [ref=e309]: Timed
+                  - heading "Data Analyst Interview Questions and Answers" [level=3] [ref=e310]:
+                    - link "Data Analyst Interview Questions and Answers" [ref=e311] [cursor=pointer]:
+                      - /url: /interviews/data-analyst-interview-questions-and-answers
+                  - paragraph [ref=e312]: This practice test, "Data Analyst Interview Questions and Answers," is designed to help you prepare for interviews by te
+                  - generic [ref=e313]: "Role: Data Analyst"
+                  - generic [ref=e314]:
+                    - generic [ref=e315]:
+                      - img [ref=e316]
+                      - paragraph [ref=e319]: 164 questions
+                    - generic [ref=e320]:
+                      - img [ref=e321]
+                      - paragraph [ref=e324]: 60 min
+        - generic [ref=e326]:
+          - link "Subscribe to Premium Join our premium membership ✓ Find a better job, faster! ✓ Hand-screened jobs ✓ No ads, scams, junk ✓ Quality job search support ✓ Quality Career Resources / Coaching ✓ Resume Evaluation Tool ✓ Job Fit Analysis and Support Tool Join Now" [ref=e327] [cursor=pointer]:
+            - /url: /subscriptions/plans
+            - generic [ref=e328]:
+              - generic [ref=e329]:
+                - generic [ref=e330]: Subscribe to Premium
+                - paragraph [ref=e331]: Join our premium membership
+                - list [ref=e332]:
+                  - listitem [ref=e333]: ✓ Find a better job, faster!
+                  - listitem [ref=e334]: ✓ Hand-screened jobs
+                  - listitem [ref=e335]: ✓ No ads, scams, junk
+                  - listitem [ref=e336]: ✓ Quality job search support
+                  - listitem [ref=e337]: ✓ Quality Career Resources / Coaching
+                  - listitem [ref=e338]: ✓ Resume Evaluation Tool
+                  - listitem [ref=e339]: ✓ Job Fit Analysis and Support Tool
+              - button "Join Now" [ref=e341]
+          - link "Need a Professional CV/Resume? Want a CV/resume that stands out? Use CVHack to create a professional, ATS friendly resume in minutes. Showcase your strengths, skills and start getting interviews. Get Started" [ref=e342] [cursor=pointer]:
+            - /url: https://cvhack.com/resume/start?utm_source=remote4africa&utm_medium=referral&utm_campaign=remote4africa
+            - generic [ref=e343]:
+              - generic [ref=e344]:
+                - generic [ref=e345]:
+                  - img [ref=e346]
+                  - generic [ref=e349]: Need a Professional CV/Resume?
+                - paragraph [ref=e350]: Want a CV/resume that stands out? Use CVHack to create a professional, ATS friendly resume in minutes. Showcase your strengths, skills and start getting interviews.
+              - button "Get Started" [ref=e352]
+          - link "Unsure About Your Next Career Step? Get personalized guidance! Our AI Career Coach helps you explore potential paths, identify skill gaps, and create a roadmap for your future. Find Your Path" [ref=e353] [cursor=pointer]:
+            - /url: /career-coach
+            - generic [ref=e354]:
+              - generic [ref=e355]:
+                - generic [ref=e356]:
+                  - img [ref=e357]
+                  - generic [ref=e359]: Unsure About Your Next Career Step?
+                - paragraph [ref=e360]: Get personalized guidance! Our AI Career Coach helps you explore potential paths, identify skill gaps, and create a roadmap for your future.
+              - button "Find Your Path" [ref=e362]
+    - contentinfo [ref=e363]:
+      - generic [ref=e364]:
+        - generic [ref=e366]:
+          - link "Remote4Africa" [ref=e368] [cursor=pointer]:
+            - /url: /
+            - img [ref=e369]
+          - paragraph [ref=e390]: Remote4Africa provides information on vetted remote job opportunities open for Africans to apply. Remote4Africa is a remote work community for Africans.
+          - generic [ref=e391]:
+            - link "Download on the App Store" [ref=e392] [cursor=pointer]:
+              - /url: https://apps.apple.com/app/remote4africa-remote-jobs/id6757875752
+              - img [ref=e393]
+              - generic [ref=e395]:
+                - paragraph [ref=e396]: Download on the
+                - paragraph [ref=e397]: App Store
+            - link "Get it on Google Play" [ref=e398] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.remote4africa.app
+              - img [ref=e399]
+              - generic [ref=e401]:
+                - paragraph [ref=e402]: Get it on
+                - paragraph [ref=e403]: Google Play
+          - paragraph
+        - generic [ref=e404]:
+          - generic [ref=e405]:
+            - heading "Job Seekers" [level=4] [ref=e406]
+            - list [ref=e407]:
+              - listitem [ref=e408]:
+                - link "Latest Remote Jobs" [ref=e409] [cursor=pointer]:
+                  - /url: /
+                  - generic [ref=e411]: Latest Remote Jobs
+              - listitem [ref=e412]:
+                - link "Membership" [ref=e413] [cursor=pointer]:
+                  - /url: /subscriptions/plans
+                  - generic [ref=e415]: Membership
+              - listitem [ref=e416]:
+                - link "Career Resources" [ref=e417] [cursor=pointer]:
+                  - /url: /resources
+                  - generic [ref=e419]: Career Resources
+              - listitem [ref=e420]:
+                - link "Career Skills" [ref=e421] [cursor=pointer]:
+                  - /url: /skills
+                  - generic [ref=e423]: Career Skills
+              - listitem [ref=e424]:
+                - link "Interview Questions" [ref=e425] [cursor=pointer]:
+                  - /url: /interviews
+                  - generic [ref=e427]: Interview Questions
+              - listitem [ref=e428]:
+                - link "Career Coach" [ref=e429] [cursor=pointer]:
+                  - /url: /career-coach
+                  - generic [ref=e431]: Career Coach
+              - listitem [ref=e432]:
+                - link "Improve Your Resume / Coverletter" [ref=e433] [cursor=pointer]:
+                  - /url: https://cvhack.com?utm_source=remote4africa&utm_medium=referral&utm_campaign=remote4africa
+                  - generic [ref=e435]: Improve Your Resume / Coverletter
+          - generic [ref=e436]:
+            - heading "Company" [level=4] [ref=e437]
+            - list [ref=e438]:
+              - listitem [ref=e439]:
+                - link "Post Job" [ref=e440] [cursor=pointer]:
+                  - /url: /jobs/plans
+                  - generic [ref=e442]: Post Job
+              - listitem [ref=e443]:
+                - link "Hire a Talent" [ref=e444] [cursor=pointer]:
+                  - /url: /talent-sourcing
+                  - generic [ref=e446]: Hire a Talent
+              - listitem [ref=e447]:
+                - link "Blog" [ref=e448] [cursor=pointer]:
+                  - /url: https://remote4africa.com/blog
+                  - generic [ref=e450]: Blog
+          - generic [ref=e451]:
+            - heading "Support" [level=4] [ref=e452]
+            - list [ref=e453]:
+              - listitem [ref=e454]:
+                - link "Contact Us" [ref=e455] [cursor=pointer]:
+                  - /url: /contact
+                  - generic [ref=e457]: Contact Us
+              - listitem [ref=e458]:
+                - link "FAQ" [ref=e459] [cursor=pointer]:
+                  - /url: /faq
+                  - generic [ref=e461]: FAQ
+            - link "Facebook" [ref=e462] [cursor=pointer]:
+              - /url: https://www.facebook.com/remote4africa
+              - img [ref=e463]
+            - link "Instagram" [ref=e465] [cursor=pointer]:
+              - /url: https://www.instagram.com/remote4africa
+              - img [ref=e466]
+            - link "Youtube" [ref=e468] [cursor=pointer]:
+              - /url: https://www.youtube.com/@remote4africa
+              - img [ref=e469]
+            - link "X/Twitter" [ref=e471] [cursor=pointer]:
+              - /url: https://x.com/remote4africa
+              - img [ref=e472]
+            - link "Linkedin" [ref=e474] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/remote4africa
+              - img [ref=e475]
+            - link "Telegram" [ref=e477] [cursor=pointer]:
+              - /url: https://t.me/remote4africa
+              - img [ref=e478]
+      - generic [ref=e480]:
+        - heading "Remote Jobs by Location" [level=4] [ref=e482]
+        - list [ref=e484]:
+          - listitem [ref=e485]:
+            - link "Cameroon" [ref=e486] [cursor=pointer]:
+              - /url: /remote-jobs/cm
+              - generic [ref=e490]: Cameroon
+        - list [ref=e492]:
+          - listitem [ref=e493]:
+            - link "Egypt" [ref=e494] [cursor=pointer]:
+              - /url: /remote-jobs/eg
+              - generic [ref=e498]: Egypt
+        - list [ref=e500]:
+          - listitem [ref=e501]:
+            - link "Ethiopia" [ref=e502] [cursor=pointer]:
+              - /url: /remote-jobs/et
+              - generic [ref=e506]: Ethiopia
+        - list [ref=e508]:
+          - listitem [ref=e509]:
+            - link "Ghana" [ref=e510] [cursor=pointer]:
+              - /url: /remote-jobs/gh
+              - generic [ref=e514]: Ghana
+        - list [ref=e516]:
+          - listitem [ref=e517]:
+            - link "Kenya" [ref=e518] [cursor=pointer]:
+              - /url: /remote-jobs/ke
+              - generic [ref=e522]: Kenya
+        - list [ref=e524]:
+          - listitem [ref=e525]:
+            - link "Morocco" [ref=e526] [cursor=pointer]:
+              - /url: /remote-jobs/ma
+              - generic [ref=e530]: Morocco
+        - list [ref=e532]:
+          - listitem [ref=e533]:
+            - link "Nigeria" [ref=e534] [cursor=pointer]:
+              - /url: /remote-jobs/ng
+              - generic [ref=e538]: Nigeria
+        - list [ref=e540]:
+          - listitem [ref=e541]:
+            - link "Rwanda" [ref=e542] [cursor=pointer]:
+              - /url: /remote-jobs/rw
+              - generic [ref=e546]: Rwanda
+        - list [ref=e548]:
+          - listitem [ref=e549]:
+            - link "Senegal" [ref=e550] [cursor=pointer]:
+              - /url: /remote-jobs/sn
+              - generic [ref=e554]: Senegal
+        - list [ref=e556]:
+          - listitem [ref=e557]:
+            - link "South Africa" [ref=e558] [cursor=pointer]:
+              - /url: /remote-jobs/za
+              - generic [ref=e562]: South Africa
+        - list [ref=e564]:
+          - listitem [ref=e565]:
+            - link "Tanzania" [ref=e566] [cursor=pointer]:
+              - /url: /remote-jobs/tz
+              - generic [ref=e570]: Tanzania
+        - list [ref=e572]:
+          - listitem [ref=e573]:
+            - link "Uganda" [ref=e574] [cursor=pointer]:
+              - /url: /remote-jobs/ug
+              - generic [ref=e578]: Uganda
+        - button "Show all 57 countries" [ref=e580] [cursor=pointer]
+    - paragraph [ref=e581]:
+      - text: Copyright ©
+      - link "Boolean Limited" [ref=e582] [cursor=pointer]:
+        - /url: https://booleanlimited.com
+      - text: "2026."
+      - link "Terms" [ref=e583] [cursor=pointer]:
+        - /url: /terms
+      - link "Privacy" [ref=e584] [cursor=pointer]:
+        - /url: /privacy
+  - alert [ref=e585]

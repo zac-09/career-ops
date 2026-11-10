@@ -1,0 +1,142 @@
+- generic [ref=f543e2]:
+  - link "Skip to content" [ref=f543e4]:
+    - /url: "#content"
+  - generic [ref=f543e5]:
+    - generic [ref=f543e10]:
+      - generic [ref=f543e11]:
+        - link "Make logo Homepage" [ref=f543e12]:
+          - /url: /
+          - img "Make logo" [ref=f543e13]
+          - generic [ref=f543e14]: Homepage
+        - link "Make logo Homepage" [ref=f543e15]:
+          - /url: /
+          - img "Make logo" [ref=f543e16]
+          - generic [ref=f543e17]: Homepage
+      - navigation [ref=f543e19]:
+        - list [ref=f543e20]:
+          - listitem [ref=f543e21]:
+            - link "linkedin" [ref=f543e22]:
+              - /url: https://www.linkedin.com/company/letsmake/
+          - listitem [ref=f543e23]:
+            - link "letsmake.com" [ref=f543e25] [cursor=pointer]:
+              - /url: http://letsmake.com
+    - main [ref=f543e27]:
+      - generic [ref=f543e37]:
+        - heading "Backend Engineer (Freelance)" [level=1] [ref=f543e38]
+        - list [ref=f543e39]:
+          - listitem [ref=f543e40]: Remote
+          - listitem [ref=f543e42]:
+            - list [ref=f543e45]:
+              - listitem [ref=f543e46]:
+                - text: Dallas
+                - generic [ref=f543e47]: ","
+                - text: Texas
+                - generic [ref=f543e48]: ","
+                - text: United States
+          - listitem [ref=f543e49]: Engineering
+      - generic [ref=f543e59]:
+        - tablist [ref=f543e62]:
+          - tab "Job details" [selected] [ref=f543e63] [cursor=pointer]
+          - tab "Apply" [ref=f543e64] [cursor=pointer]
+        - generic [ref=f543e65]:
+          - tabpanel "Job details" [ref=f543e66]:
+            - generic [ref=f543e68]:
+              - generic [ref=f543e71]:
+                - heading "Job description" [level=2] [ref=f543e72]
+                - generic [ref=f543e74]:
+                  - paragraph [ref=f543e75]:
+                    - text: 📍
+                    - strong [ref=f543e76]: "Location:"
+                    - text: Remote (Work from Anywhere)🗓️
+                    - strong [ref=f543e77]: "Date:"
+                    - text: The expected duration for this project is
+                    - strong [ref=f543e78]: August 2026
+                    - text: through
+                    - strong [ref=f543e79]: December 2026
+                    - text: 🌍
+                    - strong [ref=f543e80]: "Time Zone:"
+                    - text: Available for meetings in
+                    - strong [ref=f543e81]: Central
+                    - strong [ref=f543e82]: Time
+                    - text: ", with at least"
+                    - strong [ref=f543e83]: 2–3 hours
+                    - text: of daily overlap⏰
+                    - strong [ref=f543e84]: "Working Hours:"
+                    - strong [ref=f543e85]: Full-time
+                    - text: availability is required (
+                    - strong [ref=f543e86]: Aug
+                    - text: through
+                    - strong [ref=f543e87]: Dec
+                    - strong [ref=f543e88]: "2026"
+                    - text: )
+                  - paragraph [ref=f543e89]
+                  - paragraph [ref=f543e90]:
+                    - text: Are you a
+                    - strong [ref=f543e91]: Backend Engineer
+                    - text: looking to craft large-scale software using AI-first techniques to drive growth and create experiences that end users love?
+                  - paragraph [ref=f543e92]
+                  - paragraph [ref=f543e93]: 😀 At Make, we're proud to have created award-winning software that's been used by billions of people, with 25+ featured placements in the App Store and Google Play. Our clients have real end users and real challenges, and they view us as trusted advisors and thought leaders.
+                  - paragraph [ref=f543e94]
+                  - paragraph [ref=f543e95]: If you have a genuine enthusiasm for AI and creating software, and thrive in environments that encourage creativity, self-management, and a strong focus on culture, we want to hear from you! 💯
+                - heading "Job requirements" [level=2] [ref=f543e96]
+                - generic [ref=f543e98]:
+                  - heading [level=4] [ref=f543e99]:
+                    - strong [ref=f543e100]: What You'll Do
+                  - list [ref=f543e101]:
+                    - listitem [ref=f543e102]:
+                      - paragraph [ref=f543e103]: • Join a team of AI-first engineers
+                    - listitem [ref=f543e104]:
+                      - paragraph [ref=f543e105]:
+                        - text: • Build and maintain backend services using TypeScript and
+                        - link "Node.js" [ref=f543e106]:
+                          - /url: http://Node.js
+                        - text: .
+                    - listitem [ref=f543e107]:
+                      - paragraph [ref=f543e108]: • Integrate backend functionality with third-party APIs and external data services
+                    - listitem [ref=f543e109]:
+                      - paragraph [ref=f543e110]: • Write clean, readable, and well-tested code.
+                    - listitem [ref=f543e111]:
+                      - paragraph [ref=f543e112]: • Use AI tools daily to streamline development, debugging, refactoring, and documentation workflows without compromising quality
+                    - listitem [ref=f543e113]:
+                      - paragraph [ref=f543e114]: • Work closely with other engineers in a remote-first environment, proactively communicating progress, blockers, and risks
+                    - listitem [ref=f543e115]:
+                      - paragraph [ref=f543e116]: • Identify issues proactively, spotting bugs, performance bottlenecks, or architectural risks early and taking ownership of solutions.
+                      - paragraph [ref=f543e117]
+                  - heading [level=4] [ref=f543e118]:
+                    - strong [ref=f543e119]: What You'll Bring
+                  - list [ref=f543e120]:
+                    - listitem [ref=f543e121]:
+                      - paragraph [ref=f543e122]: • An AI-first mindset
+                    - listitem [ref=f543e123]:
+                      - paragraph [ref=f543e124]: • Hands-on experience using Cursor, Claude Code, or Codex
+                    - listitem [ref=f543e125]:
+                      - paragraph [ref=f543e126]: • Hands-on experience building at least one large-scale system from scratch
+                    - listitem [ref=f543e127]:
+                      - paragraph [ref=f543e128]: • +5 years of backend experience
+                    - listitem [ref=f543e129]:
+                      - paragraph [ref=f543e130]: • +2 years of Node experience
+                    - listitem [ref=f543e131]:
+                      - paragraph [ref=f543e132]: • Excellent communication skills and comfort working in an asynchronous, remote environment
+                    - listitem [ref=f543e133]:
+                      - paragraph [ref=f543e134]: "• A proactive, ownership-driven mindset: you see problems, raise them early, and help solve them"
+                    - listitem [ref=f543e135]:
+                      - paragraph [ref=f543e136]: • Comfort operating in a 100% operational role, managing priorities and complexity independently
+                  - heading [level=4]
+                  - heading [level=3] [ref=f543e137]:
+                    - strong [ref=f543e138]: About Make (
+                    - link "letsMake.com" [ref=f543e139]:
+                      - /url: http://letsMake.com
+                    - strong [ref=f543e140]: )
+                  - paragraph [ref=f543e141]: Make is an AI-first design and engineering agency based in Texas, with team members worldwide. We’re proud to have created award-winning software that has been featured in TechCrunch, Mashable, US Weekly, CBS News, Texas Monthly, and The Today Show. A multi-disciplinary team of engineers and designers, we are passionate about creating world-class software that people enjoy using. At the end of the day, more than our work life, it’s our life’s work 💙.
+                  - paragraph [ref=f543e142]: We are a team of talented individuals who take ownership of the entire project beyond their own craft. We value proactive communication, autonomy, and initiative. You'll be joining a team of 'Managers of One'—people who set their own direction, identify what needs to be done, and dive in without waiting for permission 💯.
+                  - paragraph [ref=f543e143]
+                  - paragraph [ref=f543e144]: We’re not only passionate about our craft but also about our culture. We deeply believe that work is purposeful, and that culture is one of the most important parts of any team. Our culture informs our decisions, sets our standards, and guides our interactions 😀.
+              - generic [ref=f543e146]:
+                - button "Apply" [ref=f543e147] [cursor=pointer]
+                - generic [ref=f543e148]:
+                  - paragraph [ref=f543e149]: or
+                  - button "Apply with Indeed" [ref=f543e154] [cursor=pointer]
+                - button "Share job" [ref=f543e156] [cursor=pointer]
+          - text:          
+    - link "Hiring with Recruitee" [ref=f543e158]:
+      - /url: https://recruitee.com

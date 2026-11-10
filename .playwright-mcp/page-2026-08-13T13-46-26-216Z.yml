@@ -1,0 +1,173 @@
+- generic [ref=f552e2]:
+  - img "Background" [ref=f552e3]
+  - generic [ref=f552e4]:
+    - banner [ref=f552e5]:
+      - generic [ref=f552e6]:
+        - link "Go to home page" [ref=f552e8] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f552e28]:
+          - link "Docs" [ref=f552e29] [cursor=pointer]:
+            - /url: https://docs.ojin.ai/
+          - link "Pricing" [ref=f552e31] [cursor=pointer]:
+            - /url: /pricing
+          - link "Community" [ref=f552e33] [cursor=pointer]:
+            - /url: /community
+          - link "Enterprise" [ref=f552e35] [cursor=pointer]:
+            - /url: /enterprise
+          - link "About" [ref=f552e37] [cursor=pointer]:
+            - /url: /about-us
+        - link [ref=f552e40] [cursor=pointer]:
+          - /url: https://api.ojin.ai/v1/auth/login?redirect_path=%2Fdashboard
+          - generic [ref=f552e41]:
+            - text: Get Started
+            - progressbar "Checking sign-in status" [ref=f552e42]
+    - navigation
+    - main [ref=f552e45]:
+      - generic [ref=f552e47]:
+        - generic [ref=f552e48]:
+          - link [ref=f552e49] [cursor=pointer]:
+            - /url: /careers
+            - paragraph [ref=f552e50]: ← All open positions
+          - link "Apply for this role" [ref=f552e51] [cursor=pointer]:
+            - /url: https://job-boards.eu.greenhouse.io/ojin/jobs/4716174101
+        - generic [ref=f552e52]:
+          - heading "Product Engineer (m/f/d)" [level=1] [ref=f552e53]
+          - paragraph [ref=f552e54]: Berlin OR Remote (Europe) | Tech
+        - generic [ref=f552e55]:
+          - generic [ref=f552e56]:
+            - heading "About Ojin" [level=3] [ref=f552e57]
+            - paragraph [ref=f552e58]: Ojin is The Human AI Company. We build the infrastructure that makes AI feel human. Our Human Agents deliver natural, lifelike conversations in real time, powered by our proprietary models and blazing-fast APIs on a globally distributed GPU fabric.
+            - paragraph [ref=f552e59]: We have delivered award-winning work with brands including BMW, H&M, and Clinique. Our new platform will define how the world experiences AI and we're assembling a small, ambitious team of exceptional people to do it.
+          - generic [ref=f552e60]:
+            - heading "The Role" [level=3] [ref=f552e61]
+            - paragraph [ref=f552e62]: As a Product Engineer, you will not just write code, you will own products and features end-to-end. In the modern AI accelerated landscape, we believe a single high leverage engineer can drive impact comparable to entire teams of the past. You will be the bridge between technical implementation, product design, and user experience.
+            - paragraph [ref=f552e63]: We are looking for a builder who thrives in startup environments. You will work directly on Ojin, building everything from high-end interactive frontends to complex backend agentic systems. You won't just be handed a ticket; you will help define the solution, design the architecture, and ship it to users.
+            - paragraph [ref=f552e64]: This is a full-time position, either in our Berlin office or remote (CET +/- 2h).
+          - generic [ref=f552e65]:
+            - heading "What You'll Do" [level=3] [ref=f552e66]
+            - list [ref=f552e67]:
+              - listitem [ref=f552e68]:
+                - strong [ref=f552e69]: "End-to-End Ownership:"
+                - text: Drive features and projects from abstract concepts to production deployment. You will take ownership across UI/UX design, product logic, and technical implementation.
+              - listitem [ref=f552e70]:
+                - strong [ref=f552e71]: "Full-Stack Web Development:"
+                - text: Architect and build our core web infrastructure using TypeScript, React, and Node.js. You will ensure our user-facing applications are responsive, intuitive, and robust.
+              - listitem [ref=f552e72]:
+                - strong [ref=f552e73]: "AI & Agent Systems:"
+                - text: Develop and maintain Python backends for our AI capabilities, including proxy services, agentic systems, and conversational AI flows.
+              - listitem [ref=f552e74]:
+                - strong [ref=f552e75]: "Systems Architecture:"
+                - text: Design scalable backend systems, considering trade-offs around performance and scalability as the product evolves. While you will have support from the team, we expect you to drive architectural decisions that balance speed of delivery with long term reliability.
+              - listitem [ref=f552e76]:
+                - strong [ref=f552e77]: "Cross-Functional Leadership:"
+                - text: Collaborate closely with founders, designers, and other engineers. You will be a key voice in shaping the product roadmap and technical strategy.
+          - generic [ref=f552e78]:
+            - heading "What We're Looking For" [level=3] [ref=f552e79]
+            - list [ref=f552e80]:
+              - listitem [ref=f552e81]:
+                - strong [ref=f552e82]: "Experience:"
+                - text: You have 3-5 years of professional software development experience.
+              - listitem [ref=f552e83]:
+                - strong [ref=f552e84]: "Startup Experience:"
+                - text: Startup experience is a must. You have navigated the ambiguity of early-stage companies and know how to move fast without breaking things.
+              - listitem [ref=f552e85]:
+                - strong [ref=f552e86]: "True Full-Stack:"
+                - text: You possess strong hands-on skills in Frontend (React, TypeScript) and Backend (Node.js, TypeScript), and are comfortable owning features across the entire stack independently.
+              - listitem [ref=f552e87]:
+                - strong [ref=f552e88]: "Python & AI Competence:"
+                - text: You are proficient in Python and have experience or a strong ambition to build backend systems for AI agents and conversational interfaces.
+              - listitem [ref=f552e89]:
+                - strong [ref=f552e90]: "Product Mindset:"
+                - text: You are enthusiastic about UI/UX, product design, and making trade-offs that benefit the customer.
+              - listitem [ref=f552e91]:
+                - strong [ref=f552e92]: "Architectural Depth:"
+                - text: You have the rigor to design complex systems that scale, acquired through years of hands-on experience.
+              - listitem [ref=f552e93]:
+                - strong [ref=f552e94]: "Communication:"
+                - text: Professional fluency in English, both spoken and written. You can articulate complex technical concepts to the team and stakeholders.
+          - generic [ref=f552e95]:
+            - heading "Nice to Haves" [level=3] [ref=f552e96]
+            - list [ref=f552e97]:
+              - listitem [ref=f552e98]: Experience with WebRTC and WebSockets for real time applications.
+              - listitem [ref=f552e99]: Experience with performance optimization for global, low latency systems.
+              - listitem [ref=f552e100]: Experience with Infrastructure-as-Code (IaC, AWS CDK) and AWS.
+              - listitem [ref=f552e101]: Background in building developer tools, API platforms, or AI enabled products.
+          - generic [ref=f552e102]:
+            - heading "Why Work With Us" [level=3] [ref=f552e103]
+            - paragraph [ref=f552e104]: We offer the autonomy to do your best work, the tools you need to succeed, and the rest you need to recover. We're looking for high performers who take ownership, move fast, and deliver exceptional results.
+            - list [ref=f552e105]:
+              - listitem [ref=f552e106]:
+                - strong [ref=f552e107]: "High-Impact, Low-Bureaucracy:"
+                - text: As a Product Engineer, you will have a high degree of autonomy and direct impact on the product direction. You'll work alongside a small team of talented individuals where your productivity is multiplied, not hindered.
+              - listitem [ref=f552e108]:
+                - strong [ref=f552e109]: "Remote-First Culture:"
+                - text: We are a remote first company with a Berlin HQ. You can work from anywhere within CET +/-2 hours.
+              - listitem [ref=f552e110]:
+                - strong [ref=f552e111]: "Rest & Recovery:"
+                - text: We offer 28 days of paid vacation in Europe (in other countries, specifics may vary) plus 1 additional mental health day per year.
+              - listitem [ref=f552e112]:
+                - strong [ref=f552e113]: "Continuous Growth:"
+                - text: We value continuous learning and provide an annual education budget of €900 to support your professional development.
+              - listitem [ref=f552e114]:
+                - strong [ref=f552e115]: "Home Equipment:"
+                - text: If you need home office equipment, we'll provide it for you.
+              - listitem [ref=f552e116]:
+                - strong [ref=f552e117]: "Values:"
+                - text: We are driven by high performance, transparency, humbleness, and pride in our work.
+          - paragraph [ref=f552e119]:
+            - emphasis [ref=f552e120]: Ojin is committed to creating a diverse and inclusive workplace where everyone is treated with dignity, respect, and fairness. We value diversity in all its forms, including but not limited to race, ethnicity, gender, sexual orientation, age, religion, national origin, disability, and veteran status. We believe that a diverse and inclusive workplace leads to better business outcomes, stronger relationships with our customers and partners, and a more fulfilling work experience for our employees.
+        - link "Apply for this role" [ref=f552e122] [cursor=pointer]:
+          - /url: https://job-boards.eu.greenhouse.io/ojin/jobs/4716174101
+    - contentinfo [ref=f552e123]:
+      - generic [ref=f552e124]:
+        - generic [ref=f552e125]:
+          - generic [ref=f552e126]:
+            - link "Ojin home" [ref=f552e127] [cursor=pointer]:
+              - /url: /
+            - heading "The Human AI Company" [level=5] [ref=f552e137]
+          - generic [ref=f552e139]:
+            - generic [ref=f552e140]:
+              - heading "Product" [level=5] [ref=f552e141]
+              - generic [ref=f552e142]:
+                - link "Models" [ref=f552e143] [cursor=pointer]:
+                  - /url: /dashboard/models
+                - link "Pricing" [ref=f552e144] [cursor=pointer]:
+                  - /url: /pricing
+                - link "Enterprise" [ref=f552e145] [cursor=pointer]:
+                  - /url: /enterprise
+            - generic [ref=f552e146]:
+              - heading "Resources" [level=5] [ref=f552e147]
+              - generic [ref=f552e148]:
+                - link "Documentation" [ref=f552e149] [cursor=pointer]:
+                  - /url: https://docs.ojin.ai/
+                - link "Careers" [ref=f552e150] [cursor=pointer]:
+                  - /url: /careers
+                - link "Community" [ref=f552e151] [cursor=pointer]:
+                  - /url: /community
+                - link "About Us" [ref=f552e152] [cursor=pointer]:
+                  - /url: /about-us
+                - link "Insights" [ref=f552e153] [cursor=pointer]:
+                  - /url: /insights
+            - generic [ref=f552e154]:
+              - heading "Follow us" [level=5] [ref=f552e155]
+              - generic [ref=f552e156]:
+                - link "GitHub" [ref=f552e157] [cursor=pointer]:
+                  - /url: https://github.com/ojinai/
+                - link "LinkedIn" [ref=f552e158] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/ojininai/
+                - link "X" [ref=f552e159] [cursor=pointer]:
+                  - /url: https://x.com/Ojin_AI/
+                - link "Instagram" [ref=f552e160] [cursor=pointer]:
+                  - /url: https://www.instagram.com/ojin.ai/
+                - link "YouTube" [ref=f552e161] [cursor=pointer]:
+                  - /url: https://youtube.com/channel/UCktHeD4SnI5wjEaRHugCUFg
+        - generic [ref=f552e163]:
+          - generic [ref=f552e164]: © 2026 Journee Technologies GmbH
+          - generic [ref=f552e165]: "|"
+          - generic [ref=f552e166]:
+            - link "Privacy" [ref=f552e167] [cursor=pointer]:
+              - /url: /privacy
+            - link "Terms" [ref=f552e168] [cursor=pointer]:
+              - /url: /terms
+            - link "Imprint" [ref=f552e169] [cursor=pointer]:
+              - /url: /imprint

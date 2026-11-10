@@ -1,0 +1,17 @@
+[    2007ms] [WARNING] Datadog Browser SDK: SDK is loaded more than once. This is unsupported and might have unexpected behavior. @ https://staticfe.bamboohr.com/fe-main/prod/js/fabric.6a1a1790.dist.js:98
+[    2307ms] [WARNING] Datadog Browser SDK: SDK is loaded more than once. This is unsupported and might have unexpected behavior. @ https://staticfe.bamboohr.com/fe-main/prod/js/vendor.80dbdf5c.dist.js:1
+[    2388ms] [WARNING] Datadog Browser SDK: SDK is loaded more than once. This is unsupported and might have unexpected behavior. @ https://staticfe.bamboohr.com/fe-main/prod/js/vendor.80dbdf5c.dist.js:1
+[    2457ms] [WARNING] Datadog Browser SDK: SDK is loaded more than once. This is unsupported and might have unexpected behavior. @ https://staticfe.bamboohr.com/fe-main/prod/js/vendor.80dbdf5c.dist.js:1
+[    2833ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://deimoscloud.bamboohr.com/globals/sessionCompany:0
+[    2835ms] Uncaught (in promise) Error: Request failed with status code 401
+    at e (https://staticfe.bamboohr.com/fe-main/prod/js/vendor.80dbdf5c.dist.js:1:1025893)
+    at e (https://staticfe.bamboohr.com/fe-main/prod/js/vendor.80dbdf5c.dist.js:1:1028481)
+    at e (https://staticfe.bamboohr.com/fe-main/prod/js/vendor.80dbdf5c.dist.js:1:1021870)
+[    3782ms] [WARNING] Datadog Browser SDK: SDK is loaded more than once. This is unsupported and might have unexpected behavior. @ https://staticfe.bamboohr.com/fe-main/prod/js/rollbar.js/rollbar.min.js:0
+[    3956ms] [WARNING] Datadog Browser SDK: SDK is loaded more than once. This is unsupported and might have unexpected behavior. @ https://staticfe.bamboohr.com/fe-main/prod/js/rollbar.js/rollbar.min.js:0
+[    4514ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://staticfe.bamboohr.com/locale/manifests/po/en/manifest.json:0
+[    4515ms] Uncaught (in promise) Error: Request failed with status code 404
+    at e.exports (https://staticfe.bamboohr.com/po/prod/index-f431f0297b90abdac744.js:22:196777)
+    at e.exports (https://staticfe.bamboohr.com/po/prod/index-f431f0297b90abdac744.js:22:1311991)
+    at m.onreadystatechange (https://staticfe.bamboohr.com/po/prod/index-f431f0297b90abdac744.js:5:628628)
+    at t._rollbar_wrapped.t._rollbar_wrapped (https://staticfe.bamboohr.com/fe-main/prod/js/rollbar.js/rollbar.min.js:0:19520)

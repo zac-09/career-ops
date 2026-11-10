@@ -1,0 +1,111 @@
+- main "micro-container2" [ref=f55e3]:
+  - generic [ref=f55e9]:
+    - generic [ref=f55e10]:
+      - generic [ref=f55e12]:
+        - img "Zoftify Eesti OÜ" [ref=f55e13]
+        - link "Privacy Policy" [ref=f55e15] [cursor=pointer]:
+          - /url: http://www.bamboohr.com/privacy.php
+      - generic [ref=f55e20]:
+        - generic [ref=f55e22]:
+          - link "Job Openings" [ref=f55e24] [cursor=pointer]:
+            - /url: /careers
+          - generic [ref=f55e29]:
+            - generic [ref=f55e31]:
+              - heading "Full Stack Developer (React + Node.js)" [level=3] [ref=f55e32]
+              - generic [ref=f55e33]: Development - Remote
+            - separator [ref=f55e34]
+          - generic [ref=f55e37]:
+            - paragraph [ref=f55e38]: "We are Zoftify, a product development agency specializing in solutions for travel companies. Unlike outsourcing firms, we concentrate on delivering real business value to our clients and take full responsibility for the solutions we build. Our approach is dynamic: we use modern frameworks and practices to develop cutting-edge digital products."
+            - paragraph [ref=f55e39]
+            - paragraph [ref=f55e40]: Our international team has been working fully remotely since 2019, and we continue in this format because it has proven its efficiency.
+            - paragraph [ref=f55e41]
+            - paragraph [ref=f55e42]:
+              - generic [ref=f55e43]: We are now looking for a Full Stack Developer who will help us build beautiful, complex, and high-performance web and mobile applications. This is an excellent opportunity to become a part of a growing company and work with clients from around the world.
+            - paragraph [ref=f55e44]
+            - paragraph [ref=f55e45]: What you will do
+            - list [ref=f55e46]:
+              - listitem [ref=f55e47]: Work on international projects (USA, UK, Germany, Switzerland, Italy, France)
+              - listitem [ref=f55e48]: Build modern web applications based on Figma designs
+              - listitem [ref=f55e49]: Develop reliable and scalable backend solutions
+              - listitem [ref=f55e50]: Use modern technologies to achieve excellent results
+              - listitem [ref=f55e51]: Work in an agile environment
+            - paragraph [ref=f55e52]
+            - paragraph [ref=f55e53]: What we expect
+            - list [ref=f55e54]:
+              - listitem [ref=f55e55]: 2+ years of commercial experience
+              - listitem [ref=f55e56]:
+                - generic [ref=f55e57]: Strong knowledge of React.js and Node.js
+              - listitem [ref=f55e58]:
+                - generic [ref=f55e59]: Experience working with TypeScript
+              - listitem [ref=f55e60]:
+                - generic [ref=f55e61]: Experience developing and integrating REST APIs
+              - listitem [ref=f55e62]:
+                - generic [ref=f55e63]: Experience with SQL databases (e.g., PostgreSQL)
+              - listitem [ref=f55e64]: Ability to create pixel-perfect UI
+              - listitem [ref=f55e65]: Experience building applications from scratch
+              - listitem [ref=f55e66]: Good spoken English
+            - paragraph [ref=f55e67]
+            - paragraph [ref=f55e68]: Nice to have
+            - list [ref=f55e69]:
+              - listitem [ref=f55e70]:
+                - generic [ref=f55e71]: Experience with Next.js
+              - listitem [ref=f55e72]:
+                - generic [ref=f55e73]: Experience with NestJS
+              - listitem [ref=f55e74]:
+                - generic [ref=f55e75]: Experience with Tailwind CSS
+              - listitem [ref=f55e76]: Experience with animated UI components
+              - listitem [ref=f55e77]: Experience with Docker, Kubernetes
+              - listitem [ref=f55e78]: Experience with cloud platforms (AWS, Azure, GCP, Firebase)
+              - listitem [ref=f55e79]: Experience with NoSQL databases
+              - listitem [ref=f55e80]: Commercial experience in mobile development (iOS, Android)
+            - paragraph [ref=f55e81]
+            - paragraph [ref=f55e82]: What we offer
+            - list [ref=f55e83]:
+              - listitem [ref=f55e84]: Competitive compensation based on experience and skills
+              - listitem [ref=f55e85]: 100% remote work from anywhere in the world
+              - listitem [ref=f55e86]: Flexible schedule
+              - listitem [ref=f55e87]: Day off on your birthday
+              - listitem [ref=f55e88]: Paid national holidays
+              - listitem [ref=f55e89]: Paid vacation and additional corporate days off
+              - listitem [ref=f55e90]: Health days
+              - listitem [ref=f55e91]: Paid learning and courses
+              - listitem [ref=f55e92]: Regular performance reviews
+              - listitem [ref=f55e93]: Bonuses
+              - listitem [ref=f55e94]: A friendly team with a great atmosphere
+        - generic [ref=f55e96]:
+          - generic [ref=f55e98]:
+            - button "Apply for This Job" [ref=f55e99] [cursor=pointer]
+            - separator [ref=f55e101]
+            - generic [ref=f55e103]:
+              - generic [ref=f55e104]: Link to This Job
+              - textbox "Link to This Job" [ref=f55e108]: https://zoftify.bamboohr.com/careers/41
+            - generic [ref=f55e110]:
+              - button "Share LinkedIn" [ref=f55e112] [cursor=pointer]
+              - button "Share Twitter" [ref=f55e117] [cursor=pointer]
+              - button "Share Facebook" [ref=f55e122] [cursor=pointer]
+          - generic [ref=f55e126]:
+            - generic [ref=f55e127]:
+              - paragraph [ref=f55e129]: Location
+              - paragraph [ref=f55e131]: Remote
+              - separator [ref=f55e132]
+            - generic [ref=f55e133]:
+              - paragraph [ref=f55e135]: Department
+              - paragraph [ref=f55e137]: Development
+              - separator [ref=f55e138]
+            - generic [ref=f55e139]:
+              - paragraph [ref=f55e141]: Employment Type
+              - paragraph [ref=f55e143]: Full-Time
+              - separator [ref=f55e144]
+            - generic [ref=f55e145]:
+              - paragraph [ref=f55e147]: Minimum Experience
+              - paragraph [ref=f55e149]: Mid-level
+              - separator [ref=f55e150]
+    - generic [ref=f55e152]:
+      - generic [ref=f55e153]:
+        - link "Privacy Policy" [ref=f55e154] [cursor=pointer]:
+          - /url: https://www.bamboohr.com/privacy-policy
+        - generic [ref=f55e156]: •
+        - link "Terms of Service" [ref=f55e157] [cursor=pointer]:
+          - /url: https://www.bamboohr.com/terms-of-service
+      - generic [ref=f55e159]: •
+      - paragraph [ref=f55e160]: © BambooHR All rights reserved.

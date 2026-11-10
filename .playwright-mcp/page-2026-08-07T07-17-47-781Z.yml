@@ -1,0 +1,458 @@
+- generic [ref=e2]:
+  - region "Notifications alt+T"
+  - link "Skip to content →":
+    - /url: "#skip-nav"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - navigation "Main" [ref=e5]:
+        - list "Site navigation" [ref=e8]:
+          - listitem [ref=e9]:
+            - link "Navigate to home" [ref=e11] [cursor=pointer]:
+              - /url: /homepage
+              - img "Linear" [ref=e12]
+          - listitem [ref=e14]:
+            - list [ref=e15]:
+              - listitem [ref=e16]:
+                - button "Product" [ref=e17] [cursor=pointer]
+              - listitem [ref=e18]:
+                - button "Resources" [ref=e19] [cursor=pointer]
+              - listitem [ref=e20]:
+                - link "Customers" [ref=e21] [cursor=pointer]:
+                  - /url: /customers
+              - listitem [ref=e22]:
+                - link "Pricing" [ref=e23] [cursor=pointer]:
+                  - /url: /pricing
+              - listitem [ref=e24]:
+                - link "Now" [ref=e25] [cursor=pointer]:
+                  - /url: /now
+              - listitem [ref=e26]:
+                - link "Contact" [ref=e27] [cursor=pointer]:
+                  - /url: /contact
+            - list [ref=e29]:
+              - listitem [ref=e30]:
+                - link "Log in" [ref=e32] [cursor=pointer]:
+                  - /url: /login
+              - listitem [ref=e33]:
+                - link "Sign up" [ref=e34] [cursor=pointer]:
+                  - /url: /signup
+    - main [ref=e35]:
+      - generic [ref=e38]:
+        - heading "Help us craft high-quality tools" [level=1] [ref=e39]
+        - generic [ref=e41]:
+          - paragraph [ref=e42]: We are building a new species of product tool. Will you help us make it better?
+          - link "Open roles ↓" [ref=e43] [cursor=pointer]:
+            - /url: "#join-us"
+      - region "Media player" [ref=e47]:
+        - generic [ref=e48]:
+          - img "Linear logo" [ref=e50]
+          - generic [ref=e52] [cursor=pointer]
+          - generic [ref=e53]:
+            - button "Play (keyboard shortcut k)" [ref=e54] [cursor=pointer]
+            - button "Mute (keyboard shortcut m)" [ref=e58] [cursor=pointer]
+            - generic [ref=e62]:
+              - timer [ref=e64]:
+                - generic [ref=e65]: Elapsed
+                - text: 00:00
+              - slider "Seek slider" [ref=e66]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: "Seek to:"
+                        - text: 00:00
+                    - generic:
+                      - text: /
+                      - time:
+                        - generic: Duration
+                        - text: 06:06
+              - timer [ref=e68]:
+                - generic [ref=e69]: Remaining
+                - text: −06:06
+            - combobox "Change playback rate (keyboard shortcut > or <)" [ref=e70]:
+              - option "0.25×"
+              - option "0.5×"
+              - option "0.75×"
+              - option "1×" [selected]
+              - option "1.25×"
+              - option "1.5×"
+              - option "1.75×"
+              - option "2×"
+            - button "Toggle captions" [ref=e71] [cursor=pointer]
+            - button "Picture-in-Picture (keyboard shortcut p)" [ref=e75] [cursor=pointer]
+            - button "Full screen (keyboard shortcut f)" [ref=e79] [cursor=pointer]
+      - generic [ref=e86]:
+        - heading "On a quest for quality" [level=2] [ref=e87]
+        - generic [ref=e88]:
+          - generic [ref=e89]:
+            - paragraph [ref=e90]: We believe that there is a lost art of building software. A craftsmanship that yields products of an exceptional, almost magical, quality.
+            - paragraph [ref=e91]: It’s difficult to describe this quality with words and impossible to measure it in numbers, but you can feel it when it’s there. You know it when you experience it. To bring back this level of quality, we are building a tool that empowers product teams to do their best work. A tool with unparalleled speed, focus, and design.
+            - paragraph [ref=e92]: Building this tool requires a team of talented individuals who care deeply about the quality of their work, no matter if it’s engineering, design, or customer support. We are looking for people who share our passion for software craftsmanship and getting even the smallest details right. If that sounds like you, please reach out and join us on our quest.
+          - link "›_ README" [ref=e93] [cursor=pointer]:
+            - /url: /readme
+      - generic [ref=e99]:
+        - link "A conversation on quality Karri Saarinen" [ref=e100] [cursor=pointer]:
+          - /url: https://linear.app/quality/02
+          - generic [ref=e103]:
+            - generic [ref=e104]: A conversation on quality
+            - generic [ref=e108]: Karri Saarinen
+        - link "Building the sync engine Tuomas Artman" [ref=e109] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=Wo2m3jaJixU&ab_channel=Linear
+          - generic [ref=e112]:
+            - generic [ref=e113]: Building the sync engine
+            - generic [ref=e117]: Tuomas Artman
+        - link "How we build products Lenny’s Podcast" [ref=e118] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=nTr21kgCFF4&ab_channel=Lenny%27sPodcast
+          - generic [ref=e121]:
+            - generic [ref=e122]: How we build products
+            - generic [ref=e126]: Lenny’s Podcast
+        - link "At home with Karri Saarinen Indie" [ref=e127] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=p3tHGu84vOg&ab_channel=INDIE
+          - generic [ref=e130]:
+            - generic [ref=e131]: At home with Karri Saarinen
+            - generic [ref=e135]: Indie
+        - link "Move fast with little process The Pragmatic Engineer" [ref=e136] [cursor=pointer]:
+          - /url: https://www.youtube.com/watch?v=AI_UMnTM4o8&ab_channel=ThePragmaticEngineer
+          - generic [ref=e139]:
+            - generic [ref=e140]: Move fast with little process
+            - generic [ref=e144]: The Pragmatic Engineer
+      - generic [ref=e147]:
+        - generic [ref=e148]:
+          - heading "How we think and work" [level=2] [ref=e149]
+          - paragraph [ref=e150]: Linear’s mission is to inspire and accelerate builders. To turn that ambition into reality, we operate based on a set of core principles that keep us focused.
+        - list [ref=e152]:
+          - listitem [ref=e153]:
+            - generic [ref=e154]:
+              - generic [ref=e155]: "01."
+              - generic [ref=e156]: Ship early
+            - generic [ref=e157]: Simplify and ship smaller.
+          - listitem [ref=e158]:
+            - generic [ref=e159]:
+              - generic [ref=e160]: "02."
+              - generic [ref=e161]: Build with users
+            - generic [ref=e162]: Listen carefully and understand their problems.
+          - listitem [ref=e163]:
+            - generic [ref=e164]:
+              - generic [ref=e165]: "03."
+              - generic [ref=e166]: Know what good looks like
+            - generic [ref=e167]: Find and create good things. Know what needs to change to make it better.
+          - listitem [ref=e168]:
+            - generic [ref=e169]:
+              - generic [ref=e170]: "04."
+              - generic [ref=e171]: Think in principles
+            - generic [ref=e172]: Not in playbooks.
+          - listitem [ref=e173]:
+            - generic [ref=e174]:
+              - generic [ref=e175]: "05."
+              - generic [ref=e176]: Build things that last
+            - generic [ref=e177]: Put care into the foundation. Don’t make it a future person’s problem.
+          - listitem [ref=e178]:
+            - generic [ref=e179]:
+              - generic [ref=e180]: "06."
+              - generic [ref=e181]: Avoid side quests
+            - generic [ref=e182]: Don’t fix every problem. Avoid adding unnecessary process or documents.
+          - listitem [ref=e183]:
+            - generic [ref=e184]:
+              - generic [ref=e185]: "07."
+              - generic [ref=e186]: Say it as it is
+            - generic [ref=e187]: Get to the point and assume good intentions.
+          - listitem [ref=e188]:
+            - generic [ref=e189]:
+              - generic [ref=e190]: "08."
+              - generic [ref=e191]: Keep the team small, do more with less
+            - generic [ref=e192]: We build better with fewer people. Wear multiple hats.
+          - listitem [ref=e193]:
+            - generic [ref=e194]:
+              - generic [ref=e195]: "09."
+              - generic [ref=e196]: Hire the best people
+            - generic [ref=e197]: The best people hire the best people. Help recruit.
+          - listitem [ref=e198]:
+            - generic [ref=e199]:
+              - generic [ref=e200]: "10."
+              - generic [ref=e201]: Create fans
+            - generic [ref=e202]: Build a community of people who use, love, and defend the product.
+          - listitem [ref=e203]:
+            - generic [ref=e204]:
+              - generic [ref=e205]: "11."
+              - generic [ref=e206]: Fully remote
+            - generic [ref=e207]: The freedom to work remotely allows for more meaningful work.
+      - generic [ref=e210]:
+        - heading "Open roles" [level=2] [ref=e212]
+        - list [ref=e214]:
+          - listitem [ref=e215]:
+            - link "Sales" [ref=e219] [cursor=pointer]:
+              - /url: "#sales"
+            - link "Account Executive, Enterprise North America Learn more" [ref=e220] [cursor=pointer]:
+              - /url: /careers/1bfdcabe-aa5f-4999-9a6d-b8a824dd779b
+              - generic [ref=e221]: Account Executive, Enterprise
+              - generic [ref=e223]:
+                - generic [ref=e224]: North America
+                - generic [ref=e225]: Learn more
+            - link "Account Executive, Growth North America Learn more" [ref=e226] [cursor=pointer]:
+              - /url: /careers/453f1ba0-a35e-4ed2-8215-1514e0a30b92
+              - generic [ref=e227]: Account Executive, Growth
+              - generic [ref=e229]:
+                - generic [ref=e230]: North America
+                - generic [ref=e231]: Learn more
+            - link "Account Executive, Startups North America Learn more" [ref=e232] [cursor=pointer]:
+              - /url: /careers/c21af93e-210f-4969-8eaa-90fb16a5b720
+              - generic [ref=e233]: Account Executive, Startups
+              - generic [ref=e235]:
+                - generic [ref=e236]: North America
+                - generic [ref=e237]: Learn more
+            - link "Customer Success Manager North America Learn more" [ref=e238] [cursor=pointer]:
+              - /url: /careers/370d9605-f02f-44f9-97fa-ebf769bed93d
+              - generic [ref=e239]: Customer Success Manager
+              - generic [ref=e241]:
+                - generic [ref=e242]: North America
+                - generic [ref=e243]: Learn more
+            - link "Implementation Manager North America Learn more" [ref=e244] [cursor=pointer]:
+              - /url: /careers/cec84487-60f2-4216-a514-dcf190c86c1e
+              - generic [ref=e245]: Implementation Manager
+              - generic [ref=e247]:
+                - generic [ref=e248]: North America
+                - generic [ref=e249]: Learn more
+            - link "Solutions Engineer, Europe London Learn more" [ref=e250] [cursor=pointer]:
+              - /url: /careers/d37b3d76-3080-47f9-8a19-60505573112c
+              - generic [ref=e251]: Solutions Engineer, Europe
+              - generic [ref=e253]:
+                - generic [ref=e254]: London
+                - generic [ref=e255]: Learn more
+          - listitem [ref=e256]:
+            - link "Marketing" [ref=e260] [cursor=pointer]:
+              - /url: "#marketing"
+            - link "Developer Relations Europe, North America Learn more" [ref=e261] [cursor=pointer]:
+              - /url: /careers/62a4524c-75da-499e-b150-7f68ce9f2da3
+              - generic [ref=e262]: Developer Relations
+              - generic [ref=e264]:
+                - generic [ref=e265]: Europe, North America
+                - generic [ref=e266]: Learn more
+          - listitem [ref=e267]:
+            - link "Design" [ref=e271] [cursor=pointer]:
+              - /url: "#design"
+            - link "Mobile Product Designer North America Learn more" [ref=e272] [cursor=pointer]:
+              - /url: /careers/eac7f181-d658-4943-9430-51bae2bcd110
+              - generic [ref=e273]: Mobile Product Designer
+              - generic [ref=e275]:
+                - generic [ref=e276]: North America
+                - generic [ref=e277]: Learn more
+            - link "Principal Product Designer Europe Learn more" [ref=e278] [cursor=pointer]:
+              - /url: /careers/ba8a41d2-4198-481a-a7f4-e09c5364ff7f
+              - generic [ref=e279]: Principal Product Designer
+              - generic [ref=e281]:
+                - generic [ref=e282]: Europe
+                - generic [ref=e283]: Learn more
+            - link "Senior / Staff Product Designer North America Learn more" [ref=e284] [cursor=pointer]:
+              - /url: /careers/a264869e-f058-487c-ab7f-9b77dffa427c
+              - generic [ref=e285]: Senior / Staff Product Designer
+              - generic [ref=e287]:
+                - generic [ref=e288]: North America
+                - generic [ref=e289]: Learn more
+          - listitem [ref=e290]:
+            - link "Engineering" [ref=e294] [cursor=pointer]:
+              - /url: "#engineering"
+            - link "Product Engineer North America Learn more" [ref=e295] [cursor=pointer]:
+              - /url: /careers/0c7c2e26-0a98-42cf-a47c-9a3999fb513b
+              - generic [ref=e296]: Product Engineer
+              - generic [ref=e298]:
+                - generic [ref=e299]: North America
+                - generic [ref=e300]: Learn more
+            - link "Senior / Staff Fullstack Engineer Europe, North America Learn more" [ref=e301] [cursor=pointer]:
+              - /url: /careers/d3bc1ced-3ce4-4086-a050-555055dbb1ff
+              - generic [ref=e302]: Senior / Staff Fullstack Engineer
+              - generic [ref=e304]:
+                - generic [ref=e305]: Europe, North America
+                - generic [ref=e306]: Learn more
+            - link "Senior / Staff Product Engineer Europe, North America Learn more" [ref=e307] [cursor=pointer]:
+              - /url: /careers/069c4628-88d7-4e4d-b393-c996fc7f3076
+              - generic [ref=e308]: Senior / Staff Product Engineer
+              - generic [ref=e310]:
+                - generic [ref=e311]: Europe, North America
+                - generic [ref=e312]: Learn more
+            - link "Senior / Staff Product Engineer, AI North America Learn more" [ref=e313] [cursor=pointer]:
+              - /url: /careers/b4a7764e-c680-4bdf-9956-dc78f2ca94d5
+              - generic [ref=e314]: Senior / Staff Product Engineer, AI
+              - generic [ref=e316]:
+                - generic [ref=e317]: North America
+                - generic [ref=e318]: Learn more
+          - listitem [ref=e319]:
+            - link "Product Management" [ref=e323] [cursor=pointer]:
+              - /url: "#product-management"
+            - link "Product Manager Europe, North America Learn more" [ref=e324] [cursor=pointer]:
+              - /url: /careers/86abcce0-04b2-405c-9a8e-e0ca84813914
+              - generic [ref=e325]: Product Manager
+              - generic [ref=e327]:
+                - generic [ref=e328]: Europe, North America
+                - generic [ref=e329]: Learn more
+            - link "Product Marketing Manager Europe, North America Learn more" [ref=e330] [cursor=pointer]:
+              - /url: /careers/b3346acf-44be-4565-b1c0-10d482d3ad4e
+              - generic [ref=e331]: Product Marketing Manager
+              - generic [ref=e333]:
+                - generic [ref=e334]: Europe, North America
+                - generic [ref=e335]: Learn more
+          - listitem [ref=e336]:
+            - link "Customer Experience" [ref=e340] [cursor=pointer]:
+              - /url: "#customer-experience"
+            - link "Product Support Specialist, Pacific/Mountain Time North America Learn more" [ref=e341] [cursor=pointer]:
+              - /url: /careers/d062065e-05bb-42ce-a430-ec205695cc2e
+              - generic [ref=e342]: Product Support Specialist, Pacific/Mountain Time
+              - generic [ref=e344]:
+                - generic [ref=e345]: North America
+                - generic [ref=e346]: Learn more
+          - listitem [ref=e347]:
+            - link "Magic" [ref=e351] [cursor=pointer]:
+              - /url: "#magic"
+            - link "Production Designer Europe, North America Learn more" [ref=e352] [cursor=pointer]:
+              - /url: /careers/5b9997fd-7507-4437-8fd7-14178c99ab5d
+              - generic [ref=e353]: Production Designer
+              - generic [ref=e355]:
+                - generic [ref=e356]: Europe, North America
+                - generic [ref=e357]: Learn more
+          - listitem [ref=e358]:
+            - link "People" [ref=e362] [cursor=pointer]:
+              - /url: "#people"
+            - link "Recruiting & HR Operations Specialist North America Learn more" [ref=e363] [cursor=pointer]:
+              - /url: /careers/2ef60eea-7cff-45c2-abf2-eaedc4ea89bd
+              - generic [ref=e364]: Recruiting & HR Operations Specialist
+              - generic [ref=e366]:
+                - generic [ref=e367]: North America
+                - generic [ref=e368]: Learn more
+          - listitem [ref=e369]:
+            - link "Legal" [ref=e373] [cursor=pointer]:
+              - /url: "#legal"
+            - link "Senior Counsel North America Learn more" [ref=e374] [cursor=pointer]:
+              - /url: /careers/3d95000c-5631-4ea6-a614-78910bb3f199
+              - generic [ref=e375]: Senior Counsel
+              - generic [ref=e377]:
+                - generic [ref=e378]: North America
+                - generic [ref=e379]: Learn more
+    - contentinfo [ref=e380]:
+      - generic [ref=e382]:
+        - link [ref=e384] [cursor=pointer]:
+          - /url: /
+          - img "Linear Logo" [ref=e385]
+        - generic [ref=e387]:
+          - heading "Product" [level=3] [ref=e388]
+          - list [ref=e389]:
+            - listitem [ref=e390]:
+              - link "Intake" [ref=e391] [cursor=pointer]:
+                - /url: /intake
+            - listitem [ref=e392]:
+              - link "Plan" [ref=e393] [cursor=pointer]:
+                - /url: /plan
+            - listitem [ref=e394]:
+              - link "Build" [ref=e395] [cursor=pointer]:
+                - /url: /build
+            - listitem [ref=e396]:
+              - link "Diffs" [ref=e397] [cursor=pointer]:
+                - /url: /diffs
+            - listitem [ref=e398]:
+              - link "Monitor" [ref=e399] [cursor=pointer]:
+                - /url: /monitor
+            - listitem [ref=e400]:
+              - link "Pricing" [ref=e401] [cursor=pointer]:
+                - /url: /pricing
+            - listitem [ref=e402]:
+              - link "Security" [ref=e403] [cursor=pointer]:
+                - /url: /security
+        - generic [ref=e404]:
+          - heading "Features" [level=3] [ref=e405]
+          - list [ref=e406]:
+            - listitem [ref=e407]:
+              - link "Asks" [ref=e408] [cursor=pointer]:
+                - /url: /asks
+            - listitem [ref=e409]:
+              - link "Agents" [ref=e410] [cursor=pointer]:
+                - /url: /agents
+            - listitem [ref=e411]:
+              - link "Coding Sessions" [ref=e412] [cursor=pointer]:
+                - /url: /coding-sessions
+            - listitem [ref=e413]:
+              - link "Customer Requests" [ref=e414] [cursor=pointer]:
+                - /url: /customer-requests
+            - listitem [ref=e415]:
+              - link "Insights" [ref=e416] [cursor=pointer]:
+                - /url: /insights
+            - listitem [ref=e417]:
+              - link "Mobile" [ref=e418] [cursor=pointer]:
+                - /url: /mobile
+            - listitem [ref=e419]:
+              - link "Integrations" [ref=e420] [cursor=pointer]:
+                - /url: /integrations
+            - listitem [ref=e421]:
+              - link "Changelog" [ref=e422] [cursor=pointer]:
+                - /url: /changelog
+        - generic [ref=e423]:
+          - heading "Company" [level=3] [ref=e424]
+          - list [ref=e425]:
+            - listitem [ref=e426]:
+              - link "About" [ref=e427] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e428]:
+              - link "Customers" [ref=e429] [cursor=pointer]:
+                - /url: /customers
+            - listitem [ref=e430]:
+              - link "Careers" [ref=e431] [cursor=pointer]:
+                - /url: /careers
+            - listitem [ref=e432]:
+              - link "Blog" [ref=e433] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e434]:
+              - link "Method" [ref=e435] [cursor=pointer]:
+                - /url: /method
+            - listitem [ref=e436]:
+              - link "Quality" [ref=e437] [cursor=pointer]:
+                - /url: /quality
+            - listitem [ref=e438]:
+              - link "Brand" [ref=e439] [cursor=pointer]:
+                - /url: /brand
+        - generic [ref=e440]:
+          - heading "Resources" [level=3] [ref=e441]
+          - list [ref=e442]:
+            - listitem [ref=e443]:
+              - link "Switch" [ref=e444] [cursor=pointer]:
+                - /url: /switch
+            - listitem [ref=e445]:
+              - link "Download" [ref=e446] [cursor=pointer]:
+                - /url: /download
+            - listitem [ref=e447]:
+              - link "Documentation" [ref=e448] [cursor=pointer]:
+                - /url: /docs
+            - listitem [ref=e450]:
+              - link "Developers" [ref=e451] [cursor=pointer]:
+                - /url: /developers
+            - listitem [ref=e452]:
+              - link "Status" [ref=e453] [cursor=pointer]:
+                - /url: https://linearstatus.com
+            - listitem [ref=e454]:
+              - link "Enterprise" [ref=e455] [cursor=pointer]:
+                - /url: /enterprise
+            - listitem [ref=e456]:
+              - link "Startups" [ref=e457] [cursor=pointer]:
+                - /url: /startups
+        - generic [ref=e458]:
+          - heading "Connect" [level=3] [ref=e459]
+          - list [ref=e460]:
+            - listitem [ref=e461]:
+              - link "Contact us" [ref=e462] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=e463]:
+              - link "Community" [ref=e464] [cursor=pointer]:
+                - /url: https://linear.app/join-slack
+            - listitem [ref=e465]:
+              - link "X (Twitter)" [ref=e466] [cursor=pointer]:
+                - /url: https://x.com/linear
+            - listitem [ref=e467]:
+              - link "GitHub" [ref=e468] [cursor=pointer]:
+                - /url: https://github.com/linear
+            - listitem [ref=e469]:
+              - link "YouTube" [ref=e470] [cursor=pointer]:
+                - /url: https://www.youtube.com/@linear
+        - generic [ref=e472]:
+          - link "Privacy" [ref=e473] [cursor=pointer]:
+            - /url: /privacy
+          - link "Terms" [ref=e474] [cursor=pointer]:
+            - /url: /terms
+          - link "DPA" [ref=e475] [cursor=pointer]:
+            - /url: /dpa
+          - link "AUP" [ref=e476] [cursor=pointer]:
+            - /url: /legal/aup

@@ -1,0 +1,133 @@
+- generic [ref=f32e2]:
+  - generic [ref=f32e7]:
+    - generic [ref=f32e8]:
+      - generic [ref=f32e9]:
+        - heading "Where GiveDirectly Can Hire" [level=1] [ref=f32e10]
+        - generic [ref=f32e13]:
+          - paragraph [ref=f32e14]: Updated over a week ago
+          - generic [ref=f32e15]: •
+          - paragraph [ref=f32e16]: 2 min read
+          - generic [ref=f32e17]:
+            - button "link Share" [ref=f32e18] [cursor=pointer]:
+              - img "link" [ref=f32e20]
+              - generic [ref=f32e23]: Share
+            - button "printer Print" [ref=f32e24] [cursor=pointer]:
+              - img "printer" [ref=f32e26]
+              - generic [ref=f32e29]: Print
+            - button "search Search" [ref=f32e30] [cursor=pointer]:
+              - img "search" [ref=f32e32]
+              - generic [ref=f32e35]: Search
+            - button [ref=f32e36] [cursor=pointer]
+            - button "ordered-list Headings" [ref=f32e43] [cursor=pointer]:
+              - img "ordered-list" [ref=f32e45]
+              - generic [ref=f32e48]: Headings
+      - article [ref=f32e51]:
+        - paragraph [ref=f32e52]:
+          - strong [ref=f32e54]: This list is live and will always be kept up to date as new countries are added.
+        - heading "The approved countries" [level=2] [ref=f32e55]
+        - paragraph [ref=f32e56]:
+          - text: GiveDirectly can hire new staff and support existing staff to relocate in all of the countries listed below.
+          - generic [ref=f32e57]:
+            - text: "Our hiring setup differs by country: in some countries, GiveDirectly hires through its own registered entity, while in others we hire through our established Employers of Record (EOR),"
+            - strong [ref=f32e58]: OysterHR
+            - text: or
+            - strong [ref=f32e59]: Remote
+            - text: .
+        - figure [ref=f32e60]:
+          - table [ref=f32e61]:
+            - rowgroup [ref=f32e65]:
+              - row [ref=f32e66]:
+                - columnheader [ref=f32e67]:
+                  - strong [ref=f32e69]: GD Entities
+                - columnheader [ref=f32e70]:
+                  - strong [ref=f32e72]: Countries Supported Through an Employer of Record (EOR)
+            - rowgroup [ref=f32e73]:
+              - row [ref=f32e74]:
+                - cell "DRC (local nationals only)" [ref=f32e75]
+                - cell "Cameroon" [ref=f32e77]
+              - row [ref=f32e78]:
+                - cell "Kenya" [ref=f32e79]
+                - cell "Canada" [ref=f32e80]
+              - row [ref=f32e81]:
+                - cell "Malawi" [ref=f32e82]
+                - cell "Colombia" [ref=f32e83]
+              - row [ref=f32e84]:
+                - cell "Mozambique" [ref=f32e85]
+                - cell "Germany" [ref=f32e86]
+              - row [ref=f32e87]:
+                - cell "Rwanda" [ref=f32e88]
+                - cell "Ghana" [ref=f32e89]
+              - row [ref=f32e90]:
+                - cell "Uganda" [ref=f32e91]
+                - cell "Netherlands" [ref=f32e92]
+              - row [ref=f32e93]:
+                - cell "United States" [ref=f32e94]
+                - cell "Poland" [ref=f32e95]
+              - row [ref=f32e96]:
+                - cell [ref=f32e97]
+                - cell "Portugal" [ref=f32e98]
+              - row [ref=f32e99]:
+                - cell [ref=f32e100]
+                - cell "South Africa" [ref=f32e101]
+              - row [ref=f32e102]:
+                - cell [ref=f32e103]
+                - cell "Spain" [ref=f32e104]
+              - row [ref=f32e105]:
+                - cell [ref=f32e106]
+                - cell "Turkey" [ref=f32e107]
+              - row [ref=f32e108]:
+                - cell [ref=f32e109]
+                - cell "United Kingdom" [ref=f32e110]
+              - row [ref=f32e111]:
+                - cell [ref=f32e112]
+                - cell "Nigeria" [ref=f32e113]
+        - heading "What this means" [level=2] [ref=f32e114]
+        - paragraph [ref=f32e115]:
+          - generic [ref=f32e116]:
+            - strong [ref=f32e117]: For candidates.
+            - text: Our roles are advertised as remote, but "remote" means remote within the countries listed above. To be considered, you generally need to already have the right to work in one of them. If you are based somewhere not on this list, it is not an automatic no, so do talk to the recruiter, but we may not be able to employ you.
+        - paragraph [ref=f32e118]:
+          - generic [ref=f32e119]:
+            - strong [ref=f32e120]: For current employees.
+            - text: If you already live and work somewhere that is not on this list, nothing changes for you. You can stay where you are.
+        - paragraph [ref=f32e121]:
+          - generic [ref=f32e122]:
+            - strong [ref=f32e123]: For relocations.
+            - text: If you are thinking about moving countries, the list above is the boundary for staff-initiated relocations. Anything outside it needs an exception review before you commit to a move. Please start that conversation with People Operations early, and read the Global Mobility Policy alongside this page.
+        - heading "Why we work this way" [level=2] [ref=f32e124]
+        - paragraph [ref=f32e125]: Focusing on countries where we already have tested onboarding processes lets us move candidates through hiring faster and with fewer surprises. Every additional country brings its own labour laws, EOR requirements, and new processes to work through, which slows things down for hiring teams and new colleagues alike. Concentrating our footprint keeps the experience consistent and supports GD's wider absorption capacity goals.
+        - heading "Questions" [level=2] [ref=f32e126]
+        - paragraph [ref=f32e127]: Reach out to the People Team. If you are unsure whether something counts as an edge case, flag it, and we will work through it with you.
+    - generic [ref=f32e129]:
+      - generic [ref=f32e131]:
+        - button "link Share" [ref=f32e132] [cursor=pointer]:
+          - img "link" [ref=f32e134]
+          - generic [ref=f32e137]: Share
+        - button "search Search on page" [ref=f32e138] [cursor=pointer]:
+          - img "search" [ref=f32e140]
+          - generic [ref=f32e143]: Search on page
+      - generic [ref=f32e145]:
+        - heading "Table of Content" [level=4] [ref=f32e146]
+        - list [ref=f32e148]:
+          - listitem [ref=f32e149]:
+            - link "The approved countries" [ref=f32e150] [cursor=pointer]:
+              - /url: /p/iOeyfUha_9#The-approved-countries-1
+          - listitem [ref=f32e151]:
+            - link "What this means" [ref=f32e152] [cursor=pointer]:
+              - /url: /p/iOeyfUha_9#What-this-means-1
+          - listitem [ref=f32e153]:
+            - link "Why we work this way" [ref=f32e154] [cursor=pointer]:
+              - /url: /p/iOeyfUha_9#Why-we-work-this-way-1
+          - listitem [ref=f32e155]:
+            - link "Questions" [ref=f32e156] [cursor=pointer]:
+              - /url: /p/iOeyfUha_9#Questions-1
+  - contentinfo [ref=f32e157]:
+    - generic [ref=f32e159]:
+      - link "GiveDirectly logo GiveDirectly" [ref=f32e160] [cursor=pointer]:
+        - /url: /p/iOeyfUha_9/
+        - img "GiveDirectly logo" [ref=f32e161]
+        - generic [ref=f32e162]: GiveDirectly
+      - paragraph [ref=f32e163]: © 2026
+      - link "Powered by Perfect Wiki" [ref=f32e164] [cursor=pointer]:
+        - /url: https://perfectwiki.com
+      - button "English" [ref=f32e165] [cursor=pointer]

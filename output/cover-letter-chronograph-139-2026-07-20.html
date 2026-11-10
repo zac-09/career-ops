@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Isaac Mubiru — Cover Letter</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11.5px;
+    line-height: 1.65;
+    color: #1a1a2e;
+    background: #ffffff;
+  }
+  .header {
+    border-bottom: 2px solid #1a1a2e;
+    padding-bottom: 14px;
+    margin-bottom: 22px;
+  }
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .header .meta {
+    margin-top: 4px;
+    font-size: 10.5px;
+    color: #4a4a5e;
+  }
+  .header .meta span { white-space: nowrap; }
+  .date { margin-bottom: 18px; color: #4a4a5e; font-size: 10.5px; }
+  p { margin-bottom: 13px; }
+  .jd-quote { font-style: italic; }
+  .signoff { margin-top: 20px; }
+  .signoff .name {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    margin-top: 2px;
+  }
+</style>
+</head>
+<body>
+  <div class="header">
+    <h1>Isaac Mubiru</h1>
+    <div class="meta">
+      <span>isaacmubiru99@gmail.com</span> · <span>linkedin.com/in/isaac-mubiru-3bb728174</span> · <span>github.com/zac-09</span> · <span>Kampala, Uganda (UTC+3)</span>
+    </div>
+  </div>
+
+  <div class="date">July 20, 2026</div>
+
+  <p>Dear Chronograph Team,</p>
+
+  <p>I'm applying for the <strong>Senior Software Engineer</strong> role. What draws me to Chronograph specifically is the problem class: financial data where being wrong is not an option. That is the kind of engineering I've done my best work in, and doing it for the platform that Carlyle- and Nasdaq-backed private capital funds rely on is exactly the stakes I want.</p>
+
+  <p>Your posting asks for someone to <span class="jd-quote">"own and lead technical projects from product ideation to successful execution."</span> At MTailor (San Francisco, remote), reporting directly to the CTO, I led the zero-downtime migration of 20+ production applications off Parse/MongoDB — architecture decisions, data-model redesign, a real-time two-way MongoDB↔Firestore sync pipeline built on Node.js and Pub/Sub, and a phased cutover with both systems serving live traffic. Before that I led a team of four engineers at CodeBits, and I've kept the mentoring habit since: documentation, code review, and training operations teams to run what I build.</p>
+
+  <p>Your nice-to-have — <span class="jd-quote">"computation-heavy services where accuracy and performance are imperative"</span> — is my strongest card. At Dr Wealth (Singapore, fintech), I kept live stock prices current across 2M+ Firestore records fed from Morningstar APIs, with batched, indexed jobs tuned so paying customers never saw stale market data. Financial-data errors are trust errors; I design for verifiability first.</p>
+
+  <p>On stack, candidly: TypeScript and Node are my daily tools. My schema-design experience is real — the migration required re-modeling live production data mid-flight — and I'm SQL-proficient, though my production database depth is NoSQL-first. My API contracts in production have been REST and gRPC rather than GraphQL; I'm actively closing that gap and expect the contract-first thinking to transfer directly. Your posting says to apply even without every criterion — I'm taking you at your word and telling you exactly which ones those are.</p>
+
+  <p>I'm based in Kampala (UTC+3), fully remote, with years of experience embedded in US and Singapore teams.</p>
+
+  <p class="signoff">
+    Best regards,
+    <span class="name" style="display:block">Isaac Mubiru</span>
+  </p>
+</body>
+</html>

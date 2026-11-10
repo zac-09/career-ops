@@ -1,0 +1,1775 @@
+- generic [active] [ref=e1]:
+  - dialog "cookieconsent" [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: 🍪
+      - generic [ref=e6]:
+        - button "Deny" [ref=e7] [cursor=pointer]
+        - button "Accept" [ref=e8] [cursor=pointer]
+      - heading "Privacy Notice" [level=4] [ref=e9]
+      - paragraph [ref=e10]: This website uses cookies to improve your web experience. By clicking Accept, you agree to the use of cookies.
+  - link "Yassir logo" [ref=e13] [cursor=pointer]:
+    - /url: https://jobs.lever.co/Yassir
+    - img "Yassir logo" [ref=e14]
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - 'button "Filter by Location type: All" [ref=e20]':
+        - generic [ref=e21] [cursor=pointer]:
+          - text: Location type
+          - img [ref=e22]
+      - 'button "Filter by Location: All" [ref=e24]':
+        - generic [ref=e25] [cursor=pointer]:
+          - text: Location
+          - img [ref=e26]
+      - 'button "Filter by Team: All" [ref=e28]':
+        - generic [ref=e29] [cursor=pointer]:
+          - text: Team
+          - img [ref=e30]
+      - 'button "Filter by Work type: All" [ref=e32]':
+        - generic [ref=e33] [cursor=pointer]:
+          - text: Work type
+          - img [ref=e34]
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - generic [ref=e38]: Brand & Communication
+        - generic [ref=e39]: Brand
+        - generic [ref=e41]:
+          - link "Apply" [ref=e43] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/0301e568-49cb-4305-a255-e6bd2ef903f8
+          - link "Art Director On-site — Full-time Algiers, Algeria" [ref=e44] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/0301e568-49cb-4305-a255-e6bd2ef903f8
+            - heading "Art Director" [level=5] [ref=e45]
+            - generic [ref=e46]:
+              - generic [ref=e47]: On-site —
+              - generic [ref=e48]: Full-time
+              - generic [ref=e49]: Algiers, Algeria
+        - generic [ref=e50]:
+          - link "Apply" [ref=e52] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1c95f058-57c8-4fbe-9038-e2b79fc8e3f1
+          - link "Copywriter On-site — Full-time Algiers, Algeria" [ref=e53] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1c95f058-57c8-4fbe-9038-e2b79fc8e3f1
+            - heading "Copywriter" [level=5] [ref=e54]
+            - generic [ref=e55]:
+              - generic [ref=e56]: On-site —
+              - generic [ref=e57]: Full-time
+              - generic [ref=e58]: Algiers, Algeria
+      - generic [ref=e59]:
+        - generic [ref=e60]: Communication
+        - generic [ref=e62]:
+          - link "Apply" [ref=e64] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c0cf8513-b5db-42bd-ae73-62033e53213d
+          - link "Senior Multimedia Designer On-site — Algiers, Algeria" [ref=e65] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c0cf8513-b5db-42bd-ae73-62033e53213d
+            - heading "Senior Multimedia Designer" [level=5] [ref=e66]
+            - generic [ref=e67]:
+              - generic [ref=e68]: On-site —
+              - generic [ref=e69]: Algiers, Algeria
+      - generic [ref=e70]:
+        - generic [ref=e71]: Commercial Strategy
+        - generic [ref=e72]: Growth
+        - generic [ref=e74]:
+          - link "Apply" [ref=e76] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/075fb1a5-61a7-4c72-adb7-f99d4ee5d2e9
+          - link "Head of growth On-site — Full-time Algiers, Algeria" [ref=e77] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/075fb1a5-61a7-4c72-adb7-f99d4ee5d2e9
+            - heading "Head of growth" [level=5] [ref=e78]
+            - generic [ref=e79]:
+              - generic [ref=e80]: On-site —
+              - generic [ref=e81]: Full-time
+              - generic [ref=e82]: Algiers, Algeria
+      - generic [ref=e83]:
+        - generic [ref=e84]: Pricing
+        - generic [ref=e86]:
+          - link "Apply" [ref=e88] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/32a8e533-088d-486d-9175-12d46c459bd3
+          - link "Pricing specialist On-site — Full-time Algiers, Algeria" [ref=e89] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/32a8e533-088d-486d-9175-12d46c459bd3
+            - heading "Pricing specialist" [level=5] [ref=e90]
+            - generic [ref=e91]:
+              - generic [ref=e92]: On-site —
+              - generic [ref=e93]: Full-time
+              - generic [ref=e94]: Algiers, Algeria
+        - generic [ref=e95]:
+          - link "Apply" [ref=e97] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/ee85b4d6-4dcc-4bc3-8d19-3526cb17cc7d
+          - link "Senior Pricing Specialist On-site — Full-time Algiers, Algeria" [ref=e98] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/ee85b4d6-4dcc-4bc3-8d19-3526cb17cc7d
+            - heading "Senior Pricing Specialist" [level=5] [ref=e99]
+            - generic [ref=e100]:
+              - generic [ref=e101]: On-site —
+              - generic [ref=e102]: Full-time
+              - generic [ref=e103]: Algiers, Algeria
+      - generic [ref=e104]:
+        - generic [ref=e105]: Finance and Legal
+        - generic [ref=e106]: Accounting
+        - generic [ref=e108]:
+          - link "Apply" [ref=e110] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a0628d51-5e84-429f-884c-5e1a38e475a6
+          - link "Cadre Comptable - Unodis Oran - On-site — Full-time Algeria (West)" [ref=e111] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a0628d51-5e84-429f-884c-5e1a38e475a6
+            - heading "Cadre Comptable - Unodis Oran -" [level=5] [ref=e112]
+            - generic [ref=e113]:
+              - generic [ref=e114]: On-site —
+              - generic [ref=e115]: Full-time
+              - generic [ref=e116]: Algeria (West)
+      - generic [ref=e117]:
+        - generic [ref=e118]: Finance & Administration
+        - generic [ref=e120]:
+          - link "Apply" [ref=e122] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e0bb8fb6-9bcf-40d8-a1bf-6c517ad2e4e4
+          - link "Agent de sécurité On-site — Contractor Algiers, Algeria" [ref=e123] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e0bb8fb6-9bcf-40d8-a1bf-6c517ad2e4e4
+            - heading "Agent de sécurité" [level=5] [ref=e124]
+            - generic [ref=e125]:
+              - generic [ref=e126]: On-site —
+              - generic [ref=e127]: Contractor
+              - generic [ref=e128]: Algiers, Algeria
+        - generic [ref=e129]:
+          - link "Apply" [ref=e131] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/42905dbd-56e9-443c-bf18-3d3ab289bbb1
+          - link "Cash Collection Agent On-site — Full-time Algiers, Algeria" [ref=e132] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/42905dbd-56e9-443c-bf18-3d3ab289bbb1
+            - heading "Cash Collection Agent" [level=5] [ref=e133]
+            - generic [ref=e134]:
+              - generic [ref=e135]: On-site —
+              - generic [ref=e136]: Full-time
+              - generic [ref=e137]: Algiers, Algeria
+        - generic [ref=e138]:
+          - link "Apply" [ref=e140] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/efcb2947-bd93-43f1-8fe1-5a890ff01c29
+          - link "Cash Collection Specialist On-site — Full-time Casablanca, Morocco" [ref=e141] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/efcb2947-bd93-43f1-8fe1-5a890ff01c29
+            - heading "Cash Collection Specialist" [level=5] [ref=e142]
+            - generic [ref=e143]:
+              - generic [ref=e144]: On-site —
+              - generic [ref=e145]: Full-time
+              - generic [ref=e146]: Casablanca, Morocco
+        - generic [ref=e147]:
+          - link "Apply" [ref=e149] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/cfe5c62e-e9a6-448e-9b02-1b561bafe737
+          - link "Chargé(e) Administration, Achats &amp; Moyens Généraux On-site — Full-time Casablanca, Morocco" [ref=e150] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/cfe5c62e-e9a6-448e-9b02-1b561bafe737
+            - heading "Chargé(e) Administration, Achats &amp; Moyens Généraux" [level=5] [ref=e151]
+            - generic [ref=e152]:
+              - generic [ref=e153]: On-site —
+              - generic [ref=e154]: Full-time
+              - generic [ref=e155]: Casablanca, Morocco
+        - generic [ref=e156]:
+          - link "Apply" [ref=e158] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/92203c27-6437-46ff-b24f-c99e3aca95d7
+          - link "Gestionnaire de stocks et immobilisations On-site — Full-time Algiers, Algeria" [ref=e159] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/92203c27-6437-46ff-b24f-c99e3aca95d7
+            - heading "Gestionnaire de stocks et immobilisations" [level=5] [ref=e160]
+            - generic [ref=e161]:
+              - generic [ref=e162]: On-site —
+              - generic [ref=e163]: Full-time
+              - generic [ref=e164]: Algiers, Algeria
+        - generic [ref=e165]:
+          - link "Apply" [ref=e167] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/359a8f75-c686-468c-919f-cf0471e5d3b1
+          - link "IT Officer On-site — Full-time Algiers, Algeria" [ref=e168] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/359a8f75-c686-468c-919f-cf0471e5d3b1
+            - heading "IT Officer" [level=5] [ref=e169]
+            - generic [ref=e170]:
+              - generic [ref=e171]: On-site —
+              - generic [ref=e172]: Full-time
+              - generic [ref=e173]: Algiers, Algeria
+        - generic [ref=e174]:
+          - link "Apply" [ref=e176] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1729b38b-82c6-4200-93ff-54706ec808f7
+          - link "Local Director / Country Manager On-site — Contractor Lithuania" [ref=e177] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1729b38b-82c6-4200-93ff-54706ec808f7
+            - heading "Local Director / Country Manager" [level=5] [ref=e178]
+            - generic [ref=e179]:
+              - generic [ref=e180]: On-site —
+              - generic [ref=e181]: Contractor
+              - generic [ref=e182]: Lithuania
+      - generic [ref=e183]:
+        - generic [ref=e184]: Legal
+        - generic [ref=e186]:
+          - link "Apply" [ref=e188] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a56e5793-1c26-41f6-95c6-2e4e0602adf7
+          - link "Archivist On-site — Full-time Algiers, Algeria" [ref=e189] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a56e5793-1c26-41f6-95c6-2e4e0602adf7
+            - heading "Archivist" [level=5] [ref=e190]
+            - generic [ref=e191]:
+              - generic [ref=e192]: On-site —
+              - generic [ref=e193]: Full-time
+              - generic [ref=e194]: Algiers, Algeria
+        - generic [ref=e195]:
+          - link "Apply" [ref=e197] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/fed1c203-f861-4101-853c-64c7177c859d
+          - link "MLRO/ Compliance Officer On-site — Contractor Lithuania" [ref=e198] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/fed1c203-f861-4101-853c-64c7177c859d
+            - heading "MLRO/ Compliance Officer" [level=5] [ref=e199]
+            - generic [ref=e200]:
+              - generic [ref=e201]: On-site —
+              - generic [ref=e202]: Contractor
+              - generic [ref=e203]: Lithuania
+      - generic [ref=e204]:
+        - generic [ref=e205]: Kawarizmi
+        - generic [ref=e206]: Adops
+        - generic [ref=e208]:
+          - link "Apply" [ref=e210] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/10015cd1-6504-4835-a169-88a448184152
+          - link "Junior Publisher Development Manager On-site — Full-time Casablanca, Morocco / Kenitra / Agadir" [ref=e211] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/10015cd1-6504-4835-a169-88a448184152
+            - heading "Junior Publisher Development Manager" [level=5] [ref=e212]
+            - generic [ref=e213]:
+              - generic [ref=e214]: On-site —
+              - generic [ref=e215]: Full-time
+              - generic [ref=e216]: Casablanca, Morocco / Kenitra / Agadir
+        - generic [ref=e217]:
+          - link "Apply" [ref=e219] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c2ba5ad3-ad04-4bd2-99ca-0165d699c0af
+          - link "Junior Publisher Development Manager (Africa & Middle East) On-site — Full-time Algiers, Algeria" [ref=e220] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c2ba5ad3-ad04-4bd2-99ca-0165d699c0af
+            - heading "Junior Publisher Development Manager (Africa & Middle East)" [level=5] [ref=e221]
+            - generic [ref=e222]:
+              - generic [ref=e223]: On-site —
+              - generic [ref=e224]: Full-time
+              - generic [ref=e225]: Algiers, Algeria
+        - generic [ref=e226]:
+          - link "Apply" [ref=e228] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/2ade9db0-0aef-4645-8b6b-bccac0335fdb
+          - link "Lead Engineer Hybrid — Full-time Algiers, Algeria" [ref=e229] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/2ade9db0-0aef-4645-8b6b-bccac0335fdb
+            - heading "Lead Engineer" [level=5] [ref=e230]
+            - generic [ref=e231]:
+              - generic [ref=e232]: Hybrid —
+              - generic [ref=e233]: Full-time
+              - generic [ref=e234]: Algiers, Algeria
+      - generic [ref=e235]:
+        - generic [ref=e236]: Sales
+        - generic [ref=e238]:
+          - link "Apply" [ref=e240] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/6737907e-c876-4a67-9675-95bfc617dfc8
+          - link "Sales Programmatique Hybrid — Freelancer (Hourly Rate) Casablanca, Morocco / Kenitra / Agadir / Meknes" [ref=e241] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/6737907e-c876-4a67-9675-95bfc617dfc8
+            - heading "Sales Programmatique" [level=5] [ref=e242]
+            - generic [ref=e243]:
+              - generic [ref=e244]: Hybrid —
+              - generic [ref=e245]: Freelancer (Hourly Rate)
+              - generic [ref=e246]: Casablanca, Morocco / Kenitra / Agadir / Meknes
+      - generic [ref=e247]:
+        - generic [ref=e248]: Marketing
+        - generic [ref=e249]: Digital Marketing
+        - generic [ref=e251]:
+          - link "Apply" [ref=e253] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/34cd95a3-45fc-46a3-8cfc-47ccdf2f93d2
+          - link "Community Manager On-site — Full-time Algiers, Algeria" [ref=e254] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/34cd95a3-45fc-46a3-8cfc-47ccdf2f93d2
+            - heading "Community Manager" [level=5] [ref=e255]
+            - generic [ref=e256]:
+              - generic [ref=e257]: On-site —
+              - generic [ref=e258]: Full-time
+              - generic [ref=e259]: Algiers, Algeria
+        - generic [ref=e260]:
+          - link "Apply" [ref=e262] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1e6eb9da-c22d-4022-a1ba-f17d19857dbc
+          - link "Content Creator On-site — Full-time Algiers, Algeria" [ref=e263] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1e6eb9da-c22d-4022-a1ba-f17d19857dbc
+            - heading "Content Creator" [level=5] [ref=e264]
+            - generic [ref=e265]:
+              - generic [ref=e266]: On-site —
+              - generic [ref=e267]: Full-time
+              - generic [ref=e268]: Algiers, Algeria
+        - generic [ref=e269]:
+          - link "Apply" [ref=e271] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/fcee911f-0dfc-4c9e-a070-e1d688fe622f
+          - link "Modérateur On-site — Algiers, Algeria" [ref=e272] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/fcee911f-0dfc-4c9e-a070-e1d688fe622f
+            - heading "Modérateur" [level=5] [ref=e273]
+            - generic [ref=e274]:
+              - generic [ref=e275]: On-site —
+              - generic [ref=e276]: Algiers, Algeria
+      - generic [ref=e277]:
+        - generic [ref=e278]: General Management
+        - generic [ref=e280]:
+          - link "Apply" [ref=e282] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/8aa29168-22c5-413b-af25-03445f3c22c4
+          - link "Back Office Ticketing Agent On-site — Full-time Algiers, Algeria" [ref=e283] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/8aa29168-22c5-413b-af25-03445f3c22c4
+            - heading "Back Office Ticketing Agent" [level=5] [ref=e284]
+            - generic [ref=e285]:
+              - generic [ref=e286]: On-site —
+              - generic [ref=e287]: Full-time
+              - generic [ref=e288]: Algiers, Algeria
+        - generic [ref=e289]:
+          - link "Apply" [ref=e291] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/cc833050-8be0-403b-b257-be2609651235
+          - link "Back-Office Ticketing Agent On-site — Full-time Algiers, Algeria" [ref=e292] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/cc833050-8be0-403b-b257-be2609651235
+            - heading "Back-Office Ticketing Agent" [level=5] [ref=e293]
+            - generic [ref=e294]:
+              - generic [ref=e295]: On-site —
+              - generic [ref=e296]: Full-time
+              - generic [ref=e297]: Algiers, Algeria
+        - generic [ref=e298]:
+          - link "Apply" [ref=e300] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c043147b-bf09-465e-a182-6b4059454623
+          - link "Event & Operations Coordinator On-site — Full-time Algiers, Algeria" [ref=e301] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c043147b-bf09-465e-a182-6b4059454623
+            - heading "Event & Operations Coordinator" [level=5] [ref=e302]
+            - generic [ref=e303]:
+              - generic [ref=e304]: On-site —
+              - generic [ref=e305]: Full-time
+              - generic [ref=e306]: Algiers, Algeria
+        - generic [ref=e307]:
+          - link "Apply" [ref=e309] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c41671eb-ae3b-44cd-b927-1fcaf59371a6
+          - link "Junior Event Project Coordinator On-site — Full-time Algiers, Algeria" [ref=e310] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c41671eb-ae3b-44cd-b927-1fcaf59371a6
+            - heading "Junior Event Project Coordinator" [level=5] [ref=e311]
+            - generic [ref=e312]:
+              - generic [ref=e313]: On-site —
+              - generic [ref=e314]: Full-time
+              - generic [ref=e315]: Algiers, Algeria
+      - generic [ref=e316]:
+        - generic [ref=e317]: Marketing
+        - generic [ref=e319]:
+          - link "Apply" [ref=e321] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/8dc84fdf-d13f-4ca8-9f31-921230c60de3
+          - link "Assistant Online Merchandiser On-site — Full-time Johannesburg, South Africa" [ref=e322] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/8dc84fdf-d13f-4ca8-9f31-921230c60de3
+            - heading "Assistant Online Merchandiser" [level=5] [ref=e323]
+            - generic [ref=e324]:
+              - generic [ref=e325]: On-site —
+              - generic [ref=e326]: Full-time
+              - generic [ref=e327]: Johannesburg, South Africa
+        - generic [ref=e328]:
+          - link "Apply" [ref=e330] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d15ba80d-e6ad-4b16-9264-d4f536d6f779
+          - link "Chargé marketing service Ride Hailing On-site — Full-time Tunis, Tunisia" [ref=e331] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d15ba80d-e6ad-4b16-9264-d4f536d6f779
+            - heading "Chargé marketing service Ride Hailing" [level=5] [ref=e332]
+            - generic [ref=e333]:
+              - generic [ref=e334]: On-site —
+              - generic [ref=e335]: Full-time
+              - generic [ref=e336]: Tunis, Tunisia
+        - generic [ref=e337]:
+          - link "Apply" [ref=e339] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f3d8b000-8e1e-4219-9f14-4c6f4d60aad3
+          - link "Chef de produit Marketing Retail On-site — Full-time Algiers, Algeria" [ref=e340] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f3d8b000-8e1e-4219-9f14-4c6f4d60aad3
+            - heading "Chef de produit Marketing Retail" [level=5] [ref=e341]
+            - generic [ref=e342]:
+              - generic [ref=e343]: On-site —
+              - generic [ref=e344]: Full-time
+              - generic [ref=e345]: Algiers, Algeria
+        - generic [ref=e346]:
+          - link "Apply" [ref=e348] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/42c5783c-6c65-4924-b37e-c0c2679b262b
+          - link "Content Creator — Marketing On-site — Full-time Casablanca, Morocco" [ref=e349] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/42c5783c-6c65-4924-b37e-c0c2679b262b
+            - heading "Content Creator — Marketing" [level=5] [ref=e350]
+            - generic [ref=e351]:
+              - generic [ref=e352]: On-site —
+              - generic [ref=e353]: Full-time
+              - generic [ref=e354]: Casablanca, Morocco
+        - generic [ref=e355]:
+          - link "Apply" [ref=e357] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/bad65045-34ee-4fd8-9896-f79196a3a3c8
+          - link "Junior Marketing Product Manager On-site — Contractor Algiers, Algeria" [ref=e358] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/bad65045-34ee-4fd8-9896-f79196a3a3c8
+            - heading "Junior Marketing Product Manager" [level=5] [ref=e359]
+            - generic [ref=e360]:
+              - generic [ref=e361]: On-site —
+              - generic [ref=e362]: Contractor
+              - generic [ref=e363]: Algiers, Algeria
+        - generic [ref=e364]:
+          - link "Apply" [ref=e366] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a1457f93-3200-457b-8d28-a1b8b6603687
+          - link "Marketing Manager -ALGERIA- On-site — Full-time Algiers, Algeria" [ref=e367] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a1457f93-3200-457b-8d28-a1b8b6603687
+            - heading "Marketing Manager -ALGERIA-" [level=5] [ref=e368]
+            - generic [ref=e369]:
+              - generic [ref=e370]: On-site —
+              - generic [ref=e371]: Full-time
+              - generic [ref=e372]: Algiers, Algeria
+      - generic [ref=e373]:
+        - generic [ref=e374]: Operational Marketing
+        - generic [ref=e376]:
+          - link "Apply" [ref=e378] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/dad56ace-2805-47fc-8800-c78e30a21ade
+          - link "Operational Marketing Manager On-site — Full-time Tunis, Tunisia" [ref=e379] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/dad56ace-2805-47fc-8800-c78e30a21ade
+            - heading "Operational Marketing Manager" [level=5] [ref=e380]
+            - generic [ref=e381]:
+              - generic [ref=e382]: On-site —
+              - generic [ref=e383]: Full-time
+              - generic [ref=e384]: Tunis, Tunisia
+        - generic [ref=e385]:
+          - link "Apply" [ref=e387] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f263c1d2-605c-4e6a-872e-3700dc6c3fc5
+          - link "Operational marketing specialist On-site — Full-time Algiers, Algeria" [ref=e388] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f263c1d2-605c-4e6a-872e-3700dc6c3fc5
+            - heading "Operational marketing specialist" [level=5] [ref=e389]
+            - generic [ref=e390]:
+              - generic [ref=e391]: On-site —
+              - generic [ref=e392]: Full-time
+              - generic [ref=e393]: Algiers, Algeria
+        - generic [ref=e394]:
+          - link "Apply" [ref=e396] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/14b7d4db-56b9-4ab7-be51-45f0ba79f753
+          - link "Trade Marketing Lead On-site — Full-time Algiers, Algeria" [ref=e397] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/14b7d4db-56b9-4ab7-be51-45f0ba79f753
+            - heading "Trade Marketing Lead" [level=5] [ref=e398]
+            - generic [ref=e399]:
+              - generic [ref=e400]: On-site —
+              - generic [ref=e401]: Full-time
+              - generic [ref=e402]: Algiers, Algeria
+      - generic [ref=e403]:
+        - generic [ref=e404]: Operations
+        - generic [ref=e405]: Commercial
+        - generic [ref=e407]:
+          - link "Apply" [ref=e409] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c2fc9de5-0eba-4674-9df5-4ad45653fea1
+          - link "Account Manager - Market On-site — Full-time Tunis, Tunisia" [ref=e410] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c2fc9de5-0eba-4674-9df5-4ad45653fea1
+            - heading "Account Manager - Market" [level=5] [ref=e411]
+            - generic [ref=e412]:
+              - generic [ref=e413]: On-site —
+              - generic [ref=e414]: Full-time
+              - generic [ref=e415]: Tunis, Tunisia
+        - generic [ref=e416]:
+          - link "Apply" [ref=e418] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f1b18b95-2d94-441a-92ac-2937ea37f3c1
+          - link "Operations Specialist On-site — Full-time Algiers, Algeria" [ref=e419] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f1b18b95-2d94-441a-92ac-2937ea37f3c1
+            - heading "Operations Specialist" [level=5] [ref=e420]
+            - generic [ref=e421]:
+              - generic [ref=e422]: On-site —
+              - generic [ref=e423]: Full-time
+              - generic [ref=e424]: Algiers, Algeria
+      - generic [ref=e425]:
+        - generic [ref=e426]: Customer Support
+        - generic [ref=e428]:
+          - link "Apply" [ref=e430] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/01944a64-853a-4747-95a2-5bdff97c3dbc
+          - link "Customer Experience Agent On-site — Full-time Casablanca, Morocco" [ref=e431] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/01944a64-853a-4747-95a2-5bdff97c3dbc
+            - heading "Customer Experience Agent" [level=5] [ref=e432]
+            - generic [ref=e433]:
+              - generic [ref=e434]: On-site —
+              - generic [ref=e435]: Full-time
+              - generic [ref=e436]: Casablanca, Morocco
+        - generic [ref=e437]:
+          - link "Apply" [ref=e439] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/cfacfab1-7622-43da-83ca-3cad84a29875
+          - link "Customer support & Dispatch Agent On-site — Algiers, Algeria" [ref=e440] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/cfacfab1-7622-43da-83ca-3cad84a29875
+            - heading "Customer support & Dispatch Agent" [level=5] [ref=e441]
+            - generic [ref=e442]:
+              - generic [ref=e443]: On-site —
+              - generic [ref=e444]: Algiers, Algeria
+        - generic [ref=e445]:
+          - link "Apply" [ref=e447] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/7bbf6714-04ee-44c9-ae42-f5b83a54fc77
+          - link "Customer support & Dispatch agent (Part Time) On-site — Part-time Algiers, Algeria" [ref=e448] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/7bbf6714-04ee-44c9-ae42-f5b83a54fc77
+            - heading "Customer support & Dispatch agent (Part Time)" [level=5] [ref=e449]
+            - generic [ref=e450]:
+              - generic [ref=e451]: On-site —
+              - generic [ref=e452]: Part-time
+              - generic [ref=e453]: Algiers, Algeria
+        - generic [ref=e454]:
+          - link "Apply" [ref=e456] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9f331dde-7eda-4aa2-bd29-995d055cf71b
+          - link "Customer support agent On-site — Algiers, Algeria" [ref=e457] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9f331dde-7eda-4aa2-bd29-995d055cf71b
+            - heading "Customer support agent" [level=5] [ref=e458]
+            - generic [ref=e459]:
+              - generic [ref=e460]: On-site —
+              - generic [ref=e461]: Algiers, Algeria
+      - generic [ref=e462]:
+        - generic [ref=e463]: Food Delivery
+        - generic [ref=e465]:
+          - link "Apply" [ref=e467] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c03ca31c-ec5c-4db8-987b-c813aac7cb8f
+          - link "City Fleet Supervisor On-site — Full-time Constantine, Algeria" [ref=e468] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c03ca31c-ec5c-4db8-987b-c813aac7cb8f
+            - heading "City Fleet Supervisor" [level=5] [ref=e469]
+            - generic [ref=e470]:
+              - generic [ref=e471]: On-site —
+              - generic [ref=e472]: Full-time
+              - generic [ref=e473]: Constantine, Algeria
+        - generic [ref=e474]:
+          - link "Apply" [ref=e476] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/71b8af2b-330b-4edb-9124-618153a884cf
+          - link "Driver Acquisition On-site — Full-time Algeria (East)" [ref=e477] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/71b8af2b-330b-4edb-9124-618153a884cf
+            - heading "Driver Acquisition" [level=5] [ref=e478]
+            - generic [ref=e479]:
+              - generic [ref=e480]: On-site —
+              - generic [ref=e481]: Full-time
+              - generic [ref=e482]: Algeria (East)
+      - generic [ref=e483]:
+        - generic [ref=e484]: Grocery Delivery
+        - generic [ref=e486]:
+          - link "Apply" [ref=e488] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/8d560d13-68fc-4eb7-b6a4-bd53610d45d2
+          - link "Chef de Projet (Yassir Market) On-site — Full-time Algiers, Algeria" [ref=e489] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/8d560d13-68fc-4eb7-b6a4-bd53610d45d2
+            - heading "Chef de Projet (Yassir Market)" [level=5] [ref=e490]
+            - generic [ref=e491]:
+              - generic [ref=e492]: On-site —
+              - generic [ref=e493]: Full-time
+              - generic [ref=e494]: Algiers, Algeria
+        - generic [ref=e495]:
+          - link "Apply" [ref=e497] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/35be4887-ee49-4c33-9fa3-35e7a2bf72fc
+          - link "Fleet Manager On-site — Full-time Algiers, Algeria" [ref=e498] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/35be4887-ee49-4c33-9fa3-35e7a2bf72fc
+            - heading "Fleet Manager" [level=5] [ref=e499]
+            - generic [ref=e500]:
+              - generic [ref=e501]: On-site —
+              - generic [ref=e502]: Full-time
+              - generic [ref=e503]: Algiers, Algeria
+        - generic [ref=e504]:
+          - link "Apply" [ref=e506] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/3deb43aa-0777-45cf-9a1c-5f4821a1875e
+          - link "Sales Executive Market On-site — Algiers, Algeria" [ref=e507] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/3deb43aa-0777-45cf-9a1c-5f4821a1875e
+            - heading "Sales Executive Market" [level=5] [ref=e508]
+            - generic [ref=e509]:
+              - generic [ref=e510]: On-site —
+              - generic [ref=e511]: Algiers, Algeria
+        - generic [ref=e512]:
+          - link "Apply" [ref=e514] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/0788e46a-2e1d-4055-8826-78915d2fa4be
+          - link "Store assitant On-site — Full-time Johannesburg, South Africa / Pretoria, South Africa" [ref=e515] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/0788e46a-2e1d-4055-8826-78915d2fa4be
+            - heading "Store assitant" [level=5] [ref=e516]
+            - generic [ref=e517]:
+              - generic [ref=e518]: On-site —
+              - generic [ref=e519]: Full-time
+              - generic [ref=e520]: Johannesburg, South Africa / Pretoria, South Africa
+        - generic [ref=e521]:
+          - link "Apply" [ref=e523] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9e06472b-40c5-4688-9c8e-48adc7fa45e7
+          - link "Store Operations Supervisor On-site — Full-time Pretoria, South Africa" [ref=e524] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9e06472b-40c5-4688-9c8e-48adc7fa45e7
+            - heading "Store Operations Supervisor" [level=5] [ref=e525]
+            - generic [ref=e526]:
+              - generic [ref=e527]: On-site —
+              - generic [ref=e528]: Full-time
+              - generic [ref=e529]: Pretoria, South Africa
+      - generic [ref=e530]:
+        - generic [ref=e531]: Ride Hailing
+        - generic [ref=e533]:
+          - link "Apply" [ref=e535] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/65ec037a-bc6a-4967-b55c-af5efec9461f
+          - link "Driver acquisition agent On-site — Full-time Tlemcen" [ref=e536] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/65ec037a-bc6a-4967-b55c-af5efec9461f
+            - heading "Driver acquisition agent" [level=5] [ref=e537]
+            - generic [ref=e538]:
+              - generic [ref=e539]: On-site —
+              - generic [ref=e540]: Full-time
+              - generic [ref=e541]: Tlemcen
+      - generic [ref=e542]:
+        - generic [ref=e543]: Sales
+        - generic [ref=e545]:
+          - link "Apply" [ref=e547] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a50b06b3-614b-4834-a696-8c92152f0fa9
+          - link "City operations executive On-site — Full-time Agadir" [ref=e548] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a50b06b3-614b-4834-a696-8c92152f0fa9
+            - heading "City operations executive" [level=5] [ref=e549]
+            - generic [ref=e550]:
+              - generic [ref=e551]: On-site —
+              - generic [ref=e552]: Full-time
+              - generic [ref=e553]: Agadir
+        - generic [ref=e554]:
+          - link "Apply" [ref=e556] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/80da1466-fb43-404b-b429-6155db3c40a1
+          - link "Corporate Sales Director On-site — Full-time Algiers, Algeria" [ref=e557] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/80da1466-fb43-404b-b429-6155db3c40a1
+            - heading "Corporate Sales Director" [level=5] [ref=e558]
+            - generic [ref=e559]:
+              - generic [ref=e560]: On-site —
+              - generic [ref=e561]: Full-time
+              - generic [ref=e562]: Algiers, Algeria
+        - generic [ref=e563]:
+          - link "Apply" [ref=e565] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/59251153-e81d-4646-8594-f8e1e39ef1ed
+          - link "Sales Executive (Annaba) On-site — Full-time Algeria (East)" [ref=e566] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/59251153-e81d-4646-8594-f8e1e39ef1ed
+            - heading "Sales Executive (Annaba)" [level=5] [ref=e567]
+            - generic [ref=e568]:
+              - generic [ref=e569]: On-site —
+              - generic [ref=e570]: Full-time
+              - generic [ref=e571]: Algeria (East)
+        - generic [ref=e572]:
+          - link "Apply" [ref=e574] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/5e5eab00-bb41-4031-86a4-d8f462eaf35b
+          - link "Sales operation specialist On-site — Full-time Algiers, Algeria" [ref=e575] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/5e5eab00-bb41-4031-86a4-d8f462eaf35b
+            - heading "Sales operation specialist" [level=5] [ref=e576]
+            - generic [ref=e577]:
+              - generic [ref=e578]: On-site —
+              - generic [ref=e579]: Full-time
+              - generic [ref=e580]: Algiers, Algeria
+        - generic [ref=e581]:
+          - link "Apply" [ref=e583] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1f3b4167-e606-4095-9c73-0eebea88c4aa
+          - link "Sales Representative (Ain Témouchent) On-site — Full-time Algeria (West)" [ref=e584] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1f3b4167-e606-4095-9c73-0eebea88c4aa
+            - heading "Sales Representative (Ain Témouchent)" [level=5] [ref=e585]
+            - generic [ref=e586]:
+              - generic [ref=e587]: On-site —
+              - generic [ref=e588]: Full-time
+              - generic [ref=e589]: Algeria (West)
+        - generic [ref=e590]:
+          - link "Apply" [ref=e592] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/2baea25d-2d34-4ce1-8637-1124e784d8cb
+          - link "Sales Representative (Bouira) On-site — Full-time Algeria (East) / Algiers, Algeria" [ref=e593] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/2baea25d-2d34-4ce1-8637-1124e784d8cb
+            - heading "Sales Representative (Bouira)" [level=5] [ref=e594]
+            - generic [ref=e595]:
+              - generic [ref=e596]: On-site —
+              - generic [ref=e597]: Full-time
+              - generic [ref=e598]: Algeria (East) / Algiers, Algeria
+        - generic [ref=e599]:
+          - link "Apply" [ref=e601] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/15f50b78-9bb0-4ccf-b546-62f2ee209529
+          - link "Sales Representative (Boumerdès) On-site — Full-time Algiers, Algeria" [ref=e602] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/15f50b78-9bb0-4ccf-b546-62f2ee209529
+            - heading "Sales Representative (Boumerdès)" [level=5] [ref=e603]
+            - generic [ref=e604]:
+              - generic [ref=e605]: On-site —
+              - generic [ref=e606]: Full-time
+              - generic [ref=e607]: Algiers, Algeria
+        - generic [ref=e608]:
+          - link "Apply" [ref=e610] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/47b3e592-c125-4d39-93af-592abac33614
+          - link "Sales Representative (El Djelfa) On-site — Full-time Algeria (East)" [ref=e611] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/47b3e592-c125-4d39-93af-592abac33614
+            - heading "Sales Representative (El Djelfa)" [level=5] [ref=e612]
+            - generic [ref=e613]:
+              - generic [ref=e614]: On-site —
+              - generic [ref=e615]: Full-time
+              - generic [ref=e616]: Algeria (East)
+        - generic [ref=e617]:
+          - link "Apply" [ref=e619] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c3076c53-c0ba-4927-8f92-5a9ad19b3be0
+          - link "Sales Representative (Mostaganem) On-site — Full-time Algeria (West)" [ref=e620] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c3076c53-c0ba-4927-8f92-5a9ad19b3be0
+            - heading "Sales Representative (Mostaganem)" [level=5] [ref=e621]
+            - generic [ref=e622]:
+              - generic [ref=e623]: On-site —
+              - generic [ref=e624]: Full-time
+              - generic [ref=e625]: Algeria (West)
+        - generic [ref=e626]:
+          - link "Apply" [ref=e628] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/237a0cd7-866c-484d-a3db-8f51a95cf8c6
+          - link "Sales Representative (Tlemcen) On-site — Full-time Algeria (West)" [ref=e629] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/237a0cd7-866c-484d-a3db-8f51a95cf8c6
+            - heading "Sales Representative (Tlemcen)" [level=5] [ref=e630]
+            - generic [ref=e631]:
+              - generic [ref=e632]: On-site —
+              - generic [ref=e633]: Full-time
+              - generic [ref=e634]: Algeria (West)
+        - generic [ref=e635]:
+          - link "Apply" [ref=e637] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9e9ccf67-31e5-4134-ab10-979349e0f75a
+          - link "Sales Representative (Tlemcen) On-site — Full-time Algeria (West)" [ref=e638] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9e9ccf67-31e5-4134-ab10-979349e0f75a
+            - heading "Sales Representative (Tlemcen)" [level=5] [ref=e639]
+            - generic [ref=e640]:
+              - generic [ref=e641]: On-site —
+              - generic [ref=e642]: Full-time
+              - generic [ref=e643]: Algeria (West)
+        - generic [ref=e644]:
+          - link "Apply" [ref=e646] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1b7a1b12-f38b-4ad4-94c4-049b9056d50e
+          - link "Sales Representative AIN DEFLA On-site — Full-time Algeria (West)" [ref=e647] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1b7a1b12-f38b-4ad4-94c4-049b9056d50e
+            - heading "Sales Representative AIN DEFLA" [level=5] [ref=e648]
+            - generic [ref=e649]:
+              - generic [ref=e650]: On-site —
+              - generic [ref=e651]: Full-time
+              - generic [ref=e652]: Algeria (West)
+        - generic [ref=e653]:
+          - link "Apply" [ref=e655] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c0a818bc-2281-40c8-83b3-45ec1782b1fe
+          - link "Sales Representative Ain Temouchent On-site — Full-time Algeria (West)" [ref=e656] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c0a818bc-2281-40c8-83b3-45ec1782b1fe
+            - heading "Sales Representative Ain Temouchent" [level=5] [ref=e657]
+            - generic [ref=e658]:
+              - generic [ref=e659]: On-site —
+              - generic [ref=e660]: Full-time
+              - generic [ref=e661]: Algeria (West)
+        - generic [ref=e662]:
+          - link "Apply" [ref=e664] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/151c47bd-2453-4af7-b875-71875046577b
+          - link "Sales Representative Alger On-site — Full-time Algiers, Algeria" [ref=e665] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/151c47bd-2453-4af7-b875-71875046577b
+            - heading "Sales Representative Alger" [level=5] [ref=e666]
+            - generic [ref=e667]:
+              - generic [ref=e668]: On-site —
+              - generic [ref=e669]: Full-time
+              - generic [ref=e670]: Algiers, Algeria
+        - generic [ref=e671]:
+          - link "Apply" [ref=e673] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/571acdf1-48c4-4f2e-a472-7f48321c11b3
+          - link "Sales representative Annaba On-site — Full-time Algeria (East)" [ref=e674] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/571acdf1-48c4-4f2e-a472-7f48321c11b3
+            - heading "Sales representative Annaba" [level=5] [ref=e675]
+            - generic [ref=e676]:
+              - generic [ref=e677]: On-site —
+              - generic [ref=e678]: Full-time
+              - generic [ref=e679]: Algeria (East)
+        - generic [ref=e680]:
+          - link "Apply" [ref=e682] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c330dbba-f43d-429a-a90b-3b4d48a74a92
+          - link "Sales Representative Batna On-site — Algeria (East)" [ref=e683] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/c330dbba-f43d-429a-a90b-3b4d48a74a92
+            - heading "Sales Representative Batna" [level=5] [ref=e684]
+            - generic [ref=e685]:
+              - generic [ref=e686]: On-site —
+              - generic [ref=e687]: Algeria (East)
+        - generic [ref=e688]:
+          - link "Apply" [ref=e690] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/6122b7a6-a9dd-45a8-9adb-b8962a8863db
+          - link "Sales Representative Bordj Bou Arreridj On-site — Full-time Algeria (East)" [ref=e691] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/6122b7a6-a9dd-45a8-9adb-b8962a8863db
+            - heading "Sales Representative Bordj Bou Arreridj" [level=5] [ref=e692]
+            - generic [ref=e693]:
+              - generic [ref=e694]: On-site —
+              - generic [ref=e695]: Full-time
+              - generic [ref=e696]: Algeria (East)
+        - generic [ref=e697]:
+          - link "Apply" [ref=e699] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b6a1450f-0c0c-4e6b-8327-59e549eb143b
+          - link "Sales Representative Constantine On-site — Algeria (East)" [ref=e700] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b6a1450f-0c0c-4e6b-8327-59e549eb143b
+            - heading "Sales Representative Constantine" [level=5] [ref=e701]
+            - generic [ref=e702]:
+              - generic [ref=e703]: On-site —
+              - generic [ref=e704]: Algeria (East)
+        - generic [ref=e705]:
+          - link "Apply" [ref=e707] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e8a67668-a25a-46c2-abad-f9fc5c65c822
+          - link "Sales Representative Djelfa On-site — Full-time Algiers, Algeria" [ref=e708] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e8a67668-a25a-46c2-abad-f9fc5c65c822
+            - heading "Sales Representative Djelfa" [level=5] [ref=e709]
+            - generic [ref=e710]:
+              - generic [ref=e711]: On-site —
+              - generic [ref=e712]: Full-time
+              - generic [ref=e713]: Algiers, Algeria
+        - generic [ref=e714]:
+          - link "Apply" [ref=e716] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b573ec1b-dea0-4034-973a-cb4607599b5a
+          - link "Sales Representative El Tarf On-site — Algeria (East)" [ref=e717] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b573ec1b-dea0-4034-973a-cb4607599b5a
+            - heading "Sales Representative El Tarf" [level=5] [ref=e718]
+            - generic [ref=e719]:
+              - generic [ref=e720]: On-site —
+              - generic [ref=e721]: Algeria (East)
+        - generic [ref=e722]:
+          - link "Apply" [ref=e724] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/37e2d6f4-f6ea-46fc-bbab-be876ddf4513
+          - link "Sales Representative Jijel On-site — Full-time Algeria (East)" [ref=e725] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/37e2d6f4-f6ea-46fc-bbab-be876ddf4513
+            - heading "Sales Representative Jijel" [level=5] [ref=e726]
+            - generic [ref=e727]:
+              - generic [ref=e728]: On-site —
+              - generic [ref=e729]: Full-time
+              - generic [ref=e730]: Algeria (East)
+        - generic [ref=e731]:
+          - link "Apply" [ref=e733] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/6a644007-76b5-48b6-a7e4-d41f8300c10b
+          - link "Sales Representative Medea On-site — Full-time Algiers, Algeria" [ref=e734] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/6a644007-76b5-48b6-a7e4-d41f8300c10b
+            - heading "Sales Representative Medea" [level=5] [ref=e735]
+            - generic [ref=e736]:
+              - generic [ref=e737]: On-site —
+              - generic [ref=e738]: Full-time
+              - generic [ref=e739]: Algiers, Algeria
+        - generic [ref=e740]:
+          - link "Apply" [ref=e742] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/5b9c81c1-fe9a-42cf-8235-82adac84016c
+          - link "Sales Representative Mostaganem On-site — Full-time Algeria (West)" [ref=e743] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/5b9c81c1-fe9a-42cf-8235-82adac84016c
+            - heading "Sales Representative Mostaganem" [level=5] [ref=e744]
+            - generic [ref=e745]:
+              - generic [ref=e746]: On-site —
+              - generic [ref=e747]: Full-time
+              - generic [ref=e748]: Algeria (West)
+        - generic [ref=e749]:
+          - link "Apply" [ref=e751] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/5270a8b4-17ef-42ac-96a6-64c0c8a540e7
+          - link "Sales Representative Oran On-site — Oran, Algeria" [ref=e752] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/5270a8b4-17ef-42ac-96a6-64c0c8a540e7
+            - heading "Sales Representative Oran" [level=5] [ref=e753]
+            - generic [ref=e754]:
+              - generic [ref=e755]: On-site —
+              - generic [ref=e756]: Oran, Algeria
+        - generic [ref=e757]:
+          - link "Apply" [ref=e759] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e5a271cb-dbd4-401a-bc94-b21cfc3a5d24
+          - link "Sales Representative Skikda On-site — Full-time Algeria (East)" [ref=e760] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e5a271cb-dbd4-401a-bc94-b21cfc3a5d24
+            - heading "Sales Representative Skikda" [level=5] [ref=e761]
+            - generic [ref=e762]:
+              - generic [ref=e763]: On-site —
+              - generic [ref=e764]: Full-time
+              - generic [ref=e765]: Algeria (East)
+        - generic [ref=e766]:
+          - link "Apply" [ref=e768] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/bd7cc121-ffc6-4c5d-94bd-91ce00c64b3f
+          - link "Sales Representative Souk Ahras On-site — Full-time Algeria (East)" [ref=e769] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/bd7cc121-ffc6-4c5d-94bd-91ce00c64b3f
+            - heading "Sales Representative Souk Ahras" [level=5] [ref=e770]
+            - generic [ref=e771]:
+              - generic [ref=e772]: On-site —
+              - generic [ref=e773]: Full-time
+              - generic [ref=e774]: Algeria (East)
+      - generic [ref=e775]:
+        - generic [ref=e776]: Transport
+        - generic [ref=e778]:
+          - link "Apply" [ref=e780] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/4f390e48-86c7-4da0-864e-643a5f7f935a
+          - link "City Fleet Supervisor (Alger) On-site — Full-time Algiers, Algeria" [ref=e781] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/4f390e48-86c7-4da0-864e-643a5f7f935a
+            - heading "City Fleet Supervisor (Alger)" [level=5] [ref=e782]
+            - generic [ref=e783]:
+              - generic [ref=e784]: On-site —
+              - generic [ref=e785]: Full-time
+              - generic [ref=e786]: Algiers, Algeria
+        - generic [ref=e787]:
+          - link "Apply" [ref=e789] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/73a79e78-b0a8-43db-9a33-5bdcde3cfd20
+          - link "City Fleet Supervisor (Annaba) On-site — Full-time Algeria (East)" [ref=e790] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/73a79e78-b0a8-43db-9a33-5bdcde3cfd20
+            - heading "City Fleet Supervisor (Annaba)" [level=5] [ref=e791]
+            - generic [ref=e792]:
+              - generic [ref=e793]: On-site —
+              - generic [ref=e794]: Full-time
+              - generic [ref=e795]: Algeria (East)
+        - generic [ref=e796]:
+          - link "Apply" [ref=e798] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/445c2dc0-7fc5-417b-a50c-21422dd6b8c1
+          - link "Driver Acquisition Agent On-site — Tlemcen" [ref=e799] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/445c2dc0-7fc5-417b-a50c-21422dd6b8c1
+            - heading "Driver Acquisition Agent" [level=5] [ref=e800]
+            - generic [ref=e801]:
+              - generic [ref=e802]: On-site —
+              - generic [ref=e803]: Tlemcen
+      - generic [ref=e804]:
+        - generic [ref=e805]: Yassir Cash
+        - generic [ref=e807]:
+          - link "Apply" [ref=e809] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1eddf301-02e0-4057-a69e-579c6f7e15b1
+          - link "Sales Representative (Tizi Ouzou) On-site — Full-time Algeria (East)" [ref=e810] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1eddf301-02e0-4057-a69e-579c6f7e15b1
+            - heading "Sales Representative (Tizi Ouzou)" [level=5] [ref=e811]
+            - generic [ref=e812]:
+              - generic [ref=e813]: On-site —
+              - generic [ref=e814]: Full-time
+              - generic [ref=e815]: Algeria (East)
+      - generic [ref=e816]:
+        - generic [ref=e817]: Yassir Market
+        - generic [ref=e819]:
+          - link "Apply" [ref=e821] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/7a72a0b1-e3a5-4046-ae5a-e939ca6008e5
+          - link "IT Helpdesk On-site — Full-time Algeria (West)" [ref=e822] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/7a72a0b1-e3a5-4046-ae5a-e939ca6008e5
+            - heading "IT Helpdesk" [level=5] [ref=e823]
+            - generic [ref=e824]:
+              - generic [ref=e825]: On-site —
+              - generic [ref=e826]: Full-time
+              - generic [ref=e827]: Algeria (West)
+      - generic [ref=e828]:
+        - generic [ref=e829]: People Team
+        - generic [ref=e830]: HR Business Partner
+        - generic [ref=e832]:
+          - link "Apply" [ref=e834] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a7ebb1f6-8bfe-4d0b-8ff4-2d0c52c4c71e
+          - link "HR Admin - French Speaker On-site — Full-time Cairo, Egypt" [ref=e835] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a7ebb1f6-8bfe-4d0b-8ff4-2d0c52c4c71e
+            - heading "HR Admin - French Speaker" [level=5] [ref=e836]
+            - generic [ref=e837]:
+              - generic [ref=e838]: On-site —
+              - generic [ref=e839]: Full-time
+              - generic [ref=e840]: Cairo, Egypt
+        - generic [ref=e841]:
+          - link "Apply" [ref=e843] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e1a0b3de-0ea3-409b-a674-fa3531b0fce0
+          - link "HR Business Partner On-site — Full-time Cairo, Egypt" [ref=e844] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e1a0b3de-0ea3-409b-a674-fa3531b0fce0
+            - heading "HR Business Partner" [level=5] [ref=e845]
+            - generic [ref=e846]:
+              - generic [ref=e847]: On-site —
+              - generic [ref=e848]: Full-time
+              - generic [ref=e849]: Cairo, Egypt
+        - generic [ref=e850]:
+          - link "Apply" [ref=e852] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1ee63491-d556-4d83-9763-6602a0431146
+          - link "Talent Acquisition Specialist -TA- Hybrid — Full-time Algiers, Algeria" [ref=e853] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1ee63491-d556-4d83-9763-6602a0431146
+            - heading "Talent Acquisition Specialist -TA-" [level=5] [ref=e854]
+            - generic [ref=e855]:
+              - generic [ref=e856]: Hybrid —
+              - generic [ref=e857]: Full-time
+              - generic [ref=e858]: Algiers, Algeria
+      - generic [ref=e859]:
+        - generic [ref=e860]: HR Operations Specialist
+        - generic [ref=e862]:
+          - link "Apply" [ref=e864] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/2d1164d2-134e-403a-a4d0-e41080db2cba
+          - link "Global HRIS Coordinator On-site — Full-time Algiers, Algeria" [ref=e865] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/2d1164d2-134e-403a-a4d0-e41080db2cba
+            - heading "Global HRIS Coordinator" [level=5] [ref=e866]
+            - generic [ref=e867]:
+              - generic [ref=e868]: On-site —
+              - generic [ref=e869]: Full-time
+              - generic [ref=e870]: Algiers, Algeria
+        - generic [ref=e871]:
+          - link "Apply" [ref=e873] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/ec940b06-ff5f-4f17-abbd-dc0c1f3a11ad
+          - link "HR Admin - French Speaker On-site — Full-time Algiers, Algeria / Agadir / Tunis, Tunisia" [ref=e874] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/ec940b06-ff5f-4f17-abbd-dc0c1f3a11ad
+            - heading "HR Admin - French Speaker" [level=5] [ref=e875]
+            - generic [ref=e876]:
+              - generic [ref=e877]: On-site —
+              - generic [ref=e878]: Full-time
+              - generic [ref=e879]: Algiers, Algeria / Agadir / Tunis, Tunisia
+        - generic [ref=e880]:
+          - link "Apply" [ref=e882] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/12a7cd40-a4df-438c-9c71-450a526e0f59
+          - link "Senior Talent Acquisition Hybrid — Full-time Algiers, Algeria" [ref=e883] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/12a7cd40-a4df-438c-9c71-450a526e0f59
+            - heading "Senior Talent Acquisition" [level=5] [ref=e884]
+            - generic [ref=e885]:
+              - generic [ref=e886]: Hybrid —
+              - generic [ref=e887]: Full-time
+              - generic [ref=e888]: Algiers, Algeria
+        - generic [ref=e889]:
+          - link "Apply" [ref=e891] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/248b40b1-338d-4cca-ba47-f008b02ce062
+          - link "Talent acquisition specialist On-site — Full-time Algiers, Algeria" [ref=e892] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/248b40b1-338d-4cca-ba47-f008b02ce062
+            - heading "Talent acquisition specialist" [level=5] [ref=e893]
+            - generic [ref=e894]:
+              - generic [ref=e895]: On-site —
+              - generic [ref=e896]: Full-time
+              - generic [ref=e897]: Algiers, Algeria
+      - generic [ref=e898]:
+        - generic [ref=e899]: Talent Acquisition - Non-tech
+        - generic [ref=e901]:
+          - link "Apply" [ref=e903] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/377caeea-be85-444f-9df5-c845fc27bfa5
+          - link "Talent Acquisition Specialist Hybrid — Full-time Algiers, Algeria" [ref=e904] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/377caeea-be85-444f-9df5-c845fc27bfa5
+            - heading "Talent Acquisition Specialist" [level=5] [ref=e905]
+            - generic [ref=e906]:
+              - generic [ref=e907]: Hybrid —
+              - generic [ref=e908]: Full-time
+              - generic [ref=e909]: Algiers, Algeria
+      - generic [ref=e910]:
+        - generic [ref=e911]: Product & Tech
+        - generic [ref=e912]: Data/AI/ML
+        - generic [ref=e914]:
+          - link "Apply" [ref=e916] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/3ac148b1-6b81-4020-9914-68ff5ebd6c2e
+          - link "AI Product Manager Hybrid — Full-time Cairo, Egypt / Bucharest / Belgrade / Sofia / Abu Dhabi, United Arab Emirates / Alexandria, Egypt / Cape Town, South Africa / Dubai, United Arab Emirates / Johannesburg, South Africa / Remote / India" [ref=e917] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/3ac148b1-6b81-4020-9914-68ff5ebd6c2e
+            - heading "AI Product Manager" [level=5] [ref=e918]
+            - generic [ref=e919]:
+              - generic [ref=e920]: Hybrid —
+              - generic [ref=e921]: Full-time
+              - generic [ref=e922]: Cairo, Egypt / Bucharest / Belgrade / Sofia / Abu Dhabi, United Arab Emirates / Alexandria, Egypt / Cape Town, South Africa / Dubai, United Arab Emirates / Johannesburg, South Africa / Remote / India
+        - generic [ref=e923]:
+          - link "Apply" [ref=e925] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/8ea76e6d-d4f7-43e0-9c99-ebc1329d0ff3
+          - link "Analytics Manager Remote — Contractor Cairo, Egypt / Alexandria, Egypt / Nairobi, Kenya / Belgium / Belgrade / Bucharest / Cape Town, South Africa / Croatia / Greece / India / Dublin, Ireland / Lisbon / Remote / Sofia / Tirana" [ref=e926] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/8ea76e6d-d4f7-43e0-9c99-ebc1329d0ff3
+            - heading "Analytics Manager" [level=5] [ref=e927]
+            - generic [ref=e928]:
+              - generic [ref=e929]: Remote —
+              - generic [ref=e930]: Contractor
+              - generic [ref=e931]: Cairo, Egypt / Alexandria, Egypt / Nairobi, Kenya / Belgium / Belgrade / Bucharest / Cape Town, South Africa / Croatia / Greece / India / Dublin, Ireland / Lisbon / Remote / Sofia / Tirana
+        - generic [ref=e932]:
+          - link "Apply" [ref=e934] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/eea322f7-19be-45dd-ac9a-d3d79934566a
+          - link "Data Analyst On-site — Full-time Algiers, Algeria" [ref=e935] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/eea322f7-19be-45dd-ac9a-d3d79934566a
+            - heading "Data Analyst" [level=5] [ref=e936]
+            - generic [ref=e937]:
+              - generic [ref=e938]: On-site —
+              - generic [ref=e939]: Full-time
+              - generic [ref=e940]: Algiers, Algeria
+        - generic [ref=e941]:
+          - link "Apply" [ref=e943] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/580bb8db-a843-4484-bbff-7ed3e3e10a32
+          - link "Data Engineer (Mid/Senior) Hybrid — Full-time Algeria (West) / Algeria (East) / Algiers, Algeria" [ref=e944] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/580bb8db-a843-4484-bbff-7ed3e3e10a32
+            - heading "Data Engineer (Mid/Senior)" [level=5] [ref=e945]
+            - generic [ref=e946]:
+              - generic [ref=e947]: Hybrid —
+              - generic [ref=e948]: Full-time
+              - generic [ref=e949]: Algeria (West) / Algeria (East) / Algiers, Algeria
+        - generic [ref=e950]:
+          - link "Apply" [ref=e952] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/37980bd7-7725-41a9-8b88-8f3f9513cd7b
+          - link "Data Scientist Hybrid — Full-time Algiers, Algeria / Constantine, Algeria / Tlemcen / Tunis, Tunisia / Remote / Oran, Algeria / Dakar, Senegal / Abidjan, Ivory Coast / Alexandria, Egypt / Bejaia, Algeria / Cairo, Egypt / Cape Town, South Africa / Johannesburg, South Africa / Pretoria, South Africa" [ref=e953] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/37980bd7-7725-41a9-8b88-8f3f9513cd7b
+            - heading "Data Scientist" [level=5] [ref=e954]
+            - generic [ref=e955]:
+              - generic [ref=e956]: Hybrid —
+              - generic [ref=e957]: Full-time
+              - generic [ref=e958]: Algiers, Algeria / Constantine, Algeria / Tlemcen / Tunis, Tunisia / Remote / Oran, Algeria / Dakar, Senegal / Abidjan, Ivory Coast / Alexandria, Egypt / Bejaia, Algeria / Cairo, Egypt / Cape Town, South Africa / Johannesburg, South Africa / Pretoria, South Africa
+        - generic [ref=e959]:
+          - link "Apply" [ref=e961] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9ca82566-8bac-471e-9545-baa8ef759d1f
+          - link "Data Scientist (Personalization) Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / India / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Remote" [ref=e962] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9ca82566-8bac-471e-9545-baa8ef759d1f
+            - heading "Data Scientist (Personalization)" [level=5] [ref=e963]
+            - generic [ref=e964]:
+              - generic [ref=e965]: Hybrid —
+              - generic [ref=e966]: Full-time
+              - generic [ref=e967]: Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / India / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Remote
+        - generic [ref=e968]:
+          - link "Apply" [ref=e970] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9caf7e04-195a-4011-9b55-e1105615c0a2
+          - link "Data Scientist (Pricing) Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / India / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Remote" [ref=e971] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9caf7e04-195a-4011-9b55-e1105615c0a2
+            - heading "Data Scientist (Pricing)" [level=5] [ref=e972]
+            - generic [ref=e973]:
+              - generic [ref=e974]: Hybrid —
+              - generic [ref=e975]: Full-time
+              - generic [ref=e976]: Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / India / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Remote
+        - generic [ref=e977]:
+          - link "Apply" [ref=e979] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/5cce871c-6c88-43e3-9ebc-b808377696dc
+          - link "Mid/Senior - Data Scientist Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / Abu Dhabi, United Arab Emirates / Cape Town, South Africa / Dubai, United Arab Emirates / remote / Riyadh, Saudi Arabia / Remote / Johannesburg, South Africa / India / Sofia" [ref=e980] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/5cce871c-6c88-43e3-9ebc-b808377696dc
+            - heading "Mid/Senior - Data Scientist" [level=5] [ref=e981]
+            - generic [ref=e982]:
+              - generic [ref=e983]: Hybrid —
+              - generic [ref=e984]: Full-time
+              - generic [ref=e985]: Cairo, Egypt / Alexandria, Egypt / Abu Dhabi, United Arab Emirates / Cape Town, South Africa / Dubai, United Arab Emirates / remote / Riyadh, Saudi Arabia / Remote / Johannesburg, South Africa / India / Sofia
+        - generic [ref=e986]:
+          - link "Apply" [ref=e988] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/0250ed28-67ac-470f-b5d7-21d18af32004
+          - link "Mid/Senior Data Engineer Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Remote" [ref=e989] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/0250ed28-67ac-470f-b5d7-21d18af32004
+            - heading "Mid/Senior Data Engineer" [level=5] [ref=e990]
+            - generic [ref=e991]:
+              - generic [ref=e992]: Hybrid —
+              - generic [ref=e993]: Full-time
+              - generic [ref=e994]: Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Remote
+        - generic [ref=e995]:
+          - link "Apply" [ref=e997] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f6f9c0d1-dcad-459b-9018-2c3e547f199e
+          - link "Product Data Analyst (Mid / Senior) Hybrid — Full-time Algiers, Algeria / Algeria (East) / Algeria (West) / Constantine, Algeria / Oran, Algeria / Setif, Algeria / Tlemcen" [ref=e998] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f6f9c0d1-dcad-459b-9018-2c3e547f199e
+            - heading "Product Data Analyst (Mid / Senior)" [level=5] [ref=e999]
+            - generic [ref=e1000]:
+              - generic [ref=e1001]: Hybrid —
+              - generic [ref=e1002]: Full-time
+              - generic [ref=e1003]: Algiers, Algeria / Algeria (East) / Algeria (West) / Constantine, Algeria / Oran, Algeria / Setif, Algeria / Tlemcen
+        - generic [ref=e1004]:
+          - link "Apply" [ref=e1006] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d18c5d4d-7ae4-4558-9c20-7b348a6390c3
+          - link "Senior Data Engineer Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Remote / Abu Dhabi, United Arab Emirates / India" [ref=e1007] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d18c5d4d-7ae4-4558-9c20-7b348a6390c3
+            - heading "Senior Data Engineer" [level=5] [ref=e1008]
+            - generic [ref=e1009]:
+              - generic [ref=e1010]: Hybrid —
+              - generic [ref=e1011]: Full-time
+              - generic [ref=e1012]: Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Remote / Abu Dhabi, United Arab Emirates / India
+      - generic [ref=e1013]:
+        - generic [ref=e1014]: Financial Services
+        - generic [ref=e1016]:
+          - link "Apply" [ref=e1018] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/6fdbba75-3b28-479d-a6d0-910f55a33669
+          - link "DevOps Engineer Hybrid — Full-time Algiers, Algeria" [ref=e1019] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/6fdbba75-3b28-479d-a6d0-910f55a33669
+            - heading "DevOps Engineer" [level=5] [ref=e1020]
+            - generic [ref=e1021]:
+              - generic [ref=e1022]: Hybrid —
+              - generic [ref=e1023]: Full-time
+              - generic [ref=e1024]: Algiers, Algeria
+        - generic [ref=e1025]:
+          - link "Apply" [ref=e1027] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/2f7a72f5-bfb7-4b12-acce-7ac06ad34950
+          - link "Full Stack Engineer (Node.js & React) Hybrid — Full-time Algiers, Algeria" [ref=e1028] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/2f7a72f5-bfb7-4b12-acce-7ac06ad34950
+            - heading "Full Stack Engineer (Node.js & React)" [level=5] [ref=e1029]
+            - generic [ref=e1030]:
+              - generic [ref=e1031]: Hybrid —
+              - generic [ref=e1032]: Full-time
+              - generic [ref=e1033]: Algiers, Algeria
+        - generic [ref=e1034]:
+          - link "Apply" [ref=e1036] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/0dea9613-1c46-4fcb-bad8-303ff561ac4b
+          - link "Head of Engineering - Financial Services Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Cape Town, South Africa / Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco / Abu Dhabi, United Arab Emirates / Dubai, United Arab Emirates / remote / Remote / India" [ref=e1037] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/0dea9613-1c46-4fcb-bad8-303ff561ac4b
+            - heading "Head of Engineering - Financial Services" [level=5] [ref=e1038]
+            - generic [ref=e1039]:
+              - generic [ref=e1040]: Hybrid —
+              - generic [ref=e1041]: Full-time
+              - generic [ref=e1042]: Cairo, Egypt / Alexandria, Egypt / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Cape Town, South Africa / Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco / Abu Dhabi, United Arab Emirates / Dubai, United Arab Emirates / remote / Remote / India
+        - generic [ref=e1043]:
+          - link "Apply" [ref=e1045] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/58819e0b-3fbb-4d36-b8e0-54cd87c33002
+          - link "Head of Product - Financial Services Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt" [ref=e1046] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/58819e0b-3fbb-4d36-b8e0-54cd87c33002
+            - heading "Head of Product - Financial Services" [level=5] [ref=e1047]
+            - generic [ref=e1048]:
+              - generic [ref=e1049]: Hybrid —
+              - generic [ref=e1050]: Full-time
+              - generic [ref=e1051]: Cairo, Egypt / Alexandria, Egypt
+        - generic [ref=e1052]:
+          - link "Apply" [ref=e1054] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1f23b850-e889-4ff3-8ee7-df69f78f7e51
+          - link "Mobile Android Engineer Hybrid — Full-time Algiers, Algeria" [ref=e1055] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1f23b850-e889-4ff3-8ee7-df69f78f7e51
+            - heading "Mobile Android Engineer" [level=5] [ref=e1056]
+            - generic [ref=e1057]:
+              - generic [ref=e1058]: Hybrid —
+              - generic [ref=e1059]: Full-time
+              - generic [ref=e1060]: Algiers, Algeria
+        - generic [ref=e1061]:
+          - link "Apply" [ref=e1063] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/0da44d78-f0a1-4d4c-9423-b8dee2e48a25
+          - link "Partnership & Business Development Manager - Financial Services On-site — Full-time Algiers, Algeria" [ref=e1064] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/0da44d78-f0a1-4d4c-9423-b8dee2e48a25
+            - heading "Partnership & Business Development Manager - Financial Services" [level=5] [ref=e1065]
+            - generic [ref=e1066]:
+              - generic [ref=e1067]: On-site —
+              - generic [ref=e1068]: Full-time
+              - generic [ref=e1069]: Algiers, Algeria
+        - generic [ref=e1070]:
+          - link "Apply" [ref=e1072] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/fdacc61d-d98b-45b9-b002-232d831642fd
+          - link "Project Manager (Financial Services) Hybrid — Full-time Algiers, Algeria / Algeria (East) / Algeria (West)" [ref=e1073] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/fdacc61d-d98b-45b9-b002-232d831642fd
+            - heading "Project Manager (Financial Services)" [level=5] [ref=e1074]
+            - generic [ref=e1075]:
+              - generic [ref=e1076]: Hybrid —
+              - generic [ref=e1077]: Full-time
+              - generic [ref=e1078]: Algiers, Algeria / Algeria (East) / Algeria (West)
+        - generic [ref=e1079]:
+          - link "Apply" [ref=e1081] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e1d39a84-ca9b-4d30-aaad-a4eff9bd8399
+          - link "QA Automation Engineer Hybrid — Full-time Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco / Dakar, Senegal / Johannesburg, South Africa" [ref=e1082] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e1d39a84-ca9b-4d30-aaad-a4eff9bd8399
+            - heading "QA Automation Engineer" [level=5] [ref=e1083]
+            - generic [ref=e1084]:
+              - generic [ref=e1085]: Hybrid —
+              - generic [ref=e1086]: Full-time
+              - generic [ref=e1087]: Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco / Dakar, Senegal / Johannesburg, South Africa
+        - generic [ref=e1088]:
+          - link "Apply" [ref=e1090] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9c4391d3-a972-425e-a51f-3cebb6aef6ba
+          - link "Sales Manager On-site — Full-time Algiers, Algeria" [ref=e1091] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9c4391d3-a972-425e-a51f-3cebb6aef6ba
+            - heading "Sales Manager" [level=5] [ref=e1092]
+            - generic [ref=e1093]:
+              - generic [ref=e1094]: On-site —
+              - generic [ref=e1095]: Full-time
+              - generic [ref=e1096]: Algiers, Algeria
+        - generic [ref=e1097]:
+          - link "Apply" [ref=e1099] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/ea5cbaee-1480-4226-8ded-3763a20e385e
+          - link "Senior Full Stack Engineer (React/Node) - Financial Services Hybrid — Full-time Cairo, Egypt / Lagos, Nigeria / Remote / Alexandria, Egypt / Abu Dhabi, United Arab Emirates / India / Nairobi, Kenya / Russia / Kampala, Uganda" [ref=e1100] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/ea5cbaee-1480-4226-8ded-3763a20e385e
+            - heading "Senior Full Stack Engineer (React/Node) - Financial Services" [level=5] [ref=e1101]
+            - generic [ref=e1102]:
+              - generic [ref=e1103]: Hybrid —
+              - generic [ref=e1104]: Full-time
+              - generic [ref=e1105]: Cairo, Egypt / Lagos, Nigeria / Remote / Alexandria, Egypt / Abu Dhabi, United Arab Emirates / India / Nairobi, Kenya / Russia / Kampala, Uganda
+        - generic [ref=e1106]:
+          - link "Apply" [ref=e1108] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f649b64b-ada2-478b-a653-aa174e871498
+          - link "Senior Mobile iOS Engineer - Financial Services Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / remote" [ref=e1109] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f649b64b-ada2-478b-a653-aa174e871498
+            - heading "Senior Mobile iOS Engineer - Financial Services" [level=5] [ref=e1110]
+            - generic [ref=e1111]:
+              - generic [ref=e1112]: Hybrid —
+              - generic [ref=e1113]: Full-time
+              - generic [ref=e1114]: Cairo, Egypt / Alexandria, Egypt / remote
+        - generic [ref=e1115]:
+          - link "Apply" [ref=e1117] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/aa987ff5-3b8d-4d39-9fdd-a14a320e436e
+          - link "Senior Product Manager - Financial Services Hybrid — Full-time Cairo, Egypt" [ref=e1118] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/aa987ff5-3b8d-4d39-9fdd-a14a320e436e
+            - heading "Senior Product Manager - Financial Services" [level=5] [ref=e1119]
+            - generic [ref=e1120]:
+              - generic [ref=e1121]: Hybrid —
+              - generic [ref=e1122]: Full-time
+              - generic [ref=e1123]: Cairo, Egypt
+      - generic [ref=e1124]:
+        - generic [ref=e1125]: Last Mile Delivery
+        - generic [ref=e1127]:
+          - link "Apply" [ref=e1129] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/765cf14d-0b6f-40db-8a20-a97a37aa6dac
+          - link "Full Stack Engineer (NestJs & React) Hybrid — Full-time Algiers, Algeria" [ref=e1130] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/765cf14d-0b6f-40db-8a20-a97a37aa6dac
+            - heading "Full Stack Engineer (NestJs & React)" [level=5] [ref=e1131]
+            - generic [ref=e1132]:
+              - generic [ref=e1133]: Hybrid —
+              - generic [ref=e1134]: Full-time
+              - generic [ref=e1135]: Algiers, Algeria
+        - generic [ref=e1136]:
+          - link "Apply" [ref=e1138] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f12e28c6-e273-4e08-afa3-9fd29f2ea38f
+          - link "Product Manager (LMD) Hybrid — Full-time Algiers, Algeria" [ref=e1139] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f12e28c6-e273-4e08-afa3-9fd29f2ea38f
+            - heading "Product Manager (LMD)" [level=5] [ref=e1140]
+            - generic [ref=e1141]:
+              - generic [ref=e1142]: Hybrid —
+              - generic [ref=e1143]: Full-time
+              - generic [ref=e1144]: Algiers, Algeria
+        - generic [ref=e1145]:
+          - link "Apply" [ref=e1147] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/85f16b18-6fb9-420d-8fbf-0af813a5597e
+          - link "Senior Back-end Developer (PHP Laravel) Hybrid — Full-time Algiers, Algeria" [ref=e1148] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/85f16b18-6fb9-420d-8fbf-0af813a5597e
+            - heading "Senior Back-end Developer (PHP Laravel)" [level=5] [ref=e1149]
+            - generic [ref=e1150]:
+              - generic [ref=e1151]: Hybrid —
+              - generic [ref=e1152]: Full-time
+              - generic [ref=e1153]: Algiers, Algeria
+        - generic [ref=e1154]:
+          - link "Apply" [ref=e1156] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/47a6a625-c3ba-4e46-8f60-4194db24cdf4
+          - link "Senior Full Stack Engineer (Node.js & React) Hybrid — Full-time Cairo, Egypt / Cape Town, South Africa / Lagos, Nigeria / Nairobi, Kenya / India / Remote / Alexandria, Egypt" [ref=e1157] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/47a6a625-c3ba-4e46-8f60-4194db24cdf4
+            - heading "Senior Full Stack Engineer (Node.js & React)" [level=5] [ref=e1158]
+            - generic [ref=e1159]:
+              - generic [ref=e1160]: Hybrid —
+              - generic [ref=e1161]: Full-time
+              - generic [ref=e1162]: Cairo, Egypt / Cape Town, South Africa / Lagos, Nigeria / Nairobi, Kenya / India / Remote / Alexandria, Egypt
+        - generic [ref=e1163]:
+          - link "Apply" [ref=e1165] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/bfc4ce54-e066-44c7-a0e4-4cc7e88e43cb
+          - link "Senior Mobile Android Engineer (KMM) Hybrid — Full-time Cairo, Egypt / Cape Town, South Africa / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Remote / Alexandria, Egypt / remote / Abu Dhabi, United Arab Emirates / Dubai, United Arab Emirates" [ref=e1166] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/bfc4ce54-e066-44c7-a0e4-4cc7e88e43cb
+            - heading "Senior Mobile Android Engineer (KMM)" [level=5] [ref=e1167]
+            - generic [ref=e1168]:
+              - generic [ref=e1169]: Hybrid —
+              - generic [ref=e1170]: Full-time
+              - generic [ref=e1171]: Cairo, Egypt / Cape Town, South Africa / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Remote / Alexandria, Egypt / remote / Abu Dhabi, United Arab Emirates / Dubai, United Arab Emirates
+        - generic [ref=e1172]:
+          - link "Apply" [ref=e1174] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e6a2c1ef-8696-43a7-8db1-7e675a321c7d
+          - link "Senior Product Manager Hybrid — Full-time Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco / Bamako, Mali / Barcelona, Spain / Dakar, Senegal / remote / Remote / worldwide / Nairobi, Kenya / Luxembourg City / Algeria (East) / Algeria (West) / Paris, France" [ref=e1175] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e6a2c1ef-8696-43a7-8db1-7e675a321c7d
+            - heading "Senior Product Manager" [level=5] [ref=e1176]
+            - generic [ref=e1177]:
+              - generic [ref=e1178]: Hybrid —
+              - generic [ref=e1179]: Full-time
+              - generic [ref=e1180]: Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco / Bamako, Mali / Barcelona, Spain / Dakar, Senegal / remote / Remote / worldwide / Nairobi, Kenya / Luxembourg City / Algeria (East) / Algeria (West) / Paris, France
+        - generic [ref=e1181]:
+          - link "Apply" [ref=e1183] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1a759787-b5cc-4e04-9d3a-cbdffe7469c2
+          - link "Senior Product Manager - Food Delivery (f/m/x) Hybrid — Contractor Algiers, Algeria / Belgrade / Barcelona, Spain / Alexandria, Egypt / Dakar, Senegal / Dublin, Ireland / Warsaw / Turkey / Tirana / Remote / remote / other locations" [ref=e1184] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1a759787-b5cc-4e04-9d3a-cbdffe7469c2
+            - heading "Senior Product Manager - Food Delivery (f/m/x)" [level=5] [ref=e1185]
+            - generic [ref=e1186]:
+              - generic [ref=e1187]: Hybrid —
+              - generic [ref=e1188]: Contractor
+              - generic [ref=e1189]: Algiers, Algeria / Belgrade / Barcelona, Spain / Alexandria, Egypt / Dakar, Senegal / Dublin, Ireland / Warsaw / Turkey / Tirana / Remote / remote / other locations
+        - generic [ref=e1190]:
+          - link "Apply" [ref=e1192] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/65d4dc33-0d72-4707-b7c9-9322378c2786
+          - link "Senior Product Manager - LMD Hybrid — Full-time Cairo, Egypt / Cape Town, South Africa / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Dubai, United Arab Emirates / Pretoria, South Africa / Alexandria, Egypt / Abu Dhabi, United Arab Emirates" [ref=e1193] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/65d4dc33-0d72-4707-b7c9-9322378c2786
+            - heading "Senior Product Manager - LMD" [level=5] [ref=e1194]
+            - generic [ref=e1195]:
+              - generic [ref=e1196]: Hybrid —
+              - generic [ref=e1197]: Full-time
+              - generic [ref=e1198]: Cairo, Egypt / Cape Town, South Africa / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Dubai, United Arab Emirates / Pretoria, South Africa / Alexandria, Egypt / Abu Dhabi, United Arab Emirates
+        - generic [ref=e1199]:
+          - link "Apply" [ref=e1201] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/fb7e456f-915d-4841-80a0-e39e89fb2f07
+          - link "Senior Product Manager - LMD Hybrid — Full-time Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco / Algeria (East) / Algeria (West) / Oran, Algeria / Bejaia, Algeria / Constantine, Algeria / Setif, Algeria / Tlemcen" [ref=e1202] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/fb7e456f-915d-4841-80a0-e39e89fb2f07
+            - heading "Senior Product Manager - LMD" [level=5] [ref=e1203]
+            - generic [ref=e1204]:
+              - generic [ref=e1205]: Hybrid —
+              - generic [ref=e1206]: Full-time
+              - generic [ref=e1207]: Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco / Algeria (East) / Algeria (West) / Oran, Algeria / Bejaia, Algeria / Constantine, Algeria / Setif, Algeria / Tlemcen
+        - generic [ref=e1208]:
+          - link "Apply" [ref=e1210] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/2b1cbe8c-5db0-4a42-84f8-6a752b2ef7c7
+          - link "Staff Android Engineer - LMD Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / India / Johannesburg, South Africa / remote / Remote" [ref=e1211] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/2b1cbe8c-5db0-4a42-84f8-6a752b2ef7c7
+            - heading "Staff Android Engineer - LMD" [level=5] [ref=e1212]
+            - generic [ref=e1213]:
+              - generic [ref=e1214]: Hybrid —
+              - generic [ref=e1215]: Full-time
+              - generic [ref=e1216]: Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / India / Johannesburg, South Africa / remote / Remote
+        - generic [ref=e1217]:
+          - link "Apply" [ref=e1219] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d383ef23-35d8-415b-a13a-edf8a2b71f7f
+          - link "Staff Backend Engineer (NodeJS/Go) Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Remote / India / Sofia / Tirana / Lisbon / Bucharest / Belgrade" [ref=e1220] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d383ef23-35d8-415b-a13a-edf8a2b71f7f
+            - heading "Staff Backend Engineer (NodeJS/Go)" [level=5] [ref=e1221]
+            - generic [ref=e1222]:
+              - generic [ref=e1223]: Hybrid —
+              - generic [ref=e1224]: Full-time
+              - generic [ref=e1225]: Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / Johannesburg, South Africa / Lagos, Nigeria / Nairobi, Kenya / Remote / India / Sofia / Tirana / Lisbon / Bucharest / Belgrade
+        - generic [ref=e1226]:
+          - link "Apply" [ref=e1228] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/4ea5d731-287d-44d5-8496-a4e015227bf5
+          - link "Staff Backend Engineer (NodeJS/Go) Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / Remote / India / Sofia / Tirana / Lisbon / Bucharest / Belgrade" [ref=e1229] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/4ea5d731-287d-44d5-8496-a4e015227bf5
+            - heading "Staff Backend Engineer (NodeJS/Go)" [level=5] [ref=e1230]
+            - generic [ref=e1231]:
+              - generic [ref=e1232]: Hybrid —
+              - generic [ref=e1233]: Full-time
+              - generic [ref=e1234]: Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / Remote / India / Sofia / Tirana / Lisbon / Bucharest / Belgrade
+        - generic [ref=e1235]:
+          - link "Apply" [ref=e1237] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/84114ddb-b62d-481c-970e-8dc55581c2d3
+          - link "Technical Project Manager Hybrid — Full-time Algiers, Algeria" [ref=e1238] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/84114ddb-b62d-481c-970e-8dc55581c2d3
+            - heading "Technical Project Manager" [level=5] [ref=e1239]
+            - generic [ref=e1240]:
+              - generic [ref=e1241]: Hybrid —
+              - generic [ref=e1242]: Full-time
+              - generic [ref=e1243]: Algiers, Algeria
+      - generic [ref=e1244]:
+        - generic [ref=e1245]: Mobility
+        - generic [ref=e1247]:
+          - link "Apply" [ref=e1249] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/0af429d1-fbba-4a1e-b948-ac4d05ad7587
+          - link "Product and Quality Specialist Hybrid — Full-time Algiers, Algeria" [ref=e1250] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/0af429d1-fbba-4a1e-b948-ac4d05ad7587
+            - heading "Product and Quality Specialist" [level=5] [ref=e1251]
+            - generic [ref=e1252]:
+              - generic [ref=e1253]: Hybrid —
+              - generic [ref=e1254]: Full-time
+              - generic [ref=e1255]: Algiers, Algeria
+        - generic [ref=e1256]:
+          - link "Apply" [ref=e1258] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b85cf93e-2875-4ca3-a474-052824ee9313
+          - link "Product Manager - Senior ll Hybrid — Full-time Tunis, Tunisia" [ref=e1259] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b85cf93e-2875-4ca3-a474-052824ee9313
+            - heading "Product Manager - Senior ll" [level=5] [ref=e1260]
+            - generic [ref=e1261]:
+              - generic [ref=e1262]: Hybrid —
+              - generic [ref=e1263]: Full-time
+              - generic [ref=e1264]: Tunis, Tunisia
+        - generic [ref=e1265]:
+          - link "Apply" [ref=e1267] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e44b37f0-9aec-440a-9668-6b9d5f46e1e7
+          - link "Senior Back-end Engineer \"Node j.s\" Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt" [ref=e1268] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e44b37f0-9aec-440a-9668-6b9d5f46e1e7
+            - heading "Senior Back-end Engineer \"Node j.s\"" [level=5] [ref=e1269]
+            - generic [ref=e1270]:
+              - generic [ref=e1271]: Hybrid —
+              - generic [ref=e1272]: Full-time
+              - generic [ref=e1273]: Cairo, Egypt / Alexandria, Egypt
+        - generic [ref=e1274]:
+          - link "Apply" [ref=e1276] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/67b1c1e3-cacd-4fba-aa7f-5ec6c48ef8d5
+          - link "Senior Back-end Engineer \"Node j.s\" Remote — Full-time Alexandria, Egypt / Nairobi, Kenya / Lagos, Nigeria / Dar es Salam, Tanzania / Bamako, Mali / Croatia" [ref=e1277] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/67b1c1e3-cacd-4fba-aa7f-5ec6c48ef8d5
+            - heading "Senior Back-end Engineer \"Node j.s\"" [level=5] [ref=e1278]
+            - generic [ref=e1279]:
+              - generic [ref=e1280]: Remote —
+              - generic [ref=e1281]: Full-time
+              - generic [ref=e1282]: Alexandria, Egypt / Nairobi, Kenya / Lagos, Nigeria / Dar es Salam, Tanzania / Bamako, Mali / Croatia
+        - generic [ref=e1283]:
+          - link "Apply" [ref=e1285] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b7014e19-3710-4df9-9019-e4e74c751625
+          - link "Senior Back-end Engineer \"Node j.s\" Hybrid — Full-time Algiers, Algeria" [ref=e1286] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b7014e19-3710-4df9-9019-e4e74c751625
+            - heading "Senior Back-end Engineer \"Node j.s\"" [level=5] [ref=e1287]
+            - generic [ref=e1288]:
+              - generic [ref=e1289]: Hybrid —
+              - generic [ref=e1290]: Full-time
+              - generic [ref=e1291]: Algiers, Algeria
+        - generic [ref=e1292]:
+          - link "Apply" [ref=e1294] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/34653997-ef4b-44eb-9efb-18427070a680
+          - link "Senior Back-end Engineer \"Node JS\" Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt" [ref=e1295] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/34653997-ef4b-44eb-9efb-18427070a680
+            - heading "Senior Back-end Engineer \"Node JS\"" [level=5] [ref=e1296]
+            - generic [ref=e1297]:
+              - generic [ref=e1298]: Hybrid —
+              - generic [ref=e1299]: Full-time
+              - generic [ref=e1300]: Cairo, Egypt / Alexandria, Egypt
+        - generic [ref=e1301]:
+          - link "Apply" [ref=e1303] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/5c741a26-0dc4-42f7-b0f9-3f6a6e2eee97
+          - link "Senior Backend Engineer (Node JS) Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt" [ref=e1304] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/5c741a26-0dc4-42f7-b0f9-3f6a6e2eee97
+            - heading "Senior Backend Engineer (Node JS)" [level=5] [ref=e1305]
+            - generic [ref=e1306]:
+              - generic [ref=e1307]: Hybrid —
+              - generic [ref=e1308]: Full-time
+              - generic [ref=e1309]: Cairo, Egypt / Alexandria, Egypt
+        - generic [ref=e1310]:
+          - link "Apply" [ref=e1312] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/355f8691-b948-4c5c-9878-454ae99c3201
+          - link "Senior IOS Engineer Hybrid — Full-time Cairo, Egypt / Turkey / Tirana / remote / Nairobi, Kenya / Kampala, Uganda / Dar es Salam, Tanzania / Bucharest / Barcelona, Spain / Sofia / Russia" [ref=e1313] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/355f8691-b948-4c5c-9878-454ae99c3201
+            - heading "Senior IOS Engineer" [level=5] [ref=e1314]
+            - generic [ref=e1315]:
+              - generic [ref=e1316]: Hybrid —
+              - generic [ref=e1317]: Full-time
+              - generic [ref=e1318]: Cairo, Egypt / Turkey / Tirana / remote / Nairobi, Kenya / Kampala, Uganda / Dar es Salam, Tanzania / Bucharest / Barcelona, Spain / Sofia / Russia
+        - generic [ref=e1319]:
+          - link "Apply" [ref=e1321] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f9e5b38e-2a2a-4444-96b1-eb637b7e8e14
+          - link "Senior IOS Engineer Hybrid — Full-time Cairo, Egypt" [ref=e1322] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f9e5b38e-2a2a-4444-96b1-eb637b7e8e14
+            - heading "Senior IOS Engineer" [level=5] [ref=e1323]
+            - generic [ref=e1324]:
+              - generic [ref=e1325]: Hybrid —
+              - generic [ref=e1326]: Full-time
+              - generic [ref=e1327]: Cairo, Egypt
+        - generic [ref=e1328]:
+          - link "Apply" [ref=e1330] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b2116e06-fdfe-4051-b4db-a8a7e7650ddc
+          - link "Senior IOS Engineer \"Swift UI\" Hybrid — Full-time Cairo, Egypt" [ref=e1331] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b2116e06-fdfe-4051-b4db-a8a7e7650ddc
+            - heading "Senior IOS Engineer \"Swift UI\"" [level=5] [ref=e1332]
+            - generic [ref=e1333]:
+              - generic [ref=e1334]: Hybrid —
+              - generic [ref=e1335]: Full-time
+              - generic [ref=e1336]: Cairo, Egypt
+        - generic [ref=e1337]:
+          - link "Apply" [ref=e1339] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/648b7e14-8204-4e47-95a4-0c091188cea7
+          - link "Senior QA Engineer - Manual & Automated Testing Hybrid — Full-time Cairo, Egypt / Belgrade / Barcelona, Spain / Bucharest / Turkey / Tirana / Sofia / remote / other locations / Nairobi, Kenya / Lagos, Nigeria / Dakar, Senegal / Alexandria, Egypt / Libreville, Gabon / Dar es Salam, Tanzania" [ref=e1340] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/648b7e14-8204-4e47-95a4-0c091188cea7
+            - heading "Senior QA Engineer - Manual & Automated Testing" [level=5] [ref=e1341]
+            - generic [ref=e1342]:
+              - generic [ref=e1343]: Hybrid —
+              - generic [ref=e1344]: Full-time
+              - generic [ref=e1345]: Cairo, Egypt / Belgrade / Barcelona, Spain / Bucharest / Turkey / Tirana / Sofia / remote / other locations / Nairobi, Kenya / Lagos, Nigeria / Dakar, Senegal / Alexandria, Egypt / Libreville, Gabon / Dar es Salam, Tanzania
+        - generic [ref=e1346]:
+          - link "Apply" [ref=e1348] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/ef42ba5f-cdfe-4ea5-9138-15dc38db320e
+          - link "Staff Back-End Engineer \"Node j.s\" Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / Croatia" [ref=e1349] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/ef42ba5f-cdfe-4ea5-9138-15dc38db320e
+            - heading "Staff Back-End Engineer \"Node j.s\"" [level=5] [ref=e1350]
+            - generic [ref=e1351]:
+              - generic [ref=e1352]: Hybrid —
+              - generic [ref=e1353]: Full-time
+              - generic [ref=e1354]: Cairo, Egypt / Alexandria, Egypt / Croatia
+        - generic [ref=e1355]:
+          - link "Apply" [ref=e1357] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d709db41-312d-4bcb-9c02-db32a4f6db00
+          - link "Staff Back-End Engineer \"Node j.s\" Remote — Full-time Alexandria, Egypt / Dar es Salam, Tanzania / Lagos, Nigeria / Nairobi, Kenya / Turkey / Croatia" [ref=e1358] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d709db41-312d-4bcb-9c02-db32a4f6db00
+            - heading "Staff Back-End Engineer \"Node j.s\"" [level=5] [ref=e1359]
+            - generic [ref=e1360]:
+              - generic [ref=e1361]: Remote —
+              - generic [ref=e1362]: Full-time
+              - generic [ref=e1363]: Alexandria, Egypt / Dar es Salam, Tanzania / Lagos, Nigeria / Nairobi, Kenya / Turkey / Croatia
+        - generic [ref=e1364]:
+          - link "Apply" [ref=e1366] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/482f4348-9f31-44a9-9a0c-d42322523667
+          - link "Tech Lead Full Stack (Node.js / React) Hybrid — Full-time Algiers, Algeria" [ref=e1367] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/482f4348-9f31-44a9-9a0c-d42322523667
+            - heading "Tech Lead Full Stack (Node.js / React)" [level=5] [ref=e1368]
+            - generic [ref=e1369]:
+              - generic [ref=e1370]: Hybrid —
+              - generic [ref=e1371]: Full-time
+              - generic [ref=e1372]: Algiers, Algeria
+      - generic [ref=e1373]:
+        - generic [ref=e1374]: Platform & Infra
+        - generic [ref=e1376]:
+          - link "Apply" [ref=e1378] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/fc0ae239-bd75-4c4f-8e00-a1d285a4d41f
+          - link "Associate Engineer I Hybrid — Full-time Algiers, Algeria" [ref=e1379] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/fc0ae239-bd75-4c4f-8e00-a1d285a4d41f
+            - heading "Associate Engineer I" [level=5] [ref=e1380]
+            - generic [ref=e1381]:
+              - generic [ref=e1382]: Hybrid —
+              - generic [ref=e1383]: Full-time
+              - generic [ref=e1384]: Algiers, Algeria
+        - generic [ref=e1385]:
+          - link "Apply" [ref=e1387] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/41cc270d-39da-4bb1-95dc-60cc77d8b996
+          - link "Senior Backend Engineer (Nodejs) Hybrid — Full-time Algiers, Algeria" [ref=e1388] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/41cc270d-39da-4bb1-95dc-60cc77d8b996
+            - heading "Senior Backend Engineer (Nodejs)" [level=5] [ref=e1389]
+            - generic [ref=e1390]:
+              - generic [ref=e1391]: Hybrid —
+              - generic [ref=e1392]: Full-time
+              - generic [ref=e1393]: Algiers, Algeria
+        - generic [ref=e1394]:
+          - link "Apply" [ref=e1396] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a972a1d6-abdf-49bb-bc69-a82301d192ad
+          - link "Senior QA Engineer - Manual & Automated Testing \"Supper App\" Hybrid — Contractor Cairo, Egypt / Belgrade / Barcelona, Spain / Bamako, Mali / Warsaw / Sofia / Bucharest / Dublin, Ireland / Cotonou, Benin / Cape Town, South Africa / Lagos, Nigeria / Nairobi, Kenya" [ref=e1397] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a972a1d6-abdf-49bb-bc69-a82301d192ad
+            - heading "Senior QA Engineer - Manual & Automated Testing \"Supper App\"" [level=5] [ref=e1398]
+            - generic [ref=e1399]:
+              - generic [ref=e1400]: Hybrid —
+              - generic [ref=e1401]: Contractor
+              - generic [ref=e1402]: Cairo, Egypt / Belgrade / Barcelona, Spain / Bamako, Mali / Warsaw / Sofia / Bucharest / Dublin, Ireland / Cotonou, Benin / Cape Town, South Africa / Lagos, Nigeria / Nairobi, Kenya
+        - generic [ref=e1403]:
+          - link "Apply" [ref=e1405] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f9753cf3-d69f-4ba2-a40d-1fd9c15e0ee4
+          - link "System Security Engineer Hybrid — Full-time Algiers, Algeria" [ref=e1406] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f9753cf3-d69f-4ba2-a40d-1fd9c15e0ee4
+            - heading "System Security Engineer" [level=5] [ref=e1407]
+            - generic [ref=e1408]:
+              - generic [ref=e1409]: Hybrid —
+              - generic [ref=e1410]: Full-time
+              - generic [ref=e1411]: Algiers, Algeria
+      - generic [ref=e1412]:
+        - generic [ref=e1413]: Product Management
+        - generic [ref=e1415]:
+          - link "Apply" [ref=e1417] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b99da80d-337b-4b24-8cfc-928b2e126d3f
+          - link "Head of Product Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / Dubai, United Arab Emirates" [ref=e1418] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b99da80d-337b-4b24-8cfc-928b2e126d3f
+            - heading "Head of Product" [level=5] [ref=e1419]
+            - generic [ref=e1420]:
+              - generic [ref=e1421]: Hybrid —
+              - generic [ref=e1422]: Full-time
+              - generic [ref=e1423]: Cairo, Egypt / Alexandria, Egypt / Dubai, United Arab Emirates
+        - generic [ref=e1424]:
+          - link "Apply" [ref=e1426] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f4bfb46d-38f9-4139-aa7c-dbb048c49b6f
+          - link "Lead Product Manager Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / India / Johannesburg, South Africa / Nairobi, Kenya / Remote / Lagos, Nigeria" [ref=e1427] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f4bfb46d-38f9-4139-aa7c-dbb048c49b6f
+            - heading "Lead Product Manager" [level=5] [ref=e1428]
+            - generic [ref=e1429]:
+              - generic [ref=e1430]: Hybrid —
+              - generic [ref=e1431]: Full-time
+              - generic [ref=e1432]: Cairo, Egypt / Alexandria, Egypt / Cape Town, South Africa / India / Johannesburg, South Africa / Nairobi, Kenya / Remote / Lagos, Nigeria
+        - generic [ref=e1433]:
+          - link "Apply" [ref=e1435] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/cab13376-0394-42eb-b699-9250725643e7
+          - link "Mobile iOS Engineer (Mobility) Hybrid — Contractor Cairo, Egypt" [ref=e1436] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/cab13376-0394-42eb-b699-9250725643e7
+            - heading "Mobile iOS Engineer (Mobility)" [level=5] [ref=e1437]
+            - generic [ref=e1438]:
+              - generic [ref=e1439]: Hybrid —
+              - generic [ref=e1440]: Contractor
+              - generic [ref=e1441]: Cairo, Egypt
+        - generic [ref=e1442]:
+          - link "Apply" [ref=e1444] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/138469dc-2188-4d75-aecb-e0a7ec95b604
+          - link "Mobile iOS Engineer (Mobility) Hybrid — Full-time Cairo, Egypt" [ref=e1445] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/138469dc-2188-4d75-aecb-e0a7ec95b604
+            - heading "Mobile iOS Engineer (Mobility)" [level=5] [ref=e1446]
+            - generic [ref=e1447]:
+              - generic [ref=e1448]: Hybrid —
+              - generic [ref=e1449]: Full-time
+              - generic [ref=e1450]: Cairo, Egypt
+        - generic [ref=e1451]:
+          - link "Apply" [ref=e1453] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/8e0ea206-4ef4-4124-aee1-c42deca9fc01
+          - link "Product and Quality Specialist Hybrid — Full-time Casablanca, Morocco / Tunis, Tunisia / Sousse / Agadir / Kenitra / Meknes" [ref=e1454] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/8e0ea206-4ef4-4124-aee1-c42deca9fc01
+            - heading "Product and Quality Specialist" [level=5] [ref=e1455]
+            - generic [ref=e1456]:
+              - generic [ref=e1457]: Hybrid —
+              - generic [ref=e1458]: Full-time
+              - generic [ref=e1459]: Casablanca, Morocco / Tunis, Tunisia / Sousse / Agadir / Kenitra / Meknes
+        - generic [ref=e1460]:
+          - link "Apply" [ref=e1462] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/3c2e97bf-5ad2-4c4b-b740-0b0913362735
+          - link "Product Manager II Hybrid — Full-time Algiers, Algeria / Algeria (East) / Algeria (West)" [ref=e1463] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/3c2e97bf-5ad2-4c4b-b740-0b0913362735
+            - heading "Product Manager II" [level=5] [ref=e1464]
+            - generic [ref=e1465]:
+              - generic [ref=e1466]: Hybrid —
+              - generic [ref=e1467]: Full-time
+              - generic [ref=e1468]: Algiers, Algeria / Algeria (East) / Algeria (West)
+        - generic [ref=e1469]:
+          - link "Apply" [ref=e1471] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/654b5ffe-29ed-4772-b209-c33063332039
+          - link "Senior Full Stack Engineer (NestJS) Hybrid — Full-time Algiers, Algeria" [ref=e1472] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/654b5ffe-29ed-4772-b209-c33063332039
+            - heading "Senior Full Stack Engineer (NestJS)" [level=5] [ref=e1473]
+            - generic [ref=e1474]:
+              - generic [ref=e1475]: Hybrid —
+              - generic [ref=e1476]: Full-time
+              - generic [ref=e1477]: Algiers, Algeria
+        - generic [ref=e1478]:
+          - link "Apply" [ref=e1480] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/2d61362c-3737-4343-932e-88102265689d
+          - link "Senior Mobile Android Engineer Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt" [ref=e1481] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/2d61362c-3737-4343-932e-88102265689d
+            - heading "Senior Mobile Android Engineer" [level=5] [ref=e1482]
+            - generic [ref=e1483]:
+              - generic [ref=e1484]: Hybrid —
+              - generic [ref=e1485]: Full-time
+              - generic [ref=e1486]: Cairo, Egypt / Alexandria, Egypt
+        - generic [ref=e1487]:
+          - link "Apply" [ref=e1489] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d4fb70ec-5ea5-4b59-a60c-03fb87ae57db
+          - link "Senior Mobile Android Engineer Hybrid — Contractor Cairo, Egypt" [ref=e1490] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d4fb70ec-5ea5-4b59-a60c-03fb87ae57db
+            - heading "Senior Mobile Android Engineer" [level=5] [ref=e1491]
+            - generic [ref=e1492]:
+              - generic [ref=e1493]: Hybrid —
+              - generic [ref=e1494]: Contractor
+              - generic [ref=e1495]: Cairo, Egypt
+        - generic [ref=e1496]:
+          - link "Apply" [ref=e1498] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1556b7b0-9983-4760-8bfa-966ab4ee5360
+          - link "Senior Mobile iOS Engineer Hybrid — Contractor Cairo, Egypt" [ref=e1499] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/1556b7b0-9983-4760-8bfa-966ab4ee5360
+            - heading "Senior Mobile iOS Engineer" [level=5] [ref=e1500]
+            - generic [ref=e1501]:
+              - generic [ref=e1502]: Hybrid —
+              - generic [ref=e1503]: Contractor
+              - generic [ref=e1504]: Cairo, Egypt
+        - generic [ref=e1505]:
+          - link "Apply" [ref=e1507] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e8560488-71cb-46ef-bbe4-d26b5d14ef72
+          - link "Staff Full-Stack Engineer Hybrid — Full-time Cairo, Egypt / Barcelona, Spain / Belgrade / Bucharest / Sofia / remote / Nairobi, Kenya / Lagos, Nigeria / Dar es Salam, Tanzania / Cape Town, South Africa / Turkey / Alexandria, Egypt" [ref=e1508] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/e8560488-71cb-46ef-bbe4-d26b5d14ef72
+            - heading "Staff Full-Stack Engineer" [level=5] [ref=e1509]
+            - generic [ref=e1510]:
+              - generic [ref=e1511]: Hybrid —
+              - generic [ref=e1512]: Full-time
+              - generic [ref=e1513]: Cairo, Egypt / Barcelona, Spain / Belgrade / Bucharest / Sofia / remote / Nairobi, Kenya / Lagos, Nigeria / Dar es Salam, Tanzania / Cape Town, South Africa / Turkey / Alexandria, Egypt
+        - generic [ref=e1514]:
+          - link "Apply" [ref=e1516] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a9d0493e-1ef3-471f-ae9a-296fdcde7926
+          - link "Staff Full-Stack Engineer Hybrid — Full-time Cairo, Egypt / Barcelona, Spain / Belgrade / Bucharest / Sofia / Nairobi, Kenya / Lagos, Nigeria / Dar es Salam, Tanzania / Cape Town, South Africa / Turkey / Alexandria, Egypt / India / Remote" [ref=e1517] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/a9d0493e-1ef3-471f-ae9a-296fdcde7926
+            - heading "Staff Full-Stack Engineer" [level=5] [ref=e1518]
+            - generic [ref=e1519]:
+              - generic [ref=e1520]: Hybrid —
+              - generic [ref=e1521]: Full-time
+              - generic [ref=e1522]: Cairo, Egypt / Barcelona, Spain / Belgrade / Bucharest / Sofia / Nairobi, Kenya / Lagos, Nigeria / Dar es Salam, Tanzania / Cape Town, South Africa / Turkey / Alexandria, Egypt / India / Remote
+      - generic [ref=e1523]:
+        - generic [ref=e1524]: Shared Services
+        - generic [ref=e1526]:
+          - link "Apply" [ref=e1528] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/62a6e882-7b96-44e3-84b1-7e056704a575
+          - link "Java Full Stack Engineer FS Hybrid — Full-time Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco / Dakar, Senegal / Lagos, Nigeria / Lomé, Togo / Oran, Algeria / Tlemcen / Sousse / Algeria (East) / Algeria (West) / Bejaia, Algeria / Constantine, Algeria / Kenitra / Meknes" [ref=e1529] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/62a6e882-7b96-44e3-84b1-7e056704a575
+            - heading "Java Full Stack Engineer FS" [level=5] [ref=e1530]
+            - generic [ref=e1531]:
+              - generic [ref=e1532]: Hybrid —
+              - generic [ref=e1533]: Full-time
+              - generic [ref=e1534]: Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco / Dakar, Senegal / Lagos, Nigeria / Lomé, Togo / Oran, Algeria / Tlemcen / Sousse / Algeria (East) / Algeria (West) / Bejaia, Algeria / Constantine, Algeria / Kenitra / Meknes
+        - generic [ref=e1535]:
+          - link "Apply" [ref=e1537] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f1a061b9-b729-459b-862e-c51965e55538
+          - link "Senior Mobile Android Engineer - SuperApp Hybrid — Contractor Cairo, Egypt" [ref=e1538] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f1a061b9-b729-459b-862e-c51965e55538
+            - heading "Senior Mobile Android Engineer - SuperApp" [level=5] [ref=e1539]
+            - generic [ref=e1540]:
+              - generic [ref=e1541]: Hybrid —
+              - generic [ref=e1542]: Contractor
+              - generic [ref=e1543]: Cairo, Egypt
+        - generic [ref=e1544]:
+          - link "Apply" [ref=e1546] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/8ac4089c-457f-4550-b68c-f9071516ed72
+          - link "Senior Mobile iOS Engineer Hybrid — Contractor Cairo, Egypt / Dakar, Senegal / Johannesburg, South Africa / Kampala, Uganda / Lagos, Nigeria / Nairobi, Kenya / Pretoria, South Africa / Turkey" [ref=e1547] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/8ac4089c-457f-4550-b68c-f9071516ed72
+            - heading "Senior Mobile iOS Engineer" [level=5] [ref=e1548]
+            - generic [ref=e1549]:
+              - generic [ref=e1550]: Hybrid —
+              - generic [ref=e1551]: Contractor
+              - generic [ref=e1552]: Cairo, Egypt / Dakar, Senegal / Johannesburg, South Africa / Kampala, Uganda / Lagos, Nigeria / Nairobi, Kenya / Pretoria, South Africa / Turkey
+        - generic [ref=e1553]:
+          - link "Apply" [ref=e1555] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/744eafd1-9315-405a-92d0-fc83a54601c8
+          - link "Senior Product Manager – SuperApp (Mobile B2C) Hybrid — Full-time Algiers, Algeria / Casablanca, Morocco / Dakar, Senegal / Tunis, Tunisia" [ref=e1556] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/744eafd1-9315-405a-92d0-fc83a54601c8
+            - heading "Senior Product Manager – SuperApp (Mobile B2C)" [level=5] [ref=e1557]
+            - generic [ref=e1558]:
+              - generic [ref=e1559]: Hybrid —
+              - generic [ref=e1560]: Full-time
+              - generic [ref=e1561]: Algiers, Algeria / Casablanca, Morocco / Dakar, Senegal / Tunis, Tunisia
+        - generic [ref=e1562]:
+          - link "Apply" [ref=e1564] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9b45c077-dfbb-4d6c-bf31-fe77d5398af0
+          - link "Senior QA Engineer \"Manual & Automation\" Hybrid — Full-time Cairo, Egypt / Alexandria, Egypt" [ref=e1565] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9b45c077-dfbb-4d6c-bf31-fe77d5398af0
+            - heading "Senior QA Engineer \"Manual & Automation\"" [level=5] [ref=e1566]
+            - generic [ref=e1567]:
+              - generic [ref=e1568]: Hybrid —
+              - generic [ref=e1569]: Full-time
+              - generic [ref=e1570]: Cairo, Egypt / Alexandria, Egypt
+      - generic [ref=e1571]:
+        - generic [ref=e1572]: UX Design
+        - generic [ref=e1574]:
+          - link "Apply" [ref=e1576] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b7b4d181-0997-4613-ae52-af0a73505c0a
+          - link "Android Developer (Compose – UI Components & Design Systems) Hybrid — Full-time Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco" [ref=e1577] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/b7b4d181-0997-4613-ae52-af0a73505c0a
+            - heading "Android Developer (Compose – UI Components & Design Systems)" [level=5] [ref=e1578]
+            - generic [ref=e1579]:
+              - generic [ref=e1580]: Hybrid —
+              - generic [ref=e1581]: Full-time
+              - generic [ref=e1582]: Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco
+        - generic [ref=e1583]:
+          - link "Apply" [ref=e1585] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f58f572c-5aca-428a-a5e9-e635d54d6074
+          - link "iOS Developer (SwiftUI – UI Components & Design Systems) Hybrid — Full-time Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco" [ref=e1586] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f58f572c-5aca-428a-a5e9-e635d54d6074
+            - heading "iOS Developer (SwiftUI – UI Components & Design Systems)" [level=5] [ref=e1587]
+            - generic [ref=e1588]:
+              - generic [ref=e1589]: Hybrid —
+              - generic [ref=e1590]: Full-time
+              - generic [ref=e1591]: Algiers, Algeria / Tunis, Tunisia / Casablanca, Morocco
+        - generic [ref=e1592]:
+          - link "Apply" [ref=e1594] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9f877dfd-089e-40d5-916a-0807350b0e5b
+          - link "Mid-Senior Frontend Engineer - Design System & Component Library Hybrid — Full-time Algiers, Algeria / Casablanca, Morocco / Tunis, Tunisia" [ref=e1595] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/9f877dfd-089e-40d5-916a-0807350b0e5b
+            - heading "Mid-Senior Frontend Engineer - Design System & Component Library" [level=5] [ref=e1596]
+            - generic [ref=e1597]:
+              - generic [ref=e1598]: Hybrid —
+              - generic [ref=e1599]: Full-time
+              - generic [ref=e1600]: Algiers, Algeria / Casablanca, Morocco / Tunis, Tunisia
+        - generic [ref=e1601]:
+          - link "Apply" [ref=e1603] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d80c6363-0a10-4d97-be6b-eeb218374fb9
+          - link "Product Designer Hybrid — Full-time Algiers, Algeria" [ref=e1604] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d80c6363-0a10-4d97-be6b-eeb218374fb9
+            - heading "Product Designer" [level=5] [ref=e1605]
+            - generic [ref=e1606]:
+              - generic [ref=e1607]: Hybrid —
+              - generic [ref=e1608]: Full-time
+              - generic [ref=e1609]: Algiers, Algeria
+        - generic [ref=e1610]:
+          - link "Apply" [ref=e1612] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d9c5c693-4e77-4166-9b75-8b1326c59753
+          - link "Senior Product Designer On-site — Full-time Algiers, Algeria" [ref=e1613] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/d9c5c693-4e77-4166-9b75-8b1326c59753
+            - heading "Senior Product Designer" [level=5] [ref=e1614]
+            - generic [ref=e1615]:
+              - generic [ref=e1616]: On-site —
+              - generic [ref=e1617]: Full-time
+              - generic [ref=e1618]: Algiers, Algeria
+        - generic [ref=e1619]:
+          - link "Apply" [ref=e1621] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/ee227924-b978-442c-a70e-c263d24beca3
+          - link "UX Writer On-site — Full-time Algiers, Algeria" [ref=e1622] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/ee227924-b978-442c-a70e-c263d24beca3
+            - heading "UX Writer" [level=5] [ref=e1623]
+            - generic [ref=e1624]:
+              - generic [ref=e1625]: On-site —
+              - generic [ref=e1626]: Full-time
+              - generic [ref=e1627]: Algiers, Algeria
+      - generic [ref=e1628]:
+        - generic [ref=e1629]: Uncategorized
+        - generic [ref=e1631]:
+          - link "Apply" [ref=e1633] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f80503be-b23a-41b5-88e4-d7b342ef5b76
+          - link "Accountant Full-time Johannesburg, South Africa" [ref=e1634] [cursor=pointer]:
+            - /url: https://jobs.lever.co/Yassir/f80503be-b23a-41b5-88e4-d7b342ef5b76
+            - heading "Accountant" [level=5] [ref=e1635]
+            - generic [ref=e1636]:
+              - generic [ref=e1637]: Full-time
+              - generic [ref=e1638]: Johannesburg, South Africa
+  - generic [ref=e1640]:
+    - paragraph [ref=e1641]:
+      - link "Yassir Home Page" [ref=e1642] [cursor=pointer]:
+        - /url: http://yassir.com
+    - paragraph [ref=e1644]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+    - link "Jobs powered by Lever logo" [ref=e1645] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=e1646]: Jobs powered by
+      - img "Lever logo" [ref=e1647]

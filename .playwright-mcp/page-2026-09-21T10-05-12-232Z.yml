@@ -1,0 +1,124 @@
+- generic [ref=f59e2]:
+  - list [ref=f59e4]:
+    - listitem [ref=f59e5]:
+      - link [ref=f59e6] [cursor=pointer]:
+        - /url: https://www.g2i.co/
+        - img "G2i Inc." [ref=f59e7]
+    - listitem [ref=f59e8]:
+      - link "Back to G2i Inc.’s Job Listings" [ref=f59e9] [cursor=pointer]:
+        - /url: /g2i
+    - listitem
+  - generic [ref=f59e12]:
+    - heading "Staff Engineer" [level=1] [ref=f59e14]
+    - generic [ref=f59e15]:
+      - generic [ref=f59e16]:
+        - generic [ref=f59e17]:
+          - heading "Location" [level=2] [ref=f59e18]
+          - paragraph [ref=f59e19]: Remote
+        - generic [ref=f59e20]:
+          - heading "Employment Type" [level=2] [ref=f59e21]
+          - paragraph [ref=f59e22]: Full time
+        - generic [ref=f59e23]:
+          - heading "Location Type" [level=2] [ref=f59e24]
+          - paragraph [ref=f59e25]: Remote
+        - generic [ref=f59e26]:
+          - heading "Department" [level=2] [ref=f59e27]
+          - paragraph [ref=f59e28]: G2i Eng Team
+      - generic [ref=f59e29]:
+        - tablist [ref=f59e30]:
+          - tab "Overview" [selected] [ref=f59e31] [cursor=pointer]
+          - tab "Application" [ref=f59e32] [cursor=pointer]
+        - tabpanel "Overview" [ref=f59e34]:
+          - generic [ref=f59e35]:
+            - heading [level=2] [ref=f59e36]:
+              - text: Loom OverviewWatch this
+              - link [ref=f59e37] [cursor=pointer]:
+                - /url: http://loom.com/share/fe621cd1991e4c0fa21cac591caab141
+                - strong [ref=f59e38]: loom video
+              - strong [ref=f59e39]
+              - text: from our
+              - link [ref=f59e40] [cursor=pointer]:
+                - /url: https://x.com/gabe_g2i?lang=en
+                - strong [ref=f59e41]: CEO, Gabe Greenberg,
+              - text: for more details about the role!
+            - paragraph [ref=f59e42]
+            - heading "Role Overview" [level=2] [ref=f59e43]
+            - paragraph [ref=f59e44]
+            - paragraph [ref=f59e45]: At G2i, we don’t just hire for AI — we build with it. We partner with leading AI labs and technical founders to create next-generation developer platforms, data tools, and operational dashboards that power the AI frontier.
+            - paragraph [ref=f59e46]:
+              - text: As a
+              - strong [ref=f59e47]: Staff Engineer
+              - text: ", you’ll set technical direction and raise the execution bar while building a high-performing team. You’ll guide architecture and delivery across modern full-stack systems (React 19 + Node.js), build durable engineering practices, and ensure we ship fast without sacrificing quality."
+            - heading [level=2]
+            - heading "Key Responsibilities" [level=2] [ref=f59e48]
+            - paragraph [ref=f59e49]
+            - list [ref=f59e50]:
+              - listitem [ref=f59e51]:
+                - paragraph [ref=f59e52]: "Lead and grow an engineering team: hiring, coaching, performance management, career development."
+              - listitem [ref=f59e53]:
+                - paragraph [ref=f59e54]:
+                  - text: Set and evolve technical strategy for
+                  - strong [ref=f59e55]: developer platforms, dashboards, and internal tooling
+                  - text: .
+              - listitem [ref=f59e56]:
+                - paragraph [ref=f59e57]: Partner with Product/Design to deliver roadmap outcomes with high velocity and strong craftsmanship.
+              - listitem [ref=f59e58]:
+                - paragraph [ref=f59e59]: "Establish engineering standards: code quality, testing, documentation, security, and operational excellence."
+              - listitem [ref=f59e60]:
+                - paragraph [ref=f59e61]: "Own delivery health: sprint/iteration hygiene, predictable execution, and strong on-call/incident practices."
+              - listitem [ref=f59e62]:
+                - paragraph [ref=f59e63]: Drive architecture decisions across front-end, back-end (tRPC encouraged), and deployment (Docker + CI/CD).
+              - listitem [ref=f59e64]:
+                - paragraph [ref=f59e65]: Build a culture of ownership, feedback, and continuous improvement across teams.
+                - paragraph [ref=f59e66]
+            - heading "Ideal Qualifications" [level=2] [ref=f59e67]
+            - paragraph [ref=f59e68]
+            - list [ref=f59e69]:
+              - listitem [ref=f59e70]:
+                - paragraph [ref=f59e71]: 7+ years building software, including 2–4+ years leading teams (EM/Tech Lead/Head of Eng).
+              - listitem [ref=f59e72]:
+                - paragraph [ref=f59e73]: Strong full-stack understanding (React + Node.js), modern front-end patterns, SSR/performance, API design.
+              - listitem [ref=f59e74]:
+                - paragraph [ref=f59e75]: Experience with shipping and operating production systems (cloud, CI/CD, observability, incident management).
+              - listitem [ref=f59e76]:
+                - paragraph [ref=f59e77]: Proven ability to balance speed with quality in startup environments.
+              - listitem [ref=f59e78]:
+                - paragraph [ref=f59e79]: Clear communicator with strong judgment and a track record of developing engineers.
+                - paragraph [ref=f59e80]
+            - heading "Compensation & Terms" [level=2] [ref=f59e81]
+            - paragraph [ref=f59e82]
+            - list [ref=f59e83]:
+              - listitem [ref=f59e84]:
+                - paragraph [ref=f59e85]:
+                  - strong [ref=f59e86]: 120 – 200USD/Hr
+                  - text: ", based on experience and location"
+              - listitem [ref=f59e87]:
+                - paragraph [ref=f59e88]: Contract leadership roles considered (up to 6 months)
+              - listitem [ref=f59e89]:
+                - paragraph [ref=f59e90]: Remote-first, global team
+                - paragraph [ref=f59e91]
+            - heading "Application Process" [level=2] [ref=f59e92]
+            - paragraph [ref=f59e93]
+            - paragraph [ref=f59e94]: Resume submission → Leadership/technical screen → → Behavioral interview → Offer
+            - paragraph [ref=f59e95]
+            - heading "About G2i" [level=2] [ref=f59e96]
+            - paragraph [ref=f59e97]
+            - paragraph [ref=f59e98]:
+              - text: G2i helps startups hire senior engineers faster and smarter through video-based technical evaluation. We’ve placed thousands of developers worldwide since 2016 and built a community rooted in
+              - strong [ref=f59e99]: Quality, Urgency, and Agility
+              - text: .
+          - link [ref=f59e100] [cursor=pointer]:
+            - /url: /g2i/d84ceb74-f16f-4124-b400-6168dcfef477/application
+            - button "Apply for this Job" [ref=f59e101]
+  - contentinfo [ref=f59e102]:
+    - link "Learn more about Ashby" [ref=f59e103] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f59e104]: Powered by
+      - img "Ashby" [ref=f59e105]
+    - paragraph [ref=f59e111]:
+      - link "Privacy Policy" [ref=f59e112] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f59e113] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f59e114] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

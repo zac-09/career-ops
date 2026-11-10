@@ -1,0 +1,77 @@
+- generic [ref=f1e2]:
+  - list [ref=f1e4]:
+    - listitem [ref=f1e5]:
+      - link [ref=f1e6] [cursor=pointer]:
+        - /url: https://toggl.com/
+        - img "TOGGL" [ref=f1e7]
+    - listitem
+    - listitem
+  - generic [ref=f1e8]:
+    - status [ref=f1e10]:
+      - text: Open Positions
+      - generic [ref=f1e11]: (2)
+    - generic [ref=f1e12]:
+      - generic [ref=f1e13]:
+        - generic [ref=f1e14]:
+          - generic [ref=f1e15]: "Filters:"
+          - button "Reset filters" [disabled]
+        - generic [ref=f1e16]:
+          - combobox "Department" [ref=f1e18]:
+            - option "All Departments"
+            - option "Product (1)"
+            - option "Revenue (1)"
+          - combobox "Employment" [ref=f1e20]:
+            - option "All Employment Types"
+            - option "Full time (2)"
+          - combobox "Location" [ref=f1e22]:
+            - option "All Locations"
+            - option "Europe (1)"
+            - option "Europe (1)"
+            - option "Europe (2)"
+            - option "Europe (1)"
+            - option "Europe (1)"
+            - option "UTC-4 - UTC+2 (1)"
+            - option "UTC-4 - UTC+2 (1)"
+            - option "UTC-5 - UTC+2 (1)"
+            - option "UTC-5 - UTC+2 (1)"
+          - combobox "Location Type" [ref=f1e24]:
+            - option "All Location Types"
+            - option "Remote (2)"
+        - status [ref=f1e25]: No filters applied
+      - generic [ref=f1e26]:
+        - heading "Product" [level=2] [ref=f1e27]
+        - link [ref=f1e30] [cursor=pointer]:
+          - /url: /toggl/941a10e2-dea0-4d62-9e0a-49fb4d8f39e5
+          - generic [ref=f1e31]:
+            - heading "Senior Product Manager" [level=3] [ref=f1e32]
+            - paragraph [ref=f1e34]: Product • Europe; Europe; Europe • Full time • Remote
+        - heading "Revenue" [level=2] [ref=f1e35]
+        - link [ref=f1e38] [cursor=pointer]:
+          - /url: /toggl/d5dc91e6-a045-41f8-bb83-0e3b215671b4
+          - generic [ref=f1e39]:
+            - heading "Events & Field Marketing Manager" [level=3] [ref=f1e40]
+            - paragraph [ref=f1e42]: Revenue • UTC-5 - UTC+2; Europe; Europe; Europe; UTC-4 - UTC+2; UTC-4 - UTC+2; UTC-5 - UTC+2 • Full time • Remote
+      - generic [ref=f1e43]:
+        - heading [level=1] [ref=f1e44]:
+          - strong [ref=f1e45]: Before you apply...
+        - paragraph [ref=f1e46]:
+          - text: Please read the
+          - link "Toggl Careers Privacy Statement" [ref=f1e47] [cursor=pointer]:
+            - /url: https://toggl.com/legal/candidate-privacy/
+          - text: to learn more about how we handle your data as a job candidate.
+        - paragraph [ref=f1e48]
+        - paragraph [ref=f1e49]:
+          - strong [ref=f1e50]: "⚠️ Please note:"
+          - text: We've been alerted to instances of scammers impersonating Toggl and offering fake job positions. To stay safe, please know that all legitimate openings are listed here and we only accept applications through this page.
+  - contentinfo [ref=f1e51]:
+    - link "Learn more about Ashby" [ref=f1e52] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f1e53]: Powered by
+      - img "Ashby" [ref=f1e54]
+    - paragraph [ref=f1e60]:
+      - link "Privacy Policy" [ref=f1e61] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f1e62] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f1e63] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

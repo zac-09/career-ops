@@ -1,0 +1,464 @@
+- generic [active] [ref=f35e1]:
+  - region "This website uses cookies" [ref=f35e2]:
+    - generic [ref=f35e3]:
+      - link "Cookiebot by Usercentrics - opens in a new window" [ref=f35e6] [cursor=pointer]:
+        - /url: https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2
+      - tabpanel "Consent" [ref=f35e34]:
+        - generic [ref=f35e37]:
+          - strong [ref=f35e38]: We use cookies
+          - text: to improve your experience, analyze traffic, support marketing, and share usage data with our advertising, social media, and analytics partners.
+          - link "Cookie Policy" [ref=f35e39] [cursor=pointer]:
+            - /url: https://www.deel.com/legal/privacy-policy/
+      - generic [ref=f35e43]:
+        - button "Manage" [ref=f35e44] [cursor=pointer]
+        - button "Accept all" [ref=f35e46] [cursor=pointer]
+  - banner [ref=f35e47]:
+    - generic [ref=f35e50]:
+      - generic [ref=f35e51]:
+        - generic [ref=f35e52]: Special Offer
+        - generic [ref=f35e53]:
+          - paragraph [ref=f35e55]: Get 3 months free of PEO*
+          - link "www.deel.com plp peo" [ref=f35e57] [cursor=pointer]:
+            - /url: https://www.deel.com/plp/peo/
+            - button "Claim offer" [ref=f35e58]
+      - button "Close banner" [ref=f35e59] [cursor=pointer]
+    - navigation [ref=f35e62]:
+      - generic [ref=f35e63]:
+        - link [ref=f35e64] [cursor=pointer]:
+          - /url: /
+          - img "Deel Logo Black" [ref=f35e66]
+        - generic [ref=f35e67]:
+          - button [ref=f35e69] [cursor=pointer]
+          - button [ref=f35e74] [cursor=pointer]
+          - button [ref=f35e79] [cursor=pointer]
+          - button [ref=f35e84] [cursor=pointer]
+          - link "Pricing" [ref=f35e89] [cursor=pointer]:
+            - /url: /pricing/
+        - generic [ref=f35e90]:
+          - button "Select language" [ref=f35e93] [cursor=pointer]:
+            - generic [ref=f35e94]:
+              - img "blackGlobe-icon" [ref=f35e95]
+              - img "United States" [ref=f35e96]
+            - generic [ref=f35e97]: EN
+          - generic [ref=f35e98]:
+            - link "app.deel.com login" [ref=f35e99] [cursor=pointer]:
+              - /url: https://app.deel.com/login?lang=en
+              - button "Log in" [ref=f35e100]
+            - button "Book a demo" [ref=f35e101] [cursor=pointer]
+  - main [ref=f35e102]:
+    - generic [ref=f35e103]:
+      - generic [ref=f35e105]:
+        - generic:
+          - heading "Built for the ones who build" [level=1]
+        - navigation "Why Deel" [ref=f35e112]:
+          - button "Deel Speed" [ref=f35e113] [cursor=pointer]
+          - button "Exceed Expectations" [ref=f35e118] [cursor=pointer]
+          - button "Default Optimism" [ref=f35e123] [cursor=pointer]
+          - button "Genuine Care" [ref=f35e128] [cursor=pointer]
+          - button "Together Everywhere" [ref=f35e133] [cursor=pointer]
+          - button "Work Smart" [ref=f35e138] [cursor=pointer]
+        - button "Explore open roles" [ref=f35e144] [cursor=pointer]
+      - region "Open roles" [ref=f35e145]:
+        - generic [ref=f35e146]:
+          - generic [ref=f35e147]:
+            - heading "Find your team." [level=1] [ref=f35e148]
+            - paragraph [ref=f35e149]: Find where you fit in. Every department at Deel is building something that matters. Find where you fit in.
+          - generic [ref=f35e150]:
+            - textbox "Search open roles" [ref=f35e154]:
+              - /placeholder: Search departments or keywords...
+            - generic "Filter open roles by department" [ref=f35e156]:
+              - button "All departments" [ref=f35e157] [cursor=pointer]
+            - generic "Filter open roles by location" [ref=f35e163]:
+              - button "All locations" [ref=f35e164] [cursor=pointer]
+            - generic "Filter open roles by employment type" [ref=f35e170]:
+              - button "Employment type" [ref=f35e171] [cursor=pointer]
+          - generic [ref=f35e176]:
+            - button "Customer Operations & Onboarding 10 open roles" [ref=f35e178] [cursor=pointer]:
+              - paragraph [ref=f35e179]: Customer Operations & Onboarding
+              - generic [ref=f35e180]: 10 open roles
+            - button "Customer Support & HR Experience 3 open roles" [ref=f35e186] [cursor=pointer]:
+              - paragraph [ref=f35e187]: Customer Support & HR Experience
+              - generic [ref=f35e188]: 3 open roles
+            - button "Data & Analytics 2 open roles" [ref=f35e194] [cursor=pointer]:
+              - paragraph [ref=f35e195]: Data & Analytics
+              - generic [ref=f35e196]: 2 open roles
+            - button "Engineering 16 open roles" [ref=f35e202] [cursor=pointer]:
+              - paragraph [ref=f35e203]: Engineering
+              - generic [ref=f35e204]: 16 open roles
+            - button "Finance & Accounting 11 open roles" [ref=f35e210] [cursor=pointer]:
+              - paragraph [ref=f35e211]: Finance & Accounting
+              - generic [ref=f35e212]: 11 open roles
+            - button "IT & Security 10 open roles" [ref=f35e218] [cursor=pointer]:
+              - paragraph [ref=f35e219]: IT & Security
+              - generic [ref=f35e220]: 10 open roles
+            - button "Marketing & Communications 13 open roles" [ref=f35e226] [cursor=pointer]:
+              - paragraph [ref=f35e227]: Marketing & Communications
+              - generic [ref=f35e228]: 13 open roles
+            - button "Operations 18 open roles" [ref=f35e234] [cursor=pointer]:
+              - paragraph [ref=f35e235]: Operations
+              - generic [ref=f35e236]: 18 open roles
+            - button "Partnerships & Corporate Development 6 open roles" [ref=f35e242] [cursor=pointer]:
+              - paragraph [ref=f35e243]: Partnerships & Corporate Development
+              - generic [ref=f35e244]: 6 open roles
+            - button "Payroll 34 open roles" [ref=f35e250] [cursor=pointer]:
+              - paragraph [ref=f35e251]: Payroll
+              - generic [ref=f35e252]: 34 open roles
+            - button "Product & Design 31 open roles" [ref=f35e258] [cursor=pointer]:
+              - paragraph [ref=f35e259]: Product & Design
+              - generic [ref=f35e260]: 31 open roles
+            - button "Risk & Compliance 5 open roles" [ref=f35e266] [cursor=pointer]:
+              - paragraph [ref=f35e267]: Risk & Compliance
+              - generic [ref=f35e268]: 5 open roles
+            - button "Sales 91 open roles" [ref=f35e274] [cursor=pointer]:
+              - paragraph [ref=f35e275]: Sales
+              - generic [ref=f35e276]: 91 open roles
+          - paragraph [ref=f35e282]: 266 open positions across all teams
+      - generic [ref=f35e284]:
+        - generic [ref=f35e285]:
+          - heading "No ceiling. No orbit. No limits." [level=1] [ref=f35e286]
+          - generic [ref=f35e287]: You don't wait for permission to build.
+        - generic [ref=f35e288]:
+          - list [ref=f35e289]:
+            - listitem [ref=f35e290]:
+              - generic [ref=f35e291]: "01"
+              - generic [ref=f35e292]:
+                - paragraph [ref=f35e293]: You move before you're told.
+                - paragraph [ref=f35e294]: Ship something real and learn — don't wait for alignment on an opportunity today that will be obsolete tomorrow.
+            - listitem [ref=f35e295]:
+              - generic [ref=f35e296]: "02"
+              - generic [ref=f35e297]:
+                - paragraph [ref=f35e298]: You see problems as puzzles, not walls.
+                - paragraph [ref=f35e299]: When things get hard your energy goes up. You don't spiral. You solve.
+            - listitem [ref=f35e300]:
+              - generic [ref=f35e301]: "03"
+              - generic [ref=f35e302]:
+                - paragraph [ref=f35e303]: You raise the bar. Nobody asks you to go beyond the brief.
+                - paragraph [ref=f35e304]: You just do - then help the person next to you.
+            - listitem [ref=f35e305]:
+              - generic [ref=f35e306]: "04"
+              - generic [ref=f35e307]:
+                - paragraph [ref=f35e308]: You default to "how could I automate this."
+                - paragraph [ref=f35e309]: Engineering, ops, finance, sales - efficiency isn't laziness. It's leverage.
+            - listitem [ref=f35e310]:
+              - generic [ref=f35e311]: "05"
+              - generic [ref=f35e312]:
+                - paragraph [ref=f35e313]: You build for the people using it.
+                - paragraph [ref=f35e314]: Obsess over what customers actually need - not what's easiest to build.
+            - listitem [ref=f35e315]:
+              - generic [ref=f35e316]: "06"
+              - generic [ref=f35e317]:
+                - paragraph [ref=f35e318]: You show up across borders.
+                - paragraph [ref=f35e319]: Timezones aren't excuses, they're an advantage. You build with the global team, not around it.
+          - figure "No ceiling. No orbit. No limits. — Alex Bouaziz — Shuo Wang" [ref=f35e321]:
+            - generic [aria-hidden]:
+              - generic: Alex Bouaziz
+              - generic: Shuo Wang
+      - generic [ref=f35e325]:
+        - heading "Why Deel?" [level=2] [ref=f35e326]
+        - generic [ref=f35e327]:
+          - generic [ref=f35e329]:
+            - paragraph [ref=f35e330]: The permission structure here is real. You don't wait for a fancy title to greenlight an idea — you build it, show it, and if it's good, it ships. The tools and the autonomy are yours. The organization is flat, a hyper-global team of builders is always a Slack DM away.
+            - paragraph [ref=f35e331]: The evidence is in the growth — it's 1 of 1. We went from zero to $1B+ ARR in six years across 160+ countries. That hyperscaling creates new problems and challenges — not the kind you just manage around, but the kind that sharpen your craft as you own and solve them.
+            - paragraph [ref=f35e332]: The people are genuinely smart, ambitious, and mission-driven. Our bias is action. And good ideas come from everywhere at Deel — not just R&D. An ops person can ship a workflow that changes how the company runs. We want to see the builder in everyone.
+          - img "Image" [ref=f35e336]
+      - generic [ref=f35e338]:
+        - generic [ref=f35e340]:
+          - heading "The sky is open. The door is too." [level=2] [ref=f35e341]
+          - generic [ref=f35e342]:
+            - paragraph [ref=f35e343]: "The honest part is that we are a work-from-anywhere company, but we do work, and work hard. Our global footprint means we move at the pace of the world: high volume, high accountability, high speed."
+            - paragraph [ref=f35e344]: If you want a stable and highly predictable work week, Deel likely isn't for you. If you want to build things that touch millions of people with real autonomy and impact, there is nowhere better.
+        - generic [ref=f35e345]:
+          - img "Carousel image" [ref=f35e348]
+          - tablist "Image carousel" [ref=f35e353]:
+            - tab "Show slide 1" [selected] [ref=f35e354] [cursor=pointer]
+            - tab "Show slide 2" [ref=f35e355] [cursor=pointer]
+            - tab "Show slide 3" [ref=f35e356] [cursor=pointer]
+            - tab "Show slide 4" [ref=f35e357] [cursor=pointer]
+            - tab "Show slide 5" [ref=f35e358] [cursor=pointer]
+      - generic [ref=f35e359]:
+        - generic [ref=f35e360]:
+          - heading "Ship global, from anywhere" [level=2] [ref=f35e361]
+          - paragraph [ref=f35e363]:
+            - text: Trusted by
+            - strong [ref=f35e364]: 40,000+ companies
+            - text: from startups to enterprise businesses
+        - generic [ref=f35e365]:
+          - generic [ref=f35e370]:
+            - region "Company logos strip 1" [ref=f35e371]:
+              - generic [ref=f35e372]:
+                - img "Company logo 1" [ref=f35e375]
+                - img "Company logo 2" [ref=f35e378]
+                - img "Company logo 3" [ref=f35e381]
+                - img "Company logo 4" [ref=f35e384]
+                - img "Company logo 5" [ref=f35e387]
+                - img "Company logo 6" [ref=f35e390]
+                - img "Company logo 7" [ref=f35e393]
+                - img "Company logo 8" [ref=f35e396]
+                - img "Company logo 9" [ref=f35e399]
+                - img "Company logo 10" [ref=f35e402]
+                - img "Company logo 11" [ref=f35e405]
+                - img "Company logo 12" [ref=f35e408]
+                - img "Company logo 13" [ref=f35e411]
+                - img "Company logo 14" [ref=f35e414]
+                - img "Company logo 15" [ref=f35e417]
+                - img "Company logo 16" [ref=f35e420]
+                - img "Company logo 17" [ref=f35e423]
+                - img "Company logo 18" [ref=f35e426]
+                - img "Company logo 19" [ref=f35e429]
+                - img "Company logo 20" [ref=f35e432]
+                - img "Company logo 21" [ref=f35e435]
+                - img "Company logo 22" [ref=f35e438]
+                - img "Company logo 23" [ref=f35e441]
+                - img "Company logo 24" [ref=f35e444]
+                - img "Company logo 25" [ref=f35e447]
+                - img "Company logo 26" [ref=f35e450]
+                - img "Company logo 27" [ref=f35e453]
+                - img "Company logo 28" [ref=f35e456]
+            - region "Company logos strip 2" [ref=f35e457]:
+              - generic [ref=f35e458]:
+                - img "Company logo 1" [ref=f35e461]
+                - img "Company logo 2" [ref=f35e464]
+                - img "Company logo 3" [ref=f35e467]
+                - img "Company logo 4" [ref=f35e470]
+                - img "Company logo 5" [ref=f35e473]
+                - img "Company logo 6" [ref=f35e476]
+                - img "Company logo 7" [ref=f35e479]
+                - img "Company logo 8" [ref=f35e482]
+                - img "Company logo 9" [ref=f35e485]
+                - img "Company logo 10" [ref=f35e488]
+                - img "Company logo 11" [ref=f35e491]
+                - img "Company logo 12" [ref=f35e494]
+                - img "Company logo 13" [ref=f35e497]
+                - img "Company logo 14" [ref=f35e500]
+                - img "Company logo 15" [ref=f35e503]
+                - img "Company logo 16" [ref=f35e506]
+                - img "Company logo 17" [ref=f35e509]
+                - img "Company logo 18" [ref=f35e512]
+                - img "Company logo 19" [ref=f35e515]
+                - img "Company logo 20" [ref=f35e518]
+                - img "Company logo 21" [ref=f35e521]
+                - img "Company logo 22" [ref=f35e524]
+                - img "Company logo 23" [ref=f35e527]
+                - img "Company logo 24" [ref=f35e530]
+          - button "Explore open roles" [ref=f35e532] [cursor=pointer]
+  - contentinfo [ref=f35e533]:
+    - generic [ref=f35e534]:
+      - generic [ref=f35e536]:
+        - link [ref=f35e537] [cursor=pointer]:
+          - /url: /about/
+          - paragraph [ref=f35e538]: About us
+        - link [ref=f35e539] [cursor=pointer]:
+          - /url: /leadership-team/
+          - paragraph [ref=f35e540]: Leadership team
+        - link [ref=f35e541] [cursor=pointer]:
+          - /url: /careers/
+          - paragraph [ref=f35e542]: Careers
+        - link [ref=f35e543] [cursor=pointer]:
+          - /url: /pricing/
+          - paragraph [ref=f35e544]: Pricing
+      - generic [ref=f35e545]:
+        - generic [ref=f35e547]:
+          - heading "Solutions" [level=3] [ref=f35e548]
+          - generic [ref=f35e549]:
+            - link [ref=f35e550] [cursor=pointer]:
+              - /url: /solutions/payroll/
+              - paragraph [ref=f35e551]: Deel Payroll
+            - link [ref=f35e552] [cursor=pointer]:
+              - /url: /solutions/hr/
+              - paragraph [ref=f35e553]: Deel HR
+            - link [ref=f35e554] [cursor=pointer]:
+              - /url: /solutions/it/
+              - paragraph [ref=f35e555]: Deel IT
+            - link [ref=f35e556] [cursor=pointer]:
+              - /url: /solutions/benefits/
+              - paragraph [ref=f35e557]: Deel Benefits
+            - link [ref=f35e558] [cursor=pointer]:
+              - /url: /solutions/hire/
+              - paragraph [ref=f35e559]: Deel Hire
+            - link [ref=f35e560] [cursor=pointer]:
+              - /url: /solutions/mobility/
+              - paragraph [ref=f35e561]: Deel Mobility
+            - link [ref=f35e562] [cursor=pointer]:
+              - /url: /solutions/embedded/
+              - paragraph [ref=f35e563]: Deel Embedded
+            - link [ref=f35e564] [cursor=pointer]:
+              - /url: /solutions/services/
+              - paragraph [ref=f35e565]: Deel Services
+            - link [ref=f35e566] [cursor=pointer]:
+              - /url: /solutions/payroll/eor/
+              - paragraph [ref=f35e567]: EOR
+            - link [ref=f35e568] [cursor=pointer]:
+              - /url: /solutions/payroll/peo/
+              - paragraph [ref=f35e569]: PEO
+            - link [ref=f35e570] [cursor=pointer]:
+              - /url: /solutions/
+              - paragraph [ref=f35e571]: All Solutions
+        - generic [ref=f35e573]:
+          - heading "Deel Platform" [level=3] [ref=f35e574]
+          - generic [ref=f35e575]:
+            - link [ref=f35e576] [cursor=pointer]:
+              - /url: /hr-platform/
+              - paragraph [ref=f35e577]: HR Platform
+            - link [ref=f35e578] [cursor=pointer]:
+              - /url: /hr-platform/ai/
+              - paragraph [ref=f35e579]: Deel AI
+            - link [ref=f35e580] [cursor=pointer]:
+              - /url: /hr-platform/white-label/
+              - paragraph [ref=f35e581]: White Label
+            - link [ref=f35e582] [cursor=pointer]:
+              - /url: /solutions/open-api/
+              - paragraph [ref=f35e583]: Deel API
+            - link [ref=f35e584] [cursor=pointer]:
+              - /url: /integrations/
+              - paragraph [ref=f35e585]: Integrations
+            - link [ref=f35e586] [cursor=pointer]:
+              - /url: /hr-platform/workflows/
+              - paragraph [ref=f35e587]: Workflows
+            - link [ref=f35e588] [cursor=pointer]:
+              - /url: https://www.akai.run/
+              - paragraph [ref=f35e589]: Akai
+            - link [ref=f35e590] [cursor=pointer]:
+              - /url: https://status.deel.com/
+              - paragraph [ref=f35e591]: Platform Status
+        - generic [ref=f35e594]:
+          - heading "Why Deel?" [level=3] [ref=f35e595]
+          - generic [ref=f35e596]:
+            - link [ref=f35e597] [cursor=pointer]:
+              - /url: /solutions/payroll-engine/
+              - paragraph [ref=f35e598]: Built on in-house infrastructure
+            - link [ref=f35e599] [cursor=pointer]:
+              - /url: /case-studies/
+              - paragraph [ref=f35e600]: Customer stories
+            - link [ref=f35e601] [cursor=pointer]:
+              - /url: /deel-vs-competitors/
+              - paragraph [ref=f35e602]: Compare Deel
+            - link [ref=f35e603] [cursor=pointer]:
+              - /url: /security/
+              - paragraph [ref=f35e604]: Security
+            - link [ref=f35e605] [cursor=pointer]:
+              - /url: https://trust.deel.com/
+              - paragraph [ref=f35e606]: Trust Center
+            - link [ref=f35e607] [cursor=pointer]:
+              - /url: /partner/
+              - paragraph [ref=f35e608]: Become a partner
+            - link [ref=f35e609] [cursor=pointer]:
+              - /url: /partner/affiliates/
+              - paragraph [ref=f35e610]: Become an affiliate
+            - link [ref=f35e611] [cursor=pointer]:
+              - /url: https://www.g2.com/products/deel/reviews
+              - paragraph [ref=f35e612]: G2 customer reviews
+        - generic [ref=f35e614]:
+          - heading "Resources" [level=3] [ref=f35e615]
+          - generic [ref=f35e616]:
+            - link [ref=f35e617] [cursor=pointer]:
+              - /url: /blog/
+              - paragraph [ref=f35e618]: Blog
+            - link [ref=f35e619] [cursor=pointer]:
+              - /url: /blog/?type=template&type=guide
+              - paragraph [ref=f35e620]: Templates And Guides
+            - link [ref=f35e621] [cursor=pointer]:
+              - /url: /hiring/
+              - paragraph [ref=f35e622]: Global Hiring Guides
+            - link [ref=f35e623] [cursor=pointer]:
+              - /url: /events/
+              - paragraph [ref=f35e624]: Webinars & Events
+            - link [ref=f35e625] [cursor=pointer]:
+              - /url: /glossary/
+              - paragraph [ref=f35e626]: Global Work Glossary
+            - link [ref=f35e627] [cursor=pointer]:
+              - /url: /deel-impact/
+              - paragraph [ref=f35e628]: Deel Impact
+            - link [ref=f35e629] [cursor=pointer]:
+              - /url: /job-description-templates/
+              - paragraph [ref=f35e630]: Job Description Templates
+            - link [ref=f35e631] [cursor=pointer]:
+              - /url: /global-hiring-toolkit
+              - paragraph [ref=f35e632]: Free HR tools
+            - link [ref=f35e633] [cursor=pointer]:
+              - /url: https://developer.deel.com/home
+              - paragraph [ref=f35e634]: API Documentation
+            - link [ref=f35e635] [cursor=pointer]:
+              - /url: https://help.letsdeel.com/hc/en-gb/articles/51257946732817-Understanding-Compliance-Verification-at-Deel
+              - paragraph [ref=f35e636]: Compliance Verification FAQ
+            - link [ref=f35e637] [cursor=pointer]:
+              - /url: https://help.letsdeel.com/hc/en-gb
+              - paragraph [ref=f35e638]: Help Center
+            - link [ref=f35e639] [cursor=pointer]:
+              - /url: /press/
+              - paragraph [ref=f35e640]: Press
+        - generic [ref=f35e642]:
+          - heading "Customers" [level=3] [ref=f35e643]
+          - generic [ref=f35e644]:
+            - link [ref=f35e645] [cursor=pointer]:
+              - /url: /case-studies/revolut/
+              - paragraph [ref=f35e646]: Revolut
+            - link [ref=f35e647] [cursor=pointer]:
+              - /url: /case-studies/fico/
+              - paragraph [ref=f35e648]: FICO
+            - link [ref=f35e649] [cursor=pointer]:
+              - /url: /case-studies/puma-south-africa/
+              - paragraph [ref=f35e650]: Puma
+            - link [ref=f35e651] [cursor=pointer]:
+              - /url: /case-studies/outreach/
+              - paragraph [ref=f35e652]: Outreach
+            - link [ref=f35e653] [cursor=pointer]:
+              - /url: /case-studies/zipco/
+              - paragraph [ref=f35e654]: Zip Co
+            - link [ref=f35e655] [cursor=pointer]:
+              - /url: /case-studies/directional-pizza/
+              - paragraph [ref=f35e656]: Directional Pizza
+      - generic [ref=f35e657]:
+        - generic [ref=f35e658]:
+          - link [ref=f35e659] [cursor=pointer]:
+            - /url: /
+            - img "Deel Logo White" [ref=f35e661]
+          - generic [ref=f35e662]:
+            - link [ref=f35e663] [cursor=pointer]:
+              - /url: https://twitter.com/deel
+              - img "twitterFilled-icon" [ref=f35e664]
+            - link [ref=f35e665] [cursor=pointer]:
+              - /url: https://linkedin.com/company/deel
+              - img "linkedinFilled-icon" [ref=f35e666]
+            - link [ref=f35e667] [cursor=pointer]:
+              - /url: https://facebook.com/getdeel
+              - img "facebookFilled-icon" [ref=f35e668]
+            - link [ref=f35e669] [cursor=pointer]:
+              - /url: https://instagram.com/getdeel
+              - img "instagramFilled-icon" [ref=f35e670]
+        - heading "Get the latest insights on today's world of work delivered straight to your inbox." [level=3] [ref=f35e671]
+        - generic [ref=f35e672]:
+          - generic [ref=f35e673]:
+            - button "Email subscribe" [ref=f35e674] [cursor=pointer]
+            - textbox "Email subscribe" [ref=f35e678]:
+              - /placeholder: What's your e-mail?
+          - paragraph [ref=f35e680]:
+            - text: I confirm that I have read
+            - link "Deel’s Privacy Policy" [ref=f35e681] [cursor=pointer]:
+              - /url: /privacy/
+            - text: and agree with it.
+      - generic [ref=f35e682]:
+        - paragraph [ref=f35e683]: © Copyright 2026. All Rights Reserved.
+        - generic [ref=f35e684]:
+          - link [ref=f35e685] [cursor=pointer]:
+            - /url: /legal/disclaimer/
+            - paragraph [ref=f35e686]: Disclaimer
+          - link [ref=f35e687] [cursor=pointer]:
+            - /url: /legal/privacy-policy/
+            - paragraph [ref=f35e688]: Privacy Policy
+          - link [ref=f35e689] [cursor=pointer]:
+            - /url: "#!"
+            - paragraph [ref=f35e690]: Cookie Settings
+          - link [ref=f35e691] [cursor=pointer]:
+            - /url: /legal/
+            - paragraph [ref=f35e692]: Legal Hub
+          - link [ref=f35e693] [cursor=pointer]:
+            - /url: /legal/whistleblower-policy/
+            - paragraph [ref=f35e694]: Whistleblower Policy
+          - link [ref=f35e695] [cursor=pointer]:
+            - /url: /legal/disclosures/
+            - paragraph [ref=f35e696]: Disclosures
+          - link [ref=f35e697] [cursor=pointer]:
+            - /url: /legal/licenses/
+            - paragraph [ref=f35e698]: Licenses and Compliance
+  - alert [ref=f35e699]
+  - iframe [aria-hidden] [ref=f35e700]

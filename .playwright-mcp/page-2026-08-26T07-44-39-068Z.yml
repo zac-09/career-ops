@@ -1,0 +1,282 @@
+- generic [active] [ref=f21e1]:
+  - banner [ref=f21e2]:
+    - generic [ref=f21e3]:
+      - navigation [ref=f21e4] [cursor=pointer]:
+        - link "Return to home page" [ref=f21e5]:
+          - /url: /
+          - img "Jobgether logo" [ref=f21e6]
+      - navigation [ref=f21e9]:
+        - list [ref=f21e10]:
+          - listitem [ref=f21e11]:
+            - link "FOR TALENT" [ref=f21e12] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f21e13]:
+            - link "FOR COMPANIES" [ref=f21e14] [cursor=pointer]:
+              - /url: /our-solution
+          - listitem [ref=f21e15]:
+            - link "BLOG" [ref=f21e16] [cursor=pointer]:
+              - /url: /blog
+          - listitem [ref=f21e17]:
+            - link "ABOUT US" [ref=f21e18] [cursor=pointer]:
+              - /url: /about-us
+      - generic [ref=f21e23]:
+        - button "SIGN IN" [ref=f21e24] [cursor=pointer]
+        - button "SIGN UP" [ref=f21e25] [cursor=pointer]
+  - generic [ref=f21e26]:
+    - alert [ref=f21e27]:
+      - generic [ref=f21e32]:
+        - paragraph [ref=f21e33]: Unfortunately, this role is no longer available
+        - paragraph [ref=f21e34]: This usually means the company has taken the listing down or already hired someone for the position. It happens often with in demand roles, and it is rarely a reflection of your fit. The good news, we have lined up a handful of openings below that closely match your profile, so you can keep your search moving forward.
+    - generic [ref=f21e35]:
+      - generic [ref=f21e36]:
+        - heading "Similar remote jobs" [level=2] [ref=f21e38]
+        - link "Brazil" [ref=f21e40] [cursor=pointer]:
+          - /url: /remote-jobs/brazil
+      - generic [ref=f21e43]:
+        - generic [ref=f21e44]:
+          - link "ENGENHEIRO(A) DE SOFTWARE FULLSTACK SR" [ref=f21e45] [cursor=pointer]:
+            - /url: /offer/6a8d98f61de6f4542a594b58-engenheiro-a-de-software-fullstack-sr
+          - generic [ref=f21e48]:
+            - img "Logo for Sólides" [ref=f21e51]
+            - generic [ref=f21e52]:
+              - generic [ref=f21e53]:
+                - heading "ENGENHEIRO(A) DE SOFTWARE FULLSTACK SR" [level=3] [ref=f21e55]
+                - generic [ref=f21e56]: Today
+              - paragraph [ref=f21e58]: Sólides
+              - generic [ref=f21e60]:
+                - list [ref=f21e62]:
+                  - generic [ref=f21e63]:
+                    - listitem [ref=f21e64]:
+                      - text: Brazil
+                      - generic [ref=f21e68]: "From:"
+                      - generic [ref=f21e69]: Brazil (Full Remote)
+                    - text: "|"
+                  - listitem [ref=f21e70]:
+                    - generic [ref=f21e74]: Full time
+                    - text: "|"
+                  - listitem [ref=f21e75]
+                - generic [ref=f21e79]: Java (Programming Language) • Flutter (Software) • Quasar • PkMS • RabbitMQ
+        - generic [ref=f21e82]:
+          - link "Intermediate Full-Stack Engineer" [ref=f21e83] [cursor=pointer]:
+            - /url: /offer/6a8e25ab1de6f4542a5b3822-intermediate-full-stack-engineer
+          - generic [ref=f21e86]:
+            - img "Logo for MedMe Health" [ref=f21e89]
+            - generic [ref=f21e90]:
+              - generic [ref=f21e91]:
+                - heading "Intermediate Full-Stack Engineer" [level=3] [ref=f21e93]
+                - generic [ref=f21e94]: Today
+              - paragraph [ref=f21e96]: MedMe Health
+              - generic [ref=f21e98]:
+                - list [ref=f21e100]:
+                  - generic [ref=f21e101]:
+                    - listitem [ref=f21e102]:
+                      - text: Canada
+                      - generic [ref=f21e106]: "From:"
+                      - generic [ref=f21e107]: Canada (Full Remote)
+                    - text: "|"
+                  - listitem [ref=f21e108]:
+                    - generic [ref=f21e112]: Full time
+                    - text: "|"
+                  - listitem [ref=f21e113]
+                - generic [ref=f21e117]: Node.js (Javascript Library) • React Jsx • TypeScript • Amazon Web Services • PostgreSQL
+        - generic [ref=f21e120]:
+          - link "Java FullStack Develoepr" [ref=f21e121] [cursor=pointer]:
+            - /url: /offer/6a8d52a01de6f4542a589491-java-fullstack-develoepr
+          - generic [ref=f21e124]:
+            - img "Logo for ICONMA" [ref=f21e127]
+            - generic [ref=f21e128]:
+              - generic [ref=f21e129]:
+                - heading "Java FullStack Develoepr" [level=3] [ref=f21e131]
+                - generic [ref=f21e132]: Today
+              - paragraph [ref=f21e134]: ICONMA
+              - generic [ref=f21e136]:
+                - list [ref=f21e138]:
+                  - generic [ref=f21e139]:
+                    - listitem [ref=f21e140]:
+                      - text: Virginia (USA)
+                      - generic [ref=f21e144]: "From:"
+                      - generic [ref=f21e145]: Virginia (USA) (Full Remote)
+                    - text: "|"
+                  - listitem [ref=f21e146]:
+                    - generic [ref=f21e150]: Full time
+                    - text: "|"
+                  - listitem [ref=f21e151]
+                - generic [ref=f21e155]: Java (Programming Language) • Java (Programming Language) • Angular (Web Framework) • Amazon Web Services • Full Stack Development
+        - generic [ref=f21e158]:
+          - 'link "Senior Fullstack Developer (React/NextJS/AWS) - REMOTE - #35258" [ref=f21e159] [cursor=pointer]':
+            - /url: /offer/6a8ded521de6f4542a5aa48b-senior-fullstack-developer-react-nextjs-aws---remote---35258
+          - generic [ref=f21e162]:
+            - img "Logo for Manila Recruitment" [ref=f21e165]
+            - generic [ref=f21e166]:
+              - generic [ref=f21e167]:
+                - 'heading "Senior Fullstack Developer (React/NextJS/AWS) - REMOTE - #35258" [level=3] [ref=f21e169]'
+                - generic [ref=f21e170]: Today
+              - paragraph [ref=f21e172]: Manila Recruitment
+              - generic [ref=f21e174]:
+                - list [ref=f21e176]:
+                  - generic [ref=f21e177]:
+                    - listitem [ref=f21e178]:
+                      - text: Philippines
+                      - generic [ref=f21e182]: "From:"
+                      - generic [ref=f21e183]: Philippines (Full Remote)
+                    - text: "|"
+                  - listitem [ref=f21e184]:
+                    - generic [ref=f21e188]: Full time
+                    - text: "|"
+                  - listitem [ref=f21e189]
+                - generic [ref=f21e193]: Amazon Web Services • React Jsx • Amazon Web Services • E-Commerce • Full Stack Development
+        - generic [ref=f21e196]:
+          - link "ENGENHEIRO(A) DE SOFTWARE FULLSTACK PL - JAVA" [ref=f21e197] [cursor=pointer]:
+            - /url: /offer/6a8d98f61de6f4542a594b5a-engenheiro-a-de-software-fullstack-pl---java
+          - generic [ref=f21e200]:
+            - img "Logo for Sólides" [ref=f21e203]
+            - generic [ref=f21e204]:
+              - generic [ref=f21e205]:
+                - heading "ENGENHEIRO(A) DE SOFTWARE FULLSTACK PL - JAVA" [level=3] [ref=f21e207]
+                - generic [ref=f21e208]: Today
+              - paragraph [ref=f21e210]: Sólides
+              - generic [ref=f21e212]:
+                - list [ref=f21e214]:
+                  - generic [ref=f21e215]:
+                    - listitem [ref=f21e216]:
+                      - text: Brazil
+                      - generic [ref=f21e220]: "From:"
+                      - generic [ref=f21e221]: Brazil (Full Remote)
+                    - text: "|"
+                  - listitem [ref=f21e222]:
+                    - generic [ref=f21e226]: Full time
+                    - text: "|"
+                  - listitem [ref=f21e227]
+                - generic [ref=f21e231]: Java (Programming Language) • Flutter (Software) • Quasar • Azure DevOps • RabbitMQ
+  - contentinfo [ref=f21e234]:
+    - link "Return to home page" [ref=f21e235] [cursor=pointer]:
+      - /url: /
+      - img "Jobgether logo" [ref=f21e236]
+    - generic [ref=f21e237]:
+      - generic [ref=f21e238]:
+        - generic [ref=f21e239]:
+          - generic [ref=f21e240]: BY CATEGORY
+          - link "Data, IT & Product (49286)" [ref=f21e241] [cursor=pointer]:
+            - /url: /remote-jobs/it
+          - link "Sales (20342)" [ref=f21e242] [cursor=pointer]:
+            - /url: /remote-jobs/sales
+          - link "Finance, Accounting & Audit (1965)" [ref=f21e243] [cursor=pointer]:
+            - /url: /remote-jobs/accounting
+          - link "Customer Service (5304)" [ref=f21e244] [cursor=pointer]:
+            - /url: /remote-jobs/customer-service
+          - link "Business & Operation (10001)" [ref=f21e245] [cursor=pointer]:
+            - /url: /remote-jobs/business
+          - link "All categories" [ref=f21e246] [cursor=pointer]:
+            - /url: /all-categories
+        - generic [ref=f21e247]:
+          - generic [ref=f21e248]: BY TYPE
+          - link "Software Engineer (4977)" [ref=f21e249] [cursor=pointer]:
+            - /url: /remote-jobs/software-engineer
+          - link "Consultant (2901)" [ref=f21e250] [cursor=pointer]:
+            - /url: /remote-jobs/consultant
+          - link "Account Executive (3699)" [ref=f21e251] [cursor=pointer]:
+            - /url: /remote-jobs/account-executive
+          - link "Project Manager (2239)" [ref=f21e252] [cursor=pointer]:
+            - /url: /remote-jobs/project-manager
+          - link "Account Manager (2427)" [ref=f21e253] [cursor=pointer]:
+            - /url: /remote-jobs/account-manager
+          - link "Full Stack Engineer (2073)" [ref=f21e254] [cursor=pointer]:
+            - /url: /remote-jobs/full-stack-engineer
+        - generic [ref=f21e255]:
+          - generic [ref=f21e256]: BY LOCATION
+          - link "United States (51915)" [ref=f21e257] [cursor=pointer]:
+            - /url: /remote-jobs/united-states
+          - link "India (19670)" [ref=f21e258] [cursor=pointer]:
+            - /url: /remote-jobs/india
+          - link "United Kingdom (23339)" [ref=f21e259] [cursor=pointer]:
+            - /url: /remote-jobs/united-kingdom
+          - link "Canada (21869)" [ref=f21e260] [cursor=pointer]:
+            - /url: /remote-jobs/canada
+          - link "Germany (21218)" [ref=f21e261] [cursor=pointer]:
+            - /url: /remote-jobs/germany
+          - link "Brazil (20782)" [ref=f21e262] [cursor=pointer]:
+            - /url: /remote-jobs/brazil
+        - generic [ref=f21e263]:
+          - generic [ref=f21e264]: POPULAR JOBS
+          - link "Entry Level (465)" [ref=f21e265] [cursor=pointer]:
+            - /url: /remote-jobs/entry-level
+          - link "Customer Service (5304)" [ref=f21e266] [cursor=pointer]:
+            - /url: /remote-jobs/customer-service
+          - link "Human Resources (3686)" [ref=f21e267] [cursor=pointer]:
+            - /url: /remote-jobs/human-resources
+          - link "Virtual Assistant (488)" [ref=f21e268] [cursor=pointer]:
+            - /url: /remote-jobs/virtual-assistant
+          - link "Data Entry (625)" [ref=f21e269] [cursor=pointer]:
+            - /url: /remote-jobs/data-entry
+      - generic [ref=f21e270]:
+        - generic [ref=f21e271]:
+          - generic [ref=f21e272]: ABOUT JOBGETHER
+          - link "About us" [ref=f21e273] [cursor=pointer]:
+            - /url: /about-us
+          - link "Our vision" [ref=f21e274] [cursor=pointer]:
+            - /url: /our-vision
+          - link "Top 100 flex employers" [ref=f21e275] [cursor=pointer]:
+            - /url: /top-100-flexible-employers
+          - link "Top 100 remote influencers" [ref=f21e276] [cursor=pointer]:
+            - /url: /top-100-flexible-influencer
+          - link "What is the Flex Score?" [ref=f21e277] [cursor=pointer]:
+            - /url: /flex-score
+          - link "AI Charter" [ref=f21e278] [cursor=pointer]:
+            - /url: /ai-chart
+          - link "Glossary" [ref=f21e279] [cursor=pointer]:
+            - /url: /definitions
+        - generic [ref=f21e280]:
+          - generic [ref=f21e281]: CONTACT US
+          - link "Ask us a question" [ref=f21e282] [cursor=pointer]:
+            - /url: mailto:support@jobgether.com
+          - link "Help us to improve" [ref=f21e283] [cursor=pointer]:
+            - /url: mailto:support@jobgether.com
+          - link "Discord" [ref=f21e284] [cursor=pointer]:
+            - /url: /discord
+          - link "Press" [ref=f21e287] [cursor=pointer]:
+            - /url: /press
+          - link "FAQ" [ref=f21e288] [cursor=pointer]:
+            - /url: /faq
+        - generic [ref=f21e289]:
+          - generic [ref=f21e290]: RESOURCES
+          - link "Blog" [ref=f21e291] [cursor=pointer]:
+            - /url: /blog
+          - link "My Career Coach" [ref=f21e292] [cursor=pointer]:
+            - /url: /career-coach
+          - link "AI CV Review" [ref=f21e293] [cursor=pointer]:
+            - /url: /ai-cv-review
+          - link "AI Match Score & Feedback" [ref=f21e294] [cursor=pointer]:
+            - /url: /ai-match-score
+          - link "AI Auto-Apply" [ref=f21e295] [cursor=pointer]:
+            - /url: /auto-apply
+          - link "Jobseekers guide" [ref=f21e296] [cursor=pointer]:
+            - /url: /job-seekers-guide
+          - link "Career explorer" [ref=f21e297] [cursor=pointer]:
+            - /url: /career-explorer
+        - generic [ref=f21e299]:
+          - generic [ref=f21e300]: FIND US ON
+          - generic [ref=f21e302]:
+            - link "Explore more about Jobgether on X" [ref=f21e303] [cursor=pointer]:
+              - /url: https://twitter.com/jobgether
+            - link "Explore more about Jobgether on Linkedin" [ref=f21e306] [cursor=pointer]:
+              - /url: https://www.linkedin.com/authwall?trk=bf&trkInfo=AQFKuDdzvyuh2QAAAX19Q1co3Ji2bCa_Fnh12E6akT9yNhuxeMY1T9JcoMvl6LR8daZLw0m7Iq3L04i9XtiMdJDXz4LWDVMDVgMvnUPO3ok_9GfGqlLZZb1Iwe5p0JPGc0HQBto=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fjobgether%2F
+            - link "Explore more about Jobgether on Instagram" [ref=f21e309] [cursor=pointer]:
+              - /url: https://www.instagram.com/jobgether/
+            - link "Explore more about Jobgether on Youtube" [ref=f21e312] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCx2Dr1lHvPXeovNfWnYOtGw
+            - link "Join our Discord community" [ref=f21e315] [cursor=pointer]:
+              - /url: /discord
+    - generic [ref=f21e318]:
+      - link "Terms Of Use" [ref=f21e319] [cursor=pointer]:
+        - /url: /terms-of-use
+      - generic [ref=f21e320]: •
+      - link "Legal Notices" [ref=f21e321] [cursor=pointer]:
+        - /url: /legal-notices
+      - generic [ref=f21e322]: •
+      - link "Privacy Policy" [ref=f21e323] [cursor=pointer]:
+        - /url: /privacy-policy
+      - generic [ref=f21e324]: •
+      - link "Cookies" [ref=f21e325] [cursor=pointer]:
+        - /url: /cookies
+      - generic [ref=f21e326]: •
+      - generic [ref=f21e327]: © 2026, All rights reserved

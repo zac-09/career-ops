@@ -1,0 +1,700 @@
+- generic [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#skip-nav-target"
+  - banner [ref=e3]:
+    - generic [ref=e5]:
+      - link "Mattermost Logo" [ref=e7] [cursor=pointer]:
+        - /url: https://mattermost.com/
+        - img "Mattermost Logo" [ref=e8]
+      - list [ref=e10]:
+        - listitem [ref=e11]:
+          - link "Platform" [ref=e12] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - generic [ref=e13]:
+              - text: Platform
+              - img [ref=e15]
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: Platform
+                - list:
+                  - listitem:
+                    - link "Overview":
+                      - /url: https://mattermost.com/platform-overview/
+                  - listitem:
+                    - link "Channels":
+                      - /url: https://mattermost.com/channels/
+                  - listitem:
+                    - link "Playbooks":
+                      - /url: https://mattermost.com/playbooks/
+                  - listitem:
+                    - link "Integrations":
+                      - /url: https://mattermost.com/integrations-overview/
+                  - listitem:
+                    - link "Mobile":
+                      - /url: https://mattermost.com/mobile/
+                  - listitem:
+                    - link "AI":
+                      - /url: https://mattermost.com/agents/
+                  - listitem:
+                    - link "Security":
+                      - /url: https://mattermost.com/security/
+                  - listitem:
+                    - link "Trust Center":
+                      - /url: https://trust.mattermost.com/
+              - generic:
+                - paragraph: Interoperability
+                - list:
+                  - listitem:
+                    - link "MS Teams":
+                      - /url: https://mattermost.com/solutions/mattermost-for-microsoft-teams/
+                  - listitem:
+                    - link "Atlassian":
+                      - /url: https://mattermost.com/atlassian/
+                  - listitem:
+                    - link "GitLab":
+                      - /url: https://mattermost.com/solutions/mattermost-gitlab/
+                - paragraph: Flexible Deployment
+                - list:
+                  - listitem:
+                    - link "On-Premise":
+                      - /url: https://mattermost.com/enterprise/on-prem/
+                  - listitem:
+                    - link "Cloud":
+                      - /url: https://mattermost.com/enterprise/cloud/
+        - listitem [ref=e17]:
+          - link "Solutions" [ref=e18] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - generic [ref=e19]:
+              - text: Solutions
+              - img [ref=e21]
+          - generic:
+            - generic:
+              - generic:
+                - paragraph: Use Cases
+                - list:
+                  - listitem:
+                    - link "Integrated Security Operations":
+                      - /url: https://mattermost.com/solutions/use-cases/integrated-security-operations/
+                  - listitem:
+                    - link "Out-of-Band Incident Response":
+                      - /url: https://mattermost.com/solutions/use-cases/out-of-band-incident-response/
+                  - listitem:
+                    - link "Self-Sovereign Collaboration":
+                      - /url: https://mattermost.com/solutions/use-cases/self-sovereign-collaboration/
+                  - listitem:
+                    - link "Mission-Critical ChatOps":
+                      - /url: https://mattermost.com/solutions/use-cases/mission-critical-chatops/
+                  - listitem:
+                    - link "Real-Time DevSecOps Collaboration":
+                      - /url: https://mattermost.com/solutions/use-cases/devsecops-collaboration/
+                  - listitem:
+                    - link "Purpose-Built Collaboration Hub":
+                      - /url: https://mattermost.com/solutions/use-cases/purpose-built-collaboration/
+              - generic:
+                - paragraph: Industries
+                - list:
+                  - listitem:
+                    - link "Critical Infrastructure":
+                      - /url: https://mattermost.com/solutions/industries/critical-infrastructure/
+                  - listitem:
+                    - link "Defense":
+                      - /url: https://mattermost.com/solutions/industries/defense/
+                  - listitem:
+                    - link "Technology":
+                      - /url: https://mattermost.com/solutions/industries/technology/
+                  - listitem:
+                    - link "Global Public Sector":
+                      - /url: https://mattermost.com/solutions/industries/government/
+                  - listitem:
+                    - link "Financial Services":
+                      - /url: https://mattermost.com/solutions/industries/financial-services/
+                  - listitem:
+                    - link "Energy and Utilities":
+                      - /url: https://mattermost.com/solutions/industries/energy-and-utilities/
+                  - listitem:
+                    - link "Transportation and Logistics":
+                      - /url: https://mattermost.com/solutions/industries/transportation-and-logistics/
+        - listitem [ref=e23]:
+          - link "Pricing" [ref=e24] [cursor=pointer]:
+            - /url: https://mattermost.com/pricing/
+            - generic [ref=e25]: Pricing
+        - listitem [ref=e26]:
+          - link "Partners" [ref=e27] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - generic [ref=e28]:
+              - text: Partners
+              - img [ref=e30]
+          - generic:
+            - generic:
+              - paragraph: Partners
+              - list:
+                - listitem:
+                  - link "Become a Partner":
+                    - /url: https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=24278352368532
+                - listitem:
+                  - link "Partner Program":
+                    - /url: https://mattermost.com/partners/
+        - listitem [ref=e32]:
+          - link "Resources" [ref=e33] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - generic [ref=e34]:
+              - text: Resources
+              - img [ref=e36]
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - paragraph: Resources
+                  - list:
+                    - listitem:
+                      - link "Resource Library":
+                        - /url: https://mattermost.com/resources/
+                    - listitem:
+                      - link "Blog":
+                        - /url: https://mattermost.com/blog/
+                    - listitem:
+                      - link "Demos":
+                        - /url: https://mattermost.com/resources/?filter=demos
+                    - listitem:
+                      - link "Events":
+                        - /url: https://mattermost.com/events/
+                    - listitem:
+                      - link "Customers":
+                        - /url: https://mattermost.com/customers/
+                - generic:
+                  - paragraph: Documentation
+                  - list:
+                    - listitem:
+                      - link "Academy":
+                        - /url: https://academy.mattermost.com/
+                    - listitem:
+                      - link "Channels Guide":
+                        - /url: https://docs.mattermost.com/guides/channels.html
+                    - listitem:
+                      - link "Playbooks Guide":
+                        - /url: https://docs.mattermost.com/guides/repeatable-processes.html
+                    - listitem:
+                      - link "Admin":
+                        - /url: https://docs.mattermost.com/guides/administration-guide.html
+                    - listitem:
+                      - link "Docs":
+                        - /url: https://docs.mattermost.com/
+                    - listitem:
+                      - link "API Reference":
+                        - /url: https://api.mattermost.com/
+                    - listitem:
+                      - link "Release Notes":
+                        - /url: https://docs.mattermost.com/administration/changelog.html
+                - generic:
+                  - paragraph: Community
+                  - list:
+                    - listitem:
+                      - link "Join Community":
+                        - /url: https://mattermost.com/community/
+                    - listitem:
+                      - link "Contribute":
+                        - /url: https://mattermost.com/contribute/
+                    - listitem:
+                      - link "Deploy":
+                        - /url: https://mattermost.com/install/
+                    - listitem:
+                      - link "Integrate":
+                        - /url: https://developers.mattermost.com/integrate/getting-started/
+                    - listitem:
+                      - link "Install":
+                        - /url: https://mattermost.com/install/
+        - listitem [ref=e38]:
+          - link "Login" [ref=e39] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - generic [ref=e40]:
+              - text: Login
+              - img [ref=e42]
+          - generic:
+            - generic:
+              - paragraph: Login
+              - list:
+                - listitem:
+                  - link "My Workspace":
+                    - /url: https://customers.mattermost.com/cloud/connect-workspace
+                - listitem:
+                  - link "Admin Portal":
+                    - /url: https://customers.mattermost.com/login/
+                - listitem:
+                  - link "Apps":
+                    - /url: https://mattermost.com/apps/
+                - listitem:
+                  - link "Support":
+                    - /url: https://support.mattermost.com/hc/en-us/
+        - listitem [ref=e44]:
+          - link "Try Mattermost" [ref=e45] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - generic [ref=e46]:
+              - text: Try Mattermost
+              - img [ref=e48]
+          - generic:
+            - generic:
+              - paragraph: "Experience a 1-hour preview environment for:"
+              - list:
+                - listitem:
+                  - link "Integrated Security Operations":
+                    - /url: https://mattermost.com/sign-up/?usecase=integrated-sec-ops
+                - listitem:
+                  - link "Out-of-Band Incident Response":
+                    - /url: https://mattermost.com/sign-up/?usecase=out-of-band
+                - listitem:
+                  - link "Self-Sovereign Collaboration":
+                    - /url: https://mattermost.com/sign-up/?usecase=self-sovereign
+                - listitem:
+                  - link "Mission-Critical ChatOps":
+                    - /url: https://mattermost.com/sign-up/?usecase=mission-ops
+                - listitem:
+                  - link "Real-Time DevSecOps Collaboration":
+                    - /url: https://mattermost.com/sign-up/?usecase=dev-sec-ops
+                - listitem:
+                  - link "Purpose-Built Collaboration Hub":
+                    - /url: https://mattermost.com/sign-up/?usecase=purpose-built
+        - listitem [ref=e50]:
+          - link "Contact Sales" [ref=e51] [cursor=pointer]:
+            - /url: https://mattermost.com/contact-sales/
+  - main "Mattermost Content" [ref=e52]:
+    - generic [ref=e61]:
+      - generic [ref=e62]:
+        - heading "We’re enabling mission-critical teams to focus on what matters most." [level=1] [ref=e63]
+        - paragraph [ref=e64]: Join Mattermost and help us build the future of secure collaboration.
+      - link "See Job Openings" [ref=e66] [cursor=pointer]:
+        - /url: "#openings"
+    - generic [ref=e72]:
+      - generic [ref=e75]:
+        - heading "Support operational teams who are changing the world" [level=2] [ref=e76]
+        - paragraph [ref=e77]: "Our customers use Mattermost in complex, high-stakes environments to accelerate critical workflows and operations:"
+      - generic [ref=e79]:
+        - generic [ref=e82]:
+          - img "Security" [ref=e84]
+          - generic [ref=e85]: Protect national and international interests
+        - generic [ref=e88]:
+          - img "Assured workload" [ref=e90]
+          - generic [ref=e91]: Defend trillions of dollars in financial assets
+        - generic [ref=e94]:
+          - img "Fire truck" [ref=e96]
+          - generic [ref=e97]: Facilitate emergency comms for first responders
+        - generic [ref=e100]:
+          - img "Electric car" [ref=e102]
+          - generic [ref=e103]: Build electric cars and reduce our carbon footprint
+        - generic [ref=e106]:
+          - img "Rocket launch" [ref=e108]
+          - generic [ref=e109]: Pioneer space travel and take humans to the moon
+        - generic [ref=e112]:
+          - img "Pill" [ref=e114]
+          - generic [ref=e115]: Drive innovation in pharmaceutical manufacturing
+        - generic [ref=e118]:
+          - img "Satellite" [ref=e120]
+          - generic [ref=e121]: Study the fundamental structure of the universe
+        - generic [ref=e126]: Enable global coordination during high-stakes operations
+    - generic [ref=e129]:
+      - generic [ref=e133]:
+        - heading "Why join Mattermost?" [level=2] [ref=e134]
+        - paragraph [ref=e135]: We’re accelerating the world’s mission-critical work by developing and delivering secure, open core collaboration software. At Mattermost, you get to work with thoughtful, talented, high-performing people and cutting-edge technologies.
+      - generic [ref=e138]:
+        - generic [ref=e139]:
+          - heading "Work with the brightest minds" [level=3] [ref=e140]
+          - paragraph [ref=e141]: Collaborate with a senior, mission-driven team solving some of the toughest challenges in secure global collaboration.
+        - generic [ref=e142]:
+          - heading "Be a multi-tool player" [level=3] [ref=e143]
+          - paragraph [ref=e144]: In a growth-stage company, you’ll wear multiple hats, build broad skills, and accelerate your career in ways larger enterprises can’t offer.
+        - generic [ref=e145]:
+          - heading "Mission impact you can see" [level=3] [ref=e146]
+          - paragraph [ref=e147]: Your work is deployed in mission-critical environments supporting defense, intelligence, cyber, and critical infrastructure organizations worldwide.
+      - generic [ref=e150]:
+        - generic [ref=e151]:
+          - heading "Build your career as you build the future" [level=3] [ref=e152]
+          - paragraph [ref=e153]: Advance your own growth while shaping the evolution of sovereign collaboration through our commercial platform and our open source community.
+        - generic [ref=e154]:
+          - heading "Become a catalyst for transformation" [level=3] [ref=e155]
+          - paragraph [ref=e156]: Operate in a high-trust, fast-moving, remote-first culture where ideas win on merit, impact is immediate, and open source collaboration drives innovation at a global scale.
+    - generic [ref=e159]:
+      - generic [ref=e162]:
+        - heading "Our leadership principles" [level=2] [ref=e163]
+        - paragraph [ref=e164]: These principles guide our behaviors and decision-making processes from everyday projects to company strategy.
+      - generic [ref=e167]:
+        - generic [ref=e168]:
+          - img "Groups" [ref=e169]
+          - generic [ref=e170]:
+            - heading "Customer obsession" [level=3] [ref=e171]
+            - paragraph [ref=e172]: We exist to make customers successful. In everything we do, we start with the customer’s perspective and work backwards.
+        - generic [ref=e173]:
+          - img "Back hand" [ref=e174]
+          - generic [ref=e175]:
+            - heading "Ownership" [level=3] [ref=e176]
+            - paragraph [ref=e177]: We own the outcomes of our activities. When we see a vacuum on something important, we jump in — we never say “it’s not my job.”
+        - generic [ref=e178]:
+          - img "Psychology" [ref=e179]
+          - generic [ref=e180]:
+            - heading "Self awareness" [level=3] [ref=e181]
+            - paragraph [ref=e182]: We seek to understand our strengths and growth opportunities. We are open to feedback and share our ideas constructively and respectfully.
+        - generic [ref=e183]:
+          - img "Bar chart" [ref=e184]
+          - generic [ref=e185]:
+            - heading "High impact" [level=3] [ref=e186]
+            - paragraph [ref=e187]: We align our work to our shared vision and stay focused on top priorities. When deciding what to work on, choose projects with the highest impact.
+        - generic [ref=e188]:
+          - img "Volunteer activism" [ref=e189]
+          - generic [ref=e190]:
+            - heading "Earn trust" [level=3] [ref=e191]
+            - paragraph [ref=e192]: We make decisions based on maximizing the trust of others in our judgments. We are open, self-critical, and factual in how we assess ourselves.
+    - generic [ref=e193]:
+      - paragraph
+      - iframe [ref=e195]:
+        - main [ref=f4e2]:
+          - generic [ref=f4e3]:
+            - generic [ref=f4e4]:
+              - img "Mattermost Logo"
+            - heading "Current openings at Mattermost" [level=1] [ref=f4e5]
+            - generic [ref=f4e7]:
+              - img [ref=f4e8]
+              - generic [ref=f4e10]:
+                - paragraph [ref=f4e11]: Create a Job Alert
+                - paragraph [ref=f4e12]: Level-up your career by having opportunities at Mattermost sent directly to your inbox.
+                - button "Create alert" [ref=f4e13]
+            - generic [ref=f4e14]:
+              - heading "Featured Jobs" [level=3] [ref=f4e15]
+              - link [ref=f4e17] [cursor=pointer]:
+                - /url: https://job-boards.greenhouse.io/mattermost/jobs/5064643008
+                - generic [ref=f4e18]:
+                  - paragraph [ref=f4e19]: Technical Sales Engineer/ Lead
+                  - generic [ref=f4e21]:
+                    - img [ref=f4e22]
+                    - paragraph [ref=f4e24]: Tokyo, Japan
+                  - generic [ref=f4e28]: "About the Role We are seeking a highly skilled and motivated Technical-Sales Engineer to join Mattermost as we enter the Japanese market. This is a high-impact, early-stage opportunity requiring a \"player-coach\" mentality with significant room for ownership, autonomy, and professional growth. As the first technical hire in Japan and the Indo-Pacific region, you will not only lead technical demonstrations but also serve as a strategic partner to our sales team, directly shaping regional growth and ensuring customer success in high-trust environments. Key Responsibilities Strategic Technical Leadership: Lead all regional technical activities, including pre-sales architecture, product demos, and deep-dive technical evaluations. Mission-Critical Deployment: Architect and deploy solutions within complex on-premise, air-gapped, and private cloud environments, ensuring operational resilience for defense and national security customers. Partner & Channel Enablement: Collaborate with system integrators (SIs), VARs, and distributors to build a sustainable technical network and contribute to the regional partner go-to-market plan. Stakeholder Management: Translate complex technical details into value propositions for audiences ranging from executive C-suite (General Officers) to frontline operational personnel. Product Advocacy: Act as a bridge between Japanese customers and our global product/engineering teams, representing local requirements to help build world-class, mission-ready software. Post-Sales Excellence: Support technical engagements for key accounts to ensure customers are achieving their specific mission outcomes and workflow automation goals. Required Skills & Experience Industry Expertise: 10+ years of technical experience, specifically within the cybersecurity sector or high-growth SaaS/technology companies. Domain Knowledge: Proven experience serving defense, national security, or critical infrastructure customers. Infrastructure Mastery: Strong knowledge of closed cloud environments, on-premise deployments, and the technical/operational concepts utilized within secure sectors. Entrepreneurial Mindset: Experience in global startups is preferred; you must be an independent, creative problem-solver capable of negotiating technical \"win-win\" scenarios. Communication: Native Japanese language skills and strong English proficiency (reading/writing). Travel: Ability to travel based on business needs to support partner events, tradeshows, and customer sites (up to 50%). Preferred Qualifications Active Security Clearance: Highly desired due to the nature of our mission-critical customer base. Forward-Thinking: Awareness of GenAI and its applications in secure collaboration. Education: Bachelor’s degree in a technical field or equivalent work experience. Why Mattermost? Mattermost is an open-core technology company building secure collaboration solutions for organizations in high-trust environments. We enable secure messaging and workflow automation across the world’s most sensitive deployments—from air-gapped defense systems to private clouds. In this role, you are the technical face of Mattermost in Japan, driving our expansion into one of our most critical growth regions"
+            - generic [ref=f4e29]:
+              - generic [ref=f4e31]:
+                - generic [ref=f4e33]:
+                  - text: Search
+                  - textbox "Search" [ref=f4e34]
+                - generic [ref=f4e36]:
+                  - text: Department
+                  - generic [ref=f4e37]:
+                    - log [ref=f4e39]
+                    - generic [ref=f4e41]:
+                      - generic [ref=f4e42]:
+                        - generic [ref=f4e43]: Select...
+                        - combobox "Department" [ref=f4e45]
+                      - button "Toggle flyout" [ref=f4e47]:
+                        - img [ref=f4e48]
+                - generic [ref=f4e51]:
+                  - text: Office
+                  - generic [ref=f4e52]:
+                    - log [ref=f4e54]
+                    - generic [ref=f4e56]:
+                      - generic [ref=f4e57]:
+                        - generic [ref=f4e58]: Select...
+                        - combobox "Office" [ref=f4e60]
+                      - button "Toggle flyout" [ref=f4e62]:
+                        - img [ref=f4e63]
+              - generic [ref=f4e65]:
+                - heading "18 jobs" [level=2] [ref=f4e66]
+                - generic [ref=f4e67]:
+                  - generic [ref=f4e68]:
+                    - heading "Customer Success" [level=3] [ref=f4e69]
+                    - table [ref=f4e71]:
+                      - rowgroup [ref=f4e72]:
+                        - row "Job" [ref=f4e73]:
+                          - columnheader "Job" [ref=f4e74]:
+                            - paragraph [ref=f4e75]: Job
+                      - rowgroup [ref=f4e76]:
+                        - row "Senior Technical Account Manager (Germany) Germany" [ref=f4e77]:
+                          - cell "Senior Technical Account Manager (Germany) Germany" [ref=f4e78]:
+                            - link "Senior Technical Account Manager (Germany) Germany" [ref=f4e79] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5143332008
+                              - paragraph [ref=f4e80]: Senior Technical Account Manager (Germany)
+                              - paragraph [ref=f4e81]: Germany
+                        - row "Senior Technical Account Manager (UK) United Kingdom" [ref=f4e82]:
+                          - cell "Senior Technical Account Manager (UK) United Kingdom" [ref=f4e83]:
+                            - link "Senior Technical Account Manager (UK) United Kingdom" [ref=f4e84] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5173585008
+                              - paragraph [ref=f4e85]: Senior Technical Account Manager (UK)
+                              - paragraph [ref=f4e86]: United Kingdom
+                        - row "Senior Technical Account Manager (UK) (Bilingual French) United Kingdom" [ref=f4e87]:
+                          - cell "Senior Technical Account Manager (UK) (Bilingual French) United Kingdom" [ref=f4e88]:
+                            - link "Senior Technical Account Manager (UK) (Bilingual French) United Kingdom" [ref=f4e89] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5143340008
+                              - paragraph [ref=f4e90]: Senior Technical Account Manager (UK) (Bilingual French)
+                              - paragraph [ref=f4e91]: United Kingdom
+                  - generic [ref=f4e92]:
+                    - heading "Engineering" [level=3] [ref=f4e93]
+                    - table [ref=f4e95]:
+                      - rowgroup [ref=f4e96]:
+                        - row "Job" [ref=f4e97]:
+                          - columnheader "Job" [ref=f4e98]:
+                            - paragraph [ref=f4e99]: Job
+                      - rowgroup [ref=f4e100]:
+                        - row "Forward Deployed Engineer United States" [ref=f4e101]:
+                          - cell "Forward Deployed Engineer United States" [ref=f4e102]:
+                            - link "Forward Deployed Engineer United States" [ref=f4e103] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5156188008
+                              - paragraph [ref=f4e104]: Forward Deployed Engineer
+                              - paragraph [ref=f4e105]: United States
+                        - row "Lead Site Reliability Engineer United States" [ref=f4e106]:
+                          - cell "Lead Site Reliability Engineer United States" [ref=f4e107]:
+                            - link "Lead Site Reliability Engineer United States" [ref=f4e108] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5123836008
+                              - paragraph [ref=f4e109]: Lead Site Reliability Engineer
+                              - paragraph [ref=f4e110]: United States
+                        - row "Senior React Native Engineer United States" [ref=f4e111]:
+                          - cell "Senior React Native Engineer United States" [ref=f4e112]:
+                            - link "Senior React Native Engineer United States" [ref=f4e113] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5238290008
+                              - paragraph [ref=f4e114]: Senior React Native Engineer
+                              - paragraph [ref=f4e115]: United States
+                        - row "Staff Software Engineer, Testing Infrastructure United States" [ref=f4e116]:
+                          - cell "Staff Software Engineer, Testing Infrastructure United States" [ref=f4e117]:
+                            - link "Staff Software Engineer, Testing Infrastructure United States" [ref=f4e118] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5123839008
+                              - paragraph [ref=f4e119]: Staff Software Engineer, Testing Infrastructure
+                              - paragraph [ref=f4e120]: United States
+                        - row "US Defense Software Engineering Lead United States" [ref=f4e121]:
+                          - cell "US Defense Software Engineering Lead United States" [ref=f4e122]:
+                            - link "US Defense Software Engineering Lead United States" [ref=f4e123] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5169029008
+                              - paragraph [ref=f4e124]: US Defense Software Engineering Lead
+                              - paragraph [ref=f4e125]: United States
+                  - generic [ref=f4e126]:
+                    - heading "Marketing" [level=3] [ref=f4e127]
+                    - table [ref=f4e129]:
+                      - rowgroup [ref=f4e130]:
+                        - row "Job" [ref=f4e131]:
+                          - columnheader "Job" [ref=f4e132]:
+                            - paragraph [ref=f4e133]: Job
+                      - rowgroup [ref=f4e134]:
+                        - row "Growth Web Engineer (AI-Enabled) Ontario, Canada; Ottawa, Ontario, Canada; Toronto, Ontario, Canada" [ref=f4e135]:
+                          - cell "Growth Web Engineer (AI-Enabled) Ontario, Canada; Ottawa, Ontario, Canada; Toronto, Ontario, Canada" [ref=f4e136]:
+                            - link "Growth Web Engineer (AI-Enabled) Ontario, Canada; Ottawa, Ontario, Canada; Toronto, Ontario, Canada" [ref=f4e137] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5190348008
+                              - paragraph [ref=f4e138]: Growth Web Engineer (AI-Enabled)
+                              - paragraph [ref=f4e139]: Ontario, Canada; Ottawa, Ontario, Canada; Toronto, Ontario, Canada
+                  - generic [ref=f4e140]:
+                    - heading "Sales" [level=3] [ref=f4e141]
+                    - table [ref=f4e143]:
+                      - rowgroup [ref=f4e144]:
+                        - row "Job" [ref=f4e145]:
+                          - columnheader "Job" [ref=f4e146]:
+                            - paragraph [ref=f4e147]: Job
+                      - rowgroup [ref=f4e148]:
+                        - row "Account Manager - Federal United States" [ref=f4e149]:
+                          - cell "Account Manager - Federal United States" [ref=f4e150]:
+                            - link "Account Manager - Federal United States" [ref=f4e151] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5120785008
+                              - paragraph [ref=f4e152]: Account Manager - Federal
+                              - paragraph [ref=f4e153]: United States
+                        - row "Commercial Account Manager (UK) United Kingdom" [ref=f4e154]:
+                          - cell "Commercial Account Manager (UK) United Kingdom" [ref=f4e155]:
+                            - link "Commercial Account Manager (UK) United Kingdom" [ref=f4e156] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5121048008
+                              - paragraph [ref=f4e157]: Commercial Account Manager (UK)
+                              - paragraph [ref=f4e158]: United Kingdom
+                        - row "Federal Solution Architect United States" [ref=f4e159]:
+                          - cell "Federal Solution Architect United States" [ref=f4e160]:
+                            - link "Federal Solution Architect United States" [ref=f4e161] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5138957008
+                              - paragraph [ref=f4e162]: Federal Solution Architect
+                              - paragraph [ref=f4e163]: United States
+                        - row "Senior Account Executive, Navy Sector Honolulu, Hawaii, United States; San Diego, California, United States; United States" [ref=f4e164]:
+                          - cell "Senior Account Executive, Navy Sector Honolulu, Hawaii, United States; San Diego, California, United States; United States" [ref=f4e165]:
+                            - link "Senior Account Executive, Navy Sector Honolulu, Hawaii, United States; San Diego, California, United States; United States" [ref=f4e166] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5163002008
+                              - paragraph [ref=f4e167]: Senior Account Executive, Navy Sector
+                              - paragraph [ref=f4e168]: Honolulu, Hawaii, United States; San Diego, California, United States; United States
+                        - row "Senior Account Manager - Americas CommercialNew United States" [ref=f4e169]:
+                          - cell "Senior Account Manager - Americas CommercialNew United States" [ref=f4e170]:
+                            - link "Senior Account Manager - Americas CommercialNew United States" [ref=f4e171] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5259084008
+                              - paragraph [ref=f4e172]:
+                                - text: Senior Account Manager - Americas Commercial
+                                - generic [ref=f4e174]: New
+                              - paragraph [ref=f4e175]: United States
+                        - row "Technical Sales Engineer/ Lead Tokyo, Japan" [ref=f4e176]:
+                          - cell "Technical Sales Engineer/ Lead Tokyo, Japan" [ref=f4e177]:
+                            - link "Technical Sales Engineer/ Lead Tokyo, Japan" [ref=f4e178] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5064643008
+                              - paragraph [ref=f4e179]: Technical Sales Engineer/ Lead
+                              - paragraph [ref=f4e180]: Tokyo, Japan
+                  - generic [ref=f4e181]:
+                    - heading "Security" [level=3] [ref=f4e182]
+                    - table [ref=f4e184]:
+                      - rowgroup [ref=f4e185]:
+                        - row "Job" [ref=f4e186]:
+                          - columnheader "Job" [ref=f4e187]:
+                            - paragraph [ref=f4e188]: Job
+                      - rowgroup [ref=f4e189]:
+                        - row "Senior Security Engineer United Kingdom" [ref=f4e190]:
+                          - cell "Senior Security Engineer United Kingdom" [ref=f4e191]:
+                            - link "Senior Security Engineer United Kingdom" [ref=f4e192] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5201987008
+                              - paragraph [ref=f4e193]: Senior Security Engineer
+                              - paragraph [ref=f4e194]: United Kingdom
+                        - row "Senior Security Engineer Germany" [ref=f4e195]:
+                          - cell "Senior Security Engineer Germany" [ref=f4e196]:
+                            - link "Senior Security Engineer Germany" [ref=f4e197] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5211906008
+                              - paragraph [ref=f4e198]: Senior Security Engineer
+                              - paragraph [ref=f4e199]: Germany
+                        - row "Senior Security Engineer Spain" [ref=f4e200]:
+                          - cell "Senior Security Engineer Spain" [ref=f4e201]:
+                            - link "Senior Security Engineer Spain" [ref=f4e202] [cursor=pointer]:
+                              - /url: https://job-boards.greenhouse.io/mattermost/jobs/5211915008
+                              - paragraph [ref=f4e203]: Senior Security Engineer
+                              - paragraph [ref=f4e204]: Spain
+      - paragraph
+  - contentinfo "Mattermost Footer" [ref=e196]:
+    - generic [ref=e197]:
+      - list [ref=e198]:
+        - listitem [ref=e199]:
+          - text: Company
+          - list [ref=e200]:
+            - listitem [ref=e201]:
+              - link "About Us" [ref=e202] [cursor=pointer]:
+                - /url: https://mattermost.com/about-us/
+            - listitem [ref=e203]:
+              - link "Newsroom" [ref=e204] [cursor=pointer]:
+                - /url: https://mattermost.com/newsroom/
+            - listitem [ref=e205]:
+              - link "Partners" [ref=e206] [cursor=pointer]:
+                - /url: https://mattermost.com/partners/
+            - listitem [ref=e207]:
+              - link "Events" [ref=e208] [cursor=pointer]:
+                - /url: https://mattermost.com/events/
+            - listitem [ref=e209]:
+              - link "Careers" [ref=e210] [cursor=pointer]:
+                - /url: https://mattermost.com/careers/
+            - listitem [ref=e211]:
+              - link "Responsible Disclosure" [ref=e212] [cursor=pointer]:
+                - /url: https://mattermost.com/security-vulnerability-report/
+            - listitem [ref=e213]:
+              - link "Brand Guidelines" [ref=e214] [cursor=pointer]:
+                - /url: https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines
+      - list [ref=e215]:
+        - listitem [ref=e216]:
+          - text: Platform
+          - list [ref=e217]:
+            - listitem [ref=e218]:
+              - link "Platform Overview" [ref=e219] [cursor=pointer]:
+                - /url: https://mattermost.com/platform-overview/
+            - listitem [ref=e220]:
+              - link "Channels" [ref=e221] [cursor=pointer]:
+                - /url: https://mattermost.com/channels/
+            - listitem [ref=e222]:
+              - link "Playbooks" [ref=e223] [cursor=pointer]:
+                - /url: https://mattermost.com/playbooks/
+            - listitem [ref=e224]:
+              - link "Integrations" [ref=e225] [cursor=pointer]:
+                - /url: https://mattermost.com/integrations-overview/
+            - listitem [ref=e226]:
+              - link "Security" [ref=e227] [cursor=pointer]:
+                - /url: https://mattermost.com/security/
+            - listitem [ref=e228]:
+              - link "Customers" [ref=e229] [cursor=pointer]:
+                - /url: https://mattermost.com/customers/
+            - listitem [ref=e230]:
+              - link "Comparison Guide" [ref=e231] [cursor=pointer]:
+                - /url: https://mattermost.com/compare/
+      - list [ref=e232]:
+        - listitem [ref=e233]:
+          - text: Documentation
+          - list [ref=e234]:
+            - listitem [ref=e235]:
+              - link "Deployment" [ref=e236] [cursor=pointer]:
+                - /url: https://docs.mattermost.com/guides/deployment-guide.html
+            - listitem [ref=e237]:
+              - link "Channels Guide" [ref=e238] [cursor=pointer]:
+                - /url: https://docs.mattermost.com/guides/channels.html
+            - listitem [ref=e239]:
+              - link "Playbooks Guide" [ref=e240] [cursor=pointer]:
+                - /url: https://docs.mattermost.com/guides/playbooks.html
+            - listitem [ref=e241]:
+              - link "Admin" [ref=e242] [cursor=pointer]:
+                - /url: https://docs.mattermost.com/guides/administration-guide.html
+            - listitem [ref=e243]:
+              - link "API Reference" [ref=e244] [cursor=pointer]:
+                - /url: https://api.mattermost.com/
+            - listitem [ref=e245]:
+              - link "All Docs" [ref=e246] [cursor=pointer]:
+                - /url: https://docs.mattermost.com/
+            - listitem [ref=e247]:
+              - link "Report an Issue" [ref=e248] [cursor=pointer]:
+                - /url: https://handbook.mattermost.com/contributors/contributors/ways-to-contribute#report-a-bug
+      - list [ref=e249]:
+        - listitem [ref=e250]:
+          - text: Download
+          - list [ref=e251]:
+            - listitem [ref=e252]:
+              - link "Mobile & Desktop Apps" [ref=e253] [cursor=pointer]:
+                - /url: /apps/
+            - listitem [ref=e254]:
+              - link "Mattermost Server" [ref=e255] [cursor=pointer]:
+                - /url: /install/
+      - list [ref=e256]:
+        - listitem [ref=e257]:
+          - text: Support
+          - list [ref=e258]:
+            - listitem [ref=e259]:
+              - link "General Support" [ref=e260] [cursor=pointer]:
+                - /url: https://mattermost.com/support/
+            - listitem [ref=e261]:
+              - link "Community Chat Server" [ref=e262] [cursor=pointer]:
+                - /url: https://community.mattermost.com/login
+            - listitem [ref=e263]:
+              - link "Forums" [ref=e264] [cursor=pointer]:
+                - /url: https://forum.mattermost.org/
+            - listitem [ref=e265]:
+              - link "Help Center" [ref=e266] [cursor=pointer]:
+                - /url: https://support.mattermost.com/hc/en-us
+            - listitem [ref=e267]:
+              - link "Legal" [ref=e268] [cursor=pointer]:
+                - /url: /terms-of-use/
+            - listitem [ref=e269]:
+              - link "Contact Us" [ref=e270] [cursor=pointer]:
+                - /url: /contact-us/
+      - generic [ref=e272]:
+        - text: © Mattermost, Inc. 2026.
+        - generic [ref=e273]:
+          - link "Terms of Service" [ref=e274] [cursor=pointer]:
+            - /url: https://mattermost.com/terms-of-use/
+          - text: "|"
+          - link "Privacy Policy" [ref=e275] [cursor=pointer]:
+            - /url: https://mattermost.com/privacy-policy/
+          - text: "|"
+          - link "Cookie Policy" [ref=e276] [cursor=pointer]:
+            - /url: https://mattermost.com/privacy-policy/cookies/
+        - text: "|"
+        - link "Manage Cookies" [ref=e277] [cursor=pointer]:
+          - /url: javascript:void(0);
+      - list [ref=e278]:
+        - listitem [ref=e279]:
+          - link "GitHub icon" [ref=e280] [cursor=pointer]:
+            - /url: https://github.com/mattermost/
+            - img "GitHub icon" [ref=e281]
+        - listitem [ref=e284]:
+          - link "LinkedIn icon" [ref=e285] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/mattermost/
+            - img "LinkedIn icon" [ref=e286]
+        - listitem [ref=e289]:
+          - link "Facebook icon" [ref=e290] [cursor=pointer]:
+            - /url: https://www.facebook.com/Mattermost-2300985916642531/
+            - img "Facebook icon" [ref=e291]
+        - listitem [ref=e294]:
+          - link "X icon" [ref=e295] [cursor=pointer]:
+            - /url: https://twitter.com/mattermost
+            - img "X icon" [ref=e296]
+        - listitem [ref=e299]:
+          - link "Bluesky icon" [ref=e300] [cursor=pointer]:
+            - /url: https://bsky.app/profile/mattermost.bsky.social
+            - img "Bluesky icon" [ref=e301]
+  - region "Cookie banner" [ref=e305]:
+    - dialog "Privacy" [ref=e306]:
+      - generic [ref=e308]:
+        - generic [ref=e311]: Mattermost and third parties use cookies and similar technologies to collect data about your website use to enhance site navigation, analyze site usage, and enable personalized ads and content. By clicking “Allow All Cookies”, you consent to the use of cookies. Choose “Reject Optional Cookies” to reject cookies that are not essential for our services or click "Cookies Settings” to make more granular choices. To opt out of sales and sharing under U.S. state laws, choose “Reject Optional Cookies”. For more information about our practices, visit our Privacy Policy .
+        - generic [ref=e313]:
+          - button "Cookies Settings, Opens the preference center dialog" [active] [ref=e314] [cursor=pointer]: Cookies Settings
+          - button "Reject Optional Cookies" [ref=e315] [cursor=pointer]
+          - button "Allow All Cookies" [ref=e316] [cursor=pointer]
+      - button "Close" [ref=e318] [cursor=pointer]

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Isaac Mubiru — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { font-family: 'DM Sans', sans-serif; font-size: 11px; line-height: 1.5; color: #1a1a2e; background: #fff; }
+  .page { width: 100%; max-width: 8.5in; margin: 0 auto; padding: 0; }
+  .header { margin-bottom: 16px; }
+  .header h1 { font-family: 'Space Grotesk', sans-serif; font-size: 24px; font-weight: 700; color: #1a1a2e; letter-spacing: -0.02em; margin-bottom: 4px; }
+  .header-gradient { height: 2px; background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%)); border-radius: 1px; margin-bottom: 8px; }
+  .contact-row { display: flex; flex-wrap: wrap; gap: 6px 16px; font-family: 'DM Sans', sans-serif; font-size: 10px; color: #555; }
+  .contact-row a { color: #555; text-decoration: none; white-space: nowrap; }
+  .contact-row .separator { color: #ccc; }
+  .section { margin-bottom: 14px; }
+  .section-title { font-family: 'Space Grotesk', sans-serif; font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: hsl(187, 74%, 32%); border-bottom: 1px solid #e5e5e5; padding-bottom: 3px; margin-bottom: 8px; }
+  .summary-text { font-size: 11px; line-height: 1.6; color: #333; }
+  .summary-text p { margin-bottom: 6px; }
+  a { white-space: nowrap; color: hsl(187, 74%, 32%); text-decoration: none; }
+  .competencies-grid { display: flex; flex-wrap: wrap; gap: 6px; }
+  .competency-tag { font-family: 'DM Sans', sans-serif; font-size: 10px; font-weight: 500; color: hsl(187, 74%, 28%); background: hsl(187, 40%, 95%); padding: 3px 10px; border-radius: 3px; border: 1px solid hsl(187, 40%, 88%); }
+  .job { margin-bottom: 12px; }
+  .job-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 2px; }
+  .job-company { font-family: 'Space Grotesk', sans-serif; font-size: 12px; font-weight: 600; color: hsl(270, 70%, 45%); }
+  .job-period { font-size: 10px; color: #777; white-space: nowrap; }
+  .job-role { font-size: 11px; font-weight: 500; color: #444; margin-bottom: 4px; }
+  .job ul { padding-left: 16px; margin-top: 4px; }
+  .job li { font-size: 10.5px; line-height: 1.5; color: #333; margin-bottom: 2px; }
+  .job li strong { font-weight: 600; }
+  .edu-item { margin-bottom: 6px; }
+  .edu-header { display: flex; justify-content: space-between; align-items: baseline; }
+  .edu-title { font-weight: 600; font-size: 11px; color: #333; }
+  .edu-org { color: hsl(270, 70%, 45%); font-weight: 500; }
+  .edu-year { font-size: 10px; color: #777; }
+  .skills-grid { display: flex; flex-direction: column; gap: 3px; }
+  .skill-item { font-size: 10.5px; color: #444; }
+  .skill-category { font-weight: 600; color: #333; font-size: 10.5px; }
+  @media print { body { -webkit-print-color-adjust: exact; print-color-adjust: exact; } .page { padding: 0; } }
+  .avoid-break { break-inside: avoid; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <h1>Isaac Mubiru</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>isaacmubiru99@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://linkedin.com/in/isaac-mubiru-3bb728174">linkedin.com/in/isaac-mubiru</a>
+      <span class="separator">|</span>
+      <a href="https://github.com/zac-09">github.com/zac-09</a>
+      <span class="separator">|</span>
+      <span>Kampala, Uganda (UTC+3) &middot; Remote worldwide</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">
+      <p>Node.js engineer with 5+ years building <strong>distributed data systems</strong> in production. Built bidirectional replication between two live authoritative stores &mdash; concurrent writes on both sides, ordered Pub/Sub message processing, conflict handling &mdash; migrating 20+ applications with zero downtime and cutting ~$5,000/month in infrastructure cost. Architected event-driven microservices on Apache Kafka, NATS Streaming and gRPC + Protobuf serving four tenants on shared infrastructure. Code at <a href="https://github.com/zac-09">github.com/zac-09</a>.</p>
+      <p>Deliberately moving into peer-to-peer: studying Kademlia DHTs, the Hypercore/hyperswarm stack, and distributed indexing &mdash; distributed systems and transport reliability are the foundation I already have, P2P and information retrieval are the specialisms I am building next. Bias for shipping: features on this CV carry revenue and cost numbers, not just architecture diagrams. 5+ years fully remote on US and Singapore teams from Uganda (UTC+3), async-first, direct CTO reporting line.</p>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">Node.js</span>
+      <span class="competency-tag">Distributed Systems</span>
+      <span class="competency-tag">Distributed Databases</span>
+      <span class="competency-tag">Bidirectional Replication</span>
+      <span class="competency-tag">Apache Kafka</span>
+      <span class="competency-tag">NATS Streaming</span>
+      <span class="competency-tag">gRPC + Protobuf</span>
+      <span class="competency-tag">Transport Reliability</span>
+      <span class="competency-tag">Concurrent Message Processing</span>
+      <span class="competency-tag">Indexing &amp; Query at Scale</span>
+      <span class="competency-tag">Microservices</span>
+      <span class="competency-tag">Async-First Remote</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">MTailor</div>
+        <div class="job-period">Sep 2022 &ndash; Present</div>
+      </div>
+      <div class="job-role">Software Engineer &middot; US Remote (from Uganda, UTC+3)</div>
+      <ul>
+        <li>Built <strong>bidirectional replication between MongoDB and Firestore</strong> in Node.js over Google Pub/Sub &mdash; two live authoritative stores accepting concurrent writes, with ordered message processing, conflict handling and a parallel write path enabling gradual cutover.</li>
+        <li>Led the end-to-end migration of <strong>20+ production applications</strong> from Parse/MongoDB to Firebase/GCP with <strong>zero downtime</strong>, reporting directly to the CTO.</li>
+        <li>Saved the company <strong>~$5,000/month</strong> by migrating all services off AWS; moved file storage from Amazon S3 to GCS via a Python pipeline.</li>
+        <li>Shipped Express Shipping end to end, generating an additional <strong>$40 revenue per order</strong>.</li>
+        <li>Built a 3D visualization feature using video overlay and the ffmpeg library, increasing buyer conversion.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">CodeBits</div>
+        <div class="job-period">Jan 2020 &ndash; Jul 2021</div>
+      </div>
+      <div class="job-role">Software Engineer &middot; Lead of 4 &middot; Uganda Remote</div>
+      <ul>
+        <li>Architected an <strong>event-driven microservices backend</strong> &mdash; Apache Kafka topics, NATS Streaming, and <strong>gRPC + Protobuf</strong> service contracts on Docker/Kubernetes &mdash; supporting four NGO tenants with independent service deploys.</li>
+        <li>Built a USSD legal-aid service over an unreliable 2G carrier path: Node.js backend, gRPC inter-service communication, and a <strong>retry-aware session state machine</strong> that resumed dropped sessions instead of restarting them &mdash; transport reliability and multiplexing under constant packet loss.</li>
+        <li>Led a team of 4 engineers: owned architecture, ran code review, and split delivery along service boundaries.</li>
+        <li>Built a case management system for FIDA Uganda, a paralegal database for LASPNET, and a cross-platform React Native app with Firebase push notifications.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">Dr Wealth</div>
+        <div class="job-period">Aug 2021 &ndash; Jan 2022</div>
+      </div>
+      <div class="job-role">Software Engineer &middot; Singapore Remote</div>
+      <ul>
+        <li>Built ad-hoc jobs querying <strong>over 2 million Firestore records</strong> with diff-detection to avoid full rescans, keeping real-time stock prices current from Morningstar APIs at sub-15-minute freshness.</li>
+        <li>Led optimization of a PWA delivering real-time market prices from a Firebase backend.</li>
+        <li>Extended backend APIs using Firebase Cloud Functions and Express.js.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">Mind2matter.co</div>
+        <div class="job-period">Jan 2022 &ndash; Jul 2022</div>
+      </div>
+      <div class="job-role">Software Engineer &middot; US Remote</div>
+      <ul>
+        <li>Built backends for <strong>decentralized (DeFi) applications</strong> using Web3 and Node.js &mdash; contract integration, transaction signing, off-chain indexing.</li>
+        <li>Delivered React UIs from Figma designs under tight client timelines.</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="section avoid-break">
+    <div class="section-title">Projects</div>
+    <ul style="padding-left:16px;">
+      <li style="font-size:10.5px; line-height:1.5; color:#333; margin-bottom:3px;"><strong>Marketplace recommendation engine</strong> &mdash; collaborative + content-based filtering in MongoDB for service-provider matching; relevance ranking and candidate retrieval over a live catalogue.</li>
+      <li style="font-size:10.5px; line-height:1.5; color:#333; margin-bottom:3px;"><strong>Healthcare WhatsApp assistant</strong> &mdash; Node.js service integrating OpenAI and Google Vision for prescription OCR over the WhatsApp Business API.</li>
+      <li style="font-size:10.5px; line-height:1.5; color:#333; margin-bottom:3px;"><strong>Real-time Pub/Sub sync pipeline</strong> &mdash; live MongoDB &harr; Firestore replication supporting parallel production traffic throughout a multi-app migration.</li>
+    </ul>
+  </div>
+
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <div class="edu-title">B.Sc. Computer Engineering &mdash; <span class="edu-org">Makerere University</span></div>
+        <div class="edu-year">Aug 2018 &ndash; Sep 2022</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section avoid-break">
+    <div class="section-title">Skills</div>
+    <div class="skills-grid">
+      <div class="skill-item"><span class="skill-category">Proficient:</span> Node.js, JavaScript, Firebase, GCP, Python, MongoDB, SQL, Linux, Git, Docker, Kubernetes, HTML/CSS, React</div>
+      <div class="skill-item"><span class="skill-category">Distributed systems:</span> Apache Kafka, NATS Streaming, gRPC, Protobuf, Google Pub/Sub, bidirectional replication, microservices</div>
+      <div class="skill-item"><span class="skill-category">Intermediate:</span> Go, Rust, AWS, React Native, Web3</div>
+      <div class="skill-item"><span class="skill-category">Currently studying:</span> Kademlia DHT, Hypercore / hyperswarm / hyperbee, distributed indexing, inverted indices and BM25 ranking</div>
+      <div class="skill-item"><span class="skill-category">Languages:</span> English (fluent, working language for 5+ years of remote work), Kiswahili</div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

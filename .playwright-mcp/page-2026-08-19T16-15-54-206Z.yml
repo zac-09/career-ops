@@ -1,0 +1,110 @@
+- generic [active] [ref=f8e1]:
+  - generic [ref=f8e3]:
+    - generic [ref=f8e5]:
+      - navigation "Breadcrumb" [ref=f8e7]:
+        - list [ref=f8e8]:
+          - listitem [ref=f8e9]:
+            - paragraph [ref=f8e10]:
+              - link "Welcome to our Careers Page!" [ref=f8e11] [cursor=pointer]
+          - listitem [ref=f8e12]:
+            - generic [ref=f8e13]: 
+            - paragraph [ref=f8e14]:
+              - link "Senior Full Stack Engineer"
+      - generic [ref=f8e15]:
+        - img "Welcome to our Careers Page!" [ref=f8e17]
+        - heading "Senior Full Stack Engineer" [level=2] [ref=f8e18]
+        - generic [ref=f8e19]:
+          - generic [ref=f8e20]:
+            - generic [ref=f8e22]:
+              - paragraph [ref=f8e23]:
+                - strong [ref=f8e25]: Summary
+                - text: ":"
+              - paragraph [ref=f8e26]: LighthouseAI provides pharmaceutical state licensing software and services to pharmaceutical manufacturers, wholesale distributors, logistics companies, and pharmacies. The LighthouseAI product suite includes LighthouseAI Intelligence®, which uses artificial intelligence to automate compliance requirement research, and LighthouseAI Management®, which enables ongoing license maintenance. LighthouseAI creates a stress-free and streamlined state licensing experience with support from our expert industry veterans and professional solutions.
+              - paragraph [ref=f8e27]: We are seeking a highly skilled Senior Full Stack Developer with strong TypeScript, React, and Node.js experience to join our growing engineering team. In this role, you will design, build, and maintain scalable web applications, collaborating closely with product managers and engineers across the full stack – from developing backend APIs and data models to building intuitive, high-performance front-end interfaces. We are looking for someone who brings strong autonomy, sound architectural judgment, and a bias toward clean, well-tested code.
+              - paragraph [ref=f8e28]
+              - paragraph [ref=f8e29]:
+                - strong [ref=f8e32]: This is a
+                - strong [ref=f8e35]: full-time
+                - strong [ref=f8e39]: remote
+                - strong [ref=f8e42]: position
+                - generic [ref=f8e43]: .
+                - strong [ref=f8e45]: "Working Hours: Monday–Friday 8am–4:30pm ET"
+                - text: Travel for on site interviews may be required.
+              - paragraph [ref=f8e46]:
+                - text: Only
+                - strong [ref=f8e48]: US applicants
+                - text: authorized to work in the United States without Visa sponshorship will be considered for this position.
+              - paragraph [ref=f8e49]
+              - paragraph [ref=f8e50]:
+                - strong [ref=f8e52]: "Essential Duties and Responsibilities:"
+              - list [ref=f8e53]:
+                - listitem [ref=f8e54]: Design, develop, and maintain scalable backend services using TypeScript and Node.js (Nest.js).
+                - listitem [ref=f8e55]: Build responsive, modular, and maintainable front-end applications using React.
+                - listitem [ref=f8e56]: Architect, implement, and optimize RESTful APIs for client–server communication.
+                - listitem [ref=f8e57]: Work with relational and NoSQL databases and design efficient data models.
+                - listitem [ref=f8e58]: Build and deploy applications within AWS, leveraging services such as ECS, Lambda, S3, SQS, and IAM.
+                - listitem [ref=f8e59]: Contribute to system design discussions and help shape scalable, maintainable architecture decisions.
+                - listitem [ref=f8e60]: Perform thorough unit and integration testing and validate code quality prior to QA handoff.
+                - listitem [ref=f8e61]: Leverage AI development tools (such as GitHub Copilot, Claude, or similar) to improve productivity and code quality.
+                - listitem [ref=f8e62]: Write clean, testable, and reusable code with proper documentation.
+                - listitem [ref=f8e63]: Collaborate with cross-functional teams to define requirements and deliver features from concept through production release.
+                - listitem [ref=f8e64]: Ensure application security, performance, reliability, and scalability across systems.
+                - listitem [ref=f8e65]: Participate in code reviews and provide constructive feedback to maintain code quality standards.
+              - paragraph [ref=f8e66]:
+                - strong [ref=f8e68]: "Work Experience Qualifications:"
+              - list [ref=f8e69]:
+                - listitem [ref=f8e70]: 5+ years of professional full stack development experience.
+                - listitem [ref=f8e71]: Strong proficiency in TypeScript; Python experience is a plus.
+                - listitem [ref=f8e72]: Strong front-end skills with React and modern front-end tooling.
+                - listitem [ref=f8e73]: Solid working experience with Node.js and server-side TypeScript frameworks.
+                - listitem [ref=f8e74]: Experience working with relational and NoSQL databases and ORM libraries.
+                - listitem [ref=f8e75]: Familiarity with API design best practices, authentication/authorization (OAuth, JWT), and security principles.
+                - listitem [ref=f8e76]: Practical experience building and deploying applications in AWS (e.g. ECS, Lambda, S3, SQS, IAM) – architecture and infrastructure ownership not required.
+                - listitem [ref=f8e77]: Experience with testing frameworks (e.g. Jest, Vitest).
+                - listitem [ref=f8e78]: Demonstrated ability to work with strong autonomy and ownership, driving work forward without requiring close oversight.
+                - listitem [ref=f8e79]: Proven ability to contribute to system design and make sound architectural decisions at the feature and service level.
+                - listitem [ref=f8e80]: Knowledge of microservices or serverless architecture.
+                - listitem [ref=f8e81]: Experience using AI-assisted development tools (e.g. GitHub Copilot, Claude).
+              - paragraph [ref=f8e82]
+              - paragraph [ref=f8e83]:
+                - strong [ref=f8e85]: "Compensation:"
+              - list [ref=f8e86]:
+                - listitem [ref=f8e87]: "Salary Range: $150,000-180,000"
+              - paragraph [ref=f8e88]:
+                - strong [ref=f8e90]: "Benefits:"
+              - list [ref=f8e91]:
+                - listitem [ref=f8e92]: Health, Dental, Vision Insurance
+                - listitem [ref=f8e93]: STD, LTD, Life Insurance
+                - listitem [ref=f8e94]: 401(k)
+                - listitem [ref=f8e95]: PTO and Paid Holidays
+            - button "Apply now" [ref=f8e98] [cursor=pointer]
+          - generic [ref=f8e101]:
+            - generic [ref=f8e102]:
+              - generic [ref=f8e103]:
+                - generic [ref=f8e104]: 
+                - paragraph [ref=f8e105]: Product Engineering
+              - generic [ref=f8e106]:
+                - generic [ref=f8e107]: 
+                - paragraph [ref=f8e108]: Remote (United States)
+            - generic [ref=f8e109]:
+              - generic [ref=f8e110]:
+                - paragraph [ref=f8e111]: "Share on:"
+                - generic [ref=f8e112]:
+                  - button "Share on LinkedIn" [ref=f8e113] [cursor=pointer]: 
+                  - button "Share on Facebook" [ref=f8e114] [cursor=pointer]: 
+                  - button "Share on Twitter/X" [ref=f8e115] [cursor=pointer]: 
+              - button "Apply now" [ref=f8e118] [cursor=pointer]
+    - generic [ref=f8e122]:
+      - generic [ref=f8e123]:
+        - link "Terms of service" [ref=f8e124] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/user
+        - link "Privacy" [ref=f8e125] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/privacy
+        - link "Cookies" [ref=f8e126] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/cookie-notice
+        - link "Powered by Rippling" [ref=f8e127] [cursor=pointer]:
+          - /url: https://www.rippling.com/recruiting
+      - generic [ref=f8e131] [cursor=pointer]:
+        - combobox "Search" [ref=f8e135]: United Kingdom (English)
+        - generic [ref=f8e136]: 
+  - alert [ref=f8e138]

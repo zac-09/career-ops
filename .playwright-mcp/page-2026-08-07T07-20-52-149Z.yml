@@ -1,0 +1,300 @@
+- generic [ref=f30e3]:
+  - generic [ref=f30e6]:
+    - link "Home Cal.com" [ref=f30e9] [cursor=pointer]:
+      - /url: ./
+    - generic [ref=f30e11]:
+      - paragraph [ref=f30e15] [cursor=pointer]: Solutions
+      - link [ref=f30e18] [cursor=pointer]:
+        - /url: ./enterprise
+        - paragraph [ref=f30e20]: Enterprise
+      - link [ref=f30e21] [cursor=pointer]:
+        - /url: ./ai
+        - paragraph [ref=f30e23]: Cal.ai
+      - paragraph [ref=f30e27] [cursor=pointer]: Developer
+      - paragraph [ref=f30e33] [cursor=pointer]: Resources
+      - link [ref=f30e36] [cursor=pointer]:
+        - /url: ./pricing
+        - paragraph [ref=f30e38]: Pricing
+    - generic [ref=f30e44]:
+      - paragraph [ref=f30e46]:
+        - link "Sign in" [ref=f30e47] [cursor=pointer]:
+          - /url: https://app.cal.com/auth/login?_gl=1*1d3xgrt*_gcl_au*MTY1ODY5NjUwMS4xNzQxOTczMzA5*_ga*MTA0ODE0ODU4LjE3NDE5NzMzMTA.*_ga_RX4HHQ613S*MTc0MTk3MzMwOS4xLjEuMTc0MTk3MzY2NC42MC4wLjk4NDg1NDg4
+      - link [ref=f30e49] [cursor=pointer]:
+        - /url: https://app.cal.com/signup
+        - paragraph [ref=f30e51]: Get started
+  - generic [ref=f30e70]:
+    - heading "Work with us and connect a billion people by 2031" [level=1] [ref=f30e74]
+    - generic [ref=f30e75]:
+      - link [ref=f30e77] [cursor=pointer]:
+        - /url: ./jobs/chief-of-staff
+        - generic [ref=f30e78]:
+          - paragraph [ref=f30e80]: Chief of Staff, GTM · NYC · Hybrid (NYC office) · $100k - $130k + equity + benefits
+          - paragraph [ref=f30e82]: We are looking for a true right-hand operator to support the Head of Go-to-Market. This is not simply a channel manager or people manager role. The primary mission is to free up the Head of GTM’s time with communication, taste, and system implementation so they can focus on the highest leverage work possible. You will handle the day-to-day operations that keep our growing GTM team moving fast and in the same direction.
+        - generic [ref=f30e83]:
+          - paragraph [ref=f30e90]: GTM
+          - paragraph [ref=f30e97]: Hybrid - NYC
+          - paragraph [ref=f30e104]: Full-time
+          - paragraph [ref=f30e112]: $100k - $130k + equity + benefits
+      - link [ref=f30e114] [cursor=pointer]:
+        - /url: ./jobs/copywriter
+        - generic [ref=f30e115]:
+          - paragraph [ref=f30e117]: Head Copywriter · Remote · $120k-150k + equity
+          - paragraph [ref=f30e119]: This is a growth role with direct impact on revenue. You will own how users move from signup to activation, from activation to paid, and from paid to expansion. Email is your primary lever, but you will influence the full lifecycle across onboarding, engagement, upgrade, and retention. If users don’t activate, convert, or stay, you will understand why and fix it.
+        - generic [ref=f30e120]:
+          - paragraph [ref=f30e127]: Growth
+          - paragraph [ref=f30e134]: Hybrid - NYC
+          - paragraph [ref=f30e141]: Full-time
+          - paragraph [ref=f30e149]: $120k-150k + equity
+      - link [ref=f30e151] [cursor=pointer]:
+        - /url: ./jobs/video-producer
+        - generic [ref=f30e152]:
+          - paragraph [ref=f30e154]: Video Producer · NYC · Hybrid (NYC)
+          - paragraph [ref=f30e156]: Video Producer based in NYC, shoot the real moments, and turn them into content that builds Cal.com's founder brand. Your mission is to be behind the camera for everything that matters and ship fast, scrappy, high-performing content across TikTok, Instagram, YouTube, and X.
+        - generic [ref=f30e157]:
+          - paragraph [ref=f30e164]: GTM
+          - paragraph [ref=f30e171]: NYC
+          - paragraph [ref=f30e178]: Full-time
+          - paragraph [ref=f30e186]: $65,000 - $85,000 + Equity
+  - generic [ref=f30e204]:
+    - generic [ref=f30e205]:
+      - link "Home Cal.com" [ref=f30e206] [cursor=pointer]:
+        - /url: ./
+      - paragraph [ref=f30e209]: Cal.com® and Cal® are a registered trademark by Cal.com, Inc. All rights reserved.
+      - generic [ref=f30e210]:
+        - link "Read more about Calcom ISO 27001" [ref=f30e211] [cursor=pointer]:
+          - /url: https://cal.com/security
+        - link "Read more about Calcom SOC 2" [ref=f30e213] [cursor=pointer]:
+          - /url: https://cal.com/security
+        - link "Read more about Calcom CCPA" [ref=f30e216] [cursor=pointer]:
+          - /url: https://cal.com/security
+        - link "Read more about Calcom GDPR" [ref=f30e218] [cursor=pointer]:
+          - /url: https://cal.com/security
+        - link "Read more about Calcom HIPAA" [ref=f30e220] [cursor=pointer]:
+          - /url: https://cal.com/security
+      - paragraph [ref=f30e223]: Our mission is to connect a billion people by 2031 through calendar scheduling.
+      - generic [ref=f30e224]:
+        - generic [ref=f30e226]:
+          - generic [ref=f30e227]: Select Language
+          - combobox "Select Language" [ref=f30e228]:
+            - option "English" [selected]
+            - option "German (Germany)"
+            - option "French (France)"
+            - option "Dutch (Netherlands)"
+            - option "Portuguese (Portugal)"
+            - option "Spanish (Spain)"
+            - option "Italian (Italy)"
+          - generic: English
+        - link [ref=f30e229] [cursor=pointer]:
+          - /url: https://status.cal.com/
+          - img "Logo" [ref=f30e231]
+      - generic [ref=f30e232]:
+        - paragraph [ref=f30e234]: Downloads
+        - generic [ref=f30e235]:
+          - link "iPhone" [ref=f30e237] [cursor=pointer]:
+            - /url: https://go.cal.com/iOS
+            - paragraph [ref=f30e241]: iPhone
+          - link "Android" [ref=f30e243] [cursor=pointer]:
+            - /url: https://go.cal.com/android
+            - paragraph [ref=f30e247]: Android
+          - link "Chrome" [ref=f30e249] [cursor=pointer]:
+            - /url: https://go.cal.com/chrome
+            - paragraph [ref=f30e253]: Chrome
+          - link "Safari" [ref=f30e255] [cursor=pointer]:
+            - /url: https://go.cal.com/safari
+            - paragraph [ref=f30e259]: Safari
+          - link "Edge" [ref=f30e261] [cursor=pointer]:
+            - /url: https://go.cal.com/edge
+            - paragraph [ref=f30e265]: Edge
+          - link "Firefox" [ref=f30e267] [cursor=pointer]:
+            - /url: https://go.cal.com/firefox
+            - paragraph [ref=f30e271]: Firefox
+          - link "MacOS" [ref=f30e273] [cursor=pointer]:
+            - /url: https://cal.com/download
+            - paragraph [ref=f30e277]: MacOS
+          - link "Windows" [ref=f30e279] [cursor=pointer]:
+            - /url: https://cal.com/download
+            - paragraph [ref=f30e283]: Windows
+          - link "Linux" [ref=f30e285] [cursor=pointer]:
+            - /url: https://cal.com/download
+            - paragraph [ref=f30e289]: Linux
+      - generic [ref=f30e290]:
+        - link [ref=f30e291] [cursor=pointer]:
+          - /url: https://www.g2.com/products/cal-com/reviews
+        - link [ref=f30e293] [cursor=pointer]:
+          - /url: https://trustpilot.com/review/cal.com
+      - paragraph [ref=f30e296]:
+        - text: Need Help?
+        - link "support@cal.com" [ref=f30e297] [cursor=pointer]:
+          - /url: mailto:support@cal.com
+        - text: or visit
+        - link "cal.com/help" [ref=f30e298] [cursor=pointer]:
+          - /url: https://cal.com/help
+        - text: .
+    - generic [ref=f30e299]:
+      - generic [ref=f30e300]:
+        - paragraph [ref=f30e302]: Solutions
+        - paragraph [ref=f30e304]:
+          - link "iOS/Android App" [ref=f30e305] [cursor=pointer]:
+            - /url: ./app
+        - paragraph [ref=f30e307]:
+          - link "Self-hosted" [ref=f30e308] [cursor=pointer]:
+            - /url: https://github.com/calcom/cal.com
+        - paragraph [ref=f30e310]:
+          - link "Pricing" [ref=f30e311] [cursor=pointer]:
+            - /url: ./pricing
+        - paragraph [ref=f30e313]:
+          - link "Docs" [ref=f30e314] [cursor=pointer]:
+            - /url: https://cal.com/docs
+        - paragraph [ref=f30e316]:
+          - link "Cal.ai - AI Phone Agent" [ref=f30e317] [cursor=pointer]:
+            - /url: https://cal.com/ai
+        - paragraph [ref=f30e319]:
+          - link "Enterprise" [ref=f30e320] [cursor=pointer]:
+            - /url: ./enterprise
+        - paragraph [ref=f30e322]:
+          - link "Integrate Cal.com" [ref=f30e323] [cursor=pointer]:
+            - /url: ./integrate
+        - paragraph [ref=f30e325]:
+          - link "Routing" [ref=f30e326] [cursor=pointer]:
+            - /url: ./routing
+        - paragraph [ref=f30e328]:
+          - link "Cal.com Atoms" [ref=f30e329] [cursor=pointer]:
+            - /url: https://cal.com/atoms
+        - paragraph [ref=f30e331]:
+          - link "Desktop App" [ref=f30e332] [cursor=pointer]:
+            - /url: https://cal.com/download
+        - paragraph [ref=f30e334]:
+          - link "FAQ" [ref=f30e335] [cursor=pointer]:
+            - /url: ./faq
+        - paragraph [ref=f30e337]:
+          - link "Enterprise API" [ref=f30e338] [cursor=pointer]:
+            - /url: https://cal.com/docs/enterprise-features/api
+        - paragraph [ref=f30e340]:
+          - link "Github" [ref=f30e341] [cursor=pointer]:
+            - /url: https://github.com/calcom/cal.com
+        - paragraph [ref=f30e343]:
+          - link "Docker" [ref=f30e344] [cursor=pointer]:
+            - /url: https://cal.com/docs/introduction/quick-start/self-hosting/docker
+      - generic [ref=f30e345]:
+        - paragraph [ref=f30e347]: Use Cases
+        - paragraph [ref=f30e349]:
+          - link "Sales" [ref=f30e350] [cursor=pointer]:
+            - /url: ./scheduling/sales-teams
+        - paragraph [ref=f30e352]:
+          - link "Marketing" [ref=f30e353] [cursor=pointer]:
+            - /url: ./scheduling/marketing
+        - paragraph [ref=f30e355]:
+          - link "Talent Acquisition" [ref=f30e356] [cursor=pointer]:
+            - /url: ./scheduling/talent-acquisition-teams
+        - paragraph [ref=f30e358]:
+          - link "Customer Support" [ref=f30e359] [cursor=pointer]:
+            - /url: ./scheduling/customer-support
+        - paragraph [ref=f30e361]:
+          - link "Higher Education" [ref=f30e362] [cursor=pointer]:
+            - /url: ./scheduling/higher-education
+        - paragraph [ref=f30e364]:
+          - link "Telehealth" [ref=f30e365] [cursor=pointer]:
+            - /url: ./scheduling/telehealth
+        - paragraph [ref=f30e367]:
+          - link "Professional Services" [ref=f30e368] [cursor=pointer]:
+            - /url: ./scheduling/professional-services
+        - paragraph [ref=f30e370]:
+          - link "Hiring Marketplace" [ref=f30e371] [cursor=pointer]:
+            - /url: ./scheduling/hiring-marketplaces
+        - paragraph [ref=f30e373]:
+          - link "Human Resources" [ref=f30e374] [cursor=pointer]:
+            - /url: ./scheduling/people-operations
+        - paragraph [ref=f30e376]:
+          - link "Tutoring" [ref=f30e377] [cursor=pointer]:
+            - /url: ./scheduling/higher-education
+        - paragraph [ref=f30e379]:
+          - link "C-suite" [ref=f30e380] [cursor=pointer]:
+            - /url: ./scheduling/c-suite
+        - paragraph [ref=f30e382]:
+          - link "Law" [ref=f30e383] [cursor=pointer]:
+            - /url: ./scheduling/law
+      - generic [ref=f30e384]:
+        - paragraph [ref=f30e386]: Resources
+        - paragraph [ref=f30e388]:
+          - link "Affiliate Program" [ref=f30e389] [cursor=pointer]:
+            - /url: ./affiliate-program
+        - paragraph [ref=f30e391]:
+          - link "Help Docs" [ref=f30e392] [cursor=pointer]:
+            - /url: https://cal.com/help
+        - paragraph [ref=f30e394]:
+          - link "Blog" [ref=f30e395] [cursor=pointer]:
+            - /url: ./blog/category/all-categories
+        - paragraph [ref=f30e397]:
+          - link "Cal Fonts" [ref=f30e398] [cursor=pointer]:
+            - /url: ./font
+        - paragraph [ref=f30e400]:
+          - link "Teams" [ref=f30e401] [cursor=pointer]:
+            - /url: ./teams
+        - paragraph [ref=f30e403]:
+          - link "Embed" [ref=f30e404] [cursor=pointer]:
+            - /url: ./embed
+        - paragraph [ref=f30e406]:
+          - link "Recurring events" [ref=f30e407] [cursor=pointer]:
+            - /url: ./features/recurring-events
+        - paragraph [ref=f30e409]:
+          - link "Developers" [ref=f30e410] [cursor=pointer]:
+            - /url: https://cal.com/docs
+        - paragraph [ref=f30e412]:
+          - link "OOO" [ref=f30e413] [cursor=pointer]:
+            - /url: ./features/ooo
+        - paragraph [ref=f30e415]:
+          - link "Workflows" [ref=f30e416] [cursor=pointer]:
+            - /url: ./features/workflows
+        - paragraph [ref=f30e418]:
+          - link "Instant Meetings" [ref=f30e419] [cursor=pointer]:
+            - /url: ./features/instant-meetings
+        - paragraph [ref=f30e421]:
+          - link "App Store" [ref=f30e422] [cursor=pointer]:
+            - /url: ./features/app-store
+        - paragraph [ref=f30e424]:
+          - link "Requires confirmation" [ref=f30e425] [cursor=pointer]:
+            - /url: ./features/requires-confirmation
+        - paragraph [ref=f30e427]:
+          - link "Payments" [ref=f30e428] [cursor=pointer]:
+            - /url: ./features/payments
+        - paragraph [ref=f30e430]:
+          - link "Video Conferencing" [ref=f30e431] [cursor=pointer]:
+            - /url: ./features/cal-video
+        - paragraph [ref=f30e433]:
+          - link "Cal.com vs Calendly" [ref=f30e434] [cursor=pointer]:
+            - /url: ./calcom-vs-calendly
+      - generic [ref=f30e435]:
+        - paragraph [ref=f30e437]: Company
+        - paragraph [ref=f30e439]:
+          - link "Jobs" [ref=f30e440] [cursor=pointer]:
+            - /url: https://cal.com/jobs
+        - paragraph [ref=f30e442]:
+          - link "About" [ref=f30e443] [cursor=pointer]:
+            - /url: https://cal.com/about
+        - paragraph [ref=f30e445]:
+          - link "Open Startup" [ref=f30e446] [cursor=pointer]:
+            - /url: https://cal.com/open
+        - paragraph [ref=f30e448]:
+          - link "Support" [ref=f30e449] [cursor=pointer]:
+            - /url: https://app.cal.com/support?_gl=1*1tq2plh*_gcl_au*OTk1OTIzMTMyLjE3NDA3NDM3ODI.*_ga*MTU5NzExNTE5My4xNzQwNzQzNzgy*_ga_RX4HHQ613S*MTc0MTc5Mjk5MC40Ni4xLjE3NDE3OTUxNjAuNjAuMC4xNzAxNzQ1ODY0
+        - paragraph [ref=f30e451]:
+          - link "Privacy" [ref=f30e452] [cursor=pointer]:
+            - /url: ./privacy
+        - paragraph [ref=f30e454]:
+          - link "Terms" [ref=f30e455] [cursor=pointer]:
+            - /url: ./terms
+        - paragraph [ref=f30e457]:
+          - link "License" [ref=f30e458] [cursor=pointer]:
+            - /url: https://github.com/calcom/cal.com/blob/main/LICENSE
+        - paragraph [ref=f30e460]:
+          - link "Security" [ref=f30e461] [cursor=pointer]:
+            - /url: ./security
+        - paragraph [ref=f30e463]:
+          - link "Changelog" [ref=f30e464] [cursor=pointer]:
+            - /url: https://cal.com/subscribe
+        - paragraph [ref=f30e466]:
+          - link "Get a demo" [ref=f30e467] [cursor=pointer]:
+            - /url: ./talk-to-sales
+        - paragraph [ref=f30e469]:
+          - link "Talk to sales" [ref=f30e470] [cursor=pointer]:
+            - /url: ./talk-to-sales

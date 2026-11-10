@@ -1,0 +1,251 @@
+- generic [ref=e2]:
+  - link "Skip to content" [ref=e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e5]:
+    - generic [ref=e10]:
+      - link "Hostaway logo Homepage" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - img "Hostaway logo" [ref=e13]
+        - generic [ref=e14]: Homepage
+      - generic:
+        - navigation:
+          - list
+    - main [ref=e15]:
+      - generic [ref=e25]:
+        - heading "Senior Backend Engineer, Communications - 100% Remote - EMEA" [level=1] [ref=e26]
+        - list [ref=e27]:
+          - listitem [ref=e28]:
+            - generic [ref=e29]:
+              - generic:
+                - img
+            - text: Remote
+          - listitem [ref=e30]:
+            - generic [ref=e31]:
+              - generic:
+                - img
+            - generic [ref=e32]:
+              - list [ref=e33]:
+                - listitem [ref=e34]:
+                  - text: Barcelona
+                  - generic [ref=e35]: ","
+                  - text: Catalunya [Cataluña]
+                  - generic [ref=e36]: ","
+                  - text: Spain
+              - generic [ref=e37]:
+                - generic [ref=e38]: •
+                - generic [ref=e40]: +16 more
+          - listitem [ref=e41]:
+            - generic [ref=e42]:
+              - generic:
+                - img
+            - text: Engineering
+        - generic:
+          - generic:
+            - paragraph
+            - paragraph
+      - generic [ref=e51]:
+        - tablist [ref=e54]:
+          - tab "Job details" [selected] [ref=e55] [cursor=pointer]
+          - tab "Apply" [ref=e56] [cursor=pointer]
+        - tabpanel "Job details" [ref=e58]:
+          - generic [ref=e60]:
+            - generic [ref=e61]:
+              - generic [ref=e63]:
+                - heading "Job description" [level=2] [ref=e64]
+                - generic [ref=e66]:
+                  - paragraph [ref=e67]:
+                    - strong [ref=e68]:
+                      - text: "NOTE: This is a FULLY remote role, but the candidate must be within EMEA to collaborate with their team, peers, and internal customers. You do not have to be in the specific city shown in this listing, but"
+                      - generic [ref=e69]: please only apply if you are physically based within EMEA.
+                  - paragraph [ref=e70]
+                  - paragraph [ref=e71]: Trusted by 20,000+ property managers worldwide, Hostaway is an industry leading, AI-powered vacation rental management platform designed for professional short-term rental operators. Hostaway brings everything together for greater efficiency and faster growth.
+                  - paragraph [ref=e72]
+                  - paragraph [ref=e73]:
+                    - text: Profitable, high-growth, and the first short-term rental Property Management System unicorn 🦄. Join us at our most exciting stage yet! Learn more about our recent valuation and story
+                    - link "here" [ref=e75] [cursor=pointer]:
+                      - /url: https://www.hostaway.com/blog/short-term-rental-software-unicorn/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+                    - text: .
+                  - paragraph [ref=e76]
+                  - paragraph [ref=e77]
+                  - heading "About the role:" [level=3] [ref=e78]
+                  - paragraph [ref=e79]: Hostaway is seeking a highly motivated Senior Backend Engineer to join our Communications team. This team is responsible for the Unified Inbox module which streamlines the Guest <> Host communication (email, sms, WhatsApp, OTA messages, etc.) by supporting the Property Managers with time saving AI features, automations, templates and scheduling.
+                  - paragraph [ref=e80]
+                  - paragraph [ref=e81]: The Communications team is responsible for a critical part of the system and handles huge volumes of data and requests, and interacts with a variety of complex APIs - if this is something you have experience with and you are excited about you’ll be a great fit!
+                  - paragraph [ref=e82]
+                  - paragraph [ref=e83]: Senior Backend Engineers at Hostaway play a crucial role in designing,building, supporting and evolving the robust, scalable, and secure backend systems that power user-facing features. You will work closely with your cross-functional team to fully own and deliver solutions that address real customer needs, ensuring our platform remains reliable and extensible as we grow.
+                - heading "Job requirements" [level=2] [ref=e84]
+                - generic [ref=e86]:
+                  - list [ref=e87]:
+                    - listitem [ref=e88]:
+                      - paragraph [ref=e89]: • 6+ years of experience in SaaS software development (production live product)
+                    - listitem [ref=e90]:
+                      - paragraph [ref=e91]: • Strong-level proficiency in PHP and/or Golang, with a strong willingness to dive into both.
+                    - listitem [ref=e92]:
+                      - paragraph [ref=e93]: • Experience in designing and developing RESTful web APIs
+                    - listitem [ref=e94]:
+                      - paragraph [ref=e95]: • Familiarity with transitioning event-driven service-oriented architectures by applying Domain Driven Design (DDD) principles
+                    - listitem [ref=e96]:
+                      - paragraph [ref=e97]: • Experience in writing Unit Tests and Integration Tests
+                    - listitem [ref=e98]:
+                      - paragraph [ref=e99]: • Proficiency in monitoring and supporting production software
+                    - listitem [ref=e100]:
+                      - paragraph [ref=e101]: • Experience working in a Cloud environment (AWS is a plus)
+                    - listitem [ref=e102]:
+                      - paragraph [ref=e103]: • Experience with message queues (e.g., AWS SQS) is a plus
+                    - listitem [ref=e104]:
+                      - paragraph [ref=e105]: • English language level C1
+                  - paragraph [ref=e106]
+                  - heading "What we offer:" [level=3] [ref=e107]:
+                    - strong [ref=e108]: "What we offer:"
+                  - list [ref=e109]:
+                    - listitem [ref=e110]:
+                      - paragraph [ref=e111]:
+                        - text: •
+                        - strong [ref=e112]: "Competitive Compensation:"
+                        - text: We offer competitive pay based on market rates in the country of the applicant.
+                    - listitem [ref=e113]:
+                      - paragraph [ref=e114]:
+                        - text: •
+                        - strong [ref=e115]: "100% Remote:"
+                        - text: Enjoy the freedom to work from anywhere within your country of residence—be it a co-working space, your home office, or even your dining room table. The choice is yours. Just don’t ask to work in our office (we don’t have one).
+                    - listitem [ref=e116]:
+                      - paragraph [ref=e117]:
+                        - text: •
+                        - strong [ref=e118]: "Equity:"
+                        - text: Every role in our company comes with valuable stock options in a fast-growing and profitable company. This ensures we all share in the company’s success.
+                    - listitem [ref=e119]:
+                      - paragraph [ref=e120]:
+                        - text: •
+                        - strong [ref=e121]: "Values-Driven Leadership:"
+                        - text: Our Core Values are not just words we’ve written to make us feel good. We leverage them daily when making strategic and tactical decisions.
+                    - listitem [ref=e122]:
+                      - paragraph [ref=e123]:
+                        - text: •
+                        - strong [ref=e124]: "Professional Growth:"
+                        - text: Our rapid growth offers unparalleled learning and development opportunities, along with a multitude of career advancement opportunities.
+                    - listitem [ref=e125]:
+                      - paragraph [ref=e126]:
+                        - text: •
+                        - strong [ref=e127]: "Annual Paid Leave:"
+                        - text: The specific amounts vary by country and are aligned with country and/or contract-specific norms.
+                    - listitem [ref=e128]:
+                      - paragraph [ref=e129]:
+                        - text: •
+                        - strong [ref=e130]: "Geographic Specific Benefits:"
+                        - text: As an international employer, we offer different country-specific benefits such as Health Insurance and Pensions in countries where these perks are customary. The specifics depend on the country of the applicant.
+                    - listitem [ref=e131]:
+                      - paragraph [ref=e132]:
+                        - text: •
+                        - strong [ref=e133]: "Dynamic Team Culture:"
+                        - text: As a global company with team members in over 40 countries, our diverse and international culture fuels our innovation and creativity, providing a key pillar to our success (and making it a lot of fun to work here).
+                      - paragraph [ref=e134]
+                  - paragraph [ref=e135]: Thank you for your interest. If you apply for this role, you will receive an email from our Talent Acquisition team after your application has been reviewed alongside the qualifications for this role and the qualifications of others who have applied.
+                  - paragraph [ref=e136]
+                  - paragraph [ref=e137]
+              - generic [ref=e139]:
+                - button "Apply" [ref=e140] [cursor=pointer]
+                - generic [ref=e141]:
+                  - paragraph [ref=e142]: or
+                  - button "Apply with Indeed" [ref=e150] [cursor=pointer]
+                - button "Share job" [ref=e152] [cursor=pointer]
+            - generic [ref=e154]:
+              - generic [ref=e155]:
+                - generic [ref=e156]:
+                  - generic:
+                    - img
+                - text: Remote
+              - generic [ref=e157]:
+                - generic [ref=e158]:
+                  - generic:
+                    - img
+                - generic [ref=e159]:
+                  - list [ref=e160]:
+                    - listitem [ref=e161]:
+                      - text: Barcelona
+                      - generic [ref=e162]: ","
+                      - text: Catalunya [Cataluña]
+                      - generic [ref=e163]: ","
+                      - text: Spain
+                  - generic [ref=e164]:
+                    - generic [ref=e165]: •
+                    - generic [ref=e167]: +16 more
+              - generic [ref=e168]:
+                - generic [ref=e169]:
+                  - generic:
+                    - img
+                - text: Engineering
+      - list [ref=e184]:
+        - listitem [ref=e185]:
+          - paragraph [ref=e186]:
+            - link "Our website" [ref=e187] [cursor=pointer]:
+              - /url: https://www.hostaway.com/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+              - generic [ref=e189]: Our website
+        - listitem [ref=e190]:
+          - paragraph [ref=e191]:
+            - link:
+              - /url: https://www.hostaway.com/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+            - link "Our two-minute overview" [ref=e192] [cursor=pointer]:
+              - /url: https://www.youtube.com/watch?v=shCoQeHH9WU
+              - generic [ref=e194]: Our two-minute overview
+        - listitem [ref=e195]:
+          - paragraph [ref=e196]:
+            - link "Our product video" [ref=e197] [cursor=pointer]:
+              - /url: https://www.youtube.com/watch?v=0hgdriSAKaY
+              - generic [ref=e199]: Our product video
+        - listitem [ref=e200]:
+          - paragraph [ref=e201]:
+            - link "Our blog" [ref=e202] [cursor=pointer]:
+              - /url: https://www.hostaway.com/blog/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+              - generic [ref=e204]: Our blog
+        - listitem [ref=e205]:
+          - paragraph [ref=e206]:
+            - link "Our customer case studies" [ref=e207] [cursor=pointer]:
+              - /url: https://www.hostaway.com/case-studies/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+              - generic [ref=e209]: Our customer case studies
+        - listitem [ref=e210]:
+          - paragraph [ref=e211]:
+            - link "Our marketplace" [ref=e212] [cursor=pointer]:
+              - /url: https://www.hostaway.com/marketplace/
+              - generic [ref=e214]: Our marketplace
+        - listitem [ref=e215]:
+          - paragraph [ref=e216]:
+            - link "Our candidate privacy policy" [ref=e217] [cursor=pointer]:
+              - /url: /privacypolicy
+              - generic [ref=e219]: Our candidate privacy policy
+        - listitem [ref=e220]:
+          - paragraph [ref=e221]:
+            - link "Our advice on recruitment scams" [ref=e222] [cursor=pointer]:
+              - /url: /recruitment-security
+              - generic [ref=e224]: Our advice on recruitment scams
+        - listitem [ref=e225]:
+          - paragraph [ref=e226]:
+            - link "Our guide to AI use in the interview process" [ref=e227] [cursor=pointer]:
+              - /url: /recruitment-security-qg4p4
+              - generic [ref=e229]: Our guide to AI use in the interview process
+      - heading "You can learn more about our team and culture by visiting our profile on Glassdoor" [level=3] [ref=e249]:
+        - generic [ref=e251]: You can learn more about our team and culture by visiting our profile on
+        - link "Glassdoor" [ref=e252] [cursor=pointer]:
+          - /url: https://www.glassdoor.com/Overview/Working-at-Hostaway-EI_IE1358830.11,19.htm
+          - generic [ref=e254]: Glassdoor
+    - generic [ref=e267]:
+      - link "Hostaway logo Homepage" [ref=e271] [cursor=pointer]:
+        - /url: /
+        - img "Hostaway logo" [ref=e272]
+        - generic [ref=e273]: Homepage
+      - generic [ref=e276]:
+        - link "linkedin" [ref=e277] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/hostaway/
+          - generic:
+            - img
+        - link "facebook" [ref=e278] [cursor=pointer]:
+          - /url: https://www.facebook.com/Hostawaycom
+          - generic:
+            - img
+        - link "instagram" [ref=e279] [cursor=pointer]:
+          - /url: https://www.instagram.com/hostawaycom/
+          - generic:
+            - img
+        - link "youtube" [ref=e280] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UC9QeuvQX1EurqelmrXkgaGw
+          - generic:
+            - img

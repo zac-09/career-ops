@@ -1,0 +1,451 @@
+- generic [ref=f24e2]:
+  - navigation [ref=f24e3]:
+    - generic [ref=f24e4]:
+      - link [ref=f24e5] [cursor=pointer]:
+        - /url: /
+      - list [ref=f24e27]:
+        - listitem [ref=f24e28] [cursor=pointer]:
+          - link "For LPs":
+            - /url: "#"
+        - listitem [ref=f24e29] [cursor=pointer]:
+          - link "For GPs":
+            - /url: "#"
+        - listitem [ref=f24e30] [cursor=pointer]:
+          - link "Resources":
+            - /url: "#"
+        - listitem [ref=f24e31] [cursor=pointer]:
+          - link "Company":
+            - /url: "#"
+      - generic [ref=f24e32]:
+        - link "Request a Demo" [ref=f24e33] [cursor=pointer]:
+          - /url: "#get-in-touch"
+        - link "Log In" [ref=f24e34] [cursor=pointer]:
+          - /url: https://auth.chronograph.pe/login
+  - iframe [active] [ref=f24e39]:
+    - generic [active] [ref=f26e1]:
+      - main [ref=f26e2]:
+        - generic [ref=f26e3]:
+          - generic [ref=f26e4]:
+            - link "Back to jobs" [ref=f26e5] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/jobs/
+            - generic [ref=f26e8]:
+              - generic [ref=f26e9]:
+                - heading "Senior Software Engineer" [level=1] [ref=f26e10]
+                - generic [ref=f26e11]: Remote
+              - button "Apply" [ref=f26e15] [cursor=pointer]
+            - generic [ref=f26e17]:
+              - paragraph [ref=f26e18]:
+                - strong [ref=f26e19]: Overview
+              - paragraph [ref=f26e20]: Chronograph was founded to bring next-generation technology to private capital markets. Through our suite of cloud-based analytics and data management solutions, we help many of the world’s largest and most sophisticated venture capital, private equity, and credit funds understand their investment performance in unprecedented detail, with over 258,000 private companies and 15,000 private capital funds monitored via our solution suite.
+              - paragraph [ref=f26e21]: At Chronograph, we get to go “behind the scenes” and work directly with investors who are driving some of the most impactful changes across high growth start-ups, global infrastructure and renewable energy, growth equity, and all other private capital strategies. The firm is backed by The Carlyle Group, Nasdaq Inc., and Summit Partners, and has seen continuous rapid growth since its founding in 2016.
+              - paragraph [ref=f26e22]:
+                - strong [ref=f26e23]: The Opportunity
+              - paragraph [ref=f26e24]: As a key member of our team, you will lead and deliver projects from concept to production; driving core technical direction while working closely with key stakeholders. Our engineering teams collaborate daily with product managers and designers to build exceptional software. An ideal candidate for this role will have both sharp technical skills and a keen product sensibility.
+              - paragraph [ref=f26e25]: "You’ll join a highly-driven team of engineers, contributing both as a technical leader and a hands-on full-stack developer. Our platform handles critical financial data, offering extensive workflow and data analysis tools along with an innovative data ingestion platform. This is an opportunity to make a real-world impact: you will tackle challenging technical problems and contribute to a platform relied upon by leaders in the private equity space."
+              - paragraph [ref=f26e26]: This is an exceptional opportunity for a driven, detail-oriented top performer to become directly engaged with several of the world’s most sophisticated private equity investors and produce an immediate impact within a globally-focused financial technology firm.
+              - paragraph [ref=f26e27]:
+                - strong [ref=f26e28]: "As a Senior Software Engineer at Chronograph, you will:"
+              - list [ref=f26e29]:
+                - listitem [ref=f26e30]: "Own and lead technical projects from product ideation to successful execution, including: technical decisions, architectural designs, data structures, and development approach"
+                - listitem [ref=f26e31]: Collaborate with engineering, product, and design to architect high-performance and user-centric features to drive direct client impact among leaders in the private equity space
+                - listitem [ref=f26e32]: Identify new technologies and best practices to help your team and the department continuously improve
+                - listitem [ref=f26e33]: Lead cross-team initiatives to improve Chronograph’s overall developer experience and operating processes
+                - listitem [ref=f26e34]: Mentor and provide guidance to junior engineers, fostering a culture of continuous learning and improvement
+              - paragraph [ref=f26e35]:
+                - strong [ref=f26e36]: "You will be successful in this role if you have:"
+              - list [ref=f26e37]:
+                - listitem [ref=f26e38]: At least 7 years of professional development experience
+                - listitem [ref=f26e39]: Expertise in Typescript, Node, PostgreSQL, and GraphQL
+                - listitem [ref=f26e40]: Proficiency in database schema design and writing performant SQL queries
+                - listitem [ref=f26e41]: Experience with frontend frameworks and patterns such as React and React Query
+                - listitem [ref=f26e42]: Excellent leadership and communication skills, and in particular the ability to distill complex technical concepts for diverse audiences
+                - listitem [ref=f26e43]: A creative mindset that bridges technical constraints and product needs
+              - list [ref=f26e44]:
+                - listitem [ref=f26e45]: "Nice-to-haves:"
+                - list [ref=f26e46]:
+                  - listitem [ref=f26e47]: Experience implementing and extending modern JavaScript libraries such as SpreadJS, HyperFormula, FinnFlo-js and AG Grid
+                  - listitem [ref=f26e48]: Background in building computation-heavy services where accuracy and performance are imperative
+                  - listitem [ref=f26e49]: Curiosity about emerging tools that improve developer velocity, including AI-assisted coding
+              - paragraph [ref=f26e50]:
+                - text: Even if you do not meet all criteria, we would still encourage you to apply or get in touch! Chronograph offers an entrepreneurial environment where you will be able to proactively identify opportunities to develop and strengthen our team.
+                - strong [ref=f26e51]: Why Join Chronograph?
+              - paragraph [ref=f26e52]: We value creativity, open communication, and cutting edge technology – and we try to have fun along the way. We want you to be happy here for the long-term and will work with you to ensure you’re achieving your career goals.
+              - paragraph [ref=f26e53]: "We offer:"
+              - list [ref=f26e54]:
+                - listitem [ref=f26e55]: Competitive salary
+                - listitem [ref=f26e56]: Flexible work arrangements (including remote / in person / hybrid)
+                - listitem [ref=f26e57]: 401(k)
+                - listitem [ref=f26e58]: Unlimited and flexible vacation
+                - listitem [ref=f26e59]: Generous health benefits
+                - listitem [ref=f26e60]: Company-wide team events at our Brooklyn, NY headquarters three times a year for all employees
+                - listitem [ref=f26e61]: Fully-paid parental leave
+                - listitem [ref=f26e62]: ...and more!
+              - paragraph [ref=f26e63]: Chronograph is committed to promoting a diverse and inclusive culture, and we welcome applicants from all backgrounds. If you’re a team player who wants to have an outsized impact in a dynamic and diverse environment, we’d love to hear from you!
+            - generic [ref=f26e67]:
+              - paragraph [ref=f26e68]: Create a Job Alert
+              - paragraph [ref=f26e69]: Interested in building your career at Chronograph? Get future opportunities sent straight to your email.
+              - link "Create alert" [ref=f26e325] [cursor=pointer]:
+                - /url: https://my.greenhouse.io/users/sign_in?job_board=chronograph&source=job_alert_post
+          - separator [ref=f26e326]
+          - generic [ref=f26e71]:
+            - generic [ref=f26e72]:
+              - generic [ref=f26e73]:
+                - heading "Apply for this job" [level=2] [ref=f26e75]
+                - generic [ref=f26e76]:
+                  - paragraph [ref=f26e78]: "*"
+                  - paragraph [ref=f26e79]: indicates a required field
+              - button "Quick Apply with MyGreenhouse" [ref=f26e82] [cursor=pointer]
+            - generic [ref=f26e83]:
+              - generic [ref=f26e84]:
+                - generic [ref=f26e87]:
+                  - generic [ref=f26e88]: First Name*
+                  - textbox "First Name" [ref=f26e89]: Isaac
+                - generic [ref=f26e92]:
+                  - generic [ref=f26e93]: Last Name*
+                  - textbox "Last Name" [ref=f26e94]: Mubiru
+                - generic [ref=f26e97]:
+                  - generic [ref=f26e98]: Email*
+                  - textbox "Email" [ref=f26e99]: isaacmubiru99@gmail.com
+                - group "Phone" [ref=f26e101]:
+                  - generic [ref=f26e105]:
+                    - generic [ref=f26e106]: Country*
+                    - generic [ref=f26e107]:
+                      - log [ref=f26e109]
+                      - generic [ref=f26e111]:
+                        - generic [ref=f26e112]:
+                          - generic [ref=f26e345]: "+256"
+                          - combobox "Country" [ref=f26e114]
+                        - button "Toggle flyout" [ref=f26e116] [cursor=pointer]
+                  - generic [ref=f26e121]:
+                    - generic [ref=f26e122]: Phone*
+                    - textbox "Phone" [ref=f26e123]: "702360601"
+                - generic [ref=f26e124]:
+                  - generic [ref=f26e126]:
+                    - generic [ref=f26e127]: Location (City)*
+                    - generic [ref=f26e128]:
+                      - log [ref=f26e130]
+                      - generic [ref=f26e132]:
+                        - generic [ref=f26e133]:
+                          - generic [ref=f26e360]: Kampala, Uganda
+                          - combobox "Location (City)" [ref=f26e135]
+                        - button "Clear selections" [ref=f26e363] [cursor=pointer]
+                  - button "Locate me" [ref=f26e136] [cursor=pointer]
+                - group "Resume/CV*" [ref=f26e138]:
+                  - generic [ref=f26e396]:
+                    - paragraph [ref=f26e401]: cv-isaac-chronograph-139-2026-07-02.pdf
+                    - button "Remove file" [ref=f26e402] [cursor=pointer]
+                - group "Cover Letter" [ref=f26e151]:
+                  - generic [ref=f26e154]:
+                    - generic [ref=f26e156]:
+                      - button "Attach" [ref=f26e157] [cursor=pointer]
+                      - generic [ref=f26e330]: Attach
+                      - button "Attach" [ref=f26e158]
+                    - generic [ref=f26e160]:
+                      - button "Enter manually" [ref=f26e161] [cursor=pointer]
+                      - generic [ref=f26e331]: Enter manually
+                    - paragraph [ref=f26e162]: "Accepted file types: pdf, doc, docx, txt, rtf"
+              - generic [ref=f26e163]:
+                - generic [ref=f26e164]:
+                  - separator [ref=f26e165]
+                  - paragraph [ref=f26e167]: Education
+                  - generic [ref=f26e169]:
+                    - generic [ref=f26e332]: School
+                    - generic [ref=f26e170]:
+                      - log [ref=f26e172]
+                      - generic [ref=f26e174]:
+                        - generic [ref=f26e175]:
+                          - generic [ref=f26e176]: Select...
+                          - combobox "School" [ref=f26e178]
+                        - button "Toggle flyout" [ref=f26e180] [cursor=pointer]
+                  - generic [ref=f26e184]:
+                    - generic [ref=f26e333]: Degree
+                    - generic [ref=f26e185]:
+                      - log [ref=f26e187]
+                      - generic [ref=f26e189]:
+                        - generic [ref=f26e190]:
+                          - generic [ref=f26e191]: Select...
+                          - combobox "Degree" [ref=f26e193]
+                        - button "Toggle flyout" [ref=f26e195] [cursor=pointer]
+                  - generic [ref=f26e199]:
+                    - generic [ref=f26e334]: Discipline
+                    - generic [ref=f26e200]:
+                      - log [ref=f26e202]
+                      - generic [ref=f26e204]:
+                        - generic [ref=f26e205]:
+                          - generic [ref=f26e206]: Select...
+                          - combobox "Discipline" [ref=f26e208]
+                        - button "Toggle flyout" [ref=f26e210] [cursor=pointer]
+                - button "Add another" [ref=f26e213] [cursor=pointer]
+              - generic [ref=f26e214]:
+                - separator [ref=f26e215]
+                - generic [ref=f26e218]:
+                  - generic [ref=f26e219]: Are you legally authorized to work in the United States? *
+                  - generic [ref=f26e220]:
+                    - log [ref=f26e222]
+                    - generic [ref=f26e224]:
+                      - generic [ref=f26e225]:
+                        - generic [ref=f26e370]: "No"
+                        - combobox "Are you legally authorized to work in the United States?" [ref=f26e228]
+                      - generic [ref=f26e229]:
+                        - button "Clear selections" [ref=f26e372] [cursor=pointer]
+                        - button "Toggle flyout" [ref=f26e230] [cursor=pointer]
+                - generic [ref=f26e235]:
+                  - generic [ref=f26e236]: Would you require sponsorship now or in the future?*
+                  - generic [ref=f26e237]:
+                    - log [ref=f26e239]
+                    - generic [ref=f26e241]:
+                      - generic [ref=f26e242]:
+                        - generic [ref=f26e379]: "No"
+                        - combobox "Would you require sponsorship now or in the future?" [ref=f26e245]
+                      - generic [ref=f26e246]:
+                        - button "Clear selections" [ref=f26e381] [cursor=pointer]
+                        - button "Toggle flyout" [ref=f26e247] [cursor=pointer]
+                - generic [ref=f26e252]:
+                  - generic [ref=f26e253]: Please share your LinkedIn profile.*
+                  - textbox "Please share your LinkedIn profile." [ref=f26e254]: https://www.linkedin.com/in/isaac-mubiru-3bb728174
+                - generic [ref=f26e257]:
+                  - generic [ref=f26e258]: Please confirm the city and state in which you reside.*
+                  - textbox "Please confirm the city and state in which you reside." [ref=f26e259]: Kampala, Uganda
+                - group "How many years of experience do you have working with Typescript?" [ref=f26e261]:
+                  - generic [ref=f26e263]:
+                    - checkbox "1-3 years" [ref=f26e265]
+                    - generic [ref=f26e335]: 1-3 years
+                  - generic [ref=f26e268]:
+                    - checkbox "3-5 years" [ref=f26e270]
+                    - generic [ref=f26e336]: 3-5 years
+                  - generic [ref=f26e273]:
+                    - checkbox "5-7 years" [checked] [ref=f26e275]
+                    - generic [ref=f26e337]: 5-7 years
+                - generic [ref=f26e280]:
+                  - generic [ref=f26e281]: How many years of professional developer experience do you have? *
+                  - generic [ref=f26e282]:
+                    - log [ref=f26e284]
+                    - generic [ref=f26e286]:
+                      - generic [ref=f26e287]:
+                        - generic [ref=f26e391]: 5+ years
+                        - combobox "How many years of professional developer experience do you have?" [ref=f26e290]
+                      - generic [ref=f26e291]:
+                        - button "Clear selections" [ref=f26e393] [cursor=pointer]
+                        - button "Toggle flyout" [ref=f26e292] [cursor=pointer]
+                - generic [ref=f26e295]:
+                  - generic [ref=f26e297]:
+                    - generic [ref=f26e298]: "What will the output of the SQL query be, if the following statements are each true about the transactions table: - It contains 80 records with status = 'approved' - It contains 60 records with amount > 1000 - In total it contains 30 records with both status = 'approved' and amount > 1000*"
+                    - generic [ref=f26e299]:
+                      - log [ref=f26e301]
+                      - generic [ref=f26e303]:
+                        - generic [ref=f26e304]:
+                          - generic [ref=f26e305]: Select...
+                          - 'combobox "What will the output of the SQL query be, if the following statements are each true about the transactions table: - It contains 80 records with status = ''approved'' - It contains 60 records with amount > 1000 - In total it contains 30 records with both status = ''approved'' and amount > 1000" [ref=f26e307]'
+                        - button "Toggle flyout" [ref=f26e309] [cursor=pointer]
+                      - textbox
+                  - paragraph [ref=f26e314]:
+                    - link "PostgreSQL Query" [ref=f26e315] [cursor=pointer]:
+                      - /url: https://gist.github.com/cx-recruiting/be3adb88ef2192c76d23dc06a1c89a1f
+              - separator [ref=f26e316]
+              - generic [ref=f26e318]:
+                - paragraph [ref=f26e320]: We use Greenhouse’s AI-powered Talent Matching tool to compare your application against our job requirements.
+                - link "Learn more" [ref=f26e321] [cursor=pointer]:
+                  - /url: http://app7.greenhouse.io/ai_opt_out_request/job_post/4802825007/ai_opt_out
+              - button "Submit application" [ref=f26e323] [cursor=pointer]
+      - iframe [ref=f26e340]:
+        - generic [ref=f27e6]:
+          - text: protected by
+          - strong [ref=f27e7]: reCAPTCHA
+  - contentinfo [ref=f24e40]:
+    - generic [ref=f24e43]:
+      - link [ref=f24e45] [cursor=pointer]:
+        - /url: /
+        - img "Chronograph" [ref=f24e46]
+      - generic [ref=f24e48]:
+        - link "Request a Demo" [ref=f24e49] [cursor=pointer]:
+          - /url: "#get-in-touch"
+        - link "Login short-arrow-top-right" [ref=f24e53] [cursor=pointer]:
+          - /url: https://auth.chronograph.pe/login
+          - text: Login
+          - img "short-arrow-top-right" [ref=f24e54]
+    - list [ref=f24e65]:
+      - listitem [ref=f24e66]:
+        - link "Company":
+          - /url: "#"
+        - list [ref=f24e67]:
+          - listitem [ref=f24e68]:
+            - link "About" [ref=f24e69] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/about/
+          - listitem [ref=f24e70]:
+            - link "Careers" [ref=f24e71] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/careers/
+          - listitem [ref=f24e72]:
+            - link "Job Openings" [ref=f24e73] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/jobs/
+          - listitem [ref=f24e74]:
+            - link "Partners" [ref=f24e75] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/partners/
+          - listitem [ref=f24e76]:
+            - link "Legal" [ref=f24e77] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/legal/
+          - listitem [ref=f24e78]:
+            - link "Contact" [ref=f24e79] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/contact/
+      - listitem [ref=f24e80]:
+        - link "Resources" [ref=f24e81] [cursor=pointer]:
+          - /url: /resources/
+        - list [ref=f24e82]:
+          - listitem [ref=f24e83]:
+            - link "News" [ref=f24e84] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/category/news/
+          - listitem [ref=f24e85]:
+            - link "Blog" [ref=f24e86] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/category/blog/
+          - listitem [ref=f24e87]:
+            - link "Reports" [ref=f24e88] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/reports/
+          - listitem [ref=f24e89]:
+            - link "GP Help Center" [ref=f24e90] [cursor=pointer]:
+              - /url: https://gp-help.chronograph.pe/
+          - listitem [ref=f24e91]:
+            - link "LP Help Center" [ref=f24e92] [cursor=pointer]:
+              - /url: https://lp-help.chronograph.pe/
+          - listitem [ref=f24e93]:
+            - link "Service Status" [ref=f24e94] [cursor=pointer]:
+              - /url: https://status.chronograph.pe/
+          - listitem [ref=f24e95]:
+            - link "Sandbox" [ref=f24e96] [cursor=pointer]:
+              - /url: https://auth.sandbox.chronograph.pe/
+          - listitem [ref=f24e97]:
+            - link "Log In" [ref=f24e98] [cursor=pointer]:
+              - /url: https://auth.chronograph.pe/login
+      - listitem [ref=f24e99]:
+        - link "LP Solutions" [ref=f24e100] [cursor=pointer]:
+          - /url: https://www.chronograph.pe/limited-partners/
+        - list [ref=f24e101]:
+          - listitem [ref=f24e102]:
+            - link "LP Overview" [ref=f24e103] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/
+          - listitem [ref=f24e104]:
+            - link "Performance & Analytics" [ref=f24e105] [cursor=pointer]:
+              - /url: /limited-partners/#analytics
+          - listitem [ref=f24e106]:
+            - link "Reporting" [ref=f24e107] [cursor=pointer]:
+              - /url: /limited-partners/#reporting
+          - listitem [ref=f24e108]:
+            - link "Data Management" [ref=f24e109] [cursor=pointer]:
+              - /url: /limited-partners/#data-management
+          - listitem [ref=f24e110]:
+            - link "ESG" [ref=f24e111] [cursor=pointer]:
+              - /url: /limited-partners/#esg
+          - listitem [ref=f24e112]:
+            - link "API Connectivity" [ref=f24e113] [cursor=pointer]:
+              - /url: /limited-partners/#api
+          - listitem [ref=f24e114]:
+            - link "Snowflake Data Warehousing" [ref=f24e115] [cursor=pointer]:
+              - /url: /limited-partners/#data-warehouse
+      - listitem [ref=f24e116]:
+        - link "GP Solutions" [ref=f24e117] [cursor=pointer]:
+          - /url: https://www.chronograph.pe/general-partners/
+        - list [ref=f24e118]:
+          - listitem [ref=f24e119]:
+            - link "GP Overview" [ref=f24e120] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/
+          - listitem [ref=f24e121]:
+            - link "Data Management" [ref=f24e122] [cursor=pointer]:
+              - /url: /general-partners/#data-management
+          - listitem [ref=f24e123]:
+            - link "Reporting & Investor Relations" [ref=f24e124] [cursor=pointer]:
+              - /url: /general-partners/#reporting
+          - listitem [ref=f24e125]:
+            - link "Valuations & Modeling" [ref=f24e126] [cursor=pointer]:
+              - /url: /general-partners/#valuations
+          - listitem [ref=f24e127]:
+            - link "Analytics & Dashboarding" [ref=f24e128] [cursor=pointer]:
+              - /url: /general-partners/#analytics
+          - listitem [ref=f24e129]:
+            - link "ESG Enablement" [ref=f24e130] [cursor=pointer]:
+              - /url: /general-partners/#esg
+          - listitem [ref=f24e131]:
+            - link "APIs & Data Warehousing" [ref=f24e132] [cursor=pointer]:
+              - /url: /general-partners/#api
+      - listitem [ref=f24e133]:
+        - link "LP Investor Types" [ref=f24e134] [cursor=pointer]:
+          - /url: https://www.chronograph.pe/limited-partners/
+        - list [ref=f24e135]:
+          - listitem [ref=f24e136]:
+            - link "Fund of Funds" [ref=f24e137] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/fund-of-funds/
+          - listitem [ref=f24e138]:
+            - link "Pension Plans" [ref=f24e139] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/pension-plans/
+          - listitem [ref=f24e140]:
+            - link "Sovereign Wealth" [ref=f24e141] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/sovereign-wealth-funds/
+          - listitem [ref=f24e142]:
+            - link "Insurance" [ref=f24e143] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/insurance/
+          - listitem [ref=f24e144]:
+            - link "OCIOs" [ref=f24e145] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/ocios/
+          - listitem [ref=f24e146]:
+            - link "Foundations" [ref=f24e147] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/foundations-endowments/
+          - listitem [ref=f24e148]:
+            - link "Family Offices" [ref=f24e149] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/limited-partners/family-offices/
+      - listitem [ref=f24e150]:
+        - link "GP Investor Types" [ref=f24e151] [cursor=pointer]:
+          - /url: https://www.chronograph.pe/general-partners/
+        - list [ref=f24e152]:
+          - listitem [ref=f24e153]:
+            - link "Buyout" [ref=f24e154] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/buyout/
+          - listitem [ref=f24e155]:
+            - link "Growth Equity" [ref=f24e156] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/growth-equity/
+          - listitem [ref=f24e157]:
+            - link "Venture Capital" [ref=f24e158] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/venture-capital/
+          - listitem [ref=f24e159]:
+            - link "Infrastructure" [ref=f24e160] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/infrastructure/
+          - listitem [ref=f24e161]:
+            - link "Real Assets" [ref=f24e162] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/real-assets/
+          - listitem [ref=f24e163]:
+            - link "Hedge Funds" [ref=f24e164] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/hedge-funds/
+          - listitem [ref=f24e165]:
+            - link "Direct Lending" [ref=f24e166] [cursor=pointer]:
+              - /url: https://www.chronograph.pe/general-partners/direct-lending/
+          - listitem [ref=f24e167]:
+            - link "Mezzanine" [ref=f24e168] [cursor=pointer]:
+              - /url: /general-partners/mezzanine/
+    - generic [ref=f24e171]:
+      - generic [ref=f24e172]:
+        - generic [ref=f24e173]:
+          - link "New York (HQ) Ten Grand Street | Floor 4 Brooklyn, New York 11249 United States" [ref=f24e174] [cursor=pointer]:
+            - /url: https://goo.gl/maps/U7aSrTd1DjbNKfVU6
+          - link "London 150 Borough High St London SE1 1LB United Kingdom" [ref=f24e175] [cursor=pointer]:
+            - /url: https://maps.app.goo.gl/1cz7ppVvRisrGQcx9
+        - link "info@chronograph.pe" [ref=f24e176] [cursor=pointer]:
+          - /url: mailto:info@chronograph.pe
+      - list [ref=f24e178]:
+        - listitem [ref=f24e179]:
+          - link [ref=f24e180] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/chronograph
+        - listitem [ref=f24e182]:
+          - link [ref=f24e183] [cursor=pointer]:
+            - /url: https://github.com/chronograph-pe
+        - listitem [ref=f24e185]:
+          - link [ref=f24e186] [cursor=pointer]:
+            - /url: https://www.builtinnyc.com/company/chronograph
+    - generic [ref=f24e190]:
+      - generic [ref=f24e191]: © 2026 Chronograph. All rights reserved.
+      - list [ref=f24e193]:
+        - listitem [ref=f24e194]:
+          - link "Terms of Use" [ref=f24e195] [cursor=pointer]:
+            - /url: /legal/website-terms-of-use
+        - listitem [ref=f24e196]:
+          - link "Privacy Policy" [ref=f24e197] [cursor=pointer]:
+            - /url: /legal/privacy-policy
+        - listitem [ref=f24e198]:
+          - link "Sub-Processors" [ref=f24e199] [cursor=pointer]:
+            - /url: /legal/sub-processors/
+      - generic [ref=f24e200]: Made in Brooklyn

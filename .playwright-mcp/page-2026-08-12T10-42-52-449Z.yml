@@ -1,0 +1,430 @@
+- generic [ref=e1]:
+  - main "micro-container2" [ref=e3]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e9]:
+          - img "Yellow Card Financial" [ref=e10]
+          - link "Privacy Policy" [ref=e12] [cursor=pointer]:
+            - /url: http://www.bamboohr.com/privacy.php
+        - generic [ref=e17]:
+          - generic [ref=e19]:
+            - link "Job Openings" [ref=e21] [cursor=pointer]:
+              - /url: /careers
+            - generic [ref=e26]:
+              - generic [ref=e28]:
+                - heading "Technical Team Lead (Full-stack)" [level=3] [ref=e29]
+                - generic [ref=e30]: Engineering - Remote
+              - separator [ref=e31]
+            - generic [ref=e185]:
+              - generic [ref=e186]:
+                - generic [ref=e187]: Please leave this field blank
+                - textbox [ref=e188]:
+                  - /placeholder: Enter your text here
+                - generic [ref=e189]:
+                  - generic [ref=e190]:
+                    - generic [ref=e191]:
+                      - generic [ref=e192]:
+                        - generic [ref=e194]:
+                          - text: First Name
+                          - generic [ref=e195]: "*"
+                        - textbox "First Name" [ref=e198]
+                      - generic [ref=e199]:
+                        - generic [ref=e201]:
+                          - text: Last Name
+                          - generic [ref=e202]: "*"
+                        - textbox "Last Name" [ref=e205]
+                    - generic [ref=e206]:
+                      - generic [ref=e208]:
+                        - text: Email
+                        - generic [ref=e209]: "*"
+                      - textbox "Email" [ref=e212]
+                    - generic [ref=e213]:
+                      - generic [ref=e215]:
+                        - text: Phone
+                        - generic [ref=e216]: "*"
+                      - textbox "Phone" [ref=e219]
+                    - generic [ref=e220]:
+                      - generic [ref=e221]:
+                        - generic [ref=e223]:
+                          - text: Address
+                          - generic [ref=e224]: "*"
+                        - textbox "Address" [ref=e227]
+                      - generic [ref=e228]:
+                        - generic [ref=e229]:
+                          - generic [ref=e231]:
+                            - text: City
+                            - generic [ref=e232]: "*"
+                          - textbox "City" [ref=e235]
+                        - generic [ref=e236]:
+                          - generic [ref=e238]:
+                            - text: County
+                            - generic [ref=e239]: "*"
+                          - button "County –Select–" [ref=e244] [cursor=pointer]:
+                            - generic [ref=e245]: –Select–
+                        - generic [ref=e250]:
+                          - generic [ref=e252]:
+                            - text: Postcode
+                            - generic [ref=e253]: "*"
+                          - textbox "Postcode" [ref=e256]
+                      - generic [ref=e257]:
+                        - generic [ref=e259]:
+                          - text: Country
+                          - generic [ref=e260]: "*"
+                        - generic [ref=e264]:
+                          - button "Country United States" [expanded] [ref=e265] [cursor=pointer]:
+                            - generic [ref=e266]: United States
+                          - button "Clear Selection" [ref=e272] [cursor=pointer]
+                  - separator [ref=e275]
+                  - generic [ref=e277]:
+                    - paragraph [ref=e278]: Resume*
+                    - generic [ref=e280]:
+                      - generic [ref=e282]:
+                        - button "Choose File*" [ref=e283] [cursor=pointer]
+                        - paragraph [ref=e291]: No file selected
+                      - button "file-input"
+                  - separator [ref=e292]
+                  - generic [ref=e293]:
+                    - generic [ref=e294]:
+                      - generic [ref=e295]: Website, Blog or Portfolio
+                      - textbox "Website, Blog or Portfolio" [ref=e299]
+                    - generic [ref=e300]:
+                      - generic [ref=e301]: LinkedIn URL
+                      - textbox "LinkedIn URL" [ref=e308]
+                  - separator [ref=e309]
+                  - generic [ref=e311]:
+                    - generic [ref=e312]: Who referred you for this position?
+                    - textbox "Who referred you for this position?" [ref=e316]
+                  - separator [ref=e317]
+                  - generic [ref=e318]:
+                    - generic [ref=e319]:
+                      - generic [ref=e321]:
+                        - text: What is your current notice period?
+                        - generic [ref=e322]: "*"
+                      - textbox "What is your current notice period?" [ref=e325]
+                    - generic [ref=e326]:
+                      - generic [ref=e328]:
+                        - text: What is your gross salary expectation in USD per month?
+                        - generic [ref=e329]: "*"
+                      - textbox "What is your gross salary expectation in USD per month?" [ref=e332]
+                    - radiogroup [ref=e334]:
+                      - generic [ref=e338]:
+                        - text: Do you currently reside in Africa?
+                        - generic [ref=e339]: "*"
+                      - radiogroup [ref=e341]:
+                        - generic [ref=e343] [cursor=pointer]:
+                          - radio "Yes" [ref=e345]
+                          - generic [ref=e347]: "Yes"
+                        - generic [ref=e349] [cursor=pointer]:
+                          - radio "No" [ref=e351]
+                          - generic [ref=e353]: "No"
+                    - radiogroup [ref=e355]:
+                      - generic [ref=e359]:
+                        - text: Do you have legal rights to work in your country of residence?
+                        - generic [ref=e360]: "*"
+                      - radiogroup [ref=e362]:
+                        - generic [ref=e364] [cursor=pointer]:
+                          - radio "Yes" [ref=e366]
+                          - generic [ref=e368]: "Yes"
+                        - generic [ref=e370] [cursor=pointer]:
+                          - radio "No" [ref=e372]
+                          - generic [ref=e374]: "No"
+              - generic [ref=e375]:
+                - separator [ref=e376]
+                - iframe [ref=e380]:
+                  - generic [ref=f1e2]:
+                    - generic [ref=f1e3]:
+                      - checkbox "I'm not a robot" [ref=f1e7]
+                      - generic [ref=f1e9]: I'm not a robot
+                    - generic [ref=f1e12]: reCAPTCHA
+          - generic [ref=e118]:
+            - generic [ref=e120]:
+              - button "View Job Description" [ref=e381] [cursor=pointer]
+              - separator [ref=e123]
+              - generic [ref=e125]:
+                - generic [ref=e126]: Link to This Job
+                - textbox "Link to This Job" [ref=e130]: https://yellowcard.bamboohr.com/careers/412
+              - generic [ref=e132]:
+                - button "Share LinkedIn" [ref=e134] [cursor=pointer]
+                - button "Share Twitter" [ref=e139] [cursor=pointer]
+                - button "Share Facebook" [ref=e144] [cursor=pointer]
+            - generic [ref=e148]:
+              - generic [ref=e149]:
+                - paragraph [ref=e151]: Location
+                - paragraph [ref=e153]: Remote
+                - separator [ref=e154]
+              - generic [ref=e155]:
+                - paragraph [ref=e157]: Department
+                - paragraph [ref=e159]: Engineering
+                - separator [ref=e160]
+              - generic [ref=e161]:
+                - paragraph [ref=e163]: Employment Type
+                - paragraph [ref=e165]: Full-Time
+                - separator [ref=e166]
+              - generic [ref=e167]:
+                - paragraph [ref=e169]: Minimum Experience
+                - paragraph [ref=e171]: Experienced
+                - separator [ref=e172]
+      - generic [ref=e390]:
+        - button "Submit Application" [ref=e391] [cursor=pointer]
+        - button "Cancel" [ref=e396] [cursor=pointer]
+  - generic [ref=e404]:
+    - textbox "Search" [active] [ref=e410]:
+      - /placeholder: Search...
+    - menu [ref=e411]:
+      - generic [ref=e412]:
+        - menuitem "United States" [ref=e413] [cursor=pointer]
+        - menuitem "Canada" [ref=e417] [cursor=pointer]
+        - menuitem "Australia" [ref=e421] [cursor=pointer]
+        - menuitem "Afghanistan" [ref=e425] [cursor=pointer]
+        - menuitem "Albania" [ref=e429] [cursor=pointer]
+        - menuitem "Algeria" [ref=e433] [cursor=pointer]
+        - menuitem "American Samoa" [ref=e437] [cursor=pointer]
+        - menuitem "Andorra" [ref=e441] [cursor=pointer]
+        - menuitem "Anguilla" [ref=e445] [cursor=pointer]
+        - menuitem "Angola" [ref=e449] [cursor=pointer]
+        - menuitem "Antarctica" [ref=e453] [cursor=pointer]
+        - menuitem "Antigua and Barbuda" [ref=e457] [cursor=pointer]
+        - menuitem "Argentina" [ref=e461] [cursor=pointer]
+        - menuitem "Armenia" [ref=e465] [cursor=pointer]
+        - menuitem "Aruba" [ref=e469] [cursor=pointer]
+        - menuitem "Austria" [ref=e473] [cursor=pointer]
+        - menuitem "Azerbaijan" [ref=e477] [cursor=pointer]
+        - menuitem "Bahamas" [ref=e481] [cursor=pointer]
+        - menuitem "Bahrain" [ref=e485] [cursor=pointer]
+        - menuitem "Bangladesh" [ref=e489] [cursor=pointer]
+        - menuitem "Barbados" [ref=e493] [cursor=pointer]
+        - menuitem "Belgium" [ref=e497] [cursor=pointer]
+        - menuitem "Belize" [ref=e501] [cursor=pointer]
+        - menuitem "Benin" [ref=e505] [cursor=pointer]
+        - menuitem "Bermuda" [ref=e509] [cursor=pointer]
+        - menuitem "Bhutan" [ref=e513] [cursor=pointer]
+        - menuitem "Bolivia" [ref=e517] [cursor=pointer]
+        - menuitem "Bosnia and Herzegovina" [ref=e521] [cursor=pointer]
+        - menuitem "Botswana" [ref=e525] [cursor=pointer]
+        - menuitem "Bouvet Island" [ref=e529] [cursor=pointer]
+        - menuitem "Brazil" [ref=e533] [cursor=pointer]
+        - menuitem "British Indian Ocean Territory" [ref=e537] [cursor=pointer]
+        - menuitem "Brunei Darussalam" [ref=e541] [cursor=pointer]
+        - menuitem "Bulgaria" [ref=e545] [cursor=pointer]
+        - menuitem "Burkina Faso" [ref=e549] [cursor=pointer]
+        - menuitem "Burundi" [ref=e553] [cursor=pointer]
+        - menuitem "Cambodia" [ref=e557] [cursor=pointer]
+        - menuitem "Cameroon" [ref=e561] [cursor=pointer]
+        - menuitem "Cape Verde" [ref=e565] [cursor=pointer]
+        - menuitem "Cayman Islands" [ref=e569] [cursor=pointer]
+        - menuitem "Central African Republic" [ref=e573] [cursor=pointer]
+        - menuitem "Chad" [ref=e577] [cursor=pointer]
+        - menuitem "Chile" [ref=e581] [cursor=pointer]
+        - menuitem "China" [ref=e585] [cursor=pointer]
+        - menuitem "Christmas Island" [ref=e589] [cursor=pointer]
+        - menuitem "Cocos (Keeling Islands)" [ref=e593] [cursor=pointer]
+        - menuitem "Colombia" [ref=e597] [cursor=pointer]
+        - menuitem "Comoros" [ref=e601] [cursor=pointer]
+        - menuitem "Congo" [ref=e605] [cursor=pointer]
+        - menuitem "Cook Islands" [ref=e609] [cursor=pointer]
+        - menuitem "Costa Rica" [ref=e613] [cursor=pointer]
+        - menuitem "Cote D'Ivoire (Ivory Coast)" [ref=e617] [cursor=pointer]
+        - menuitem "Croatia (Hrvatska)" [ref=e621] [cursor=pointer]
+        - menuitem "Cuba" [ref=e625] [cursor=pointer]
+        - menuitem "Cyprus" [ref=e629] [cursor=pointer]
+        - menuitem "Czech Republic" [ref=e633] [cursor=pointer]
+        - menuitem "Denmark" [ref=e637] [cursor=pointer]
+        - menuitem "Djibouti" [ref=e641] [cursor=pointer]
+        - menuitem "Dominica" [ref=e645] [cursor=pointer]
+        - menuitem "Dominican Republic" [ref=e649] [cursor=pointer]
+        - menuitem "East Timor" [ref=e653] [cursor=pointer]
+        - menuitem "Egypt" [ref=e657] [cursor=pointer]
+        - menuitem "El Salvador" [ref=e661] [cursor=pointer]
+        - menuitem "Ecuador" [ref=e665] [cursor=pointer]
+        - menuitem "Equatorial Guinea" [ref=e669] [cursor=pointer]
+        - menuitem "Eritrea" [ref=e673] [cursor=pointer]
+        - menuitem "Estonia" [ref=e677] [cursor=pointer]
+        - menuitem "Ethiopia" [ref=e681] [cursor=pointer]
+        - menuitem "Falkland Islands (Malvinas)" [ref=e685] [cursor=pointer]
+        - menuitem "Faroe Islands" [ref=e689] [cursor=pointer]
+        - menuitem "Fiji" [ref=e693] [cursor=pointer]
+        - menuitem "Finland" [ref=e697] [cursor=pointer]
+        - menuitem "France" [ref=e701] [cursor=pointer]
+        - menuitem "France, Metropolitan" [ref=e705] [cursor=pointer]
+        - menuitem "French Guiana" [ref=e709] [cursor=pointer]
+        - menuitem "French Polynesia" [ref=e713] [cursor=pointer]
+        - menuitem "French Southern Territories" [ref=e717] [cursor=pointer]
+        - menuitem "French West Indies" [ref=e721] [cursor=pointer]
+        - menuitem "Gabon" [ref=e725] [cursor=pointer]
+        - menuitem "Gambia" [ref=e729] [cursor=pointer]
+        - menuitem "Georgia" [ref=e733] [cursor=pointer]
+        - menuitem "Germany" [ref=e737] [cursor=pointer]
+        - menuitem "Ghana" [ref=e741] [cursor=pointer]
+        - menuitem "Gibraltar" [ref=e745] [cursor=pointer]
+        - menuitem "Greece" [ref=e749] [cursor=pointer]
+        - menuitem "Greenland" [ref=e753] [cursor=pointer]
+        - menuitem "Grenada" [ref=e757] [cursor=pointer]
+        - menuitem "Guadeloupe" [ref=e761] [cursor=pointer]
+        - menuitem "Guam" [ref=e765] [cursor=pointer]
+        - menuitem "Guatemala" [ref=e769] [cursor=pointer]
+        - menuitem "Guinea" [ref=e773] [cursor=pointer]
+        - menuitem "Guinea-Bissau" [ref=e777] [cursor=pointer]
+        - menuitem "Guyana" [ref=e781] [cursor=pointer]
+        - menuitem "Haiti" [ref=e785] [cursor=pointer]
+        - menuitem "Heard and McDonald Islands" [ref=e789] [cursor=pointer]
+        - menuitem "Honduras" [ref=e793] [cursor=pointer]
+        - menuitem "Hong Kong" [ref=e797] [cursor=pointer]
+        - menuitem "Hungary" [ref=e801] [cursor=pointer]
+        - menuitem "Iceland" [ref=e805] [cursor=pointer]
+        - menuitem "India" [ref=e809] [cursor=pointer]
+        - menuitem "Indonesia" [ref=e813] [cursor=pointer]
+        - menuitem "Iran" [ref=e817] [cursor=pointer]
+        - menuitem "Iraq" [ref=e821] [cursor=pointer]
+        - menuitem "Ireland" [ref=e825] [cursor=pointer]
+        - menuitem "Israel" [ref=e829] [cursor=pointer]
+        - menuitem "Italy" [ref=e833] [cursor=pointer]
+        - menuitem "Jamaica" [ref=e837] [cursor=pointer]
+        - menuitem "Japan" [ref=e841] [cursor=pointer]
+        - menuitem "Jordan" [ref=e845] [cursor=pointer]
+        - menuitem "Kazakhstan" [ref=e849] [cursor=pointer]
+        - menuitem "Kenya" [ref=e853] [cursor=pointer]
+        - menuitem "Kiribati" [ref=e857] [cursor=pointer]
+        - menuitem "Korea (North)" [ref=e861] [cursor=pointer]
+        - menuitem "Korea (South)" [ref=e865] [cursor=pointer]
+        - menuitem "Kuwait" [ref=e869] [cursor=pointer]
+        - menuitem "Kyrgyzstan" [ref=e873] [cursor=pointer]
+        - menuitem "Laos" [ref=e877] [cursor=pointer]
+        - menuitem "Latvia" [ref=e881] [cursor=pointer]
+        - menuitem "Lebanon" [ref=e885] [cursor=pointer]
+        - menuitem "Lesotho" [ref=e889] [cursor=pointer]
+        - menuitem "Liberia" [ref=e893] [cursor=pointer]
+        - menuitem "Libya" [ref=e897] [cursor=pointer]
+        - menuitem "Liechtenstein" [ref=e901] [cursor=pointer]
+        - menuitem "Lithuania" [ref=e905] [cursor=pointer]
+        - menuitem "Luxembourg" [ref=e909] [cursor=pointer]
+        - menuitem "Macao" [ref=e913] [cursor=pointer]
+        - menuitem "Macedonia" [ref=e917] [cursor=pointer]
+        - menuitem "Madagascar" [ref=e921] [cursor=pointer]
+        - menuitem "Malawi" [ref=e925] [cursor=pointer]
+        - menuitem "Malaysia" [ref=e929] [cursor=pointer]
+        - menuitem "Maldives" [ref=e933] [cursor=pointer]
+        - menuitem "Mali" [ref=e937] [cursor=pointer]
+        - menuitem "Malta" [ref=e941] [cursor=pointer]
+        - menuitem "Marshall Islands" [ref=e945] [cursor=pointer]
+        - menuitem "Martinique" [ref=e949] [cursor=pointer]
+        - menuitem "Mauritania" [ref=e953] [cursor=pointer]
+        - menuitem "Mauritius" [ref=e957] [cursor=pointer]
+        - menuitem "Mayotte" [ref=e961] [cursor=pointer]
+        - menuitem "Mexico" [ref=e965] [cursor=pointer]
+        - menuitem "Micronesia" [ref=e969] [cursor=pointer]
+        - menuitem "Moldova" [ref=e973] [cursor=pointer]
+        - menuitem "Monaco" [ref=e977] [cursor=pointer]
+        - menuitem "Mongolia" [ref=e981] [cursor=pointer]
+        - menuitem "Montenegro" [ref=e985] [cursor=pointer]
+        - menuitem "Montserrat" [ref=e989] [cursor=pointer]
+        - menuitem "Morocco" [ref=e993] [cursor=pointer]
+        - menuitem "Mozambique" [ref=e997] [cursor=pointer]
+        - menuitem "Namibia" [ref=e1001] [cursor=pointer]
+        - menuitem "Nauru" [ref=e1005] [cursor=pointer]
+        - menuitem "Nepal" [ref=e1009] [cursor=pointer]
+        - menuitem "Netherlands" [ref=e1013] [cursor=pointer]
+        - menuitem "Netherlands Antilles" [ref=e1017] [cursor=pointer]
+        - menuitem "New Caledonia" [ref=e1021] [cursor=pointer]
+        - menuitem "New Zealand" [ref=e1025] [cursor=pointer]
+        - menuitem "Nicaragua" [ref=e1029] [cursor=pointer]
+        - menuitem "Niger" [ref=e1033] [cursor=pointer]
+        - menuitem "Nigeria" [ref=e1037] [cursor=pointer]
+        - menuitem "Niue" [ref=e1041] [cursor=pointer]
+        - menuitem "Norfolk Island" [ref=e1045] [cursor=pointer]
+        - menuitem "Northern Mariana Islands" [ref=e1049] [cursor=pointer]
+        - menuitem "Norway" [ref=e1053] [cursor=pointer]
+        - menuitem "Oman" [ref=e1057] [cursor=pointer]
+        - menuitem "Pakistan" [ref=e1061] [cursor=pointer]
+        - menuitem "Palau" [ref=e1065] [cursor=pointer]
+        - menuitem "Panama" [ref=e1069] [cursor=pointer]
+        - menuitem "Papua New Guinea" [ref=e1073] [cursor=pointer]
+        - menuitem "Paraguay" [ref=e1077] [cursor=pointer]
+        - menuitem "Peru" [ref=e1081] [cursor=pointer]
+        - menuitem "Philippines" [ref=e1085] [cursor=pointer]
+        - menuitem "Pitcairn" [ref=e1089] [cursor=pointer]
+        - menuitem "Poland" [ref=e1093] [cursor=pointer]
+        - menuitem "Portugal" [ref=e1097] [cursor=pointer]
+        - menuitem "Puerto Rico" [ref=e1101] [cursor=pointer]
+        - menuitem "Qatar" [ref=e1105] [cursor=pointer]
+        - menuitem "Rwanda" [ref=e1109] [cursor=pointer]
+        - menuitem "Reunion" [ref=e1113] [cursor=pointer]
+        - menuitem "Romania" [ref=e1117] [cursor=pointer]
+        - menuitem "Russian Federation" [ref=e1121] [cursor=pointer]
+        - menuitem "Samoa" [ref=e1125] [cursor=pointer]
+        - menuitem "San Marino" [ref=e1129] [cursor=pointer]
+        - menuitem "Sao Tome and Principe" [ref=e1133] [cursor=pointer]
+        - menuitem "Saudi Arabia" [ref=e1137] [cursor=pointer]
+        - menuitem "Senegal" [ref=e1141] [cursor=pointer]
+        - menuitem "Serbia" [ref=e1145] [cursor=pointer]
+        - menuitem "Seychelles" [ref=e1149] [cursor=pointer]
+        - menuitem "Sierra Leone" [ref=e1153] [cursor=pointer]
+        - menuitem "Singapore" [ref=e1157] [cursor=pointer]
+        - menuitem "Slovakia" [ref=e1161] [cursor=pointer]
+        - menuitem "Slovenia" [ref=e1165] [cursor=pointer]
+        - menuitem "Solomon Islands" [ref=e1169] [cursor=pointer]
+        - menuitem "South Africa" [ref=e1173] [cursor=pointer]
+        - menuitem "Spain" [ref=e1177] [cursor=pointer]
+        - menuitem "Sri Lanka" [ref=e1181] [cursor=pointer]
+        - menuitem "St. Helena" [ref=e1185] [cursor=pointer]
+        - menuitem "Saint Kitts and Nevis" [ref=e1189] [cursor=pointer]
+        - menuitem "Saint Lucia" [ref=e1193] [cursor=pointer]
+        - menuitem "St. Pierre and Miquelon" [ref=e1197] [cursor=pointer]
+        - menuitem "Saint Vincent and the Grenadines" [ref=e1201] [cursor=pointer]
+        - menuitem "Sudan" [ref=e1205] [cursor=pointer]
+        - menuitem "Suriname" [ref=e1209] [cursor=pointer]
+        - menuitem "Svalbard" [ref=e1213] [cursor=pointer]
+        - menuitem "Swaziland" [ref=e1217] [cursor=pointer]
+        - menuitem "Sweden" [ref=e1221] [cursor=pointer]
+        - menuitem "Switzerland" [ref=e1225] [cursor=pointer]
+        - menuitem "Syria" [ref=e1229] [cursor=pointer]
+        - menuitem "Taiwan" [ref=e1233] [cursor=pointer]
+        - menuitem "Tajikistan" [ref=e1237] [cursor=pointer]
+        - menuitem "Tanzania" [ref=e1241] [cursor=pointer]
+        - menuitem "Thailand" [ref=e1245] [cursor=pointer]
+        - menuitem "Togo" [ref=e1249] [cursor=pointer]
+        - menuitem "Tokelau" [ref=e1253] [cursor=pointer]
+        - menuitem "Tonga" [ref=e1257] [cursor=pointer]
+        - menuitem "Trinidad and Tobago" [ref=e1261] [cursor=pointer]
+        - menuitem "Tunisia" [ref=e1265] [cursor=pointer]
+        - menuitem "Turkey" [ref=e1269] [cursor=pointer]
+        - menuitem "Turkmenistan" [ref=e1273] [cursor=pointer]
+        - menuitem "Turks and Caicos Islands" [ref=e1277] [cursor=pointer]
+        - menuitem "Tuvalu" [ref=e1281] [cursor=pointer]
+        - menuitem "Uganda" [ref=e1285] [cursor=pointer]
+        - menuitem "Ukraine" [ref=e1289] [cursor=pointer]
+        - menuitem "United Arab Emirates" [ref=e1293] [cursor=pointer]
+        - menuitem "United Kingdom" [ref=e1297] [cursor=pointer]
+        - menuitem "US Minor Outlying Islands" [ref=e1301] [cursor=pointer]
+        - menuitem "Uruguay" [ref=e1305] [cursor=pointer]
+        - menuitem "Uzbekistan" [ref=e1309] [cursor=pointer]
+        - menuitem "Vanuatu" [ref=e1313] [cursor=pointer]
+        - menuitem "Vatican City State" [ref=e1317] [cursor=pointer]
+        - menuitem "Venezuela" [ref=e1321] [cursor=pointer]
+        - menuitem "Viet Nam" [ref=e1325] [cursor=pointer]
+        - menuitem "Virgin Islands (British)" [ref=e1329] [cursor=pointer]
+        - menuitem "Virgin Islands, U.S." [ref=e1333] [cursor=pointer]
+        - menuitem "Wallis and Futuna Islands" [ref=e1337] [cursor=pointer]
+        - menuitem "Western Sahara" [ref=e1341] [cursor=pointer]
+        - menuitem "Yemen" [ref=e1345] [cursor=pointer]
+        - menuitem "Yugoslavia" [ref=e1349] [cursor=pointer]
+        - menuitem "Zaire" [ref=e1353] [cursor=pointer]
+        - menuitem "Zambia" [ref=e1357] [cursor=pointer]
+        - menuitem "Åland Islands" [ref=e1361] [cursor=pointer]
+        - menuitem "Saint Barthélemy" [ref=e1365] [cursor=pointer]
+        - menuitem "Bonaire, Sint Eustatius and Saba" [ref=e1369] [cursor=pointer]
+        - menuitem "Belarus" [ref=e1373] [cursor=pointer]
+        - menuitem "Congo, the Democratic Republic of the" [ref=e1377] [cursor=pointer]
+        - menuitem "Curaçao" [ref=e1381] [cursor=pointer]
+        - menuitem "Guernsey" [ref=e1385] [cursor=pointer]
+        - menuitem "South Georgia and the South Sandwich Islands" [ref=e1389] [cursor=pointer]
+        - menuitem "Isle of Man" [ref=e1393] [cursor=pointer]
+        - menuitem "Jersey" [ref=e1397] [cursor=pointer]
+        - menuitem "Myanmar" [ref=e1401] [cursor=pointer]
+        - menuitem "Palestinian Territories" [ref=e1405] [cursor=pointer]
+        - menuitem "Somalia" [ref=e1409] [cursor=pointer]
+        - menuitem "South Sudan" [ref=e1413] [cursor=pointer]
+        - menuitem "Sint Maarten (Dutch part)" [ref=e1417] [cursor=pointer]
+        - menuitem "Zimbabwe" [ref=e1421] [cursor=pointer]
+        - menuitem "Kosovo" [ref=e1425] [cursor=pointer]
+        - menuitem "Kurdistan" [ref=e1429] [cursor=pointer]
+        - menuitem "Saint Martin (French part)" [ref=e1433] [cursor=pointer]

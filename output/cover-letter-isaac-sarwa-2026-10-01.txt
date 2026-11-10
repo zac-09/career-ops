@@ -1,0 +1,12 @@
+Dear Jad and the Sarwa technology team,
+
+  I will start with the thing your first requirement line asks about. My production depth is Node.js: six years of backend services, including the migration of 20+ live applications from Parse/MongoDB to Firebase/GCP at MTailor with zero downtime, reporting to the CTO. Python is my second language, used for migration tooling and SDK documentation on that same programme, and I write Go at an intermediate level. I have not shipped Django in production and I will not claim otherwise. What I would bring from day one is the part of your posting that takes years rather than weeks to learn.
+
+  Your role is built around microservices, event sourcing, data flows and third-party integrations on a platform that moves people's money. I architected an event-driven microservices backend on Apache Kafka, Docker and Kubernetes for FIDA Uganda's case-management system, and at MTailor I built a real-time two-way sync between MongoDB and Firestore on Google Pub/Sub that ran under parallel production traffic for months. That work is idempotency, redelivery, ordering and reconciliation, which is the same discipline that keeps a funding or trading ledger consistent. At Dr Wealth I kept prices current for retail investors by running scheduled jobs over 2M+ Firestore records against the Morningstar market-data APIs, so I know what an external financial feed does to your freshness ceiling and your rate-limit floor.
+
+  I have owned projects from infancy to production in small, remote, cross-functional teams across the US, Singapore and Uganda, and I am comfortable being the person who turns a product requirement into scope, architecture and a shipped service. Kampala is one hour behind Abu Dhabi, so a remote-first team with an optional office is a natural fit. Before a technical conversation I will share a small Dockerised Go or Django service with PostgreSQL and tests on github.com/zac-09, so you can judge my ramp speed on your stack directly rather than on my word.
+
+  Sarwa is profitable, regulated and still led by its founders, and the problem you are solving, affordable investing for people the industry ignored, is the kind of work I want to put the next several years into. I would welcome a conversation.
+
+    Best regards,
+    Isaac Mubiru

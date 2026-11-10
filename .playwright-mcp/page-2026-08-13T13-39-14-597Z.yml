@@ -1,0 +1,155 @@
+- main [ref=f550e2]:
+  - generic [ref=f550e3]:
+    - generic [ref=f550e4]:
+      - img "We The Flywheel" [ref=f550e5]
+      - generic [ref=f550e6]: WTF · hiring
+    - heading "Sr Agentic Engineer" [level=1] [ref=f550e7]
+    - paragraph [ref=f550e8]: We're hiring a Sr Agentic Engineer. This 40-minute task asks you to architect and ship a multi-step agentic workflow for one of our products, write a failure autopsy from your own experience, and sketch an agent architecture for a new feature. We're hiring for track record and judgment — you should have done this before. You're an engineer with a real technical foundation (databases, frameworks, integrations, APIs) who designs tailored solutions and orchestrates agents critically — not prompt-and-hope.
+  - generic [ref=f550e9]:
+    - heading "Before you start" [level=2] [ref=f550e10]
+    - paragraph [ref=f550e11]: "A small team will read your submission personally. We're trying to find people we can actually work with — not run you through a gauntlet. A few things to know:"
+    - list [ref=f550e12]:
+      - listitem [ref=f550e13]:
+        - text: ✓
+        - strong [ref=f550e14]: 40 minutes
+        - text: starts when you click
+        - emphasis [ref=f550e15]: Begin
+        - text: . Not before. Open the link, read the questions, then start the timer when you're ready.
+      - listitem [ref=f550e16]:
+        - text: ✓
+        - strong [ref=f550e17]: Use any tools you like.
+        - text: Claude, ChatGPT, Cursor, Figma, your bookmarks — we want to see how you actually work, not how you perform without your stack.
+      - listitem [ref=f550e18]:
+        - text: ✓
+        - strong [ref=f550e19]: Partial answers are fine.
+        - text: Finishing three questions with depth beats finishing all of them at half-quality.
+      - listitem [ref=f550e20]:
+        - text: ✓
+        - strong [ref=f550e21]: The clock is on our side.
+        - text: Refreshing the page won't reset it; closing the tab won't pause it. But if life genuinely interrupts, reply to the invite email and we'll figure something out — we're human about it.
+  - generic [ref=f550e22]:
+    - heading "Tell us who you are" [level=2] [ref=f550e23]
+    - generic [ref=f550e24]:
+      - generic [ref=f550e25]:
+        - generic [ref=f550e26]: Your name
+        - textbox "Your name" [ref=f550e27]:
+          - /placeholder: First Last
+      - generic [ref=f550e28]:
+        - generic [ref=f550e29]: Email
+        - textbox "Email" [ref=f550e30]:
+          - /placeholder: you@example.com
+      - generic [ref=f550e31]:
+        - generic [ref=f550e32]:
+          - text: LinkedIn URL
+          - emphasis [ref=f550e33]: (optional)
+        - textbox "LinkedIn URL (optional)" [ref=f550e34]:
+          - /placeholder: https://linkedin.com/in/…
+      - generic [ref=f550e35]:
+        - generic [ref=f550e36]: City
+        - textbox "City Your actual city — not your work arrangement. \"Remote\" is not a valid answer here." [ref=f550e37]:
+          - /placeholder: e.g. Ho Chi Minh City
+        - generic [ref=f550e38]: Your actual city — not your work arrangement. "Remote" is not a valid answer here.
+      - generic [ref=f550e39]:
+        - generic [ref=f550e40]: Country
+        - combobox "Country" [ref=f550e41]:
+          - option "— Select your country —" [selected]
+          - option "Vietnam"
+          - option "India"
+          - option "United States"
+          - option "Nigeria"
+          - option "Philippines"
+          - option "Pakistan"
+          - option "Indonesia"
+          - option "United Kingdom"
+          - option "Germany"
+          - option "Spain"
+          - option "France"
+          - option "Italy"
+          - option "Portugal"
+          - option "Netherlands"
+          - option "Poland"
+          - option "Ukraine"
+          - option "Romania"
+          - option "Serbia"
+          - option "Croatia"
+          - option "Bosnia and Herzegovina"
+          - option "North Macedonia"
+          - option "Albania"
+          - option "Bulgaria"
+          - option "Greece"
+          - option "Czechia"
+          - option "Slovakia"
+          - option "Slovenia"
+          - option "Hungary"
+          - option "Moldova"
+          - option "Lithuania"
+          - option "Latvia"
+          - option "Estonia"
+          - option "Ireland"
+          - option "Austria"
+          - option "Belgium"
+          - option "Switzerland"
+          - option "Sweden"
+          - option "Norway"
+          - option "Denmark"
+          - option "Finland"
+          - option "Turkey"
+          - option "Egypt"
+          - option "South Africa"
+          - option "Kenya"
+          - option "Morocco"
+          - option "Ghana"
+          - option "Brazil"
+          - option "Argentina"
+          - option "Mexico"
+          - option "Colombia"
+          - option "Canada"
+          - option "Australia"
+          - option "New Zealand"
+          - option "Singapore"
+          - option "Malaysia"
+          - option "Thailand"
+          - option "Indonesia"
+          - option "Japan"
+          - option "South Korea"
+          - option "Hong Kong"
+          - option "Taiwan"
+          - option "China"
+          - option "Bangladesh"
+          - option "Sri Lanka"
+          - option "Nepal"
+          - option "United Arab Emirates"
+          - option "Saudi Arabia"
+          - option "Israel"
+          - option "Georgia"
+          - option "Armenia"
+          - option "Other"
+      - group "Hourly rate range (USD)" [ref=f550e42]:
+        - generic [ref=f550e44]:
+          - spinbutton "from" [ref=f550e45]
+          - generic [ref=f550e46]: —
+          - spinbutton "to" [ref=f550e47]
+          - generic [ref=f550e48]: USD / hr
+        - generic [ref=f550e49]: Your honest expectation, not the maximum you'd accept. We'll come back to you if it's outside our range — no game-playing on rates.
+      - generic [ref=f550e50]:
+        - generic [ref=f550e51]:
+          - text: How did you hear about us?
+          - emphasis [ref=f550e52]: (optional)
+        - combobox "How did you hear about us? (optional)" [ref=f550e53]:
+          - option "— Select —" [selected]
+          - option "Someone referred me"
+          - option "Wellfound"
+          - option "LinkedIn"
+          - option "Google / Search"
+          - option "Friend or colleague"
+          - option "Reddit"
+          - option "X / Twitter"
+          - option "Facebook"
+          - option "Telegram"
+          - option "WTF website"
+          - option "Other"
+      - generic [ref=f550e54] [cursor=pointer]:
+        - checkbox "Inform me about upcoming career opportunities at We The Flywheel" [checked] [ref=f550e55]
+        - generic [ref=f550e56]: Inform me about upcoming career opportunities at We The Flywheel
+      - button "Continue →" [ref=f550e57] [cursor=pointer]
+      - paragraph [ref=f550e58]: By continuing you agree we may store your answers and contact you about this role. Email jobs@flywheel.bz to be deleted at any time.

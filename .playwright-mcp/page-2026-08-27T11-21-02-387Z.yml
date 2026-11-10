@@ -1,0 +1,24 @@
+- generic [ref=f132e3]:
+  - generic [ref=f132e4]:
+    - heading "Sorry, you have been blocked" [level=1] [ref=f132e5]
+    - heading "You are unable to access digitain.com" [level=2] [ref=f132e6]
+  - generic [ref=f132e12]:
+    - generic [ref=f132e13]:
+      - heading "Why have I been blocked?" [level=2] [ref=f132e14]
+      - paragraph [ref=f132e15]: This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
+    - generic [ref=f132e16]:
+      - heading "What can I do to resolve this?" [level=2] [ref=f132e17]
+      - paragraph [ref=f132e18]: You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
+  - paragraph [ref=f132e20]:
+    - generic [ref=f132e21]:
+      - text: "Cloudflare Ray ID:"
+      - strong [ref=f132e22]: a31ab0be19e433e5
+    - generic [ref=f132e23]: •
+    - generic [ref=f132e24]:
+      - text: "Your IP:"
+      - button "Click to reveal" [ref=f132e25] [cursor=pointer]
+      - generic [ref=f132e26]: •
+    - generic [ref=f132e27]:
+      - text: Performance & security by
+      - link "Cloudflare" [ref=f132e28] [cursor=pointer]:
+        - /url: https://www.cloudflare.com/5xx-error-landing

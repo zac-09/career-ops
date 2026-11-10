@@ -1,0 +1,164 @@
+- main "micro-container2" [ref=e3]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e9]:
+        - img "Yellow Card Financial" [ref=e10]
+        - link "Privacy Policy" [ref=e12] [cursor=pointer]:
+          - /url: http://www.bamboohr.com/privacy.php
+      - generic [ref=e17]:
+        - generic [ref=e19]:
+          - link "Job Openings" [ref=e21] [cursor=pointer]:
+            - /url: /careers
+          - generic [ref=e26]:
+            - generic [ref=e28]:
+              - heading "Technical Team Lead (Full-stack)" [level=3] [ref=e29]
+              - generic [ref=e30]: Engineering - Remote
+            - separator [ref=e31]
+          - generic [ref=e185]:
+            - generic [ref=e186]:
+              - generic [ref=e187]: Please leave this field blank
+              - textbox [ref=e188]:
+                - /placeholder: Enter your text here
+              - generic [ref=e189]:
+                - generic [ref=e190]:
+                  - generic [ref=e191]:
+                    - generic [ref=e192]:
+                      - generic [ref=e194]:
+                        - text: First Name
+                        - generic [ref=e195]: "*"
+                      - textbox "First Name" [ref=e198]
+                    - generic [ref=e199]:
+                      - generic [ref=e201]:
+                        - text: Last Name
+                        - generic [ref=e202]: "*"
+                      - textbox "Last Name" [ref=e205]
+                  - generic [ref=e206]:
+                    - generic [ref=e208]:
+                      - text: Email
+                      - generic [ref=e209]: "*"
+                    - textbox "Email" [ref=e212]
+                  - generic [ref=e213]:
+                    - generic [ref=e215]:
+                      - text: Phone
+                      - generic [ref=e216]: "*"
+                    - textbox "Phone" [ref=e219]
+                  - generic [ref=e220]:
+                    - generic [ref=e221]:
+                      - generic [ref=e223]:
+                        - text: Address
+                        - generic [ref=e224]: "*"
+                      - textbox "Address" [ref=e227]
+                    - generic [ref=e228]:
+                      - generic [ref=e229]:
+                        - generic [ref=e231]:
+                          - text: City
+                          - generic [ref=e232]: "*"
+                        - textbox "City" [ref=e235]
+                      - generic [ref=e236]:
+                        - generic [ref=e238]:
+                          - text: County
+                          - generic [ref=e239]: "*"
+                        - button "County –Select–" [ref=e244] [cursor=pointer]:
+                          - generic [ref=e245]: –Select–
+                      - generic [ref=e250]:
+                        - generic [ref=e252]:
+                          - text: Postcode
+                          - generic [ref=e253]: "*"
+                        - textbox "Postcode" [ref=e256]
+                    - generic [ref=e257]:
+                      - generic [ref=e259]:
+                        - text: Country
+                        - generic [ref=e260]: "*"
+                      - generic [ref=e264]:
+                        - button "Country United States" [ref=e265] [cursor=pointer]:
+                          - generic [ref=e266]: United States
+                        - button "Clear Selection" [ref=e272] [cursor=pointer]
+                - separator [ref=e275]
+                - generic [ref=e277]:
+                  - paragraph [ref=e278]: Resume*
+                  - generic [ref=e280]:
+                    - generic [ref=e282]:
+                      - button "Choose File*" [ref=e283] [cursor=pointer]
+                      - paragraph [ref=e291]: No file selected
+                    - button "file-input"
+                - separator [ref=e292]
+                - generic [ref=e293]:
+                  - generic [ref=e294]:
+                    - generic [ref=e295]: Website, Blog or Portfolio
+                    - textbox "Website, Blog or Portfolio" [ref=e299]
+                  - generic [ref=e300]:
+                    - generic [ref=e301]: LinkedIn URL
+                    - textbox "LinkedIn URL" [ref=e308]
+                - separator [ref=e309]
+                - generic [ref=e311]:
+                  - generic [ref=e312]: Who referred you for this position?
+                  - textbox "Who referred you for this position?" [ref=e316]
+                - separator [ref=e317]
+                - generic [ref=e318]:
+                  - generic [ref=e319]:
+                    - generic [ref=e321]:
+                      - text: What is your current notice period?
+                      - generic [ref=e322]: "*"
+                    - textbox "What is your current notice period?" [ref=e325]
+                  - generic [ref=e326]:
+                    - generic [ref=e328]:
+                      - text: What is your gross salary expectation in USD per month?
+                      - generic [ref=e329]: "*"
+                    - textbox "What is your gross salary expectation in USD per month?" [ref=e332]
+                  - radiogroup [ref=e334]:
+                    - generic [ref=e338]:
+                      - text: Do you currently reside in Africa?
+                      - generic [ref=e339]: "*"
+                    - radiogroup [ref=e341]:
+                      - generic [ref=e343] [cursor=pointer]:
+                        - radio "Yes" [ref=e345]
+                        - generic [ref=e347]: "Yes"
+                      - generic [ref=e349] [cursor=pointer]:
+                        - radio "No" [ref=e351]
+                        - generic [ref=e353]: "No"
+                  - radiogroup [ref=e355]:
+                    - generic [ref=e359]:
+                      - text: Do you have legal rights to work in your country of residence?
+                      - generic [ref=e360]: "*"
+                    - radiogroup [ref=e362]:
+                      - generic [ref=e364] [cursor=pointer]:
+                        - radio "Yes" [ref=e366]
+                        - generic [ref=e368]: "Yes"
+                      - generic [ref=e370] [cursor=pointer]:
+                        - radio "No" [ref=e372]
+                        - generic [ref=e374]: "No"
+            - generic [ref=e375]:
+              - separator [ref=e376]
+              - iframe [ref=e380]:
+                
+        - generic [ref=e118]:
+          - generic [ref=e120]:
+            - button "View Job Description" [ref=e381] [cursor=pointer]
+            - separator [ref=e123]
+            - generic [ref=e125]:
+              - generic [ref=e126]: Link to This Job
+              - textbox "Link to This Job" [ref=e130]: https://yellowcard.bamboohr.com/careers/412
+            - generic [ref=e132]:
+              - button "Share LinkedIn" [ref=e134] [cursor=pointer]
+              - button "Share Twitter" [ref=e139] [cursor=pointer]
+              - button "Share Facebook" [ref=e144] [cursor=pointer]
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - paragraph [ref=e151]: Location
+              - paragraph [ref=e153]: Remote
+              - separator [ref=e154]
+            - generic [ref=e155]:
+              - paragraph [ref=e157]: Department
+              - paragraph [ref=e159]: Engineering
+              - separator [ref=e160]
+            - generic [ref=e161]:
+              - paragraph [ref=e163]: Employment Type
+              - paragraph [ref=e165]: Full-Time
+              - separator [ref=e166]
+            - generic [ref=e167]:
+              - paragraph [ref=e169]: Minimum Experience
+              - paragraph [ref=e171]: Experienced
+              - separator [ref=e172]
+    - generic [ref=e390]:
+      - button "Submit Application" [ref=e391] [cursor=pointer]
+      - button "Cancel" [ref=e396] [cursor=pointer]

@@ -1,0 +1,15 @@
+[    1355ms] [LOG] Avo Inspector: supplied event optimize.activate with params {} @ https://public-assets.toggl.com/b/app-b26dadce0b14de05639d.js:1
+[    1355ms] [LOG] Avo Inspector: extracting schema from {} @ https://public-assets.toggl.com/b/app-b26dadce0b14de05639d.js:1
+[    1355ms] [LOG] Avo Inspector: saved event optimize.activate with schema [] @ https://public-assets.toggl.com/b/app-b26dadce0b14de05639d.js:1
+[    1356ms] [LOG] Avo Inspector: events [Object] @ https://public-assets.toggl.com/b/app-b26dadce0b14de05639d.js:1
+[    1357ms] [LOG] Avo Inspector: sending event optimize.activate with schema [] @ https://public-assets.toggl.com/b/app-b26dadce0b14de05639d.js:1
+[    1363ms] [LOG] Avo Inspector: supplied event start_pw with params {} @ https://public-assets.toggl.com/b/app-b26dadce0b14de05639d.js:1
+[    1363ms] [LOG] Avo Inspector: extracting schema from {} @ https://public-assets.toggl.com/b/app-b26dadce0b14de05639d.js:1
+[    1363ms] [LOG] Avo Inspector: saved event start_pw with schema [] @ https://public-assets.toggl.com/b/app-b26dadce0b14de05639d.js:1
+[    1363ms] [LOG] Avo Inspector: events [Object] @ https://public-assets.toggl.com/b/app-b26dadce0b14de05639d.js:1
+[    1363ms] [LOG] Avo Inspector: sending event start_pw with schema [] @ https://public-assets.toggl.com/b/app-b26dadce0b14de05639d.js:1
+[    1672ms] [LOG] Avo Inspector: batch sent successfully. @ https://public-assets.toggl.com/b/app-b26dadce0b14de05639d.js:1
+[    1680ms] [LOG] Avo Inspector: batch sent successfully. @ https://public-assets.toggl.com/b/app-b26dadce0b14de05639d.js:1
+[    1689ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://accounts.toggl.com/api/sessions:0
+[    2514ms] [WARNING] Datadog Browser SDK: No storage available for session. We will not send any data. @ https://cdn.ashbyprd.com/frontend_non_user/9d2556759f97ad8e8df1f95c766ce791002e553a/assets/index-C3qAhRad.js:31
+[   43389ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://connect.facebook.net/en_US/fbevents.js:0

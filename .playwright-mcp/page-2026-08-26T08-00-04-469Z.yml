@@ -1,0 +1,207 @@
+- generic [active] [ref=f30e1]:
+  - main [ref=f30e2]:
+    - generic [ref=f30e3]:
+      - generic [ref=f30e4]:
+        - generic [ref=f30e6]:
+          - generic [ref=f30e7]:
+            - heading "Platform Engineer" [level=1] [ref=f30e8]
+            - generic [ref=f30e9]: Rwanda | Africa
+          - button "Apply" [ref=f30e13] [cursor=pointer]
+        - generic [ref=f30e15]:
+          - heading [level=2] [ref=f30e16]:
+            - strong [ref=f30e17]: Platform Engineer
+          - paragraph [ref=f30e18]:
+            - text: "Are you the kind of engineer who sees a cluster not as plumbing but as the foundation on which real lives depend? At Sand, you'll own the Kubernetes platform that ministries of health use to make decisions for millions of people. It's expanding country by country: a growing fleet that spans managed cloud and self-managed, sovereign on-premises clusters, because where health data must live is the law, not a preference. Every new deployment is a fresh reliability problem, not a copy-paste when a cluster wobbles, a health worker loses the data they need. You'll automate relentlessly, codify everything with GitOps, and maintain a single operating standard across the whole estate. If you're as curious about the lives behind the systems as you are about the systems themselves, this is your foundation to build on."
+            - strong [ref=f30e19]:
+              - emphasis [ref=f30e20]
+          - heading [level=2] [ref=f30e21]:
+            - strong [ref=f30e22]: About Sand
+          - paragraph [ref=f30e23]:
+            - link "Sand Technologies" [ref=f30e24] [cursor=pointer]:
+              - /url: https://www.sandtech.com/
+            - text: is a global Physical AI company using data and AI to make critical industries work better. We partner with governments, cities, and enterprises to improve how essential systems operate across healthcare, water, energy, telecommunications, and infrastructure.
+          - paragraph [ref=f30e25]: Our work delivers proven real-world impact. We have built AI systems that help manage London’s water supply, supported telecom network planning across hundreds of cities, and developed digital healthcare platforms serving tens of millions of people across Africa. From intelligent command centers to AI-powered infrastructure platforms, we help organizations sense, analyze, and act in complex environments.
+          - paragraph [ref=f30e26]: Our people are ambitious, curious, and relentlessly practical. Our teams work alongside clients in the field, solving hard problems and deploying solutions that last. With colleagues across Africa, Europe, the UK, and the US, we operate across the full stack - from research and engineering to deployment and capability building.
+          - paragraph [ref=f30e27]: "Our mission is simple: to harness AI to solve humanity’s most pressing challenges."
+          - heading [level=2] [ref=f30e28]:
+            - strong [ref=f30e29]: About the role
+          - paragraph [ref=f30e30]: As our platforms scale across industries and deployment environments, we’re looking for a Platform Engineer who lives and breathes Kubernetes. You’ll own the foundations that everything else at Sand runs on — designing, operating, and hardening the clusters, pipelines, and reliability practices that let our product and delivery teams ship critical systems with confidence.
+          - paragraph [ref=f30e31]: This is a deeply hands-on site reliability role. You’ll work across managed cloud Kubernetes and self-managed on-premises clusters, treat infrastructure as code, automate relentlessly through GitOps, and build the observability and operational discipline that keeps mission-critical workloads healthy.
+          - heading [level=2] [ref=f30e32]:
+            - strong [ref=f30e33]: What you’ll do
+          - list [ref=f30e34]:
+            - listitem [ref=f30e35]:
+              - strong [ref=f30e36]: "Kubernetes platform ownership:"
+              - text: Design, deploy, and operate production Kubernetes clusters across AWS EKS and on-premises / bare-metal environments — owning cluster lifecycle, upgrades, multi-cluster topology, RBAC, networking, ingress, storage, and workload security.
+            - listitem [ref=f30e37]:
+              - strong [ref=f30e38]: "Platform engineering:"
+              - text: Build golden paths and self-service capabilities — Helm charts, operators/CRDs, reusable manifests, and internal tooling — that make it fast and safe for product and delivery teams to ship onto the platform.
+            - listitem [ref=f30e39]:
+              - strong [ref=f30e40]: "GitOps & automation:"
+              - text: Implement declarative, GitOps-driven delivery (Argo CD / Flux) and treat all infrastructure as code so environments are reproducible, auditable, and recoverable.
+            - listitem [ref=f30e41]:
+              - strong [ref=f30e42]: "Reliability & SRE:"
+              - text: Define SLOs and error budgets, lead incident response and blameless post-mortems, drive capacity and autoscaling strategy, and continuously improve the resilience and security posture of critical workloads.
+            - listitem [ref=f30e43]:
+              - strong [ref=f30e44]: "Observability:"
+              - text: Build and own monitoring, logging, tracing, and alerting (Prometheus, Grafana, OpenTelemetry, and similar) so the health of every deployed system is clear and actionable.
+            - listitem [ref=f30e45]:
+              - strong [ref=f30e46]: "CI/CD pipelines:"
+              - text: Develop and maintain CI/CD pipelines that streamline build, test, and deployment across services and environments.
+            - listitem [ref=f30e47]:
+              - strong [ref=f30e48]: "R&D and problem-solving:"
+              - text: Investigate infrastructure-level challenges, prototype solutions, and bring them into production.
+            - listitem [ref=f30e49]:
+              - strong [ref=f30e50]: "Debugging & issue resolution:"
+              - text: Troubleshoot and resolve infrastructure, networking, and cluster issues promptly to protect system integrity and performance.
+          - heading [level=2] [ref=f30e51]:
+            - strong [ref=f30e52]: Who you are
+          - list [ref=f30e53]:
+            - listitem [ref=f30e54]: Bachelor’s or Master’s degree in Computer Science, Information Technology, or a related field — or equivalent practical experience.
+            - listitem [ref=f30e55]: Minimum of 5 years in cloud/platform engineering, with significant hands-on time operating Kubernetes in production.
+            - listitem [ref=f30e56]: Proven track record of designing and running scalable, secure, and reliable cloud- and container-based platforms.
+            - listitem [ref=f30e57]: Experience managing on-premise and bare-metal deployments of Kubernetes clusters.
+            - listitem [ref=f30e58]: Excellent problem-solving skills, with the ability to research deeply and develop innovative solutions to complex infrastructure challenges.
+            - listitem [ref=f30e59]: Strong communication skills and a genuine ability to collaborate across cross-functional, distributed teams.
+            - listitem [ref=f30e60]:
+              - strong [ref=f30e61]: Willingness to travel across the African continent to support our in-country teams when needed.
+          - heading [level=2] [ref=f30e62]:
+            - strong [ref=f30e63]: How we work
+          - paragraph [ref=f30e64]: Due to the highly collaborative and internationally distributed nature of our work, successful candidates must be comfortable operating in small teams while contributing to larger, globally coordinated efforts. A strong sense of ownership, self-motivation and discipline in maintaining clear and consistent communication through virtual collaboration tools and video conferencing is essential.
+          - paragraph [ref=f30e65]
+      - separator [ref=f30e66]
+      - generic [ref=f30e67]:
+        - generic [ref=f30e68]:
+          - generic [ref=f30e69]:
+            - heading "Apply for this job" [level=2] [ref=f30e71]
+            - generic [ref=f30e72]:
+              - paragraph [ref=f30e74]: "*"
+              - paragraph [ref=f30e75]: indicates a required field
+          - button "Autofill my application" [ref=f30e78] [cursor=pointer]
+        - generic [ref=f30e79]:
+          - generic [ref=f30e80]:
+            - generic [ref=f30e83]:
+              - generic [ref=f30e84]: First Name*
+              - textbox "First Name" [ref=f30e85]
+            - generic [ref=f30e88]:
+              - generic [ref=f30e89]: Last Name*
+              - textbox "Last Name" [ref=f30e90]
+            - generic [ref=f30e93]:
+              - generic [ref=f30e94]: Preferred First Name
+              - textbox "Preferred First Name" [ref=f30e95]
+            - generic [ref=f30e98]:
+              - generic [ref=f30e99]: Email*
+              - textbox "Email" [ref=f30e100]
+            - group "Phone" [ref=f30e102]:
+              - generic [ref=f30e106]:
+                - generic [ref=f30e107]: Country*
+                - generic [ref=f30e108]:
+                  - log [ref=f30e110]
+                  - generic [ref=f30e112]:
+                    - combobox "Country" [ref=f30e115]
+                    - button "Toggle flyout" [ref=f30e117] [cursor=pointer]
+                  - textbox
+              - generic [ref=f30e122]:
+                - generic [ref=f30e123]: Phone*
+                - textbox "Phone" [ref=f30e124]
+            - generic [ref=f30e125]:
+              - generic [ref=f30e127]:
+                - generic [ref=f30e128]: Location (City)*
+                - generic [ref=f30e129]:
+                  - log [ref=f30e131]
+                  - combobox "Location (City)" [ref=f30e136]
+                  - textbox
+              - button "Locate me" [ref=f30e137] [cursor=pointer]
+            - group "Resume/CV*" [ref=f30e139]:
+              - generic [ref=f30e142]:
+                - generic [ref=f30e144]:
+                  - button "Attach" [ref=f30e145] [cursor=pointer]
+                  - generic [ref=f30e146]: Attach
+                  - button "Attach" [ref=f30e147]
+                - button "Dropbox" [ref=f30e149] [cursor=pointer]
+                - button "Google Drive" [ref=f30e151] [cursor=pointer]
+                - generic [ref=f30e153]:
+                  - button "Enter manually" [ref=f30e154] [cursor=pointer]
+                  - generic [ref=f30e155]: Enter manually
+                - paragraph [ref=f30e156]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=f30e158]:
+              - generic [ref=f30e161]:
+                - generic [ref=f30e163]:
+                  - button "Attach" [ref=f30e164] [cursor=pointer]
+                  - generic [ref=f30e165]: Attach
+                  - button "Attach" [ref=f30e166]
+                - button "Dropbox" [ref=f30e168] [cursor=pointer]
+                - button "Google Drive" [ref=f30e170] [cursor=pointer]
+                - generic [ref=f30e172]:
+                  - button "Enter manually" [ref=f30e173] [cursor=pointer]
+                  - generic [ref=f30e174]: Enter manually
+                - paragraph [ref=f30e175]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=f30e176]:
+            - separator [ref=f30e177]
+            - generic [ref=f30e178]:
+              - generic [ref=f30e180]:
+                - generic [ref=f30e181]: What interests and excites you about joining Sand?*
+                - textbox "What interests and excites you about joining Sand?" [ref=f30e182]
+              - paragraph [ref=f30e185]: (max 200 words)
+            - generic [ref=f30e188]:
+              - generic [ref=f30e189]: Why do you think you'd be a good fit?*
+              - textbox "Why do you think you'd be a good fit?" [ref=f30e190]
+            - generic [ref=f30e193]:
+              - generic [ref=f30e194]: Country of Residence *
+              - textbox "Country of Residence" [ref=f30e195]
+            - generic [ref=f30e198]:
+              - generic [ref=f30e199]: Do you currently require visa sponsorship to work in this country?*
+              - generic [ref=f30e200]:
+                - log [ref=f30e202]
+                - generic [ref=f30e204]:
+                  - generic [ref=f30e205]:
+                    - generic [ref=f30e206]: Select...
+                    - combobox "Do you currently require visa sponsorship to work in this country?" [ref=f30e208]
+                  - button "Toggle flyout" [ref=f30e210] [cursor=pointer]
+                - textbox
+            - generic [ref=f30e215]:
+              - generic [ref=f30e216]: What are your gross annual salary expectations (in USD)?*
+              - generic [ref=f30e217]:
+                - log [ref=f30e219]
+                - generic [ref=f30e221]:
+                  - generic [ref=f30e222]:
+                    - generic [ref=f30e223]: Select...
+                    - combobox "What are your gross annual salary expectations (in USD)?" [ref=f30e225]
+                  - button "Toggle flyout" [ref=f30e227] [cursor=pointer]
+                - textbox
+            - generic [ref=f30e232]:
+              - generic [ref=f30e233]: When would you be able to join us/ what is your notice period?*
+              - textbox "When would you be able to join us/ what is your notice period?" [ref=f30e234]
+            - generic [ref=f30e237]:
+              - generic [ref=f30e238]: Gender*
+              - generic [ref=f30e239]:
+                - log [ref=f30e241]
+                - generic [ref=f30e243]:
+                  - generic [ref=f30e244]:
+                    - generic [ref=f30e245]: Select...
+                    - combobox "Gender" [ref=f30e247]
+                  - button "Toggle flyout" [ref=f30e249] [cursor=pointer]
+                - textbox
+            - generic [ref=f30e254]:
+              - generic [ref=f30e255]: How did you hear about the role?*
+              - generic [ref=f30e256]:
+                - log [ref=f30e258]
+                - generic [ref=f30e260]:
+                  - generic [ref=f30e261]:
+                    - generic [ref=f30e262]: Select...
+                    - combobox "How did you hear about the role?" [ref=f30e264]
+                  - button "Toggle flyout" [ref=f30e266] [cursor=pointer]
+                - textbox
+            - generic [ref=f30e271]:
+              - generic [ref=f30e272]: If you selected other, Sand Staff or Media, please specify
+              - textbox "If you selected other, Sand Staff or Media, please specify" [ref=f30e273]
+            - generic [ref=f30e276]:
+              - generic [ref=f30e277]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=f30e278]
+          - button "Submit application" [ref=f30e280] [cursor=pointer]
+  - contentinfo [ref=f30e281]:
+    - generic [ref=f30e282]:
+      - paragraph [ref=f30e283]: Powered by
+      - link [ref=f30e284] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=f30e285]

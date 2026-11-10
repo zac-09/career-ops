@@ -1,0 +1,228 @@
+- generic [ref=f55e2]:
+  - list [ref=f55e4]:
+    - listitem [ref=f55e5]:
+      - link [ref=f55e6] [cursor=pointer]:
+        - /url: https://railway.app/
+        - img "Railway" [ref=f55e7]
+    - listitem [ref=f55e8]:
+      - link "Back to Railway’s Job Listings" [ref=f55e9] [cursor=pointer]:
+        - /url: /railway
+    - listitem
+  - generic [ref=f55e12]:
+    - heading "Senior Full-Stack Engineer - Product" [level=1] [ref=f55e14]
+    - generic [ref=f55e15]:
+      - generic [ref=f55e16]:
+        - generic [ref=f55e17]:
+          - heading "Location" [level=2] [ref=f55e18]
+          - paragraph [ref=f55e19]: Global
+        - generic [ref=f55e20]:
+          - heading "Employment Type" [level=2] [ref=f55e21]
+          - paragraph [ref=f55e22]: Full time
+        - generic [ref=f55e23]:
+          - heading "Location Type" [level=2] [ref=f55e24]
+          - paragraph [ref=f55e25]: Remote
+        - generic [ref=f55e26]:
+          - heading "Department" [level=2] [ref=f55e27]
+          - paragraph [ref=f55e28]:
+            - generic [ref=f55e29]: Product ›
+            - generic [ref=f55e30]: Engineering
+      - generic [ref=f55e31]:
+        - tablist [ref=f55e32]:
+          - tab "Overview" [selected] [ref=f55e33] [cursor=pointer]
+          - tab "Application" [ref=f55e34] [cursor=pointer]
+        - tabpanel "Overview" [ref=f55e36]:
+          - generic [ref=f55e37]:
+            - paragraph [ref=f55e38]:
+              - emphasis [ref=f55e39]: This is a remote position available anywhere in the world! Linkedin makes us show a country, but we hire the best people wherever they are.
+            - paragraph [ref=f55e40]: Our core mission at Railway is to make software engineers higher leverage. We believe that people should be given powerful tools so that they can spend less time setting up to do, and more time doing.
+            - paragraph [ref=f55e41]: At Railway, we believe that making tooling more accessible for build and deployment is one of the greatest possible productivity unlocks of our generation. We also believe that the major roadblock between us and our goal is strong interfacing paradigms.
+            - paragraph [ref=f55e42]: If you’re looking to build an operating system for builders, we’d love to talk with you!
+            - paragraph [ref=f55e43]:
+              - text: "Curious? Learn more in our blog post about this team and the great work they’re doing:"
+              - emphasis [ref=f55e44]: "Team Spotlight: Product Engineering"
+              - text: (
+              - link "https://blog.railway.app/p/team-spotlight-product-engineering" [ref=f55e45] [cursor=pointer]:
+                - /url: https://blog.railway.app/p/team-spotlight-product-engineering
+              - text: )
+            - paragraph [ref=f55e46]
+            - heading "About the role" [level=2] [ref=f55e47]
+            - paragraph [ref=f55e48]: "For this role, you will:"
+            - list [ref=f55e49]:
+              - listitem [ref=f55e50]:
+                - paragraph [ref=f55e51]: Build features end-to-end, from the UI in our dashboard to orchestrating workflows that interact with our microservices using Temporal.
+              - listitem [ref=f55e52]:
+                - paragraph [ref=f55e53]: Craft intuitive interfaces that allow our users to interface with powerful computing paradigms, with help from our design team.
+              - listitem [ref=f55e54]:
+                - paragraph [ref=f55e55]: Build TypeScript + GraphQL APIs with strong guarantees around modeling data, allowing both internal and external users to build against.
+              - listitem [ref=f55e56]:
+                - paragraph [ref=f55e57]: Write Engineering Requirement Documents to take something from idea, to defined tasks, to implementation, to monitoring it’s success.
+              - listitem [ref=f55e58]:
+                - paragraph [ref=f55e59]:
+                  - text: Experience with, or at least the desire to learn Rust to contribute to our open-source repositories (CLI,
+                  - link "Nixpacks" [ref=f55e60] [cursor=pointer]:
+                    - /url: https://nixpacks.com/docs
+                  - text: ", etc)."
+            - paragraph [ref=f55e61]: Some projects full-stack engineers have worked on in the past
+            - list [ref=f55e62]:
+              - listitem [ref=f55e63]:
+                - paragraph [ref=f55e64]:
+                  - link "Rebuild logging infrastructure" [ref=f55e65] [cursor=pointer]:
+                    - /url: https://blog.railway.app/p/launch-week-01-observability
+                  - text: to support 1B logs/day, from configuring ClickHouse to developing a brand new observability UI
+              - listitem [ref=f55e66]:
+                - paragraph [ref=f55e67]:
+                  - text: Build
+                  - link "Git for infrastructure" [ref=f55e68] [cursor=pointer]:
+                    - /url: https://blog.railway.app/p/launch-week-01-changesets
+                  - text: and re-thinking how a project evolves over time
+              - listitem [ref=f55e69]:
+                - paragraph [ref=f55e70]:
+                  - text: Build a tool for building user code into a deployable image using Nix packages. (
+                  - link "github.com/railwayapp/nixpacks)" [ref=f55e71] [cursor=pointer]:
+                    - /url: http://github.com/railwayapp/nixpacks
+              - listitem [ref=f55e72]:
+                - paragraph [ref=f55e73]:
+                  - text: Create interfaces to visualize project infrastructure on a
+                  - link "2D canvas" [ref=f55e74] [cursor=pointer]:
+                    - /url: https://community.railway.app/discuss/thread/service-groups-c1faed81
+              - listitem [ref=f55e75]:
+                - paragraph [ref=f55e76]: Add support for migrating deployments with a volume from one region to another using Temporal
+              - listitem [ref=f55e77]:
+                - paragraph [ref=f55e78]:
+                  - text: Create a
+                  - link "marketplace" [ref=f55e79] [cursor=pointer]:
+                    - /url: https://railway.app/templates
+                  - text: for users to share re-usable pieces of infrastructure
+            - paragraph [ref=f55e80]: This is a high impact, high agency role with direct effect on company culture, trajectory, and outcome.
+            - paragraph [ref=f55e81]
+            - heading "About you" [level=2] [ref=f55e82]
+            - list [ref=f55e83]:
+              - listitem [ref=f55e84]:
+                - paragraph [ref=f55e85]: An ability to autonomously lead, design, and implement great product experiences, from front to back.
+              - listitem [ref=f55e86]:
+                - paragraph [ref=f55e87]: A strong understanding of frontend architecture to build interactivity-rich systems for fetching, mutating, and rendering data effectively
+              - listitem [ref=f55e88]:
+                - paragraph [ref=f55e89]: Experience managing complex asynchronous backend jobs for something like a build/deploy pipeline.
+              - listitem [ref=f55e90]:
+                - paragraph [ref=f55e91]: A desire to be a part of the entire project development process. From research gathering and planning, to implementation and monitoring
+              - listitem [ref=f55e92]:
+                - paragraph [ref=f55e93]: Great written and verbal communication skills for expressing ideas, designs, and potential solutions in mostly-asynchronous manner
+            - paragraph [ref=f55e94]:
+              - emphasis [ref=f55e95]:
+                - strong [ref=f55e96]: We value and love to work with diverse persons from all backgrounds
+            - paragraph [ref=f55e97]:
+              - strong [ref=f55e98]: Things to know
+            - paragraph [ref=f55e99]: For better or worse, we're a startup; our team dynamics are different from companies of different sizes and stages.
+            - list [ref=f55e100]:
+              - listitem [ref=f55e101]:
+                - paragraph [ref=f55e102]: We're distributed ALL across the globe, and that's only going to be more and more distributed. As a result, stuff is ALWAYS happening.
+              - listitem [ref=f55e103]:
+                - paragraph [ref=f55e104]: We do NOT expect you to work all the time, but you'll have to be diligent about your boundaries because the end of your day may overlap with the start of someone else's.
+              - listitem [ref=f55e105]:
+                - paragraph [ref=f55e106]: We're a small team, with high ownership, who are not only passionate about what we do, but seek to be exceptional as well. At the time of writing we're 21, serving hundreds of thousands of users. There's a lot of stuff going on, and a lot of ambiguity.
+              - listitem [ref=f55e107]:
+                - paragraph [ref=f55e108]: We want you to own it. We believe that ownership is a key to growth, and part of that growth is not only being able to make the choices, but owning the success, or failure, that comes with those choices.
+            - paragraph [ref=f55e109]:
+              - strong [ref=f55e110]: Benefits and perks
+            - paragraph [ref=f55e111]:
+              - text: At Railway, we provide best in class benefits. Great salary, full health benefits including dependents, strong equity grants, equipment stipend, and much more. For more details, check back on the main
+              - link "careers page" [ref=f55e112] [cursor=pointer]:
+                - /url: https://railway.app/careers/full-stack
+              - text: .
+            - paragraph [ref=f55e113]: "Beyond compensation, there are a few things that we believe that make working at Railway truly unique:"
+            - list [ref=f55e114]:
+              - listitem [ref=f55e115]:
+                - paragraph [ref=f55e116]:
+                  - strong [ref=f55e117]: Autonomy
+                  - text: ": We have very few meetings. Just a Monday and a Friday to go over the Company Board. We think your time is sacred, whether it's at work, or outside of work."
+              - listitem [ref=f55e118]:
+                - paragraph [ref=f55e119]:
+                  - strong [ref=f55e120]: Ownership
+                  - text: ": We're a company with a high ownership, high autonomy culture. We hope that you'll come in, help us, and over the course of many years do the best work of your life. When we bring you onboard, we expect you to change the company."
+              - listitem [ref=f55e121]:
+                - paragraph [ref=f55e122]:
+                  - strong [ref=f55e123]: Novel problems/solutions
+                  - text: ": We're a startup that's well funded, with cool problems, which lets us implement novel solutions! We abhor “busywork” and think, whether it's community, engineering, operations, etc there's always opportunity for creative and high leverage solutions."
+              - listitem [ref=f55e124]:
+                - paragraph [ref=f55e125]:
+                  - strong [ref=f55e126]: Growth
+                  - text: ": We want you to grow with us, but we know that talent is loaned, so when you figure out what area you want to grow in next, whether it's at Railway or outside, we'll make sure you land there."
+            - paragraph [ref=f55e127]:
+              - strong [ref=f55e128]: How we hire
+            - paragraph [ref=f55e129]: "No tricks. No surprises. Here's the entire process:"
+            - list [ref=f55e130]:
+              - listitem [ref=f55e131]:
+                - paragraph [ref=f55e132]:
+                  - strong [ref=f55e133]: Talk with us about the role
+                - list [ref=f55e134]:
+                  - listitem [ref=f55e135]:
+                    - paragraph [ref=f55e136]: This is completely open ended and we're just trying to see who you are, what you want to do, and where you wanna go.
+              - listitem [ref=f55e137]:
+                - paragraph [ref=f55e138]:
+                  - strong [ref=f55e139]: Work on a small project to discuss in the interview
+                - list [ref=f55e140]:
+                  - listitem [ref=f55e141]:
+                    - paragraph [ref=f55e142]: "Asynchronously implement the following:"
+                    - list [ref=f55e143]:
+                      - listitem [ref=f55e144]:
+                        - paragraph [ref=f55e145]: Build an application to spin up and spin down a container using our GQL API. Please deploy on Railway before the interview and we will review the code during your interview. The app needs to have a UI component and not just a backend that uses the API.
+                      - listitem [ref=f55e146]:
+                        - paragraph [ref=f55e147]: You will submit your solution before the interview, and sit down with a member of the team and go over the above. We'll poke into your solution, as well as get you acquainted with a member of the team.
+                      - listitem [ref=f55e148]:
+                        - paragraph [ref=f55e149]:
+                          - strong [ref=f55e150]: You can, and SHOULD!
+                          - text: ask us questions ahead of time.
+              - listitem [ref=f55e151]:
+                - paragraph [ref=f55e152]:
+                  - strong [ref=f55e153]: Review your solution with the Team
+                - list [ref=f55e154]:
+                  - listitem [ref=f55e155]:
+                    - paragraph [ref=f55e156]: You'll sit down with someone on the team and go over the above. We'll poke into your solution, as well as get you acquainted with a member of the team.
+                    - list [ref=f55e157]:
+                      - listitem [ref=f55e158]:
+                        - paragraph [ref=f55e159]:
+                          - strong [ref=f55e160]: "Looking for:"
+                          - text: Learn about your problem solving skills. How you break down a problem and how you present a solution.
+                      - listitem [ref=f55e161]:
+                        - paragraph [ref=f55e162]: "Interview Structure to expect when you review with the team (60 Minutes):"
+                      - listitem [ref=f55e163]:
+                        - paragraph [ref=f55e164]: "0-5 minutes: Introductions"
+                      - listitem [ref=f55e165]:
+                        - paragraph [ref=f55e166]: "5-35 minutes: Walking through the code, talking about how you’d extend it"
+                      - listitem [ref=f55e167]:
+                        - paragraph [ref=f55e168]: "35-50 minutes: Noodling on technology, frameworks, how you think about product"
+                      - listitem [ref=f55e169]:
+                        - paragraph [ref=f55e170]: "50-60 minutes: Time for you to ask your interviewers question"
+              - listitem [ref=f55e171]:
+                - paragraph [ref=f55e172]:
+                  - strong [ref=f55e173]: Meet the Team
+                - list [ref=f55e174]:
+                  - listitem [ref=f55e175]:
+                    - paragraph [ref=f55e176]: You'll meet the Team, which will be comprised of 4 people from vastly different sections of the company.
+                    - list [ref=f55e177]:
+                      - listitem [ref=f55e178]:
+                        - paragraph [ref=f55e179]:
+                          - strong [ref=f55e180]: "Looking for:"
+                          - text: How you work with the rest of the team and communicate.
+              - listitem [ref=f55e181]:
+                - paragraph [ref=f55e182]:
+                  - strong [ref=f55e183]: Offer and Details Chat with CEO
+                - list [ref=f55e184]:
+                  - listitem [ref=f55e185]:
+                    - paragraph [ref=f55e186]: Finally, we will go over the process, the role, and hammer out the details about your position, onboarding, and all the deets.
+            - paragraph [ref=f55e187]: "#Global"
+          - link [ref=f55e188] [cursor=pointer]:
+            - /url: /railway/6ddcfe47-6cce-469b-ba6d-4f0e83440c9d/application
+            - button "Apply for this Job" [ref=f55e189]
+  - contentinfo [ref=f55e190]:
+    - link "Learn more about Ashby" [ref=f55e191] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f55e192]: Powered by
+      - img "Ashby" [ref=f55e193]
+    - paragraph [ref=f55e199]:
+      - link "Privacy Policy" [ref=f55e200] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f55e201] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f55e202] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

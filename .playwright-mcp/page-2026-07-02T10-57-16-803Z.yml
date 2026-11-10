@@ -1,0 +1,233 @@
+- generic [ref=f18e2]:
+  - list [ref=f18e4]:
+    - listitem [ref=f18e5]:
+      - link "Zapier" [ref=f18e6] [cursor=pointer]:
+        - /url: https://zapier.com/
+        - img "Zapier" [ref=f18e7]
+    - listitem [ref=f18e8]:
+      - link "Back to Zapier’s Job Listings" [ref=f18e9] [cursor=pointer]:
+        - /url: /zapier
+        - img [ref=f18e10]
+    - listitem
+  - generic [ref=f18e12]:
+    - heading "Staff Engineer, Backend, Revenue" [level=1] [ref=f18e14]
+    - generic [ref=f18e15]:
+      - generic [ref=f18e16]:
+        - generic [ref=f18e17]:
+          - heading "Location" [level=2] [ref=f18e18]
+          - paragraph [ref=f18e19]: NAMER; APAC; EMEA
+        - generic [ref=f18e20]:
+          - heading "Employment Type" [level=2] [ref=f18e21]
+          - paragraph [ref=f18e22]: Full time
+        - generic [ref=f18e23]:
+          - heading "Location Type" [level=2] [ref=f18e24]
+          - paragraph [ref=f18e25]: Remote
+        - generic [ref=f18e26]:
+          - heading "Department" [level=2] [ref=f18e27]
+          - paragraph [ref=f18e28]:
+            - generic [ref=f18e29]: Engineering
+        - generic [ref=f18e30]:
+          - heading "Deadline to Apply" [level=2] [ref=f18e31]
+          - paragraph [ref=f18e32]: 30 June 2026 at 07:00 GMT+3
+        - generic [ref=f18e33]:
+          - heading "Compensation" [level=2] [ref=f18e34]
+          - list [ref=f18e35]:
+            - listitem [ref=f18e36]:
+              - generic [ref=f18e37]: USA
+              - generic [ref=f18e38]: Base Salary $210,700 – $316,100 • Offers Equity • Offers Bonus
+            - listitem [ref=f18e39]:
+              - generic [ref=f18e40]: Canada
+              - generic [ref=f18e41]: Base Salary CA$210,700 – CA$316,100 • Offers Equity • Offers Bonus
+            - listitem [ref=f18e42]:
+              - generic [ref=f18e43]: United Kingdom
+              - generic [ref=f18e44]: Base Salary £132,500 – £198,700 • Offers Equity • Offers Bonus
+            - listitem [ref=f18e45]:
+              - generic [ref=f18e46]: Ireland
+              - generic [ref=f18e47]: Base Salary €135,800 – €203,800 • Offers Equity • Offers Bonus
+            - listitem [ref=f18e48]:
+              - generic [ref=f18e49]: Spain
+              - generic [ref=f18e50]: Base Salary €135,800 – €203,800 • Offers Equity • Offers Bonus
+            - listitem [ref=f18e51]:
+              - generic [ref=f18e52]: India
+              - generic [ref=f18e53]: Base Salary ₹77,56,200 – ₹1,16,34,400 • Offers Equity • Offers Bonus
+            - listitem [ref=f18e54]:
+              - generic [ref=f18e55]: Australia
+              - generic [ref=f18e56]: Base Salary A$208,600 – A$313,000 • Offers Equity • Offers Bonus
+            - listitem [ref=f18e57]:
+              - generic [ref=f18e58]: New Zealand
+              - generic [ref=f18e59]: Base Salary NZ$208,600 – NZ$313,000 • Offers Equity • Offers Bonus
+          - generic [ref=f18e60]:
+            - paragraph [ref=f18e61]: "We believe all Zapiens should be rewarded competitively and equitably, using practices that are simple and transparent. This philosophy ensures we’re able to find, grow, and retain exceptional people from a broad range of backgrounds. Here’s how we define our compensation principles:"
+            - list [ref=f18e62]:
+              - listitem [ref=f18e63]:
+                - paragraph [ref=f18e64]: "Competitive: Zapier pays well among the technology sector."
+              - listitem [ref=f18e65]:
+                - paragraph [ref=f18e66]: "Equitable: Consistent pay practices; Pay for impact"
+              - listitem [ref=f18e67]:
+                - paragraph [ref=f18e68]: "Simple: Pay is well understood, and pay practices are built for scale."
+              - listitem [ref=f18e69]:
+                - paragraph [ref=f18e70]: "Transparent: Zapiens know how pay works, including how their pay is determined."
+            - paragraph [ref=f18e71]
+            - paragraph [ref=f18e72]:
+              - text: A Candidate's compensation package is finalized once the interview process is concluded and accounts for demonstrated experience, job knowledge, skills, abilities, and internal equity. We use a business impact approach to base pay, which means we set pay for all Zapiens based on their demonstrated impact on Zapier’s success. In alignment with that philosophy, the upper half of a pay range is typically reserved for individuals who have consistently demonstrated a high impact in their current role and level while at Zapier.
+              - text: For more information on Zapier’s Total Rewards please click
+              - link "here" [ref=f18e73] [cursor=pointer]:
+                - /url: https://zapier.com/l/jobs/total-rewards
+              - text: .
+      - generic [ref=f18e74]:
+        - tablist [ref=f18e75]:
+          - tab "Overview" [selected] [ref=f18e76] [cursor=pointer]
+          - tab "Application" [ref=f18e77] [cursor=pointer]
+        - tabpanel "Overview" [ref=f18e79]:
+          - generic [ref=f18e80]:
+            - heading "AI at Zapier" [level=2] [ref=f18e81]:
+              - strong [ref=f18e82]: AI at Zapier
+            - paragraph [ref=f18e83]:
+              - text: At
+              - link "Zapier" [ref=f18e84] [cursor=pointer]:
+                - /url: https://zapier.com/about
+              - text: ", we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them"
+              - strong [ref=f18e85]: responsibly and transparently
+              - text: .
+            - paragraph [ref=f18e86]:
+              - text: Check out our guidance on
+              - link "How to Collaborate with AI During Zapier’s Hiring Process" [ref=f18e87] [cursor=pointer]:
+                - /url: https://zapier.com/l/jobs/ai-at-zapier
+                - strong [ref=f18e88]: How to Collaborate with AI During Zapier’s Hiring Process
+              - strong [ref=f18e89]: ","
+              - text: including how to use AI tools like ChatGPT, Claude, Gemini, or others during our hiring process - and when not to.
+            - paragraph [ref=f18e91]:
+              - strong [ref=f18e92]: "Job Posted:"
+              - text: April 29, 2026
+            - paragraph [ref=f18e93]:
+              - strong [ref=f18e94]: "Updated:"
+              - text: June 19, 2026
+            - paragraph [ref=f18e95]:
+              - strong [ref=f18e96]: "Location:"
+              - text: Americas - North, Central and South America, EMEA, APAC
+            - paragraph [ref=f18e97]
+            - heading "Hi there!" [level=2] [ref=f18e98]
+            - paragraph [ref=f18e99]: "Zapier's mission is to make automation work for everyone. That mission is funded by revenue — and every dollar of it flows through Revenue Zone. We build and operate the infrastructure behind billing, subscriptions, payments, pricing, entitlements, and checkout across everything Zapier ships: self-serve plans, enterprise contracts, and ecosystem offerings. When a customer upgrades, renews, changes plans, or pays an invoice, our systems make it happen — correctly, instantly, and at scale."
+            - paragraph [ref=f18e100]:
+              - text: We're hiring a
+              - strong [ref=f18e101]: Staff Engineer
+              - text: to own the technical vision and long-term architecture for Revenue Zone. You'll define the pricing primitives, service boundaries, and data models that let Zapier ship pricing and packaging changes in days instead of months — while keeping every dollar accounted for accurately. That means designing the framework and abstractions product teams plug into so they can launch new SKUs without becoming billing experts, building configuration-driven infrastructure for pricing experimentation, and ensuring the platform evolves without foundational rewrites.
+            - paragraph [ref=f18e102]: This is production-critical, finance-grade infrastructure where correctness is non-negotiable. You'll drive alignment across teams in a space defined by high ambiguity and competing constraints, working closely with Product, Engineering, Finance, and Sales. The role is particularly exciting because decisions here ripple across Zapier — shaping how the company monetizes its next phase of growth.
+            - list [ref=f18e103]:
+              - listitem [ref=f18e104]:
+                - paragraph [ref=f18e105]:
+                  - link "Our Commitment to Applicants" [ref=f18e106] [cursor=pointer]:
+                    - /url: https://zapier.com/jobs/our-commitment-to-applicants/
+              - listitem [ref=f18e107]:
+                - paragraph [ref=f18e108]:
+                  - link "Culture and Values at Zapier" [ref=f18e109] [cursor=pointer]:
+                    - /url: https://zapier.com/jobs/culture-and-values-at-zapier/
+              - listitem [ref=f18e110]:
+                - paragraph [ref=f18e111]:
+                  - link "Zapier Guide to Remote Work" [ref=f18e112] [cursor=pointer]:
+                    - /url: https://zapier.com/learn/remote-work/
+              - listitem [ref=f18e113]:
+                - paragraph [ref=f18e114]:
+                  - link "Zapier Code of Conduct" [ref=f18e115] [cursor=pointer]:
+                    - /url: https://zapier.com/jobs/zapier-code-of-conduct/
+              - listitem [ref=f18e116]:
+                - paragraph [ref=f18e117]:
+                  - link "Diversity and Inclusivity at Zapier" [ref=f18e118] [cursor=pointer]:
+                    - /url: https://zapier.com/jobs/working-on-diversity-and-inclusivity/
+            - paragraph [ref=f18e119]
+            - heading "About You" [level=2] [ref=f18e120]:
+              - strong [ref=f18e121]: About You
+            - list [ref=f18e122]:
+              - listitem [ref=f18e123]:
+                - paragraph [ref=f18e124]:
+                  - strong [ref=f18e125]: "Proven engineering impact:"
+                  - text: You've driven outcomes in complex, production systems at scale — shipping projects that delivered measurable improvements in environments where requirements shifted under you. You separate essential from accidental complexity, make tradeoffs explicit, and use data to inform decisions without becoming paralyzed by it. Many strong candidates have 8+ years of experience, but we hire for impact and capability, not tenure.
+              - listitem [ref=f18e126]:
+                - paragraph [ref=f18e127]:
+                  - strong [ref=f18e128]: "Billing/payments/monetization domain experience:"
+                  - text: You bring strong domain knowledge in billing systems, subscription management, payment processing, or financial platforms. You understand metered billing, pricing models, entitlements, revenue recognition, and the operational complexity of supporting enterprise customers. You know that billing isn't just a backend problem — it touches sales, finance, support, and product, and you've navigated that reality.
+              - listitem [ref=f18e129]:
+                - paragraph [ref=f18e130]:
+                  - strong [ref=f18e131]: "API, platform, and performance expertise:"
+                  - text: You've designed and built APIs that serve multiple consumers — internal teams, external partners, and user-facing products — and you know how to evolve systems without breaking existing integrations. You have a track record of identifying and resolving performance bottlenecks through profiling, caching, database optimization, and delivering measurable improvements that impact user experience and conversion.
+              - listitem [ref=f18e132]:
+                - paragraph [ref=f18e133]:
+                  - strong [ref=f18e134]: "Outcome-driven and customer-focused:"
+                  - text: You care deeply about the problems our customers are trying to solve and define success by the results they achieve — not the elegance of the technical solution. You fall in love with the problem, not your first implementation, and are willing to rethink or pivot when it better serves the customer and the business.
+              - listitem [ref=f18e135]:
+                - paragraph [ref=f18e136]:
+                  - strong [ref=f18e137]: "Cross-team leadership and proactive ownership:"
+                  - text: You've led technical initiatives that span multiple teams and operate with end-to-end ownership. You gather requirements, surface risks early, align stakeholders, and drive ambiguous problems through to measurable outcomes. You're a trusted partner to Engineering, Product, and Design leadership — helping shape roadmaps, translating business strategy into technical direction, and amplifying other engineers by raising standards and building durable foundations that create leverage across teams.
+              - listitem [ref=f18e138]:
+                - paragraph [ref=f18e139]:
+                  - strong [ref=f18e140]: "AI fluency:"
+                  - text: You use AI coding tools as a regular part of your workflow and have a point of view on where they accelerate delivery and where human judgment is non-negotiable. In a high-correctness domain like payments and billing, you know the difference between automating boilerplate and trusting AI with revenue logic — and you bring that judgment to the engineers you work with.
+              - listitem [ref=f18e141]:
+                - paragraph [ref=f18e142]:
+                  - strong [ref=f18e143]: "Comfort with complexity:"
+                  - text: You're at home in large, mature codebases — you know how to navigate a monolith, find the right leverage points, and make meaningful progress without waiting for a clean slate.
+            - paragraph [ref=f18e144]
+            - heading "Things You’ll Do" [level=2] [ref=f18e145]:
+              - strong [ref=f18e146]: Things You’ll Do
+            - list [ref=f18e147]:
+              - listitem [ref=f18e148]:
+                - paragraph [ref=f18e149]:
+                  - strong [ref=f18e150]: "Serve as a technical leader within the Revenue Zone:"
+                  - text: You’ll operate as part of the zone’s leadership team, partnering closely with Engineering, Product, and Design to shape strategy and roadmap decisions. You’ll translate business context into technical direction—and ensure engineering tradeoffs are clearly understood at the business level.
+              - listitem [ref=f18e151]:
+                - paragraph [ref=f18e152]:
+                  - strong [ref=f18e153]: "Shape the long-term platform vision:"
+                  - text: You’ll define and evolve the architectural direction of the Revenue Zone, balancing near-term delivery with long-term durability, extensibility, and operational excellence.
+              - listitem [ref=f18e154]:
+                - paragraph [ref=f18e155]:
+                  - strong [ref=f18e156]: "Lead high-impact technical initiatives:"
+                  - text: You’ll drive the strategic evolution of our monetization platform—decoupling billing from account systems, clarifying system boundaries, and consolidating pricing infrastructure. You’ll build flexible, configurable foundations that enable fast Pricing and Packaging experimentation and seamless launch moments across the customer lifecycle, while supporting clean, reliable data for Finance and Pricing & Packaging.
+              - listitem [ref=f18e157]:
+                - paragraph [ref=f18e158]:
+                  - strong [ref=f18e159]: "Own and strengthen revenue-critical systems:"
+                  - text: You’ll be responsible for systems across the Revenue Zone—Billing, Pricing, Payments, Checkout, and Entitlements—ensuring they are resilient, observable, and correct. You’ll raise the bar on proactive detection, safe rollback mechanisms, and revenue accuracy—catching issues before customers do. You’ll systematically reduce structural and technical debt, eliminate recurring operational pain points, and strengthen architectural foundations to prevent revenue-impacting incidents before they emerge.
+              - listitem [ref=f18e160]:
+                - paragraph [ref=f18e161]:
+                  - strong [ref=f18e162]: "Guide high-impact technical decisions:"
+                  - text: You’ll influence API design, data modeling, caching strategies, and system architecture—optimizing for scalability, developer experience, and rapid pricing and packaging iteration.
+              - listitem [ref=f18e163]:
+                - paragraph [ref=f18e164]:
+                  - strong [ref=f18e165]: "Partner deeply across Zapier:"
+                  - text: You’ll collaborate closely with Pricing & Packaging, Product, and Design teams to drive ARR growth and craft seamless, intuitive, and lovable monetization journeys for self-serve, enterprise, and ecosystem customers. You’ll also work with Support and Operations to ensure robust admin tooling and exceptional customer experiences across upgrades, billing changes, and subscription management.
+              - listitem [ref=f18e166]:
+                - paragraph [ref=f18e167]:
+                  - strong [ref=f18e168]: "Drive measurable improvements:"
+                  - text: You’ll identify performance bottlenecks and deliver optimizations that show up in the metrics—reduced latency, improved reliability, stronger customer experiences, and improved conversion and retention.
+              - listitem [ref=f18e169]:
+                - paragraph [ref=f18e170]:
+                  - strong [ref=f18e171]: "Mentor engineers and raise the technical bar:"
+                  - text: You’ll share patterns and tooling, conduct thoughtful code reviews, and grow engineering capability across the zone. You’ll be a go-to resource for engineers tackling complex monetization and platform challenges.
+              - listitem [ref=f18e172]:
+                - paragraph [ref=f18e173]:
+                  - strong [ref=f18e174]: "Champion documentation and developer experience:"
+                  - text: You’ll ensure our systems are well-documented and easy to adopt, reducing friction and accelerating development across the organization.
+            - paragraph [ref=f18e175]
+            - heading "Application Deadline:" [level=2] [ref=f18e176]:
+              - strong [ref=f18e177]: "Application Deadline:"
+            - paragraph [ref=f18e178]: The anticipated application window is 30 days from the date job is posted, unless the number of applicants requires it to close sooner or later, or if the position is filled.
+            - paragraph [ref=f18e179]:
+              - emphasis [ref=f18e180]: Even though we’re an all-remote company, we still need to be thoughtful about where we have Zapiens working. Check out
+              - link "this resource" [ref=f18e181] [cursor=pointer]:
+                - /url: https://docs.google.com/spreadsheets/d/1_lXQvKwuU4xXEbye7EW_En8iv1ZIMlQNmT7B2Mzbo24/edit?gid=0#gid=0
+                - emphasis [ref=f18e182]: this resource
+              - emphasis [ref=f18e183]: for a list of countries where we currently cannot have Zapiens permanently working.
+          - link "Apply for this Job" [ref=f18e184] [cursor=pointer]:
+            - /url: /zapier/1767482d-de23-460c-80eb-6d0a3caa72ab/application
+            - button "Apply for this Job" [ref=f18e185]
+  - contentinfo [ref=f18e186]:
+    - link "Learn more about Ashby" [ref=f18e187] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f18e188]: Powered by
+      - img "Ashby" [ref=f18e189]
+    - paragraph [ref=f18e195]:
+      - link "Privacy Policy" [ref=f18e196] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f18e197] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f18e198] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

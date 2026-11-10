@@ -1,0 +1,261 @@
+- generic [active] [ref=f98e1]:
+  - generic [ref=f98e2]:
+    - link "Build your resume" [ref=f98e3] [cursor=pointer]:
+      - /url: https://www.toptal.com/resume
+    - link "Health insurance" [ref=f98e5] [cursor=pointer]:
+      - /url: /nomad-health-individual
+    - link "Post a job →" [ref=f98e6] [cursor=pointer]:
+      - /url: /hire-remotely?discount_code=a5d813bfdd91d2cab5fb309a4f063006&ref=top
+    - link "Log in" [ref=f98e7] [cursor=pointer]:
+      - /url: /login
+  - generic [ref=f98e9]:
+    - generic [ref=f98e10]:
+      - paragraph [ref=f98e11]:
+        - text: "Post a job to reach 13,200,000+ remote workers on the #1 Remote Job Platform"
+        - generic [ref=f98e12]:
+          - text: You can also
+          - link "hire freelance talent" [ref=f98e13] [cursor=pointer]:
+            - /url: https://www.toptal.com/
+          - text: on demand, pre-screened and thoroughly vetted.
+      - link "Post a remote job →" [ref=f98e14] [cursor=pointer]:
+        - /url: /hire-remotely?discount_code=a5d813bfdd91d2cab5fb309a4f063006&ref=center
+    - table [ref=f98e16]:
+      - rowgroup [ref=f98e17]:
+        - row [ref=f98e18]:
+          - columnheader "💵 Salary 🎪 Benefits 🦴 Sort by ⚛️ React Native Remove this filter ❌ Clear 30 results" [ref=f98e19]:
+            - textbox "🔍 Search" [ref=f98e24]
+            - textbox "🌏 Location" [ref=f98e26]
+            - generic [ref=f98e27]: 💵 Salary
+            - generic [ref=f98e29]: 🎪 Benefits
+            - combobox [ref=f98e31]:
+              - option "🦴 Sort by" [selected]
+              - option "🆕 Latest jobs"
+              - option "💵 Highest paid"
+              - option "👀 Most viewed"
+              - option "✅ Most applied"
+              - option "🔥 Hottest"
+              - option "🎪 Most benefits"
+            - generic [ref=f98e32]:
+              - generic [ref=f98e33]:
+                - text: ⚛️ React Native
+                - img "Remove this filter" [ref=f98e34]
+              - generic [ref=f98e35]: ❌ Clear 30 results
+      - rowgroup [ref=f98e36]:
+        - row [ref=f98e37] [cursor=pointer]:
+          - cell [ref=f98e38]:
+            - link "SafetyWing" [ref=f98e39]:
+              - /url: /nomad-health-individual
+              - img "Safetywing" [ref=f98e40]
+          - cell [ref=f98e41]:
+            - link [ref=f98e42]:
+              - /url: https://remoteOK.com/nomad-health-individual
+              - strong [ref=f98e43]: Nomad Insurance by SafetyWing
+            - link "Global health coverage for remote workers and nomads" [ref=f98e44]:
+              - /url: https://remoteOK.com/nomad-health-individual
+          - cell [ref=f98e45]
+          - cell [ref=f98e46]:
+            - paragraph [ref=f98e47]: Ad
+          - cell [ref=f98e48]:
+            - link "Sign up today":
+              - /url: https://remoteOK.com/nomad-health-individual
+              - paragraph [ref=f98e50]: Sign up today
+        - row [ref=f98e51]:
+          - cell [ref=f98e52]
+        - row [ref=f98e53] [cursor=pointer]:
+          - cell [ref=f98e54]:
+            - link [ref=f98e55]:
+              - /url: /remote-jobs/remote-senior-tech-lead-mobile-developer-risora-skelar-1131315
+              - paragraph [ref=f98e57]: S
+          - cell "Senior Tech Lead Mobile Developer Risora SKELAR 🇺🇦 Ukraine 🇪🇺 Europe 💰 Upgrade to Premium to see salary" [ref=f98e58]:
+            - link [ref=f98e59]:
+              - /url: /remote-jobs/remote-senior-tech-lead-mobile-developer-risora-skelar-1131315
+              - heading "Senior Tech Lead Mobile Developer Risora" [level=2] [ref=f98e60]
+            - heading "SKELAR" [level=3] [ref=f98e62]
+            - generic "This job is available for remote workers from Ukraine. Click to see more remote jobs in Ukraine" [ref=f98e63]:
+              - link "🇺🇦 Ukraine" [ref=f98e64]:
+                - /url: /remote-jobs-in-ukraine
+            - generic [ref=f98e65]: 🇪🇺 Europe
+            - generic [ref=f98e66]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f98e67]:
+            - link "Remote React Native + Senior Jobs" [ref=f98e68]:
+              - /url: /remote-react-native+senior-jobs
+              - heading "Senior" [level=3] [ref=f98e70]
+            - link "Remote React Native + Tech Lead Jobs" [ref=f98e71]:
+              - /url: /remote-react-native+tech-lead-jobs
+              - heading "Tech Lead" [level=3] [ref=f98e73]
+            - link "Remote Mobile + React Native Jobs" [ref=f98e74]:
+              - /url: /remote-mobile+react-native-jobs
+              - heading "Mobile" [level=3] [ref=f98e76]
+          - cell [ref=f98e77]:
+            - time [ref=f98e78]: 4mo
+          - cell [ref=f98e79]:
+            - link "Apply":
+              - /url: /l/1131315
+              - paragraph [ref=f98e81]: Apply
+        - row [ref=f98e82]:
+          - cell [ref=f98e83]
+        - row [ref=f98e84] [cursor=pointer]:
+          - cell [ref=f98e85]:
+            - link [ref=f98e86]:
+              - /url: /remote-jobs/remote-ui-ux-designer-uk-bjak-1131158
+              - paragraph [ref=f98e88]: B
+          - cell "UI UX Designer UK Bjak 🇬🇧 United Kingdom 💰 Upgrade to Premium to see salary" [ref=f98e89]:
+            - link [ref=f98e90]:
+              - /url: /remote-jobs/remote-ui-ux-designer-uk-bjak-1131158
+              - heading "UI UX Designer UK" [level=2] [ref=f98e91]
+            - heading "Bjak" [level=3] [ref=f98e93]
+            - generic "This job is available for remote workers from United Kingdom. Click to see more remote jobs in United Kingdom" [ref=f98e94]:
+              - link "🇬🇧 United Kingdom" [ref=f98e95]:
+                - /url: /remote-jobs-in-united-kingdom
+            - generic [ref=f98e96]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f98e97]:
+            - link "Remote Designer + React Native Jobs" [ref=f98e98]:
+              - /url: /remote-designer+react-native-jobs
+              - heading "Designer" [level=3] [ref=f98e100]
+            - link "Remote Design + React Native Jobs" [ref=f98e101]:
+              - /url: /remote-design+react-native-jobs
+              - heading "Design" [level=3] [ref=f98e103]
+            - link "Remote Mobile + React Native Jobs" [ref=f98e104]:
+              - /url: /remote-mobile+react-native-jobs
+              - heading "Mobile" [level=3] [ref=f98e106]
+          - cell [ref=f98e107]:
+            - time [ref=f98e108]: 4mo
+          - cell [ref=f98e109]:
+            - link "Apply":
+              - /url: /l/1131158
+              - paragraph [ref=f98e111]: Apply
+        - row [ref=f98e112]:
+          - cell [ref=f98e113]
+        - row [ref=f98e114] [cursor=pointer]:
+          - cell [ref=f98e115]:
+            - link [ref=f98e116]:
+              - /url: /remote-jobs/remote-react-native-developer-bluelight-consulting-1130182
+              - paragraph [ref=f98e118]: BC
+          - cell "React Native Developer Bluelight Consulting 🇵🇦 Panama 💰 Upgrade to Premium to see salary" [ref=f98e119]:
+            - link [ref=f98e120]:
+              - /url: /remote-jobs/remote-react-native-developer-bluelight-consulting-1130182
+              - heading "React Native Developer" [level=2] [ref=f98e121]
+            - heading "Bluelight Consulting" [level=3] [ref=f98e123]
+            - generic "This job is available for remote workers from Panama. Click to see more remote jobs in Panama" [ref=f98e124]:
+              - link "🇵🇦 Panama" [ref=f98e125]:
+                - /url: /remote-jobs-in-panama
+            - generic [ref=f98e126]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f98e127]:
+            - link "Remote JavaScript + React Native Jobs" [ref=f98e128]:
+              - /url: /remote-javascript+react-native-jobs
+              - heading "JavaScript" [level=3] [ref=f98e130]
+            - link "Remote React Native + Typescript Jobs" [ref=f98e131]:
+              - /url: /remote-react-native+typescript-jobs
+              - heading "Typescript" [level=3] [ref=f98e133]
+            - link "Remote React Native + Senior Jobs" [ref=f98e134]:
+              - /url: /remote-react-native+senior-jobs
+              - heading "Senior" [level=3] [ref=f98e136]
+          - cell [ref=f98e137]:
+            - time [ref=f98e138]: 7mo
+          - cell [ref=f98e139]:
+            - link "Apply":
+              - /url: /l/1130182
+              - paragraph [ref=f98e141]: Apply
+        - row [ref=f98e142]:
+          - cell [ref=f98e143]
+        - row [ref=f98e144] [cursor=pointer]:
+          - cell [ref=f98e145]:
+            - link [ref=f98e146]:
+              - /url: /remote-jobs/remote-senior-software-development-engineer-devops-equip-health-1129690
+              - paragraph [ref=f98e148]: EH
+          - cell "Senior Software Development Engineer DevOps Equip Health 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f98e149]:
+            - link [ref=f98e150]:
+              - /url: /remote-jobs/remote-senior-software-development-engineer-devops-equip-health-1129690
+              - heading "Senior Software Development Engineer DevOps" [level=2] [ref=f98e151]
+            - heading "Equip Health" [level=3] [ref=f98e153]
+            - generic [ref=f98e154]: 🌏 Probably worldwide
+            - generic [ref=f98e155]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f98e156]:
+            - link "Remote React Native + Senior Jobs" [ref=f98e157]:
+              - /url: /remote-react-native+senior-jobs
+              - heading "Senior" [level=3] [ref=f98e159]
+            - link "Remote DevOps + React Native Jobs" [ref=f98e160]:
+              - /url: /remote-devops+react-native-jobs
+              - heading "DevOps" [level=3] [ref=f98e162]
+            - link "Remote Engineer + React Native Jobs" [ref=f98e163]:
+              - /url: /remote-engineer+react-native-jobs
+              - heading "Engineer" [level=3] [ref=f98e165]
+          - cell [ref=f98e166]:
+            - time [ref=f98e167]: 7mo
+          - cell [ref=f98e168]:
+            - link "Apply":
+              - /url: /l/1129690
+              - paragraph [ref=f98e170]: Apply
+        - row [ref=f98e171]:
+          - cell [ref=f98e172]
+        - row [ref=f98e173] [cursor=pointer]:
+          - cell [ref=f98e174]:
+            - link [ref=f98e175]:
+              - /url: /remote-jobs/remote-software-engineer-field-nation-1129287
+              - paragraph [ref=f98e177]: FN
+          - cell "Software Engineer Field Nation 🇧🇩 Bangladesh 💰 Upgrade to Premium to see salary" [ref=f98e178]:
+            - link [ref=f98e179]:
+              - /url: /remote-jobs/remote-software-engineer-field-nation-1129287
+              - heading "Software Engineer" [level=2] [ref=f98e180]
+            - heading "Field Nation" [level=3] [ref=f98e182]
+            - generic "This job is available for remote workers from Bangladesh. Click to see more remote jobs in Bangladesh" [ref=f98e183]:
+              - link "🇧🇩 Bangladesh" [ref=f98e184]:
+                - /url: /remote-jobs-in-bangladesh
+            - generic [ref=f98e185]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f98e186]:
+            - link "Remote Engineer + React Native Jobs" [ref=f98e187]:
+              - /url: /remote-engineer+react-native-jobs
+              - heading "Engineer" [level=3] [ref=f98e189]
+            - link "Remote Backend + React Native Jobs" [ref=f98e190]:
+              - /url: /remote-backend+react-native-jobs
+              - heading "Backend" [level=3] [ref=f98e192]
+            - link "Remote React Native + React JS Jobs" [ref=f98e193]:
+              - /url: /remote-react-native+reactjs-jobs
+              - heading "React JS" [level=3] [ref=f98e195]
+          - cell [ref=f98e196]:
+            - time [ref=f98e197]: 8mo
+          - cell [ref=f98e198]:
+            - link "Apply":
+              - /url: /l/1129287
+              - paragraph [ref=f98e200]: Apply
+        - row [ref=f98e201]:
+          - cell [ref=f98e202]
+        - row [ref=f98e203]:
+          - cell [ref=f98e204]
+        - row [ref=f98e205]:
+          - cell [ref=f98e206]
+        - row [ref=f98e207]:
+          - cell [ref=f98e208]
+        - row [ref=f98e209]:
+          - cell [ref=f98e210]
+        - row [ref=f98e211]:
+          - cell [ref=f98e212]
+        - row [ref=f98e213]:
+          - cell [ref=f98e214]
+        - row [ref=f98e215]:
+          - cell [ref=f98e216]
+        - row [ref=f98e217]:
+          - cell [ref=f98e218]
+        - row [ref=f98e219]:
+          - cell [ref=f98e220]
+  - generic [ref=f98e222]:
+    - button "×" [ref=f98e223] [cursor=pointer]
+    - link "Remote work lifestyle Unlock your remote career potential with Remote OK Premium Get exclusive access and be the first to apply to 100,000+ remote jobs from 10,000+ top companies and land your dream remote position! ★★★★★ 4.8/5 from 10,000+ reviews Get instant access" [ref=f98e224] [cursor=pointer]:
+      - /url: /premium
+      - generic [ref=f98e225]:
+        - img "Remote work lifestyle"
+        - heading "Unlock your remote career potential with Remote OK Premium" [level=2] [ref=f98e226]
+        - paragraph [ref=f98e227]:
+          - text: Get exclusive access and be the first to apply to
+          - strong [ref=f98e228]: 100,000+ remote jobs
+          - text: from
+          - strong [ref=f98e229]: 10,000+ top companies
+          - text: and land your dream remote position!
+        - generic [ref=f98e230]:
+          - generic [ref=f98e231]: ★★★★★
+          - generic [ref=f98e232]: 4.8/5 from 10,000+ reviews
+        - generic [ref=f98e233]: Get instant access
+  - generic [ref=f98e234]:
+    - text: © 2026 Remote OK|
+    - link "Terms & Privacy" [ref=f98e235] [cursor=pointer]:
+      - /url: /legal

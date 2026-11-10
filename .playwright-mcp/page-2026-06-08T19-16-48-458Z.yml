@@ -1,0 +1,169 @@
+- generic [ref=e2]:
+  - list [ref=e4]:
+    - listitem [ref=e5]:
+      - link "Supabase" [ref=e6] [cursor=pointer]:
+        - /url: https://supabase.com/
+        - img "Supabase" [ref=e7]
+    - listitem [ref=e8]:
+      - link "Back to Supabase’s Job Listings" [ref=e9] [cursor=pointer]:
+        - /url: /supabase
+        - img [ref=e10]
+    - listitem
+  - generic [ref=e12]:
+    - heading "Postgres Engineer" [level=1] [ref=e14]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - heading "Location" [level=2] [ref=e18]
+          - paragraph [ref=e19]: Remote
+        - generic [ref=e20]:
+          - heading "Employment Type" [level=2] [ref=e21]
+          - paragraph [ref=e22]: Full time
+        - generic [ref=e23]:
+          - heading "Location Type" [level=2] [ref=e24]
+          - paragraph [ref=e25]: Remote
+        - generic [ref=e26]:
+          - heading "Department" [level=2] [ref=e27]
+          - paragraph [ref=e28]: Engineering
+      - generic [ref=e29]:
+        - tablist [ref=e30]:
+          - tab "Overview" [selected] [ref=e31] [cursor=pointer]
+          - tab "Application" [ref=e32] [cursor=pointer]
+        - tabpanel "Overview" [ref=e34]:
+          - generic [ref=e35]:
+            - paragraph [ref=e36]: Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.
+            - paragraph [ref=e37]
+            - heading "About the Role" [level=3] [ref=e38]:
+              - strong [ref=e39]: About the Role
+            - paragraph [ref=e40]: We’re looking for a Senior Postgres Engineer to join our Postgres Team and help maintain and expand the stability and functionality of our hosted Postgres offering . You’ll work closely with customers, partners, product, engineering, support and success, helping us maintain a secure, stable, performant, and functional Postgres foundation.
+            - paragraph [ref=e41]: This role is ideal for someone who thrives in async, fast-paced environments and is excited about building developer tools that scale to millions.
+            - paragraph [ref=e42]
+            - heading "What you'll own:" [level=3] [ref=e43]:
+              - strong [ref=e44]: "What you'll own:"
+            - list [ref=e45]:
+              - listitem [ref=e46]:
+                - paragraph [ref=e47]: Build and maintain PostgreSQL extensions in C and Rust, with a deep understanding of internals — parser, planner, WAL mechanics, and MVCC
+              - listitem [ref=e48]:
+                - paragraph [ref=e49]: Diagnose and resolve issues in managed PostgreSQL deployments, including custom extension failures, core dump analysis, and performance bottlenecks
+              - listitem [ref=e50]:
+                - paragraph [ref=e51]: Own idempotent deployment pipelines across thousands of running PostgreSQL instances, including testing and rollout strategies
+              - listitem [ref=e52]:
+                - paragraph [ref=e53]: Manage complex extension ecosystems — compatibility, upgrade paths, and conflict resolution
+              - listitem [ref=e54]:
+                - paragraph [ref=e55]: Work with PostgreSQL's background worker framework, shared memory management, and hook system to build reliable, scalable functionality
+              - listitem [ref=e56]:
+                - paragraph [ref=e57]: Collaborate closely with customers, partners, product, engineering, support, and success teams to maintain a secure, stable, and performant Postgres foundation
+            - heading "What you bring:" [level=3] [ref=e58]:
+              - strong [ref=e59]: "What you bring:"
+            - list [ref=e60]:
+              - listitem [ref=e61]:
+                - paragraph [ref=e62]:
+                  - text: Deep expertise in
+                  - strong [ref=e63]: PostgreSQL internals
+                  - text: "- query planner, executor, and storage engine mechanics"
+              - listitem [ref=e64]:
+                - paragraph [ref=e65]:
+                  - text: Proven experience building PostgreSQL extensions in both
+                  - strong [ref=e66]: C
+                  - text: and
+                  - strong [ref=e67]: Rust
+              - listitem [ref=e68]:
+                - paragraph [ref=e69]:
+                  - text: Strong knowledge of
+                  - strong [ref=e70]: PostgreSQL's permission model
+                  - text: ": RLS, roles, and grant systems"
+              - listitem [ref=e71]:
+                - paragraph [ref=e72]: Experience troubleshooting production issues in managed PostgreSQL environments, including custom extension issues, performance bottlenecks, and resource contention
+              - listitem [ref=e73]:
+                - paragraph [ref=e74]: Comfortable building, testing, and owning idempotent deployments across thousands of running Postgres instances
+              - listitem [ref=e75]:
+                - paragraph [ref=e76]: Ability to read and navigate PostgreSQL source code confidently
+              - listitem [ref=e77]:
+                - paragraph [ref=e78]: Experience with multi-tenant database architectures
+              - listitem [ref=e79]:
+                - paragraph [ref=e80]: Experience running PostgreSQL at scale
+            - heading "What We Offer" [level=3] [ref=e81]:
+              - strong [ref=e82]: What We Offer
+            - list [ref=e83]:
+              - listitem [ref=e84]:
+                - paragraph [ref=e85]:
+                  - strong [ref=e86]: Fully Remote
+                - paragraph [ref=e87]: We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.
+              - listitem [ref=e88]:
+                - paragraph [ref=e89]:
+                  - strong [ref=e90]: ESOP
+                - paragraph [ref=e91]: Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together.
+              - listitem [ref=e92]:
+                - paragraph [ref=e93]:
+                  - strong [ref=e94]: Tech Allowance
+                - paragraph [ref=e95]: Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work.
+              - listitem [ref=e96]:
+                - paragraph [ref=e97]:
+                  - strong [ref=e98]: Health Benefits
+                - paragraph [ref=e99]: Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us.
+              - listitem [ref=e100]:
+                - paragraph [ref=e101]:
+                  - strong [ref=e102]: Annual Off-Sites
+                - paragraph [ref=e103]: Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year.
+              - listitem [ref=e104]:
+                - paragraph [ref=e105]:
+                  - strong [ref=e106]: Flexible Work
+                - paragraph [ref=e107]: We operate asynchronously and trust you to manage your own time. You know what needs to be done and when.
+              - listitem [ref=e108]:
+                - paragraph [ref=e109]:
+                  - strong [ref=e110]: Professional Development
+                - paragraph [ref=e111]: Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth.
+                - paragraph [ref=e112]
+            - heading "About the Team" [level=3] [ref=e113]:
+              - strong [ref=e114]: About the Team
+            - paragraph [ref=e115]: Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love.
+            - list [ref=e116]:
+              - listitem [ref=e117]:
+                - paragraph [ref=e118]: 280+ team members
+              - listitem [ref=e119]:
+                - paragraph [ref=e120]: 55+ countries
+              - listitem [ref=e121]:
+                - paragraph [ref=e122]: 20+ languages spoken
+              - listitem [ref=e123]:
+                - paragraph [ref=e124]: $500M raised
+              - listitem [ref=e125]:
+                - paragraph [ref=e126]: 500,000+ community members
+            - paragraph [ref=e127]: We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.
+            - paragraph [ref=e128]
+            - heading "Hiring Process" [level=3] [ref=e129]:
+              - strong [ref=e130]: Hiring Process
+            - paragraph [ref=e131]: "We keep things simple, async-friendly, and respectful of your time:"
+            - list [ref=e132]:
+              - listitem [ref=e133]:
+                - paragraph [ref=e134]: Apply – Our team will review your application.
+              - listitem [ref=e135]:
+                - paragraph [ref=e136]: Intro Call – A short video chat to get to know each other.
+              - listitem [ref=e137]:
+                - paragraph [ref=e138]: "Interviews – Up to four calls with:"
+                - list [ref=e139]:
+                  - listitem [ref=e140]:
+                    - paragraph [ref=e141]: Team Leads
+                  - listitem [ref=e142]:
+                    - paragraph [ref=e143]: Future teammates
+                  - listitem [ref=e144]:
+                    - paragraph [ref=e145]: Someone cross-functional from product, growth, or engineering (depending on the role)
+                  - listitem [ref=e146]:
+                    - paragraph [ref=e147]: Someone from our leadership/founding team
+              - listitem [ref=e148]:
+                - paragraph [ref=e149]: Decision – We may follow up with a final question or go straight to offer.
+            - paragraph [ref=e150]: All communication is remote and we aim to move fast.
+          - link "Apply for this Job" [ref=e151] [cursor=pointer]:
+            - /url: /supabase/c16bd707-29f2-46fb-8409-7270ff00978b/application
+            - button "Apply for this Job" [ref=e152]
+  - contentinfo [ref=e153]:
+    - link "Learn more about Ashby" [ref=e154] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=e155]: Powered by
+      - img "Ashby" [ref=e156]
+    - paragraph [ref=e162]:
+      - link "Privacy Policy" [ref=e163] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=e164] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=e165] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

@@ -1,0 +1,10 @@
+- generic [ref=e5]:
+  - paragraph [ref=e6]: Trigger.dev
+  - paragraph [ref=e7]: "-----------"
+  - paragraph [ref=e8]: Sorry :( ! This page doesn't exist...
+  - paragraph [ref=e9]: I
+  - link "Go back? ↵" [ref=e11] [cursor=pointer]:
+    - /url: /
+    - generic [ref=e12]:
+      - generic [ref=e13]: Go back?
+      - generic [ref=e14]: ↵

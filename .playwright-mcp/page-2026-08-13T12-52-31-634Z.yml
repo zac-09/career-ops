@@ -1,0 +1,399 @@
+- generic [active] [ref=f4e1]:
+  - banner [ref=f4e2]:
+    - navigation [ref=f4e3]:
+      - generic [ref=f4e4]:
+        - generic [ref=f4e5]:
+          - link [ref=f4e6] [cursor=pointer]:
+            - /url: https://paystack.com/
+          - list [ref=f4e11]:
+            - listitem [ref=f4e12]:
+              - link "Why Paystack" [ref=f4e13] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f4e15]:
+              - link "Customers" [ref=f4e16] [cursor=pointer]:
+                - /url: /wall-of-love
+            - listitem [ref=f4e17]:
+              - link "Pricing" [ref=f4e18] [cursor=pointer]:
+                - /url: /pricing
+            - listitem [ref=f4e19]:
+              - link "Learn" [ref=f4e20] [cursor=pointer]:
+                - /url: "#"
+        - list [ref=f4e23]:
+          - listitem [ref=f4e24]:
+            - link "Developers" [ref=f4e25] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f4e27]:
+            - link "Support" [ref=f4e28] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=f4e30]:
+            - link "Login" [ref=f4e31] [cursor=pointer]:
+              - /url: https://dashboard.paystack.com/#/dashboard
+          - listitem [ref=f4e32]:
+            - link "Create free account" [ref=f4e33] [cursor=pointer]:
+              - /url: https://dashboard.paystack.com/#/signup
+          - listitem [ref=f4e34] [cursor=pointer]:
+            - link [ref=f4e35]:
+              - /url: "#"
+  - generic [ref=f4e41]:
+    - generic [ref=f4e42]:
+      - heading "Careers at Paystack" [level=1] [ref=f4e43]
+      - paragraph [ref=f4e44]: Join Paystack and help power growth for a new generation of businesses across Africa.
+    - link "See Job Openings" [ref=f4e46] [cursor=pointer]:
+      - /url: "#js-job-posts"
+  - generic [ref=f4e51]:
+    - heading "We’re building a growth engine for modern businesses in Africa" [level=2] [ref=f4e52]
+    - paragraph [ref=f4e53]: Paystack’s mission is to accelerate digital commerce across Africa. We do this in partnership with our customers, who represent some of the most forward-thinking organizations on the continent. To do this, we’re rewriting much of the fundamental infrastructure that underpins how trade happens.While we’ve had significant early success, it’s still very much day 1 at Paystack. We have a thrilling amount of opportunity ahead of us to quite literally transform how commerce happens across the continent. And we need your help.
+  - generic [ref=f4e56]:
+    - generic [ref=f4e58]:
+      - heading "Recurring themes in the work we do" [level=2] [ref=f4e59]
+      - paragraph [ref=f4e60]: Paystack is a mission-driven company, which means that we find ourselves returning to a similar set of questions in everything we do. If you already find yourself thinking about a few of the following questions, chances are high that you’ll love your work at Paystack.
+    - generic [ref=f4e61]:
+      - figure [ref=f4e64]:
+        - generic [ref=f4e65]:
+          - img "High Transaction Success Rates Compressor" [ref=f4e66]
+          - generic [ref=f4e67]: Lagos fine jeweler Doubara Eporwei gets paid with Paystack
+      - generic [ref=f4e70]:
+        - heading "How do we make it absurdly easy to start - and scale - a business in Africa?" [level=3] [ref=f4e71]
+        - paragraph [ref=f4e72]: This is something we’re focused on almost to the point of obsession. It’s the foundational question that informs everything from product to marketing strategy. How do we make it so that if someone has an idea, they can bring it to market as quickly as possible? And once a product or service has traction, how do we help apply more rocket fuel? How can we help our family of merchants become profitable, envied, and loved? How can we help them win?
+    - generic [ref=f4e73]:
+      - figure [ref=f4e76]:
+        - img "Yc Meetup 2017" [ref=f4e78]
+      - generic [ref=f4e81]:
+        - heading "How do we dramatically increase the volume of intra-Africa trade?" [level=3] [ref=f4e82]
+        - paragraph [ref=f4e83]: Paystack is expanding into numerous African countries, not for the thrill of planting our flag, but because of what this will mean for cross-border trade. Today, it’s easier for a Nigerian customer to purchase clothes from Europe than it is for them to do business with a merchant in nearby Togo. Why is this? And how can we fix it? How can we help a merchant in Ghana find their customers in Cote d’Ivoire? How can we help a merchant in Kenya find their customers in South Africa?
+    - generic [ref=f4e84]:
+      - figure [ref=f4e87]:
+        - img "Get Notified When You Make A Sale" [ref=f4e89]
+      - generic [ref=f4e92]:
+        - heading "What new business models can technology make possible in Africa?" [level=3] [ref=f4e93]
+        - paragraph [ref=f4e94]: When Paystack helped make automated recurring billing mainstream in Nigeria, it made possible completely new business models, such as digital subscriptions for media companies. Which other industries can we help create on the back of new technology? Which new frontiers would merchants in Africa pursue, if they had better tools?
+    - generic [ref=f4e95]:
+      - figure [ref=f4e98]:
+        - generic [ref=f4e99]:
+          - img "Easy To Grow 2" [ref=f4e100]
+          - generic [ref=f4e101]: Paystack powers ticket sales for Afropolatan Vibes, one of Lagos' largest live music events
+      - generic [ref=f4e104]:
+        - heading "How can we integrate Africa into the global economy?" [level=3] [ref=f4e105]
+        - paragraph [ref=f4e106]: Lots of value flows through the global economy every day, but most Africans are cut off from this wealth-creation engine. How can we help African merchants find their customers internationally? In fact, how can we help African businesses go toe-to-toe with the best companies in the world, and win?At the same time, teams all over the world are building amazing productivity and life-enhancing tools and services, but African customers can’t take advantage of those tools because much of our financial infrastructure is cut off from the global economy. How can Paystack serve as a bridge between Africa and the rest of the world?
+    - generic [ref=f4e107]:
+      - figure [ref=f4e110]:
+        - img "Femi Cover Photo Paystack Eng 015" [ref=f4e112]
+      - generic [ref=f4e115]:
+        - heading "What’re the best ways to source and groom exceptional talent?" [level=3] [ref=f4e116]
+        - paragraph [ref=f4e117]: One of the biggest limiting factors to the growth of our business, as well as our merchants' business, is talent. But there're hidden gems all over the continent. How do we reliably discover them?And then once they join the team, how do we intentionally empower and invest in them to do the best work of their lives?
+  - generic [ref=f4e120]:
+    - generic [ref=f4e122]:
+      - heading "Benefits" [level=2] [ref=f4e123]
+      - paragraph [ref=f4e124]: In addition to a competitive salary, here're a few resources we offer to help our team excel.
+    - generic [ref=f4e125]:
+      - generic [ref=f4e127]:
+        - img "Health Insurance" [ref=f4e130]
+        - generic [ref=f4e131]:
+          - heading "Health insurance" [level=4] [ref=f4e132]
+          - paragraph [ref=f4e133]: Our comprehensive medical insurance covers a wide variety of needs
+      - generic [ref=f4e135]:
+        - img "New Macbook Pro" [ref=f4e138]
+        - generic [ref=f4e139]:
+          - heading "New Macbook Pro" [level=4] [ref=f4e140]
+          - paragraph [ref=f4e141]: All team members receive a brand new MacBook Pro work laptop on their first day
+      - generic [ref=f4e143]:
+        - img "Kind And Smart Colleagues" [ref=f4e146]
+        - generic [ref=f4e147]:
+          - heading "Smart, kind colleagues" [level=4] [ref=f4e148]
+          - paragraph [ref=f4e149]: Learn and grow with highly accomplished colleagues who’re invested in your personal and professional development
+    - generic [ref=f4e150]:
+      - generic [ref=f4e152]:
+        - img "Structured Professional Development" [ref=f4e155]
+        - generic [ref=f4e156]:
+          - heading "Professional Development" [level=4] [ref=f4e157]
+          - paragraph [ref=f4e158]: We invest in our people to ensure they can achieve their short, medium, and long term professional goals
+      - generic [ref=f4e160]:
+        - img "Life Insurance Hands" [ref=f4e163]
+        - generic [ref=f4e164]:
+          - heading "Life Insurance" [level=4] [ref=f4e165]
+          - paragraph [ref=f4e166]: We provide comprehensive life cover for all team members
+      - generic [ref=f4e168]:
+        - img "Paid Annual Leave" [ref=f4e171]
+        - generic [ref=f4e172]:
+          - heading "Paid annual leave" [level=4] [ref=f4e173]
+          - paragraph [ref=f4e174]: All team members have 20 days of paid annual leave, and are warmly encouraged to use them
+    - generic [ref=f4e175]:
+      - generic [ref=f4e177]:
+        - img "Remote budget Final" [ref=f4e180]
+        - generic [ref=f4e181]:
+          - heading "Remote Work Budget" [level=4] [ref=f4e182]
+          - paragraph [ref=f4e183]: We offer a one-time budget to assist team members in making their home office as productive as possible
+      - generic [ref=f4e185]:
+        - img "Wifi Budget Final" [ref=f4e188]
+        - generic [ref=f4e189]:
+          - heading "Internet Reimbursement" [level=4] [ref=f4e190]
+          - paragraph [ref=f4e191]: All team members receive a monthly budget to support their internet expenses
+  - generic [ref=f4e194]:
+    - generic [ref=f4e196]:
+      - heading "Our values" [level=2] [ref=f4e197]
+      - paragraph [ref=f4e198]: We’re a deeply mission-driven company, and these are the core ideas we return to when we make decisions.
+    - generic [ref=f4e199]:
+      - generic [ref=f4e200]:
+        - generic [ref=f4e201]:
+          - heading "Choose Transparency" [level=4] [ref=f4e202] [cursor=pointer]
+          - paragraph: Share your work often. Openly seek critique. Have the difficult, honest conversation as soon as possible. Get it off your chest
+        - generic [ref=f4e204]:
+          - heading "Communicate Clearly" [level=4] [ref=f4e205] [cursor=pointer]
+          - paragraph: Simplify - refine ideas until they’re easy to explain. Say exactly what you mean. Take care to confirm that you’ve been understood
+        - generic [ref=f4e207]:
+          - heading "Practice Kindness" [level=4] [ref=f4e208] [cursor=pointer]
+          - paragraph: Love your teammates and our customers (even when they make it hard). Bring positive vibes. Be generous with "thank you” and “sorry.” Lift people up with respect and empathy. Take care of yourself
+        - generic [ref=f4e210]:
+          - heading "Insist on High Standards" [level=4] [ref=f4e211] [cursor=pointer]
+          - paragraph: Remember that merchants are trusting you with their livelihoods. Please give this responsibility your very best. Don’t pass the buck - take ownership of your responsibilities, think three steps ahead, and follow through. Be a domain expert your team can rely on. Deliver consistent excellence, and require it from others.
+        - generic [ref=f4e213]:
+          - heading "Pursue Growth and Learning" [level=4] [ref=f4e214] [cursor=pointer]
+          - paragraph: See every situation as a learning opportunity. Experiment and make new mistakes. Strive to get a little better at something, every day
+        - generic [ref=f4e216]:
+          - heading "Embrace the Mission" [level=4] [ref=f4e217] [cursor=pointer]
+          - paragraph: Find the joy in everything :). This thing is bigger than all of us. Celebrate the wins, and cherish both the lessons, and the people we’ll meet along the way. Be brave. Banish fear. Have fun. ❤️
+      - generic [ref=f4e219]:
+        - img "Choose Transparency Compressor" [ref=f4e222]
+        - img "Communicate Clearly Compressor" [ref=f4e225]
+        - img "Practise Kindness Compressor" [ref=f4e228]
+        - img "Insist On High Standards Compressor" [ref=f4e231]
+        - img "Pursue Growth And Learning Compressor" [ref=f4e234]
+        - img "Embrace The Mission Compressor" [ref=f4e237]
+  - generic [ref=f4e242]:
+    - 'heading "Spotlight: Engineering at Paystack" [level=2] [ref=f4e243]'
+    - paragraph [ref=f4e244]: Every day, millions of businesses across Africa connect with customers through Paystack. Our engineering team builds simple, powerful tools to make this possible and ensure our systems perform reliably. We’d love for you to be a part of this engine!
+    - link "Learn more about Engineering at Paystack" [ref=f4e246] [cursor=pointer]:
+      - /url: /engineering
+  - generic [ref=f4e257]:
+    - generic [ref=f4e259]:
+      - heading "Open Positions" [level=2] [ref=f4e260]
+      - paragraph [ref=f4e261]: Come join the team!
+    - generic [ref=f4e263]:
+      - heading "Senior Full Stack Engineer, South Africa" [level=4] [ref=f4e265]
+      - generic [ref=f4e266]:
+        - generic [ref=f4e267]:
+          - paragraph
+          - generic [ref=f4e268]: Engineering∙ Full-time∙ Cape Town
+        - generic [ref=f4e269]:
+          - link "Apply Now" [ref=f4e270] [cursor=pointer]:
+            - /url: https://careers.paystack.com/jobs/7862201-senior-full-stack-engineer-south-africa
+          - 'heading "Status: Ongoing" [level=5] [ref=f4e271]'
+  - generic [ref=f4e275]:
+    - generic [ref=f4e276]:
+      - paragraph [ref=f4e277]: Try Paystack Now
+      - heading "Start accepting payments in just 30 minutes" [level=2] [ref=f4e279]
+    - generic [ref=f4e281]:
+      - link "Create free account" [ref=f4e282] [cursor=pointer]:
+        - /url: https://dashboard.paystack.com/#/signup
+      - link:
+        - /url: ""
+  - generic [ref=f4e284]:
+    - generic [ref=f4e285]:
+      - generic [ref=f4e286]:
+        - generic [ref=f4e287]:
+          - heading "Why Paystack" [level=4] [ref=f4e288]
+          - list [ref=f4e289]:
+            - listitem [ref=f4e290]:
+              - link "Why Choose Paystack" [ref=f4e291] [cursor=pointer]:
+                - /url: /why-choose-paystack
+            - listitem [ref=f4e292]:
+              - link "Success rates" [ref=f4e293] [cursor=pointer]:
+                - /url: /success-rates
+        - list [ref=f4e295]:
+          - listitem [ref=f4e296]:
+            - link "For Entrepreneurs" [ref=f4e297] [cursor=pointer]:
+              - /url: /entrepreneurs
+          - listitem [ref=f4e298]:
+            - link "For Corporates" [ref=f4e299] [cursor=pointer]:
+              - /url: /corporates
+          - listitem [ref=f4e300]:
+            - link "For International Companies" [ref=f4e301] [cursor=pointer]:
+              - /url: /internationals
+          - listitem [ref=f4e302]:
+            - link "For Startups" [ref=f4e303] [cursor=pointer]:
+              - /url: /contact/startups
+        - list [ref=f4e305]:
+          - listitem [ref=f4e306]:
+            - link "For Fintechs" [ref=f4e307] [cursor=pointer]:
+              - /url: /fintech
+          - listitem [ref=f4e308]:
+            - link "For Agencies" [ref=f4e309] [cursor=pointer]:
+              - /url: /service-partners
+          - listitem [ref=f4e310]:
+            - link "For Schools" [ref=f4e311] [cursor=pointer]:
+              - /url: /schools
+          - listitem [ref=f4e312]:
+            - link "For Betting" [ref=f4e313] [cursor=pointer]:
+              - /url: /betting
+      - generic [ref=f4e314]:
+        - generic [ref=f4e315]:
+          - heading "Pricing" [level=4] [ref=f4e316]
+          - list [ref=f4e317]:
+            - listitem [ref=f4e318]:
+              - link "Nigeria" [ref=f4e319] [cursor=pointer]:
+                - /url: /pricing
+            - listitem [ref=f4e320]:
+              - link "Ghana" [ref=f4e321] [cursor=pointer]:
+                - /url: /gh/pricing?localeUpdate=true
+            - listitem [ref=f4e322]:
+              - link "South Africa" [ref=f4e323] [cursor=pointer]:
+                - /url: /za/pricing?localeUpdate=true
+            - listitem [ref=f4e324]:
+              - link "Kenya" [ref=f4e325] [cursor=pointer]:
+                - /url: /ke/pricing?localeUpdate=true
+            - listitem [ref=f4e326]:
+              - link "Côte d'Ivoire" [ref=f4e327] [cursor=pointer]:
+                - /url: /ci/pricing?localeUpdate=true
+        - generic [ref=f4e328]:
+          - heading "Customers" [level=4] [ref=f4e329]
+          - list [ref=f4e330]:
+            - listitem [ref=f4e331]:
+              - link "Testimonials" [ref=f4e332] [cursor=pointer]:
+                - /url: /wall-of-love
+        - generic [ref=f4e333]:
+          - heading "Learn" [level=4] [ref=f4e334]
+          - list [ref=f4e335]:
+            - listitem [ref=f4e336]:
+              - link "Blog" [ref=f4e337] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f4e338]:
+              - link "Guides" [ref=f4e339] [cursor=pointer]:
+                - /url: /guides
+            - listitem [ref=f4e340]:
+              - link "Video Tutorials" [ref=f4e341] [cursor=pointer]:
+                - /url: /tutorials
+            - listitem [ref=f4e342]:
+              - link "Decode Fintech" [ref=f4e343] [cursor=pointer]:
+                - /url: https://decodefintech.com
+            - listitem [ref=f4e344]:
+              - link "Commerce" [ref=f4e345] [cursor=pointer]:
+                - /url: /commerce
+            - listitem [ref=f4e346]:
+              - link "Terminal" [ref=f4e347] [cursor=pointer]:
+                - /url: /terminal
+      - generic [ref=f4e348]:
+        - generic [ref=f4e349]:
+          - heading "Developers" [level=4] [ref=f4e350]
+          - list [ref=f4e351]:
+            - listitem [ref=f4e352]:
+              - link "Overview" [ref=f4e353] [cursor=pointer]:
+                - /url: /developers
+            - listitem [ref=f4e354]:
+              - link "Documentation" [ref=f4e355] [cursor=pointer]:
+                - /url: https://developers.paystack.co/
+            - listitem [ref=f4e356]:
+              - link "Integrations" [ref=f4e357] [cursor=pointer]:
+                - /url: /integrations
+            - listitem [ref=f4e358]:
+              - link "Status Page" [ref=f4e359] [cursor=pointer]:
+                - /url: /status
+        - generic [ref=f4e360]:
+          - heading "Community" [level=4] [ref=f4e361]
+          - list [ref=f4e362]:
+            - listitem [ref=f4e363]:
+              - link "Service Partner Directory" [ref=f4e364] [cursor=pointer]:
+                - /url: /partner-directory
+            - listitem [ref=f4e365]:
+              - link "Nigeria Logos" [ref=f4e366] [cursor=pointer]:
+                - /url: https://nigerialogos.com/
+        - generic [ref=f4e367]:
+          - heading "Support" [level=4] [ref=f4e368]
+          - list [ref=f4e369]:
+            - listitem [ref=f4e370]:
+              - link "Help Desk" [ref=f4e371] [cursor=pointer]:
+                - /url: https://paystack.com/help
+            - listitem [ref=f4e372]:
+              - link "Contact Us" [ref=f4e373] [cursor=pointer]:
+                - /url: /contact
+            - listitem [ref=f4e374]:
+              - link "Why was I debited?" [ref=f4e375] [cursor=pointer]:
+                - /url: /lookup
+            - listitem [ref=f4e376]:
+              - link "Register your business" [ref=f4e377] [cursor=pointer]:
+                - /url: /business-registration
+      - generic [ref=f4e379]:
+        - heading "About" [level=4] [ref=f4e380]
+        - list [ref=f4e381]:
+          - listitem [ref=f4e382]:
+            - link "Company" [ref=f4e383] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=f4e384]:
+            - link "Changelog" [ref=f4e385] [cursor=pointer]:
+              - /url: /changelog
+          - listitem [ref=f4e386]:
+            - link "Subscribe" [ref=f4e387] [cursor=pointer]:
+              - /url: /subscribe
+          - listitem [ref=f4e388]:
+            - link "Compliance" [ref=f4e389] [cursor=pointer]:
+              - /url: /compliance
+          - listitem [ref=f4e390]:
+            - link "Careers" [ref=f4e391] [cursor=pointer]:
+              - /url: /careers
+          - listitem [ref=f4e392]:
+            - link "Media Kit" [ref=f4e393] [cursor=pointer]:
+              - /url: /media
+          - listitem [ref=f4e394]:
+            - link "Privacy & Terms" [ref=f4e395] [cursor=pointer]:
+              - /url: /terms
+          - listitem [ref=f4e396]:
+            - link "Cookie Settings" [ref=f4e397] [cursor=pointer]:
+              - /url: "#"
+    - generic [ref=f4e398]:
+      - generic [ref=f4e399]:
+        - heading "Contact" [level=4] [ref=f4e400]
+        - list [ref=f4e401]:
+          - listitem [ref=f4e402]:
+            - link "hello@paystack.com" [ref=f4e403] [cursor=pointer]:
+              - /url: mailto:hello@paystack.com
+          - listitem [ref=f4e404]:
+            - list [ref=f4e405]:
+              - listitem [ref=f4e406]:
+                - link [ref=f4e407] [cursor=pointer]:
+                  - /url: https://facebook.com/PaystackHQ
+              - listitem [ref=f4e411]:
+                - link [ref=f4e412] [cursor=pointer]:
+                  - /url: https://twitter.com/paystack
+              - listitem [ref=f4e417]:
+                - link [ref=f4e418] [cursor=pointer]:
+                  - /url: https://instagram.com/paystackhq
+              - listitem [ref=f4e425]:
+                - link [ref=f4e426] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/paystack/
+              - listitem [ref=f4e430]:
+                - link [ref=f4e431] [cursor=pointer]:
+                  - /url: https://youtube.com/paystackhq
+          - listitem [ref=f4e436]:
+            - link "Paystack is a Stripe company" [ref=f4e437] [cursor=pointer]:
+              - /url: /stripe
+      - generic [ref=f4e440]:
+        - generic [ref=f4e441]:
+          - heading "Lagos" [level=4] [ref=f4e442]
+          - list [ref=f4e443]:
+            - listitem [ref=f4e444]: 126 Joel Ogunnaike Street,Ikeja GRA, Ikeja,Lagos, Nigeria
+            - listitem [ref=f4e445]:
+              - link "+234 201 631 6160" [ref=f4e446] [cursor=pointer]:
+                - /url: tel:+2342016316160
+        - generic [ref=f4e447]:
+          - heading "San Francisco" [level=4] [ref=f4e448]
+          - list [ref=f4e449]:
+            - listitem [ref=f4e450]: 354 Oyster Point Blvd., South San Francisco,CA 94080United States
+        - generic [ref=f4e451]:
+          - heading "Cape Town" [level=4] [ref=f4e452]
+          - list [ref=f4e453]:
+            - listitem [ref=f4e454]: Unit 6, 22fifty Building 1,32 Jamieson Street,Cape Town 8000South Africa
+        - generic [ref=f4e455]:
+          - heading "Accra" [level=4] [ref=f4e456]
+          - list [ref=f4e457]:
+            - listitem [ref=f4e458]: VIVO Place, A2 Cantonments City Street, Cantonments, Accra, Ghana
+        - generic [ref=f4e459]:
+          - heading "Dubai" [level=4] [ref=f4e460]
+          - list [ref=f4e461]:
+            - listitem [ref=f4e462]: Office 338, Building 16, Dubai Internet City, Dubai, United Arab Emirates
+        - generic [ref=f4e463]:
+          - heading "Nairobi" [level=4] [ref=f4e464]
+          - list [ref=f4e465]:
+            - listitem [ref=f4e466]: The Pavilion (1st Floor) Lower Kabete Road, Westlands Nairobi, Kenya
+        - generic [ref=f4e467]:
+          - heading "Abidjan" [level=4] [ref=f4e468]
+          - list [ref=f4e469]:
+            - listitem [ref=f4e470]: AfricaWorks, Rue du 7 décembre, Zone 4/C, Abidjan, Côte d'Ivoire

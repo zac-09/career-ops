@@ -1,0 +1,15 @@
+- main [ref=e2]:
+  - generic [ref=e3]:
+    - heading [level=2]
+    - paragraph
+    - img [ref=e4]
+    - heading "Checking if the site connection is secure" [level=1] [ref=e5]
+    - main [ref=e8]
+    - generic [ref=e9]:
+      - text: We needs to review the security of your connection before proceeding.
+      - text: Email us at
+      - strong [ref=e10]: team@wellfound.com
+      - text: if you're facing issues. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.
+    - generic [ref=e14]:
+      - text: "Ray ID:"
+      - code [ref=e15]: a186a3f3b9cd8df8

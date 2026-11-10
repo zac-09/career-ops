@@ -1,0 +1,154 @@
+- generic [ref=f1e1]:
+  - link "Skip to main content" [ref=f1e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - status [ref=f1e7]
+  - dialog "This website uses cookies to ensure you get the best experience." [ref=f1e8]:
+    - generic [ref=f1e9]:
+      - heading "This website uses cookies to ensure you get the best experience." [level=2] [ref=f1e10]
+      - paragraph [ref=f1e11]: Sarwa Digital Wealth (Capital) Limited and our selected partners use cookies and similar technologies (together “cookies”) that are necessary to present this website, and to ensure you get the best experience of it. If you consent to it, we will also use cookies for analytics purposes.
+      - paragraph [ref=f1e12]:
+        - text: See our
+        - link "Cookie Policy" [active] [ref=f1e13] [cursor=pointer]:
+          - /url: https://careers.sarwa.co/cookie-policy
+        - text: to read more about the cookies we set.
+      - paragraph [ref=f1e14]: You can withdraw and manage your consent at any time, by clicking “Manage cookies” at the bottom of each website page.
+    - generic [ref=f1e15]:
+      - button "Accept all cookies" [ref=f1e16] [cursor=pointer]
+      - button "Decline all non-necessary cookies" [ref=f1e17] [cursor=pointer]
+      - button "Cookie preferences" [ref=f1e18] [cursor=pointer]
+  - banner [ref=f1e19]:
+    - button "Career menu" [ref=f1e22] [cursor=pointer]
+    - link [ref=f1e30] [cursor=pointer]:
+      - /url: https://careers.sarwa.co/
+      - img "Sarwa Digital Wealth (Capital) Limited career site" [ref=f1e31]
+    - button "Share page" [ref=f1e35] [cursor=pointer]
+  - main [ref=f1e39]:
+    - generic [ref=f1e43]:
+      - generic [ref=f1e44]:
+        - button "search" [ref=f1e45]
+        - group "Job filters" [ref=f1e46]:
+          - generic [ref=f1e48]:
+            - generic [ref=f1e49]: Departments
+            - combobox "Departments" [ref=f1e50]:
+              - option "All" [selected]
+              - option "Advisory"
+              - option "Compliance"
+              - option "Core Operations"
+              - option "Customer Excellence"
+              - option "Finance"
+              - option "Internal Operations"
+              - option "Marketing"
+              - option "Product"
+              - option "Senior Management"
+              - option "Technology"
+            - button "Departments" [ref=f1e51] [cursor=pointer]
+          - generic [ref=f1e55]:
+            - generic [ref=f1e56]: Locations
+            - combobox "Locations" [ref=f1e57]:
+              - option "All" [selected]
+              - option "Abu Dhabi"
+            - button "Locations" [ref=f1e58] [cursor=pointer]
+      - generic [ref=f1e63]:
+        - button "Use my location" [ref=f1e64] [cursor=pointer]
+        - button "Show map above jobs" [ref=f1e68] [cursor=pointer]
+      - generic [ref=f1e72]:
+        - heading "2 jobs" [level=2] [ref=f1e74]
+        - list [ref=f1e77]:
+          - listitem [ref=f1e78]:
+            - link "Marketing Associate Marketing · Abu Dhabi · Fully Remote" [ref=f1e79] [cursor=pointer]:
+              - /url: https://careers.sarwa.co/jobs/8518193-marketing-associate
+              - figure [ref=f1e82]:
+                - img "Marketing Associate image" [ref=f1e84]
+              - generic [ref=f1e85]:
+                - generic "Marketing Associate" [ref=f1e86]
+                - generic [ref=f1e87]:
+                  - text: Marketing · Abu Dhabi ·
+                  - generic [ref=f1e88]: Fully Remote
+          - listitem [ref=f1e91]:
+            - link "Senior Marketing Copywriter Marketing · Abu Dhabi · Fully Remote" [ref=f1e92] [cursor=pointer]:
+              - /url: https://careers.sarwa.co/jobs/8353231-senior-marketing-copywriter
+              - figure [ref=f1e95]:
+                - img "Senior Marketing Copywriter image" [ref=f1e97]
+              - generic [ref=f1e98]:
+                - generic "Senior Marketing Copywriter" [ref=f1e99]
+                - generic [ref=f1e100]:
+                  - text: Marketing · Abu Dhabi ·
+                  - generic [ref=f1e101]: Fully Remote
+  - contentinfo [ref=f1e104]:
+    - generic [ref=f1e106]:
+      - generic [ref=f1e107]:
+        - heading "About Sarwa Digital Wealth (Capital) Limited" [level=2] [ref=f1e108]
+        - paragraph [ref=f1e110]: We empower people to live the life they want - by putting their money to work, the smart way.
+      - generic [ref=f1e111]:
+        - generic [ref=f1e112]: Founded in 2017
+        - generic [ref=f1e113]: Co-workers 75
+    - generic [ref=f1e114]:
+      - generic [ref=f1e116]:
+        - generic [ref=f1e117]:
+          - heading "Career site" [level=2] [ref=f1e118]
+          - list [ref=f1e119]:
+            - listitem [ref=f1e120]:
+              - link "Jobs" [ref=f1e121] [cursor=pointer]:
+                - /url: https://careers.sarwa.co/jobs
+            - listitem [ref=f1e122]:
+              - link "People" [ref=f1e123] [cursor=pointer]:
+                - /url: https://careers.sarwa.co/people
+            - listitem [ref=f1e124]:
+              - link "Start" [ref=f1e125] [cursor=pointer]:
+                - /url: https://careers.sarwa.co/
+            - listitem [ref=f1e126]:
+              - link "Data & privacy" [ref=f1e127] [cursor=pointer]:
+                - /url: /data-privacy
+            - listitem [ref=f1e128]:
+              - button "Manage cookies" [ref=f1e129] [cursor=pointer]
+        - generic [ref=f1e130]:
+          - link "sarwa.co/en" [ref=f1e131] [cursor=pointer]:
+            - /url: https://www.sarwa.co/en
+          - generic [ref=f1e132]:
+            - link "X" [ref=f1e133] [cursor=pointer]:
+              - /url: https://x.com/SarwaCo/
+            - link "Facebook" [ref=f1e137] [cursor=pointer]:
+              - /url: https://www.facebook.com/SarwaSocial/
+            - link "LinkedIn" [ref=f1e141] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/sarwa/posts/?feedView=all
+            - link "Instagram" [ref=f1e145] [cursor=pointer]:
+              - /url: https://www.instagram.com/sarwa.co/
+      - generic [ref=f1e149]:
+        - generic [ref=f1e150]:
+          - link "Employee login" [ref=f1e151] [cursor=pointer]:
+            - /url: https://app.teamtailor.com/companies/KxcAQRtkF2I@eu/dashboard
+          - generic [ref=f1e152]: ·
+          - link "SSO" [ref=f1e153] [cursor=pointer]:
+            - /url: /sso_login
+        - link "Candidate Connect login" [ref=f1e155] [cursor=pointer]:
+          - /url: /connect/login
+  - generic [ref=f1e156]:
+    - generic [ref=f1e157]:
+      - heading "Already working at Sarwa Digital Wealth (Capital) Limited?" [level=2] [ref=f1e158]
+      - paragraph [ref=f1e159]: Let’s recruit together and find your next colleague.
+      - generic [ref=f1e161] [cursor=pointer]:
+        - textbox "Email address without domain" [ref=f1e162]
+        - generic [ref=f1e163]:
+          - textbox "Email address without domain" [ref=f1e164]: name
+          - generic [ref=f1e165]: "@sarwa.co"
+        - button "Log in" [ref=f1e166]
+    - list [ref=f1e170]:
+      - listitem [ref=f1e171]:
+        - generic "Emile Ketib" [ref=f1e172]
+      - listitem [ref=f1e173]:
+        - generic "Nikunj Agrawal" [ref=f1e174]
+      - listitem [ref=f1e175]:
+        - generic "Shavaiz Khan" [ref=f1e176]
+      - listitem [ref=f1e177]:
+        - generic "Mohammad Krayem" [ref=f1e178]
+      - listitem [ref=f1e179]:
+        - generic "Mark Chahwan" [ref=f1e180]
+      - listitem [ref=f1e181]:
+        - generic "Yasmina Azzam" [ref=f1e182]
+      - listitem [ref=f1e183]:
+        - generic "Maya Makarem" [ref=f1e184]
+      - listitem [ref=f1e185]:
+        - generic "Akshay Iyer" [ref=f1e186]
+  - complementary "Applicant tracking system by Teamtailor" [ref=f1e187]:
+    - link "Applicant tracking system by Teamtailor" [ref=f1e188] [cursor=pointer]:
+      - /url: https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=careers.sarwa.co&utm_medium=referral&utm_source=career-site

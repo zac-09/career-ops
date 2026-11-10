@@ -1,0 +1,138 @@
+- main "micro-container2" [ref=e3]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e9]:
+        - img "Yellow Card Financial" [ref=e10]
+        - link "Privacy Policy" [ref=e12] [cursor=pointer]:
+          - /url: http://www.bamboohr.com/privacy.php
+      - generic [ref=e17]:
+        - generic [ref=e19]:
+          - link "Job Openings" [ref=e21] [cursor=pointer]:
+            - /url: /careers
+          - generic [ref=e26]:
+            - generic [ref=e28]:
+              - heading "Technical Team Lead (Full-stack)" [level=3] [ref=e29]
+              - generic [ref=e30]: Engineering - Remote
+            - separator [ref=e31]
+          - generic [ref=e34]:
+            - paragraph [ref=e35]: Who We Are
+            - paragraph [ref=e36]
+            - paragraph [ref=e37]:
+              - link "Yellow Card" [ref=e38] [cursor=pointer]:
+                - /url: https://yellowcard.io/about-us
+              - text: is the largest licensed Stablecoin-based infrastructure provider operating across over 60 countries. From Stablecoin payment infrastructure to fiat settlement rails, wallet services, and custom local Stablecoin issuance, Yellow Card provides the complete infrastructure businesses need to manage Stablecoins, payments, and operations across 50 emerging markets.
+            - paragraph [ref=e39]: Yellow Card operates with a substantial global team spanning 24 countries. This workforce is characterized by its linguistic diversity, with collective speaking of over 25 languages, underscoring the company’s extensive international reach.
+            - paragraph [ref=e40]: "We’re looking to hire a Technical Team Lead located within Africa to join our fast-growing, fully remote team. You will join our Commercial Pod, the team that owns the systems our commercial business runs on: trade execution, treasury operations, commercial operations, and the internal tooling our operations teams use every day. These systems handle real money in real time, across multiple currencies and regulators."
+            - paragraph [ref=e41]
+            - paragraph [ref=e42]: As a Technical Team Lead, you will own architecture, lead the hardest implementations yourself, and set the standard for how the pod builds. This is deliberately not a management role. Your Engineering Manager handles 1:1s, performance, and growth conversations. You own technical direction and technical quality, and you stay deep in the code, with roughly 90% of your time hands-on.
+            - paragraph [ref=e43]
+            - paragraph [ref=e44]: This role is full-stack by requirement, not by preference. Our commercial surfaces span a Vue 3 B2B portal and a fleet of TypeScript services on AWS, and the interesting problems, such as how a rate is fetched, cached, priced, displayed, and then traded against, cut straight across that boundary. We need someone who can hold the whole path in their head and make calls at either end.
+            - paragraph [ref=e45]
+            - paragraph [ref=e46]: Candidates with experience in FinTech or Crypto products are strongly preferred. We value clear communication, strong ownership, and engineers who raise the bar for everyone around them.
+            - paragraph [ref=e47]
+            - paragraph [ref=e48]: "Our technology stack includes: TypeScript, Node.js, Vue 3 (Composition API), Pinia, Vite, Vitest, Storybook, Serverless Framework, AWS Lambda, DynamoDB, RDS, AWS SQS, SNS, EventBridge, Step Functions, EKS with Helm and Istio, Valkey and ElastiCache, S3, API Gateway, Cognito, AWS Bedrock, Datadog, GitHub Actions, and more."
+            - paragraph [ref=e49]
+            - paragraph [ref=e50]: What You'll Do
+            - paragraph [ref=e51]
+            - list [ref=e52]:
+              - listitem [ref=e53]: "Own the architecture of Commercial Pod systems end-to-end: service boundaries, data models, event flows, and the contracts between our frontend and our services"
+              - listitem [ref=e54]: Lead the pod’s design doc process. Write the hard ones, review the rest, and run the design doc review sessions where designs get pressure-tested before anyone writes code
+              - listitem [ref=e55]: "Represent Commercial in our org-wide engineering standards programme, reviewing RFCs as a Technical Lead and driving their adoption inside the pod: auditing existing services against approved standards and sequencing the gap-closing work"
+              - listitem [ref=e56]: Make and document the trade-offs. Serverless versus containerised, synchronous versus event-driven, build versus integrate. Then explain the reasoning so the pod can make the next call without you
+              - listitem [ref=e57]: Take the highest-risk production implementations yourself, building across both the Vue 3 frontend and our TypeScript serverless and containerised services
+              - listitem [ref=e58]: "Set the engineering bar through your own code and your reviews: strict typing, real test coverage, structured logs, correlation IDs, graceful failure handling, and fault tolerance as a design goal rather than an aspiration"
+              - listitem [ref=e59]: "Own the production health of Commercial services: meaningful Datadog dashboards, monitors and SLOs with thresholds that reflect reality, and alerts a person can act on at 3 am"
+              - listitem [ref=e60]: Lead incident response and root cause analysis for Commercial systems, and make sure the follow-up work actually ships
+              - listitem [ref=e61]: Take part in the technical lead dev support rota, roughly once every five weeks.
+              - listitem [ref=e62]: Mentor the engineers in the pod, growing their architectural judgement and not just their throughput, in partnership with the Engineering Manager
+              - listitem [ref=e63]: Partner with the Product Manager to turn commercial priorities into a technical plan, and to be honest about cost, risk, and sequencing
+              - listitem [ref=e64]: Run and encourage Knowledge Sharing Sessions, and keep the pod’s technical documentation trustworthy
+              - listitem [ref=e65]: Interview candidates and act as a signal on the technical bar for the pod
+              - listitem [ref=e66]: "Embrace and demonstrate our values: humility, creativity, and independence"
+            - paragraph [ref=e67]
+            - paragraph [ref=e68]: What You'll Bring
+            - paragraph [ref=e69]
+            - list [ref=e70]:
+              - listitem [ref=e71]: 7+ years building and running production systems, with at least 2 years as a tech lead, staff engineer, or equivalent technical anchor for a team
+              - listitem [ref=e72]: Genuinely full-stack and credible on both sides. You can design a DynamoDB access pattern in the morning and untangle a Vue 3 reactivity problem in the afternoon, and you would not describe either as outside your remit
+              - listitem [ref=e73]: Deep AWS experience with serverless and event-driven architecture. You have opinions about idempotency keys, dead-letter queues, and backoff that come from production scars rather than blog posts
+              - listitem [ref=e74]: Expert-level TypeScript, plus solid Vue 3 or a demonstrated ability to get there fast from React or another modern framework
+              - listitem [ref=e75]: You have led architecture for a team and had it adopted. You can point to standards you wrote that other engineers actually follow
+              - listitem [ref=e76]: "Track record of raising engineering quality on an existing codebase, not just greenfield work: migration, deprecation, and paying down debt without stalling product delivery"
+              - listitem [ref=e77]: Operational maturity. You have owned on-call, led incidents calmly, and driven follow-up actions to completion
+              - listitem [ref=e78]: Strong grasp of API design, REST conventions, versioning, and client-server contracts
+              - listitem [ref=e79]: Excellent written communication. Our engineering culture runs on design docs, RFCs, and rough consensus, so persuading people in writing is core to the job rather than a soft skill
+              - listitem [ref=e80]: Mentorship instinct. You measure yourself partly by how good the engineers around you become
+              - listitem [ref=e81]: Comfortable working in an Agile/Scrum environment with strong adherence to agile development practices
+            - paragraph [ref=e82]
+            - paragraph [ref=e83]: What Would Make You Stand Out
+            - paragraph [ref=e84]
+            - list [ref=e85]:
+              - listitem [ref=e86]: Experience in FinTech, Crypto, trading, treasury, or FX, particularly systems handling money movement and ledger correctness
+              - listitem [ref=e87]: Experience in African markets or other multi-currency, multi-regulator environments
+              - listitem [ref=e88]: Kubernetes and EKS depth, including Helm and a service mesh such as Istio
+              - listitem [ref=e89]: "Datadog fluency beyond dashboard-reading: instrumentation strategy, SLO design, and trace-driven debugging"
+              - listitem [ref=e90]: Experience shipping AI-backed features to production, and using AI tooling to raise team throughput
+              - listitem [ref=e91]: Having previously introduced an RFC or design review culture to an engineering org
+              - listitem [ref=e92]: Experience with design systems and shared component libraries as a consumer and a contributor
+            - paragraph [ref=e93]
+            - paragraph [ref=e94]: Team
+            - paragraph [ref=e95]
+            - list [ref=e96]:
+              - listitem [ref=e97]: Exude your upbeat energy and enthusiasm every day to motivate your team to be the best they can be in every aspect of what they do
+              - listitem [ref=e98]: Celebrate the success of others by recognising the contributions of committed team members and their achievements
+              - listitem [ref=e99]: Clear and accurate written and verbal communication is a must
+              - listitem [ref=e100]: Collaborate with your peers to collectively think of innovative ideas that drive business through technology
+              - listitem [ref=e101]: Build and utilise working relationships with internal business partners across the organisation and external business contacts
+              - listitem [ref=e102]: Keen interest in learning and sharing current trends and advancements in modern web and back-end frameworks
+            - paragraph [ref=e103]
+            - paragraph [ref=e104]: What We Offer
+            - paragraph [ref=e105]
+            - list [ref=e106]:
+              - listitem [ref=e107]: "Compensation & Benefits: We offer competitive compensation and meaningful health coverage, and all full-time employees are participants in our stock option plan."
+              - listitem [ref=e108]: "Learning & Development: Access to resources, support, and autonomy to grow professionally."
+              - listitem [ref=e109]: "Remote-First Flexibility: We embrace a fully remote work environment."
+              - listitem [ref=e110]: "Mental Health Support Services: Your mental well-being matters to us."
+              - listitem [ref=e111]: "Global & Diverse Team: You will have the opportunity to work with talented professionals from 24+ countries across the world, in a multicultural and collaborative environment."
+              - listitem [ref=e112]: "Global Impact: You’ll be part of a team shaping the future of global FinTech and stablecoin accessibility."
+            - paragraph [ref=e113]
+            - paragraph [ref=e114]: Ready to Join Us?
+            - paragraph [ref=e115]
+            - paragraph [ref=e116]: Are you up for the challenge? Apply today and be part of shaping the future of FinTech. Let's innovate, disrupt, and lead together!
+        - generic [ref=e118]:
+          - generic [ref=e120]:
+            - button "Apply for This Job" [ref=e121] [cursor=pointer]
+            - separator [ref=e123]
+            - generic [ref=e125]:
+              - generic [ref=e126]: Link to This Job
+              - textbox "Link to This Job" [ref=e130]: https://yellowcard.bamboohr.com/careers/412
+            - generic [ref=e132]:
+              - button "Share LinkedIn" [ref=e134] [cursor=pointer]
+              - button "Share Twitter" [ref=e139] [cursor=pointer]
+              - button "Share Facebook" [ref=e144] [cursor=pointer]
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - paragraph [ref=e151]: Location
+              - paragraph [ref=e153]: Remote
+              - separator [ref=e154]
+            - generic [ref=e155]:
+              - paragraph [ref=e157]: Department
+              - paragraph [ref=e159]: Engineering
+              - separator [ref=e160]
+            - generic [ref=e161]:
+              - paragraph [ref=e163]: Employment Type
+              - paragraph [ref=e165]: Full-Time
+              - separator [ref=e166]
+            - generic [ref=e167]:
+              - paragraph [ref=e169]: Minimum Experience
+              - paragraph [ref=e171]: Experienced
+              - separator [ref=e172]
+    - generic [ref=e174]:
+      - generic [ref=e175]:
+        - link "Privacy Policy" [ref=e176] [cursor=pointer]:
+          - /url: https://www.bamboohr.com/privacy-policy
+        - generic [ref=e178]: •
+        - link "Terms of Service" [ref=e179] [cursor=pointer]:
+          - /url: https://www.bamboohr.com/terms-of-service
+      - generic [ref=e181]: •
+      - paragraph [ref=e182]: © BambooHR All rights reserved.

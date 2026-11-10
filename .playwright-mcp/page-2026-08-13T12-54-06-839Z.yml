@@ -1,0 +1,236 @@
+- generic [active] [ref=f12e1]:
+  - banner [ref=f12e3]:
+    - generic [ref=f12e4]:
+      - link [ref=f12e5] [cursor=pointer]:
+        - /url: "#Hero-Section"
+      - navigation [ref=f12e6]:
+        - list [ref=f12e7]:
+          - listitem [ref=f12e8]:
+            - link "Why SafeBoda?" [ref=f12e9] [cursor=pointer]:
+              - /url: "#Anchor-Point---Why-SafeBoda"
+          - listitem [ref=f12e10]:
+            - link "Our Services" [ref=f12e11] [cursor=pointer]:
+              - /url: "#Anchor-Point--Our-Services"
+          - listitem [ref=f12e12]:
+            - link "SafeBoda for Business" [ref=f12e13] [cursor=pointer]:
+              - /url: "#Anchor-Point--Safeboda-for-Business"
+          - listitem [ref=f12e14]:
+            - link "Who we are?" [ref=f12e15] [cursor=pointer]:
+              - /url: "#Anchor-Point-Who-we-are"
+          - listitem [ref=f12e16]:
+            - button "Join Us" [ref=f12e18] [cursor=pointer]: 
+          - listitem [ref=f12e20]:
+            - link "Get in Touch" [ref=f12e21] [cursor=pointer]:
+              - /url: "#"
+        - list [ref=f12e22]:
+          - listitem [ref=f12e23]:
+            - link [ref=f12e24] [cursor=pointer]:
+              - /url: /home-ug
+            - link [ref=f12e25] [cursor=pointer]:
+              - /url: /
+            - link "Join as Business" [ref=f12e26] [cursor=pointer]:
+              - /url: https://business.safeboda.com/sign-up
+            - link "Download App" [ref=f12e27] [cursor=pointer]:
+              - /url: "#"
+      - text: 
+  - generic [ref=f12e30]:
+    - heading "Kenya's Trusted Ride-Hailing and Insured Package Delivery Service Provider" [level=1] [ref=f12e31]
+    - generic [ref=f12e32]: Safe. Reliable. Convenient.
+    - link "Send Insured Packages Via Web" [ref=f12e33] [cursor=pointer]:
+      - /url: https://app.safeboda.com/
+    - generic [ref=f12e34]:
+      - link [ref=f12e35] [cursor=pointer]:
+        - /url: https://play.google.com/store/apps/details?id=com.safeboda.passenger
+      - link [ref=f12e36] [cursor=pointer]:
+        - /url: https://apps.apple.com/us/app/safeboda-order-a-safecar/id1274389246
+    - generic [ref=f12e38]: Trusted by 2+ Million Users & 100+ Businesses In East Africa, Since 2015
+  - generic [ref=f12e52]:
+    - generic [ref=f12e53]: We deliver the best service
+    - paragraph [ref=f12e55]: SafeBoda offers you the peace of mind when it comes to ride-hailing and package delivery. As a Kenyan business/ individual, we understand the local market best and have a dedicated local support team ready to serve you.
+  - generic [ref=f12e60]:
+    - generic [ref=f12e61]: Our Services
+    - generic [ref=f12e64]:
+      - generic [ref=f12e65]:
+        - generic [ref=f12e66]: On-demand Package Delivery
+        - paragraph [ref=f12e67]: "Experience a better way to deliver packages with our door-to-door delivery within Nairobi and surrounding areas:"
+      - generic [ref=f12e68]:
+        - paragraph [ref=f12e70]: Insured package delivery trips
+        - paragraph [ref=f12e72]: "Flexible payment options: Cash on delivery, SafeBoda Wallet, & Business Wallet"
+        - paragraph [ref=f12e74]: Fast, affordable, and trackable
+        - paragraph [ref=f12e76]: Up to 5 delivery stops per trip
+        - paragraph [ref=f12e78]: Real-time location tracking
+        - paragraph [ref=f12e80]: Flat, upfront pricing
+        - paragraph [ref=f12e82]: Added Security with OTP Verification (One-Time Password).
+        - paragraph [ref=f12e84]: 24/7 customer support
+        - paragraph [ref=f12e86]: "Perfect for: e-commerce platforms, day-to day errands, business deliveries, corporate documents, and food"
+    - generic [ref=f12e90]:
+      - generic [ref=f12e91]:
+        - generic [ref=f12e92]: SafeBoda for Business
+        - paragraph [ref=f12e93]: Running a business? Let us handle your deliveries while you focus on growth.
+        - paragraph [ref=f12e95]:
+          - generic [ref=f12e96]: Insured packages
+        - paragraph [ref=f12e98]: Delivery support designed for Nairobi businesses
+        - paragraph [ref=f12e100]: Multi-stop package deliveries
+        - paragraph [ref=f12e102]: Dedicated business dashboard
+        - paragraph [ref=f12e104]: Perfect for e-commerce platforms, day-to-day errands, business deliveries, corporate documents
+      - generic [ref=f12e105]:
+        - link "Join as Business" [ref=f12e106] [cursor=pointer]:
+          - /url: https://business.safeboda.com/sign-up
+        - link "Login" [ref=f12e107] [cursor=pointer]:
+          - /url: https://business.safeboda.com/sign-in
+    - generic [ref=f12e108]:
+      - generic [ref=f12e109]: And much more
+      - generic [ref=f12e110]:
+        - generic [ref=f12e111]: Admin rights for your business portal
+        - generic [ref=f12e113]: Emergency Button for Incidents
+        - generic [ref=f12e115]: Share your live location so loved ones can track you.
+    - generic [ref=f12e119]:
+      - generic [ref=f12e120]: SafeCar Rides
+      - paragraph [ref=f12e121]: Need a car instead? Get reliable, affordable car rides through the SafeBoda with SafeCar app.
+      - paragraph [ref=f12e123]: Clean, comfortable vehicles
+      - paragraph [ref=f12e125]: Options for solo or group rides
+      - paragraph [ref=f12e127]: Book, ride, and pay — all from your phone
+    - generic [ref=f12e130]:
+      - generic [ref=f12e131]: SafeBoda Rides
+      - paragraph [ref=f12e132]: Beat traffic and get where you’re going faster — all with safety and comfort built in.
+      - paragraph [ref=f12e134]: Free helmet and reflector provided
+      - paragraph [ref=f12e136]: Trained and vetted riders
+      - paragraph [ref=f12e138]: Instant pickups in Nairobi and surrounding areas
+  - generic [ref=f12e139]:
+    - generic [ref=f12e140]: Why Choose SafeBoda?
+    - generic [ref=f12e142]:
+      - generic [ref=f12e145]:
+        - generic [ref=f12e146]: Affordable Prices for Everyone
+        - generic [ref=f12e147]: Just transparent, pocket-friendly rates.
+      - generic [ref=f12e150]:
+        - generic [ref=f12e151]: Insured Goods
+        - generic [ref=f12e152]: Perfect for e-commerce platforms, day-to day errands, business deliveries, corporate documents, and food
+      - generic [ref=f12e155]:
+        - generic [ref=f12e156]: Trusted & Professional
+        - generic [ref=f12e157]: Every rider is trained
+      - generic [ref=f12e160]:
+        - generic [ref=f12e161]: Local Support
+        - generic [ref=f12e162]: Kenyan business with a local support team
+  - generic [ref=f12e163]:
+    - generic [ref=f12e164]: What Nairobians Say About SafeBoda
+    - generic [ref=f12e167]:
+      - generic [ref=f12e168]:
+        - generic [ref=f12e169]: “SafeBoda has ensured my products get to my customers in good condition, affordably with a seamless end-to-end customer interaction upto the last mile”
+        - generic [ref=f12e170]: — Grace, Online Seller
+      - generic [ref=f12e171]:
+        - generic [ref=f12e172]: “My clients trust that i’m able to deliver their products on time and safely courtesy of SafeBoda”
+        - generic [ref=f12e173]: — Kevin, Office Worker
+      - generic [ref=f12e174]:
+        - generic [ref=f12e175]: “I don’t worry about where my packages are — I track everything live.”
+        - generic [ref=f12e176]: — Linda, Boutique Owner
+  - generic [ref=f12e177]:
+    - generic [ref=f12e178]:
+      - heading "Signup Now" [level=1] [ref=f12e179]
+      - paragraph [ref=f12e180]: The ultimate all-in-one solution for your team's transport and delivery needs
+    - generic [ref=f12e181]:
+      - link "Join as Business" [ref=f12e182] [cursor=pointer]:
+        - /url: https://business.safeboda.com/sign-up
+      - link "Download App" [ref=f12e185] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=f12e186]: Trusted by 2+ Million Users In East Africa, Since 2015
+  - generic [ref=f12e187]:
+    - generic [ref=f12e188]: Who we are?
+    - paragraph [ref=f12e191]: We provide safe, reliable, and affordable transportation and logistics services to millions of people through its mobile smartphone application network with trained and certified boda boda riders and car drivers. Whether you’re running an online business or sending parcels as an individual, our platform lets you schedule, track, and manage deliveries easily—anytime, anywhere.
+  - generic [ref=f12e192]:
+    - generic [ref=f12e193]: Join Us
+    - generic [ref=f12e194]:
+      - generic [ref=f12e195]:
+        - heading "Join our talented team and flourish" [level=1] [ref=f12e196]
+        - link "explore careers" [ref=f12e197] [cursor=pointer]:
+          - /url: /nairobi/05-career-nbo
+      - generic [ref=f12e198]:
+        - heading "Become a SafeBoda or SafeCar driver and join our community" [level=1] [ref=f12e199]
+        - link "Become a driver" [ref=f12e200] [cursor=pointer]:
+          - /url: /nairobi/06-driver-nbo
+    - generic [ref=f12e201]:
+      - heading [level=1] [ref=f12e202]:
+        - strong [ref=f12e203]: Only for drivers
+        - text: ": If you have previously submitted your details as a driver and wish to update or correct your submission, please follow the link below"
+      - link "Update/ correct my driver information" [ref=f12e204] [cursor=pointer]:
+        - /url: https://docs.google.com/forms/d/e/1FAIpQLSf5__LM0HoXHpn6lmKgBNind_G54GBQiRTFpG7YHknM7l4-YA/viewform
+  - generic [ref=f12e205]:
+    - generic [ref=f12e206]:
+      - generic [ref=f12e218]: SafeBoda
+      - generic [ref=f12e219]:
+        - generic [ref=f12e220]:
+          - generic [ref=f12e221]: Quick Links
+          - link "Create Business Account" [ref=f12e224] [cursor=pointer]:
+            - /url: https://business.safeboda.com/sign-up
+          - link "Login to Business Portal" [ref=f12e227] [cursor=pointer]:
+            - /url: https://business.safeboda.com/sign-in
+          - link "SafeBoda Website UG" [ref=f12e230] [cursor=pointer]:
+            - /url: https://www.safeboda.com/home-ug
+          - link "SafeBoda Website KE" [ref=f12e233] [cursor=pointer]:
+            - /url: https://www.safeboda.com/
+        - generic [ref=f12e234]:
+          - generic [ref=f12e235]: Join SafeBoda
+          - link "Careers" [ref=f12e236] [cursor=pointer]:
+            - /url: /nairobi/05-career-nbo
+          - link "Join as a driver" [ref=f12e237] [cursor=pointer]:
+            - /url: /nairobi/06-driver-nbo
+          - link "Join as Business" [ref=f12e238] [cursor=pointer]:
+            - /url: /website-v2/nairobi-sb-for-business
+        - generic [ref=f12e239]:
+          - generic [ref=f12e240]: Support
+          - link "Frequently Asked Questions" [ref=f12e243] [cursor=pointer]:
+            - /url: https://www.safeboda.com/uganda-website/faqs-nbo
+          - link "Terms of Use" [ref=f12e246] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy Policy" [ref=f12e249] [cursor=pointer]:
+            - /url: https://www.safeboda.com/privacy-policy
+          - link "Account Deletion Policy" [ref=f12e252] [cursor=pointer]:
+            - /url: https://www.safeboda.com/uganda-website/account-rectification-deletion-policy
+          - link [ref=f12e253] [cursor=pointer]:
+            - /url: /courier-terms-conditions
+            - strong [ref=f12e254]: Courier Terms & Conditions
+        - generic [ref=f12e255]:
+          - generic [ref=f12e256]: Download App
+          - link:
+            - /url: https://play.google.com/store/apps/details?id=com.safeboda.passenger
+          - link:
+            - /url: https://apps.apple.com/us/app/safeboda-with-safecar/id1274389246?ls=1
+      - generic [ref=f12e258]:
+        - generic [ref=f12e259]: Get in Touch, Visit Our Offices
+        - generic [ref=f12e260]:
+          - generic [ref=f12e262]:
+            - link "Graceland Court, 1st Floor, Office No. 3 Keiyo RD, Parklands" [ref=f12e266] [cursor=pointer]:
+              - /url: "#"
+            - link "+254 20 776 3333 12 hours (on call) 24 hours (online)" [ref=f12e270] [cursor=pointer]:
+              - /url: "#"
+              - text: +254 20 776 333312 hours (on call) 24 hours (online)
+            - link "teamkenya@safeboda.com" [ref=f12e274] [cursor=pointer]:
+              - /url: mailto:support@safeboda.com?subject=Support
+            - link "Our Blog" [ref=f12e278] [cursor=pointer]:
+              - /url: /blog
+            - generic [ref=f12e279]:
+              - link:
+                - /url: https://www.youtube.com/@safeboda7160
+              - link:
+                - /url: https://www.instagram.com/safeboda_kenya/?hl=en
+              - link:
+                - /url: https://x.com/SafeBoda_Kenya
+              - link:
+                - /url: https://www.facebook.com/SafeBoda254/
+              - link:
+                - /url: https://api.whatsapp.com/send/?phone=+254207763333&text&type=phone_number&app_absent=0
+          - region "carousel" [ref=f12e280]:
+            - generic [ref=f12e281]:
+              - group "1 of 6" [ref=f12e282]:
+                - generic [ref=f12e283]:
+                  - img "safeboda offices Kenya"
+              - group "2 of 6" [ref=f12e284]:
+                - generic [ref=f12e285]:
+                  - img "safeboda offices Kenya"
+              - group "3 of 6" [ref=f12e286]:
+                - generic [ref=f12e287]:
+                  - img "safeboda offices Kenya"
+              - group [ref=f12e288]
+              - group [ref=f12e290]
+              - group [ref=f12e292]
+            - button "next slide" [ref=f12e295] [cursor=pointer]
+    - generic [ref=f12e296]: © SafeBoda 2025, All rights reserved.

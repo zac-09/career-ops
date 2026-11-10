@@ -1,0 +1,610 @@
+- generic [ref=e2]:
+  - link "Skip to content" [ref=e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e5]:
+    - generic [ref=e10]:
+      - link "Hostaway logo Homepage" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - img "Hostaway logo" [ref=e13]
+        - generic [ref=e14]: Homepage
+      - generic:
+        - navigation:
+          - list
+    - main [ref=e15]:
+      - generic [ref=e23]:
+        - generic [ref=e29]:
+          - heading "Remote but still connected" [level=1] [ref=e30]:
+            - generic [ref=e32]: Remote but still connected
+          - paragraph [ref=e33]:
+            - generic [ref=e35]: Join Hostaway's growing
+            - strong [ref=e38]: 100% remote
+            - generic [ref=e40]: team where you'll get to work alongside experienced and ambitious people.
+          - link "Open positions" [ref=e43] [cursor=pointer]:
+            - /url: /#jobs-9b8314ef
+        - img "collage of hostaway team members" [ref=e49]
+      - generic [ref=e57]:
+        - generic [ref=e63]:
+          - heading "Our mission" [level=2] [ref=e64]:
+            - generic [ref=e66]: Our mission
+          - paragraph [ref=e67]:
+            - generic [ref=e69]: Our mission is to provide an unparalleled service to property managers around the globe. We enable their success through a platform of innovative and dependable products and services.
+          - paragraph [ref=e70]
+        - img "hostaway team collage" [ref=e76]
+      - generic [ref=e90]:
+        - heading "We continue to grow!" [level=2] [ref=e91]:
+          - generic [ref=e93]: We continue to grow!
+        - paragraph [ref=e94]:
+          - generic [ref=e96]: We're proud to be backed by over $550 million in strategic investment from
+          - link "PSG" [ref=e97] [cursor=pointer]:
+            - /url: https://www.hostaway.com/blog/psg-invests-175-million-into-hostaway/?utm_source=reservation_email
+            - generic [ref=e99]: PSG
+          - generic [ref=e101]: "&"
+          - link "General Atlantic" [ref=e102] [cursor=pointer]:
+            - /url: https://www.hostaway.com/blog/hostaway-raises-365-million/?utm_source=reservation_email
+            - generic [ref=e104]: General Atlantic
+          - generic [ref=e106]: — partners who share our vision for sustainable, long-term growth. Unlike many companies chasing growth at all costs, Hostaway has been profitable for years. Our focus is on building lasting value, not just raising capital. Join us as we scale a healthy, high-performing business.
+      - generic [ref=e125]:
+        - heading "Our values" [level=2] [ref=e126]:
+          - generic [ref=e128]: Our values
+        - list [ref=e129]:
+          - listitem [ref=e130]:
+            - paragraph [ref=e131]:
+              - strong [ref=e134]: Our customer's success is our success
+              - generic [ref=e136]: "- when our customers succeed, so do we."
+          - listitem [ref=e137]:
+            - paragraph [ref=e138]:
+              - strong [ref=e141]: Empathy
+              - generic [ref=e143]: "- we lead with understanding and build meaningful connections"
+          - listitem [ref=e144]:
+            - paragraph [ref=e145]:
+              - strong [ref=e148]: Critical thinking
+              - generic [ref=e150]: "- we solve challenges with curiosity and care."
+          - listitem [ref=e151]:
+            - paragraph [ref=e152]:
+              - strong [ref=e155]: Sisu
+              - generic [ref=e157]: "- a Finnish word for Grit, Sisu helps us push forward, no matter the odds."
+          - listitem [ref=e158]:
+            - paragraph [ref=e159]:
+              - strong [ref=e162]: Transparency
+              - generic [ref=e164]: "- honest communication is the foundation of our success."
+          - listitem [ref=e165]:
+            - paragraph [ref=e166]:
+              - strong [ref=e169]: Ownership and empowerment
+              - generic [ref=e171]: "- we trust our team to own their work and make an impact."
+          - listitem [ref=e172]:
+            - paragraph [ref=e173]:
+              - strong [ref=e176]: Growth
+              - generic [ref=e178]: "- we're not complacent. We believe we should all be growing, every day."
+      - generic [ref=e216]:
+        - heading "Grow with our team" [level=3] [ref=e217]:
+          - generic [ref=e219]: Grow with our team
+        - list [ref=e220]:
+          - listitem [ref=e221]:
+            - paragraph [ref=e222]:
+              - generic [ref=e224]: Join a profitable, stable, and growing company
+        - list [ref=e225]:
+          - listitem [ref=e226]:
+            - paragraph [ref=e227]:
+              - generic [ref=e229]: Company stock options provided to every role
+          - listitem [ref=e230]:
+            - paragraph [ref=e231]:
+              - generic [ref=e233]: Career advancement opportunities
+          - listitem [ref=e234]:
+            - paragraph [ref=e235]:
+              - generic [ref=e237]: Dynamic international culture
+          - listitem [ref=e238]:
+            - paragraph [ref=e239]:
+              - generic [ref=e241]: "Recently rated in Deloitte's top #100 fastest growing EMEA Tech Companies"
+      - heading "Join our fully remote company with 310+ team members in 40+ countries" [level=2] [ref=e263]:
+        - generic [ref=e265]: Join our fully remote company with 310+ team members in 40+ countries
+      - generic [ref=e277]:
+        - heading "Open positions" [level=2] [ref=e287]:
+          - generic [ref=e289]: Open positions
+        - generic [ref=e292]:
+          - tablist "Select tab to filter offers by" [ref=e294]:
+            - tab "All departments" [selected] [ref=e295] [cursor=pointer]
+            - tab "Customer Success" [ref=e296] [cursor=pointer]
+            - tab "Engineering" [ref=e297] [cursor=pointer]
+            - tab "Marketing" [ref=e298] [cursor=pointer]
+            - tab "Partnerships" [ref=e299] [cursor=pointer]
+            - tab "Product" [ref=e300] [cursor=pointer]
+            - tab "Sales" [ref=e301] [cursor=pointer]
+            - tab "Technical Support" [ref=e302] [cursor=pointer]
+          - status [ref=e306]:
+            - generic [ref=e307]:
+              - generic [ref=e310]:
+                - generic [ref=e311]:
+                  - link "Account Executive - 100% Remote - North America" [ref=e312] [cursor=pointer]:
+                    - /url: /o/account-executive-remote-north-america
+                  - generic [ref=e313]:
+                    - generic [ref=e314]:
+                      - generic [ref=e315]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e316]:
+                      - generic [ref=e317]:
+                        - generic:
+                          - img
+                      - generic [ref=e319]:
+                        - list [ref=e320]:
+                          - listitem [ref=e321]:
+                            - text: Austin
+                            - generic [ref=e322]: ","
+                            - text: Texas
+                            - generic [ref=e323]: ","
+                            - text: United States
+                        - generic [ref=e324]:
+                          - generic [ref=e325]: •
+                          - generic [ref=e327]: +13 more
+                - link "View job" [ref=e329] [cursor=pointer]:
+                  - /url: /o/account-executive-remote-north-america
+              - generic [ref=e332]:
+                - generic [ref=e333]:
+                  - link "Account Manager - 100% Remote - North America" [ref=e334] [cursor=pointer]:
+                    - /url: /o/account-manager-remote-north-america
+                  - generic [ref=e335]:
+                    - generic [ref=e336]:
+                      - generic [ref=e337]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e338]:
+                      - generic [ref=e339]:
+                        - generic:
+                          - img
+                      - generic [ref=e341]:
+                        - list [ref=e342]:
+                          - listitem [ref=e343]:
+                            - text: Austin
+                            - generic [ref=e344]: ","
+                            - text: Texas
+                            - generic [ref=e345]: ","
+                            - text: United States
+                        - generic [ref=e346]:
+                          - generic [ref=e347]: •
+                          - generic [ref=e349]: +11 more
+                - link "View job" [ref=e351] [cursor=pointer]:
+                  - /url: /o/account-manager-remote-north-america
+              - generic [ref=e354]:
+                - generic [ref=e355]:
+                  - link "Account Manager - 100% Remote - Philippines" [ref=e356] [cursor=pointer]:
+                    - /url: /o/account-manager-remote-philippines
+                  - generic [ref=e357]:
+                    - generic [ref=e358]:
+                      - generic [ref=e359]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e360]:
+                      - generic [ref=e361]:
+                        - generic:
+                          - img
+                      - generic [ref=e363]:
+                        - list [ref=e364]:
+                          - listitem [ref=e365]:
+                            - text: Austin
+                            - generic [ref=e366]: ","
+                            - text: Texas
+                            - generic [ref=e367]: ","
+                            - text: United States
+                        - generic [ref=e368]:
+                          - generic [ref=e369]: •
+                          - generic [ref=e371]: +11 more
+                - link "View job" [ref=e373] [cursor=pointer]:
+                  - /url: /o/account-manager-remote-philippines
+              - generic [ref=e376]:
+                - generic [ref=e377]:
+                  - link "Enablement Trainer - 100% Remote - Europe" [ref=e378] [cursor=pointer]:
+                    - /url: /o/enablement-trainer-100-remote-europe
+                  - generic [ref=e379]:
+                    - generic [ref=e380]:
+                      - generic [ref=e381]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e382]:
+                      - generic [ref=e383]:
+                        - generic:
+                          - img
+                      - generic [ref=e385]:
+                        - list [ref=e386]:
+                          - listitem [ref=e387]:
+                            - text: Barcelona
+                            - generic [ref=e388]: ","
+                            - text: Catalunya [Cataluña]
+                            - generic [ref=e389]: ","
+                            - text: Spain
+                        - generic [ref=e390]:
+                          - generic [ref=e391]: •
+                          - generic [ref=e393]: +2 more
+                - link "View job" [ref=e395] [cursor=pointer]:
+                  - /url: /o/enablement-trainer-100-remote-europe
+              - generic [ref=e398]:
+                - generic [ref=e399]:
+                  - link "Partner Integrations Manager - 100% Remote - Philippines" [ref=e400] [cursor=pointer]:
+                    - /url: /o/partner-integrations-manager-100-remote-philippines
+                  - generic [ref=e401]:
+                    - generic [ref=e402]:
+                      - generic [ref=e403]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e404]:
+                      - generic [ref=e405]:
+                        - generic:
+                          - img
+                      - list [ref=e408]:
+                        - listitem [ref=e409]:
+                          - text: Manila
+                          - generic [ref=e410]: ","
+                          - text: National Capital Region
+                          - generic [ref=e411]: ","
+                          - text: Philippines
+                - link "View job" [ref=e413] [cursor=pointer]:
+                  - /url: /o/partner-integrations-manager-100-remote-philippines
+              - generic [ref=e416]:
+                - generic [ref=e417]:
+                  - link "Partner Success Manager - 100% Remote - Philippines" [ref=e418] [cursor=pointer]:
+                    - /url: /o/partner-success-manager-100-remote-philippines
+                  - generic [ref=e419]:
+                    - generic [ref=e420]:
+                      - generic [ref=e421]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e422]:
+                      - generic [ref=e423]:
+                        - generic:
+                          - img
+                      - list [ref=e426]:
+                        - listitem [ref=e427]:
+                          - text: Manila
+                          - generic [ref=e428]: ","
+                          - text: National Capital Region
+                          - generic [ref=e429]: ","
+                          - text: Philippines
+                - link "View job" [ref=e431] [cursor=pointer]:
+                  - /url: /o/partner-success-manager-100-remote-philippines
+              - generic [ref=e434]:
+                - generic [ref=e435]:
+                  - link "Sales Development Representative - 100% remote - UK" [ref=e436] [cursor=pointer]:
+                    - /url: /o/sales-development-representative-100-remote-uk-3
+                  - generic [ref=e437]:
+                    - generic [ref=e438]:
+                      - generic [ref=e439]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e440]:
+                      - generic [ref=e441]:
+                        - generic:
+                          - img
+                      - list [ref=e444]:
+                        - listitem [ref=e445]:
+                          - text: London
+                          - generic [ref=e446]: ","
+                          - text: Greater London
+                          - generic [ref=e447]: ","
+                          - text: United Kingdom
+                - link "View job" [ref=e449] [cursor=pointer]:
+                  - /url: /o/sales-development-representative-100-remote-uk-3
+              - generic [ref=e452]:
+                - generic [ref=e453]:
+                  - link "Sales Manager (Account Executives) - 100% Remote - North America" [ref=e454] [cursor=pointer]:
+                    - /url: /o/account-executive-manager-remote-north-america
+                  - generic [ref=e455]:
+                    - generic [ref=e456]:
+                      - generic [ref=e457]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e458]:
+                      - generic [ref=e459]:
+                        - generic:
+                          - img
+                      - generic [ref=e461]:
+                        - list [ref=e462]:
+                          - listitem [ref=e463]:
+                            - text: Austin
+                            - generic [ref=e464]: ","
+                            - text: Texas
+                            - generic [ref=e465]: ","
+                            - text: United States
+                        - generic [ref=e466]:
+                          - generic [ref=e467]: •
+                          - generic [ref=e469]: +13 more
+                - link "View job" [ref=e471] [cursor=pointer]:
+                  - /url: /o/account-executive-manager-remote-north-america
+              - generic [ref=e474]:
+                - generic [ref=e475]:
+                  - link "Senior Backend Engineer, Booking Platform - 100% Remote - EMEA" [ref=e476] [cursor=pointer]:
+                    - /url: /o/senior-backend-engineer-booking-engine-remote
+                  - generic [ref=e477]:
+                    - generic [ref=e478]:
+                      - generic [ref=e479]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e480]:
+                      - generic [ref=e481]:
+                        - generic:
+                          - img
+                      - generic [ref=e483]:
+                        - list [ref=e484]:
+                          - listitem [ref=e485]:
+                            - text: Vienna
+                            - generic [ref=e486]: ","
+                            - text: Wien
+                            - generic [ref=e487]: ","
+                            - text: Austria
+                        - generic [ref=e488]:
+                          - generic [ref=e489]: •
+                          - generic [ref=e491]: +18 more
+                - link "View job" [ref=e493] [cursor=pointer]:
+                  - /url: /o/senior-backend-engineer-booking-engine-remote
+              - generic [ref=e496]:
+                - generic [ref=e497]:
+                  - link "Senior Director Brand and Content - 100% Remote - Europe" [ref=e498] [cursor=pointer]:
+                    - /url: /o/senior-director-brand-and-content-remote
+                  - generic [ref=e499]:
+                    - generic [ref=e500]:
+                      - generic [ref=e501]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e502]:
+                      - generic [ref=e503]:
+                        - generic:
+                          - img
+                      - generic [ref=e505]:
+                        - list [ref=e506]:
+                          - listitem [ref=e507]:
+                            - text: Vienna
+                            - generic [ref=e508]: ","
+                            - text: Wien
+                            - generic [ref=e509]: ","
+                            - text: Austria
+                        - generic [ref=e510]:
+                          - generic [ref=e511]: •
+                          - generic [ref=e513]: +18 more
+                - link "View job" [ref=e515] [cursor=pointer]:
+                  - /url: /o/senior-director-brand-and-content-remote
+              - generic [ref=e518]:
+                - generic [ref=e519]:
+                  - link "Senior Frontend Engineer, Accounting - 100% Remote - EMEA" [ref=e520] [cursor=pointer]:
+                    - /url: /o/senior-frontend-engineer-accounting-100-remote-emea
+                  - generic [ref=e521]:
+                    - generic [ref=e522]:
+                      - generic [ref=e523]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e524]:
+                      - generic [ref=e525]:
+                        - generic:
+                          - img
+                      - generic [ref=e527]:
+                        - list [ref=e528]:
+                          - listitem [ref=e529]:
+                            - text: Vienna
+                            - generic [ref=e530]: ","
+                            - text: Wien
+                            - generic [ref=e531]: ","
+                            - text: Austria
+                        - generic [ref=e532]:
+                          - generic [ref=e533]: •
+                          - generic [ref=e535]: +22 more
+                - link "View job" [ref=e537] [cursor=pointer]:
+                  - /url: /o/senior-frontend-engineer-accounting-100-remote-emea
+              - generic [ref=e540]:
+                - generic [ref=e541]:
+                  - link "Senior Frontend Engineer, Communications - 100% Remote - EMEA" [ref=e542] [cursor=pointer]:
+                    - /url: /o/senior-frontend-engineer-role-remote-emea
+                  - generic [ref=e543]:
+                    - generic [ref=e544]:
+                      - generic [ref=e545]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e546]:
+                      - generic [ref=e547]:
+                        - generic:
+                          - img
+                      - generic [ref=e549]:
+                        - list [ref=e550]:
+                          - listitem [ref=e551]:
+                            - text: Vienna
+                            - generic [ref=e552]: ","
+                            - text: Wien
+                            - generic [ref=e553]: ","
+                            - text: Austria
+                        - generic [ref=e554]:
+                          - generic [ref=e555]: •
+                          - generic [ref=e557]: +20 more
+                - link "View job" [ref=e559] [cursor=pointer]:
+                  - /url: /o/senior-frontend-engineer-role-remote-emea
+              - generic [ref=e562]:
+                - generic [ref=e563]:
+                  - link "Senior Fullstack Engineer - Accounting - 100% Remote - EMEA" [ref=e564] [cursor=pointer]:
+                    - /url: /o/senior-fullstack-engineer-accounting-remote-emea
+                  - generic [ref=e565]:
+                    - generic [ref=e566]:
+                      - generic [ref=e567]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e568]:
+                      - generic [ref=e569]:
+                        - generic:
+                          - img
+                      - generic [ref=e571]:
+                        - list [ref=e572]:
+                          - listitem [ref=e573]:
+                            - text: Vienna
+                            - generic [ref=e574]: ","
+                            - text: Wien
+                            - generic [ref=e575]: ","
+                            - text: Austria
+                        - generic [ref=e576]:
+                          - generic [ref=e577]: •
+                          - generic [ref=e579]: +20 more
+                - link "View job" [ref=e581] [cursor=pointer]:
+                  - /url: /o/senior-fullstack-engineer-accounting-remote-emea
+              - generic [ref=e584]:
+                - generic [ref=e585]:
+                  - link "Staff Backend Engineer - Accounting - 100% Remote - EMEA" [ref=e586] [cursor=pointer]:
+                    - /url: /o/staff-backend-engineer-accounting-remote-emea
+                  - generic [ref=e587]:
+                    - generic [ref=e588]:
+                      - generic [ref=e589]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e590]:
+                      - generic [ref=e591]:
+                        - generic:
+                          - img
+                      - generic [ref=e593]:
+                        - list [ref=e594]:
+                          - listitem [ref=e595]:
+                            - text: Vienna
+                            - generic [ref=e596]: ","
+                            - text: Wien
+                            - generic [ref=e597]: ","
+                            - text: Austria
+                        - generic [ref=e598]:
+                          - generic [ref=e599]: •
+                          - generic [ref=e601]: +20 more
+                - link "View job" [ref=e603] [cursor=pointer]:
+                  - /url: /o/staff-backend-engineer-accounting-remote-emea
+              - generic [ref=e606]:
+                - generic [ref=e607]:
+                  - link "Staff Product Manager - AI - 100% Remote - EMEA" [ref=e608] [cursor=pointer]:
+                    - /url: /o/staff-product-manager-ai-remote-emea
+                  - generic [ref=e609]:
+                    - generic [ref=e610]:
+                      - generic [ref=e611]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e612]:
+                      - generic [ref=e613]:
+                        - generic:
+                          - img
+                      - generic [ref=e615]:
+                        - list [ref=e616]:
+                          - listitem [ref=e617]:
+                            - text: Barcelona
+                            - generic [ref=e618]: ","
+                            - text: Catalunya [Cataluña]
+                            - generic [ref=e619]: ","
+                            - text: Spain
+                        - generic [ref=e620]:
+                          - generic [ref=e621]: •
+                          - generic [ref=e623]: +17 more
+                - link "View job" [ref=e625] [cursor=pointer]:
+                  - /url: /o/staff-product-manager-ai-remote-emea
+              - generic [ref=e628]:
+                - generic [ref=e629]:
+                  - link "Technical Support Specialist - 100% Remote - EMEA" [ref=e630] [cursor=pointer]:
+                    - /url: /o/technical-support-specialist-remote-emea
+                  - generic [ref=e631]:
+                    - generic [ref=e632]:
+                      - generic [ref=e633]:
+                        - generic:
+                          - img
+                      - text: Remote
+                    - generic [ref=e634]:
+                      - generic [ref=e635]:
+                        - generic:
+                          - img
+                      - generic [ref=e637]:
+                        - list [ref=e638]:
+                          - listitem [ref=e639]:
+                            - text: Zagreb
+                            - generic [ref=e640]: ","
+                            - text: Zagrebačka županija
+                            - generic [ref=e641]: ","
+                            - text: Croatia
+                        - generic [ref=e642]:
+                          - generic [ref=e643]: •
+                          - generic [ref=e645]: +4 more
+                - link "View job" [ref=e647] [cursor=pointer]:
+                  - /url: /o/technical-support-specialist-remote-emea
+      - generic [ref=e661]:
+        - heading "Find out more about Hostaway" [level=3] [ref=e662]:
+          - generic [ref=e664]: Find out more about Hostaway
+        - list [ref=e665]:
+          - listitem [ref=e666]:
+            - paragraph [ref=e667]:
+              - link "Our website" [ref=e668] [cursor=pointer]:
+                - /url: https://www.hostaway.com/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+                - generic [ref=e670]: Our website
+          - listitem [ref=e671]:
+            - paragraph [ref=e672]:
+              - link "Our two-minute overview" [ref=e673] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=shCoQeHH9WU
+                - generic [ref=e675]: Our two-minute overview
+          - listitem [ref=e676]:
+            - paragraph [ref=e677]:
+              - link "Our product video" [ref=e678] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=0hgdriSAKaY
+                - generic [ref=e680]: Our product video
+          - listitem [ref=e681]:
+            - paragraph [ref=e682]:
+              - link "Our blog" [ref=e683] [cursor=pointer]:
+                - /url: https://www.hostaway.com/blog/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+                - generic [ref=e685]: Our blog
+          - listitem [ref=e686]:
+            - paragraph [ref=e687]:
+              - link "Our customer case studies" [ref=e688] [cursor=pointer]:
+                - /url: https://www.hostaway.com/case-studies/?placement=&keyword=hostaway&utm_campaign=gg_emea_dg_search_brand_exact&utm_source=google&utm_medium=paid_search&utm_content=brand_exact&utm_term=hostaway&hsa_acc=1558130764&hsa_cam=20285764070&hsa_grp=149795465945&hsa_ad=703390329010&hsa_src=g&hsa_tgt=kwd-323175560058&hsa_kw=hostaway&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA9bq6BhAKEiwAH6bqoFzIiBxWyYjgj1eHkWBbx21yE_0H832dTtEPhfNCYj-TMlL-GnknahoCGzkQAvD_BwE
+                - generic [ref=e690]: Our customer case studies
+          - listitem [ref=e691]:
+            - paragraph [ref=e692]:
+              - link "Our marketplace" [ref=e693] [cursor=pointer]:
+                - /url: https://www.hostaway.com/marketplace/
+                - generic [ref=e695]: Our marketplace
+          - listitem [ref=e696]:
+            - paragraph [ref=e697]:
+              - link "Our candidate privacy policy" [ref=e698] [cursor=pointer]:
+                - /url: /privacypolicy
+                - generic [ref=e700]: Our candidate privacy policy
+          - listitem [ref=e701]:
+            - paragraph [ref=e702]:
+              - link "Our advice on recruitment scams" [ref=e703] [cursor=pointer]:
+                - /url: /recruitment-security
+                - generic [ref=e705]: Our advice on recruitment scams
+          - listitem [ref=e706]:
+            - paragraph [ref=e707]:
+              - link "Our guide on AI use in the interview process" [ref=e708] [cursor=pointer]:
+                - /url: /recruitment-security-qg4p4
+                - generic [ref=e710]: Our guide on AI use in the interview process
+      - heading "You can learn more about our team and culture by visiting our profile on Glassdoor" [level=3] [ref=e730]:
+        - generic [ref=e732]: You can learn more about our team and culture by visiting our profile on
+        - link "Glassdoor" [ref=e733] [cursor=pointer]:
+          - /url: https://www.glassdoor.com/Overview/Working-at-Hostaway-EI_IE1358830.11,19.htm
+          - generic [ref=e735]: Glassdoor
+    - generic [ref=e748]:
+      - link "Hostaway logo Homepage" [ref=e752] [cursor=pointer]:
+        - /url: /
+        - img "Hostaway logo" [ref=e753]
+        - generic [ref=e754]: Homepage
+      - generic [ref=e757]:
+        - link "linkedin" [ref=e758] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/hostaway/
+          - generic:
+            - img
+        - link "facebook" [ref=e759] [cursor=pointer]:
+          - /url: https://www.facebook.com/Hostawaycom
+          - generic:
+            - img
+        - link "instagram" [ref=e760] [cursor=pointer]:
+          - /url: https://www.instagram.com/hostawaycom/
+          - generic:
+            - img
+        - link "youtube" [ref=e761] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UC9QeuvQX1EurqelmrXkgaGw
+          - generic:
+            - img

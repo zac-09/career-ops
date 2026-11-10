@@ -1,0 +1,623 @@
+- generic [active] [ref=f15e1]:
+  - generic [ref=f15e2]:
+    - banner [ref=f15e3]:
+      - navigation [ref=f15e4]:
+        - paragraph [ref=f15e5]: Top navigation
+        - generic [ref=f15e6]:
+          - link "Buffer" [ref=f15e8] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f15e17]:
+            - button "Features" [ref=f15e19] [cursor=pointer]
+            - button "Integrations" [ref=f15e27] [cursor=pointer]
+            - button "Made for" [ref=f15e35] [cursor=pointer]
+            - button "Resources" [ref=f15e43] [cursor=pointer]
+            - link "Pricing" [ref=f15e50] [cursor=pointer]:
+              - /url: /pricing?cta=bufferSite-globalNav-pricing-pricing-1
+          - generic [ref=f15e51]:
+            - link "Log in" [ref=f15e52] [cursor=pointer]:
+              - /url: https://login.buffer.com/login?plan=free&cycle=year&cta=bufferSite-globalNav-login-1
+            - link "Get started for free" [ref=f15e54] [cursor=pointer]:
+              - /url: https://login.buffer.com/signup?product=buffer&plan=free&cycle=year&cta=bufferSite-globalNav-signup-1
+    - main [ref=f15e56]:
+      - generic [ref=f15e58]:
+        - link "Back to all open roles" [ref=f15e59] [cursor=pointer]:
+          - /url: /journey#open-roles
+        - heading "Senior Infrastructure Engineer" [level=1] [ref=f15e63]
+        - paragraph [ref=f15e64]: We're looking for a Senior Infrastructure Engineer to join our fully remote and mission-driven team and help us develop tools for content creators worldwide.
+        - link "Apply" [ref=f15e65] [cursor=pointer]:
+          - /url: "#apply"
+      - generic [ref=f15e70]:
+        - region [ref=f15e71]:
+          - heading "Role details" [level=2] [ref=f15e72]
+          - generic [ref=f15e73]:
+            - generic [ref=f15e74]:
+              - term [ref=f15e75]: Location
+              - definition [ref=f15e76]: Remote
+            - generic [ref=f15e77]:
+              - term [ref=f15e78]: Employment type
+              - definition [ref=f15e79]: Full time
+            - generic [ref=f15e80]:
+              - term [ref=f15e81]: Department
+              - definition [ref=f15e82]: Engineering
+            - generic [ref=f15e83]:
+              - term [ref=f15e84]: Compensation
+              - definition [ref=f15e85]:
+                - paragraph [ref=f15e86]: $164,595 – $212,744 • Offers Equity
+                - paragraph [ref=f15e87]: "We strive for Buffer’s approach to salary, equity, and benefits to be:"
+                - list [ref=f15e88]:
+                  - listitem [ref=f15e89]: Transparent
+                  - listitem [ref=f15e90]: Fair
+                  - listitem [ref=f15e91]: Simple
+                  - listitem [ref=f15e92]: Generous
+                - paragraph [ref=f15e93]:
+                  - link "Read more about our compensation philosophies and approach" [ref=f15e94] [cursor=pointer]:
+                    - /url: /resources/salary-system/
+                  - text: .
+        - region [ref=f15e95]:
+          - heading "Role description" [level=2] [ref=f15e96]
+          - generic [ref=f15e97]:
+            - heading "About Buffer" [level=2] [ref=f15e98]
+            - paragraph [ref=f15e99]: We create social media and brand-building software for small businesses, creators, and individuals. Our mission is to provide essential tools to help small businesses get off the ground and grow. Through exceptional customer service and uplifting content, we help our customers believe they can succeed and do good along the way.
+            - paragraph [ref=f15e100]:
+              - text: Buffer is a fully distributed team, and we’ve always aimed to do things a little differently at Buffer. Since the early days, we’ve focused on building one of the most unique and fulfilling workplaces by rethinking a lot of traditional practices. We also default to transparency, so you can read all about our metrics, and our successes and failures along the way on our
+              - link "Transparency Dashboard" [ref=f15e101] [cursor=pointer]:
+                - /url: https://buffer.com/open
+              - text: .
+            - paragraph [ref=f15e102]:
+              - text: We're united by Buffer's
+              - link "values" [ref=f15e103] [cursor=pointer]:
+                - /url: https://buffer.com/about#values
+              - text: ", and we hire and work from all over the world. We strive to create a diverse and inclusive work environment, and we are building a culture where underrepresented groups are welcome and can flourish. Please note that we do travel to work together in person once or twice per year, and those events are highly encouraged to build deeper connections among our small team."
+            - paragraph [ref=f15e104]:
+              - text: As you get to know Buffer and consider joining the journey, you can learn more about Buffer on our
+              - link "Journey" [ref=f15e105] [cursor=pointer]:
+                - /url: https://buffer.com/journey
+              - text: page. Still curious to learn more about the experience on the Buffer team? Feel free to read more from
+              - link "Kirsti" [ref=f15e106] [cursor=pointer]:
+                - /url: https://buffer.com/resources/first-30-days-buffer/
+              - text: and
+              - link "Sabreen" [ref=f15e107] [cursor=pointer]:
+                - /url: https://buffer.com/resources/joined-3-days-before-the-retreat/
+              - text: as they share their first experiences with Buffer, as well as from
+              - link "Hailley" [ref=f15e108] [cursor=pointer]:
+                - /url: https://buffer.com/resources/8-years-at-buffer/
+              - text: ", who captured why she still calls Buffer home after 8+ years."
+            - paragraph
+            - heading "About the role" [level=2] [ref=f15e109]
+            - paragraph [ref=f15e110]: As Buffer's next Senior Infrastructure Engineer, you'll join two seasoned Infrastructure Engineers on a small, deliberate, high-leverage team. Together, you'll run the platform that lets every Buffer engineer ship, and that indirectly lets millions of creators publish, grow, and earn a living on the social web. When our infrastructure is fast and reliable, creators get features sooner and outages less often.
+            - paragraph [ref=f15e111]: You'll own a meaningful slice of three shifts the team is making.
+            - list [ref=f15e112]:
+              - listitem [ref=f15e113]:
+                - paragraph [ref=f15e114]:
+                  - strong [ref=f15e115]: Keeping the lights on at a higher bar.
+                  - text: You'll make our CI/CD pipelines faster and even more anti-fragile, ship boring deploys, and turn each incident into a new lesson rather than a repeat.
+              - listitem [ref=f15e116]:
+                - paragraph [ref=f15e117]:
+                  - strong [ref=f15e118]: Modernizing the foundation.
+                  - text: Buffer is not new, but our Infra is in continuous improvement. From deploying KEDA and Argo Rollouts to improving our signal-to-noise ratio in monitoring, there is plenty to do. One cannot talk about modernization without mentioning AI. We're already leaning on it for investigations and boilerplate, and want to bring it deeper into our day-to-day.
+              - listitem [ref=f15e119]:
+                - paragraph [ref=f15e120]:
+                  - strong [ref=f15e121]: Treating engineers across Buffer as customers.
+                  - text: You'll evolve the developer tooling that makes the inner loop fast, with documentation that holds up at 2am or when consumed by an agent.
+            - paragraph [ref=f15e122]: We're remote-first with a preference for at least 4 hours of overlap with EMEA time zones, but we're open to strong candidates anywhere in the world.
+            - paragraph [ref=f15e123]: It's an exciting time to join. Buffer is a profitable, 15-year-old company innovating at the edge of AI-assisted development, and there's lots of impactful work to do.
+            - paragraph
+            - heading "Who you'll work with" [level=2] [ref=f15e124]
+            - paragraph [ref=f15e125]:
+              - text: In this role, you'll report to
+              - link "Miguel" [ref=f15e126] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/migueldavid/
+              - text: ", the Infrastructure Engineering Manager."
+            - paragraph [ref=f15e127]:
+              - text: Day-to-day you'll work closely with
+              - link "Peter" [ref=f15e128] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/peter-emil/
+              - text: and
+              - link "Steven" [ref=f15e129] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/stevenc81/
+              - text: ", who have helped build the infrastructure we run on since the beginning of Buffer. We're looking to round out the team with someone who sits between infra and developer experience: deep infra expertise paired with an infra-as-a-product mindset."
+            - paragraph [ref=f15e130]: You'll also work daily with all of EPD (Buffer's unified Engineering, Product, and Design team). EPD are the internal customers of the platform you maintain, and they contribute to it too.
+            - paragraph
+            - heading "What you'll be working on" [level=2] [ref=f15e131]
+            - list [ref=f15e132]:
+              - listitem [ref=f15e133]:
+                - paragraph [ref=f15e134]:
+                  - strong [ref=f15e135]: Own
+                  - text: the day-to-day reliability of our production platform. Keep EKS, ArgoCD, and the AWS surface area boring, tune autoscaling so the system adjusts well under load, and approach incident response in a way that each incident teaches us something new instead of repeating itself. (On-call is distributed across all engineers at Buffer, a week-long shift roughly once a quarter.)
+              - listitem [ref=f15e136]:
+                - paragraph [ref=f15e137]:
+                  - strong [ref=f15e138]: Build
+                  - text: progressive delivery into something the rest of engineering trusts. Implement Argo Rollouts with clean rollback paths, so the time between "this deploy is bad" and "this deploy is reverted" measures in seconds to minutes.
+              - listitem [ref=f15e139]:
+                - paragraph [ref=f15e140]:
+                  - strong [ref=f15e141]: Build
+                  - text: developer tools as products, instead of loose scripts. Evolve our in-house local development environment,
+                  - link "BIBEs" [ref=f15e142] [cursor=pointer]:
+                    - /url: https://peteremil.com/buffers-bibes/
+                  - text: (Buffer Isolated Build Environments, per-PR full-stack staging deployments), and our CLI tooling so the inner loop is fast, frictionless, and parallel-friendly for AI agents. Measure adoption, talk to your users, iterate.
+              - listitem [ref=f15e143]:
+                - paragraph [ref=f15e144]:
+                  - strong [ref=f15e145]: Reduce
+                  - text: operational toil with AI. Automate low-risk workflows end-to-end so the team spends its time on the hard problems, not the repeat ones. AI doesn't touch infrastructure directly, it speeds up the humans who do.
+              - listitem [ref=f15e146]:
+                - paragraph [ref=f15e147]:
+                  - strong [ref=f15e148]: Keep
+                  - text: "the stack current. Drive lifecycle upgrades: application runtimes (Node.js, Python), Kubernetes, EKS, Helm versions, and the Terraform-managed surface area. Own infra-side security vulnerabilities."
+              - listitem [ref=f15e149]:
+                - paragraph [ref=f15e150]:
+                  - strong [ref=f15e151]: Improve
+                  - text: the economics of our platform. Lead visibility work on Datadog, AWS rightsizing, and log filters so observability and cloud spend grow slower than the company does.
+              - listitem [ref=f15e152]:
+                - paragraph [ref=f15e153]:
+                  - strong [ref=f15e154]: Partner
+                  - text: with EPD on the platform they build on. Raise the documentation bar with the team, carry your share of weekly security work (dependency and vulnerability management is everyone's job), and help the infra team grow toward shared ownership and fewer single-person dependencies.
+            - paragraph
+            - heading "Helpful skills and experience" [level=2] [ref=f15e155]
+            - paragraph [ref=f15e156]: Very few people match every line here. If most of the core list sounds like you, apply. The bonus list is genuinely bonus.
+            - heading "Core experience" [level=3] [ref=f15e157]
+            - list [ref=f15e158]:
+              - listitem [ref=f15e159]:
+                - paragraph [ref=f15e160]: You've worked as an Infrastructure Engineer, SRE, or in a DevOps or platform engineering role, on systems real people depended on.
+              - listitem [ref=f15e161]:
+                - paragraph [ref=f15e162]: You've run production Kubernetes. You've authored and maintained Helm charts, tuned autoscaling and resource requests, and kept it standing under real traffic.
+              - listitem [ref=f15e163]:
+                - paragraph [ref=f15e164]: You know AWS and Terraform well. You default to modules, keep the code readable and adaptable, and can say what happens when a plan touches something load-bearing.
+              - listitem [ref=f15e165]:
+                - paragraph [ref=f15e166]: You've operated production CI/CD and GitOps, including a rollback path you'd trust when something breaks in production.
+              - listitem [ref=f15e167]:
+                - paragraph [ref=f15e168]: You've carried the pager for something you built. You've run an incident, written the follow-up, and turned off the alert nobody trusted anymore.
+              - listitem [ref=f15e169]:
+                - paragraph [ref=f15e170]: You've built internal developer tooling. CLIs, dev environments, per-PR environments. You've felt the difference between something that ships and something that gets used.
+              - listitem [ref=f15e171]:
+                - paragraph [ref=f15e172]: You thrive in remote, async environments. You're clear in your thinking and generous with context.
+              - listitem [ref=f15e173]:
+                - paragraph [ref=f15e174]: Slow and flaky bothers you. You ship something rough teammates can react to, then keep going until the whole class of problem is gone, not just the one bug in the ticket.
+              - listitem [ref=f15e175]:
+                - paragraph [ref=f15e176]: You're fluent with modern AI tools. You use them to debug, document, and reduce toil, not just to generate code.
+              - listitem [ref=f15e177]:
+                - paragraph [ref=f15e178]: You make pragmatic build-vs-buy calls, you weigh what things cost to run, and you revisit both when conditions change. You'd rather invest in fundamentals that compound than chase the newest tool.
+              - listitem [ref=f15e179]:
+                - paragraph [ref=f15e180]: "You have a personal stake in making and publishing things. What that looks like is yours to choose: writing, video, code, photos, music, a niche account with twelve followers. Audience size is not the point. We're a Team of Creators, and infra gets better the closer it sits to that experience."
+            - heading "Bonus points" [level=3] [ref=f15e181]
+            - list [ref=f15e182]:
+              - listitem [ref=f15e183]:
+                - paragraph [ref=f15e184]: You're already a Buffer user, or you know the social media management space.
+              - listitem [ref=f15e185]:
+                - paragraph [ref=f15e186]: You've worked with Datadog, Sentry, or a similar observability stack, and you design logs and metrics with cost in mind.
+              - listitem [ref=f15e187]:
+                - paragraph [ref=f15e188]: Prior Cloudflare experience across Workers, Zero Trust, and DNS.
+              - listitem [ref=f15e189]:
+                - paragraph [ref=f15e190]: An open source Terraform module or tool you've contributed.
+            - paragraph
+            - heading "Our tech stack" [level=2] [ref=f15e191]
+            - list [ref=f15e192]:
+              - listitem [ref=f15e193]:
+                - paragraph [ref=f15e194]:
+                  - strong [ref=f15e195]: Cloud and IaC.
+                  - text: "AWS, GCP, Cloudflare. Products you'll find in use here: EC2, EKS, S3, SQS, SNS, ECR, IAM, ALB, BigQuery, mostly managed in Terraform."
+              - listitem [ref=f15e196]:
+                - paragraph [ref=f15e197]:
+                  - strong [ref=f15e198]: Container orchestration and delivery.
+                  - text: Kubernetes on EKS, Helm for charting, KEDA for SQS-driven autoscaling. ArgoCD for deploys from git. An in-house canary system that we want to augment with Argo Rollouts. BIBEs and frontend branch deployments for per-PR previews.
+              - listitem [ref=f15e199]:
+                - paragraph [ref=f15e200]:
+                  - strong [ref=f15e201]: CI/CD.
+                  - text: GitHub Actions, with self-hosted AWS runners (including KVM-capable instances for Android UI tests). Our monorepo is the consolidation target, and we're moving more services into it over time.
+              - listitem [ref=f15e202]:
+                - paragraph [ref=f15e203]:
+                  - strong [ref=f15e204]: Observability and incidents.
+                  - text: Datadog for logs, metrics, APM, and spans. Sentry for errors.
+                  - link "Incident.io" [ref=f15e205] [cursor=pointer]:
+                    - /url: https://incident.io
+                  - text: (and a bit of PagerDuty) for the incident lifecycle and postmortems.
+              - listitem [ref=f15e206]:
+                - paragraph [ref=f15e207]:
+                  - strong [ref=f15e208]: Networking and DNS.
+                  - text: Cloudflare across Workers, Zero Trust, DNS, and more. CloudFront for AWS-side distribution. VPC peering for cross-account connectivity. OctoDNS for DNS-as-code.
+              - listitem [ref=f15e209]:
+                - paragraph [ref=f15e210]:
+                  - strong [ref=f15e211]: Data stores.
+                  - text: MongoDB fronted by GraphQL, Elasticsearch, Redis.
+              - listitem [ref=f15e212]:
+                - paragraph [ref=f15e213]:
+                  - strong [ref=f15e214]: Local development.
+                  - text: Hermes (our in-house environment that mirrors production) running in OrbStack, pre-built production containers from ECR.
+              - listitem [ref=f15e215]:
+                - paragraph [ref=f15e216]:
+                  - strong [ref=f15e217]: Languages and runtimes.
+                  - text: Node.js and TypeScript across most services, Python in selected services and tooling, and PHP for legacy services that are still load-bearing and being gradually replaced.
+            - paragraph
+            - heading "Interview process" [level=2] [ref=f15e218]
+            - paragraph [ref=f15e219]: Do you believe you're a fit for this role and want to join the Buffer team? We'd love to hear about you!
+            - paragraph [ref=f15e220]: "Here's what the hiring process will look like:"
+            - list [ref=f15e221]:
+              - listitem [ref=f15e222]:
+                - paragraph [ref=f15e223]:
+                  - strong [ref=f15e224]: Application.
+                  - text: Apply to join the team through the form below.
+                - list [ref=f15e225]:
+                  - listitem [ref=f15e226]:
+                    - paragraph [ref=f15e227]: When submitting your application and resume, take your time. This is your chance to make a strong first impression.
+                  - listitem [ref=f15e228]:
+                    - paragraph [ref=f15e229]: While we have a couple of engineering roles open, we recommend applying to only one role. If during our review or interviews we think you'd be great for a different position, we'll re-route your application internally.
+                  - listitem [ref=f15e230]:
+                    - paragraph [ref=f15e231]: Response times can take a few days to weeks. We're a small team reviewing every application carefully.
+              - listitem [ref=f15e232]:
+                - paragraph [ref=f15e233]:
+                  - strong [ref=f15e234]: Hiring manager interview.
+                  - text: Chat with the hiring manager for your role (
+                  - link "Miguel, Engineering Manager" [ref=f15e235] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/migueldavid/
+                  - text: ) and another Engineering Leader to understand what it takes to work at Buffer. This is an opportunity for both sides to get to know each other and determine whether our expectations align.
+              - listitem [ref=f15e236]:
+                - paragraph [ref=f15e237]:
+                  - strong [ref=f15e238]: Take-home exercise.
+                  - text: We'll send you
+                  - strong [ref=f15e239]
+                  - text: a two-page max asynchronous assignment to review a system or scenario to help us understand how you think about systems, assumptions and communication of technical ideas.
+              - listitem [ref=f15e240]:
+                - paragraph [ref=f15e241]:
+                  - strong [ref=f15e242]: Technical interview.
+                  - text: Interview with two Infrastructure Engineers from Buffer (
+                  - link "Peter" [ref=f15e243] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/peter-emil/
+                  - text: and
+                  - link "Steven" [ref=f15e244] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/stevenc81/
+                  - text: ) focusing on your technical experience and approach.
+              - listitem [ref=f15e245]:
+                - paragraph [ref=f15e246]:
+                  - strong [ref=f15e247]: Leadership interview.
+                  - text: A conversation with one or two Engineering Leaders to discuss your approach to leadership, how we drive value and impact in a cross-functional company, and to really get into how you think about approaching work and collaboration.
+              - listitem [ref=f15e248]:
+                - paragraph [ref=f15e249]:
+                  - strong [ref=f15e250]: Final interview.
+                  - text: You will have the opportunity to meet with our Executive Leadership team. This is a great chance for you to gain a deeper understanding of Buffer's strategy, values, and work processes.
+              - listitem [ref=f15e251]:
+                - paragraph [ref=f15e252]:
+                  - strong [ref=f15e253]: Collaboration period.
+                  - text: This is a stage where you would work with us on a real project over two days (fully paid). The goal is to see how it feels to work in the team, both for us and for you. You'll meet a few Bufferoos, we'll kick off the project, invite you to a Slack channel, and you'll collaborate with the team on it.
+              - listitem [ref=f15e254]:
+                - paragraph [ref=f15e255]:
+                  - strong [ref=f15e256]: Offer.
+                  - text: We wrap it up with an offer and discuss the final details. We would align on the last bits before we make you part of the Buffer team 💛
+            - paragraph [ref=f15e257]:
+              - emphasis [ref=f15e258]: At Buffer, we value diversity of experience, and we understand that comes in many forms. We’re dedicated to adding new perspectives to the team. So, if your experience is close to what we’re looking for, please consider applying.
+            - paragraph [ref=f15e259]:
+              - emphasis [ref=f15e260]: By submitting the application, you consent to Buffer collecting and processing your personal data for recruiting purposes, find more details in our
+              - link [ref=f15e261] [cursor=pointer]:
+                - /url: https://buffer.notion.site/Privacy-Policy-for-Applicants-230a7f5a00fd80e48478f09171d18a24?pvs=143
+                - emphasis [ref=f15e262]: Privacy Policy
+              - emphasis [ref=f15e263]: .
+        - region [ref=f15e264]:
+          - heading "Apply" [level=2] [ref=f15e265]
+      - region [ref=f15e268]:
+        - generic [ref=f15e269]:
+          - generic [ref=f15e270]:
+            - heading "Perks and benefits" [level=2] [ref=f15e271]
+            - paragraph [ref=f15e272]: Our focus with perks and benefits is to offer everything teammates need to do their best, healthiest work and keep developing their craft.
+          - list [ref=f15e273]:
+            - listitem [ref=f15e274]:
+              - generic [ref=f15e275]: 💰
+              - generic [ref=f15e277]:
+                - heading "Competitive salary" [level=3] [ref=f15e278]
+                - paragraph [ref=f15e279]:
+                  - text: Our
+                  - link "salary formula" [ref=f15e280] [cursor=pointer]:
+                    - /url: /salaries
+                  - text: adjusts to your cost of living and experience.
+            - listitem [ref=f15e281]:
+              - generic [ref=f15e282]: 🏝
+              - generic [ref=f15e284]:
+                - heading "Work remotely" [level=3] [ref=f15e285]
+                - paragraph [ref=f15e286]: Live and work wherever you are the happiest and most productive!
+            - listitem [ref=f15e287]:
+              - generic [ref=f15e288]: 🗓
+              - generic [ref=f15e290]:
+                - heading "4-Day workweeks" [level=3] [ref=f15e291]
+                - paragraph [ref=f15e292]: Our schedule is four workdays, with a flexible, meeting-free fifth day for overflow tasks or personal time as you see fit.
+            - listitem [ref=f15e293]:
+              - generic [ref=f15e294]: 💪
+              - generic [ref=f15e296]:
+                - heading "Health insurance" [level=3] [ref=f15e297]
+                - paragraph [ref=f15e298]: We offer health insurance for all of our team members, international or US.
+            - listitem [ref=f15e299]:
+              - generic [ref=f15e300]: 🏠
+              - generic [ref=f15e302]:
+                - heading "Home office setup" [level=3] [ref=f15e303]
+                - paragraph [ref=f15e304]: Get $1000 to set up your home office!
+            - listitem [ref=f15e305]:
+              - generic [ref=f15e306]: 👓
+              - generic [ref=f15e308]:
+                - heading "Growth mindset fund" [level=3] [ref=f15e309]
+                - paragraph [ref=f15e310]: Extra money each year for learning and development.
+            - listitem [ref=f15e311]:
+              - generic [ref=f15e312]: 💻
+              - generic [ref=f15e314]:
+                - heading "New laptop" [level=3] [ref=f15e315]
+                - paragraph [ref=f15e316]: Get a powerful new laptop or PC from your first day at Buffer and every 3 years after.
+            - listitem [ref=f15e317]:
+              - generic [ref=f15e318]: 📚
+              - generic [ref=f15e320]:
+                - heading "Unlimited free books" [level=3] [ref=f15e321]
+                - paragraph [ref=f15e322]: Get a free Kindle and all the digital or audio books you like, no questions asked.
+            - listitem [ref=f15e323]:
+              - generic [ref=f15e324]: ⚡
+              - generic [ref=f15e326]:
+                - heading "AI tools stipend" [level=3] [ref=f15e327]
+                - paragraph [ref=f15e328]: Level up your work with the latest AI tools.
+            - listitem [ref=f15e329]:
+              - generic [ref=f15e330]: ⛺️
+              - generic [ref=f15e332]:
+                - heading "Flexible time off" [level=3] [ref=f15e333]
+                - paragraph [ref=f15e334]: No set limits. Take the time you need to rest and recharge.
+            - listitem [ref=f15e335]:
+              - generic [ref=f15e336]: 💵
+              - generic [ref=f15e338]:
+                - heading "Savings plan" [level=3] [ref=f15e339]
+                - paragraph [ref=f15e340]: With 3% company match.
+            - listitem [ref=f15e341]:
+              - generic [ref=f15e342]: 📈
+              - generic [ref=f15e344]:
+                - heading "Profit sharing" [level=3] [ref=f15e345]
+                - paragraph [ref=f15e346]: When the company does well, all team members share the profits.
+            - listitem [ref=f15e347]:
+              - generic [ref=f15e348]: 🍼
+              - generic [ref=f15e350]:
+                - heading "Family leave" [level=3] [ref=f15e351]
+                - paragraph [ref=f15e352]: 16 weeks of family leave for all parents, fully paid.
+            - listitem [ref=f15e353]:
+              - generic [ref=f15e354]: 👨‍👩‍👧
+              - generic [ref=f15e356]:
+                - heading "Family support fund" [level=3] [ref=f15e357]
+                - paragraph [ref=f15e358]: A stipend for each kiddo.
+            - listitem [ref=f15e359]:
+              - generic [ref=f15e360]: ☕️
+              - generic [ref=f15e362]:
+                - heading "Working smarter stipend" [level=3] [ref=f15e363]
+                - paragraph [ref=f15e364]: Extra funds for a coworking space or some coffee shop treats.
+            - listitem [ref=f15e365]:
+              - generic [ref=f15e366]: ⛱
+              - generic [ref=f15e368]:
+                - heading "Sabbaticals" [level=3] [ref=f15e369]
+                - paragraph [ref=f15e370]: Take a 6-week break, fully paid, after every 5 years with Buffer.
+    - contentinfo [ref=f15e372]:
+      - heading "Buffer" [level=2] [ref=f15e373]
+      - generic [ref=f15e374]:
+        - generic [ref=f15e375]:
+          - generic [ref=f15e376]:
+            - generic [ref=f15e377]:
+              - heading "Features" [level=3] [ref=f15e378]
+              - list [ref=f15e379]:
+                - listitem [ref=f15e380]:
+                  - link "Create" [ref=f15e381] [cursor=pointer]:
+                    - /url: /create
+                - listitem [ref=f15e382]:
+                  - link "Publish" [ref=f15e383] [cursor=pointer]:
+                    - /url: /publish
+                - listitem [ref=f15e384]:
+                  - link "Community" [ref=f15e385] [cursor=pointer]:
+                    - /url: /community
+                - listitem [ref=f15e386]:
+                  - link "Insights New" [ref=f15e387] [cursor=pointer]:
+                    - /url: /insights
+                    - text: Insights
+                    - generic [ref=f15e388]: New
+                - listitem [ref=f15e389]:
+                  - link "Collaborate" [ref=f15e390] [cursor=pointer]:
+                    - /url: /collaborate
+            - generic [ref=f15e391]:
+              - heading "Tools" [level=3] [ref=f15e392]
+              - list [ref=f15e393]:
+                - listitem [ref=f15e394]:
+                  - link "AI Assistant" [ref=f15e395] [cursor=pointer]:
+                    - /url: /ai-assistant
+                - listitem [ref=f15e396]:
+                  - link "Start Page" [ref=f15e397] [cursor=pointer]:
+                    - /url: /start-page
+                - listitem [ref=f15e398]:
+                  - link "Integrations" [ref=f15e399] [cursor=pointer]:
+                    - /url: /integrations
+                - listitem [ref=f15e400]:
+                  - link "iOS App" [ref=f15e401] [cursor=pointer]:
+                    - /url: https://apps.apple.com/us/app/buffer-plan-schedule-posts/id490474324?pt=936146&ct=SiteFooter&mt=8
+                - listitem [ref=f15e402]:
+                  - link "Android App" [ref=f15e403] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=org.buffer.android&hl=en
+                - listitem [ref=f15e404]:
+                  - link "Browser Extension" [ref=f15e405] [cursor=pointer]:
+                    - /url: /extensions
+          - generic [ref=f15e406]:
+            - heading "Channels" [level=3] [ref=f15e407]
+            - list [ref=f15e408]:
+              - listitem [ref=f15e409]:
+                - link "Bluesky" [ref=f15e410] [cursor=pointer]:
+                  - /url: /bluesky
+              - listitem [ref=f15e411]:
+                - link "Facebook" [ref=f15e412] [cursor=pointer]:
+                  - /url: /facebook
+              - listitem [ref=f15e413]:
+                - link "Google Business Profile" [ref=f15e414] [cursor=pointer]:
+                  - /url: /google-business-profile
+              - listitem [ref=f15e415]:
+                - link "Instagram" [ref=f15e416] [cursor=pointer]:
+                  - /url: /instagram
+              - listitem [ref=f15e417]:
+                - link "LinkedIn" [ref=f15e418] [cursor=pointer]:
+                  - /url: /linkedin
+              - listitem [ref=f15e419]:
+                - link "Mastodon" [ref=f15e420] [cursor=pointer]:
+                  - /url: /mastodon
+              - listitem [ref=f15e421]:
+                - link "Pinterest" [ref=f15e422] [cursor=pointer]:
+                  - /url: /pinterest
+              - listitem [ref=f15e423]:
+                - link "Threads" [ref=f15e424] [cursor=pointer]:
+                  - /url: /threads
+              - listitem [ref=f15e425]:
+                - link "TikTok" [ref=f15e426] [cursor=pointer]:
+                  - /url: /tiktok
+              - listitem [ref=f15e427]:
+                - link "X" [ref=f15e428] [cursor=pointer]:
+                  - /url: /x
+              - listitem [ref=f15e429]:
+                - link "YouTube" [ref=f15e430] [cursor=pointer]:
+                  - /url: /youtube
+          - generic [ref=f15e431]:
+            - heading "Made for" [level=3] [ref=f15e432]
+            - list [ref=f15e433]:
+              - listitem [ref=f15e434]:
+                - link "Creators" [ref=f15e435] [cursor=pointer]:
+                  - /url: /made-for/creators
+              - listitem [ref=f15e436]:
+                - link "Small Business" [ref=f15e437] [cursor=pointer]:
+                  - /url: /made-for/small-business
+              - listitem [ref=f15e438]:
+                - link "Agencies" [ref=f15e439] [cursor=pointer]:
+                  - /url: /partners/agencies
+              - listitem [ref=f15e440]:
+                - link "Nonprofits" [ref=f15e441] [cursor=pointer]:
+                  - /url: /nonprofits
+              - listitem [ref=f15e442]:
+                - link "Higher Education" [ref=f15e443] [cursor=pointer]:
+                  - /url: /made-for/higher-education
+              - listitem [ref=f15e444]:
+                - link "Developers" [ref=f15e445] [cursor=pointer]:
+                  - /url: /made-for/developers
+              - listitem [ref=f15e446]:
+                - link "Startups" [ref=f15e447] [cursor=pointer]:
+                  - /url: /made-for/startups
+        - generic [ref=f15e448]:
+          - generic [ref=f15e449]:
+            - heading "Resources" [level=3] [ref=f15e450]
+            - list [ref=f15e451]:
+              - listitem [ref=f15e452]:
+                - link "Blog" [ref=f15e453] [cursor=pointer]:
+                  - /url: /resources/
+              - listitem [ref=f15e454]:
+                - link "Template Library" [ref=f15e455] [cursor=pointer]:
+                  - /url: /templates
+              - listitem [ref=f15e456]:
+                - link "Social Media Benchmarks" [ref=f15e457] [cursor=pointer]:
+                  - /url: /social-media-benchmarks
+              - listitem [ref=f15e458]:
+                - link "Resource Library" [ref=f15e459] [cursor=pointer]:
+                  - /url: /library
+              - listitem [ref=f15e460]:
+                - link "Social Media Terms Glossary" [ref=f15e461] [cursor=pointer]:
+                  - /url: /social-media-terms
+              - listitem [ref=f15e462]:
+                - link "Free Marketing Tools" [ref=f15e463] [cursor=pointer]:
+                  - /url: /free-tools
+              - listitem [ref=f15e464]:
+                - link "AI Social Media Post Generator" [ref=f15e465] [cursor=pointer]:
+                  - /url: /ai-assistant/social-media-post-creator
+              - listitem [ref=f15e466]:
+                - link "Compare Buffer" [ref=f15e467] [cursor=pointer]:
+                  - /url: /compare
+              - listitem [ref=f15e468]:
+                - link "Our Community" [ref=f15e469] [cursor=pointer]:
+                  - /url: /our-community
+              - listitem [ref=f15e470]:
+                - link "Buffer API" [ref=f15e471] [cursor=pointer]:
+                  - /url: /api
+              - listitem [ref=f15e472]:
+                - link "Developer Docs" [ref=f15e473] [cursor=pointer]:
+                  - /url: https://developers.buffer.com/
+          - generic [ref=f15e474]:
+            - generic [ref=f15e475]:
+              - heading "Support" [level=3] [ref=f15e476]
+              - list [ref=f15e477]:
+                - listitem [ref=f15e478]:
+                  - link "Help Center" [ref=f15e479] [cursor=pointer]:
+                    - /url: https://support.buffer.com/
+                - listitem [ref=f15e480]:
+                  - link "Status" [ref=f15e481] [cursor=pointer]:
+                    - /url: https://status.buffer.com/
+                - listitem [ref=f15e482]:
+                  - link "Changelog" [ref=f15e483] [cursor=pointer]:
+                    - /url: /changelog
+                - listitem [ref=f15e484]:
+                  - link "Request a Feature" [ref=f15e485] [cursor=pointer]:
+                    - /url: https://suggestions.buffer.com/
+            - generic [ref=f15e486]:
+              - heading "Transparency" [level=3] [ref=f15e487]
+              - list [ref=f15e488]:
+                - listitem [ref=f15e489]:
+                  - link "Open Hub" [ref=f15e490] [cursor=pointer]:
+                    - /url: /open
+                - listitem [ref=f15e491]:
+                  - link "Transparent Metrics" [ref=f15e492] [cursor=pointer]:
+                    - /url: /metrics
+                - listitem [ref=f15e493]:
+                  - link "Transparent Pricing" [ref=f15e494] [cursor=pointer]:
+                    - /url: /transparent-pricing
+                - listitem [ref=f15e495]:
+                  - link "Transparent Salaries" [ref=f15e496] [cursor=pointer]:
+                    - /url: /salaries
+                - listitem [ref=f15e497]:
+                  - link "Product Roadmap" [ref=f15e498] [cursor=pointer]:
+                    - /url: https://suggestions.buffer.com/roadmap
+          - generic [ref=f15e499]:
+            - heading "Company" [level=3] [ref=f15e500]
+            - list [ref=f15e501]:
+              - listitem [ref=f15e502]:
+                - link "About" [ref=f15e503] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f15e504]:
+                - link "Careers" [ref=f15e505] [cursor=pointer]:
+                  - /url: /journey
+              - listitem [ref=f15e506]:
+                - link "Press" [ref=f15e507] [cursor=pointer]:
+                  - /url: /press
+              - listitem [ref=f15e508]:
+                - link "Partner Program" [ref=f15e509] [cursor=pointer]:
+                  - /url: /partners
+              - listitem [ref=f15e510]:
+                - link "Legal" [ref=f15e511] [cursor=pointer]:
+                  - /url: /legal
+              - listitem [ref=f15e512]:
+                - link "Sitemap" [ref=f15e513] [cursor=pointer]:
+                  - /url: /sitemap
+      - generic [ref=f15e514]:
+        - link "Buffer" [ref=f15e515] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f15e524]:
+          - generic [ref=f15e525]:
+            - heading "Social media" [level=3] [ref=f15e526]
+            - list [ref=f15e527]:
+              - listitem [ref=f15e528]:
+                - link "Instagram" [ref=f15e529] [cursor=pointer]:
+                  - /url: https://www.instagram.com/buffer
+              - listitem [ref=f15e535]:
+                - link "Facebook" [ref=f15e536] [cursor=pointer]:
+                  - /url: https://www.facebook.com/bufferapp
+              - listitem [ref=f15e540]:
+                - link "Bluesky" [ref=f15e541] [cursor=pointer]:
+                  - /url: https://bsky.app/profile/buffer.com
+              - listitem [ref=f15e545]:
+                - link "X" [ref=f15e546] [cursor=pointer]:
+                  - /url: https://x.com/buffer
+              - listitem [ref=f15e550]:
+                - link "LinkedIn" [ref=f15e551] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/bufferapp
+              - listitem [ref=f15e555]:
+                - link "Threads" [ref=f15e556] [cursor=pointer]:
+                  - /url: https://www.threads.net/@buffer
+          - generic [ref=f15e560]:
+            - heading "Policies" [level=3] [ref=f15e561]
+            - generic [ref=f15e562]:
+              - paragraph [ref=f15e563]: Copyright ©2026 Buffer
+              - generic [ref=f15e564]: "|"
+              - paragraph [ref=f15e565]:
+                - link "Privacy" [ref=f15e566] [cursor=pointer]:
+                  - /url: /legal#privacy-policy
+              - generic [ref=f15e567]: "|"
+              - paragraph [ref=f15e568]:
+                - link "Terms" [ref=f15e569] [cursor=pointer]:
+                  - /url: /legal#terms
+              - generic [ref=f15e570]: "|"
+              - paragraph [ref=f15e571]:
+                - link "Security" [ref=f15e572] [cursor=pointer]:
+                  - /url: /legal#security
+  - alert [ref=f15e573]

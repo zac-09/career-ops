@@ -1,0 +1,1195 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - banner [ref=e3]:
+    - navigation "Main" [ref=e4]:
+      - link "Himalayas Himalayas logo" [ref=e6] [cursor=pointer]:
+        - /url: /jobs
+        - img "Himalayas" [ref=e7]
+        - generic [ref=e8]: Himalayas logo
+      - generic [ref=e9]:
+        - link "Sign up" [ref=e10] [cursor=pointer]:
+          - /url: /signup
+          - generic [ref=e11]: Sign up
+        - button "Menu" [ref=e12] [cursor=pointer]:
+          - img [ref=e13]
+  - main [ref=e15]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - img "G2i" [ref=e19]
+        - generic [ref=e20]: GI
+      - generic [ref=e21]:
+        - heading "Staff Engineer" [level=1] [ref=e22]
+        - button [ref=e24] [cursor=pointer]:
+          - img [ref=e25]
+      - paragraph [ref=e27]: G2i is a hiring platform for engineers by engineers focused on React & React Native.
+      - generic [ref=e28]:
+        - link "G2i" [ref=e29] [cursor=pointer]:
+          - /url: /companies/g2i
+        - paragraph [ref=e30]:
+          - img [ref=e31]
+          - generic [ref=e33]: "Employee count:"
+          - text: 11-50
+        - paragraph [ref=e34]:
+          - generic [ref=e35]: "Salary:"
+          - img [ref=e36]
+          - text: $250K – $416K per year
+    - generic [ref=e40]:
+      - generic [ref=e41]:
+        - generic [ref=e42]:
+          - generic [ref=e43]:
+            - insertion [ref=e45]
+            - generic [ref=e47]:
+              - img [ref=e48]
+              - generic [ref=e50]:
+                - paragraph [ref=e51]: Stay safe on Himalayas
+                - paragraph [ref=e52]: Never send money to companies. Jobs on Himalayas will never require payment from applicants.
+            - article [ref=e53]:
+              - heading "Loom Overview Watch this loom videofrom our CEO, Gabe Greenberg, for more details about the role!" [level=3] [ref=e54]:
+                - text: Loom Overview
+                - text: Watch this
+                - link "loom video" [ref=e55] [cursor=pointer]:
+                  - /url: http://loom.com/share/fe621cd1991e4c0fa21cac591caab141
+                  - strong [ref=e56]: loom video
+                - text: from our
+                - link "CEO, Gabe Greenberg," [ref=e57] [cursor=pointer]:
+                  - /url: https://x.com/gabe_g2i?lang=en
+                  - strong [ref=e58]: CEO, Gabe Greenberg,
+                - text: for more details about the role!
+              - heading "Role Overview" [level=3] [ref=e59]
+              - paragraph [ref=e60]:
+                - text: At
+                - link "G2i" [ref=e61] [cursor=pointer]:
+                  - /url: https://himalayas.app/companies/g2i
+                - text: ", we don’t just hire for AI — we build with it. We partner with leading AI labs and technical founders to create next-generation developer platforms, data tools, and operational dashboards that power the AI frontier."
+              - paragraph [ref=e62]:
+                - text: As a
+                - strong [ref=e63]: Staff Engineer
+                - text: ", you’ll set technical direction and raise the execution bar while building a high-performing team. You’ll guide architecture and delivery across modern full-stack systems (React 19 + Node.js), build durable engineering practices, and ensure we ship fast without sacrificing quality."
+              - heading "Key Responsibilities" [level=3] [ref=e64]
+              - list [ref=e65]:
+                - listitem [ref=e66]:
+                  - paragraph [ref=e67]: "Lead and grow an engineering team: hiring, coaching, performance management, career development."
+                - listitem [ref=e68]:
+                  - paragraph [ref=e69]:
+                    - text: Set and evolve technical strategy for
+                    - strong [ref=e70]: developer platforms, dashboards, and internal tooling
+                    - text: .
+                - listitem [ref=e71]:
+                  - paragraph [ref=e72]: Partner with Product/Design to deliver roadmap outcomes with high velocity and strong craftsmanship.
+                - listitem [ref=e73]:
+                  - paragraph [ref=e74]: "Establish engineering standards: code quality, testing, documentation, security, and operational excellence."
+                - listitem [ref=e75]:
+                  - paragraph [ref=e76]: "Own delivery health: sprint/iteration hygiene, predictable execution, and strong on-call/incident practices."
+                - listitem [ref=e77]:
+                  - paragraph [ref=e78]: Drive architecture decisions across front-end, back-end (tRPC encouraged), and deployment (Docker + CI/CD).
+                - listitem [ref=e79]:
+                  - paragraph [ref=e80]: Build a culture of ownership, feedback, and continuous improvement across teams.
+              - heading "Ideal Qualifications" [level=3] [ref=e81]
+              - list [ref=e82]:
+                - listitem [ref=e83]:
+                  - paragraph [ref=e84]: 7+ years building software, including 2–4+ years leading teams (EM/Tech Lead/Head of Eng).
+                - listitem [ref=e85]:
+                  - paragraph [ref=e86]: Strong full-stack understanding (React + Node.js), modern front-end patterns, SSR/performance, API design.
+                - listitem [ref=e87]:
+                  - paragraph [ref=e88]: Experience with shipping and operating production systems (cloud, CI/CD, observability, incident management).
+                - listitem [ref=e89]:
+                  - paragraph [ref=e90]: Proven ability to balance speed with quality in startup environments.
+                - listitem [ref=e91]:
+                  - paragraph [ref=e92]: Clear communicator with strong judgment and a track record of developing engineers.
+              - heading "Compensation & Terms" [level=3] [ref=e93]
+              - list [ref=e94]:
+                - listitem [ref=e95]:
+                  - paragraph [ref=e96]:
+                    - strong [ref=e97]: 120 – 200USD/Hr
+                    - text: ", based on experience and location"
+                - listitem [ref=e98]:
+                  - paragraph [ref=e99]: Contract leadership roles considered (up to 6 months)
+                - listitem [ref=e100]:
+                  - heading "Remote-first, global team" [level=3] [ref=e101]
+              - heading "Application Process" [level=3] [ref=e102]
+              - paragraph [ref=e103]: Resume submission → Leadership/technical screen → → Behavioral interview → Offer
+              - heading "About G2i" [level=3] [ref=e104]:
+                - text: About
+                - link "G2i" [ref=e105] [cursor=pointer]:
+                  - /url: https://himalayas.app/companies/g2i
+              - paragraph [ref=e106]:
+                - link "G2i" [ref=e107] [cursor=pointer]:
+                  - /url: https://himalayas.app/companies/g2i
+                - text: helps startups hire senior engineers faster and smarter through video-based technical evaluation. We’ve placed thousands of developers worldwide since 2016 and built a community rooted in
+                - strong [ref=e108]: Quality, Urgency, and Agility
+                - text: .
+            - generic [ref=e109]:
+              - heading "About the job" [level=2] [ref=e110]
+              - generic [ref=e111]:
+                - generic [ref=e112]:
+                  - heading "Apply before" [level=3] [ref=e113]
+                  - time [ref=e114]: Aug 03, 2026
+                - generic [ref=e115]:
+                  - heading "Posted on" [level=3] [ref=e116]
+                  - time [ref=e117]: Jun 04, 2026
+                - generic [ref=e118]:
+                  - heading "Job type" [level=3] [ref=e119]
+                  - link "Full Time" [ref=e120] [cursor=pointer]:
+                    - /url: /jobs/full-time
+                - generic [ref=e121]:
+                  - heading "Experience level" [level=3] [ref=e122]
+                  - link "Senior" [ref=e124] [cursor=pointer]:
+                    - /url: /jobs/senior
+                - generic [ref=e125]:
+                  - heading "Salary" [level=3] [ref=e126]
+                  - paragraph [ref=e127]:
+                    - generic [ref=e128]: "Salary:"
+                    - img [ref=e129]
+                    - text: $250K – $416K per year
+              - generic [ref=e132]:
+                - generic [ref=e133]:
+                  - generic [ref=e134]:
+                    - heading "Location requirements" [level=3] [ref=e135]
+                    - generic [ref=e136]:
+                      - button "Suggest an edit" [ref=e137] [cursor=pointer]
+                      - button [ref=e138] [cursor=pointer]:
+                        - img [ref=e139]
+                  - paragraph [ref=e142]: Open to candidates from all countries.
+                - generic [ref=e143]:
+                  - generic [ref=e144]:
+                    - heading "Hiring timezones" [level=3] [ref=e145]
+                    - generic [ref=e146]:
+                      - button "Show UTC offsets" [ref=e147] [cursor=pointer]
+                      - button [ref=e148] [cursor=pointer]:
+                        - img [ref=e149]
+                  - generic [ref=e153]:
+                    - img [ref=e154]
+                    - text: Worldwide
+              - generic [ref=e158]:
+                - generic [ref=e159]:
+                  - heading "Job categories" [level=3] [ref=e160]
+                  - generic [ref=e161]:
+                    - link "Staff Engineer" [ref=e162] [cursor=pointer]:
+                      - /url: /jobs/staff-engineer
+                      - generic [ref=e164]: Staff Engineer
+                    - link "Staff Engineering" [ref=e165] [cursor=pointer]:
+                      - /url: /jobs/staff-engineering
+                      - generic [ref=e167]: Staff Engineering
+                    - link "Senior Staff Engineer" [ref=e168] [cursor=pointer]:
+                      - /url: /jobs/senior-staff-engineer
+                      - generic [ref=e170]: Senior Staff Engineer
+                    - link "Staff Software Engineer" [ref=e171] [cursor=pointer]:
+                      - /url: /jobs/staff-software-engineer
+                      - generic [ref=e173]: Staff Software Engineer
+                    - link "Associate Staff Engineer" [ref=e174] [cursor=pointer]:
+                      - /url: /jobs/associate-staff-engineer
+                      - generic [ref=e176]: Associate Staff Engineer
+                - generic [ref=e177]:
+                  - heading "Skills" [level=3] [ref=e178]
+                  - generic [ref=e179]:
+                    - link "NodeJS" [ref=e180] [cursor=pointer]:
+                      - /url: /jobs/nodejs
+                      - generic [ref=e182]: NodeJS
+                    - link "React" [ref=e183] [cursor=pointer]:
+                      - /url: /jobs/react
+                      - generic [ref=e185]: React
+                    - link "Node" [ref=e186] [cursor=pointer]:
+                      - /url: /jobs/node
+                      - generic [ref=e188]: Node
+                    - link "API Design" [ref=e189] [cursor=pointer]:
+                      - /url: /jobs/api-design
+                      - generic [ref=e191]: API Design
+                    - link "Observability" [ref=e192] [cursor=pointer]:
+                      - /url: /jobs/observability
+                      - generic [ref=e194]: Observability
+                    - link "On Call" [ref=e195] [cursor=pointer]:
+                      - /url: /jobs/on-call
+                      - generic [ref=e197]: On Call
+                    - link "Incident Management" [ref=e198] [cursor=pointer]:
+                      - /url: /jobs/incident-management
+                      - generic [ref=e200]: Incident Management
+                    - link "tRPC" [ref=e201] [cursor=pointer]:
+                      - /url: /jobs/trpc
+                      - generic [ref=e203]: tRPC
+                    - link "Docker" [ref=e204] [cursor=pointer]:
+                      - /url: /jobs/docker
+                      - generic [ref=e206]: Docker
+                    - link "CI CD" [ref=e207] [cursor=pointer]:
+                      - /url: /jobs/ci-cd
+                      - generic [ref=e209]: CI CD
+                    - link "Testing" [ref=e210] [cursor=pointer]:
+                      - /url: /jobs/testing
+                      - generic [ref=e212]: Testing
+                    - link "Documentation" [ref=e213] [cursor=pointer]:
+                      - /url: /jobs/documentation
+                      - generic [ref=e215]: Documentation
+                    - link "Security" [ref=e216] [cursor=pointer]:
+                      - /url: /jobs/security
+                      - generic [ref=e218]: Security
+                    - link "Leadership" [ref=e219] [cursor=pointer]:
+                      - /url: /jobs/leadership
+                      - generic [ref=e221]: Leadership
+                    - link "Durable" [ref=e222] [cursor=pointer]:
+                      - /url: /jobs/durable
+                      - generic [ref=e224]: Durable
+                    - link "Cloud" [ref=e225] [cursor=pointer]:
+                      - /url: /jobs/cloud
+                      - generic [ref=e227]: Cloud
+                    - link "Performance" [ref=e228] [cursor=pointer]:
+                      - /url: /jobs/performance
+                      - generic [ref=e230]: Performance
+                    - link "Node.Js Development" [ref=e231] [cursor=pointer]:
+                      - /url: /jobs/node.js-development
+                      - generic [ref=e233]: Node.Js Development
+                    - link "Remote" [ref=e234] [cursor=pointer]:
+                      - /url: /jobs/-remote
+                      - generic [ref=e236]: Remote
+              - generic [ref=e237]:
+                - heading "Browse similar jobs" [level=3] [ref=e238]
+                - generic [ref=e239]:
+                  - link "Remote Senior Staff-Engineer Jobs" [ref=e240] [cursor=pointer]:
+                    - /url: /jobs/senior-staff-engineer
+                  - link "Remote Full Time Staff-Engineer Jobs" [ref=e241] [cursor=pointer]:
+                    - /url: /jobs/full-time-staff-engineer
+          - article [ref=e242]:
+            - generic [ref=e243]:
+              - generic [ref=e244]:
+                - generic [ref=e245]:
+                  - heading "About G2i" [level=2] [ref=e246]
+                  - paragraph [ref=e247]: Learn more about G2i and their company culture.
+                - link "View company profile" [ref=e248] [cursor=pointer]:
+                  - /url: /companies/g2i
+              - article [ref=e249]:
+                - paragraph [ref=e250]: G2i is a hiring platform for engineers by engineers focused on React & React Native. We provide engineers on contracts or direct hire to companies big and small (1 billion in valuation to 1 million).
+                - paragraph [ref=e251]: We are passionate about the React ecosystem and are involved in the community. Everyone on the team has programming experience of some sort and offer training for new team members whether it be on the sales side or hiring team.
+                - paragraph [ref=e252]: We technically vet every candidate that comes through our platform so companies don't have to waste their time with candidates that won't pass technical interviews.
+          - article [ref=e253]:
+            - generic [ref=e254]:
+              - generic [ref=e255]:
+                - generic [ref=e256]:
+                  - heading "Tech stack" [level=2] [ref=e257]
+                  - paragraph [ref=e258]: Learn about the tools and technologies that G2i uses to build, market, and sell its products.
+                - link "View tech stack" [ref=e259] [cursor=pointer]:
+                  - /url: /companies/g2i/tech-stack
+              - generic [ref=e260]:
+                - link "React Native logo React Native" [ref=e261] [cursor=pointer]:
+                  - /url: /companies/tech/react-native
+                  - img "React Native logo" [ref=e262]
+                  - paragraph [ref=e263]: React Native
+                - link "Node.js logo Node.js" [ref=e264] [cursor=pointer]:
+                  - /url: /companies/tech/node-js
+                  - img "Node.js logo" [ref=e265]
+                  - paragraph [ref=e266]: Node.js
+                - link "JavaScript logo JavaScript" [ref=e267] [cursor=pointer]:
+                  - /url: /companies/tech/javascript
+                  - img "JavaScript logo" [ref=e268]
+                  - paragraph [ref=e269]: JavaScript
+                - link "HTML5 logo HTML5" [ref=e270] [cursor=pointer]:
+                  - /url: /companies/tech/html5
+                  - img "HTML5 logo" [ref=e271]
+                  - paragraph [ref=e272]: HTML5
+                - link "CSS 3 logo CSS 3" [ref=e273] [cursor=pointer]:
+                  - /url: /companies/tech/css-3
+                  - img "CSS 3 logo" [ref=e274]
+                  - paragraph [ref=e275]: CSS 3
+                - link "GraphQL logo GraphQL" [ref=e276] [cursor=pointer]:
+                  - /url: /companies/tech/graphql
+                  - img "GraphQL logo" [ref=e277]
+                  - paragraph [ref=e278]: GraphQL
+                - link "Google Tag Manager logo Google Tag Manager" [ref=e279] [cursor=pointer]:
+                  - /url: /companies/tech/google-tag-manager
+                  - img "Google Tag Manager logo" [ref=e280]
+                  - paragraph [ref=e281]: Google Tag Manager
+                - link "Amazon EC2 logo Amazon EC2" [ref=e282] [cursor=pointer]:
+                  - /url: /companies/tech/amazon-ec2
+                  - img "Amazon EC2 logo" [ref=e283]
+                  - paragraph [ref=e284]: Amazon EC2
+                - link "Google Cloud Platform logo Google Cloud Platform" [ref=e285] [cursor=pointer]:
+                  - /url: /companies/tech/google-cloud-platform
+                  - img "Google Cloud Platform logo" [ref=e286]
+                  - paragraph [ref=e287]: Google Cloud Platform
+                - link "DigitalOcean logo DigitalOcean" [ref=e288] [cursor=pointer]:
+                  - /url: /companies/tech/digitalocean
+                  - img "DigitalOcean logo" [ref=e289]
+                  - paragraph [ref=e290]: DigitalOcean
+                - link "Amazon S3 logo Amazon S3" [ref=e291] [cursor=pointer]:
+                  - /url: /companies/tech/amazon-s3
+                  - img "Amazon S3 logo" [ref=e292]
+                  - paragraph [ref=e293]: Amazon S3
+                - link "30 more" [ref=e294] [cursor=pointer]:
+                  - /url: /companies/g2i/tech-stack
+                  - img [ref=e295]
+                  - text: 30 more
+              - paragraph [ref=e297]:
+                - text: G2i employees can
+                - link "create an account" [ref=e298] [cursor=pointer]:
+                  - /url: /signup/recruit
+                - text: to update this tech stack.
+          - article [ref=e299]:
+            - generic [ref=e300]:
+              - generic [ref=e301]:
+                - generic [ref=e302]:
+                  - heading "Employee benefits" [level=2] [ref=e303]
+                  - paragraph [ref=e304]: Learn about the employee benefits and perks provided at G2i.
+                - link "View benefits" [ref=e305] [cursor=pointer]:
+                  - /url: /companies/g2i/benefits
+              - generic [ref=e306]:
+                - generic [ref=e307]:
+                  - img [ref=e308]
+                  - generic [ref=e310]:
+                    - heading "Paid vacation" [level=3] [ref=e311]
+                    - paragraph [ref=e312]: 21 days of paid time off
+                - generic [ref=e313]:
+                  - img [ref=e314]
+                  - generic [ref=e316]:
+                    - heading "4-day workweeks" [level=3] [ref=e317]
+                    - paragraph [ref=e318]: We work 4 day / 32 hour work weeks
+                - generic [ref=e319]:
+                  - img [ref=e320]
+                  - generic [ref=e322]:
+                    - heading "Healthcare benefits" [level=3] [ref=e323]
+                    - paragraph [ref=e324]: 95% of base healthcare premium covered
+              - link "View G2i's employee benefits" [ref=e325] [cursor=pointer]:
+                - /url: /companies/g2i/benefits
+                - text: View G2i's employee benefits
+                - img [ref=e326]
+        - navigation "Breadcrumbs" [ref=e328]:
+          - list [ref=e329]:
+            - listitem [ref=e330]:
+              - link "Himalayas" [ref=e331] [cursor=pointer]:
+                - link "Himalayas" [ref=e332]:
+                  - /url: /
+              - img [ref=e334]
+            - listitem [ref=e336]:
+              - link "Remote companies" [ref=e337] [cursor=pointer]:
+                - link "Remote companies" [ref=e338]:
+                  - /url: /companies
+              - img [ref=e340]
+            - listitem [ref=e342]:
+              - link "G2i" [ref=e343] [cursor=pointer]:
+                - link "G2i" [ref=e344]:
+                  - /url: /companies/g2i
+              - img [ref=e346]
+            - listitem [ref=e348]:
+              - link "Staff Engineer" [disabled] [ref=e349]
+      - generic [ref=e351]:
+        - link "Claim this profile" [ref=e352] [cursor=pointer]:
+          - /url: /signup/recruit
+        - link "G2i logo GI G2i" [ref=e353] [cursor=pointer]:
+          - /url: /companies/g2i
+          - generic [ref=e354]:
+            - img "G2i logo" [ref=e355]
+            - generic [ref=e356]: GI
+          - heading "G2i" [level=2] [ref=e358]
+        - generic [ref=e359]:
+          - generic [ref=e360]:
+            - heading "Company size" [level=3] [ref=e361]
+            - paragraph [ref=e362]:
+              - img [ref=e363]
+              - text: 11-50 employees
+          - generic [ref=e365]:
+            - heading "Founded in" [level=3] [ref=e366]
+            - paragraph [ref=e367]: "2012"
+          - generic [ref=e368]:
+            - heading "Chief executive officer" [level=3] [ref=e369]
+            - paragraph [ref=e370]: Gabe Greenberg
+          - generic [ref=e371]:
+            - heading "Markets" [level=3] [ref=e372]
+            - generic [ref=e373]:
+              - link "Web Development" [ref=e374] [cursor=pointer]:
+                - /url: /companies/markets/web-development
+                - generic [ref=e376]: Web Development
+              - link "Technical Consulting" [ref=e377] [cursor=pointer]:
+                - /url: /companies/markets/technical-consulting
+                - generic [ref=e379]: Technical Consulting
+              - link "Mobile Development" [ref=e380] [cursor=pointer]:
+                - /url: /companies/markets/mobile-development
+                - generic [ref=e382]: Mobile Development
+              - link "Marketplace" [ref=e383] [cursor=pointer]:
+                - /url: /companies/markets/marketplace
+                - generic [ref=e385]: Marketplace
+              - link "Recruiting" [ref=e386] [cursor=pointer]:
+                - /url: /companies/markets/recruiting
+                - generic [ref=e388]: Recruiting
+          - generic [ref=e389]:
+            - heading "Employees live in" [level=3] [ref=e390]
+            - generic [ref=e391]:
+              - link "us United States" [ref=e392] [cursor=pointer]:
+                - /url: /companies/countries/united-states
+                - img "us" [ref=e393]
+                - text: United States
+              - link "ca Canada" [ref=e394] [cursor=pointer]:
+                - /url: /companies/countries/canada
+                - img "ca" [ref=e395]
+                - text: Canada
+              - link "ar Argentina" [ref=e396] [cursor=pointer]:
+                - /url: /companies/countries/argentina
+                - img "ar" [ref=e397]
+                - text: Argentina
+              - link "br Brazil" [ref=e398] [cursor=pointer]:
+                - /url: /companies/countries/brazil
+                - img "br" [ref=e399]
+                - text: Brazil
+              - link "es Spain" [ref=e400] [cursor=pointer]:
+                - /url: /companies/countries/spain
+                - img "es" [ref=e401]
+                - text: Spain
+              - link "be Belgium" [ref=e402] [cursor=pointer]:
+                - /url: /companies/countries/belgium
+                - img "be" [ref=e403]
+                - text: Belgium
+        - link "View company profile" [ref=e404] [cursor=pointer]:
+          - /url: /companies/g2i
+    - generic [ref=e406]:
+      - generic [ref=e407]:
+        - generic [ref=e408]:
+          - heading "Similar remote jobs" [level=2] [ref=e409]
+          - paragraph [ref=e410]: Here are other jobs you might want to apply for.
+        - link "View all remote jobs" [ref=e411] [cursor=pointer]:
+          - /url: /jobs
+      - generic [ref=e412]:
+        - generic [ref=e413] [cursor=pointer]:
+          - link "View job" [ref=e414]:
+            - /url: /companies/cocoon/jobs/software-engineer
+            - generic [ref=e415]: View job
+          - generic [ref=e416]:
+            - generic [ref=e417]:
+              - generic [ref=e419]:
+                - img "Cocoon logo" [ref=e420]
+                - generic [ref=e421]: CO
+              - link "Software Engineer" [ref=e422]:
+                - /url: /companies/cocoon/jobs/software-engineer
+                - heading "Software Engineer" [level=3] [ref=e423]
+              - link "Cocoon" [ref=e424]:
+                - /url: /companies/cocoon
+              - generic [ref=e425]:
+                - paragraph [ref=e426]:
+                  - img [ref=e427]
+                  - generic [ref=e429]: "Employee count:"
+                  - text: 51-200
+                - paragraph [ref=e430]:
+                  - generic [ref=e431]: "Salary:"
+                  - img [ref=e432]
+                  - text: $170K – $170K per year
+            - generic [ref=e437]:
+              - generic [ref=e438]: Full Time
+              - link "Engineering" [ref=e439]:
+                - /url: /jobs/engineering
+                - generic [ref=e441]: Engineering
+        - generic [ref=e442] [cursor=pointer]:
+          - link "View job" [ref=e443]:
+            - /url: /companies/speechify/jobs/software-engineer-platform-9849024961
+            - generic [ref=e444]: View job
+          - generic [ref=e445]:
+            - generic [ref=e446]:
+              - generic [ref=e448]:
+                - img "Speechify logo" [ref=e449]
+                - generic [ref=e450]: SP
+              - link "Software Engineer, Platform" [ref=e451]:
+                - /url: /companies/speechify/jobs/software-engineer-platform-9849024961
+                - heading "Software Engineer, Platform" [level=3] [ref=e452]
+              - link "Speechify" [ref=e453]:
+                - /url: /companies/speechify
+              - paragraph [ref=e455]:
+                - img [ref=e456]
+                - generic [ref=e458]: "Employee count:"
+                - text: 51-200
+            - generic [ref=e461]:
+              - generic [ref=e462]: Full Time
+              - link "Software Engineer" [ref=e463]:
+                - /url: /jobs/software-engineer
+                - generic [ref=e465]: Software Engineer
+        - generic [ref=e466] [cursor=pointer]:
+          - link "View job" [ref=e467]:
+            - /url: /companies/distantjob/jobs/full-stack-engineer-210846230
+            - generic [ref=e468]: View job
+          - generic [ref=e469]:
+            - generic [ref=e470]:
+              - generic [ref=e472]:
+                - img "DistantJob logo" [ref=e473]
+                - generic [ref=e474]: DI
+              - link "Full Stack Engineer" [ref=e475]:
+                - /url: /companies/distantjob/jobs/full-stack-engineer-210846230
+                - heading "Full Stack Engineer" [level=3] [ref=e476]
+              - link "DistantJob" [ref=e477]:
+                - /url: /companies/distantjob
+              - paragraph [ref=e479]:
+                - img [ref=e480]
+                - generic [ref=e482]: "Employee count:"
+                - text: 51-200
+            - generic [ref=e485]:
+              - generic [ref=e486]: Full Time
+              - link "Backend Development" [ref=e487]:
+                - /url: /jobs/backend-development
+                - generic [ref=e489]: Backend Development
+        - generic [ref=e490] [cursor=pointer]:
+          - link "View job" [ref=e491]:
+            - /url: /companies/dwelly/jobs/staff-software-engineer
+            - generic [ref=e492]: View job
+          - generic [ref=e493]:
+            - generic [ref=e494]:
+              - generic [ref=e497]: DW
+              - link "Staff Software Engineer" [ref=e498]:
+                - /url: /companies/dwelly/jobs/staff-software-engineer
+                - heading "Staff Software Engineer" [level=3] [ref=e499]
+              - link "Dwelly" [ref=e500]:
+                - /url: /companies/dwelly
+            - generic [ref=e504]:
+              - generic [ref=e505]: Full Time
+              - link "Fullstack Development" [ref=e506]:
+                - /url: /jobs/fullstack-development
+                - generic [ref=e508]: Fullstack Development
+        - generic [ref=e509] [cursor=pointer]:
+          - link "View job" [ref=e510]:
+            - /url: /companies/oec/jobs/senior-software-engineer-platform-full-stack
+            - generic [ref=e511]: View job
+          - generic [ref=e512]:
+            - generic [ref=e513]:
+              - generic [ref=e516]: OE
+              - link "Senior Software Engineer, Platform (Full Stack)" [ref=e517]:
+                - /url: /companies/oec/jobs/senior-software-engineer-platform-full-stack
+                - heading "Senior Software Engineer, Platform (Full Stack)" [level=3] [ref=e518]
+              - link "OEC" [ref=e519]:
+                - /url: /companies/oec
+            - generic [ref=e523]:
+              - generic [ref=e524]: Full Time
+              - link "Software Engineering" [ref=e525]:
+                - /url: /jobs/software-engineering
+                - generic [ref=e527]: Software Engineering
+        - generic [ref=e528] [cursor=pointer]:
+          - link "View job" [ref=e529]:
+            - /url: /companies/trafilea-com/jobs/tech-lead-checkouts
+            - generic [ref=e530]: View job
+          - generic [ref=e531]:
+            - generic [ref=e532]:
+              - generic [ref=e534]:
+                - img "Trafilea logo" [ref=e535]
+                - generic [ref=e536]: TR
+              - link "Tech Lead - Checkouts" [ref=e537]:
+                - /url: /companies/trafilea-com/jobs/tech-lead-checkouts
+                - heading "Tech Lead - Checkouts" [level=3] [ref=e538]
+              - link "Trafilea" [ref=e539]:
+                - /url: /companies/trafilea-com
+              - paragraph [ref=e541]:
+                - img [ref=e542]
+                - generic [ref=e544]: "Employee count:"
+                - text: 201-500
+            - generic [ref=e547]:
+              - generic [ref=e548]: Full Time
+              - link "Software Engineering" [ref=e549]:
+                - /url: /jobs/software-engineering
+                - generic [ref=e551]: Software Engineering
+    - generic [ref=e553]:
+      - generic [ref=e554]:
+        - generic [ref=e555]:
+          - heading "41 remote jobs at G2i" [level=2] [ref=e556]
+          - paragraph [ref=e557]: Explore the variety of open remote roles at G2i, offering flexible work options across multiple disciplines and skill levels.
+        - link "View all jobs at G2i" [ref=e558] [cursor=pointer]:
+          - /url: /companies/g2i/jobs
+      - generic [ref=e559]:
+        - generic [ref=e560] [cursor=pointer]:
+          - link "View job" [ref=e561]:
+            - /url: /companies/g2i/jobs/fullstack-engineer-python-react-following-european-time-zone-3182369915
+            - generic [ref=e562]: View job
+          - generic [ref=e563]:
+            - generic [ref=e564]:
+              - generic [ref=e565]:
+                - generic [ref=e566]:
+                  - img "G2i logo" [ref=e567]
+                  - generic [ref=e568]: GI
+                - generic [ref=e569]:
+                  - img "am" [ref=e570]
+                  - text: AM, AT + 36 more
+              - link "FullStack Engineer (Python + React) - Following European time zone!" [ref=e571]:
+                - /url: /companies/g2i/jobs/fullstack-engineer-python-react-following-european-time-zone-3182369915
+                - heading "FullStack Engineer (Python + React) - Following European time zone!" [level=3] [ref=e572]
+              - link "G2i" [ref=e573]:
+                - /url: /companies/g2i
+              - generic [ref=e574]:
+                - paragraph [ref=e575]:
+                  - img [ref=e576]
+                  - generic [ref=e578]: "Employee count:"
+                  - text: 11-50
+                - paragraph [ref=e579]:
+                  - generic [ref=e580]: "Salary:"
+                  - img [ref=e581]
+                  - text: $72K – $72K per year
+            - generic [ref=e586]:
+              - generic [ref=e587]: Full Time
+              - link "Remote Full Stack Developer (JavaScript Python)" [ref=e588]:
+                - /url: /jobs/remote-full-stack-developer-(javascript-python)
+                - generic [ref=e590]: Remote Full Stack Developer (JavaScript Python)
+        - generic [ref=e591] [cursor=pointer]:
+          - link "View job" [ref=e592]:
+            - /url: /companies/g2i/jobs/senior-engineer-1502851701
+            - generic [ref=e593]: View job
+          - generic [ref=e594]:
+            - generic [ref=e595]:
+              - generic [ref=e597]:
+                - img "G2i logo" [ref=e598]
+                - generic [ref=e599]: GI
+              - link "Senior Engineer" [ref=e600]:
+                - /url: /companies/g2i/jobs/senior-engineer-1502851701
+                - heading "Senior Engineer" [level=3] [ref=e601]
+              - link "G2i" [ref=e602]:
+                - /url: /companies/g2i
+              - generic [ref=e603]:
+                - paragraph [ref=e604]:
+                  - img [ref=e605]
+                  - generic [ref=e607]: "Employee count:"
+                  - text: 11-50
+                - paragraph [ref=e608]:
+                  - generic [ref=e609]: "Salary:"
+                  - img [ref=e610]
+                  - text: $104K – $312K per year
+            - generic [ref=e615]:
+              - generic [ref=e616]: Full Time
+              - link "Senior Engineer" [ref=e617]:
+                - /url: /jobs/senior-engineer
+                - generic [ref=e619]: Senior Engineer
+        - generic [ref=e620] [cursor=pointer]:
+          - link "View job" [ref=e621]:
+            - /url: /companies/g2i/jobs/technical-program-manager-tpm-4807256963
+            - generic [ref=e622]: View job
+          - generic [ref=e623]:
+            - generic [ref=e624]:
+              - generic [ref=e625]:
+                - generic [ref=e626]:
+                  - img "G2i logo" [ref=e627]
+                  - generic [ref=e628]: GI
+                - generic [ref=e629]:
+                  - img "us" [ref=e630]
+                  - text: United States only
+              - link "Technical Program Manager (TPM)" [ref=e631]:
+                - /url: /companies/g2i/jobs/technical-program-manager-tpm-4807256963
+                - heading "Technical Program Manager (TPM)" [level=3] [ref=e632]
+              - link "G2i" [ref=e633]:
+                - /url: /companies/g2i
+              - generic [ref=e634]:
+                - paragraph [ref=e635]:
+                  - img [ref=e636]
+                  - generic [ref=e638]: "Employee count:"
+                  - text: 11-50
+                - paragraph [ref=e639]:
+                  - generic [ref=e640]: "Salary:"
+                  - img [ref=e641]
+                  - text: $104K – $312K per year
+            - generic [ref=e646]:
+              - generic [ref=e647]: Full Time
+              - link "Technical Program Manager" [ref=e648]:
+                - /url: /jobs/technical-program-manager
+                - generic [ref=e650]: Technical Program Manager
+        - generic [ref=e651] [cursor=pointer]:
+          - link "View job" [ref=e652]:
+            - /url: /companies/g2i/jobs/devops-engineer
+            - generic [ref=e653]: View job
+          - generic [ref=e654]:
+            - generic [ref=e655]:
+              - generic [ref=e656]:
+                - generic [ref=e657]:
+                  - img "G2i logo" [ref=e658]
+                  - generic [ref=e659]: GI
+                - generic [ref=e660]:
+                  - img "us" [ref=e661]
+                  - text: United States only
+              - link "DevOps Engineer" [ref=e662]:
+                - /url: /companies/g2i/jobs/devops-engineer
+                - heading "DevOps Engineer" [level=3] [ref=e663]
+              - link "G2i" [ref=e664]:
+                - /url: /companies/g2i
+              - paragraph [ref=e666]:
+                - img [ref=e667]
+                - generic [ref=e669]: "Employee count:"
+                - text: 11-50
+            - generic [ref=e672]:
+              - generic [ref=e673]: Full Time
+              - link "DevOps Engineer" [ref=e674]:
+                - /url: /jobs/devops-engineer
+                - generic [ref=e676]: DevOps Engineer
+        - generic [ref=e677] [cursor=pointer]:
+          - link "View job" [ref=e678]:
+            - /url: /companies/g2i/jobs/senior-staff-ai-engineer-agentic-development-next-js-node-js
+            - generic [ref=e679]: View job
+          - generic [ref=e680]:
+            - generic [ref=e681]:
+              - generic [ref=e682]:
+                - generic [ref=e683]:
+                  - img "G2i logo" [ref=e684]
+                  - generic [ref=e685]: GI
+                - generic [ref=e686]:
+                  - img "ca" [ref=e687]
+                  - text: CA and US only
+              - link "Senior/Staff AI Engineer — Agentic Development (Next.js/Node.js)" [ref=e688]:
+                - /url: /companies/g2i/jobs/senior-staff-ai-engineer-agentic-development-next-js-node-js
+                - heading "Senior/Staff AI Engineer — Agentic Development (Next.js/Node.js)" [level=3] [ref=e689]
+              - link "G2i" [ref=e690]:
+                - /url: /companies/g2i
+              - paragraph [ref=e692]:
+                - img [ref=e693]
+                - generic [ref=e695]: "Employee count:"
+                - text: 11-50
+            - generic [ref=e698]:
+              - generic [ref=e699]: Contractor
+              - link "Senior Agentic AI Engineer" [ref=e700]:
+                - /url: /jobs/senior-agentic-ai-engineer
+                - generic [ref=e702]: Senior Agentic AI Engineer
+        - generic [ref=e703] [cursor=pointer]:
+          - link "View job" [ref=e704]:
+            - /url: /companies/g2i/jobs/java-software-engineer-ai-8867028442
+            - generic [ref=e705]: View job
+          - generic [ref=e706]:
+            - generic [ref=e707]:
+              - generic [ref=e708]:
+                - generic [ref=e709]:
+                  - img "G2i logo" [ref=e710]
+                  - generic [ref=e711]: GI
+                - generic [ref=e712]:
+                  - img "au" [ref=e713]
+                  - text: Australia only
+              - link "Java - Software Engineer, AI" [ref=e714]:
+                - /url: /companies/g2i/jobs/java-software-engineer-ai-8867028442
+                - heading "Java - Software Engineer, AI" [level=3] [ref=e715]
+              - link "G2i" [ref=e716]:
+                - /url: /companies/g2i
+              - generic [ref=e717]:
+                - paragraph [ref=e718]:
+                  - img [ref=e719]
+                  - generic [ref=e721]: "Employee count:"
+                  - text: 11-50
+                - paragraph [ref=e722]:
+                  - generic [ref=e723]: "Salary:"
+                  - img [ref=e724]
+                  - text: $62K – $146K per year
+            - generic [ref=e729]:
+              - generic [ref=e730]: Contractor
+              - link "Java Software Engineer" [ref=e731]:
+                - /url: /jobs/java-software-engineer
+                - generic [ref=e733]: Java Software Engineer
+    - generic [ref=e735]:
+      - generic [ref=e736]:
+        - generic [ref=e737]:
+          - generic [ref=e738]:
+            - img "GitStart logo" [ref=e739]
+            - generic [ref=e740]: GI
+          - generic [ref=e741]:
+            - img "D2iQ logo" [ref=e742]
+            - generic [ref=e743]: DI
+          - generic [ref=e744]:
+            - img "Pixel2HTML logo" [ref=e745]
+            - generic [ref=e746]: PI
+        - link "Top remote companies" [ref=e747] [cursor=pointer]:
+          - /url: /companies
+          - text: Top remote companies
+          - img [ref=e748]
+      - generic [ref=e750]:
+        - generic [ref=e751]:
+          - heading "Remote companies like G2i" [level=2] [ref=e752]
+          - paragraph [ref=e753]: Find your next opportunity by exploring profiles of companies that are similar to G2i. Compare culture, benefits, and job openings on Himalayas.
+        - link "View all companies" [ref=e754] [cursor=pointer]:
+          - /url: /companies
+      - generic [ref=e755]:
+        - generic [ref=e756] [cursor=pointer]:
+          - link "View company" [ref=e757]:
+            - /url: /companies/gitstart
+            - generic [ref=e758]: View company
+          - generic [ref=e759]:
+            - generic [ref=e760]:
+              - generic [ref=e761]:
+                - img "GitStart logo" [ref=e762]
+                - generic [ref=e763]: GI
+              - heading "GitStart" [level=3] [ref=e764]:
+                - link "GitStart" [ref=e765]:
+                  - /url: /companies/gitstart
+              - generic [ref=e766]:
+                - link "GitStart's Benefits" [ref=e767]:
+                  - /url: /companies/gitstart/benefits
+                  - img [ref=e768]
+                  - generic [ref=e770]: GitStart's
+                  - text: Benefits
+                - link "GitStart's Tech stack" [ref=e771]:
+                  - /url: /companies/gitstart/tech-stack
+                  - img [ref=e772]
+                  - generic [ref=e774]: GitStart's
+                  - text: Tech stack
+            - paragraph [ref=e775]: GitStart is akin to a Mechanical Turk for small coding tasks.
+            - generic [ref=e776]:
+              - link "Outsourcing" [ref=e777]:
+                - /url: /companies/markets/outsourcing
+                - generic [ref=e779]: Outsourcing
+              - link "Developer Tools" [ref=e780]:
+                - /url: /companies/markets/developer-tools
+                - generic [ref=e782]: Developer Tools
+        - generic [ref=e783] [cursor=pointer]:
+          - link "View company" [ref=e784]:
+            - /url: /companies/d2iq
+            - generic [ref=e785]: View company
+          - generic [ref=e786]:
+            - generic [ref=e787]:
+              - generic [ref=e788]:
+                - img "D2iQ logo" [ref=e789]
+                - generic [ref=e790]: DI
+              - heading "D2iQ" [level=3] [ref=e791]:
+                - link "D2iQ" [ref=e792]:
+                  - /url: /companies/d2iq
+              - generic [ref=e793]:
+                - link "D2iQ's Benefits" [ref=e794]:
+                  - /url: /companies/d2iq/benefits
+                  - img [ref=e795]
+                  - generic [ref=e797]: D2iQ's
+                  - text: Benefits
+                - link "D2iQ's Tech stack" [ref=e798]:
+                  - /url: /companies/d2iq/tech-stack
+                  - img [ref=e799]
+                  - generic [ref=e801]: D2iQ's
+                  - text: Tech stack
+            - paragraph [ref=e802]: D2iQ - Your Partner in the Cloud Native Journey On your journey to the cloud, you need to make numerous choices—from the technologies, you select, to the frameworks you decide on, to the management tools you’ll use.
+            - generic [ref=e803]:
+              - link "Cloud Computing" [ref=e804]:
+                - /url: /companies/markets/cloud-computing
+                - generic [ref=e806]: Cloud Computing
+              - link "Containerization" [ref=e807]:
+                - /url: /companies/markets/containerization
+                - generic [ref=e809]: Containerization
+        - generic [ref=e810] [cursor=pointer]:
+          - link "View company" [ref=e811]:
+            - /url: /companies/pixel2html
+            - generic [ref=e812]: View company
+          - generic [ref=e813]:
+            - generic [ref=e814]:
+              - generic [ref=e815]:
+                - img "Pixel2HTML logo" [ref=e816]
+                - generic [ref=e817]: PI
+              - heading "Pixel2HTML Verified tooltip" [level=3] [ref=e818]:
+                - link "Pixel2HTML" [ref=e819]:
+                  - /url: /companies/pixel2html
+                - button "Verified tooltip" [ref=e820]:
+                  - img [ref=e821]
+              - link "Pixel2HTML's Tech stack" [ref=e825]:
+                - /url: /companies/pixel2html/tech-stack
+                - img [ref=e826]
+                - generic [ref=e828]: Pixel2HTML's
+                - text: Tech stack
+            - paragraph [ref=e829]: We can help you bring your design to life with the best HTML/CSS/JS code.
+            - generic [ref=e830]:
+              - link "Web Development" [ref=e831]:
+                - /url: /companies/markets/web-development
+                - generic [ref=e833]: Web Development
+              - link "App Development" [ref=e834]:
+                - /url: /companies/markets/app-development
+                - generic [ref=e836]: App Development
+        - generic [ref=e837] [cursor=pointer]:
+          - link "View company" [ref=e838]:
+            - /url: /companies/gohiring
+            - generic [ref=e839]: View company
+          - generic [ref=e840]:
+            - generic [ref=e841]:
+              - generic [ref=e842]:
+                - img "GoHiring logo" [ref=e843]
+                - generic [ref=e844]: GO
+              - heading "GoHiring" [level=3] [ref=e845]:
+                - link "GoHiring" [ref=e846]:
+                  - /url: /companies/gohiring
+              - generic [ref=e847]:
+                - link "GoHiring's Benefits" [ref=e848]:
+                  - /url: /companies/gohiring/benefits
+                  - img [ref=e849]
+                  - generic [ref=e851]: GoHiring's
+                  - text: Benefits
+                - link "GoHiring's Tech stack" [ref=e852]:
+                  - /url: /companies/gohiring/tech-stack
+                  - img [ref=e853]
+                  - generic [ref=e855]: GoHiring's
+                  - text: Tech stack
+            - paragraph [ref=e856]: GOhiring provides a digital infrastructure for companies, HR IT-systems, job portals and agencies to enable a more direct and productive cooperation.
+            - generic [ref=e857]:
+              - link "Job Board" [ref=e858]:
+                - /url: /companies/markets/job-board
+                - generic [ref=e860]: Job Board
+              - link "Human Resources" [ref=e861]:
+                - /url: /companies/markets/human-resources
+                - generic [ref=e863]: Human Resources
+        - generic [ref=e864] [cursor=pointer]:
+          - link "View company" [ref=e865]:
+            - /url: /companies/golinks
+            - generic [ref=e866]: View company
+          - generic [ref=e867]:
+            - generic [ref=e868]:
+              - generic [ref=e869]:
+                - img "GoLinks logo" [ref=e870]
+                - generic [ref=e871]: GO
+              - heading "GoLinks" [level=3] [ref=e872]:
+                - link "GoLinks" [ref=e873]:
+                  - /url: /companies/golinks
+              - generic [ref=e874]:
+                - link "GoLinks's Benefits" [ref=e875]:
+                  - /url: /companies/golinks/benefits
+                  - img [ref=e876]
+                  - generic [ref=e878]: GoLinks's
+                  - text: Benefits
+                - link "GoLinks's Tech stack" [ref=e879]:
+                  - /url: /companies/golinks/tech-stack
+                  - img [ref=e880]
+                  - generic [ref=e882]: GoLinks's
+                  - text: Tech stack
+            - paragraph [ref=e883]: We build software that provides the most intuitive way to access and share information — driving productivity for individuals, teams, and large companies.
+            - generic [ref=e884]:
+              - link "SaaS" [ref=e885]:
+                - /url: /companies/markets/saas
+                - generic [ref=e887]: SaaS
+              - link "Enterprise Software" [ref=e888]:
+                - /url: /companies/markets/enterprise-software
+                - generic [ref=e890]: Enterprise Software
+        - generic [ref=e891] [cursor=pointer]:
+          - link "View company" [ref=e892]:
+            - /url: /companies/cloudhire
+            - generic [ref=e893]: View company
+          - generic [ref=e894]:
+            - generic [ref=e895]:
+              - generic [ref=e896]:
+                - img "CloudHire logo" [ref=e897]
+                - generic [ref=e898]: CL
+              - heading "CloudHire" [level=3] [ref=e899]:
+                - link "CloudHire" [ref=e900]:
+                  - /url: /companies/cloudhire
+              - generic [ref=e901]:
+                - link "CloudHire's Benefits" [ref=e902]:
+                  - /url: /companies/cloudhire/benefits
+                  - img [ref=e903]
+                  - generic [ref=e905]: CloudHire's
+                  - text: Benefits
+                - link "CloudHire's Tech stack" [ref=e906]:
+                  - /url: /companies/cloudhire/tech-stack
+                  - img [ref=e907]
+                  - generic [ref=e909]: CloudHire's
+                  - text: Tech stack
+            - paragraph [ref=e910]: Our mission is to help clients create a significant and unique increase in their value by building an organization that attracts, develops, and retains outstanding people.
+            - generic [ref=e911]:
+              - link "Staffing" [ref=e912]:
+                - /url: /companies/markets/staffing
+                - generic [ref=e914]: Staffing
+              - link "Offshoring" [ref=e915]:
+                - /url: /companies/markets/offshoring
+                - generic [ref=e917]: Offshoring
+    - generic [ref=e919]:
+      - generic [ref=e920]:
+        - generic [ref=e921]:
+          - heading "Find your dream job" [level=2] [ref=e922]
+          - paragraph [ref=e923]: Sign up now and join over 250,000+ remote workers who receive personalized job alerts, curated job matches, and more for free!
+        - generic [ref=e924]:
+          - button "Sign up with Google" [ref=e925] [cursor=pointer]:
+            - img [ref=e926]
+            - text: Sign up with Google
+          - link "Sign up" [ref=e932] [cursor=pointer]:
+            - /url: /signup/talent
+      - img "Himalayas profile for an example user named Frankie Sullivan" [ref=e934]
+    - generic [ref=e936]:
+      - link "Save" [ref=e937] [cursor=pointer]:
+        - /url: /signup/talent?action=save-job:g2i:staff-engineer-8113676183
+      - link "Apply now" [ref=e938] [cursor=pointer]:
+        - /url: /signup/talent?redirect=%2Fcompanies%2Fg2i%2Fjobs%2Fstaff-engineer-8113676183%3FshowModal%3Dtrue
+  - contentinfo [ref=e939]:
+    - generic [ref=e941]:
+      - generic [ref=e942]:
+        - img [ref=e943]
+        - paragraph [ref=e947]:
+          - text: We contribute 1% of every payment to remove CO₂
+          - generic [ref=e948]: from the atmosphere
+          - text: with
+          - link "Stripe Climate" [ref=e949] [cursor=pointer]:
+            - /url: https://climate.stripe.com/cywqrI
+          - text: .
+      - link "Our pledge" [ref=e950] [cursor=pointer]:
+        - /url: https://climate.stripe.com/cywqrI
+    - generic [ref=e952]:
+      - link "Himalayas Himalayas logo" [ref=e953] [cursor=pointer]:
+        - /url: /jobs
+        - img "Himalayas" [ref=e954]
+        - generic [ref=e955]: Himalayas logo
+      - link "hi@himalayas.app" [ref=e956] [cursor=pointer]:
+        - /url: mailto:hi@himalayas.app
+      - generic [ref=e957]:
+        - generic [ref=e958]:
+          - link "Facebook" [ref=e959] [cursor=pointer]:
+            - /url: https://www.facebook.com/himalayasapp
+            - img [ref=e960]
+            - generic [ref=e962]: Facebook
+          - link "LinkedIn" [ref=e963] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/himalayasapp
+            - img [ref=e964]
+            - generic [ref=e966]: LinkedIn
+        - generic [ref=e967]:
+          - link "Download on the App Store" [ref=e968] [cursor=pointer]:
+            - /url: https://apps.apple.com/us/app/himalayas-8aa0ce/id6746706574?itscg=30200&itsct=apps_box_badge&mttnsubad=6746706574
+            - img "Download on the App Store" [ref=e969]
+          - link "Get it on Google Play" [ref=e970] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=app.himalayas.twa&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
+            - img "Get it on Google Play" [ref=e971]
+      - generic [ref=e972]:
+        - generic [ref=e973]:
+          - paragraph [ref=e974]: Himalayas
+          - link "About us" [ref=e975] [cursor=pointer]:
+            - /url: /companies/himalayas
+          - link "Himalayas Plus" [ref=e976] [cursor=pointer]:
+            - /url: /plus
+          - link "Community" [ref=e977] [cursor=pointer]:
+            - /url: /community
+          - link "Docs" [ref=e978] [cursor=pointer]:
+            - /url: /docs
+          - link "Tech stack" [ref=e979] [cursor=pointer]:
+            - /url: /companies/himalayas/tech-stack
+          - link "Employee benefits" [ref=e980] [cursor=pointer]:
+            - /url: /companies/himalayas/benefits
+          - link "Terms and conditions" [ref=e981] [cursor=pointer]:
+            - /url: /terms
+          - link "Privacy policy" [ref=e982] [cursor=pointer]:
+            - /url: /privacy
+          - link "Contact us" [ref=e983] [cursor=pointer]:
+            - /url: mailto:hi@himalayas.app
+        - generic [ref=e984]:
+          - paragraph [ref=e985]: For job seekers
+          - link "Create your profile" [ref=e986] [cursor=pointer]:
+            - /url: /signup/talent
+          - link "Browse remote jobs" [ref=e987] [cursor=pointer]:
+            - /url: /jobs
+          - link "Discover remote companies" [ref=e988] [cursor=pointer]:
+            - /url: /companies
+          - link "Job description keyword finder" [ref=e989] [cursor=pointer]:
+            - /url: /job-description-keyword-finder
+          - link "Remote work advice" [ref=e990] [cursor=pointer]:
+            - /url: /advice
+          - link "Career guides" [ref=e991] [cursor=pointer]:
+            - /url: /career-guides
+          - link "Job application tracker" [ref=e992] [cursor=pointer]:
+            - /url: /job-application-tracker
+          - link "AI resume builder" [ref=e993] [cursor=pointer]:
+            - /url: /ai-resume-builder
+          - link "Resume examples and templates" [ref=e994] [cursor=pointer]:
+            - /url: /resumes
+          - link "AI cover letter generator" [ref=e995] [cursor=pointer]:
+            - /url: /ai-cover-letter-generator
+          - link "Cover letter examples" [ref=e996] [cursor=pointer]:
+            - /url: /cover-letters
+          - link "AI headshot generator" [ref=e997] [cursor=pointer]:
+            - /url: /ai-headshot-generator
+          - link "AI interview prep" [ref=e998] [cursor=pointer]:
+            - /url: /ai-interview
+          - link "Interview questions and answers" [ref=e999] [cursor=pointer]:
+            - /url: /interview-questions
+          - link "AI interview answer generator" [ref=e1000] [cursor=pointer]:
+            - /url: /interview-answer-generator
+          - link "AI career coach" [ref=e1001] [cursor=pointer]:
+            - /url: /ai-career-coach
+          - link "Free resume builder" [ref=e1002] [cursor=pointer]:
+            - /url: /free-resume-builder
+          - link "Resume summary generator" [ref=e1003] [cursor=pointer]:
+            - /url: /ai-resume-summary-generator
+          - link "Resume bullet points generator" [ref=e1004] [cursor=pointer]:
+            - /url: /ai-resume-bullet-points-generator
+          - link "Resume skills section generator" [ref=e1005] [cursor=pointer]:
+            - /url: /ai-resume-skills-section-generator
+          - link "Remote jobs RSS" [ref=e1006] [cursor=pointer]:
+            - /url: /rss
+          - link "Remote jobs widget" [ref=e1007] [cursor=pointer]:
+            - /url: /free-remote-jobs-widget
+          - link "Community rewards" [ref=e1008] [cursor=pointer]:
+            - /url: /rewards
+        - generic [ref=e1009]:
+          - paragraph [ref=e1010]: For companies
+          - link "Post a remote job" [ref=e1011] [cursor=pointer]:
+            - /url: /post
+          - link "Job description generator" [ref=e1012] [cursor=pointer]:
+            - /url: /job-description-generator
+          - link "Job description templates" [ref=e1013] [cursor=pointer]:
+            - /url: /job-descriptions
+          - link "Interview question generator" [ref=e1014] [cursor=pointer]:
+            - /url: /interview-question-generator
+          - link "Remote talent marketplace" [ref=e1015] [cursor=pointer]:
+            - /url: /talent
+          - link "Create a company profile" [ref=e1016] [cursor=pointer]:
+            - /url: /signup/recruit
+          - link "Add your tech stack" [ref=e1017] [cursor=pointer]:
+            - /url: /signup/recruit
+          - link "Share employee benefits" [ref=e1018] [cursor=pointer]:
+            - /url: /signup/recruit
+          - link "Pricing" [ref=e1019] [cursor=pointer]:
+            - /url: /pricing
+          - link "Advertise" [ref=e1020] [cursor=pointer]:
+            - /url: /advertise
+        - generic [ref=e1021]:
+          - paragraph [ref=e1022]: AI & Agents
+          - link "Remote jobs API" [ref=e1023] [cursor=pointer]:
+            - /url: /api
+          - link "Remote jobs MCP server" [ref=e1024] [cursor=pointer]:
+            - /url: /mcp
+          - link "AI job search" [ref=e1025] [cursor=pointer]:
+            - /url: /docs/ai-agents
+          - link "AI recruitment" [ref=e1026] [cursor=pointer]:
+            - /url: /docs/hire-with-ai
+          - link "Agentic job search" [ref=e1027] [cursor=pointer]:
+            - /url: /docs/ai-agents
+          - link "Agentic hiring" [ref=e1028] [cursor=pointer]:
+            - /url: /docs/how-to-hire-remote-employees
+        - generic [ref=e1029]:
+          - paragraph [ref=e1030]: Remote work statistics
+          - link "Remote salaries" [ref=e1031] [cursor=pointer]:
+            - /url: /salaries
+          - link "Top remote job categories" [ref=e1032] [cursor=pointer]:
+            - /url: /remote-work-statistics/jobs/categories
+          - link "Top remote job skills" [ref=e1033] [cursor=pointer]:
+            - /url: /remote-work-statistics/jobs/skills
+          - link "Top countries for remote jobs" [ref=e1034] [cursor=pointer]:
+            - /url: /remote-work-statistics/jobs/countries
+          - link "Top industries for remote jobs" [ref=e1035] [cursor=pointer]:
+            - /url: /remote-work-statistics/jobs/industries
+          - link "Top countries for remote companies" [ref=e1036] [cursor=pointer]:
+            - /url: /remote-work-statistics/companies/countries
+          - link "Top industries for remote companies" [ref=e1037] [cursor=pointer]:
+            - /url: /remote-work-statistics/companies/industries
+        - generic [ref=e1038]:
+          - paragraph [ref=e1039]: Other tools
+          - link "Job search checklist" [ref=e1040] [cursor=pointer]:
+            - /url: /job-search-checklist
+          - link "Job application checklist" [ref=e1041] [cursor=pointer]:
+            - /url: /job-application-checklist
+          - link "Resume checklist" [ref=e1042] [cursor=pointer]:
+            - /url: /resume-checklist
+          - link "Cover letter checklist" [ref=e1043] [cursor=pointer]:
+            - /url: /cover-letter-checklist
+          - link "Interview preparation checklist" [ref=e1044] [cursor=pointer]:
+            - /url: /interview-preparation-checklist
+          - link "Salary negotiation checklist" [ref=e1045] [cursor=pointer]:
+            - /url: /salary-negotiation-checklist
+          - link "Transferable skills checklist" [ref=e1046] [cursor=pointer]:
+            - /url: /transferable-skills-checklist
+          - link "LinkedIn headline generator" [ref=e1047] [cursor=pointer]:
+            - /url: /linkedin-headline-generator
+          - link "Resignation letter generator" [ref=e1048] [cursor=pointer]:
+            - /url: /ai-resignation-letter-generator
+          - link "Letter of recommendation generator" [ref=e1049] [cursor=pointer]:
+            - /url: /ai-letter-of-recommendation-generator
+        - generic [ref=e1050]:
+          - paragraph [ref=e1051]: Directories
+          - link "People" [ref=e1052] [cursor=pointer]:
+            - /url: /talent/people
+      - generic [ref=e1053]:
+        - generic [ref=e1054]:
+          - paragraph [ref=e1055]: Join the remote work revolution
+          - paragraph [ref=e1056]: Himalayas is the best remote job board. Join over 250,000+ job seekers finding remote jobs at top companies worldwide.
+        - generic [ref=e1057]:
+          - button "Sign up with Google" [ref=e1058] [cursor=pointer]:
+            - img [ref=e1059]
+            - text: Sign up with Google
+          - link "Sign up" [ref=e1065] [cursor=pointer]:
+            - /url: /signup
+      - generic [ref=e1066]:
+        - paragraph [ref=e1067]:
+          - text: © 2026 Himalayas. All rights reserved. Build your own job board with
+          - link "Cavuno" [ref=e1068] [cursor=pointer]:
+            - /url: https://cavuno.com
+          - text: . Built with
+          - link "Untitled UI" [ref=e1069] [cursor=pointer]:
+            - /url: https://untitledui.com
+          - text: . Logos provided by
+          - link "Logo.dev" [ref=e1070] [cursor=pointer]:
+            - /url: https://logo.dev
+        - button "Language" [ref=e1071] [cursor=pointer]:
+          - img [ref=e1072]
+          - text: English
+          - img [ref=e1074]
+  - alert [ref=e1076]

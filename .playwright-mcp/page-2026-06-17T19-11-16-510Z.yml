@@ -1,0 +1,219 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - figure [ref=e9]:
+          - link "Home of Automattic.com" [ref=e10] [cursor=pointer]:
+            - /url: /
+            - img "Home of Automattic.com" [ref=e11]
+        - navigation [ref=e13]:
+          - list [ref=e14]:
+            - listitem [ref=e15]:
+              - link "Home" [ref=e16] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e17]:
+              - link "About Us" [ref=e18] [cursor=pointer]:
+                - /url: /about/
+            - listitem [ref=e19]:
+              - link "News" [ref=e20] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e21]:
+              - link "Work With Us" [ref=e22] [cursor=pointer]:
+                - /url: /work-with-us/
+    - main [ref=e24]:
+      - generic [ref=e25]:
+        - heading "Work with us from wherever you like" [level=1] [ref=e28]
+        - generic [ref=e30]:
+          - paragraph [ref=e31]: Explore the remote job opportunities at Automattic. Work from anywhere, and make the web a better place for everyone, everywhere. Check out today’s open jobs.
+          - link "View open jobs" [ref=e34] [cursor=pointer]:
+            - /url: https://automattic.com/jobs/
+        - generic [ref=e38]:
+          - paragraph [ref=e40]: We’re 1,451 Automatticians in 82 countries speaking 108 languages. We democratize publishing and commerce so anyone with a story can tell it, and anyone with a product can sell it, regardless of income, gender, politics, language, or country.
+          - generic [ref=e41]:
+            - figure [ref=e42]:
+              - iframe [ref=e44]:
+                - region "Video Player" [ref=f11e2]:
+                  - button "Play Video" [ref=f11e6] [cursor=pointer]:
+                    - generic [ref=f11e8]: Play Video
+                  - generic [ref=f11e9]:
+                    - generic [ref=f11e10]: "Employee Spotlight: Michelle Langston"
+                    - button "Share Button":
+                      - generic: Share Button
+                  - text: 
+            - paragraph [ref=e45]:
+              - emphasis [ref=e46]: Michelle Langston on her background as a designer, what drew her to Automattic, and what keeps her here.
+        - generic [ref=e47]:
+          - generic [ref=e48]:
+            - heading "Our hiring process" [level=2] [ref=e49]
+            - paragraph [ref=e50]:
+              - emphasis [ref=e51]: This is our standard process; however, the hiring steps may differ by role to ensure we choose candidates who will thrive as Automatticians.
+          - generic [ref=e52]:
+            - heading "1 Application" [level=3] [ref=e53]:
+              - text: "1"
+              - emphasis [ref=e54]: Application
+            - paragraph [ref=e55]: You submit a formal application for a current job opening, giving us a sense of your communication style. We assess based on criteria that vary depending on the opening and the needs of the team, and pay close attention to your answers — so share as much relevant information as possible! If your application advances, we’ll invite you to complete a criteria assessment designed to evaluate the specific skills and competencies we’re looking for in this role.
+            - heading "2 Interview" [level=3] [ref=e56]:
+              - text: "2"
+              - emphasis [ref=e57]: Interview
+            - paragraph [ref=e58]: One of the first steps in the application process is a Slack or Zoom interview. While some roles start with a written interview on Slack, others require Zoom interviews, so we can get to know you better live.
+            - heading "3 Trial" [level=3] [ref=e59]:
+              - text: "3"
+              - emphasis [ref=e60]: Trial
+            - paragraph [ref=e61]: Our jobs involve a paid trial in the application process, which is a short project or set of tasks that will be assessed by our hiring teams. You will have the chance to work on something that’s closely aligned with the role you’re interviewing for, and tackle a specific, real problem.
+            - heading "4 Final Interview" [level=3] [ref=e62]:
+              - text: "4"
+              - emphasis [ref=e63]: Final Interview
+            - paragraph [ref=e64]: Once a candidate successfully completes their trial, many teams require a final interview — typically conducted by an executive leader within the business unit — before proceeding to the offer stage.
+            - heading "5 The Offer" [level=3] [ref=e65]:
+              - text: "5"
+              - emphasis [ref=e66]: The Offer
+            - paragraph [ref=e67]:
+              - text: Our HR folks will share feedback from the hiring process and tender a formal offer to join Automattic — one that takes account of your
+              - link "compensation" [ref=e68] [cursor=pointer]:
+                - /url: /compensation/
+              - text: expectations, interview feedback, work experience, and trial performance. Welcome aboard!
+            - generic [ref=e69]:
+              - link "Learn more" [ref=e71] [cursor=pointer]:
+                - /url: /how-we-hire/
+              - link "Open jobs" [ref=e73] [cursor=pointer]:
+                - /url: https://automattic.com/jobs/
+        - generic [ref=e75]:
+          - heading "“I will strive to create inclusive spaces along my journey and intentionally seek out different perspectives.”" [level=4] [ref=e77]
+          - paragraph [ref=e79]:
+            - text: At Automattic, we want people to love their work and show respect and empathy to all. We welcome differences and strive to increase participation from traditionally underrepresented groups. Automatticians across the company are encouraged to drives grassroots change, for example, facilitating private online spaces for affiliated Automatticians to gather and monthly People Lab series for further learning. Learn more our
+            - link "Employee Resource Groups" [ref=e80] [cursor=pointer]:
+              - /url: https://automattic.com/automattician-resource-groups/
+            - text: .
+        - generic [ref=e81]:
+          - figure [ref=e83]
+          - figure [ref=e85]
+          - figure [ref=e87]
+        - generic [ref=e89]:
+          - paragraph [ref=e90]: "Our dedication influences far more than just Automatticians: we make our products freely available and translate our products into and offer customer support in numerous languages."
+          - paragraph [ref=e91]: We ensure our products are accessible across different bandwidths and devices.
+        - blockquote [ref=e93]:
+          - paragraph [ref=e94]:
+            - emphasis [ref=e95]: “
+            - text: I love the fact that it’s very equal here, and actually everybody is used to just covering for somebody being on leave. I think that changes the perception of women a bit, like not being as worried about taking time out—because actually a lot of people take time out here for different reasons.”
+          - generic [ref=e96]:
+            - figure [ref=e97]
+            - paragraph [ref=e98]:
+              - emphasis [ref=e99]: Nicola Hodd,
+              - text: Marketing Operations
+          - link "Read Nicola’s article" [ref=e102] [cursor=pointer]:
+            - /url: https://automattic.com/2025/01/30/parenting-while-working-nicola-hodds-story/
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - heading "Our remote-first culture" [level=3] [ref=e106]
+            - generic [ref=e107]:
+              - paragraph [ref=e108]: This isn’t your typical work-from-home job. Everyone works from the location they choose, during the hours they choose. We’re spread out all over the world. We track about 70 percent of our projects on P2-themed WordPress.com blogs, 25 percent in private chat rooms, and the rest on Slack. Because of the geographic variance, we’re active 24/7. But don’t let that worry you. This is not a work-’til-you-drop place. We encourage work-life balance, and care about the work you produce, not the hours you put in.
+              - paragraph [ref=e109]:
+                - link "How We Work" [ref=e110] [cursor=pointer]:
+                  - /url: https://automattic.com/how-we-work/
+          - generic [ref=e112]:
+            - heading "Why you’ll love working here" [level=3] [ref=e114]
+            - generic [ref=e115]:
+              - paragraph [ref=e116]:
+                - text: Making the web a better place is rewarding in its own right, but we also provide professional growth, an open vacation policy, generous parental leaves, wellness support,
+                - link "sabbaticals" [ref=e117] [cursor=pointer]:
+                  - /url: https://automattic.com/benefits/sabbatical/
+                - text: ", and more. Our main"
+                - link "benefits are listed here" [ref=e118] [cursor=pointer]:
+                  - /url: https://automattic.com/benefits/
+                - text: . Additional benefits vary
+                - link "by location" [ref=e119] [cursor=pointer]:
+                  - /url: https://automattic.com/benefits/benefits-by-location/
+                - text: .
+              - paragraph [ref=e120]:
+                - link "Our Benefits" [ref=e121] [cursor=pointer]:
+                  - /url: /benefits/
+          - generic [ref=e123]:
+            - heading "We also meet(up) live" [level=3] [ref=e125]
+            - generic [ref=e126]:
+              - paragraph [ref=e127]: Since the pandemic, we’ve focused on smaller groups, division meetups, and so on, that accomplish bonding and coworking on a manageable scale.
+              - paragraph [ref=e128]:
+                - text: Awesome places we’ve met include San Francisco, California; La Paz, Mexico; Oracle, Arizona; Breckenridge, Colorado; Mont-Sainte-Anne, Québec; Budapest, Hungary; San Diego, California; Santa Cruz, California; Park City, Utah; Whistler, Canada; Orlando, Florida; London, England; Dubai, United Arab Emirates; Madrid, Spain; Amsterdam, The Netherlands; Montreal, Québec; and many more.
+                - text: In addition to our larger meetups, individual teams meet for five to seven days to brainstorm team-level strategy and bond in locales ranging from Boulder to Buenos Aires, Las Vegas to Lisbon, Montréal to Mexico City, and Vienna to Vietnam. If you join our merry band, expect to travel three to four weeks per year.
+              - paragraph [ref=e129]:
+                - link "Travelling at Automattic" [ref=e130] [cursor=pointer]:
+                  - /url: /fieldguide/howdy/get-travelling/
+        - separator [ref=e131]
+        - paragraph [ref=e134]:
+          - link "Learn about our hiring process" [ref=e135] [cursor=pointer]:
+            - /url: https://automattic.com/how-we-hire/
+          - text: from Automattic’s Talent team,
+          - link "explore our timeline" [ref=e136] [cursor=pointer]:
+            - /url: https://automattic.com/timeline/
+          - text: ", and discover"
+          - link "what to do after applying to Automattic" [ref=e137] [cursor=pointer]:
+            - /url: https://automattic.com/what-to-do-after-applying-to-automattic/
+          - text: .
+    - contentinfo [ref=e139]:
+      - generic [ref=e140]:
+        - generic [ref=e141]:
+          - generic [ref=e143]:
+            - navigation "Footer" [ref=e145]:
+              - list [ref=e146]:
+                - listitem [ref=e147]:
+                  - link "Field Guide" [ref=e148] [cursor=pointer]:
+                    - /url: https://automattic.com/fieldguide/
+                - listitem [ref=e149]:
+                  - link "Contact" [ref=e150] [cursor=pointer]:
+                    - /url: https://automattic.com/contact/
+              - list [ref=e151]:
+                - listitem [ref=e152]:
+                  - link "Press" [ref=e153] [cursor=pointer]:
+                    - /url: https://automattic.com/press/
+                - listitem [ref=e154]:
+                  - link "Meet" [ref=e155] [cursor=pointer]:
+                    - /url: https://meetomattic.com/
+                - listitem [ref=e156]:
+                  - link "Privacy" [ref=e157] [cursor=pointer]:
+                    - /url: https://automattic.com/privacy/
+            - list [ref=e159]:
+              - listitem [ref=e160]:
+                - link "X" [ref=e161] [cursor=pointer]:
+                  - /url: https://x.com/automattic
+                  - img [ref=e162]
+                  - generic [ref=e164]: X
+              - listitem [ref=e165]:
+                - link "Facebook" [ref=e166] [cursor=pointer]:
+                  - /url: https://www.facebook.com/AutomatticInc/
+                  - img [ref=e167]
+                  - generic [ref=e169]: Facebook
+              - listitem [ref=e170]:
+                - link "YouTube" [ref=e171] [cursor=pointer]:
+                  - /url: https://www.youtube.com/c/automattic
+                  - img [ref=e172]
+                  - generic [ref=e174]: YouTube
+              - listitem [ref=e175]:
+                - link "LinkedIn" [ref=e176] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/automattic/
+                  - img [ref=e177]
+                  - generic [ref=e179]: LinkedIn
+          - navigation "2" [ref=e181]:
+            - list [ref=e182]:
+              - listitem [ref=e183]:
+                - link "Home" [ref=e184] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e185]:
+                - link "About Us" [ref=e186] [cursor=pointer]:
+                  - /url: /about/
+              - listitem [ref=e187]:
+                - link "News" [ref=e188] [cursor=pointer]:
+                  - /url: /news/
+              - listitem [ref=e189]:
+                - link "Work With Us" [ref=e190] [cursor=pointer]:
+                  - /url: /work-with-us/
+        - paragraph [ref=e192]:
+          - emphasis [ref=e193]: © Automattic Inc., purveyors of fine blogging and site-building services since 2005. Thank you for your time.
+  - list [ref=e195]:
+    - listitem [ref=e196]:
+      - link "Subscribe" [ref=e197] [cursor=pointer]:
+        - /url: ""
+        - img [ref=e198]
+        - text: Subscribe
+    - listitem [ref=e200] [cursor=pointer]:
+      - img [ref=e201]

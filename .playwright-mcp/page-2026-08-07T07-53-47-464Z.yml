@@ -1,0 +1,98 @@
+- generic [active] [ref=f83e1]:
+  - generic [ref=f83e3]:
+    - generic [ref=f83e5]:
+      - navigation "Breadcrumb" [ref=f83e7]:
+        - list [ref=f83e8]:
+          - listitem [ref=f83e9]:
+            - paragraph [ref=f83e10]:
+              - link "Open Positions" [ref=f83e11] [cursor=pointer]
+          - listitem [ref=f83e12]:
+            - generic [ref=f83e13]: 
+            - paragraph [ref=f83e14]:
+              - link "Senior Site Reliability Engineer"
+      - generic [ref=f83e15]:
+        - heading "Senior Site Reliability Engineer" [level=2] [ref=f83e16]
+        - generic [ref=f83e17]:
+          - generic [ref=f83e18]:
+            - generic [ref=f83e20]:
+              - paragraph [ref=f83e21]:
+                - strong [ref=f83e23]: About Latitude.sh
+              - paragraph [ref=f83e24]: Latitude.sh's global computing platform was launched in 2019, enabling businesses to programmatically deploy single-tenant Bare Metal instances in different parts of the world.We are a team of passionate individuals about hardware, software, and network infrastructure looking to build the fastest, easiest-to-use, developer-centric single-tenant Cloud infrastructure. If you share this passion, join our growing team of talented people and help build the future of the Internet.
+              - paragraph [ref=f83e25]
+              - paragraph [ref=f83e26]:
+                - strong [ref=f83e28]: Summary
+              - paragraph [ref=f83e29]
+              - paragraph [ref=f83e30]: At Latitude.sh, the Reliability team is responsible for the health and resilience of the infrastructure that powers our global bare metal cloud. As a Senior Site Reliability Engineer (SRE), you’ll focus on building reliable, observable, and self-healing systems at scale.
+              - paragraph [ref=f83e31]
+              - paragraph [ref=f83e32]: SREs at Latitude.sh work at the intersection of software engineering and infrastructure. You’ll design and implement tools that automate operations, improve incident response, and enhance system observability—ensuring our platform is always ready for the workloads of our customers.
+              - paragraph [ref=f83e33]
+              - paragraph [ref=f83e34]: This might be a good opportunity if you’re passionate about reliability, automation, and creating cloud-like experiences for bare metal infrastructure.
+              - paragraph [ref=f83e35]
+              - paragraph [ref=f83e36]:
+                - strong [ref=f83e38]: Key Responsabilities
+              - list [ref=f83e39]:
+                - listitem [ref=f83e40]: Continuously improve Latitude.sh’s platform reliability and performance
+                - listitem [ref=f83e41]: Design, build, and maintain tools to automate operational tasks and incident response
+                - listitem [ref=f83e42]: Implement and improve observability solutions, including monitoring, alerting, and tracing
+                - listitem [ref=f83e43]: Collaborate with engineering and platform teams to design scalable and resilient systems
+                - listitem [ref=f83e44]: Participate in on-call rotations and lead post-incident reviews with a focus on learning
+                - listitem [ref=f83e45]: Develop and document processes and runbooks that ensure operational excellence
+                - listitem [ref=f83e46]: Contribute to SLOs/SLIs definition and reliability metrics adoption across teams
+              - paragraph [ref=f83e47]:
+                - strong [ref=f83e49]: Skills and Qualifications
+              - list [ref=f83e50]:
+                - listitem [ref=f83e51]: Strong verbal and written English communication skills
+                - listitem [ref=f83e52]: Advanced knowledge of Linux/Unix systems in production environments
+                - listitem [ref=f83e53]: Experience with Kubernetes and container orchestration
+                - listitem [ref=f83e54]: Proficiency with infrastructure automation tools (e.g., Terraform, Ansible)
+                - listitem [ref=f83e55]: Experience with observability stacks (e.g., Prometheus, Grafana, Loki, ELK)
+                - listitem [ref=f83e56]: Familiarity with scripting and programming languages such as Bash, Python, Go, or Ruby
+                - listitem [ref=f83e57]: Working knowledge of Git and CI/CD pipelines
+                - listitem [ref=f83e58]: Solid understanding of incident management and root cause analysis processes
+                - listitem [ref=f83e59]: Knowledge of cloud-native reliability and security best practices
+              - paragraph [ref=f83e60]:
+                - strong [ref=f83e62]: What do we offer?
+              - list [ref=f83e63]:
+                - listitem [ref=f83e64]: Contractor (PJ)
+                - listitem [ref=f83e65]: Paid Time Off
+                - listitem [ref=f83e66]: Competitive Compensation
+                - listitem [ref=f83e67]: Wellhub (former Gympass)
+                - listitem [ref=f83e68]: Annual Bonus based on company and team performance
+                - listitem [ref=f83e69]: Flexible work hours
+                - listitem [ref=f83e70]: Opportunities for professional growth and development
+              - paragraph [ref=f83e71]:
+                - strong [ref=f83e73]: Why Latitude.sh?
+              - paragraph [ref=f83e74]: We're a lean, agile team of passionate professionals who believe in the power of innovation and creative problem-solving. As part of our team, you won't be lost in the crowd – you'll be an essential contributor, making a real impact from day one.
+              - paragraph [ref=f83e75]: Our values at Latitude.sh guide us in all our work and partnerships. We're proud to be an inclusive company, and we welcome all applicants for our open positions, regardless of their background, religion, sexual orientation, gender identity, age, nationality, or disability. If these values speak to you, we'd love for you to become a part of our team.
+              - paragraph [ref=f83e76]
+            - button "Apply now" [ref=f83e79] [cursor=pointer]
+          - generic [ref=f83e82]:
+            - generic [ref=f83e83]:
+              - generic [ref=f83e84]:
+                - generic [ref=f83e85]: 
+                - paragraph [ref=f83e86]: Engineering
+              - generic [ref=f83e87]:
+                - generic [ref=f83e88]: 
+                - paragraph [ref=f83e89]: Remote
+            - generic [ref=f83e90]:
+              - generic [ref=f83e91]:
+                - paragraph [ref=f83e92]: "Share on:"
+                - generic [ref=f83e93]:
+                  - button "Share on LinkedIn" [ref=f83e94] [cursor=pointer]: 
+                  - button "Share on Facebook" [ref=f83e95] [cursor=pointer]: 
+                  - button "Share on Twitter/X" [ref=f83e96] [cursor=pointer]: 
+              - button "Apply now" [ref=f83e99] [cursor=pointer]
+    - generic [ref=f83e103]:
+      - generic [ref=f83e104]:
+        - link "Terms of service" [ref=f83e105] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/user
+        - link "Privacy" [ref=f83e106] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/privacy
+        - link "Cookies" [ref=f83e107] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/cookie-notice
+        - link "Powered by Rippling" [ref=f83e108] [cursor=pointer]:
+          - /url: https://www.rippling.com/recruiting
+      - generic [ref=f83e112] [cursor=pointer]:
+        - combobox "Search" [ref=f83e116]: United Kingdom (English)
+        - generic [ref=f83e117]: 
+  - alert [ref=f83e119]

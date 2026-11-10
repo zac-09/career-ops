@@ -1,0 +1,82 @@
+- generic [active] [ref=f78e1]:
+  - generic [ref=f78e3]:
+    - banner [ref=f78e4]:
+      - generic [ref=f78e5]:
+        - link "Remote Front" [ref=f78e6] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f78e7]: Remote
+          - generic [ref=f78e8]: Front
+        - navigation [ref=f78e9]:
+          - link "Remote Jobs" [ref=f78e10] [cursor=pointer]:
+            - /url: /remote-jobs
+          - link "Résumé Match" [ref=f78e11] [cursor=pointer]:
+            - /url: /resume-match
+          - link "Browse" [ref=f78e12] [cursor=pointer]:
+            - /url: /browse
+          - link "Blog" [ref=f78e13] [cursor=pointer]:
+            - /url: /blog
+        - generic [ref=f78e14]:
+          - link "Log in" [ref=f78e15] [cursor=pointer]:
+            - /url: /login?redirect=%2Fremote-jobs%2Fvelitech-senior-node-js-engineer-wris5
+          - link "Find jobs" [ref=f78e16] [cursor=pointer]:
+            - /url: /remote-jobs
+    - main [ref=f78e17]:
+      - main [ref=f78e19]:
+        - heading "Sorry, this job is closed by the employer. However, we have got 100,000 more for you!" [level=2] [ref=f78e20]
+        - heading "Check other remote jobs below." [level=3] [ref=f78e21]
+        - link "Check more remote jobs" [ref=f78e22] [cursor=pointer]:
+          - /url: /remote-jobs
+    - contentinfo [ref=f78e23]:
+      - generic [ref=f78e24]:
+        - generic [ref=f78e25]:
+          - generic [ref=f78e26]:
+            - generic [ref=f78e27]: RemoteFront
+            - paragraph [ref=f78e28]: Real work-from-home jobs, straight from company career pages. Updated hourly.
+          - navigation [ref=f78e29]:
+            - link "About" [ref=f78e30] [cursor=pointer]:
+              - /url: /about-us
+            - link "FAQ" [ref=f78e31] [cursor=pointer]:
+              - /url: /faqs
+            - link "Contact" [ref=f78e32] [cursor=pointer]:
+              - /url: /contact-us
+            - link "Privacy" [ref=f78e33] [cursor=pointer]:
+              - /url: /privacy-policy
+            - link "Terms" [ref=f78e34] [cursor=pointer]:
+              - /url: /terms-of-service
+        - generic [ref=f78e35]:
+          - heading "Popular remote jobs" [level=2] [ref=f78e36]
+          - navigation [ref=f78e37]:
+            - link "Software Engineer" [ref=f78e38] [cursor=pointer]:
+              - /url: /remote-software-engineer-jobs
+            - link "Frontend Engineer" [ref=f78e39] [cursor=pointer]:
+              - /url: /remote-frontend-engineer-jobs
+            - link "Backend Engineer" [ref=f78e40] [cursor=pointer]:
+              - /url: /remote-backend-engineer-jobs
+            - link "DevOps Engineer" [ref=f78e41] [cursor=pointer]:
+              - /url: /remote-devops-engineer-jobs
+            - link "Data Scientist" [ref=f78e42] [cursor=pointer]:
+              - /url: /remote-data-scientist-jobs
+            - link "Data Analyst" [ref=f78e43] [cursor=pointer]:
+              - /url: /remote-data-analyst-jobs
+            - link "Product Manager" [ref=f78e44] [cursor=pointer]:
+              - /url: /remote-product-manager-jobs
+            - link "Project Manager" [ref=f78e45] [cursor=pointer]:
+              - /url: /remote-project-manager-jobs
+            - link "Product Designer" [ref=f78e46] [cursor=pointer]:
+              - /url: /remote-product-designer-jobs
+            - link "Marketing Manager" [ref=f78e47] [cursor=pointer]:
+              - /url: /remote-marketing-manager-jobs
+            - link "Customer Success" [ref=f78e48] [cursor=pointer]:
+              - /url: /remote-customer-success-jobs
+            - link "Account Executive" [ref=f78e49] [cursor=pointer]:
+              - /url: /remote-account-executive-jobs
+            - link "Recruiter" [ref=f78e50] [cursor=pointer]:
+              - /url: /remote-recruiter-jobs
+            - link "Accountant" [ref=f78e51] [cursor=pointer]:
+              - /url: /remote-accountant-jobs
+            - link "Financial Analyst" [ref=f78e52] [cursor=pointer]:
+              - /url: /remote-financial-analyst-jobs
+            - link "Registered Nurse" [ref=f78e53] [cursor=pointer]:
+              - /url: /remote-registered-nurse-jobs
+        - paragraph [ref=f78e54]: © 2026 RemoteFront
+  - alert [ref=f78e55]

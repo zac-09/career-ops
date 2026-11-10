@@ -1,0 +1,92 @@
+- generic [active] [ref=f9e1]:
+  - link [ref=f9e4] [cursor=pointer]:
+    - /url: https://rayatheapp.com/careers
+    - img "Raya logo" [ref=f9e5]
+  - generic [ref=f9e7]:
+    - generic [ref=f9e9]:
+      - heading "Senior Backend Engineer, Member Experience" [level=2] [ref=f9e10]
+      - generic [ref=f9e11]:
+        - generic [ref=f9e12]: Remote
+        - generic [ref=f9e13]: Engineering /
+        - generic [ref=f9e14]: Full-time /
+        - generic [ref=f9e15]: Remote
+    - generic [ref=f9e17]:
+      - generic [ref=f9e18]:
+        - heading "Submit your application" [level=4] [ref=f9e19]
+        - list [ref=f9e20]:
+          - listitem [ref=f9e21]:
+            - generic [ref=f9e22]:
+              - generic [ref=f9e23]:
+                - text: Resume/CV
+                - generic [ref=f9e24]: ✱
+              - link [ref=f9e26] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f9e29]: ATTACH RESUME/CV
+                - button "Resume/CV ✱ ATTACH RESUME/CV" [ref=f9e30]
+          - listitem [ref=f9e31]:
+            - generic [ref=f9e32]:
+              - generic [ref=f9e33]:
+                - text: Full name
+                - generic [ref=f9e34]: ✱
+              - textbox "Full name ✱" [ref=f9e36]
+          - listitem [ref=f9e37]:
+            - generic [ref=f9e38]:
+              - generic [ref=f9e39]:
+                - text: Email
+                - generic [ref=f9e40]: ✱
+              - textbox "Email ✱" [ref=f9e42]
+          - listitem [ref=f9e43]:
+            - generic [ref=f9e44]:
+              - generic [ref=f9e45]: Phone
+              - textbox "Phone" [ref=f9e47]
+          - listitem [ref=f9e48]:
+            - generic [ref=f9e49]:
+              - generic [ref=f9e50]:
+                - text: Current location
+                - generic [ref=f9e51]: ✱
+              - textbox "Current location ✱" [ref=f9e53]
+          - listitem [ref=f9e54]:
+            - generic [ref=f9e55]:
+              - generic [ref=f9e56]: Current company
+              - textbox "Current company" [ref=f9e58]
+      - generic [ref=f9e59]:
+        - heading "Links" [level=4] [ref=f9e60]
+        - list [ref=f9e61]:
+          - listitem [ref=f9e62]:
+            - generic [ref=f9e63]:
+              - generic [ref=f9e64]: LinkedIn URL
+              - textbox "LinkedIn URL" [ref=f9e66]
+      - generic [ref=f9e67]:
+        - heading "How did you hear about Raya?" [level=4] [ref=f9e68]
+        - list [ref=f9e69]:
+          - listitem [ref=f9e70]:
+            - generic [ref=f9e71]:
+              - generic [ref=f9e72]: "Did you hear about us from a website, friend, employee, someone else? If so, please let us know:"
+              - textbox "Type your response" [ref=f9e75]
+      - generic [ref=f9e76]:
+        - heading "Payment Experience" [level=4] [ref=f9e77]
+        - list [ref=f9e78]:
+          - listitem [ref=f9e79]:
+            - generic [ref=f9e80]:
+              - generic [ref=f9e82]:
+                - text: Do you have professional hands-on experience with mobile payments and subscriptions for a B2C product?
+                - generic [ref=f9e83]: ✱
+              - list [ref=f9e85]:
+                - listitem [ref=f9e86]:
+                  - generic [ref=f9e87] [cursor=pointer]:
+                    - radio "Yes" [ref=f9e88]
+                    - generic [ref=f9e89]: "Yes"
+                - listitem [ref=f9e90]:
+                  - generic [ref=f9e91] [cursor=pointer]:
+                    - radio "No" [ref=f9e92]
+                    - generic [ref=f9e93]: "No"
+      - button "Submit application" [ref=f9e95] [cursor=pointer]
+  - generic [ref=f9e97]:
+    - paragraph [ref=f9e98]:
+      - link "Raya Home Page" [ref=f9e99] [cursor=pointer]:
+        - /url: http://rayatheapp.com
+    - paragraph [ref=f9e101]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+    - link "Jobs powered by Lever logo" [ref=f9e102] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=f9e103]: Jobs powered by
+      - img "Lever logo" [ref=f9e104]

@@ -1,0 +1,405 @@
+- generic [active] [ref=f26e1]:
+  - main [ref=f26e2]:
+    - generic [ref=f26e3]:
+      - img "GiveDirectly Logo" [ref=f26e5]
+      - generic [ref=f26e6]:
+        - link "Back to jobs" [ref=f26e7] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/givedirectly
+        - generic [ref=f26e11]:
+          - generic [ref=f26e12]:
+            - heading "Senior Software Engineer (Remote)" [level=1] [ref=f26e13]
+            - generic [ref=f26e14]: Remote
+          - button "Apply" [ref=f26e18] [cursor=pointer]
+        - generic [ref=f26e19]:
+          - generic [ref=f26e20]:
+            - paragraph [ref=f26e21]:
+              - strong [ref=f26e22]: About GiveDirectly
+              - strong [ref=f26e23]
+            - paragraph [ref=f26e24]: "What if the most effective way to fight poverty was also the simplest: give people money and trust them to decide what they need?"
+            - paragraph [ref=f26e25]: "Since 2011, GiveDirectly has proven that idea at scale. We’ve delivered more than $1B in cash directly to 2+ million people living in poverty and crisis across 15 countries, and rigorous research shows the results: healthier kids, stronger businesses, sturdier homes, and more resilient families and local economies. Cash is now widely recognized as one of the most scalable, cost-effective, and dignified forms of aid."
+            - paragraph [ref=f26e26]:
+              - text: "Our ambition goes beyond our own programs. We want cash to become the benchmark for aid, much as the index fund became the benchmark for investing, so that every aid dollar is held to one question:"
+              - emphasis [ref=f26e27]: is this doing more good than giving the money directly to people living in poverty?
+            - paragraph [ref=f26e28]:
+              - strong [ref=f26e29]: We’re growing fast, and this is a rare and important moment to join.
+            - paragraph [ref=f26e30]: We expect to hit $1B in revenue in 2026 with significant growth forecast for 2027. At the same time we are building a new technology stack and operating model designed for a roughly 10x change in scale, and we are actively pursuing partnerships with major funders to move even more money in bigger ways, to people who need it. We are known for our extensive integration of technology into field processes; our quantitative approach to performance measurement; and our commitment to rigorous, independent, experimental evaluation of our impact, with multiple Randomized Control Trials completed and others in progress.
+            - paragraph [ref=f26e31]:
+              - strong [ref=f26e32]: How we work
+            - paragraph [ref=f26e33]: "Our team spans 20+ countries and 69 languages. Our culture is candid, analytical, and non-hierarchical. We expect high ownership and give people real responsibility early. Our values are central to how we hire, work, and grow, and they are deliberately opinionated:"
+            - list [ref=f26e34]:
+              - listitem [ref=f26e35]:
+                - strong [ref=f26e36]: Recipients first.
+                - text: Recipients’ preferences come before those of donors or ourselves.
+              - listitem [ref=f26e37]:
+                - strong [ref=f26e38]: Team next.
+                - text: We optimize for organizational success, not individual success.
+              - listitem [ref=f26e39]:
+                - strong [ref=f26e40]: Be proactively candid.
+                - text: We say what we believe and share information openly.
+              - listitem [ref=f26e41]:
+                - strong [ref=f26e42]: Create positive energy.
+                - text: We aim to be a source of energy for colleagues, not a drain.
+              - listitem [ref=f26e43]:
+                - strong [ref=f26e44]: Think rigorously; act quickly.
+                - text: We reason from first principles, then act rather than debate.
+              - listitem [ref=f26e45]:
+                - strong [ref=f26e46]: Know yourself and grow.
+                - text: We own our imperfections and seek feedback to grow.
+              - listitem [ref=f26e47]:
+                - strong [ref=f26e48]: Accept reality. Propose solutions.
+                - text: We focus on what can change and bring solutions, not just problems.
+              - listitem [ref=f26e49]:
+                - strong [ref=f26e50]: Be productively ambitious.
+                - text: We take risks for step-change impact, not incremental progress.
+            - paragraph [ref=f26e51]: If they describe how you like to work and they energize you, this could be a great fit.
+            - paragraph [ref=f26e52]:
+              - strong [ref=f26e53]: "Want to learn more? Read and listen:"
+            - paragraph [ref=f26e54]:
+              - text: We are one of
+              - link "Time100’s" [ref=f26e55] [cursor=pointer]:
+                - /url: https://time.com/collection/time100-most-influential-companies/2026/givedirectly/
+              - text: Most Influential Companies of 2026, and our work has been covered by
+              - link "The Economist" [ref=f26e56] [cursor=pointer]:
+                - /url: https://www.economist.com/special-report/2024/01/10/givedirectly-does-what-it-says-on-the-tin
+              - text: ","
+              - link "NPR" [ref=f26e57] [cursor=pointer]:
+                - /url: https://www.npr.org/sections/goatsandsoda/2023/12/07/1217478771/its-one-of-the-biggest-experiments-in-fighting-global-poverty-now-the-results-ar
+              - text: ","
+              - link "TED" [ref=f26e58] [cursor=pointer]:
+                - /url: https://www.ted.com/talks/rory_stewart_to_end_extreme_poverty_give_cash_not_advice
+              - text: ", and"
+              - link "The Washington Post" [ref=f26e59] [cursor=pointer]:
+                - /url: https://www.givedirectly.org/washingtonpost-apr-2024/
+              - text: . We're now preparing to deliver billions of dollars a year to people in extreme poverty, if funding allows.
+              - link "Read our CEO's essay" [ref=f26e60] [cursor=pointer]:
+                - /url: https://www.givedirectly.org/deliver-billions
+              - text: on what that will take.
+          - generic [ref=f26e61]:
+            - paragraph [ref=f26e62]:
+              - strong [ref=f26e63]:
+                - emphasis [ref=f26e64]: You must be based in one of the countries on
+                - emphasis [ref=f26e65]:
+                  - link "this list" [ref=f26e67] [cursor=pointer]:
+                    - /url: https://perfectwiki.page/p/iOeyfUha_9
+                - emphasis [ref=f26e68]: and must overlap with East Africa Time and US Eastern Time (8am-6pm) by at least 3 hours. As an example, 6PM East Africa Time is 11AM US Eastern time in the summer and 10AM in the winter. In practice, if you are in the Eastern US timezone, that means being regularly available for 8AM meetings and some 7AM ones. We know people have commitments like school drop-offs, so you’re encouraged to set a schedule that works for you—as long as there’s sufficient overlap with the team.
+                - emphasis [ref=f26e69]: We are unable to sponsor or take over sponsorship of employment Visas in the U.S. or U.K. at this time.
+            - paragraph [ref=f26e70]:
+              - strong [ref=f26e71]: About this role
+            - paragraph [ref=f26e72]: Technology plays a central role in how GiveDirectly delivers cash—whether that’s identifying recipients in hard-to-reach places, sending payments quickly after disasters, or powering the platforms our donors use to give.
+            - paragraph [ref=f26e73]: "We’re hiring a Senior Software Engineer to help build the systems behind this work. Our engineering team still operates like a startup within GiveDirectly—lean, fast-moving, and high-autonomy. You’ll lean into product thinking, help shape the roadmap, and collaborate closely across disciplines to solve real-world problems. The specific team you’ll join is still being finalized—it could be:"
+            - list [ref=f26e74]:
+              - listitem [ref=f26e75]:
+                - text: Our
+                - strong [ref=f26e76]: Programs Engineering
+                - text: team (getting cash in the hands of people experiencing extreme poverty),
+              - listitem [ref=f26e77]:
+                - text: Our
+                - strong [ref=f26e78]: Fundraising Engineering
+                - text: team (raising more money for recipients), or
+              - listitem [ref=f26e79]:
+                - text: Our
+                - strong [ref=f26e80]: International Rapid Response
+                - text: team (getting cash to disaster-affected communities within 5 days of a crisis—anywhere in the world)
+            - paragraph [ref=f26e81]: "No matter the team, you’ll play a central role in scaling our impact: getting more money, to more people, more efficiently."
+            - paragraph [ref=f26e82]: This is a hands-on role with real ownership. You’ll help shape architecture, ship production-ready code, and work side-by-side with teammates across product, data, and operations. We’re looking for someone excited to wear multiple hats, move quickly, and define what great engineering looks like in a mission-driven org
+            - paragraph [ref=f26e83]:
+              - strong [ref=f26e84]: "Level: Senior Software Engineer"
+            - paragraph [ref=f26e85]:
+              - strong [ref=f26e86]: "Travel Requirement:"
+              - text: Must be able to travel ~1-2 times per year to one of our countries of operation for team retreats or field visits.
+            - paragraph [ref=f26e87]:
+              - strong [ref=f26e88]: "What you’ll do:"
+            - list [ref=f26e89]:
+              - listitem [ref=f26e90]: Design and build scalable, reliable systems that power our core operations—whether that’s donor platforms, systems that deliver payments directly to recipients, or crisis response tools reaching hundreds of thousands of people globally.
+              - listitem [ref=f26e91]: Own end-to-end development of new features and services, from architecture through deployment and monitoring.
+              - listitem [ref=f26e92]: Improve our developer workflows by strengthening CI/CD pipelines, reducing manual steps, and increasing test coverage.
+              - listitem [ref=f26e93]: Collaborate with cross-functional teams (product, ops, data) to understand real-world needs and ship tools that directly support program delivery in the field.
+              - listitem [ref=f26e94]: Debug and resolve production issues across our stack, with a focus on root cause analysis and long-term fixes.
+              - listitem [ref=f26e95]: Advocate for sustainable engineering practices, including testing, documentation, and monitoring
+              - listitem [ref=f26e96]: Help shape our tech roadmap with an eye toward scale, maintainability, and recipient experience
+            - paragraph [ref=f26e97]:
+              - strong [ref=f26e98]: "What you’ll bring:"
+            - list [ref=f26e99]:
+              - listitem [ref=f26e100]:
+                - strong [ref=f26e101]: Exceptional alignment with
+                - link [ref=f26e102] [cursor=pointer]:
+                  - /url: https://www.givedirectly.org/givedirectly-values/
+                  - strong [ref=f26e103]: GiveDirectly Values
+                - text: "and active demonstration of our core competencies: emotional intelligence, problem solving, project management, follow-through, and fostering inclusivity. We welcome and strongly encourage applications from candidates who have personal or professional experience in the low-income and/or historically marginalized communities that we serve."
+              - listitem [ref=f26e104]: "Language Requirement: English"
+              - listitem [ref=f26e105]: 4+ years of industry experience creating production-caliber software and systems
+              - listitem [ref=f26e106]: "Experience with backend architecture: databases, cloud services, APIs"
+              - listitem [ref=f26e107]: Experience building infrastructure to deploy software
+              - listitem [ref=f26e108]: Experience with strongly-typed, object-oriented programming such as Java, C#, Go, etc. and scripting languages such as Python, Ruby, etc.
+              - listitem [ref=f26e109]: High degree of ownership and autonomy - you proactively advocate for ways to improve systems and constantly leave our codebase in a better state than you found it
+              - listitem [ref=f26e110]: Strong analytical skills and communication - able to break down complex problems, describe technical trade-offs, and collaborate with cross-functional partners (e.g. technical program managers, product managers)
+              - listitem [ref=f26e111]: "Bonus: Experience using Python and AWS in a production environment"
+              - listitem [ref=f26e112]: "Bonus: experience with payments/financial software and/or experience with microservice/serverless architecture"
+            - paragraph [ref=f26e113]:
+              - strong [ref=f26e114]: Compensation
+            - paragraph [ref=f26e115]:
+              - text: At GiveDirectly, we strive to pay our employees generously and equitably. We use an accredited third party salary aggregator to calculate what we believe to be competitive pay based on role, location, and cost of living. We also have a no negotiation policy to ensure we are paying staff equitably across roles. Read more about our compensation philosophy
+              - link [ref=f26e116] [cursor=pointer]:
+                - /url: https://drive.google.com/file/d/1onxCdQX_DacG0812Wr99LF6zlMTg7RTP/view?usp=sharing
+                - strong [ref=f26e117]: here
+              - text: .
+            - paragraph [ref=f26e118]: Unless otherwise noted, the benefits stipend may be used to cover benefits or taken as additional taxable income.
+            - heading [level=4] [ref=f26e119]:
+              - strong [ref=f26e120]: United States
+            - list [ref=f26e121]:
+              - listitem [ref=f26e122]:
+                - strong [ref=f26e123]: "Base Salary:"
+                - text: $181,130
+              - listitem [ref=f26e124]:
+                - strong [ref=f26e125]: "Bonus at Target Performance:"
+                - text: 15% (~$27,170, with potential for upside. For reference, with the organization's current performance multiplier, this amount would be ~$31,789 in 2025)
+              - listitem [ref=f26e126]:
+                - strong [ref=f26e127]: "Estimated Total Compensation at Target:"
+                - text: $208,300+
+              - listitem [ref=f26e128]:
+                - strong [ref=f26e129]: "Annual Benefits Stipend:"
+                - text: $21,393
+            - heading [level=4] [ref=f26e130]:
+              - strong [ref=f26e131]: United Kingdom
+            - list [ref=f26e132]:
+              - listitem [ref=f26e133]:
+                - strong [ref=f26e134]: "Base Salary:"
+                - text: £124,370
+              - listitem [ref=f26e135]:
+                - strong [ref=f26e136]: "Bonus at Target Performance:"
+                - text: 15% (~£18,656, with potential for upside. For reference, with the organization's current performance multiplier, this amount would be ~£21,827 in 2025)
+              - listitem [ref=f26e137]:
+                - strong [ref=f26e138]: "Estimated Total Compensation at Target:"
+                - text: £143,026+
+              - listitem [ref=f26e139]:
+                - strong [ref=f26e140]: "Annual Benefits Stipend:"
+                - text: £2,760
+            - heading [level=4] [ref=f26e141]:
+              - strong [ref=f26e142]: Kenya
+            - list [ref=f26e143]:
+              - listitem [ref=f26e144]:
+                - strong [ref=f26e145]: "Base Salary:"
+                - text: $112,350
+              - listitem [ref=f26e146]:
+                - strong [ref=f26e147]: "Bonus at Target Performance:"
+                - text: 15% (~$16,853, with potential for upside. For reference, with the organization's current performance multiplier, this amount would be ~$19,717 in 2025)
+              - listitem [ref=f26e148]:
+                - strong [ref=f26e149]: "Estimated Total Compensation at Target:"
+                - text: $129,203+
+              - listitem [ref=f26e150]:
+                - strong [ref=f26e151]: "Annual Benefits Stipend:"
+                - text: $8,453
+            - paragraph [ref=f26e152]: This role is fully remote, so if you are not based in the US, UK or Kenya, we will share an estimated salary benchmark for the country you are based in during the hiring process.
+            - paragraph [ref=f26e153]:
+              - strong [ref=f26e154]: Why work at GiveDirectly?
+            - paragraph [ref=f26e155]: "At GiveDirectly, we work to ensure that you have everything you need to excel in your role and on your team, including:"
+            - list [ref=f26e156]:
+              - listitem [ref=f26e157]: A positive and supportive team with opportunities for advancement
+              - listitem [ref=f26e158]: A demonstrated commitment to helping all staff develop and grow
+              - listitem [ref=f26e159]: A competitive salary, including bonus
+              - listitem [ref=f26e160]: A robust health benefits plan (exact details will vary by country)
+              - listitem [ref=f26e161]: Unlimited PTO (that we encourage staff to take!)
+              - listitem [ref=f26e162]: Desk allowance and flexible work location
+            - paragraph [ref=f26e163]:
+              - strong [ref=f26e164]: About this specific hiring process
+            - list [ref=f26e165]:
+              - listitem [ref=f26e166]: Take-home coding assignment
+              - listitem [ref=f26e167]: Live Coding (60 mins)
+              - listitem [ref=f26e168]: Systems Design (60 mins)
+              - listitem [ref=f26e169]: Project Deep Dive + Behavioral (60 mins)
+            - paragraph [ref=f26e170]: "*It’s possible that there will be adjustments to this interview process. Any changes will be communicated to you during the process."
+            - paragraph [ref=f26e172]: "#LI-REMOTE"
+          - generic [ref=f26e173]:
+            - paragraph [ref=f26e174]:
+              - strong [ref=f26e175]: Working at GiveDirectly
+            - paragraph [ref=f26e176]: GiveDirectly is an Equal Opportunity Employer. All qualified applicants are considered for employment without regard to the person’s race, color, religion, national origin, sex, sexual orientation, age, marital status, veteran status, disability, or any other characteristic protected by applicable law.
+            - paragraph [ref=f26e177]:
+              - emphasis [ref=f26e178]: "Flagging for US applicants:"
+              - text: We invite you to "
+              - link "Know Your Rights" [ref=f26e179] [cursor=pointer]:
+                - /url: https://app.getguru.com/card/TrxrEknc/US-Federal-Law-on-Workplace-Discrimination
+              - text: "\" as an applicant."
+            - paragraph [ref=f26e180]:
+              - strong [ref=f26e181]: Commitment to Safeguarding
+            - paragraph [ref=f26e182]:
+              - text: As a global organization working with communities to eliminate extreme poverty, GiveDirectly takes the safeguarding of its recipients, staff, and partners seriously. To that end, GiveDirectly is a member of the
+              - link "Misconduct Disclosure Scheme" [ref=f26e184] [cursor=pointer]:
+                - /url: https://misconduct-disclosure-scheme.org/
+              - text: ", and will systematically check with previous employers about any abuse or misconduct related matters involving potential new hires. We may also employ other robust pre-hire screens, including in-depth reference checks, criminal background checks, and sanctions screens."
+            - paragraph [ref=f26e185]: These efforts help us continue to build and maintain trust with the communities we work with, and prevent abuse to our recipients and staff.
+            - paragraph [ref=f26e186]: "**GD is committed to observing all local, national and international laws that protect people and basic human rights of all. GD is committed to a policy of “zero tolerance when it comes to preventing, reporting, or responding to any form of abuse or exploitation.” and expects anyone who works for GD to uphold the protection and safeguarding of our recipients as a priority.**"
+            - paragraph [ref=f26e187]:
+              - strong [ref=f26e188]: Reasonable Accommodations
+            - paragraph [ref=f26e189]: We are committed to fostering an inclusive and accessible work environment. If you require any accommodations during the application or interview process, or to perform the essential functions of the role, please email us at careers@givedirectly.org with the email subject “Accommodation Needed”. We will work with you to ensure reasonable accommodations are made to support your needs.
+            - paragraph [ref=f26e190]:
+              - strong [ref=f26e191]: Want to put your best foot forward on your GiveDirectly application?
+              - generic [ref=f26e192]:
+                - text: Take a look at our
+                - link "Candidate Application Prep Guide" [ref=f26e193] [cursor=pointer]:
+                  - /url: https://drive.google.com/file/d/1JRyU81RnTGHQrw9nHTPw7oe_urTDh9JT/view?usp=sharing
+                - strong [ref=f26e194]: "!"
+            - heading [level=3] [ref=f26e195]:
+              - strong [ref=f26e196]: Referrals
+            - paragraph [ref=f26e197]:
+              - text: Know the right person for this role? Please consider
+              - strong [ref=f26e198]:
+                - link "referring them" [ref=f26e199] [cursor=pointer]:
+                  - /url: https://forms.gle/VpVpmQW7Sw9ryWRbA
+              - text: . We offer a reward of $3,000 for a Senior Manager or above role, and $500 for a Manager role, paid if we end up hiring your referral. Thank you for sending great people our way!
+        - generic [ref=f26e203]:
+          - paragraph [ref=f26e204]: Create a Job Alert
+          - paragraph [ref=f26e205]: Interested in building your career at GiveDirectly? Get future opportunities sent straight to your email.
+          - link "Create alert" [ref=f26e206] [cursor=pointer]:
+            - /url: https://my.greenhouse.io/users/sign_in?job_board=givedirectly&source=job_alert_post
+      - separator [ref=f26e207]
+      - generic [ref=f26e208]:
+        - generic [ref=f26e210]:
+          - heading "Apply for this job" [level=2] [ref=f26e212]
+          - generic [ref=f26e213]:
+            - paragraph [ref=f26e215]: "*"
+            - paragraph [ref=f26e216]: indicates a required field
+        - generic [ref=f26e217]:
+          - generic [ref=f26e218]:
+            - generic [ref=f26e221]:
+              - generic [ref=f26e222]: First Name*
+              - textbox "First Name" [ref=f26e223]
+            - generic [ref=f26e226]:
+              - generic [ref=f26e227]: Last Name*
+              - textbox "Last Name" [ref=f26e228]
+            - generic [ref=f26e231]:
+              - generic [ref=f26e232]: Email*
+              - textbox "Email" [ref=f26e233]
+            - group "Phone" [ref=f26e235]:
+              - generic [ref=f26e239]:
+                - generic [ref=f26e240]: Country*
+                - generic [ref=f26e241]:
+                  - log [ref=f26e243]
+                  - generic [ref=f26e245]:
+                    - combobox "Country" [ref=f26e248]
+                    - button "Toggle flyout" [ref=f26e250] [cursor=pointer]
+                  - textbox [aria-hidden]
+              - generic [ref=f26e255]:
+                - generic [ref=f26e256]: Phone*
+                - textbox "Phone" [ref=f26e258]
+            - generic [ref=f26e259]:
+              - generic [ref=f26e261]:
+                - generic [ref=f26e262]: Location (City)*
+                - generic [ref=f26e263]:
+                  - log [ref=f26e265]
+                  - combobox "Location (City)" [ref=f26e270]
+                  - textbox [aria-hidden]
+              - button "Locate me" [ref=f26e271] [cursor=pointer]
+            - group "Resume/CV*" [ref=f26e273]:
+              - generic [ref=f26e276]:
+                - generic [ref=f26e278]:
+                  - button "Attach" [ref=f26e279] [cursor=pointer]
+                  - generic [ref=f26e280]: Attach
+                  - button "Attach" [ref=f26e281]
+                - button "Dropbox" [ref=f26e283] [cursor=pointer]
+                - button "Google Drive" [ref=f26e285] [cursor=pointer]
+                - generic [ref=f26e287]:
+                  - button "Enter manually" [ref=f26e288] [cursor=pointer]
+                  - generic [ref=f26e289]: Enter manually
+                - paragraph [ref=f26e290]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=f26e291]:
+            - separator [ref=f26e292]
+            - generic [ref=f26e295]:
+              - generic [ref=f26e296]: Where are you currently based? (City, State [if applicable], Country)*
+              - textbox "Where are you currently based? (City, State [if applicable], Country)" [ref=f26e297]
+            - generic [ref=f26e300]:
+              - generic [ref=f26e301]: How did you hear about this opportunity?*
+              - generic [ref=f26e302]:
+                - log [ref=f26e304]
+                - generic [ref=f26e306]:
+                  - generic [ref=f26e307]:
+                    - generic [ref=f26e308]: Select...
+                    - combobox "How did you hear about this opportunity?" [ref=f26e310]
+                  - button "Toggle flyout" [ref=f26e312] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=f26e317]:
+              - generic [ref=f26e318]: Do you know, or are you related to, anyone at GiveDirectly?*
+              - generic [ref=f26e319]:
+                - log [ref=f26e321]
+                - generic [ref=f26e323]:
+                  - generic [ref=f26e324]:
+                    - generic [ref=f26e325]: Select...
+                    - combobox "Do you know, or are you related to, anyone at GiveDirectly?" [ref=f26e327]
+                  - button "Toggle flyout" [ref=f26e329] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=f26e334]:
+              - generic [ref=f26e335]: What specifically about this role—or GiveDirectly’s mission—makes it a fit for you right now? (200 words max)*
+              - textbox "What specifically about this role—or GiveDirectly’s mission—makes it a fit for you right now? (200 words max)" [ref=f26e336]
+            - generic [ref=f26e339]:
+              - generic [ref=f26e340]: Tell us about a technical tool or approach you introduced or strongly supported in a past role. Why did you choose it, and what impact did it have?*
+              - textbox "Tell us about a technical tool or approach you introduced or strongly supported in a past role. Why did you choose it, and what impact did it have?" [ref=f26e341]
+            - generic [ref=f26e344]:
+              - generic [ref=f26e345]: What’s something you disagree with about how most companies build software?*
+              - textbox "What’s something you disagree with about how most companies build software?" [ref=f26e346]
+            - generic [ref=f26e349]:
+              - generic [ref=f26e350]: In 4 sentences or less, how would you explain the pros and cons of a microservices architecture to a non-technical teammate? *
+              - textbox "In 4 sentences or less, how would you explain the pros and cons of a microservices architecture to a non-technical teammate?" [ref=f26e351]
+            - generic [ref=f26e352]:
+              - generic [ref=f26e354]:
+                - generic [ref=f26e355]: "AI Policy for Application: At GiveDirectly, we value authenticity and individuality in the hiring process. While we support using AI tools on the job, we ask that applications reflect your own ideas and personal experiences. We’ve run these prompts through popular LLMs and seen what generic outputs look like; we’re excited to see how your responses stand apart. Please indicate “Yes” if you agree**"
+                - generic [ref=f26e356]:
+                  - log [ref=f26e358]
+                  - generic [ref=f26e360]:
+                    - generic [ref=f26e361]:
+                      - generic [ref=f26e362]: Select...
+                      - 'combobox "AI Policy for Application: At GiveDirectly, we value authenticity and individuality in the hiring process. While we support using AI tools on the job, we ask that applications reflect your own ideas and personal experiences. We’ve run these prompts through popular LLMs and seen what generic outputs look like; we’re excited to see how your responses stand apart. Please indicate “Yes” if you agree*" [ref=f26e364]'
+                    - button "Toggle flyout" [ref=f26e366] [cursor=pointer]
+                  - textbox [aria-hidden]
+              - paragraph [ref=f26e371]: We'd love to hear from you—not AI.
+          - generic [ref=f26e372]:
+            - separator [ref=f26e373]
+            - generic [ref=f26e374]:
+              - heading "Voluntary Self-Identification" [level=2] [ref=f26e375]
+              - paragraph [ref=f26e376]: For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.
+              - paragraph [ref=f26e377]: As set forth in GiveDirectly’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+            - generic [ref=f26e380]:
+              - generic [ref=f26e381]: Gender
+              - generic [ref=f26e382]:
+                - log [ref=f26e384]
+                - generic [ref=f26e386]:
+                  - generic [ref=f26e387]:
+                    - generic [ref=f26e388]: Select...
+                    - combobox "Gender" [ref=f26e390]
+                  - button "Toggle flyout" [ref=f26e392] [cursor=pointer]
+            - generic [ref=f26e395]:
+              - generic [ref=f26e397]:
+                - generic [ref=f26e398]: Are you Hispanic/Latino?
+                - generic [ref=f26e399]:
+                  - log [ref=f26e401]
+                  - generic [ref=f26e403]:
+                    - generic [ref=f26e404]:
+                      - generic [ref=f26e405]: Select...
+                      - combobox "Are you Hispanic/Latino?" [ref=f26e407]
+                    - button "Toggle flyout" [ref=f26e409] [cursor=pointer]
+              - link "Race & Ethnicity Definitions" [ref=f26e412] [cursor=pointer]:
+                - /url: https://job-boards.cdn.greenhouse.io/docs/2023/RaceEthnicityDefinitions.pdf
+            - generic [ref=f26e413]:
+              - paragraph [ref=f26e414]: "If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:"
+              - paragraph [ref=f26e415]: "A \"disabled veteran\" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability."
+              - paragraph [ref=f26e416]: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+              - paragraph [ref=f26e417]: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+              - paragraph [ref=f26e418]: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+            - generic [ref=f26e421]:
+              - generic [ref=f26e422]: Veteran Status
+              - generic [ref=f26e423]:
+                - log [ref=f26e425]
+                - generic [ref=f26e427]:
+                  - generic [ref=f26e428]:
+                    - generic [ref=f26e429]: Select...
+                    - combobox "Veteran Status" [ref=f26e431]
+                  - button "Toggle flyout" [ref=f26e433] [cursor=pointer]
+          - button "Submit application" [ref=f26e437] [cursor=pointer]
+  - contentinfo [ref=f26e438]:
+    - generic [ref=f26e439]:
+      - paragraph [ref=f26e440]: Powered by
+      - link [ref=f26e441] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=f26e442]
+  - iframe [ref=f26e456]:
+    - generic [ref=f28e6]:
+      - text: protected by
+      - strong [ref=f28e7]: reCAPTCHA

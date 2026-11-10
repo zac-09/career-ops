@@ -1,0 +1,113 @@
+- generic [active] [ref=f10e1]:
+  - generic [ref=f10e4]:
+    - link [ref=f10e7] [cursor=pointer]:
+      - /url: /
+    - generic [ref=f10e10]:
+      - generic [ref=f10e12]:
+        - navigation [ref=f10e13]:
+          - list [ref=f10e14]:
+            - listitem [ref=f10e15]:
+              - link "Solution" [ref=f10e16] [cursor=pointer]:
+                - /url: /solution/
+            - listitem [ref=f10e17]:
+              - link "Technology" [ref=f10e18] [cursor=pointer]:
+                - /url: /technology/
+            - listitem [ref=f10e19]:
+              - link [ref=f10e20] [cursor=pointer]:
+                - /url: "#"
+                - text: Resources
+                - generic [ref=f10e21]: 
+            - listitem [ref=f10e22]:
+              - link [ref=f10e23] [cursor=pointer]:
+                - /url: "#"
+                - text: Company
+                - generic [ref=f10e24]: 
+            - listitem [ref=f10e25]:
+              - link "Open Source" [ref=f10e26] [cursor=pointer]:
+                - /url: https://github.com/sequentech/
+        - text:    
+      - link "Request a Demo" [ref=f10e32] [cursor=pointer]:
+        - /url: /request-a-demo/
+      - text: 
+  - main [ref=f10e35]:
+    - generic [ref=f10e37]:
+      - generic [ref=f10e39]:
+        - heading [level=1] [ref=f10e42]:
+          - text: Let’s reshape democracy
+          - strong [ref=f10e43]: together
+        - paragraph [ref=f10e46]: We seek talented, innovative, and professional individuals with a can-do attitude and a passion for building technology that helps shape the future
+      - generic [ref=f10e50]:
+        - heading "Open positions" [level=2] [ref=f10e53]
+        - paragraph [ref=f10e56]: Check out our available positions. We are hiring people from all over the world with the option to work remotely or in our offices in California, Tel Aviv and Madrid.
+        - generic [ref=f10e58]:
+          - generic [ref=f10e64]:
+            - textbox "Search" [ref=f10e66]
+            - generic [ref=f10e68]:
+              - generic:
+                - generic [aria-hidden]: 
+              - combobox [ref=f10e69] [cursor=pointer]:
+                - option "All Departments" [selected]
+                - option "Engineering"
+            - generic [ref=f10e71]:
+              - generic:
+                - generic [aria-hidden]: 
+              - combobox [ref=f10e72] [cursor=pointer]:
+                - option "All Locations" [selected]
+                - option "Globally"
+          - generic [ref=f10e74]:
+            - link "Engineering Senior Fullstack DevOps Engineer Globally" [ref=f10e78] [cursor=pointer]:
+              - /url: /senior-fullstack-devops-engineer/
+              - text: Engineering
+              - generic [ref=f10e79]: Senior Fullstack DevOps Engineer
+              - text: Globally
+            - link "Engineering Senior Fullstack Engineer Globally" [ref=f10e84] [cursor=pointer]:
+              - /url: /senior-fullstack-engineer/
+              - text: Engineering
+              - generic [ref=f10e85]: Senior Fullstack Engineer
+              - text: Globally
+  - generic [ref=f10e87]:
+    - link [ref=f10e92] [cursor=pointer]:
+      - /url: /
+    - generic [ref=f10e94]:
+      - paragraph [ref=f10e97]:
+        - strong [ref=f10e98]: Toronto
+        - text: 357 Bay Street,Toronto, Ontario, M5H 4A6+1 519 495 5574
+      - paragraph [ref=f10e101]:
+        - strong [ref=f10e102]: Los Angeles
+        - text: 730 Arizona Ave, Santa Monica, CA 90401+1 424 231 5513
+      - paragraph [ref=f10e105]:
+        - strong [ref=f10e106]: Tel Aviv
+        - text: Derech Menachem Begin 144, Tel Aviv-Yafo, 6492102 +972 52 662 6618
+      - paragraph [ref=f10e109]:
+        - strong [ref=f10e110]: Madrid
+        - text: Guzman El Bueno street, 1128015 Madrid, Spain +34 634 571 634
+    - generic [ref=f10e112]:
+      - list [ref=f10e115]:
+        - listitem [ref=f10e116]:
+          - generic [ref=f10e117]: © 2026 Sequent Tech Inc
+        - listitem [ref=f10e118]:
+          - link "Privacy Policy" [ref=f10e119] [cursor=pointer]:
+            - /url: /privacy-policy/
+        - listitem [ref=f10e121]:
+          - link "Terms of Service" [ref=f10e122] [cursor=pointer]:
+            - /url: /terms-of-use/
+      - generic [ref=f10e126]:
+        - link "Github " [ref=f10e128] [cursor=pointer]:
+          - /url: https://github.com/sequentech/
+          - generic [ref=f10e129]: Github
+          - generic [ref=f10e130]: 
+        - link "Twitter " [ref=f10e132] [cursor=pointer]:
+          - /url: https://twitter.com/Sequent_Tech
+          - generic [ref=f10e133]: Twitter
+          - generic [ref=f10e134]: 
+        - link "Linkedin " [ref=f10e136] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sequent-tech/
+          - generic [ref=f10e137]: Linkedin
+          - generic [ref=f10e138]: 
+  - generic [ref=f10e141]:
+    - generic [ref=f10e142]: We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All,” you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
+    - generic [ref=f10e143]:
+      - button "Cookie Settings" [ref=f10e144] [cursor=pointer]
+      - button "Accept All" [ref=f10e145] [cursor=pointer]
+  - text: Show more Disabled Disabled Disabled Disabled Disabled
+  - generic [ref=f10e146]: desktop

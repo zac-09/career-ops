@@ -1,0 +1,15 @@
+- generic [ref=f41e3]:
+  - banner [ref=f41e4]:
+    - generic [ref=f41e5]:
+      - link "Remote ATS" [ref=f41e6] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f41e10]:
+        - link "Open roles" [ref=f41e11] [cursor=pointer]:
+          - /url: /
+        - link "Candidate portal" [ref=f41e12] [cursor=pointer]:
+          - /url: /me
+  - status [ref=f41e14]:
+    - generic [ref=f41e15]: Loading
+  - contentinfo [ref=f41e19]:
+    - link "Privacy notice" [ref=f41e20] [cursor=pointer]:
+      - /url: /privacy/applicant-notice

@@ -1,0 +1,19 @@
+- generic [ref=f1e3]:
+  - banner [ref=f1e4]:
+    - link "Remote careers home" [ref=f1e5] [cursor=pointer]:
+      - /url: /
+      - generic [ref=f1e8]: Careers
+    - navigation "Sections" [ref=f1e9]:
+      - link "Open roles" [ref=f1e10] [cursor=pointer]:
+        - /url: /
+      - link "Candidate portal" [ref=f1e12] [cursor=pointer]:
+        - /url: /me
+    - generic [ref=f1e14]:
+      - button "Settings" [ref=f1e15] [cursor=pointer]
+      - link "Sign in" [ref=f1e18] [cursor=pointer]:
+        - /url: /me
+  - status [ref=f1e24]:
+    - generic [ref=f1e25]: Loading
+  - contentinfo [ref=f1e29]:
+    - link "Privacy notice" [ref=f1e30] [cursor=pointer]:
+      - /url: /privacy/applicant-notice

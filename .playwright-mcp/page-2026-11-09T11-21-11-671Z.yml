@@ -1,0 +1,109 @@
+- generic [active] [ref=f64e1]:
+  - generic [ref=f64e2]:
+    - banner [ref=f64e3]:
+      - generic [ref=f64e4]:
+        - link "home" [ref=f64e5] [cursor=pointer]:
+          - /url: /
+        - navigation [ref=f64e10]:
+          - button "Products" [ref=f64e12] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f64e14]: 
+          - button "Company" [ref=f64e16] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f64e18]: 
+          - link "Blog" [ref=f64e19] [cursor=pointer]:
+            - /url: /blog
+          - link "Support" [ref=f64e20] [cursor=pointer]:
+            - /url: https://support.chippercash.com/en/
+          - link "Download" [ref=f64e22] [cursor=pointer]:
+            - /url: "#footer"
+    - main [ref=f64e23]:
+      - generic [ref=f64e27]:
+        - heading "Your Finest Hours Await" [level=1] [ref=f64e28]
+        - paragraph [ref=f64e29]: People are the heart of Chipper. We design products and deliver services that improve people's lives — one transaction at a time.
+      - generic [ref=f64e34]:
+        - generic [ref=f64e35]:
+          - heading "Openings Available" [level=2] [ref=f64e36]
+          - paragraph [ref=f64e37]: More and more people are using Chipper Cash as their preferred way to move money. We see no barriers to the heights we can reach together with you. Join us in building the best experience for moving money across Africa and beyond.
+        - form "Email Form" [ref=f64e40]:
+          - button "All Location" [ref=f64e42] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f64e43]: 
+          - button "All Department" [ref=f64e46] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f64e47]: 
+        - generic [ref=f64e49]:
+          - list [ref=f64e51]:
+            - listitem [ref=f64e52]:
+              - heading "Business & Customer Operations" [level=3] [ref=f64e53]
+          - generic [ref=f64e54]: No items found.
+        - generic [ref=f64e57]:
+          - list [ref=f64e59]:
+            - listitem [ref=f64e60]:
+              - heading "Engineering" [level=3] [ref=f64e61]
+          - generic [ref=f64e62]: No items found.
+        - generic [ref=f64e65]:
+          - list [ref=f64e67]:
+            - listitem [ref=f64e68]:
+              - heading "Finance" [level=3] [ref=f64e69]
+          - generic [ref=f64e70]: No items found.
+        - generic [ref=f64e73]:
+          - list [ref=f64e75]:
+            - listitem [ref=f64e76]:
+              - heading "Legal, Risk and Compliance" [level=3] [ref=f64e77]
+          - list [ref=f64e79]:
+            - listitem [ref=f64e80]:
+              - link [ref=f64e81] [cursor=pointer]:
+                - /url: https://www.chippercash.com/career/risk-and-compliance-officer-associate-rwanda
+                - generic [ref=f64e82]:
+                  - heading "RISK AND COMPLIANCE OFFICER/ASSOCIATE RWANDA" [level=4] [ref=f64e83]
+                  - paragraph [ref=f64e88]: Rwanda
+    - contentinfo [ref=f64e93]:
+      - generic [ref=f64e94]:
+        - generic [ref=f64e95]:
+          - heading "In an instant send support, feed a passion, or strengthen a bond" [level=3] [ref=f64e97]
+          - generic [ref=f64e98]:
+            - link [ref=f64e99] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/chipper-cash/id1353631552
+              - generic [ref=f64e104]:
+                - paragraph [ref=f64e105]: Download on the
+                - paragraph [ref=f64e106]: App Store
+            - link [ref=f64e107] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.chippercash&hl=en_US
+              - generic [ref=f64e114]:
+                - paragraph [ref=f64e115]: Get it on
+                - paragraph [ref=f64e116]: Google Play
+        - generic [ref=f64e122]:
+          - generic [ref=f64e124]:
+            - link "Products" [ref=f64e125] [cursor=pointer]:
+              - /url: /send-and-receive
+            - link "Support" [ref=f64e126] [cursor=pointer]:
+              - /url: https://support.chippercash.com/en/
+            - link "Careers" [ref=f64e127] [cursor=pointer]:
+              - /url: /careers
+            - link "Terms" [ref=f64e128] [cursor=pointer]:
+              - /url: https://support.chippercash.com/en/collections/3289613-legal
+            - link "Privacy Policy" [ref=f64e129] [cursor=pointer]:
+              - /url: https://support.chippercash.com/en/articles/5921096-privacy-policy-united-states
+            - link:
+              - /url: https://support.chippercash.com/en/articles/5920971-terms-of-use-africa-uk
+          - generic [ref=f64e130]:
+            - heading "How Can We help?" [level=4] [ref=f64e131]
+            - generic [ref=f64e132]:
+              - link [ref=f64e133] [cursor=pointer]:
+                - /url: https://support.chippercash.com/
+                - paragraph [ref=f64e136]: Help Docs & FAQs
+              - generic [ref=f64e137]: "|"
+              - generic [ref=f64e138]: Support via In-app Chat
+        - generic [ref=f64e139]:
+          - paragraph [ref=f64e141]: "Copyright © 2025 Critical Ideas, Inc. Voyse Technologies US, Inc. NMLS ID: 2266748"
+          - paragraph [ref=f64e143]: Product availability may vary by market.
+          - generic [ref=f64e144]:
+            - paragraph [ref=f64e145]: "Follow us:"
+            - generic [ref=f64e146]:
+              - link [ref=f64e147] [cursor=pointer]:
+                - /url: https://twitter.com/chippercashapp
+              - link [ref=f64e151] [cursor=pointer]:
+                - /url: https://www.instagram.com/chippercashapp
+              - link [ref=f64e155] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCV8JsFe389TSrTuuXMZS6Ww
+              - link [ref=f64e159] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@chippercashapp
+  - generic:
+    - iframe

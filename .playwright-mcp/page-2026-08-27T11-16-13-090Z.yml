@@ -1,0 +1,54 @@
+- generic [active] [ref=f122e1]:
+  - generic [ref=f122e5]:
+    - generic [ref=f122e7]:
+      - generic [ref=f122e8]:
+        - heading "Senior React Native Developer - Polycentric" [level=2] [ref=f122e9]
+        - generic [ref=f122e10]:
+          - generic [ref=f122e11]: Austin, TX
+          - generic [ref=f122e12]: Software Developer – Polycentric /
+          - generic [ref=f122e13]: Remote or On-Site /
+          - generic [ref=f122e14]: Remote
+      - link "apply for this job" [ref=f122e16] [cursor=pointer]:
+        - /url: https://jobs.lever.co/futo-org/a2933eba-1c7a-4bfe-85db-98b42ced60ca/apply
+    - generic [ref=f122e17]:
+      - generic [ref=f122e19]:
+        - paragraph [ref=f122e20]: Polycentric is an open-source distributed social network that lets users own their identity. The app gives communities a place to gather, post, and converse across a network of independent servers, with no single entity in control of the conversation. Polycentric gives users full sovereignty over their data, identity, and reach.
+        - paragraph [ref=f122e21]: The application is built on a distributed protocol where users choose which servers to interact through. Core features include self-sovereign cryptographic identity, community-centric topic feeds, censorship-resistant publishing, ownership of your own likes and follows, and cross-platform identity linking.
+        - paragraph [ref=f122e22]: We are looking for a Senior React Native Developer to help us with the upcoming launch of Polycentric.
+        - heading "Responsibilities" [level=2] [ref=f122e23]
+        - list [ref=f122e24]:
+          - listitem [ref=f122e25]: Contribute to the development, architecture, and ongoing maintenance of Polycentric's mobile and web applications
+          - listitem [ref=f122e26]: Design and implement new features and product enhancements in collaboration with a distributed team
+          - listitem [ref=f122e27]: Participate in technical discussions, shaping system design and frontend architecture
+          - listitem [ref=f122e28]: Engage with and contribute to the wider open-source community around Polycentric
+        - heading "Qualifications" [level=2] [ref=f122e29]
+        - list [ref=f122e30]:
+          - listitem [ref=f122e31]: 3+ years of experience with React Native in a production environment
+          - listitem [ref=f122e32]: Proven ability to work autonomously in a remote, asynchronous team
+          - listitem [ref=f122e33]: Solid understanding of modern application architecture and state management
+          - listitem [ref=f122e34]: Interest in decentralized systems and emerging technologies
+          - listitem [ref=f122e35]: Familiarity with cryptographic concepts such as signing, verification, and key management
+        - heading "Desirable" [level=2] [ref=f122e36]
+        - list [ref=f122e37]:
+          - listitem [ref=f122e38]: Experience with Rust in production systems
+          - listitem [ref=f122e39]: Knowledge of relational databases (e.g. PostgreSQL) and query optimisation
+          - listitem [ref=f122e40]: Experience with search/indexing technologies (e.g. Elasticsearch, OpenSearch)
+          - listitem [ref=f122e41]: Familiarity with cloud infrastructure and deployment workflows
+        - heading "Location" [level=2] [ref=f122e42]
+        - paragraph [ref=f122e43]: FUTO is based in Austin, Texas. This position can be remote or onsite. We offer a generous relocation assistance stipend.
+        - heading "Benefits" [level=2] [ref=f122e44]
+        - list [ref=f122e45]:
+          - listitem [ref=f122e46]: Medical and dental insurance
+          - listitem [ref=f122e47]: 401k matching
+          - listitem [ref=f122e48]: Bonuses based on company performance
+      - generic [ref=f122e49]: We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+      - link "apply for this job" [ref=f122e52] [cursor=pointer]:
+        - /url: https://jobs.lever.co/futo-org/a2933eba-1c7a-4bfe-85db-98b42ced60ca/apply
+  - generic [ref=f122e54]:
+    - paragraph [ref=f122e55]:
+      - link "FUTO Home Page" [ref=f122e56] [cursor=pointer]:
+        - /url: https://futo.tech
+    - link "Jobs powered by Lever logo" [ref=f122e57] [cursor=pointer]:
+      - /url: https://www.lever.co/job-seeker-support/
+      - generic [ref=f122e58]: Jobs powered by
+      - img "Lever logo" [ref=f122e59]

@@ -1,0 +1,272 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - navigation [ref=e7]:
+        - link "Doist" [ref=e12] [cursor=pointer]:
+          - /url: /
+          - img [ref=e13]
+        - list [ref=e17]:
+          - listitem [ref=e18]:
+            - button "Products" [ref=e19] [cursor=pointer]:
+              - generic: Products
+              - generic:
+                - img
+          - listitem [ref=e20]:
+            - link "About Us" [ref=e21] [cursor=pointer]:
+              - /url: /about-us
+              - generic: About Us
+          - listitem [ref=e22]:
+            - link "Careers" [ref=e23] [cursor=pointer]:
+              - /url: /careers
+              - generic: Careers
+          - listitem [ref=e24]:
+            - link "Team" [ref=e25] [cursor=pointer]:
+              - /url: /team
+              - generic: Team
+          - listitem [ref=e26]:
+            - link "Press" [ref=e27] [cursor=pointer]:
+              - /url: /press
+              - generic: Press
+          - listitem [ref=e28]:
+            - link "How we work" [ref=e29] [cursor=pointer]:
+              - /url: /how-we-work
+              - generic: How we work
+      - button
+    - generic [ref=e31]:
+      - heading "Breaking the status quo to make an impact on humanity" [level=1] [ref=e32]
+      - link "See open roles" [ref=e34] [cursor=pointer]:
+        - /url: "#open-roles"
+        - generic: See open roles
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - paragraph [ref=e37]: Workplace Flexibility Awards 2022
+        - paragraph [ref=e39]: Best Remote Team Culture
+        - paragraph [ref=e40]: By Running Remote
+      - generic [ref=e41]:
+        - paragraph [ref=e42]: Remote Excellence Awards 2024
+        - paragraph [ref=e44]: Excellence in Talent Strategy
+        - paragraph [ref=e45]: By Remote.com
+      - generic [ref=e46]:
+        - paragraph [ref=e47]: Remote Excellence Awards 2024
+        - paragraph [ref=e49]: Excellence in Remote Work Culture
+        - paragraph [ref=e50]: By Remote.com
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - heading "Our apps started as solutions to our own challenges." [level=3] [ref=e55]
+        - heading "Now, they shape the workday for millions worldwide." [level=3] [ref=e56]
+      - generic [ref=e57]:
+        - link "See Todoist" [ref=e58] [cursor=pointer]:
+          - /url: https://www.todoist.com/home?utm_source=doist&utm_medium=referral&utm_campaign=careers
+          - img "Todoist Logo" [ref=e59]:
+            - img [ref=e61]
+        - paragraph [ref=e68]: Millions of people rely on Todoist to declutter their minds so they can focus on their most important goals.
+      - generic [ref=e69]:
+        - link "See Twist" [ref=e70] [cursor=pointer]:
+          - /url: https://twist.com/home?utm_source=doist&utm_medium=referral&utm_campaign=careers
+          - img "Twist logo" [ref=e71]
+        - paragraph [ref=e78]: Thousands of teams depend on Twist to collaborate more productively, transparently and asynchronously.
+    - generic [ref=e79]:
+      - generic [ref=e80]:
+        - heading "Open roles" [level=2] [ref=e81]
+        - generic [ref=e84]:
+          - combobox "Select department to filter" [ref=e85]:
+            - option "All" [selected]
+          - generic:
+            - img
+      - list [ref=e86]:
+        - listitem [ref=e87]:
+          - heading "No open roles" [level=4] [ref=e89]
+    - generic [ref=e92]:
+      - heading "Our transparent application process" [level=2] [ref=e93]
+      - list [ref=e94]:
+        - listitem [ref=e95]:
+          - paragraph [ref=e96]:
+            - strong [ref=e97]: "Submit your application:"
+            - text: Start by filling out the online application and responding to the longer-form questions. We encourage you to explore
+            - link "our blog" [ref=e98] [cursor=pointer]:
+              - /url: /how-we-work/
+            - text: to get a feel for our company, values, and products. We carefully review and respond to every candidate’s application.
+        - listitem [ref=e99]:
+          - paragraph [ref=e100]:
+            - strong [ref=e101]: "Interviews, salary transparency, and task assignment:"
+            - text: If your application moves forward, you’ll hear from us via
+            - link "careers@doist.com" [ref=e102] [cursor=pointer]:
+              - /url: mailto:careers@doist.com
+            - text: to schedule your first interview over Google Meet. At the same time, we’ll share the proposed salary range for the role, calculated using our formula-based compensation model. Salaries are benchmarked to industry data and adjusted for your location, so you can decide early on whether it’s a fit.
+            - text: The rest of the process may include additional interviews and a task assignment, depending on the role. We vary the sequence to fit the scope and team, but you’ll always have a chance to showcase your skills and get a clear picture of the work, the team, and our values.
+        - listitem [ref=e103]:
+          - paragraph [ref=e104]:
+            - strong [ref=e105]: "Reference and background check:"
+            - text: Before we make an offer, we’ll conduct reference checks to better understand how you work and what strengths you bring. We also run background checks as part of our process, both to meet compliance requirements and to help ensure a safe, trusted environment for everyone. We’ll always let you know before either step begins.
+        - listitem [ref=e106]:
+          - paragraph [ref=e107]:
+            - strong [ref=e108]: "Decision:"
+            - text: Once all steps are complete, the hiring committee will make a final decision. If we move forward, you’ll receive an official offer to join the team. Either way, you’ll hear from us via
+            - link "careers@doist.com" [ref=e109] [cursor=pointer]:
+              - /url: mailto:careers@doist.com
+            - text: . We never leave candidates hanging.
+        - listitem [ref=e110]:
+          - paragraph [ref=e111]:
+            - strong [ref=e112]: "Onboarding and mentorship:"
+            - text: Before your first day, you’ll get access to a carefully curated Todoist project that maps out your onboarding journey. You’ll also be paired with a mentor and have the chance to co-work in person with them for a week, wherever they’re based. It’s our way of making sure you feel connected, supported, and set up to thrive.
+    - generic [ref=e113]:
+      - heading "A company that supports your ambitious goals and personal wellbeing" [level=2] [ref=e114]
+      - generic [ref=e115]:
+        - generic [ref=e116]:
+          - heading "The basics" [level=3] [ref=e118]
+          - generic [ref=e119]:
+            - generic [ref=e122]:
+              - heading "Work from anywhere" [level=4] [ref=e123]
+              - paragraph [ref=e124]: Doisters can work from anywhere in the world. We never place restrictions on locations.
+            - generic [ref=e127]:
+              - heading "Design your own schedule" [level=4] [ref=e128]
+              - paragraph [ref=e129]: Work during the time of day that’s best for you. Doisters are encouraged to work 8-hour days and no more than 40 hours/week.
+            - generic [ref=e132]:
+              - heading "Negotiation-free compensation package" [level=4] [ref=e133]
+              - paragraph [ref=e134]: Our formula-based salaries are calculated based on industry-benchmarked skills and geographical location – no stressful negotiation required.
+        - generic [ref=e135]:
+          - heading "Expand your professional skills" [level=3] [ref=e137]
+          - generic [ref=e138]:
+            - generic [ref=e141]:
+              - heading "Continue your education" [level=4] [ref=e142]
+              - paragraph [ref=e143]: You’ll have a recurring budget to spend on attending conferences, taking courses, and purchasing books.
+            - generic [ref=e146]:
+              - heading "Collaborate in-person at retreats" [level=4] [ref=e147]
+              - paragraph [ref=e148]: Our team- and company-wide retreats are unforgettable. The connections that we make in person inspire us throughout the year.
+        - generic [ref=e149]:
+          - heading "Craft your ideal work environment" [level=3] [ref=e151]
+          - generic [ref=e152]:
+            - generic [ref=e155]:
+              - heading "Cozy up at a coworking space" [level=4] [ref=e156]
+              - paragraph [ref=e157]: Find the coworking space that’s right for you and Doist will cover the expense.
+            - generic [ref=e160]:
+              - heading "Subscribe to apps and services" [level=4] [ref=e161]
+              - paragraph [ref=e162]: "You’ll have a monthly budget to spend on services that help you do your job: home internet, work apps, music subscription, etc."
+            - generic [ref=e165]:
+              - heading "Purchase the hardware you need" [level=4] [ref=e166]
+              - paragraph [ref=e167]: Every Doister has access to a recurring budget to spend on work-related equipment.
+        - generic [ref=e168]:
+          - heading "Focus on your wellbeing" [level=3] [ref=e170]
+          - generic [ref=e171]:
+            - generic [ref=e174]:
+              - heading "Recharge with generous time off" [level=4] [ref=e175]
+              - paragraph [ref=e176]: Doisters get 8 weeks (40 days) of PTO per year to use as they wish on vacations and national holidays.
+            - generic [ref=e179]:
+              - heading "Spend time with your new baby" [level=4] [ref=e180]
+              - paragraph [ref=e181]: New parents receive 5 weeks of paid parental leave in addition to 13 weeks of paid pregnancy-related medical leave.
+            - generic [ref=e184]:
+              - heading "Invest in your health and wellness" [level=4] [ref=e185]
+              - paragraph [ref=e186]: Take care of yourself with a monthly budget for things like a gym membership, healthy snacks, massages, health insurance, etc.
+    - generic [ref=e187]:
+      - generic [ref=e188]:
+        - paragraph [ref=e189]: Space to shape your career
+        - paragraph [ref=e190]: We give Doisters space to explore their passions and work with them to craft individualized career paths.
+      - generic [ref=e192]:
+        - button [ref=e193] [cursor=pointer]
+        - generic [ref=e195] [cursor=pointer]:
+          - img "Galina Skovorodnikova portrait" [ref=e197]
+          - generic [ref=e198]:
+            - blockquote [ref=e199]: “ The support I received from Doist and my colleagues was both encouraging and inspiring, helping me stay strong even during difficult times.”
+            - generic [ref=e200]:
+              - paragraph [ref=e201]: Galina Skovorodnikova
+              - paragraph [ref=e202]: Customer Experience Lead
+            - button "Read Galina’s story" [ref=e203]:
+              - paragraph [ref=e204]:
+                - img [ref=e206]
+                - text: Read Galina’s story
+        - generic [ref=e209] [cursor=pointer]:
+          - img "Omar Samuels portrait" [ref=e211]
+          - generic [ref=e212]:
+            - blockquote [ref=e213]: “ Since 2015, Doist has invested in my growth journey and has given me the freedom and opportunity to blaze new trails.”
+            - generic [ref=e214]:
+              - paragraph [ref=e215]: Omar Samuels
+              - paragraph [ref=e216]: Support Developer
+            - button "Read Omar’s story" [ref=e217]:
+              - paragraph [ref=e218]:
+                - img [ref=e220]
+                - text: Read Omar’s story
+        - list [ref=e222]:
+          - navigation [ref=e223]:
+            - tablist [ref=e224]:
+              - tab "Omar Samuels's story" [selected] [ref=e226] [cursor=pointer]
+              - tab "Galina Skovorodnikova's story" [ref=e228] [cursor=pointer]
+              - tab "Chase Warrington's story" [ref=e230] [cursor=pointer]
+    - generic [ref=e237]:
+      - paragraph [ref=e238]: Ready to build the future of work
+      - paragraph [ref=e239]: Browse career opportunities and sign up for new job openings.
+      - link "See open roles" [ref=e241] [cursor=pointer]:
+        - /url: /careers
+        - generic: See open roles
+    - contentinfo [ref=e242]:
+      - generic [ref=e243]:
+        - generic [ref=e244]:
+          - link "Homepage" [ref=e245] [cursor=pointer]:
+            - /url: /
+            - img [ref=e246]
+          - paragraph [ref=e248]: Empowering people with simple yet powerful tools.
+          - list [ref=e250]:
+            - listitem [ref=e251]:
+              - link "Follow on Twitter" [ref=e252] [cursor=pointer]:
+                - /url: https://twitter.com/doist
+                - generic:
+                  - img
+            - listitem [ref=e253]:
+              - link "Watch on YouTube" [ref=e254] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/DoistApps
+                - generic:
+                  - img
+            - listitem [ref=e255]:
+              - link "Follow on Instagram" [ref=e256] [cursor=pointer]:
+                - /url: https://www.instagram.com/todoistofficial/
+                - generic:
+                  - img
+            - listitem [ref=e257]:
+              - link "Follow on LinkedIn" [ref=e258] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/doist/
+                - generic:
+                  - img
+        - generic [ref=e259]:
+          - generic [ref=e260]:
+            - paragraph [ref=e261]: Products
+            - list [ref=e262]:
+              - listitem [ref=e263]:
+                - link "Todoist" [ref=e264] [cursor=pointer]:
+                  - /url: https://www.todoist.com
+                  - generic: Todoist
+              - listitem [ref=e265]:
+                - link "Twist" [ref=e266] [cursor=pointer]:
+                  - /url: https://twist.com
+                  - generic: Twist
+          - generic [ref=e267]:
+            - paragraph [ref=e268]: Company
+            - list [ref=e269]:
+              - listitem [ref=e270]:
+                - link "About Us" [ref=e271] [cursor=pointer]:
+                  - /url: /about-us
+                  - generic: About Us
+              - listitem [ref=e272]:
+                - link "Careers" [ref=e273] [cursor=pointer]:
+                  - /url: /careers
+                  - generic: Careers
+              - listitem [ref=e274]:
+                - link "Team" [ref=e275] [cursor=pointer]:
+                  - /url: /team
+                  - generic: Team
+              - listitem [ref=e276]:
+                - link "Press" [ref=e277] [cursor=pointer]:
+                  - /url: /press
+                  - generic: Press
+              - listitem [ref=e278]:
+                - link "How we work" [ref=e279] [cursor=pointer]:
+                  - /url: /how-we-work
+                  - generic: How we work
+      - generic [ref=e282]:
+        - list [ref=e283]:
+          - listitem [ref=e284]:
+            - link "Privacy |" [ref=e285] [cursor=pointer]:
+              - /url: /privacy
+          - listitem [ref=e286]:
+            - link "Terms" [ref=e287] [cursor=pointer]:
+              - /url: /terms-of-service
+        - paragraph [ref=e288]: © Doist Inc.
+  - alert [ref=e289]

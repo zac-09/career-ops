@@ -1,0 +1,220 @@
+- generic [active] [ref=f44e1]:
+  - main [ref=f44e2]:
+    - generic [ref=f44e3]:
+      - generic [ref=f44e4]:
+        - generic [ref=f44e5]: New
+        - generic [ref=f44e8]:
+          - generic [ref=f44e9]:
+            - heading "Senior Software Engineer" [level=1] [ref=f44e10]
+            - generic [ref=f44e11]: Africa
+          - button "Apply" [ref=f44e15] [cursor=pointer]
+        - generic [ref=f44e17]:
+          - heading [level=2] [ref=f44e18]
+          - heading [level=2] [ref=f44e19]:
+            - strong [ref=f44e20]: About Sand
+          - paragraph [ref=f44e21]:
+            - link "Sand Technologies" [ref=f44e22] [cursor=pointer]:
+              - /url: https://www.sandtech.com/
+            - text: is a global Physical AI company using data and AI to make critical industries work better. We partner with governments, cities and enterprises to improve how essential systems operate across healthcare, water, energy, telecommunications and infrastructure.
+          - paragraph [ref=f44e23]: Our work delivers proven real-world impact. We have built AI systems that help manage London’s water supply, supported telecom network planning across hundreds of cities, and developed digital healthcare platforms serving tens of millions of people across Africa. From intelligent command centers to AI-powered infrastructure platforms, we help organizations sense, analyze and act in complex environments.
+          - paragraph [ref=f44e24]: Our people are ambitious, curious and relentlessly practical. Our teams work alongside clients in the field, solving hard problems and deploying solutions that last. With colleagues across Africa, Europe, the UK and the US, we operate across the full stack - from research and engineering to deployment and capability building.
+          - paragraph [ref=f44e25]: "Our mission is simple: to harness AI to solve humanity’s most pressing challenges."
+          - heading [level=2] [ref=f44e26]:
+            - strong [ref=f44e27]: About the role
+          - paragraph [ref=f44e28]: We are seeking an experienced Senior Software Engineer to join our Telco Product team. This is a permanent role. You will be expected to build and maintain production grade code from the backend.
+          - paragraph [ref=f44e29]: "Our delivery squads run deliberately small software engineering teams, so this role must be genuinely full-stack and self-sufficient: designing and building backend engineering tasks within our product solution. You will take direction from the Technical Lead and turn it into shipped, production-quality features, while setting the engineering standards mid-level colleagues build on."
+          - paragraph [ref=f44e30]: We work in cross functional teams so our Data Scientists and Data Engineers handle model creation and data pipelines, you will be expected to help in the deployment of these models and data pipelines and also build secure, scalable and quality code in our product solution components.
+          - heading [level=2] [ref=f44e31]:
+            - strong [ref=f44e32]: What you’ll do
+          - list [ref=f44e33]:
+            - listitem [ref=f44e34]:
+              - strong [ref=f44e35]: "Build solutions end to end:"
+              - text: Design, build and maintain the back-end services(Integration to APIs, build python modules etc.).
+            - listitem [ref=f44e36]:
+              - strong [ref=f44e37]: "Own engineering standards:"
+              - text: Set up or main CI/CD pipelines, environments, testing, code review and observability on AWS, and establish practices a small cross-functional squad can sustain at pace.
+            - listitem [ref=f44e38]:
+              - strong [ref=f44e39]: "Integrate with AI and data:"
+              - text: Collaborate closely with data engineering and data science specialists on integration points, consuming their pipelines, integrating AI/model outputs into the product and deploying these models or pipelines.
+            - listitem [ref=f44e40]:
+              - strong [ref=f44e41]: "Deploy and run on AWS:"
+              - text: Build and deploy code on AWS (e.g. ECS, containers etc.), ensuring availability, security and low-latency performance.
+            - listitem [ref=f44e42]:
+              - strong [ref=f44e43]: "Ship and support:"
+              - text: Translate the Technical Lead’s decisions into working software; support end-to-end testing and the user acceptance testing phase.
+            - listitem [ref=f44e44]:
+              - strong [ref=f44e45]: "Mentor:"
+              - text: Guide mid-level engineers, fostering continuous technical improvement in small teams.
+          - heading [level=2] [ref=f44e46]:
+            - strong [ref=f44e47]: Who you are
+          - list [ref=f44e48]:
+            - listitem [ref=f44e49]: 5+ years of software engineering experience with a proven track record of deploying robust, production software – ideally with exposure to telco or other critical/smart-infrastructure environments.
+            - listitem [ref=f44e50]: Full-stack with a strong focus on backend engineering (Python, Go, Ruby, Node or C#), DevOps and end to end solution design.
+            - listitem [ref=f44e51]: Production experience deploying and running software on a major cloud platform – AWS strongly preferred (Managed AWS Airflow, ECS, containers).
+            - listitem [ref=f44e52]: Strong software design skills, with a solid grasp of authentication/security and integration with data services.
+            - listitem [ref=f44e53]: Experience with automated testing (unit, component and BDD testing) and CI/CD.
+            - listitem [ref=f44e54]: Able to work autonomously, own features end to end in a small team, and communicate clearly with distributed colleagues and client-side stakeholders in regulated environments and the ability to estimate features with a high degree of confidence.
+          - heading [level=2] [ref=f44e55]:
+            - strong [ref=f44e56]: Desirable
+          - list [ref=f44e57]:
+            - listitem [ref=f44e58]: Experience with building reusable software modules preferably in Python.
+            - listitem [ref=f44e59]: Experience with orchestration tools such as Airflow etc.
+            - listitem [ref=f44e60]: Experience with MLOps.
+            - listitem [ref=f44e61]: Experience mentoring mid-level or junior engineers.
+            - listitem [ref=f44e62]: B.Sc. or M.Sc. in Computer Science, Software Engineering or a related field.
+          - heading [level=2] [ref=f44e63]:
+            - strong [ref=f44e64]: How we work
+          - paragraph [ref=f44e65]: Due to the highly collaborative and internationally distributed nature of our work, successful candidates must be comfortable operating in small teams while contributing to larger, globally coordinated efforts. A strong sense of ownership, self-motivation and discipline in maintaining clear and consistent communication through virtual collaboration tools and video conferencing is essential.
+        - generic [ref=f44e69]:
+          - paragraph [ref=f44e70]: Create a Job Alert
+          - paragraph [ref=f44e71]: Interested in building your career at Sand Tech Holdings Limited? Get future opportunities sent straight to your email.
+          - button "Create alert" [ref=f44e72] [cursor=pointer]
+      - separator [ref=f44e73]
+      - generic [ref=f44e74]:
+        - generic [ref=f44e75]:
+          - generic [ref=f44e76]:
+            - heading "Apply for this job" [level=2] [ref=f44e78]
+            - generic [ref=f44e79]:
+              - paragraph [ref=f44e81]: "*"
+              - paragraph [ref=f44e82]: indicates a required field
+          - button "Autofill my application" [ref=f44e85] [cursor=pointer]
+        - generic [ref=f44e86]:
+          - generic [ref=f44e87]:
+            - generic [ref=f44e90]:
+              - generic [ref=f44e91]: First Name*
+              - textbox "First Name" [ref=f44e92]
+            - generic [ref=f44e95]:
+              - generic [ref=f44e96]: Last Name*
+              - textbox "Last Name" [ref=f44e97]
+            - generic [ref=f44e100]:
+              - generic [ref=f44e101]: Preferred First Name
+              - textbox "Preferred First Name" [ref=f44e102]
+            - generic [ref=f44e105]:
+              - generic [ref=f44e106]: Email*
+              - textbox "Email" [ref=f44e107]
+            - group "Phone" [ref=f44e109]:
+              - generic [ref=f44e113]:
+                - generic [ref=f44e114]: Country*
+                - generic [ref=f44e115]:
+                  - log [ref=f44e117]
+                  - generic [ref=f44e119]:
+                    - combobox "Country" [ref=f44e122]
+                    - button "Toggle flyout" [ref=f44e124] [cursor=pointer]
+                  - textbox [aria-hidden]
+              - generic [ref=f44e129]:
+                - generic [ref=f44e130]: Phone*
+                - textbox "Phone" [ref=f44e131]
+            - generic [ref=f44e132]:
+              - generic [ref=f44e134]:
+                - generic [ref=f44e135]: Location (City)*
+                - generic [ref=f44e136]:
+                  - log [ref=f44e138]
+                  - combobox "Location (City)" [ref=f44e143]
+                  - textbox [aria-hidden]
+              - button "Locate me" [ref=f44e144] [cursor=pointer]
+            - group "Resume/CV*" [ref=f44e146]:
+              - generic [ref=f44e149]:
+                - generic [ref=f44e151]:
+                  - button "Attach" [ref=f44e152] [cursor=pointer]
+                  - generic [ref=f44e153]: Attach
+                  - button "Attach" [ref=f44e154]
+                - button "Dropbox" [ref=f44e156] [cursor=pointer]
+                - button "Google Drive" [ref=f44e158] [cursor=pointer]
+                - generic [ref=f44e160]:
+                  - button "Enter manually" [ref=f44e161] [cursor=pointer]
+                  - generic [ref=f44e162]: Enter manually
+                - paragraph [ref=f44e163]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=f44e165]:
+              - generic [ref=f44e168]:
+                - generic [ref=f44e170]:
+                  - button "Attach" [ref=f44e171] [cursor=pointer]
+                  - generic [ref=f44e172]: Attach
+                  - button "Attach" [ref=f44e173]
+                - button "Dropbox" [ref=f44e175] [cursor=pointer]
+                - button "Google Drive" [ref=f44e177] [cursor=pointer]
+                - generic [ref=f44e179]:
+                  - button "Enter manually" [ref=f44e180] [cursor=pointer]
+                  - generic [ref=f44e181]: Enter manually
+                - paragraph [ref=f44e182]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=f44e183]:
+            - separator [ref=f44e184]
+            - generic [ref=f44e185]:
+              - generic [ref=f44e187]:
+                - generic [ref=f44e188]: What interests and excites you about joining Sand?*
+                - textbox "What interests and excites you about joining Sand?" [ref=f44e189]
+              - paragraph [ref=f44e192]: (max 200 words)
+            - generic [ref=f44e195]:
+              - generic [ref=f44e196]: Having read more about the role and what we do at Sand, what part of it feels most aligned with what you’re great at today, and what part would stretch you most? Please ground your answer in your own experience.*
+              - textbox "Having read more about the role and what we do at Sand, what part of it feels most aligned with what you’re great at today, and what part would stretch you most? Please ground your answer in your own experience." [ref=f44e197]
+            - generic [ref=f44e200]:
+              - generic [ref=f44e201]: Country of Origin*
+              - textbox "Country of Origin" [ref=f44e202]
+            - generic [ref=f44e205]:
+              - generic [ref=f44e206]: Country of Residence *
+              - textbox "Country of Residence" [ref=f44e207]
+            - generic [ref=f44e210]:
+              - generic [ref=f44e211]: Do you require visa sponsorship to work in your country of residence?*
+              - generic [ref=f44e212]:
+                - log [ref=f44e214]
+                - generic [ref=f44e216]:
+                  - generic [ref=f44e217]:
+                    - generic [ref=f44e218]: Select...
+                    - combobox "Do you require visa sponsorship to work in your country of residence?" [ref=f44e220]
+                  - button "Toggle flyout" [ref=f44e222] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=f44e227]:
+              - generic [ref=f44e228]: What are your base annual salary expectations (in USD)?*
+              - generic [ref=f44e229]:
+                - log [ref=f44e231]
+                - generic [ref=f44e233]:
+                  - generic [ref=f44e234]:
+                    - generic [ref=f44e235]: Select...
+                    - combobox "What are your base annual salary expectations (in USD)?" [ref=f44e237]
+                  - button "Toggle flyout" [ref=f44e239] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=f44e244]:
+              - generic [ref=f44e245]: When would you be able to join us/ what is your notice period?*
+              - textbox "When would you be able to join us/ what is your notice period?" [ref=f44e246]
+            - generic [ref=f44e249]:
+              - generic [ref=f44e250]: Are you able to travel to US client sites when needed?*
+              - generic [ref=f44e251]:
+                - log [ref=f44e253]
+                - generic [ref=f44e255]:
+                  - generic [ref=f44e256]:
+                    - generic [ref=f44e257]: Select...
+                    - combobox "Are you able to travel to US client sites when needed?" [ref=f44e259]
+                  - button "Toggle flyout" [ref=f44e261] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=f44e266]:
+              - generic [ref=f44e267]: Gender*
+              - generic [ref=f44e268]:
+                - log [ref=f44e270]
+                - generic [ref=f44e272]:
+                  - generic [ref=f44e273]:
+                    - generic [ref=f44e274]: Select...
+                    - combobox "Gender" [ref=f44e276]
+                  - button "Toggle flyout" [ref=f44e278] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=f44e283]:
+              - generic [ref=f44e284]: How did you hear about the role?*
+              - generic [ref=f44e285]:
+                - log [ref=f44e287]
+                - generic [ref=f44e289]:
+                  - generic [ref=f44e290]:
+                    - generic [ref=f44e291]: Select...
+                    - combobox "How did you hear about the role?" [ref=f44e293]
+                  - button "Toggle flyout" [ref=f44e295] [cursor=pointer]
+                - textbox [aria-hidden]
+            - generic [ref=f44e300]:
+              - generic [ref=f44e301]: If you selected other, Sand Staff or Media, please specify
+              - textbox "If you selected other, Sand Staff or Media, please specify" [ref=f44e302]
+            - generic [ref=f44e305]:
+              - generic [ref=f44e306]: LinkedIn Profile*
+              - textbox "LinkedIn Profile" [ref=f44e307]
+          - button "Submit application" [ref=f44e309] [cursor=pointer]
+  - contentinfo [ref=f44e310]:
+    - generic [ref=f44e311]:
+      - paragraph [ref=f44e312]: Powered by
+      - link [ref=f44e313] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=f44e314]

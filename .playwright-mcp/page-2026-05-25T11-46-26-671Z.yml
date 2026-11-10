@@ -1,0 +1,50 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner "Main" [ref=e3]:
+      - generic [ref=e5]:
+        - link "Resend" [ref=e8] [cursor=pointer]:
+          - /url: /home
+          - img "Resend" [ref=e9]
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - button "Features" [ref=e14]:
+              - text: Features
+              - img [ref=e15]
+          - listitem [ref=e17]:
+            - button "Company" [ref=e18]:
+              - text: Company
+              - img [ref=e19]
+          - listitem [ref=e21]:
+            - button "Resources" [ref=e22]:
+              - text: Resources
+              - img [ref=e23]
+          - listitem [ref=e25]:
+            - button "Help" [ref=e26]:
+              - text: Help
+              - img [ref=e27]
+          - listitem [ref=e29]:
+            - button "Docs" [ref=e30]:
+              - text: Docs
+              - img [ref=e31]
+          - listitem [ref=e33]:
+            - button "AI" [ref=e34]:
+              - text: AI
+              - img [ref=e35]
+          - listitem [ref=e37]:
+            - link "Pricing" [ref=e38] [cursor=pointer]:
+              - /url: /pricing
+        - generic [ref=e39]:
+          - link "Log in" [ref=e40] [cursor=pointer]:
+            - /url: /login
+          - link "Get started" [ref=e41] [cursor=pointer]:
+            - /url: /signup
+    - main [ref=e42]:
+      - img "404 Not Found" [ref=e43]
+      - 'heading "404: Not Found" [level=1] [ref=e44]'
+      - paragraph [ref=e46]:
+        - text: This page does not exist.
+        - text: Please check the URL and try again
+      - link "Go back home" [ref=e47] [cursor=pointer]:
+        - /url: /
+  - region "Notifications alt+T"
+  - alert [ref=e48]

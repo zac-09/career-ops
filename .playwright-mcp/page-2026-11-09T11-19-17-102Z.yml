@@ -1,0 +1,185 @@
+- generic [active] [ref=f5e1]:
+  - banner [ref=f5e2]:
+    - navigation "Logo menu" [ref=f5e3]:
+      - link "Fly App performance optimization" [ref=f5e4] [cursor=pointer]:
+        - /url: /
+        - img "Fly App performance optimization"
+      - link "Jobs" [ref=f5e5] [cursor=pointer]:
+        - /url: /jobs/
+        - img "Jobs"
+    - link [ref=f5e7] [cursor=pointer]:
+      - /url: https://docs.fly.io/about/brand
+      - strong [ref=f5e9]: Need a Logo?
+      - generic [ref=f5e10]: View Our Brand Assets
+    - navigation "Main menu" [ref=f5e13]:
+      - generic [ref=f5e14]:
+        - generic [ref=f5e15] [cursor=pointer]:
+          - term [ref=f5e16]: Products
+          - definition:
+            - generic:
+              - generic: Products
+              - link "Machines":
+                - /url: /machines/
+              - link "Sprites":
+                - /url: /sprites/
+              - link "Managed Postgres":
+                - /url: /mpg/
+            - generic:
+              - generic: Features
+              - link "Private Networking":
+                - /url: https://docs.fly.io/networking
+              - link "Autoscaling":
+                - /url: https://docs.fly.io/reference/autoscaling
+              - link "Zero Downtime Deploys":
+                - /url: https://docs.fly.io/blueprints/seamless-deployments
+              - link "Granular Routing":
+                - /url: https://docs.fly.io/networking/dynamic-request-routing
+              - link "Monitoring":
+                - /url: https://docs.fly.io/monitoring
+        - link "Docs" [ref=f5e17] [cursor=pointer]:
+          - /url: https://docs.fly.io
+        - link "Customers" [ref=f5e18] [cursor=pointer]:
+          - /url: /customer-stories/
+        - link "Pricing" [ref=f5e19] [cursor=pointer]:
+          - /url: /pricing/
+        - generic [ref=f5e20] [cursor=pointer]:
+          - term [ref=f5e21]: Resources
+          - definition:
+            - link "Blog":
+              - /url: /blog/
+            - link "Infra Log":
+              - /url: /infra-log/
+            - link "Toolbox Turnout":
+              - /url: /toolbox-turnout/
+            - link "Phoenix Files":
+              - /url: /phoenix-files/
+            - link "Laravel Bytes":
+              - /url: /laravel-bytes/
+            - link "Ruby Dispatch":
+              - /url: /ruby-dispatch/
+            - link "Django Beats":
+              - /url: /django-beats/
+            - link "JavaScript Journal":
+              - /url: /javascript-journal/
+            - link "Changelog":
+              - /url: /changelog
+            - link "Status":
+              - /url: https://status.flyio.net/
+        - link "Community" [ref=f5e22] [cursor=pointer]:
+          - /url: https://community.fly.io/
+      - generic [ref=f5e23]:
+        - link "Log In" [ref=f5e24] [cursor=pointer]:
+          - /url: https://fly.io/app/sign-in/
+        - link "Sign Up" [ref=f5e25] [cursor=pointer]:
+          - /url: https://fly.io/app/sign-up/
+        - link "RSS Feed" [ref=f5e26] [cursor=pointer]:
+          - /url: /jobs/feed.xml
+  - main [ref=f5e28]:
+    - generic [ref=f5e31]:
+      - generic [ref=f5e32]:
+        - heading "Join Our Team" [level=1] [ref=f5e33]
+        - paragraph [ref=f5e34]: Want to work on super fun problems with (arguably) likable people? Then you’ve come to the right place.
+      - generic [ref=f5e35]:
+        - paragraph [ref=f5e36]: "Fly.io is a fully distributed global team, and we love that. We offer a bunch of benefits and perks designed to support our diverse team:"
+        - list [ref=f5e37]:
+          - listitem [ref=f5e38]: A compensation structure that pays the same, no matter where you live
+          - listitem [ref=f5e42]: Unlimited PTO, because we’re all adults and get our work done
+          - listitem [ref=f5e46]: Professional development, work from home, coffee and coworking stipends to support you doing your best work
+          - listitem [ref=f5e50]: Special Medical reimbursement should you ever need to travel to access basic reproductive health or gender affirming care
+    - generic [ref=f5e55]:
+      - article [ref=f5e56]:
+        - generic [ref=f5e57]:
+          - term [ref=f5e58]: Position title
+          - definition [ref=f5e59]: Fullstack Engineer
+          - term [ref=f5e60]: Work From
+          - definition [ref=f5e61]:
+            - generic [ref=f5e62]: Remote
+        - paragraph [ref=f5e63]: Every other engineering team at Fly owns a vertical and sees its own slice of the customer. The Fullstack team sees the path the customer actually walks across all of them.
+        - link "Read more" [ref=f5e65] [cursor=pointer]:
+          - /url: /jobs/fullstack-engineer/
+      - article [ref=f5e67]:
+        - generic [ref=f5e68]:
+          - term [ref=f5e69]: Position title
+          - definition [ref=f5e70]: Infrastructure Operations Engineer
+          - term [ref=f5e71]: Work From
+          - definition [ref=f5e72]:
+            - generic [ref=f5e73]: Remote
+        - paragraph [ref=f5e74]: We run customer apps on our own hardware in data centers around the globe. Keeping that fleet healthy, growing, and ahead of demand is the job of the infrastructure operations team.
+        - link "Read more" [ref=f5e76] [cursor=pointer]:
+          - /url: /jobs/infra-engineer/
+      - article [ref=f5e78]:
+        - generic [ref=f5e79]:
+          - term [ref=f5e80]: Position title
+          - definition [ref=f5e81]: "Networking Engineer: Proxy and Corrosion"
+          - term [ref=f5e82]: Work From
+          - definition [ref=f5e83]:
+            - generic [ref=f5e84]: Remote
+        - paragraph [ref=f5e85]: Agent workloads churn machines fast, and the routing state our proxy depends on changes often. That's where the interesting engineering is.
+        - link "Read more" [ref=f5e87] [cursor=pointer]:
+          - /url: /jobs/networking-engineer/
+      - article [ref=f5e89]:
+        - generic [ref=f5e90]:
+          - term [ref=f5e91]: Position title
+          - definition [ref=f5e92]: Platform Security Engineer
+          - term [ref=f5e93]: Work From
+          - definition [ref=f5e94]:
+            - generic [ref=f5e95]: Remote (US only)
+        - paragraph [ref=f5e96]: Isolation is the product. Harden the boundary between customer workloads and our platform, and plan for the day a KVM guest-to-host escape drops.
+        - link "Read more" [ref=f5e98] [cursor=pointer]:
+          - /url: /jobs/platform-security-engineer/
+  - contentinfo [ref=f5e100]:
+    - generic [ref=f5e101]:
+      - link "Fly App performance optimization" [ref=f5e102] [cursor=pointer]:
+        - /url: /
+        - img "Fly App performance optimization"
+      - generic [ref=f5e103]:
+        - generic [ref=f5e104]:
+          - term [ref=f5e105]: Company
+          - definition [ref=f5e106]:
+            - link "About" [ref=f5e107] [cursor=pointer]:
+              - /url: /about/
+            - link "Pricing" [ref=f5e108] [cursor=pointer]:
+              - /url: /pricing/
+            - link "Jobs" [ref=f5e109] [cursor=pointer]:
+              - /url: /jobs/
+            - link "News" [ref=f5e110] [cursor=pointer]:
+              - /url: /news/
+        - generic [ref=f5e111]:
+          - term [ref=f5e112]: Articles
+          - definition [ref=f5e113]:
+            - link "Blog" [ref=f5e114] [cursor=pointer]:
+              - /url: /blog/
+            - link "Infra Log" [ref=f5e115] [cursor=pointer]:
+              - /url: /infra-log/
+        - generic [ref=f5e116]:
+          - term [ref=f5e117]: Resources
+          - definition [ref=f5e118]:
+            - link "Docs" [ref=f5e119] [cursor=pointer]:
+              - /url: https://docs.fly.io
+            - link "Support" [ref=f5e120] [cursor=pointer]:
+              - /url: https://docs.fly.io/about/support
+            - link "Support Metrics" [ref=f5e121] [cursor=pointer]:
+              - /url: /support/
+            - link "Status" [ref=f5e122] [cursor=pointer]:
+              - /url: https://status.flyio.net/
+        - generic [ref=f5e123]:
+          - term [ref=f5e124]: Contact
+          - definition [ref=f5e125]:
+            - link "GitHub" [ref=f5e126] [cursor=pointer]:
+              - /url: https://github.com/superfly/
+            - link "Twitter" [ref=f5e127] [cursor=pointer]:
+              - /url: https://twitter.com/flydotio
+            - link "Community" [ref=f5e128] [cursor=pointer]:
+              - /url: https://community.fly.io/
+        - generic [ref=f5e129]:
+          - term [ref=f5e130]: Legal
+          - definition [ref=f5e131]:
+            - link "Security" [ref=f5e132] [cursor=pointer]:
+              - /url: https://docs.fly.io/security
+            - link "Privacy policy" [ref=f5e133] [cursor=pointer]:
+              - /url: /legal/privacy-policy/
+            - link "Terms of service" [ref=f5e134] [cursor=pointer]:
+              - /url: /legal/terms-of-service/
+            - link "Acceptable Use Policy" [ref=f5e135] [cursor=pointer]:
+              - /url: /legal/acceptable-use-policy/
+    - paragraph [ref=f5e136]: Copyright © 2026 Fly.io

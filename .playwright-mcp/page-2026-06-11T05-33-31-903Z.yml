@@ -1,0 +1,208 @@
+- generic [ref=e2]:
+  - link "Skip to content" [ref=e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e5]:
+    - generic [ref=e10]:
+      - link "Bitfinex logo Homepage" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - img "Bitfinex logo" [ref=e13]
+        - generic [ref=e14]: Homepage
+      - navigation [ref=e16]:
+        - list [ref=e17]:
+          - listitem [ref=e18]:
+            - link "linkedin" [ref=e19] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/bitfinex/
+              - generic:
+                - img
+          - listitem [ref=e20]:
+            - link "facebook" [ref=e21] [cursor=pointer]:
+              - /url: https://www.facebook.com/bitfinex
+              - generic:
+                - img
+          - listitem [ref=e22]:
+            - link "twitter" [ref=e23] [cursor=pointer]:
+              - /url: https://twitter.com/bitfinex
+              - generic:
+                - img
+          - listitem [ref=e24]:
+            - link "instagram" [ref=e25] [cursor=pointer]:
+              - /url: https://www.instagram.com/bitfinex
+              - generic:
+                - img
+          - listitem [ref=e26]:
+            - link "Company website" [ref=e28] [cursor=pointer]:
+              - /url: https://www.bitfinex.com
+    - main [ref=e29]:
+      - generic [ref=e39]:
+        - heading "Senior Backend Developer - Node.js (Fully Remote, Worldwide)" [level=1] [ref=e40]
+        - list [ref=e41]:
+          - listitem [ref=e42]:
+            - generic [ref=e43]:
+              - generic:
+                - img
+            - text: Remote
+          - listitem [ref=e44]:
+            - generic [ref=e45]:
+              - generic:
+                - img
+            - text: Engineering
+      - generic [ref=e54]:
+        - tablist [ref=e57]:
+          - tab "Job details" [selected] [ref=e58] [cursor=pointer]
+          - tab "Apply" [ref=e59] [cursor=pointer]
+        - generic [ref=e60]:
+          - tabpanel "Job details" [ref=e61]:
+            - generic [ref=e63]:
+              - generic [ref=e66]:
+                - heading "Job description" [level=2] [ref=e67]
+                - generic [ref=e69]:
+                  - heading "The Original Bitcoin Exchange" [level=4] [ref=e70]:
+                    - strong [ref=e71]:
+                      - link "The Original Bitcoin Exchange" [ref=e73] [cursor=pointer]:
+                        - /url: https://static.bitfinex.com/videos/bitfinex_about.mp4
+                  - paragraph [ref=e74]: Inspired by Bitcoin's vision of financial freedom, we are committed to empowering individuals to transact and connect seamlessly across the globe. From the early days of the Bitcoin revolution, our mission has been to champion freedom through innovative, reliable, and accessible technology—ensuring that everyone, everywhere, has the tools to participate in a truly open and borderless world.
+                  - paragraph [ref=e75]
+                  - paragraph [ref=e76]: We are driven by a relentless pursuit of innovation and financial empowerment. By prioritizing education and delivering a cutting-edge platform, we enable users to seamlessly buy, hold, and trade digital assets with confidence. As the digital asset landscape rapidly evolves, we stay ahead—offering state-of-the-art trading services that empower both individuals and global liquidity providers. Our forward-thinking, agile approach ensures that financial freedom is not just a vision, but a reality for all.
+                  - paragraph [ref=e77]
+                  - paragraph [ref=e78]: Our team, composed of visionary individuals with practical expertise, focuses on crafting solutions to the market's toughest challenges. Despite our global presence and impact, we maintain a small, technology-focused core, fostering a culture of collaboration and innovation.
+                  - paragraph [ref=e79]
+                  - paragraph [ref=e80]: We value integrity and autonomy, empowering our team to contribute from concept to launch. Driven by a passion for lifelong learning and a commitment to advancing freedom, we prioritize high-caliber products and services, with a proven track record of innovation that draws on the dexterity of our teams.
+                  - paragraph [ref=e81]
+                  - heading "Why Join Us?" [level=4] [ref=e82]:
+                    - strong [ref=e83]: Why Join Us?
+                  - paragraph [ref=e84]
+                  - paragraph [ref=e85]:
+                    - strong [ref=e86]: Innovation
+                  - paragraph [ref=e87]: At Bitfinex, we merge technology and skill to create an environment where your involvement isn’t just appreciated—it’s pioneering the future and pushing boundaries in finance. Our culture values bold creativity, a passion for technology, and a deep belief in Financial Freedom.
+                  - paragraph [ref=e88]
+                  - paragraph [ref=e89]:
+                    - strong [ref=e90]: Flexibility & Global Reach
+                  - paragraph [ref=e91]: We believe in trust, autonomy, and results—our team operates remotely, ensuring you work from anywhere while collaborating with some of the best talents across the world. We thrive on innovation, autonomy, and breaking new ground.
+                  - paragraph [ref=e92]
+                  - paragraph [ref=e93]:
+                    - strong [ref=e94]: Fast-Paced & Impactful
+                  - paragraph [ref=e95]: Much like the crypto industry itself, our projects move fast, break new ground, and make an impact. Your contributions reach our global audience, shaping the narrative of a decentralized future.
+                  - paragraph [ref=e96]
+                  - paragraph [ref=e97]:
+                    - strong [ref=e98]: A Team that Thrives on Collaboration
+                  - paragraph [ref=e99]: We blend seasoned experts with fresh creative minds, ensuring constant innovation, mentorship, and a dynamic work environment that keeps you at the forefront of achieving your goals. We see integrity and standing up for what is right as the most important qualities.
+                  - paragraph [ref=e100]
+                  - paragraph [ref=e101]:
+                    - strong [ref=e102]: Grow with the Best
+                  - paragraph [ref=e103]: At Bitfinex, we’re committed to continuous learning—whether through technological advancements, creative workshops, or mentorship from leading professionals in the industry.
+                  - paragraph [ref=e104]
+                  - paragraph [ref=e105]: If you’re excited about partaking in shaping the narrative of decentralized finance, you’ll feel right at home
+                  - paragraph [ref=e106]
+                  - paragraph [ref=e107]:
+                    - strong [ref=e108]: "We’re looking for:"
+                    - strong [ref=e109]: Senior Backend Developer
+                  - paragraph [ref=e110]
+                  - heading "The Role:" [level=4] [ref=e111]
+                  - paragraph [ref=e112]:
+                    - strong
+                    - text: "As a senior Backend Developer, you will be a part of the team that works on the development of the backend components of all Bitfinex Services (main trading application, Lightning Network support, Blockchain integrations, ….). This includes:"
+                  - paragraph [ref=e113]
+                  - list [ref=e114]:
+                    - listitem [ref=e115]:
+                      - paragraph [ref=e116]:
+                        - text: •
+                        - strong [ref=e117]: New Products and Features
+                        - text: "- Bitfinex continuously strives to create innovative new features in order to provide the most professional trading experience for customers. These are developed and deployed using agile methodologies, to ensure the user experience remains the best in the industry."
+                    - listitem [ref=e118]:
+                      - paragraph [ref=e119]:
+                        - text: •
+                        - strong [ref=e120]: Scalability
+                        - text: "- all backend services that power Bitfinex platform must remain effortlessly smooth, responsive, and real-time for customers as the platform continues to scale to accommodate new user growth. A good example are the renown Bitfinex API, the most solid, low-latency and complete in our industry."
+                    - listitem [ref=e121]:
+                      - paragraph [ref=e122]:
+                        - text: •
+                        - strong [ref=e123]: Security
+                        - text: "- Bitfinex makes Security its most important feature. The Backend Development team is responsible for building all the API services and backend processes with the highest security principles and standard, in order to protect the safety of the entire user base."
+                  - paragraph [ref=e124]
+                  - heading "What You Bring to the Table:" [level=4] [ref=e125]
+                  - list [ref=e126]:
+                    - listitem [ref=e127]:
+                      - paragraph [ref=e128]: • Exceptional Node/JavaScript skills
+                    - listitem [ref=e129]:
+                      - paragraph [ref=e130]: • Familiar with microservices architecture
+                    - listitem [ref=e131]:
+                      - paragraph [ref=e132]: • Have actively participated in the development of a complex platform
+                    - listitem [ref=e133]:
+                      - paragraph [ref=e134]: • Good experience in interacting with databases (MySQL, MongoDB)
+                    - listitem [ref=e135]:
+                      - paragraph [ref=e136]: • Ability to quickly learn new technologies
+                    - listitem [ref=e137]:
+                      - paragraph [ref=e138]: • Good understanding of security practices
+                  - paragraph [ref=e139]
+                  - heading "Other Valuable Skills:" [level=4] [ref=e140]
+                  - list [ref=e141]:
+                    - listitem [ref=e142]:
+                      - paragraph [ref=e143]: • Experience with blockchain integration
+                    - listitem [ref=e144]:
+                      - paragraph [ref=e145]: • Comfortable with high-availability concepts
+                    - listitem [ref=e146]:
+                      - paragraph [ref=e147]: • Ruby, Rust or C++ skills are a plus
+                    - listitem [ref=e148]:
+                      - paragraph [ref=e149]: "• Other technologies of interest: Message queues (Redis), Caches and Job Queues"
+                  - paragraph [ref=e150]
+                  - heading "What We Offer:" [level=4] [ref=e151]
+                  - list [ref=e152]:
+                    - listitem [ref=e153]:
+                      - paragraph [ref=e154]: • Flexible Work & Remote-Friendly Culture
+                    - listitem [ref=e155]:
+                      - paragraph [ref=e156]: • Mentorship & Growth
+                    - listitem [ref=e157]:
+                      - paragraph [ref=e158]: • Competitive Pay
+                    - listitem [ref=e159]:
+                      - paragraph [ref=e160]: • Career Development Opportunities
+                    - listitem [ref=e161]:
+                      - paragraph [ref=e162]: • Supportive Team Environment
+                    - listitem [ref=e163]:
+                      - paragraph [ref=e164]: • Learning & Knowledge Sharing
+                    - listitem [ref=e165]:
+                      - paragraph [ref=e166]: • Team-Building Activities
+                    - listitem [ref=e167]:
+                      - paragraph [ref=e168]: • Social activities (online & in-person)
+                    - listitem [ref=e169]:
+                      - paragraph [ref=e170]: • A collaborative environment where your creativity will have a direct impact on the brand’s narrative
+                  - paragraph [ref=e171]
+                  - paragraph [ref=e172]:
+                    - strong [ref=e173]: Ready to join us in bringing Financial Freedom to all?
+                  - paragraph [ref=e174]: If you’re a visionary who thrives at the intersection of technology, knowledge and innovation, we want to hear from you!
+                  - paragraph [ref=e175]
+                  - paragraph [ref=e176]:
+                    - strong [ref=e177]:
+                      - emphasis [ref=e178]: Recruitment Data & Security Disclaimer
+                  - paragraph [ref=e179]:
+                    - emphasis [ref=e180]: As part of the hiring process at Bitfinex, we collect personal data such as your name, contact details, location, job preferences, education and employment history, and other information you voluntarily provide. This data is used solely for recruitment purposes, processed in accordance with applicable global data protection laws, including the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), and retained only for as long as necessary to fulfil its purpose.
+                  - paragraph [ref=e181]
+                  - paragraph [ref=e182]:
+                    - emphasis [ref=e183]: All assessments and recruitment-related communications are conducted exclusively through official Bitfinex email addresses (e.g., firstname.lastname@bitfinex.com). Bitfinex does not use unofficial channels (such as WhatsApp, Telegram, or SMS) for recruitment communication and does not distribute assessments or sensitive links via those means.
+                  - paragraph [ref=e184]
+                  - paragraph [ref=e185]:
+                    - emphasis [ref=e186]:
+                      - text: As part of our secure and compliant recruitment process, we may use approved third-party platforms to facilitate candidate assessments. For more information, please refer to our
+                      - link:
+                        - /url: https://docs.google.com/document/d/16XdoOVXINfITvXI3JtjV0TV0pGE9dZryKhOiauW7two/edit?usp=sharing
+                      - link "Candidate Privacy Notice and Interview Recording Consent" [ref=e188] [cursor=pointer]:
+                        - /url: https://drive.google.com/file/d/19-ymSM-OqiWjlFxZoMYfL_IwOVb7XQaC/view
+                      - text: . All candidates have the right to access, correct, or delete their personal data and to withdraw consent at any time, where applicable.
+                  - paragraph [ref=e189]
+                  - paragraph [ref=e190]:
+                    - emphasis [ref=e191]: Bitfinex will never request payments, financial information, or personal banking details at any stage of the recruitment process.
+                  - paragraph [ref=e192]:
+                    - emphasis [ref=e193]: If you receive a suspicious request, wish to exercise your data privacy rights, or have further inquiries regarding the legal aspects of the process, contact
+                    - link "privacy@bitfinex.com" [ref=e194] [cursor=pointer]:
+                      - /url: mailto:privacy@bitfinex.com
+                    - emphasis [ref=e195]:
+                      - generic [ref=e196]: . Please note this inbox is intended for privacy concerns and reports only; any other communications will not be processed.
+                  - paragraph [ref=e197]
+                  - paragraph [ref=e198]:
+                    - strong [ref=e199]:
+                      - emphasis [ref=e200]: Equal Opportunity Statement
+                  - paragraph [ref=e201]:
+                    - emphasis [ref=e202]: At Bitfinex, we're committed to equitable opportunities. We do not discriminate based on race, religion, gender, age, disability, sexual orientation, gender identity, or any other protected status. This commitment applies across all stages of recruitment and contractual relationships.
+              - generic [ref=e204]:
+                - button "Apply" [ref=e205] [cursor=pointer]
+                - button "Share job" [ref=e207] [cursor=pointer]
+          - text:          

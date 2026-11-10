@@ -1,0 +1,276 @@
+- generic [ref=e2]:
+  - link "Skip to content" [ref=e4] [cursor=pointer]:
+    - /url: "#content"
+  - generic [ref=e5]:
+    - generic [ref=e10]:
+      - link "Bitfinex logo Homepage" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - img "Bitfinex logo" [ref=e13]
+        - generic [ref=e14]: Homepage
+      - navigation [ref=e16]:
+        - list [ref=e17]:
+          - listitem [ref=e18]:
+            - link "linkedin" [ref=e19] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/bitfinex/
+              - generic:
+                - img
+          - listitem [ref=e20]:
+            - link "facebook" [ref=e21] [cursor=pointer]:
+              - /url: https://www.facebook.com/bitfinex
+              - generic:
+                - img
+          - listitem [ref=e22]:
+            - link "twitter" [ref=e23] [cursor=pointer]:
+              - /url: https://twitter.com/bitfinex
+              - generic:
+                - img
+          - listitem [ref=e24]:
+            - link "instagram" [ref=e25] [cursor=pointer]:
+              - /url: https://www.instagram.com/bitfinex
+              - generic:
+                - img
+          - listitem [ref=e26]:
+            - link "Company website" [ref=e28] [cursor=pointer]:
+              - /url: https://www.bitfinex.com
+    - main [ref=e29]:
+      - generic [ref=e39]:
+        - heading "Senior Node.js Backend Developer - (100% Remote Worldwide)" [level=1] [ref=e40]
+        - list [ref=e41]:
+          - listitem [ref=e42]:
+            - generic [ref=e43]:
+              - generic:
+                - img
+            - text: Remote
+          - listitem [ref=e44]:
+            - generic [ref=e45]:
+              - generic:
+                - img
+            - text: Engineering
+      - generic [ref=e54]:
+        - tablist [ref=e57]:
+          - tab "Job details" [ref=e58] [cursor=pointer]
+          - tab "Application" [active] [selected] [ref=e209] [cursor=pointer]
+        - generic [ref=e60]:
+          - text: • • • • • • • • • • • • • • • • • • • • • •
+          - tabpanel "Application" [ref=e210]:
+            - generic [ref=e211]:
+              - group "My information" [ref=e213]:
+                - generic [ref=e214]: My information
+                - paragraph [ref=e215]: Fill out the information below
+                - generic [ref=e217]:
+                  - generic [ref=e218]:
+                    - text: Full name
+                    - generic [ref=e219]: "*"
+                  - textbox "Full name" [ref=e220]
+                  - alert [ref=e221]
+                - generic [ref=e223]:
+                  - generic [ref=e224]:
+                    - text: Email address
+                    - generic [ref=e225]: "*"
+                  - textbox "Email address" [ref=e226]:
+                    - /placeholder: Your email address
+                  - alert [ref=e227]
+                - generic [ref=e228]:
+                  - generic [ref=e229]:
+                    - text: Phone number
+                    - generic [ref=e230]: "*"
+                  - generic [ref=e231]:
+                    - generic [ref=e232]:
+                      - 'button "Select country calling code: United Kingdom" [ref=e233] [cursor=pointer]':
+                        - generic [ref=e234]:
+                          - generic [ref=e236]:
+                            - img [ref=e239]
+                            - text: United Kingdom
+                          - generic [ref=e247]:
+                            - generic:
+                              - img
+                      - 'listbox "Select country calling code: United Kingdom"'
+                    - textbox "Phone number" [ref=e248]:
+                      - /placeholder: Your phone number
+                      - text: "+44"
+                  - alert [ref=e249]
+              - generic [ref=e250]:
+                - generic [ref=e251]:
+                  - text: CV or resume
+                  - generic [ref=e252]: "*"
+                - paragraph [ref=e253]: Upload your CV or resume file
+                - generic [ref=e255]:
+                  - generic [ref=e256] [cursor=pointer]:
+                    - button "CV or resume" [ref=e257]
+                    - generic [ref=e258]: Upload a file or drag and drop here
+                    - generic [ref=e259]:
+                      - generic [ref=e260]: Upload a file or drag and drop here
+                      - text: "Accepted files: PDF, DOC, DOCX, JPEG and PNG up to 50MB."
+                  - alert [ref=e261]
+              - generic [ref=e262]:
+                - generic [ref=e263]: Cover letter
+                - paragraph [ref=e264]: Upload your cover letter
+                - generic [ref=e265]:
+                  - generic [ref=e266] [cursor=pointer]:
+                    - button "Cover letter" [ref=e267]
+                    - generic [ref=e268]: Upload a file or drag and drop here
+                    - generic [ref=e269]:
+                      - generic [ref=e270]: Upload a file or drag and drop here
+                      - text: "Accepted files: PDF, DOC, DOCX, JPEG and PNG up to 50MB."
+                  - alert [ref=e271]
+                - button "Write it here instead" [ref=e272] [cursor=pointer]:
+                  - text: Write it here instead
+                  - generic:
+                    - img
+              - group "Questions" [ref=e275]:
+                - generic [ref=e276]: Questions
+                - paragraph [ref=e277]: Please fill in additional questions
+                - generic [ref=e278]:
+                  - generic [ref=e280]:
+                    - generic [ref=e281]:
+                      - text: Why are you interested in working at Bitfinex?
+                      - generic [ref=e282]: "*"
+                    - generic [ref=e284]:
+                      - generic [ref=e288]:
+                        - generic [ref=e291]:
+                          - generic [ref=e292] [cursor=pointer]:
+                            - text: Record Video
+                            - generic [ref=e293]: 
+                          - generic [ref=e294] [cursor=pointer]:
+                            - button "Upload a file" [ref=e295]
+                            - text: Upload Video
+                            - generic [ref=e296]: 
+                        - text:        
+                      - textbox
+                    - alert [ref=e297]
+                  - generic [ref=e299]:
+                    - group "How many years of professional relevant experience do you have?" [ref=e300]:
+                      - generic [ref=e301]:
+                        - text: How many years of professional relevant experience do you have?
+                        - generic [ref=e302]: "*"
+                      - generic [ref=e303]:
+                        - generic [ref=e304]:
+                          - radio "0-2 years" [ref=e305]
+                          - generic [ref=e306] [cursor=pointer]: 0-2 years
+                        - generic [ref=e308]:
+                          - radio "3-4 years" [ref=e309]
+                          - generic [ref=e310] [cursor=pointer]: 3-4 years
+                        - generic [ref=e312]:
+                          - radio "5-8 years" [ref=e313]
+                          - generic [ref=e314] [cursor=pointer]: 5-8 years
+                        - generic [ref=e316]:
+                          - radio "9+ years" [ref=e317]
+                          - generic [ref=e318] [cursor=pointer]: 9+ years
+                    - alert [ref=e320]
+                  - generic [ref=e322]:
+                    - group "How do you rate your own skills with Node.js?" [ref=e323]:
+                      - generic [ref=e324]:
+                        - text: How do you rate your own skills with Node.js?
+                        - generic [ref=e325]: "*"
+                      - generic [ref=e326]:
+                        - generic [ref=e327]:
+                          - radio "Beginner" [ref=e328]
+                          - generic [ref=e329] [cursor=pointer]: Beginner
+                        - generic [ref=e331]:
+                          - radio "Intermediate" [ref=e332]
+                          - generic [ref=e333] [cursor=pointer]: Intermediate
+                        - generic [ref=e335]:
+                          - radio "Advanced" [ref=e336]
+                          - generic [ref=e337] [cursor=pointer]: Advanced
+                    - alert [ref=e339]
+                  - generic [ref=e341]:
+                    - group "How do you rate your own skills with race conditioning?" [ref=e342]:
+                      - generic [ref=e343]:
+                        - text: How do you rate your own skills with race conditioning?
+                        - generic [ref=e344]: "*"
+                      - generic [ref=e345]:
+                        - generic [ref=e346]:
+                          - radio "Beginner" [ref=e347]
+                          - generic [ref=e348] [cursor=pointer]: Beginner
+                        - generic [ref=e350]:
+                          - radio "Intermediate" [ref=e351]
+                          - generic [ref=e352] [cursor=pointer]: Intermediate
+                        - generic [ref=e354]:
+                          - radio "Advanced" [ref=e355]
+                          - generic [ref=e356] [cursor=pointer]: Advanced
+                    - alert [ref=e358]
+                  - generic [ref=e360]:
+                    - group "How do you rate your own skills with blockchain integration?" [ref=e361]:
+                      - generic [ref=e362]:
+                        - text: How do you rate your own skills with blockchain integration?
+                        - generic [ref=e363]: "*"
+                      - generic [ref=e364]:
+                        - generic [ref=e365]:
+                          - radio "Beginner" [ref=e366]
+                          - generic [ref=e367] [cursor=pointer]: Beginner
+                        - generic [ref=e369]:
+                          - radio "Intermediate" [ref=e370]
+                          - generic [ref=e371] [cursor=pointer]: Intermediate
+                        - generic [ref=e373]:
+                          - radio "Advanced" [ref=e374]
+                          - generic [ref=e375] [cursor=pointer]: Advanced
+                    - alert [ref=e377]
+                  - generic [ref=e379]:
+                    - generic [ref=e380]:
+                      - text: Tell us about an interesting project you worked on recently (could be spare time open source project)
+                      - generic [ref=e381]: "*"
+                    - textbox "Tell us about an interesting project you worked on recently (could be spare time open source project)" [ref=e382]
+                    - alert [ref=e383]
+                  - generic [ref=e385]:
+                    - generic [ref=e386]:
+                      - text: Should we offer you a position, when can you start?
+                      - generic [ref=e387]: "*"
+                    - textbox "Should we offer you a position, when can you start?" [ref=e388]
+                    - alert [ref=e389]
+                  - generic [ref=e391]:
+                    - generic [ref=e392]:
+                      - text: Considering the role is remote, from which country will you be working?
+                      - generic [ref=e393]: "*"
+                    - textbox "Considering the role is remote, from which country will you be working?" [ref=e394]
+                    - alert [ref=e395]
+                  - generic [ref=e397]:
+                    - generic [ref=e398]:
+                      - text: "<p>We want to help you to make sure that you are a good fit for the role and created a self-assessment for candidates. If you need more than 10 minutes to answer the following two questions or need a lot of googling, your current JS skills are not sufficient for the role</p> <p>1) Convert the code below using any lib of your choice to be more readable</p> db.getData((err,data)=>{ <br /> if(err){ <br /> console.log(err) <br /> return <br /> } <br /> data.a = \"test\" <br /> data.b = 1111 <br /> db.processData(data,(err,data)=>{ <br /> if(err){ <br /> console.log(err) <br /> return <br /> } <br /> db.saveData((err,data)=>{ <br /> if(err){ <br /> console.log(err) <br /> return <br /> } <br /> console.log(\"finished\") <br /> }) <br /> }) <br /> }) <br /> <br />"
+                      - generic [ref=e399]: "*"
+                    - 'textbox "<p>We want to help you to make sure that you are a good fit for the role and created a self-assessment for candidates. If you need more than 10 minutes to answer the following two questions or need a lot of googling, your current JS skills are not sufficient for the role</p> <p>1) Convert the code below using any lib of your choice to be more readable</p> db.getData((err,data)=>{ <br /> if(err){ <br /> console.log(err) <br /> return <br /> } <br /> data.a = \"test\" <br /> data.b = 1111 <br /> db.processData(data,(err,data)=>{ <br /> if(err){ <br /> console.log(err) <br /> return <br /> } <br /> db.saveData((err,data)=>{ <br /> if(err){ <br /> console.log(err) <br /> return <br /> } <br /> console.log(\"finished\") <br /> }) <br /> }) <br /> }) <br /> <br />" [ref=e400]'
+                    - alert [ref=e401]
+                  - generic [ref=e403]:
+                    - generic [ref=e404]:
+                      - text: 2) What is the output of this program and why? <br /> let z = 4153000000000000000 + 99 <br /> console.log(z) <br /><br />
+                      - generic [ref=e405]: "*"
+                    - textbox "2) What is the output of this program and why? <br /> let z = 4153000000000000000 + 99 <br /> console.log(z) <br /><br />" [ref=e406]
+                    - alert [ref=e407]
+                  - generic [ref=e409]:
+                    - group "This role is offered under a remote contractor arrangement. Contractors are responsible for managing and paying their own taxes, social contributions, and statutory obligations in their country of residence. Which working setup are you looking for this role?" [ref=e410]:
+                      - generic [ref=e411]:
+                        - text: This role is offered under a remote contractor arrangement. Contractors are responsible for managing and paying their own taxes, social contributions, and statutory obligations in their country of residence. Which working setup are you looking for this role?
+                        - generic [ref=e412]: "*"
+                      - generic [ref=e413]:
+                        - generic [ref=e414]:
+                          - radio "Employee only" [ref=e415]
+                          - generic [ref=e416] [cursor=pointer]: Employee only
+                        - generic [ref=e418]:
+                          - radio "Contractor only" [ref=e419]
+                          - generic [ref=e420] [cursor=pointer]: Contractor only
+                        - generic [ref=e422]:
+                          - radio "Both employee and contractor setup" [ref=e423]
+                          - generic [ref=e424] [cursor=pointer]: Both employee and contractor setup
+                    - alert [ref=e426]
+                  - generic [ref=e427]:
+                    - generic [ref=e428]:
+                      - text: What are your compensation expectations on an annual, gross basis?
+                      - generic [ref=e429]: "*"
+                    - generic [ref=e430]:
+                      - spinbutton "What are your compensation expectations on an annual, gross basis?" [ref=e431]
+                      - generic [ref=e432]: USD
+                    - alert [ref=e433]
+                  - generic [ref=e435]:
+                    - generic [ref=e436]:
+                      - text: "GitHub profile:"
+                      - generic [ref=e437]: "*"
+                    - textbox "GitHub profile:" [ref=e438]
+                    - alert [ref=e439]
+                  - generic [ref=e441]:
+                    - generic [ref=e442]:
+                      - text: "LinkedIn profile:"
+                      - generic [ref=e443]: "*"
+                    - textbox "LinkedIn profile:" [ref=e444]
+                    - alert [ref=e445]
+              - alert [ref=e446]
+              - paragraph [ref=e448]: All fields marked with * are required.
+              - button "Send" [ref=e450] [cursor=pointer]

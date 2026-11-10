@@ -1,0 +1,15 @@
+[    1999ms] [LOG] (1789124540177) {btfy709h}: boomerang: [debug] Generated PageID: btfy709h @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    1999ms] [LOG] (1789124540178) {btfy709h}: boomerang.rt: [debug] init RT @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2000ms] [LOG] (1789124540179) {btfy709h}: boomerang.et: [info] This user agent supports EventTiming @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2001ms] [LOG] (1789124540179) {btfy709h}: boomerang.History: [debug] hook: undefined @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2001ms] [LOG] (1789124540179) {btfy709h}: boomerang.SPA: [debug] Hooked @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2001ms] [LOG] (1789124540179) {btfy709h}: boomerang.SPA: [debug] Route Change @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2001ms] [LOG] (1789124540180) {btfy709h}: boomerang.History: [debug] Deprecated: Initialized from Angular config @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2001ms] [LOG] (1789124540180) {btfy709h}: boomerang.History: [debug] hook: {} @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2001ms] [LOG] (1789124540180) {btfy709h}: boomerang.SPA: [debug] Hooked @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2001ms] [LOG] (1789124540180) {btfy709h}: boomerang.History: [debug] Deprecated: Initialized from Backbone config @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2001ms] [LOG] (1789124540180) {btfy709h}: boomerang.History: [debug] hook: {} @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2001ms] [LOG] (1789124540180) {btfy709h}: boomerang.SPA: [debug] Hooked @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2001ms] [LOG] (1789124540180) {btfy709h}: boomerang.History: [debug] Deprecated: Initialized from Ember config @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2001ms] [LOG] (1789124540180) {btfy709h}: boomerang.History: [debug] hook: {} @ https://hit.uptrendsdata.com/rum-spa.min.js:11
+[    2002ms] [LOG] (1789124540180) {btfy709h}: boomerang.SPA: [debug] Hooked @ https://hit.uptrendsdata.com/rum-spa.min.js:11

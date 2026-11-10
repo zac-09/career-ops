@@ -1,0 +1,42 @@
+- generic [ref=f28e2]:
+  - list [ref=f28e4]:
+    - listitem [ref=f28e5]:
+      - link [ref=f28e6] [cursor=pointer]:
+        - /url: https://elevenlabs.io
+        - img "ElevenLabs" [ref=f28e7]
+    - listitem [ref=f28e8]:
+      - link "Back to ElevenLabs’s Job Listings" [ref=f28e9] [cursor=pointer]:
+        - /url: /elevenlabs
+    - listitem
+  - generic [ref=f28e12]:
+    - heading "Full-Stack Engineer (Backend Leaning) - Creative Agents" [level=1] [ref=f28e14]
+    - generic [ref=f28e15]:
+      - generic [ref=f28e16]:
+        - generic [ref=f28e17]:
+          - heading "Location" [level=2] [ref=f28e18]
+          - paragraph [ref=f28e19]: Remote
+        - generic [ref=f28e20]:
+          - heading "Employment Type" [level=2] [ref=f28e21]
+          - paragraph [ref=f28e22]: Full time
+        - generic [ref=f28e23]:
+          - heading "Department" [level=2] [ref=f28e24]
+          - paragraph [ref=f28e25]:
+            - generic [ref=f28e26]: Engineering & Product
+      - generic [ref=f28e27]:
+        - tablist [ref=f28e28]:
+          - tab "Overview" [ref=f28e29] [cursor=pointer]
+          - tab "Application" [selected] [ref=f28e30] [cursor=pointer]
+        - tabpanel "Application" [ref=f28e32]:
+          - paragraph [ref=f28e40]: Fetching application form
+  - contentinfo [ref=f28e41]:
+    - link "Learn more about Ashby" [ref=f28e42] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f28e43]: Powered by
+      - img "Ashby" [ref=f28e44]
+    - paragraph [ref=f28e50]:
+      - link "Privacy Policy" [ref=f28e51] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f28e52] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f28e53] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

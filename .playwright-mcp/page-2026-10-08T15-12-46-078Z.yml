@@ -1,0 +1,594 @@
+- generic [ref=f49e3]:
+  - banner [ref=f49e4]:
+    - generic [ref=f49e5]:
+      - link "Remote ATS" [ref=f49e6] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f49e10]:
+        - link "Open roles" [ref=f49e11] [cursor=pointer]:
+          - /url: /
+        - link "Candidate portal" [ref=f49e12] [cursor=pointer]:
+          - /url: /me
+  - main [ref=f49e21]:
+    - generic [ref=f49e22]:
+      - button "Roles" [ref=f49e24] [cursor=pointer]
+      - generic [ref=f49e29]:
+        - generic [ref=f49e30]:
+          - generic [ref=f49e31]:
+            - generic "open" [ref=f49e34]
+            - generic [ref=f49e35]: Engineering
+            - generic [ref=f49e37]: APAC, EMEA, LATAM, NORAM
+            - generic [ref=f49e39]: Full-time
+          - heading "Senior Backend Engineer" [level=1] [ref=f49e41]
+          - generic [ref=f49e42]:
+            - paragraph [ref=f49e43]: You'll be joining a team of engineers across Frontend, Backend, SRE and QA. We're organised into cross-functional development teams assigned to specific verticals.
+            - paragraph [ref=f49e44]: This role is open for several teams, and we will define the exact team that you will be joining during the interview process based on the business needs and your preferences.
+            - paragraph [ref=f49e45]: Regardless of the specific team, you will be working on building tools, APIs and integrations for one of our products.
+            - paragraph [ref=f49e46]: Our backend is built with Elixir and Phoenix, with a Postgres database. We use React and Nextjs for our front-end. Gitlab is used as a version control tool, issue tracker and a CI/CD solution. Our applications are hosted on AWS. We fully rely on our CI for deployments and deploy multiple times per day.
+            - paragraph [ref=f49e47]: "You can also check out this Keynote to learn how we evolved Remote's architecture and organisation to support a fast pace. We explore domain boundaries and dependency management alongside worker separation. You will also hear about ownership driven observability: https://www.youtube.com/watch?v=02r5xP2BgNk."
+          - generic [ref=f49e48]:
+            - heading "Job Description" [level=2] [ref=f49e49]
+            - generic [ref=f49e50]:
+              - heading [level=3] [ref=f49e51]:
+                - strong [ref=f49e53]: What you bring
+              - list [ref=f49e54]:
+                - listitem [ref=f49e55]: Strong engineering fundamentals and a track record of shipping production systems that are secure, reliable, and scalable.
+                - listitem [ref=f49e56]: Practical experience designing or adopting agentic/automation workflows (or comparable systems) and improving them through iteration.
+                - listitem [ref=f49e57]: "Ability to think in systems: define specs clearly, break down plans, instrument verification, and close the loop on quality."
+                - listitem [ref=f49e58]: Postgres (or similar).
+                - listitem [ref=f49e59]: CI/CD (GitLab, Github, Jenkins or similar).
+                - listitem [ref=f49e60]:
+                  - strong [ref=f49e61]: Demonstrates strong automation and AI capabilities and AI fluency.
+              - heading [level=3] [ref=f49e62]:
+                - strong [ref=f49e63]: Nice to have
+              - list [ref=f49e64]:
+                - listitem [ref=f49e65]: Kubernetes
+                - listitem [ref=f49e66]: Docker
+                - listitem [ref=f49e67]: AWS
+                - listitem [ref=f49e68]: Nextjs
+                - listitem [ref=f49e69]: React/Vue/Angular
+              - heading [level=3] [ref=f49e70]:
+                - strong [ref=f49e72]: Key Responsibilities
+              - list [ref=f49e73]:
+                - listitem [ref=f49e74]: Lead the development of major team-scoped projects, participate in cross-team initiatives for Remote's HR and Payroll products.
+                - listitem [ref=f49e75]: "Actively participate in product work in the team: provide feedback, suggest solutions to the problems. Use technical insights and expertise to suggest product improvements."
+                - listitem [ref=f49e76]: Maintain good understanding of the team’s domain, both from product and engineering sides.
+                - listitem [ref=f49e77]: Provide feedback on code reviews.
+                - listitem [ref=f49e78]: Contribute to the shared codebase.
+                - listitem [ref=f49e79]: Debug and solve technical and business issues.
+                - listitem [ref=f49e80]: Participate in non-team activities, such as support rotations, hiring process, RFC discussions, etc.
+                - listitem [ref=f49e81]: Mentor and provide guidance to other engineers.
+                - listitem [ref=f49e82]: Investigate, propose and participate in implementation of improvements to our platform.
+                - listitem [ref=f49e83]: Implement interfaces with performance, accessibility, and API design in mind.
+                - listitem [ref=f49e84]: Redesign how engineering work ships with autonomous agents as the default execution layer
+                - listitem [ref=f49e85]: Propose and operationalize agentic workflows end-to-end (spec → plan → execute → verify) to deliver outcomes faster.
+                - listitem [ref=f49e86]: Build reusable agentic workflows and primitives in the codebase so teams can apply them repeatedly across domains.
+                - listitem [ref=f49e87]: Use verification loops (tests, checks, evals, guardrails) to ensure results are correct, secure, reliable, and scalable.
+          - generic [ref=f49e88]:
+            - heading "Benefits" [level=2] [ref=f49e89]
+            - generic [ref=f49e90]:
+              - heading [level=3] [ref=f49e91]:
+                - strong [ref=f49e93]: What this job can offer you
+              - list [ref=f49e94]:
+                - listitem [ref=f49e95]: Complex and meaningful challenges — solving them will enable people and businesses to live and operate in any country of the world.
+                - listitem [ref=f49e96]: Opportunity to have a significant impact on the business — we are still very early in our journey as a company, and each change you make today is amplified by the company's growth.
+                - listitem [ref=f49e97]: A lot of freedom to organize your work and life — you are not bound to daily standups, recurring meetings or other ceremonies.
+                - listitem [ref=f49e98]: Competitive salary, stock options, flexible paid time off, and a set of perks and benefits.
+                - listitem [ref=f49e99]: A supportive and kind work environment where we would like you to challenge the dogmas and pursue innovation!
+                - listitem [ref=f49e100]: Strong team of experienced engineers who will support and facilitate your professional growth.
+          - generic [ref=f49e101]:
+            - heading "Compensation" [level=2] [ref=f49e102]
+            - generic [ref=f49e103]:
+              - heading [level=3] [ref=f49e104]:
+                - strong [ref=f49e106]: Benefits
+              - paragraph [ref=f49e107]:
+                - text: Our full benefits & perks are explained in our handbook at
+                - link "remote.com/r/benefits" [ref=f49e108] [cursor=pointer]:
+                  - /url: http://remote.com/r/benefits
+                - text: ". As a global company, each country works differently, but some benefits/perks are for all Remoters:"
+              - list [ref=f49e109]:
+                - listitem [ref=f49e110]: work from anywhere
+                - listitem [ref=f49e111]: flexible paid time off
+                - listitem [ref=f49e112]:
+                  - text: flexible working hours (we are
+                  - link "async" [ref=f49e113] [cursor=pointer]:
+                    - /url: https://remote.com/async
+                  - text: )
+                - listitem [ref=f49e114]: 16 weeks paid parental leave
+                - listitem [ref=f49e115]:
+                  - text: budget towards
+                  - link "co-working spaces, learning and wellness" [ref=f49e116] [cursor=pointer]:
+                    - /url: https://app.notion.com/p/remotecom/Benefits-Perks-1e48a5869c274f40910b76d405b92f63?source=copy_link#3accb4dadab48025b7a6dbc23bc47504
+                  - text: (including gym memberships)
+                - listitem [ref=f49e117]: mental health support services
+                - listitem [ref=f49e118]: stock options
+                - listitem [ref=f49e119]: home office budget & IT equipment
+              - heading [level=3] [ref=f49e120]:
+                - strong [ref=f49e121]: How you’ll plan your day (and life)
+              - paragraph [ref=f49e122]:
+                - text: We work async at Remote which means you can plan your schedule around your life (and not around meetings). Read more at
+                - link "remote.com/async" [ref=f49e123] [cursor=pointer]:
+                  - /url: https://remote.com/async
+                - text: .
+              - paragraph [ref=f49e124]:
+                - text: You will be empowered to take ownership and be proactive. When in doubt you will default to action instead of waiting. Your
+                - strong [ref=f49e125]: life-work balance
+                - text: is important and you will be encouraged to put yourself and your family first, and fit work around your needs.
+              - paragraph [ref=f49e126]: If that sounds like something you want, apply now!
+            - generic [ref=f49e127]:
+              - paragraph [ref=f49e128]: Remote's Total Rewards philosophy is to ensure fair, unbiased compensation and fair equity pay along with competitive benefits in all locations in which we operate. We do not agree to or encourage cheap-labor practices and therefore we ensure to pay locally competitive rates. We hope to inspire other companies to support global talent-hiring and bring local wealth to developing countries.
+              - paragraph [ref=f49e129]: At first glance our salary bands seem quite wide - here is some context. At Remote we have international operations and a globally distributed workforce. We use geo ranges to consider geographic pay differentials as part of our global compensation strategy to remain competitive in various markets while we hire globally.
+              - paragraph [ref=f49e130]: Our salary ranges are determined by role, level and location, and our job titles may span more than one career level. The interviewer will share further details with the candidate on the more restricted pay range for the role in line with their specific location. The individual pay for the successful candidate in this role is dependent upon many factors such as location, transferable or job-related skills, work experience, relevant training, business needs, internal parity and market demands. The base salary range may be subject to change.
+              - paragraph [ref=f49e131]: At Remote, we foster internal mobility as a key element of our culture of employee growth and development, supported by a compensation philosophy that guarantees pay equity and fairness. Therefore, all compensation changes associated with an internal move will be reviewed by the Total Rewards & People Enablement team on a case by case basis.
+              - paragraph [ref=f49e132]: The annual salary range for this full-time position is $53,300 to $149,800.
+          - generic [ref=f49e133]:
+            - heading "Conclusion" [level=2] [ref=f49e134]
+            - generic [ref=f49e135]:
+              - heading [level=3] [ref=f49e136]:
+                - strong [ref=f49e138]: Practicals
+              - list [ref=f49e139]:
+                - listitem [ref=f49e140]:
+                  - strong [ref=f49e141]: "Reporting line:"
+                  - text: Engineering Team Leader
+                - listitem [ref=f49e142]:
+                  - strong [ref=f49e143]: "Team:"
+                  - text: Engineering
+                - listitem [ref=f49e144]:
+                  - strong [ref=f49e145]: Location
+                  - text: ": Anywhere in the World"
+                - listitem [ref=f49e146]:
+                  - strong [ref=f49e147]: Start date
+                  - text: ": As soon as possible"
+              - heading [level=3] [ref=f49e148]:
+                - strong [ref=f49e150]: Application process
+              - list [ref=f49e151]:
+                - listitem [ref=f49e152]: Interview with our recruiter
+                - listitem [ref=f49e153]: Interview with an Engineering Leader
+                - listitem [ref=f49e154]: (async) Technical challenge -a product brief, we highly encourage you to use AI, and expect you to own and explain your decisions
+                - listitem [ref=f49e155]: Interview with members of the engineering team
+                - listitem [ref=f49e156]: Bar Raiser Interview
+                - listitem [ref=f49e157]: Executive Interview
+                - listitem [ref=f49e158]:
+                  - text: Offer and
+                  - link "Prior employment verification check" [ref=f49e159] [cursor=pointer]:
+                    - /url: https://www.notion.so/96e108c037b8423cbd4c3f07a1f9b38b?pvs=21
+              - heading [level=3] [ref=f49e160]:
+                - strong [ref=f49e162]: How to apply
+              - list [ref=f49e163]:
+                - listitem [ref=f49e164]: Please fill out the form below and upload your CV with a PDF format.
+                - listitem [ref=f49e165]:
+                  - strong [ref=f49e166]: We kindly ask you to submit your application and CV in English, as this is the standardised language we use here at Remote.
+                - listitem [ref=f49e167]: If you don’t have an up to date CV but you are still interested in talking to us, please feel free to add a copy of your LinkedIn profile instead.
+              - paragraph [ref=f49e168]: Not only do we encourage folks from all ethnic groups, genders, sexuality, age, abilities, disability status and any other under-represented group to apply, but we prioritize a sense of belonging. We have 4 ERGs (Women, Disability, Queer, Minorities in Tech) who meet regularly with the People team. During your interviews and beyond, we ask & encourage anybody who needs an accommodation to request one from their recruiter.
+              - paragraph [ref=f49e169]: We will ask you to voluntarily tell us your pronouns at interview stage, and you will have the option to answer our anonymous demographic questionnaire when you apply below. As an equal employment opportunity employer it’s important to us that our workforce reflects people of all backgrounds, identities, and experiences and this data will help us to stay accountable. We thank you for providing this data, if you chose to.
+              - paragraph [ref=f49e170]:
+                - text: At Remote, we embrace AI as a valuable tool while prioritizing human creativity and authenticity. We look forward to meeting candidates who balance innovation with genuine expertise and experience. To learn more about Remote's AI guidelines check see
+                - link "here" [ref=f49e171] [cursor=pointer]:
+                  - /url: https://www.notion.so/remotecom/Guidelines-on-using-AI-when-applying-for-a-job-at-Remote-11ccb4dadab4805f80a7c73b6567bd8f
+                - text: .
+              - paragraph [ref=f49e172]:
+                - emphasis [ref=f49e173]: Please note we accept applications on an ongoing basis.
+              - paragraph [ref=f49e174]: "#LI-DNI"
+        - complementary [ref=f49e175]:
+          - generic [ref=f49e176]:
+            - generic [ref=f49e177]: Department
+            - generic [ref=f49e178]: Engineering
+          - generic [ref=f49e180]:
+            - generic [ref=f49e181]: Location
+            - generic [ref=f49e182]: APAC, EMEA, LATAM, NORAM
+          - generic [ref=f49e184]:
+            - generic [ref=f49e185]: Salary
+            - generic [ref=f49e186]: US$53,300 to US$149,800
+          - button "Apply" [ref=f49e188] [cursor=pointer]
+    - dialog [ref=f49e193]:
+      - generic [ref=f49e194]:
+        - generic [ref=f49e196]:
+          - heading "Apply for Senior Backend Engineer" [level=2] [ref=f49e199]
+          - button "Close" [ref=f49e201] [cursor=pointer]
+        - generic [ref=f49e205]:
+          - generic [ref=f49e207]:
+            - group "Please add a resume or public LinkedIn profile to share details about your experience." [ref=f49e208]:
+              - generic [ref=f49e209]: Please add a resume or public LinkedIn profile to share details about your experience.*
+              - generic [ref=f49e210]:
+                - button "Attach file" [active] [ref=f49e212] [cursor=pointer]
+                - textbox "Please add a resume or public LinkedIn profile to share details about your experience., link or note" [ref=f49e217]:
+                  - /placeholder: Paste a LinkedIn URL
+            - generic [ref=f49e223]:
+              - generic [ref=f49e224]: Do you have a portfolio or personal site?
+              - textbox "Do you have a portfolio or personal site?" [ref=f49e226]
+            - group "What are your preferred first and last names?" [ref=f49e227]:
+              - generic [ref=f49e228]: What are your preferred first and last names?*
+              - paragraph [ref=f49e229]: This is how we'll address you, and it'll be visible to the people who interview you.
+              - generic [ref=f49e231]:
+                - textbox "Preferred first name" [ref=f49e232]
+                - textbox "Preferred last name" [ref=f49e233]
+            - group "What pronouns should we use to refer to you?" [ref=f49e234]:
+              - generic [ref=f49e236]:
+                - generic [ref=f49e238]:
+                  - radio "he/him" [ref=f49e240] [cursor=pointer]
+                  - generic [ref=f49e241]: he/him
+                - generic [ref=f49e245]:
+                  - radio "she/her" [ref=f49e247] [cursor=pointer]
+                  - generic [ref=f49e248]: she/her
+                - generic [ref=f49e252]:
+                  - radio "they/them" [ref=f49e254] [cursor=pointer]
+                  - generic [ref=f49e255]: they/them
+                - generic [ref=f49e259]:
+                  - radio "I do not want to answer this question" [ref=f49e261] [cursor=pointer]
+                  - generic [ref=f49e262]: I do not want to answer this question
+            - generic [ref=f49e270]:
+              - generic [ref=f49e271]: What email address should we use for your application? We'll send your confirmation and updates there.
+              - textbox "What email address should we use for your application? We'll send your confirmation and updates there." [ref=f49e273]
+            - generic [ref=f49e274]:
+              - generic [ref=f49e275]: Which country are you currently based in?*
+              - combobox "Which country are you currently based in?" [ref=f49e276]:
+                - option "Select a country" [selected]
+                - option "Afghanistan"
+                - option "Albania"
+                - option "Algeria"
+                - option "American Samoa"
+                - option "Andorra"
+                - option "Angola"
+                - option "Anguilla"
+                - option "Antigua and Barbuda"
+                - option "Argentina"
+                - option "Armenia"
+                - option "Aruba"
+                - option "Australia"
+                - option "Austria"
+                - option "Azerbaijan"
+                - option "Bahamas"
+                - option "Bahrain"
+                - option "Bangladesh"
+                - option "Barbados"
+                - option "Belarus"
+                - option "Belgium"
+                - option "Belize"
+                - option "Benin"
+                - option "Bermuda"
+                - option "Bhutan"
+                - option "Bolivia"
+                - option "Bosnia and Herzegovina"
+                - option "Botswana"
+                - option "Bouvet Island"
+                - option "Brazil"
+                - option "British Indian Ocean Territory"
+                - option "British Virgin Islands"
+                - option "Brunei"
+                - option "Bulgaria"
+                - option "Burkina Faso"
+                - option "Burundi"
+                - option "Cabo Verde"
+                - option "Cambodia"
+                - option "Cameroon"
+                - option "Canada"
+                - option "Caribbean Netherlands"
+                - option "Cayman Islands"
+                - option "Central African Republic (CAR)"
+                - option "Chad"
+                - option "Chile"
+                - option "China"
+                - option "Christmas Island"
+                - option "Cocos (Keeling) Islands"
+                - option "Colombia"
+                - option "Comoros"
+                - option "Cook Islands"
+                - option "Costa Rica"
+                - option "Cote d’Ivoire"
+                - option "Croatia"
+                - option "Cuba"
+                - option "Curacao"
+                - option "Cyprus"
+                - option "Czech Republic"
+                - option "Democratic Republic of the Congo"
+                - option "Denmark"
+                - option "Djibouti"
+                - option "Dominica"
+                - option "Dominican Republic"
+                - option "Ecuador"
+                - option "Egypt"
+                - option "El Salvador"
+                - option "Equatorial Guinea"
+                - option "Eritrea"
+                - option "Estonia"
+                - option "Ethiopia"
+                - option "Falkland Islands (Malvinas)"
+                - option "Faroe Islands"
+                - option "Fiji"
+                - option "Finland"
+                - option "France"
+                - option "French Guiana"
+                - option "French Polynesia"
+                - option "French Southern Territories"
+                - option "Gabon"
+                - option "Gambia"
+                - option "Georgia"
+                - option "Germany"
+                - option "Ghana"
+                - option "Gibraltar"
+                - option "Greece"
+                - option "Greenland"
+                - option "Grenada"
+                - option "Guadeloupe"
+                - option "Guam"
+                - option "Guatemala"
+                - option "Guernsey"
+                - option "Guinea"
+                - option "Guinea-Bissau"
+                - option "Guyana"
+                - option "Haiti"
+                - option "Heard Island and McDonald Islands"
+                - option "Honduras"
+                - option "Hong Kong"
+                - option "Hungary"
+                - option "Iceland"
+                - option "India"
+                - option "Indonesia"
+                - option "Iran"
+                - option "Iraq"
+                - option "Ireland"
+                - option "Isle of Man"
+                - option "Israel"
+                - option "Italy"
+                - option "Jamaica"
+                - option "Japan"
+                - option "Jersey"
+                - option "Jordan"
+                - option "Kazakhstan"
+                - option "Kenya"
+                - option "Kiribati"
+                - option "Kosovo"
+                - option "Kuwait"
+                - option "Kyrgyzstan"
+                - option "Laos"
+                - option "Latvia"
+                - option "Lebanon"
+                - option "Lesotho"
+                - option "Liberia"
+                - option "Libya"
+                - option "Liechtenstein"
+                - option "Lithuania"
+                - option "Luxembourg"
+                - option "Macao"
+                - option "Madagascar"
+                - option "Malawi"
+                - option "Malaysia"
+                - option "Maldives"
+                - option "Mali"
+                - option "Malta"
+                - option "Marshall Islands"
+                - option "Martinique"
+                - option "Mauritania"
+                - option "Mauritius"
+                - option "Mayotte"
+                - option "Mexico"
+                - option "Micronesia"
+                - option "Moldova"
+                - option "Monaco"
+                - option "Mongolia"
+                - option "Montenegro"
+                - option "Montserrat"
+                - option "Morocco"
+                - option "Mozambique"
+                - option "Myanmar"
+                - option "Namibia"
+                - option "Nauru"
+                - option "Nepal"
+                - option "Netherlands"
+                - option "New Caledonia"
+                - option "New Zealand"
+                - option "Nicaragua"
+                - option "Niger"
+                - option "Nigeria"
+                - option "Niue"
+                - option "Norfolk Island"
+                - option "North Korea"
+                - option "North Macedonia"
+                - option "Northern Mariana Islands"
+                - option "Norway"
+                - option "Oman"
+                - option "Pakistan"
+                - option "Palau"
+                - option "Palestine"
+                - option "Panama"
+                - option "Papua New Guinea"
+                - option "Paraguay"
+                - option "Peru"
+                - option "Philippines"
+                - option "Pitcairn"
+                - option "Poland"
+                - option "Portugal"
+                - option "Puerto Rico"
+                - option "Qatar"
+                - option "Republic of the Congo"
+                - option "Romania"
+                - option "Russia"
+                - option "Rwanda"
+                - option "Réunion"
+                - option "Saint Barthélemy"
+                - option "Saint Helena"
+                - option "Saint Kitts and Nevis"
+                - option "Saint Lucia"
+                - option "Saint Martin"
+                - option "Saint Pierre and Miquelon"
+                - option "Saint Vincent and the Grenadines"
+                - option "Samoa"
+                - option "San Marino"
+                - option "Sao Tome and Principe"
+                - option "Saudi Arabia"
+                - option "Senegal"
+                - option "Serbia"
+                - option "Seychelles"
+                - option "Sierra Leone"
+                - option "Singapore"
+                - option "Sint Maarten"
+                - option "Slovakia"
+                - option "Slovenia"
+                - option "Solomon Islands"
+                - option "Somalia"
+                - option "South Africa"
+                - option "South Georgia and the South Sandwich Islands"
+                - option "South Korea"
+                - option "South Sudan"
+                - option "Spain"
+                - option "Sri Lanka"
+                - option "Sudan"
+                - option "Suriname"
+                - option "Svalbard and Jan Mayen"
+                - option "Swaziland"
+                - option "Sweden"
+                - option "Switzerland"
+                - option "Syria"
+                - option "Taiwan"
+                - option "Tajikistan"
+                - option "Tanzania"
+                - option "Thailand"
+                - option "Timor-Leste"
+                - option "Togo"
+                - option "Tokelau"
+                - option "Tonga"
+                - option "Trinidad and Tobago"
+                - option "Tunisia"
+                - option "Turkey"
+                - option "Turkmenistan"
+                - option "Turks and Caicos Islands"
+                - option "Tuvalu"
+                - option "U.S. Virgin Islands"
+                - option "Uganda"
+                - option "Ukraine"
+                - option "United Arab Emirates (UAE)"
+                - option "United Kingdom (UK)"
+                - option "United States (US)"
+                - option "United States Minor Outlying Islands"
+                - option "Uruguay"
+                - option "Uzbekistan"
+                - option "Vanuatu"
+                - option "Vatican City (Holy See)"
+                - option "Venezuela"
+                - option "Vietnam"
+                - option "Wallis and Futuna Islands"
+                - option "Western Sahara"
+                - option "Yemen"
+                - option "Zambia"
+                - option "Zimbabwe"
+                - option "Åland Islands"
+            - generic [ref=f49e282]:
+              - generic [ref=f49e283]: Which city are you based in?
+              - textbox "Which city are you based in?" [ref=f49e285]
+            - group "Work eligibility is extremely important. Are you legally eligible to work in the country where you’re planning to work from?" [ref=f49e286]:
+              - generic [ref=f49e287]: Work eligibility is extremely important. Are you legally eligible to work in the country where you’re planning to work from?*
+              - generic [ref=f49e288]:
+                - generic [ref=f49e290]:
+                  - radio "Yes, I'm legally eligible to work in the country I'll be working from" [ref=f49e292] [cursor=pointer]
+                  - generic [ref=f49e293]: Yes, I'm legally eligible to work in the country I'll be working from
+                - generic [ref=f49e297]:
+                  - radio "No, I'm not" [ref=f49e299] [cursor=pointer]
+                  - generic [ref=f49e300]: No, I'm not
+            - group "Will you require sponsorship if you join Remote?" [ref=f49e303]:
+              - generic [ref=f49e304]: Will you require sponsorship if you join Remote?*
+              - generic [ref=f49e305]:
+                - generic [ref=f49e307]:
+                  - radio "Yes" [ref=f49e309] [cursor=pointer]
+                  - generic [ref=f49e310]: "Yes"
+                - generic [ref=f49e314]:
+                  - radio "No" [ref=f49e316] [cursor=pointer]
+                  - generic [ref=f49e317]: "No"
+            - group "Do you have a non-compete in place with your previous or current employer that prevents you from working for us?" [ref=f49e320]:
+              - generic [ref=f49e321]: Do you have a non-compete in place with your previous or current employer that prevents you from working for us?*
+              - generic [ref=f49e322]:
+                - generic [ref=f49e324]:
+                  - radio "Yes" [ref=f49e326] [cursor=pointer]
+                  - generic [ref=f49e327]: "Yes"
+                - generic [ref=f49e331]:
+                  - radio "No" [ref=f49e333] [cursor=pointer]
+                  - generic [ref=f49e334]: "No"
+            - generic [ref=f49e337]:
+              - generic [ref=f49e338]: What excites you about this role?*
+              - textbox "What excites you about this role?" [ref=f49e341]
+            - generic [ref=f49e342]:
+              - generic [ref=f49e343]: Do you need any accommodation during the interview process? (Extra time, captions, written formats, anything goes.)
+              - textbox "Do you need any accommodation during the interview process? (Extra time, captions, written formats, anything goes.)" [ref=f49e346]
+            - generic [ref=f49e347]:
+              - generic [ref=f49e348]: Anything else we should know?
+              - textbox "Anything else we should know?" [ref=f49e351]
+            - group "How did you hear about us?" [ref=f49e352]:
+              - generic [ref=f49e353]: How did you hear about us?*
+              - generic [ref=f49e354]:
+                - generic [ref=f49e356]:
+                  - radio "LinkedIn" [ref=f49e358] [cursor=pointer]
+                  - generic [ref=f49e359]: LinkedIn
+                - generic [ref=f49e363]:
+                  - radio "A friend at Remote" [ref=f49e365] [cursor=pointer]
+                  - generic [ref=f49e366]: A friend at Remote
+                - generic [ref=f49e370]:
+                  - radio "Job board" [ref=f49e372] [cursor=pointer]
+                  - generic [ref=f49e373]: Job board
+                - generic [ref=f49e377]:
+                  - radio "Search engine" [ref=f49e379] [cursor=pointer]
+                  - generic [ref=f49e380]: Search engine
+                - generic [ref=f49e384]:
+                  - radio "Other" [ref=f49e386] [cursor=pointer]
+                  - generic [ref=f49e387]: Other
+            - group "At Remote, we are committed to transparency, innovation, and care for our employees and candidates. To support this and ensure we are able to focus on you, not on taking notes, we use brighthire.ai to record and auto-transcript our interviews. If we decide you are a good potential fit for the role, do you consent to us using this tool during the interviewing process? Declining recording will not affect your candidacy." [ref=f49e390]:
+              - generic [ref=f49e391]: At Remote, we are committed to transparency, innovation, and care for our employees and candidates. To support this and ensure we are able to focus on you, not on taking notes, we use brighthire.ai to record and auto-transcript our interviews. If we decide you are a good potential fit for the role, do you consent to us using this tool during the interviewing process? Declining recording will not affect your candidacy.*
+              - paragraph [ref=f49e392]: This applies to this application only. If you apply for another role, we'll ask again.
+              - generic [ref=f49e393]:
+                - generic [ref=f49e395]:
+                  - radio "I consent" [ref=f49e397] [cursor=pointer]
+                  - generic [ref=f49e398]: I consent
+                - generic [ref=f49e402]:
+                  - radio "I don't consent" [ref=f49e404] [cursor=pointer]
+                  - generic [ref=f49e405]: I don't consent
+            - group "Have you developed, maintained, and delivered production-ready backend code in a professional setting?" [ref=f49e408]:
+              - generic [ref=f49e409]: Have you developed, maintained, and delivered production-ready backend code in a professional setting?*
+              - generic [ref=f49e410]:
+                - generic [ref=f49e412]:
+                  - radio "Yes, with Elixir" [ref=f49e414] [cursor=pointer]
+                  - generic [ref=f49e415]: Yes, with Elixir
+                - generic [ref=f49e419]:
+                  - radio "Yes, with other functional programming languages" [ref=f49e421] [cursor=pointer]
+                  - generic [ref=f49e422]: Yes, with other functional programming languages
+                - generic [ref=f49e426]:
+                  - radio "No" [ref=f49e428] [cursor=pointer]
+                  - generic [ref=f49e429]: "No"
+            - generic [ref=f49e432]:
+              - generic [ref=f49e433]: Our backend is built in Elixir. Could you share details about your experience with the language and your thoughts on it? If you don’t have experience with Elixir, how would you approach learning it, and what do you find appealing about functional programming?*
+              - textbox "Our backend is built in Elixir. Could you share details about your experience with the language and your thoughts on it? If you don’t have experience with Elixir, how would you approach learning it, and what do you find appealing about functional programming?" [ref=f49e436]
+            - group "Do you have experience dealing with non-technical conversations with other stakeholders (i.e. product)?" [ref=f49e437]:
+              - generic [ref=f49e438]: Do you have experience dealing with non-technical conversations with other stakeholders (i.e. product)?*
+              - generic [ref=f49e439]:
+                - generic [ref=f49e441]:
+                  - radio "Yes" [ref=f49e443] [cursor=pointer]
+                  - generic [ref=f49e444]: "Yes"
+                - generic [ref=f49e448]:
+                  - radio "No" [ref=f49e450] [cursor=pointer]
+                  - generic [ref=f49e451]: "No"
+            - generic [ref=f49e454]:
+              - generic [ref=f49e455]: Can you share an example of a product or project you led through collaboration with stakeholders, product, and design? Tell us about it.*
+              - textbox "Can you share an example of a product or project you led through collaboration with stakeholders, product, and design? Tell us about it." [ref=f49e458]
+            - generic [ref=f49e459]:
+              - generic [ref=f49e460]: Tell us about your proudest achievement from your last two years of work. Why are you proud of it?*
+              - textbox "Tell us about your proudest achievement from your last two years of work. Why are you proud of it?" [ref=f49e463]
+            - generic [ref=f49e464]:
+              - generic [ref=f49e465]: "Do you use AI coding assistants (Claude, Copilot, etc.) in your work? If yes: describe a specific scenario where you rejected or significantly rewrote the AI output. What did the AI miss, and how did you catch it? If no: what’s your hesitation, and how would you approach learning one if hired?*"
+              - 'textbox "Do you use AI coding assistants (Claude, Copilot, etc.) in your work? If yes: describe a specific scenario where you rejected or significantly rewrote the AI output. What did the AI miss, and how did you catch it? If no: what’s your hesitation, and how would you approach learning one if hired?" [ref=f49e468]'
+            - group "Before you apply, please review how Remote handles your data. Do you acknowledge the notice?" [ref=f49e469]:
+              - generic [ref=f49e470]: Before you apply, please review how Remote handles your data. Do you acknowledge the notice?*
+              - group [ref=f49e472]:
+                - generic "Privacy Notice (GDPR + CCPA)" [ref=f49e473] [cursor=pointer]
+              - generic [ref=f49e476]:
+                - radio "I acknowledge" [ref=f49e478] [cursor=pointer]
+                - generic [ref=f49e479]: I acknowledge
+            - group "Do you consent to us keeping your details on file so we can consider you for future roles? This is separate from your application for this role, and declining won't affect it." [ref=f49e482]:
+              - generic [ref=f49e484]:
+                - generic [ref=f49e486]:
+                  - radio "I consent" [ref=f49e488] [cursor=pointer]
+                  - generic [ref=f49e489]: I consent
+                - generic [ref=f49e493]:
+                  - radio "I don't consent" [ref=f49e495] [cursor=pointer]
+                  - generic [ref=f49e496]: I don't consent
+          - generic [ref=f49e499]:
+            - status
+            - button "Submit application" [ref=f49e500] [cursor=pointer]
+  - contentinfo [ref=f49e19]:
+    - link "Privacy notice" [ref=f49e20] [cursor=pointer]:
+      - /url: /privacy/applicant-notice

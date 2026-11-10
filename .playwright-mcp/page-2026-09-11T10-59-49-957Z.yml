@@ -1,0 +1,226 @@
+- generic [ref=f15e1]:
+  - link "Skip to main content" [ref=f15e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - status [ref=f15e7]
+  - dialog "This website uses cookies to ensure you get the best experience." [ref=f15e8]:
+    - generic [ref=f15e9]:
+      - heading "This website uses cookies to ensure you get the best experience." [level=2] [ref=f15e10]
+      - paragraph [ref=f15e11]: Paystack and our selected partners use cookies and similar technologies (together “cookies”) that are necessary to present this website, and to ensure you get the best experience of it. If you consent to it, we will also use cookies for analytics purposes.
+      - paragraph [ref=f15e12]:
+        - text: See our
+        - link "Cookie Policy" [active] [ref=f15e13] [cursor=pointer]:
+          - /url: https://careers.paystack.com/cookie-policy
+        - text: to read more about the cookies we set.
+      - paragraph [ref=f15e14]: You can withdraw and manage your consent at any time, by clicking “Manage cookies” at the bottom of each website page.
+    - generic [ref=f15e15]:
+      - button "Accept all cookies" [ref=f15e16] [cursor=pointer]
+      - button "Decline all non-necessary cookies" [ref=f15e17] [cursor=pointer]
+      - button "Cookie preferences" [ref=f15e18] [cursor=pointer]
+  - banner [ref=f15e19]:
+    - link "paystack.com" [ref=f15e21] [cursor=pointer]:
+      - /url: https://paystack.com/
+    - link [ref=f15e24] [cursor=pointer]:
+      - /url: https://careers.paystack.com/
+      - img "Paystack career site" [ref=f15e25]
+    - button "Share page" [ref=f15e29] [cursor=pointer]
+  - main [ref=f15e33]:
+    - generic [ref=f15e37]:
+      - generic [ref=f15e38]:
+        - generic [ref=f15e39]:
+          - generic [ref=f15e42]: Search
+          - search "Search" [ref=f15e43]
+        - group "Job filters" [ref=f15e44]:
+          - generic [ref=f15e46]:
+            - generic [ref=f15e47]: Departments
+            - combobox "Departments" [ref=f15e48]:
+              - option "All" [selected]
+              - option "Engineering (8)"
+              - option "Product (1)"
+              - option "Revenue (3)"
+              - option "Business" [disabled]
+              - option "Creative Studio" [disabled]
+              - option "Paystack MFB" [disabled]
+            - button "Departments" [ref=f15e49] [cursor=pointer]
+          - generic [ref=f15e53]:
+            - generic [ref=f15e54]: Countries
+            - combobox "Countries" [ref=f15e55]:
+              - option "All" [selected]
+              - option "Côte d'Ivoire (2)"
+              - option "Ghana (3)"
+              - option "Kenya (4)"
+              - option "Nigeria (6)"
+              - option "South Africa (9)"
+              - option "United Arab Emirates (4)"
+            - button "Countries" [ref=f15e56] [cursor=pointer]
+          - generic [ref=f15e60]:
+            - generic [ref=f15e61]: Locations
+            - combobox "Locations" [ref=f15e62]:
+              - option "All" [selected]
+              - option "Côte d'Ivoire (2)"
+              - option "Ghana (3)"
+              - option "Kenya (4)"
+              - option "Nigeria (6)"
+              - option "South Africa (9)"
+              - option "UAE (4)"
+            - button "Locations" [ref=f15e63] [cursor=pointer]
+          - generic [ref=f15e67]:
+            - generic [ref=f15e68]: Remote Statuses
+            - combobox "Remote Statuses" [ref=f15e69]:
+              - option "All" [selected]
+              - option "No Remote Work (3)"
+              - option "Hybrid (9)"
+              - option "Temporarily Remote" [disabled]
+              - option "Fully Remote" [disabled]
+              - option "Onsite" [disabled]
+            - button "Remote Statuses" [ref=f15e70] [cursor=pointer]
+      - generic [ref=f15e75]:
+        - button "Use my location" [ref=f15e76] [cursor=pointer]
+        - button "Show map above jobs" [ref=f15e80] [cursor=pointer]
+      - generic [ref=f15e84]:
+        - heading "12 jobs" [level=2] [ref=f15e86]
+        - list [ref=f15e89]:
+          - listitem [ref=f15e90]:
+            - link "Product Manager, South Africa Product · South Africa · Hybrid" [ref=f15e91] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs/8341899-product-manager-south-africa
+              - figure [ref=f15e94]:
+                - img "Product Manager, South Africa image" [ref=f15e96]
+              - generic [ref=f15e97]:
+                - generic "Product Manager, South Africa" [ref=f15e98]
+                - generic [ref=f15e99]:
+                  - text: Product · South Africa ·
+                  - generic [ref=f15e100]: Hybrid
+          - listitem [ref=f15e103]:
+            - link "Business Development Manager, South Africa Revenue · South Africa · Hybrid" [ref=f15e104] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs/8341767-business-development-manager-south-africa
+              - figure [ref=f15e107]:
+                - img "Business Development Manager, South Africa image" [ref=f15e109]
+              - generic [ref=f15e110]:
+                - generic "Business Development Manager, South Africa" [ref=f15e111]
+                - generic [ref=f15e112]:
+                  - text: Revenue · South Africa ·
+                  - generic [ref=f15e113]: Hybrid
+          - listitem [ref=f15e116]:
+            - link "Senior Platform Security Engineer Engineering · Nigeria, Kenya, South Africa · Hybrid" [ref=f15e117] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs/8272899-senior-platform-security-engineer
+              - generic [ref=f15e120]:
+                - generic "Senior Platform Security Engineer" [ref=f15e121]
+                - generic [ref=f15e122]:
+                  - text: Engineering · Nigeria, Kenya, South Africa ·
+                  - generic [ref=f15e123]: Hybrid
+          - listitem [ref=f15e126]:
+            - link "Senior IT Engineer Engineering · Nigeria · Hybrid" [ref=f15e127] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs/8271121-senior-it-engineer
+              - generic [ref=f15e130]:
+                - generic "Senior IT Engineer" [ref=f15e131]
+                - generic [ref=f15e132]:
+                  - text: Engineering · Nigeria ·
+                  - generic [ref=f15e133]: Hybrid
+          - listitem [ref=f15e136]:
+            - link "Account Manager, South Africa Revenue · South Africa · Hybrid" [ref=f15e137] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs/8104197-account-manager-south-africa
+              - figure [ref=f15e140]:
+                - img "Account Manager, South Africa image" [ref=f15e142]
+              - generic [ref=f15e143]:
+                - generic "Account Manager, South Africa" [ref=f15e144]
+                - generic [ref=f15e145]:
+                  - text: Revenue · South Africa ·
+                  - generic [ref=f15e146]: Hybrid
+          - listitem [ref=f15e149]:
+            - link "Data Science Lead Engineering · UAE · Hybrid" [ref=f15e150] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs/8049582-data-science-lead
+              - figure [ref=f15e153]:
+                - img "Data Science Lead image" [ref=f15e155]
+              - generic [ref=f15e156]:
+                - generic "Data Science Lead" [ref=f15e157]
+                - generic [ref=f15e158]:
+                  - text: Engineering · UAE ·
+                  - generic [ref=f15e159]: Hybrid
+          - listitem [ref=f15e162]:
+            - link "Senior QA Engineer Engineering · Nigeria · Hybrid" [ref=f15e163] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs/8043013-senior-qa-engineer
+              - figure [ref=f15e166]:
+                - img "Senior QA Engineer image" [ref=f15e168]
+              - generic [ref=f15e169]:
+                - generic "Senior QA Engineer" [ref=f15e170]
+                - generic [ref=f15e171]:
+                  - text: Engineering · Nigeria ·
+                  - generic [ref=f15e172]: Hybrid
+          - listitem [ref=f15e175]:
+            - link "QA Lead Engineering · Multiple locations · Hybrid" [ref=f15e176] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs/8042968-qa-lead
+              - figure [ref=f15e179]:
+                - img "QA Lead image" [ref=f15e181]
+              - generic [ref=f15e182]:
+                - generic "QA Lead" [ref=f15e183]
+                - generic [ref=f15e184]:
+                  - text: Engineering · Multiple locations ·
+                  - generic [ref=f15e185]: Hybrid
+          - listitem [ref=f15e188]:
+            - link "Senior Full Stack Engineer, South Africa Engineering · South Africa" [ref=f15e189] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs/7862201-senior-full-stack-engineer-south-africa
+              - figure [ref=f15e192]:
+                - img "Senior Full Stack Engineer, South Africa image" [ref=f15e194]
+              - generic [ref=f15e195]:
+                - generic "Senior Full Stack Engineer, South Africa" [ref=f15e196]
+                - generic [ref=f15e197]: Engineering · South Africa
+          - listitem [ref=f15e198]:
+            - link "Senior Database Administrator Engineering · Multiple locations" [ref=f15e199] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs/7862199-senior-database-administrator
+              - generic [ref=f15e202]:
+                - generic "Senior Database Administrator" [ref=f15e203]
+                - generic [ref=f15e204]: Engineering · Multiple locations
+          - listitem [ref=f15e205]:
+            - link "Senior Data Engineer Engineering · Multiple locations" [ref=f15e206] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs/7862196-senior-data-engineer
+              - generic [ref=f15e209]:
+                - generic "Senior Data Engineer" [ref=f15e210]
+                - generic [ref=f15e211]: Engineering · Multiple locations
+          - listitem [ref=f15e212]:
+            - link "Business Development Lead, South Africa Revenue · South Africa · Hybrid" [ref=f15e213] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs/7785326-business-development-lead-south-africa
+              - figure [ref=f15e216]:
+                - img "Business Development Lead, South Africa image" [ref=f15e218]
+              - generic [ref=f15e219]:
+                - generic "Business Development Lead, South Africa" [ref=f15e220]
+                - generic [ref=f15e221]:
+                  - text: Revenue · South Africa ·
+                  - generic [ref=f15e222]: Hybrid
+  - contentinfo [ref=f15e225]:
+    - generic [ref=f15e226]:
+      - generic [ref=f15e228]:
+        - list [ref=f15e229]:
+          - listitem [ref=f15e230]:
+            - link "Start" [ref=f15e231] [cursor=pointer]:
+              - /url: https://careers.paystack.com/
+          - listitem [ref=f15e232]:
+            - link "Jobs" [ref=f15e233] [cursor=pointer]:
+              - /url: https://careers.paystack.com/jobs
+          - listitem [ref=f15e234]:
+            - link "Data & privacy" [ref=f15e235] [cursor=pointer]:
+              - /url: /data-privacy
+          - listitem [ref=f15e236]:
+            - button "Manage cookies" [ref=f15e237] [cursor=pointer]
+        - link "paystack.com/" [ref=f15e238] [cursor=pointer]:
+          - /url: https://paystack.com/
+      - generic [ref=f15e239]:
+        - generic [ref=f15e240]:
+          - link "Employee login" [ref=f15e241] [cursor=pointer]:
+            - /url: https://app.teamtailor.com/companies/wZnA9fvqbfU@eu/dashboard
+          - generic [ref=f15e242]: ·
+          - link "SSO" [ref=f15e243] [cursor=pointer]:
+            - /url: /sso_login
+        - link "Candidate Connect login" [ref=f15e245] [cursor=pointer]:
+          - /url: /connect/login
+  - generic [ref=f15e247]:
+    - heading "Already working at Paystack?" [level=2] [ref=f15e248]
+    - paragraph [ref=f15e249]: Let’s recruit together and find your next colleague.
+    - generic [ref=f15e251] [cursor=pointer]:
+      - textbox "Email address without domain" [ref=f15e252]
+      - generic [ref=f15e253]:
+        - textbox "Email address without domain" [ref=f15e254]: name
+        - button "paystack.com" [ref=f15e256]:
+          - generic [ref=f15e258]: "@paystack.com"
+      - button "Log in" [ref=f15e259]
+  - complementary "Applicant tracking system by Teamtailor" [ref=f15e263]:
+    - link "Applicant tracking system by Teamtailor" [ref=f15e264] [cursor=pointer]:
+      - /url: https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=careers.paystack.com&utm_medium=referral&utm_source=career-site

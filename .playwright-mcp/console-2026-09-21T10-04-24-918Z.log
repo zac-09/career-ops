@@ -1,0 +1,17 @@
+[     564ms] [WARNING] Datadog Browser SDK: SDK is loaded more than once. This is unsupported and might have unexpected behavior. @ https://staticfe.bamboohr.com/fe-main/prod/js/fabric.08d8a232.dist.js:98
+[     650ms] [WARNING] Datadog Browser SDK: SDK is loaded more than once. This is unsupported and might have unexpected behavior. @ https://staticfe.bamboohr.com/fe-main/prod/js/rollbar.js/rollbar.min.js:0
+[     660ms] [INFO] 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙 @ https://staticfe.bamboohr.com/fe-main/prod/js/rollbar.js/rollbar.min.js:0
+[     661ms] Uncaught (in promise) TypeError: Cannot read properties of null (reading 'hasPasskey')
+    at Wa (https://staticfe.bamboohr.com/fe-main/prod/js/global.61f983b4.dist.js:1:234743)
+    at 45087 (https://staticfe.bamboohr.com/fe-main/prod/js/global.61f983b4.dist.js:1:240978)
+    at __webpack_require__ (https://staticfe.bamboohr.com/fe-main/prod/js/common.f7e05f00.dist.js:1:1322508)
+    at t (https://staticfe.bamboohr.com/fe-main/prod/js/global.61f983b4.dist.js:1:1583000)
+    at <anonymous> (https://staticfe.bamboohr.com/fe-main/prod/js/global.61f983b4.dist.js:1:1583032)
+    at <anonymous> (https://staticfe.bamboohr.com/fe-main/prod/js/common.f7e05f00.dist.js:1:1323029)
+    at <anonymous> (https://staticfe.bamboohr.com/fe-main/prod/js/global.61f983b4.dist.js:1:1583051)
+    at t (https://staticfe.bamboohr.com/fe-main/prod/js/common.f7e05f00.dist.js:1:1339908)
+    at <anonymous> (https://staticfe.bamboohr.com/fe-main/prod/js/global.61f983b4.dist.js:1:64)
+[    1607ms] [WARNING] Datadog Browser SDK: SDK is loaded more than once. This is unsupported and might have unexpected behavior. @ https://staticfe.bamboohr.com/fe-main/prod/js/rollbar.js/rollbar.min.js:0
+[    1614ms] [WARNING] Datadog Browser SDK: SDK is loaded more than once. This is unsupported and might have unexpected behavior. @ https://staticfe.bamboohr.com/fe-main/prod/js/rollbar.js/rollbar.min.js:0
+[    1898ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://zoftify.bamboohr.com/globals/locale:0
+[    2639ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://api.rollbar.com/api/1/item/:0

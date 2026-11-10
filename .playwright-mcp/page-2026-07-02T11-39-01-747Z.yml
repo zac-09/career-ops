@@ -1,0 +1,171 @@
+- generic [active] [ref=f21e1]:
+  - img "Banner" [ref=f21e3]
+  - main [ref=f21e4]:
+    - generic [ref=f21e5]:
+      - link "Dwelly Logo" [ref=f21e7] [cursor=pointer]:
+        - /url: https://job-boards.eu.greenhouse.io/dwelly
+        - img "Dwelly Logo" [ref=f21e8]
+      - generic [ref=f21e9]:
+        - link "Back to jobs" [ref=f21e10] [cursor=pointer]:
+          - /url: https://job-boards.eu.greenhouse.io/dwelly
+          - img [ref=f21e11]
+          - text: Back to jobs
+        - generic [ref=f21e14]:
+          - generic [ref=f21e15]:
+            - heading "Staff Software Engineer" [level=1] [ref=f21e16]
+            - generic [ref=f21e17]:
+              - img [ref=f21e18]
+              - generic [ref=f21e20]: Remote
+          - button "Apply" [ref=f21e21] [cursor=pointer]
+        - generic [ref=f21e22]:
+          - generic [ref=f21e23]:
+            - heading "About Dwelly" [level=2] [ref=f21e24]
+            - paragraph [ref=f21e25]: "Dwelly — a UK-based, AI-enabled lettings and property management platform, that is growing through a roll-up strategy acquiring estate agencies. The company leverages two arms: i) acquiring existing letting agencies, effectively buying its highly sticky, recurring revenue-type landlords portfolios, and then ii) building a top-notch technology to automate tenant management, payments, and post-rental property maintenance. The company seamlessly integrates AI services to automate all business processes within brick-and-mortar real estate agencies, integrating them into a tech-enabled digital letting platform in two months to radically improve the user experiences and increase efficiency of the business."
+            - paragraph [ref=f21e26]: We’re a fast-growing, product-focused company, backed by top-tier investors and led by a team with deep experience in real estate, technology, and operations.
+            - heading "Position Summary" [level=2] [ref=f21e27]
+            - paragraph [ref=f21e28]: We’re looking for a Staff Software Engineer to join one of our core domain teams — Tenant Find, Property Management, or Payments. This is a high-impact role at the intersection of business, product, architecture, and hands-on execution. You will be expected to understand how the domain works in practice, identify the highest-leverage opportunities for automation, shape the solution, and drive it through to production. You will work in a small, high-ownership team where exceptional engineers can have disproportionate impact. This role requires advanced day-to-day use of AI and LLMs as part of exploring problems, evaluating solution paths, accelerating implementation, and designing automation systems.
+            - heading "Key Responsibilities" [level=2] [ref=f21e29]
+            - list [ref=f21e30]:
+              - listitem [ref=f21e31]:
+                - strong [ref=f21e32]: Deep domain understanding
+                - text: Gain a deep understanding of your assigned domain (Tenant Find, Property Management, or Payments) and identify the highest-leverage opportunities for automation. Understand real operational workflows, including legacy processes, manual work, local exceptions, and agency-specific variations. Determine what should be standardized and what should remain flexible while designing robust, scalable solutions.
+              - listitem [ref=f21e33]:
+                - strong [ref=f21e34]: Automation and AI-driven systems
+                - text: Design, implement, and maintain systems that automate manual processes across acquired agencies. Apply advanced AI and agentic techniques pragmatically to improve decision quality, operational efficiency, and team leverage. Ensure automation reduces operational load, improves reliability, and enhances business margins.
+              - listitem [ref=f21e35]:
+                - strong [ref=f21e36]: Product and architectural collaboration
+                - text: Partner closely with product managers to frame problems, define solutions, and prioritize initiatives. Make architectural decisions grounded in operational reality rather than abstract models. Contribute to moving the system and the people around it toward better outcomes, balancing flexibility, scalability, and reliability.
+              - listitem [ref=f21e37]:
+                - strong [ref=f21e38]: End-to-end ownership and impact
+                - text: Take full responsibility for outcomes, not just implementation. Deliver projects from concept to production rollout, continuously improving processes. Influence the overall direction of your domain, shape automation strategy, and materially improve business economics.
+            - heading "Qualifications and Preferred Background" [level=2] [ref=f21e39]
+            - list [ref=f21e40]:
+              - listitem [ref=f21e41]: Strong engineering background with experience independently delivering complex systems from idea to production
+              - listitem [ref=f21e42]: Solid experience with Node.js + TypeScript and React + TypeScript
+              - listitem [ref=f21e43]: Familiarity with modern TypeScript patterns, tRPC, Drizzle, and SQL (MySQL/Postgres), or ability to ramp up quickly
+              - listitem [ref=f21e44]: Ability to design architectures for fast-changing products with real operational constraints
+              - listitem [ref=f21e45]: High autonomy, ownership, and comfort making decisions under ambiguity
+              - listitem [ref=f21e46]: Product judgment and the ability to connect technical decisions to business outcomes
+              - listitem [ref=f21e47]: Strong understanding of the modern AI landscape and agentic workflows, with pragmatic application beyond hype
+              - listitem [ref=f21e48]: Experience in end-to-end delivery in domains with fragmented legacy workflows and operational complexity
+              - listitem [ref=f21e49]: Strong communication skills and fluency in English
+              - listitem [ref=f21e50]: Higher degree education
+              - listitem [ref=f21e51]: "Startup mentality: resilience, adaptability, and ability to thrive in a fast-paced environment"
+              - listitem [ref=f21e52]: "Customer-centric mindset: focus on delivering value to end-users or clients"
+              - listitem [ref=f21e53]: Strong problem-solving skills – ability to approach challenges logically and propose practical solutions
+            - heading "Compensation and benefits" [level=2] [ref=f21e54]
+            - list [ref=f21e55]:
+              - listitem [ref=f21e56]: The role is fully remote, providing flexibility and enabling seamless collaboration with our geographically distributed team
+              - listitem [ref=f21e57]: Competitive salary with the potential for equity options based on performance, recognising exceptional contributions to our integration success
+            - heading "What is it like being a Dwell-er" [level=2] [ref=f21e58]
+            - paragraph [ref=f21e59]:
+              - text: Feel free to check out
+              - link "Dwelly Core Principles" [ref=f21e60] [cursor=pointer]:
+                - /url: https://docsend.com/view/7v8gwrjaky7mn895
+              - text: . That’s about what we believe in, how we operate and make decisions
+            - paragraph [ref=f21e61]: What we offer is not a fancy office or a static workplace. Instead, this is solving one of the world’s most complex problems in the largest consumer industry in the world (residential rentals), to improve the experience for over 30% of households (more than 5 million in the UK, and over 100 million including EU and US) that live in rental homes
+            - paragraph [ref=f21e62]: This is about disrupting the largest, most antiquated industry in the world, with one of the strongest operational and technical teams that exist in the UK and the EU. We work hard, and we shoot for extremely ambitious results. But we want people to be proud of what they’ve built and be able to look back and say one day “hell yeah, that was me that did it all”
+            - list [ref=f21e63]:
+              - listitem [ref=f21e64]: Customer obsession rather than competitive focus
+              - listitem [ref=f21e65]: Passion for invention
+              - listitem [ref=f21e66]: Operational excellence
+              - listitem [ref=f21e67]: Long-term thinking
+          - paragraph [ref=f21e69]: By applying for this position, you consent to the processing and storage of your personal data for recruitment purposes for up to 365 days, in accordance with our data retention policy and applicable data protection laws.
+        - generic [ref=f21e70]:
+          - img [ref=f21e71]
+          - generic [ref=f21e73]:
+            - paragraph [ref=f21e74]: Create a Job Alert
+            - paragraph [ref=f21e75]: Interested in building your career at Dwelly? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=f21e76] [cursor=pointer]
+      - separator [ref=f21e77]
+      - generic [ref=f21e78]:
+        - generic [ref=f21e79]:
+          - generic [ref=f21e80]:
+            - heading "Apply for this job" [level=2] [ref=f21e82]
+            - generic [ref=f21e83]:
+              - paragraph [ref=f21e85]: "*"
+              - paragraph [ref=f21e86]: indicates a required field
+          - button "Quick Apply with MyGreenhouse" [ref=f21e89] [cursor=pointer]
+        - generic [ref=f21e90]:
+          - generic [ref=f21e91]:
+            - generic [ref=f21e94]:
+              - generic [ref=f21e95]: First Name*
+              - textbox "First Name" [ref=f21e96]
+            - generic [ref=f21e99]:
+              - generic [ref=f21e100]: Last Name*
+              - textbox "Last Name" [ref=f21e101]
+            - generic [ref=f21e104]:
+              - generic [ref=f21e105]: Preferred First Name
+              - textbox "Preferred First Name" [ref=f21e106]
+            - generic [ref=f21e109]:
+              - generic [ref=f21e110]: Email*
+              - textbox "Email" [ref=f21e111]
+            - group "Phone" [ref=f21e113]:
+              - generic [ref=f21e114]: Phone
+              - generic [ref=f21e117]:
+                - generic [ref=f21e118]: Country
+                - generic [ref=f21e119]:
+                  - log [ref=f21e121]
+                  - generic [ref=f21e123]:
+                    - combobox "Country" [ref=f21e126]
+                    - button "Toggle flyout" [ref=f21e128] [cursor=pointer]:
+                      - img [ref=f21e129]
+              - generic [ref=f21e133]:
+                - generic [ref=f21e134]: Phone
+                - textbox "Phone" [ref=f21e135]
+            - group "Resume/CV*" [ref=f21e137]:
+              - generic [ref=f21e138]: Resume/CV*
+              - generic [ref=f21e140]:
+                - generic [ref=f21e142]:
+                  - button "Attach" [ref=f21e143] [cursor=pointer]
+                  - generic [ref=f21e144]: Attach
+                  - button "Attach" [ref=f21e145]
+                - button "Dropbox" [ref=f21e147] [cursor=pointer]
+                - button "Google Drive" [ref=f21e149] [cursor=pointer]
+                - generic [ref=f21e151]:
+                  - button "Enter manually" [ref=f21e152] [cursor=pointer]
+                  - generic [ref=f21e153]: Enter manually
+                - paragraph [ref=f21e154]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=f21e156]:
+              - generic [ref=f21e157]: Cover Letter
+              - generic [ref=f21e159]:
+                - generic [ref=f21e161]:
+                  - button "Attach" [ref=f21e162] [cursor=pointer]
+                  - generic [ref=f21e163]: Attach
+                  - button "Attach" [ref=f21e164]
+                - button "Dropbox" [ref=f21e166] [cursor=pointer]
+                - button "Google Drive" [ref=f21e168] [cursor=pointer]
+                - generic [ref=f21e170]:
+                  - button "Enter manually" [ref=f21e171] [cursor=pointer]
+                  - generic [ref=f21e172]: Enter manually
+                - paragraph [ref=f21e173]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=f21e174]:
+            - separator [ref=f21e175]
+            - generic [ref=f21e178]:
+              - generic [ref=f21e179]: Why are you interested in Dwelly and this Staff Software Engineer role?*
+              - textbox "Why are you interested in Dwelly and this Staff Software Engineer role?" [ref=f21e180]
+            - generic [ref=f21e183]:
+              - generic [ref=f21e184]: Have you worked in a startup, scaleup, founding engineer, or high-ownership environment before?*
+              - textbox "Have you worked in a startup, scaleup, founding engineer, or high-ownership environment before?" [ref=f21e185]
+            - generic [ref=f21e188]:
+              - generic [ref=f21e189]: Which areas are you strongest in?*
+              - textbox "Which areas are you strongest in?" [ref=f21e190]
+            - generic [ref=f21e193]:
+              - generic [ref=f21e194]: Do you currently use AI tools as part of your development workflow? *
+              - textbox "Do you currently use AI tools as part of your development workflow?" [ref=f21e195]
+            - generic [ref=f21e198]:
+              - generic [ref=f21e199]: Are you comfortable working with Node.js / TypeScript, even if it is not your main stack today?*
+              - textbox "Are you comfortable working with Node.js / TypeScript, even if it is not your main stack today?" [ref=f21e200]
+            - generic [ref=f21e203]:
+              - generic [ref=f21e204]: What is your current location and right to work status?*
+              - textbox "What is your current location and right to work status?" [ref=f21e205]
+            - generic [ref=f21e208]:
+              - generic [ref=f21e209]: What is your notice period / availability to start?*
+              - textbox "What is your notice period / availability to start?" [ref=f21e210]
+          - button "Submit application" [ref=f21e212] [cursor=pointer]
+  - contentinfo [ref=f21e213]:
+    - generic [ref=f21e214]:
+      - paragraph [ref=f21e215]: Powered by
+      - link "Greenhouse logo" [ref=f21e216] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=f21e217]

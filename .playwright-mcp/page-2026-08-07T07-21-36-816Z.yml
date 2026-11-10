@@ -1,0 +1,170 @@
+- generic [ref=f36e3]:
+  - banner [ref=f36e4]:
+    - generic [ref=f36e5]:
+      - link "Proxify homepage" [ref=f36e6] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=f36e10]:
+        - list [ref=f36e11]:
+          - listitem [ref=f36e12]:
+            - link "How it works" [ref=f36e13] [cursor=pointer]:
+              - /url: /how-it-works
+          - listitem [ref=f36e14]:
+            - link "Jobs" [ref=f36e15] [cursor=pointer]:
+              - /url: /jobs
+          - listitem [ref=f36e16]:
+            - link "Apply now" [ref=f36e17] [cursor=pointer]:
+              - /url: https://talent.proxify.io/apply
+          - listitem [ref=f36e18]:
+            - link "Login" [ref=f36e19] [cursor=pointer]:
+              - /url: https://app.proxify.io/login
+              - text: LOG IN
+  - main [ref=f36e20]:
+    - generic [ref=f36e23]:
+      - heading "Discover the best remote jobs" [level=1] [ref=f36e24]
+      - paragraph [ref=f36e25]: Build a top career and access leading remote positions at global companies, within +/- 4 hours of your timezone
+      - link "Apply now" [ref=f36e26] [cursor=pointer]:
+        - /url: https://talent.proxify.io/apply
+    - generic [ref=f36e28]:
+      - heading "Top trending developer opportunities" [level=2] [ref=f36e29]
+      - generic [ref=f36e30]:
+        - generic [ref=f36e31]:
+          - generic [ref=f36e32]:
+            - generic [ref=f36e34]:
+              - heading "Frontend Engineer" [level=3] [ref=f36e35]
+              - generic [ref=f36e36]: Energy and Utilities
+            - paragraph [ref=f36e39]: Join a team to create a cutting-edge desktop application using Angular. You'll design interactive dashboards, maps, and timelines, integrate with backend APIs, and ensure a seamless, secure user experience. Enhance usability while following pre-defined design systems and contribute to performance optimization.
+            - generic [ref=f36e40]:
+              - paragraph [ref=f36e41]: Required skills
+              - list [ref=f36e42]:
+                - listitem [ref=f36e43]: Angular
+          - generic [ref=f36e44]:
+            - generic [ref=f36e45]:
+              - paragraph [ref=f36e46]: Stack
+              - paragraph [ref=f36e47]: Frontend
+            - generic [ref=f36e48]:
+              - paragraph [ref=f36e49]: Commitment
+              - paragraph [ref=f36e50]: Full-time
+            - generic [ref=f36e51]:
+              - paragraph [ref=f36e52]: Duration
+              - paragraph [ref=f36e53]: 6+ months
+            - generic [ref=f36e54]:
+              - paragraph [ref=f36e55]: Country
+              - paragraph [ref=f36e56]:
+                - img "United Kingdom flag" [ref=f36e57]
+                - text: United Kingdom
+          - link "Apply now" [ref=f36e58] [cursor=pointer]:
+            - /url: https://talent.proxify.io/apply
+        - generic [ref=f36e59]:
+          - generic [ref=f36e60]:
+            - generic [ref=f36e62]:
+              - heading "Ruby on Rails Task Reviewer" [level=3] [ref=f36e63]
+              - generic [ref=f36e64]: Education Technology (EdTech)
+            - paragraph [ref=f36e67]:
+              - strong [ref=f36e68]: Seeking a Backend Developer/Technical Interviewer
+              - text: with expertise in Ruby on Rails, to act as a Task Reviewer. This role involves reviewing tasks to ensure they are suitable for assessing candidates. Responsibilities include providing detailed feedback on technical tasks related to Ruby on Rails. Be part of an exciting opportunity to shape technical assessments! Flexible hours and potential for ongoing work.
+            - generic [ref=f36e69]:
+              - paragraph [ref=f36e70]: Required skills
+              - list [ref=f36e71]:
+                - listitem [ref=f36e72]: PHP
+                - listitem [ref=f36e73]: Symfony
+                - listitem [ref=f36e74]: Laravel
+          - generic [ref=f36e75]:
+            - generic [ref=f36e76]:
+              - paragraph [ref=f36e77]: Stack
+              - paragraph [ref=f36e78]: Backend
+            - generic [ref=f36e79]:
+              - paragraph [ref=f36e80]: Commitment
+              - paragraph [ref=f36e81]: Part-time
+            - generic [ref=f36e82]:
+              - paragraph [ref=f36e83]: Duration
+              - paragraph [ref=f36e84]: 2 weeks
+            - generic [ref=f36e85]:
+              - paragraph [ref=f36e86]: Country
+              - paragraph [ref=f36e87]:
+                - img "United Kingdom flag" [ref=f36e88]
+                - text: United Kingdom
+          - link "Apply now" [ref=f36e89] [cursor=pointer]:
+            - /url: https://talent.proxify.io/apply
+    - generic [ref=f36e90]:
+      - heading "What's new at Proxify?" [level=1] [ref=f36e93]
+      - generic [ref=f36e95] [cursor=pointer]:
+        - generic [ref=f36e96]:
+          - generic [ref=f36e97]:
+            - img "Best practices for building a scalable Flutter app" [ref=f36e99]
+            - generic [ref=f36e100]: Jun 26, 2023 · 40 min read
+            - heading "Best practices for building a scalable Flutter app" [level=4] [ref=f36e101]
+          - generic [ref=f36e102]: Read more
+        - generic [ref=f36e107]:
+          - generic [ref=f36e108]:
+            - 'img "Artificial intelligence today: An overview" [ref=f36e110]'
+            - generic [ref=f36e111]: Mar 23, 2023 · 6 min read
+            - 'heading "Artificial intelligence today: An overview" [level=4] [ref=f36e112]'
+          - generic [ref=f36e113]: Read more
+        - generic [ref=f36e118]:
+          - generic [ref=f36e119]:
+            - img "The effects of remote work on software development" [ref=f36e121]
+            - generic [ref=f36e122]: Mar 23, 2023 · 8 min read
+            - heading "The effects of remote work on software development" [level=4] [ref=f36e123]
+          - generic [ref=f36e124]: Read more
+        - generic [ref=f36e129]:
+          - generic [ref=f36e130]:
+            - img "What to do when you haven't heard back from your recruiter?" [ref=f36e132]
+            - generic [ref=f36e133]: Apr 26, 2022 · 6 min read
+            - heading "What to do when you haven't heard back from your recruiter?" [level=4] [ref=f36e134]
+          - generic [ref=f36e135]: Read more
+        - generic [ref=f36e140]:
+          - generic [ref=f36e141]:
+            - 'img "Final rundown: Freelance vs contract vs traditional employment" [ref=f36e143]'
+            - generic [ref=f36e144]: Feb 18, 2022 · 18 min read
+            - 'heading "Final rundown: Freelance vs contract vs traditional employment" [level=4] [ref=f36e145]'
+          - generic [ref=f36e146]: Read more
+      - generic [ref=f36e157]:
+        - button "prev" [ref=f36e158] [cursor=pointer]
+        - button "next" [ref=f36e161] [cursor=pointer]
+  - generic [ref=f36e164]:
+    - generic [ref=f36e166]:
+      - heading "Want to join our talent network?" [level=2] [ref=f36e167]
+      - paragraph [ref=f36e168]: Build a career you're proud of with the power of Proxify.
+      - link "Apply now" [ref=f36e169] [cursor=pointer]:
+        - /url: https://talent.proxify.io/apply
+    - contentinfo [ref=f36e170]:
+      - list [ref=f36e172]:
+        - listitem [ref=f36e173]:
+          - link "Proxify homepage" [ref=f36e174] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f36e178]:
+          - list [ref=f36e179]:
+            - listitem [ref=f36e180]:
+              - generic [ref=f36e181]: Navigation
+              - link "How it works" [ref=f36e182] [cursor=pointer]:
+                - /url: /how-it-works
+              - link "The journal" [ref=f36e183] [cursor=pointer]:
+                - /url: /journal
+              - link "Events" [ref=f36e184] [cursor=pointer]:
+                - /url: /events
+              - link "Jobs" [ref=f36e185] [cursor=pointer]:
+                - /url: /jobs
+            - listitem [ref=f36e186]:
+              - generic [ref=f36e187]: Legal
+              - link "Privacy Policy" [ref=f36e188] [cursor=pointer]:
+                - /url: /privacy
+              - link "Cookie Policy" [ref=f36e189] [cursor=pointer]:
+                - /url: /cookie-policy
+              - link "Accessibility Statement" [ref=f36e190] [cursor=pointer]:
+                - /url: /accessibility-statement
+            - listitem [ref=f36e191]:
+              - generic [ref=f36e192]: Contact
+              - link "work@proxify.io" [ref=f36e193] [cursor=pointer]:
+                - /url: mailto:work@proxify.io
+              - paragraph [ref=f36e195]: Barnhusgatan 3 111 23 Stockholm SWEDEN
+            - listitem [ref=f36e196]:
+              - generic [ref=f36e197]: Follow us
+              - generic [ref=f36e198]:
+                - link "linkedin link" [ref=f36e199] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/showcase/proxify-developers/
+                - link "facebook link" [ref=f36e203] [cursor=pointer]:
+                  - /url: https://www.facebook.com/Proxify.Developers
+                - link "instagram link" [ref=f36e207] [cursor=pointer]:
+                  - /url: https://www.instagram.com/proxify.developers
+                - link "twitter link" [ref=f36e215] [cursor=pointer]:
+                  - /url: https://twitter.com/Proxify_Dev

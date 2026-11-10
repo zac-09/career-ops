@@ -1,0 +1,15 @@
+[    1765ms] TypeError: Cannot read properties of null (reading 'style')
+    at https://chippercash.com/career-current-openings:24:16
+[    2028ms] [ERROR] Error: <svg> attribute width: Expected length, "currentWidth". @ https://chippercash.com/career-current-openings:29
+[    2028ms] [ERROR] Error: <svg> attribute height: Expected length, "currentHeight". @ https://chippercash.com/career-current-openings:29
+[    2028ms] [ERROR] Error: <svg> attribute width: Expected length, "currentWidth". @ https://chippercash.com/career-current-openings:31
+[    2028ms] [ERROR] Error: <svg> attribute height: Expected length, "currentHeight". @ https://chippercash.com/career-current-openings:31
+[    2028ms] [ERROR] Error: <svg> attribute width: Expected length, "currentWidth". @ https://chippercash.com/career-current-openings:41
+[    2028ms] [ERROR] Error: <svg> attribute height: Expected length, "currentHeight". @ https://chippercash.com/career-current-openings:41
+[    2028ms] [ERROR] Error: <svg> attribute width: Expected length, "currentWidth". @ https://chippercash.com/career-current-openings:43
+[    2028ms] [ERROR] Error: <svg> attribute height: Expected length, "currentHeight". @ https://chippercash.com/career-current-openings:43
+[    2231ms] [WARNING] Cookie consent popup not found. Cookie consent functionality disabled. @ https://cookie-consent-cdn-prod.pages.dev/cookie-consent/3.0.22/cookie-consent.js:0
+[    2274ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cookie-consent-production.up.railway.app/api/cookie-consent/hostname?hostname=chippercash.com:0
+[    2274ms] [LOG] Error:  TypeError: Failed to fetch
+    at https://cdn.jsdelivr.net/gh/Flowappz/cookie-consent-cdn@v1.1.15/cookie-consent.js:66:23 @ https://cdn.jsdelivr.net/gh/Flowappz/cookie-consent-cdn@v1.1.15/cookie-consent.js:107
+[    2502ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://cdn.announcekit.app/widget-v2.js:0

@@ -1,0 +1,2 @@
+[    3376ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://x.clearbitjs.com/v1/pk_a66b9ed76e62c713c06aab39bfae7234/forms.js?page_path=%2Fjobs:0
+[    4296ms] [LOG] [6si → HS] Injecting: {city: Kampala, state: Central Region, country: Uganda} @ :1

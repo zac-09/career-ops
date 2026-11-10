@@ -1,0 +1,394 @@
+- generic [active] [ref=f15e1]:
+  - generic [ref=f15e2]:
+    - generic [ref=f15e3]:
+      - link "Turso is joining Supabase to give every agent its own database Read the news →" [ref=f15e4] [cursor=pointer]:
+        - /url: /blog/turso-is-joining-supabase
+      - navigation "Global" [ref=f15e6]:
+        - generic [ref=f15e7]:
+          - link "Turso" [ref=f15e8] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f15e17]:
+            - button "Product" [ref=f15e19] [cursor=pointer]
+            - link "Solutions" [ref=f15e23] [cursor=pointer]:
+              - /url: /solutions
+            - link "Customers" [ref=f15e26] [cursor=pointer]:
+              - /url: /blog/category/case-studies
+            - link "Partners" [ref=f15e28] [cursor=pointer]:
+              - /url: /partners
+            - link "Blog" [ref=f15e31] [cursor=pointer]:
+              - /url: /blog
+            - button "Resources" [ref=f15e33] [cursor=pointer]
+            - link "Pricing" [ref=f15e36] [cursor=pointer]:
+              - /url: /pricing
+        - generic [ref=f15e37]:
+          - link "Login" [ref=f15e38] [cursor=pointer]:
+            - /url: /signin
+          - link "Try Cloud free" [ref=f15e39] [cursor=pointer]:
+            - /url: https://app.turso.tech/signup
+    - generic [ref=f15e42]:
+      - generic [ref=f15e43]:
+        - generic [ref=f15e44]:
+          - heading "Millions of Databases. One Architecture." [level=1] [ref=f15e45]: Millions of Databases.One Architecture.
+          - paragraph [ref=f15e46]: Built on SQLite. Fast and lightweight to multiply and run anywhere. Spin a database for every user, agent, and tenant.
+          - link "Start for free now" [ref=f15e48] [cursor=pointer]:
+            - /url: https://app.turso.tech/signup
+        - generic [ref=f15e49]:
+          - generic [ref=f15e50]:
+            - generic [ref=f15e51]: setup.ts
+            - generic [ref=f15e54]: Turso
+          - code [ref=f15e56]: "// Spin up a database for every user import { createClient } from '@tursodatabase/api'; const turso = createClient({ org: process.env.TURSO_ORG, token: process.env.TURSO_PLATFORM_TOKEN, }); const db = await turso.databases.create({ name: `user-${userId}`, group: 'production', }); // That's it. Encrypted. Replicated. Yours."
+      - generic [ref=f15e58]:
+        - generic [ref=f15e59]: Trusted by teams building the next generation of software
+        - generic [ref=f15e60]:
+          - generic [ref=f15e61]:
+            - img "Superhuman"
+          - generic [ref=f15e62]:
+            - img "Mastra"
+          - generic [ref=f15e63]:
+            - img "Val Town"
+          - generic [ref=f15e64]:
+            - img "Resonate"
+          - generic [ref=f15e65]:
+            - img "Drizzle"
+          - generic [ref=f15e66]:
+            - img "CTO"
+          - generic [ref=f15e67]:
+            - img "Poke"
+          - generic [ref=f15e68]:
+            - img "Spice AI"
+    - generic [ref=f15e73]:
+      - generic [ref=f15e74]:
+        - heading "The database wasn't built for a world where every agent wants its own." [level=2] [ref=f15e75]
+        - paragraph [ref=f15e76]: For decades, the default has been one big database per application. One large store, shared by everything, scaled within a single instance. That model is running out of room. AI agents need isolated workspaces. Consumer apps need per-user privacy. Multi-tenant platforms need hard customer boundaries. Global businesses need data sovereignty. The architecture teams want to build now require thousands, sometimes millions, of databases. The infrastructure they have makes that prohibitively expensive or operationally impossible.
+        - paragraph [ref=f15e77]: Turso is an architecture designed from the ground up for many databases, not one large one.
+      - generic [ref=f15e79]:
+        - generic [ref=f15e80]:
+          - heading "Centralized Model" [level=3] [ref=f15e81]
+          - paragraph [ref=f15e82]: One shared database
+          - generic [ref=f15e84]:
+            - generic [ref=f15e85]: T1
+            - generic [ref=f15e86]: T2
+            - generic [ref=f15e87]: T3
+            - generic [ref=f15e88]: T4
+            - generic [ref=f15e89]: T5
+            - generic [ref=f15e90]: T6
+            - generic [ref=f15e91]: T7
+            - generic [ref=f15e92]: T8
+            - generic [ref=f15e93]: T9
+        - generic [ref=f15e94]:
+          - paragraph [ref=f15e103]: A fleet of isolated databases
+          - generic [ref=f15e104]: Fleet Control Plane
+          - generic [ref=f15e105]:
+            - paragraph [ref=f15e106]: Database per tenant
+            - generic [ref=f15e107]:
+              - generic [ref=f15e108]:
+                - generic [ref=f15e109]: T2
+                - generic [ref=f15e110]: Own DB
+              - generic [ref=f15e111]:
+                - generic [ref=f15e112]: T3
+                - generic [ref=f15e113]: Own DB
+              - generic [ref=f15e114]:
+                - generic [ref=f15e115]: T4
+                - generic [ref=f15e116]: Own DB
+              - generic [ref=f15e117]:
+                - generic [ref=f15e118]: T7
+                - generic [ref=f15e119]: Own DB
+              - generic [ref=f15e120]:
+                - generic [ref=f15e121]: T8
+                - generic [ref=f15e122]: Own DB
+              - generic [ref=f15e123]:
+                - generic [ref=f15e124]: T9
+                - generic [ref=f15e125]: Own DB
+              - generic [ref=f15e126]:
+                - generic [ref=f15e127]: T12
+                - generic [ref=f15e128]: Own DB
+              - generic [ref=f15e129]:
+                - generic [ref=f15e130]: T13
+                - generic [ref=f15e131]: Own DB
+              - generic [ref=f15e132]:
+                - generic [ref=f15e133]: T14
+                - generic [ref=f15e134]: Own DB
+    - generic [ref=f15e138]:
+      - heading "Five properties of the architecture, not features layered on top." [level=2] [ref=f15e139]
+      - generic [ref=f15e140]:
+        - generic [ref=f15e141]:
+          - generic [ref=f15e142]: "01"
+          - heading "A database per agent, user, or tenant" [level=3] [ref=f15e143]
+          - paragraph [ref=f15e144]: Spin up thousands or millions of isolated databases programmatically, each with its own boundary. Not a workaround. The architecture.
+          - link "Learn about per-entity isolation" [ref=f15e145] [cursor=pointer]:
+            - /url: /multi-tenancy
+            - text: Learn about per-entity isolation
+            - generic [aria-hidden] [ref=f15e146]: →
+        - generic [ref=f15e147]:
+          - generic [ref=f15e148]: "02"
+          - heading "Lightweight as a file, scalable as a cloud" [level=3] [ref=f15e149]
+          - paragraph [ref=f15e150]: Built on SQLite. Engineered for cloud scale. A lightweight and fast database that can multiply and run anywhere your users are.
+          - link "How Turso Cloud works" [ref=f15e151] [cursor=pointer]:
+            - /url: https://docs.turso.tech
+            - text: How Turso Cloud works
+            - generic [aria-hidden] [ref=f15e152]: →
+        - generic [ref=f15e153]:
+          - generic [ref=f15e154]: "03"
+          - heading "Economics that scale with you" [level=3] [ref=f15e155]
+          - paragraph [ref=f15e156]: When a database is as lightweight as a file, creating one takes almost nothing. Sustainable economics from your first database to your ten-millionth. Not a pricing strategy. A design principle.
+          - link "See pricing" [ref=f15e157] [cursor=pointer]:
+            - /url: /pricing
+            - text: See pricing
+            - generic [aria-hidden] [ref=f15e158]: →
+        - generic [ref=f15e159]:
+          - generic [ref=f15e160]: "04"
+          - heading "Private by design" [level=3] [ref=f15e161]
+          - paragraph [ref=f15e162]: Per-database encryption with customer-held keys. Bring-your-own-cloud deployment. Data residency you control. Privacy and sovereignty as architectural defaults, not enterprise upsells.
+          - link "Security & sovereignty" [ref=f15e163] [cursor=pointer]:
+            - /url: https://trust.turso.tech
+            - text: Security & sovereignty
+            - generic [aria-hidden] [ref=f15e164]: →
+        - generic [ref=f15e165]:
+          - generic [ref=f15e166]: "05"
+          - heading "From local to global, one platform" [level=3] [ref=f15e167]
+          - paragraph [ref=f15e168]: Start with SQLite in your machine. Scale to production across the Cloud. One runtime, one interface, one coherent journey from your laptop to global infrastructure.
+          - link "Try Turso Cloud for free" [ref=f15e169] [cursor=pointer]:
+            - /url: https://app.turso.tech/signup
+            - text: Try Turso Cloud for free
+            - generic [aria-hidden] [ref=f15e170]: →
+    - generic [ref=f15e174]:
+      - generic [ref=f15e175]:
+        - heading "From zero to a database per entity in under a minute." [level=2] [ref=f15e176]
+        - paragraph [ref=f15e177]: SQLite-compatible. SDKs in TypeScript, Python, Rust, and Go. Self-serve from signup to production.
+        - link "Try Cloud free" [ref=f15e179] [cursor=pointer]:
+          - /url: https://app.turso.tech/signup
+      - generic [ref=f15e180]:
+        - generic [ref=f15e181]:
+          - generic [ref=f15e182]:
+            - button "per-agent.ts" [ref=f15e183] [cursor=pointer]
+            - button "per-user.ts" [ref=f15e185] [cursor=pointer]
+            - button "per-tenant.ts" [ref=f15e187] [cursor=pointer]
+          - generic [ref=f15e189]: Turso
+        - code [ref=f15e191]: "import { createClient } from '@tursodatabase/api'; const turso = createClient({ org: process.env.TURSO_ORG, token: process.env.TURSO_PLATFORM_TOKEN, }); // Every agent gets its own isolated workspace const agentDb = await turso.databases.create( `agent-${agentId}`, { group: 'production', schema: 'agent-template' }, ); // Persistent memory. Hard isolation. Near-zero cost."
+    - generic [ref=f15e197]:
+      - generic [ref=f15e198]:
+        - heading "Replicate to the device. Sync to the cloud. One database, everywhere it needs to be." [level=2] [ref=f15e199]
+        - paragraph [ref=f15e200]: Embedded replication lets the same Turso database run on a user's device and stay in sync with the cloud. Read and write locally with zero latency. Sync changes when the device comes online. Build local-first apps, AI agents with persistent memory, and offline-capable products without standing up a second data layer.
+        - link "How embedded replication works" [ref=f15e201] [cursor=pointer]:
+          - /url: https://docs.turso.tech/features/embedded-replicas
+      - figure [ref=f15e202]:
+        - blockquote [ref=f15e203]: “We chose Turso because embedded replication and sync simply aren't available anywhere else.”
+        - generic [ref=f15e204]:
+          - generic [ref=f15e205]:
+            - paragraph [ref=f15e206]: Simon Henriksen
+            - paragraph [ref=f15e207]: CTO, Kin
+          - img "Simon Henriksen" [ref=f15e208]
+    - generic [ref=f15e212]:
+      - heading "The pattern is the same. The use cases are everywhere." [level=2] [ref=f15e213]
+      - generic [ref=f15e214]:
+        - generic [ref=f15e215]:
+          - generic [ref=f15e216]: Engine Labs
+          - heading "Tens of thousands of AI agent teams, each coordinating through its own database, on a $500 per month plan." [level=3] [ref=f15e217]
+          - paragraph [ref=f15e218]: Engine Labs' CTO.new gives every team of AI agents a Turso database as its coordination layer, keeping agent state isolated from core infrastructure and always available.
+          - link "Read the Engine Labs story" [ref=f15e219] [cursor=pointer]:
+            - /url: /blog/cto-new-coordinates-tens-of-thousands-of-ai-agents
+            - text: Read the Engine Labs story
+            - generic [aria-hidden] [ref=f15e220]: →
+        - generic [ref=f15e221]:
+          - generic [ref=f15e222]: Adaptive
+          - heading "Over 2 million databases created, one for every prompt and every version of every user-built app." [level=3] [ref=f15e223]
+          - paragraph [ref=f15e224]: Adaptive gives each iteration of an application its own database, so users can experiment freely while every previous version keeps its state.
+          - link "Read the Adaptive story" [ref=f15e225] [cursor=pointer]:
+            - /url: /blog/turso-cloud-powers-adaptive-ai
+            - text: Read the Adaptive story
+            - generic [aria-hidden] [ref=f15e226]: →
+        - generic [ref=f15e227]:
+          - generic [ref=f15e228]: Poke.com
+          - heading "A full website from a single text message, each one shipping with its own live database." [level=3] [ref=f15e229]
+          - paragraph [ref=f15e230]: Poke's assistant provisions a Turso database for every website it builds, so one site's bad queries never touch another user, and idle sites cost next to nothing.
+          - link "Read the Poke story" [ref=f15e231] [cursor=pointer]:
+            - /url: /blog/how-poke-gives-every-user-their-own-database
+            - text: Read the Poke story
+            - generic [aria-hidden] [ref=f15e232]: →
+      - link "See all customer stories" [ref=f15e234] [cursor=pointer]:
+        - /url: /blog/category/case-studies
+    - generic [ref=f15e240]:
+      - generic [ref=f15e241]:
+        - heading "Built for modern enterprise architecture." [level=2] [ref=f15e242]
+        - paragraph [ref=f15e243]: Per-database encryption with customer-held keys. Bring-your-own-cloud deployment on AWS. Data residency that maps to GDPR, HIPAA, and sovereignty requirements. SOC 2 Type II. Predictable economics from your first thousand customers to your ten-millionth.
+        - generic [ref=f15e244]:
+          - link "Talk to sales" [ref=f15e245] [cursor=pointer]:
+            - /url: /contact
+          - link "See enterprise capabilities" [ref=f15e246] [cursor=pointer]:
+            - /url: /pricing
+            - text: See enterprise capabilities
+            - generic [aria-hidden] [ref=f15e247]: →
+      - generic [ref=f15e248]:
+        - generic [ref=f15e249]: BYOC deployment
+        - generic [ref=f15e257]: Per-database encryption
+        - generic [ref=f15e266]: SOC 2 Type II, GDPR, HIPAA-ready
+    - generic [ref=f15e276]:
+      - generic [ref=f15e277]:
+        - heading "Start where you already are. Scale to where you're going." [level=2] [ref=f15e278]
+        - generic [ref=f15e279]:
+          - generic [ref=f15e280]:
+            - heading "Open-source Turso" [level=3] [ref=f15e281]
+            - paragraph [ref=f15e282]: SQLite-compatible. Runs on your laptop, your servers, your devices. Forever free. The same engine, the same interface, the same code you'll ship to production.
+            - link "Install locally" [ref=f15e283] [cursor=pointer]:
+              - /url: https://docs.turso.tech/introduction
+              - text: Install locally
+              - generic [aria-hidden] [ref=f15e284]: →
+          - generic [ref=f15e285]:
+            - heading "Turso Cloud" [level=3] [ref=f15e286]
+            - paragraph [ref=f15e287]: Provisioning, replication, observability, BYOC, and per-database encryption as a managed service. Self-serve from signup to production in minutes.
+            - link "Try Cloud free" [ref=f15e288] [cursor=pointer]:
+              - /url: https://app.turso.tech/signup
+              - text: Try Cloud free
+              - generic [aria-hidden] [ref=f15e289]: →
+      - img "A local database replicating to a fleet of cloud databases" [ref=f15e292]
+    - generic [ref=f15e296]:
+      - generic [ref=f15e297]:
+        - heading "Built in the open." [level=2] [ref=f15e298]
+        - paragraph [ref=f15e299]: Turso is powered by an open-source community pushing SQLite into the future. Contribute to libSQL, connect with developers, and help shape the next generation of database architecture.
+      - generic [ref=f15e300]:
+        - generic [ref=f15e301]:
+          - generic [ref=f15e302]:
+            - generic [ref=f15e303]: Open Source
+            - heading "Contribute" [level=3] [ref=f15e304]
+            - paragraph [ref=f15e305]: Fork the repository, contribute code, improve documentation, report issues, and help build the database architecture for a world of many databases.
+            - link "Fork Repository" [ref=f15e306] [cursor=pointer]:
+              - /url: https://github.com/tursodatabase/turso/fork
+          - generic [ref=f15e307]:
+            - link [ref=f15e308] [cursor=pointer]:
+              - /url: https://github.com/tursodatabase/turso
+              - heading "Contribute Code" [level=4] [ref=f15e313]
+              - paragraph [ref=f15e314]: Help improve libSQL and Turso for developers everywhere.
+            - link [ref=f15e315] [cursor=pointer]:
+              - /url: https://github.com/tursodatabase/turso/issues
+              - heading "Report Issues" [level=4] [ref=f15e318]
+              - paragraph [ref=f15e319]: Help identify bugs and improve reliability at scale.
+            - link [ref=f15e320] [cursor=pointer]:
+              - /url: https://docs.turso.tech
+              - heading "Documentation" [level=4] [ref=f15e323]
+              - paragraph [ref=f15e324]: Improve guides, tutorials, and onboarding for the community.
+            - link [ref=f15e325] [cursor=pointer]:
+              - /url: https://github.com/tursodatabase/turso
+              - heading "Show Support" [level=4] [ref=f15e328]
+              - paragraph [ref=f15e329]: Star the repository and help spread the word.
+        - generic [ref=f15e330]:
+          - generic [ref=f15e331]:
+            - generic [ref=f15e332]: Community
+            - heading "Discord" [level=3] [ref=f15e333]
+            - paragraph [ref=f15e334]: Connect with developers building AI agents, multi-tenant SaaS, local-first apps, and modern distributed systems on Turso.
+            - link "Join Discord" [ref=f15e335] [cursor=pointer]:
+              - /url: https://tur.so/discord
+          - generic [ref=f15e336]:
+            - link [ref=f15e337] [cursor=pointer]:
+              - /url: https://tur.so/discord
+              - heading "Community Support" [level=4] [ref=f15e342]
+              - paragraph [ref=f15e343]: Get help directly from the Turso community and team.
+            - link [ref=f15e344] [cursor=pointer]:
+              - /url: https://tur.so/discord
+              - heading "Share ideas" [level=4] [ref=f15e348]
+              - paragraph [ref=f15e349]: Discuss architecture patterns, features, and feedback.
+            - link [ref=f15e350] [cursor=pointer]:
+              - /url: https://tur.so/discord
+              - heading "Show your work" [level=4] [ref=f15e353]
+              - paragraph [ref=f15e354]: Share projects and see what others are building.
+            - link [ref=f15e355] [cursor=pointer]:
+              - /url: https://github.com/tursodatabase/turso/releases
+              - heading "Stay updated" [level=4] [ref=f15e361]
+              - paragraph [ref=f15e362]: Get updates on releases, launches, and new capabilities.
+    - generic [ref=f15e368]:
+      - heading "Build with the database you'll never outgrow." [level=2] [ref=f15e369]
+      - paragraph [ref=f15e370]: Free to start. Generous by design. The same architecture from your first prototype to your tenth million customer.
+      - generic [ref=f15e371]:
+        - link "Try Cloud free" [ref=f15e372] [cursor=pointer]:
+          - /url: https://app.turso.tech/signup
+        - link "Talk to sales" [ref=f15e373] [cursor=pointer]:
+          - /url: /contact
+          - text: Talk to sales
+          - generic [aria-hidden] [ref=f15e374]: →
+      - paragraph [ref=f15e375]: No credit card required. Free tier includes 100 databases, 500 million row reads, and 10 million row writes per month.
+    - contentinfo [ref=f15e377]:
+      - generic [ref=f15e378]:
+        - generic [ref=f15e380]:
+          - generic [ref=f15e381]:
+            - term [ref=f15e382]: Turso Cloud
+            - definition [ref=f15e383]:
+              - link "Quickstart" [ref=f15e384] [cursor=pointer]:
+                - /url: https://docs.turso.tech/quickstart
+            - definition [ref=f15e385]:
+              - link "Documentation" [ref=f15e386] [cursor=pointer]:
+                - /url: https://docs.turso.tech
+            - definition [ref=f15e387]:
+              - link "Pricing" [ref=f15e388] [cursor=pointer]:
+                - /url: /pricing
+            - definition [ref=f15e389]:
+              - link "API Status" [ref=f15e390] [cursor=pointer]:
+                - /url: https://status.turso.tech
+            - definition [ref=f15e391]:
+              - link "Terms of Use" [ref=f15e392] [cursor=pointer]:
+                - /url: /terms-of-use
+            - definition [ref=f15e393]:
+              - link "Privacy Policy" [ref=f15e394] [cursor=pointer]:
+                - /url: /privacy-policy
+          - generic [ref=f15e395]:
+            - term [ref=f15e396]
+            - definition [ref=f15e397]:
+              - link "Embedded Replicas" [ref=f15e398] [cursor=pointer]:
+                - /url: https://docs.turso.tech/features/embedded-replicas
+            - definition [ref=f15e399]:
+              - link "Database Branching" [ref=f15e400] [cursor=pointer]:
+                - /url: https://docs.turso.tech/features/branching
+            - definition [ref=f15e401]:
+              - link "Backups & Recovery" [ref=f15e402] [cursor=pointer]:
+                - /url: https://docs.turso.tech/features/point-in-time-recovery
+            - definition [ref=f15e403]:
+              - link "Platform API" [ref=f15e404] [cursor=pointer]:
+                - /url: https://docs.turso.tech/features/platform-api
+          - generic [ref=f15e405]:
+            - term [ref=f15e406]: Turso Database
+            - definition [ref=f15e407]:
+              - link "Quickstart" [ref=f15e408] [cursor=pointer]:
+                - /url: https://docs.turso.tech/introduction
+            - definition [ref=f15e409]:
+              - link "Changelog" [ref=f15e410] [cursor=pointer]:
+                - /url: https://github.com/tursodatabase/turso/blob/main/CHANGELOG.md
+            - definition [ref=f15e411]:
+              - link "Releases" [ref=f15e412] [cursor=pointer]:
+                - /url: https://github.com/tursodatabase/turso/releases
+          - generic [ref=f15e413]:
+            - term [ref=f15e414]: Company
+            - definition [ref=f15e415]:
+              - link "About" [ref=f15e416] [cursor=pointer]:
+                - /url: /about
+            - definition [ref=f15e417]:
+              - link "Contact Us" [ref=f15e418] [cursor=pointer]:
+                - /url: mailto:info@turso.tech
+            - definition [ref=f15e419]:
+              - link "Support" [ref=f15e420] [cursor=pointer]:
+                - /url: https://docs.turso.tech/support
+            - definition [ref=f15e421]:
+              - link "Trust" [ref=f15e422] [cursor=pointer]:
+                - /url: https://trust.turso.tech
+            - definition [ref=f15e423]:
+              - link "Blog" [ref=f15e424] [cursor=pointer]:
+                - /url: /blog
+            - definition [ref=f15e425]:
+              - link "Brand" [ref=f15e426] [cursor=pointer]:
+                - /url: /brand
+        - generic [ref=f15e428]:
+          - generic [ref=f15e429]:
+            - link "RSS" [ref=f15e430] [cursor=pointer]:
+              - /url: /blog/feed.xml
+            - link "YouTube" [ref=f15e434] [cursor=pointer]:
+              - /url: https://www.youtube.com/@tursodatabase
+            - link "Discord" [ref=f15e438] [cursor=pointer]:
+              - /url: https://tur.so/discord
+            - link "X" [ref=f15e442] [cursor=pointer]:
+              - /url: https://x.com/tursodatabase
+            - link "Linkedin" [ref=f15e446] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/turso
+            - link "GitHub" [ref=f15e450] [cursor=pointer]:
+              - /url: https://github.com/tursodatabase
+          - generic [ref=f15e460]:
+            - text: ©
+            - strong [ref=f15e461]: Turso
+            - text: "2026"
+  - alert [ref=f15e462]

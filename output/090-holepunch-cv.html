@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Isaac Mubiru — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { font-family: 'DM Sans', sans-serif; font-size: 11px; line-height: 1.5; color: #1a1a2e; background: #fff; }
+  .page { width: 100%; max-width: 8.5in; margin: 0 auto; padding: 0; }
+  .header { margin-bottom: 16px; }
+  .header h1 { font-family: 'Space Grotesk', sans-serif; font-size: 24px; font-weight: 700; color: #1a1a2e; letter-spacing: -0.02em; margin-bottom: 4px; }
+  .header-gradient { height: 2px; background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%)); border-radius: 1px; margin-bottom: 8px; }
+  .contact-row { display: flex; flex-wrap: wrap; gap: 6px 16px; font-family: 'DM Sans', sans-serif; font-size: 10px; color: #555; }
+  .contact-row a { color: #555; text-decoration: none; white-space: nowrap; }
+  .contact-row .separator { color: #ccc; }
+  .section { margin-bottom: 14px; }
+  .section-title { font-family: 'Space Grotesk', sans-serif; font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; color: hsl(187, 74%, 32%); border-bottom: 1px solid #e5e5e5; padding-bottom: 3px; margin-bottom: 8px; }
+  .summary-text { font-size: 11px; line-height: 1.6; color: #333; }
+  .summary-text p { margin-bottom: 6px; }
+  a { white-space: nowrap; color: hsl(187, 74%, 32%); text-decoration: none; }
+  .competencies-grid { display: flex; flex-wrap: wrap; gap: 6px; }
+  .competency-tag { font-family: 'DM Sans', sans-serif; font-size: 10px; font-weight: 500; color: hsl(187, 74%, 28%); background: hsl(187, 40%, 95%); padding: 3px 10px; border-radius: 3px; border: 1px solid hsl(187, 40%, 88%); }
+  .job { margin-bottom: 12px; }
+  .job-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 2px; }
+  .job-company { font-family: 'Space Grotesk', sans-serif; font-size: 12px; font-weight: 600; color: hsl(270, 70%, 45%); }
+  .job-period { font-size: 10px; color: #777; white-space: nowrap; }
+  .job-role { font-size: 11px; font-weight: 500; color: #444; margin-bottom: 4px; }
+  .job ul { padding-left: 16px; margin-top: 4px; }
+  .job li { font-size: 10.5px; line-height: 1.5; color: #333; margin-bottom: 2px; }
+  .job li strong { font-weight: 600; }
+  .edu-item { margin-bottom: 6px; }
+  .edu-header { display: flex; justify-content: space-between; align-items: baseline; }
+  .edu-title { font-weight: 600; font-size: 11px; color: #333; }
+  .edu-org { color: hsl(270, 70%, 45%); font-weight: 500; }
+  .edu-year { font-size: 10px; color: #777; }
+  .skills-grid { display: flex; flex-direction: column; gap: 3px; }
+  .skill-item { font-size: 10.5px; color: #444; }
+  .skill-category { font-weight: 600; color: #333; font-size: 10.5px; }
+  @media print { body { -webkit-print-color-adjust: exact; print-color-adjust: exact; } .page { padding: 0; } }
+  .avoid-break { break-inside: avoid; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <h1>Isaac Mubiru</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>isaacmubiru99@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://linkedin.com/in/isaac-mubiru-3bb728174">linkedin.com/in/isaac-mubiru</a>
+      <span class="separator">|</span>
+      <a href="https://github.com/zac-09">github.com/zac-09</a>
+      <span class="separator">|</span>
+      <span>Kampala, Uganda (UTC+3)</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">
+      <p>Senior Node.js engineer with 5+ years building distributed, modular backend systems — Apache Kafka topics, NATS Streaming event buses, and gRPC + Protobuf binary contracts across microservices serving four NGO tenants at <a href="https://github.com/zac-09">github.com/zac-09</a>. Led a zero-downtime migration of 20+ production apps from Parse/MongoDB to Firebase at MTailor, cutting ~$5K/month in infra cost while keeping live traffic running.</p>
+      <p>Now actively studying Hypercore, Pear, and DHT architectures (Kademlia / S-Kademlia) — distributed systems is the foundation, P2P is the specialization I'm investing in next. Worldwide-remote experience: 5+ years on US-based teams from Uganda (UTC+3), heavy async written communication, CTO-direct reporting line.</p>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">Node.js</span>
+      <span class="competency-tag">JavaScript</span>
+      <span class="competency-tag">TypeScript</span>
+      <span class="competency-tag">Apache Kafka</span>
+      <span class="competency-tag">NATS Streaming</span>
+      <span class="competency-tag">gRPC + Protobuf</span>
+      <span class="competency-tag">Distributed Systems</span>
+      <span class="competency-tag">Microservices</span>
+      <span class="competency-tag">Pub/Sub</span>
+      <span class="competency-tag">Zero-Downtime Migrations</span>
+      <span class="competency-tag">Firebase / GCP</span>
+      <span class="competency-tag">Docker / Kubernetes</span>
+      <span class="competency-tag">Async-First Remote</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">MTailor</div>
+        <div class="job-period">Sep 2022 – Present</div>
+      </div>
+      <div class="job-role">Software Engineer · US Remote (from Uganda, UTC+3)</div>
+      <ul>
+        <li>Led the end-to-end migration of <strong>20+ production applications</strong> from Parse/MongoDB to Firebase/GCP with <strong>zero downtime</strong>, reporting directly to the CTO.</li>
+        <li>Implemented <strong>real-time two-way sync between MongoDB and Firestore</strong> using Node.js and Google Pub/Sub — parallel write path enabling gradual cutover.</li>
+        <li>Built a 3D visualization feature using video overlay and ffmpeg, increasing buyer conversion.</li>
+        <li>Migrated file storage from Amazon S3 to GCS via Python.</li>
+        <li>Saved the company <strong>~$5,000/month</strong> by migrating all services off AWS.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">Dr Wealth</div>
+        <div class="job-period">Aug 2021 – Jan 2022</div>
+      </div>
+      <div class="job-role">Software Engineer · Singapore Remote</div>
+      <ul>
+        <li>Led optimization of a PWA delivering real-time stock market prices from a Firebase backend.</li>
+        <li>Built ad-hoc jobs to query <strong>over 2 million Firestore records</strong>, keeping customer prices current from Morningstar APIs with sub-15-min freshness.</li>
+        <li>Extended backend APIs using Firebase Cloud Functions and Express.js hosted on Heroku.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">CodeBits</div>
+        <div class="job-period">Jan 2020 – Jul 2021</div>
+      </div>
+      <div class="job-role">Software Engineer · Lead of 4 · Uganda Remote</div>
+      <ul>
+        <li>Architected a <strong>microservices backend with Apache Kafka, NATS Streaming, and gRPC + Protobuf</strong> for FIDA Uganda's case management platform — independent service deploys, supported 4 NGO tenants on shared infra.</li>
+        <li>Built a USSD legal-aid service over a flaky 2G network — Node.js backend with gRPC inter-service contracts and a retry-aware session state machine.</li>
+        <li>Built a cross-platform mobile app for LASPNET using React Native + Expo with Firebase push notifications.</li>
+        <li>Built a case management system for FIDA Uganda and a paralegal database for LASPNET Uganda.</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <div class="job-company">Mind2matter.co</div>
+        <div class="job-period">Jan 2022 – Jul 2022</div>
+      </div>
+      <div class="job-role">Software Engineer · US Remote</div>
+      <ul>
+        <li>Built backends for DeFi applications using Web3 and Node.js — contract integration, transaction signing, off-chain indexing.</li>
+        <li>Delivered React UIs from Figma designs under tight client timelines.</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <div class="edu-title">B.Sc. Computer Engineering — <span class="edu-org">Makerere University</span></div>
+        <div class="edu-year">Aug 2018 – Sep 2022</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section avoid-break">
+    <div class="section-title">Skills</div>
+    <div class="skills-grid">
+      <div class="skill-item"><span class="skill-category">Proficient:</span> Node.js, JavaScript, TypeScript, Firebase, GCP, Apache Kafka, NATS Streaming, gRPC, Protobuf, MongoDB, SQL, Python, Linux, Git, Docker, Kubernetes</div>
+      <div class="skill-item"><span class="skill-category">Intermediate:</span> Go, Rust, AWS, React Native, Web3</div>
+      <div class="skill-item"><span class="skill-category">Currently studying:</span> Hypercore, Pear, Kademlia / DHTs, libuv internals</div>
+      <div class="skill-item"><span class="skill-category">Languages:</span> English (native-level), Kiswahili</div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

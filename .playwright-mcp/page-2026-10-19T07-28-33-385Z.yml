@@ -1,0 +1,232 @@
+- generic [ref=f16e1]:
+  - region "Cookie preferences":
+    - button "Save cookies preferences" [ref=f16e2] [cursor=pointer]:
+      - img "Cookie Control toggle icon" [ref=f16e3]
+    - dialog [ref=f16e5]:
+      - generic [ref=f16e6]:
+        - heading "Your choice regarding cookies on this site" [level=1] [ref=f16e7]
+        - paragraph [ref=f16e8]: Some of these cookies are essential, while others help us to improve our services and your experience by providing insights into how the site is being used.
+      - generic [ref=f16e9]:
+        - button "Accept all" [active] [ref=f16e10] [cursor=pointer]
+        - button "Reject optional" [ref=f16e11] [cursor=pointer]
+        - button "Settings" [ref=f16e12] [cursor=pointer]
+  - banner [ref=f16e14]:
+    - link "Skip to main content" [ref=f16e15] [cursor=pointer]:
+      - /url: "#main"
+    - navigation "Main navigation" [ref=f16e16]:
+      - generic [ref=f16e19]:
+        - link "Remote home" [ref=f16e20] [cursor=pointer]:
+          - /url: /
+        - list [ref=f16e26]:
+          - listitem [ref=f16e27]:
+            - button "Products" [ref=f16e28] [cursor=pointer]
+          - listitem [ref=f16e31]:
+            - button "Solutions" [ref=f16e32] [cursor=pointer]
+          - listitem [ref=f16e35]:
+            - button "Partners" [ref=f16e36] [cursor=pointer]
+          - listitem [ref=f16e39]:
+            - button "Resources" [ref=f16e40] [cursor=pointer]
+          - listitem [ref=f16e43]:
+            - link "Pricing" [ref=f16e44] [cursor=pointer]:
+              - /url: /pricing
+        - generic [ref=f16e45]:
+          - 'button "Select language — current: English" [ref=f16e48] [cursor=pointer]'
+          - generic [ref=f16e54]:
+            - link "Login" [ref=f16e56] [cursor=pointer]:
+              - /url: https://employ.remote.com/sign-in
+            - button "Book a demo" [ref=f16e59] [cursor=pointer]
+  - main [ref=f16e64]:
+    - generic [ref=f16e71]:
+      - heading "Join our team" [level=1] [ref=f16e73]
+      - generic [ref=f16e74]:
+        - paragraph [ref=f16e75]: Remote is a true global company. We do not have an office anywhere in the world. What we offer is the flexibility to work when and where you want, which means you can plan your schedule around your life (and not around meetings).
+        - paragraph [ref=f16e76]: Most of our jobs are globally remote! Job boards often require us to select a location though, so the location you see under the job titles are for advertising purposes only. To check if a role has location or timezone restrictions, please check the Practicals section at the bottom of each advert.
+      - link "See openings" [ref=f16e78] [cursor=pointer]:
+        - /url: "#jobs-wrapper"
+    - navigation "Department filter" [ref=f16e87]:
+      - list [ref=f16e88]:
+        - listitem [ref=f16e89]:
+          - link "All departments" [ref=f16e90] [cursor=pointer]:
+            - /url: /openings
+        - listitem [ref=f16e92]:
+          - link "Customer Experience" [ref=f16e93] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3AQ3VzdG9tZXIgRXhwZXJpZW5jZQ
+        - listitem [ref=f16e95]:
+          - link "Engineering" [ref=f16e96] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3ARW5naW5lZXJpbmc
+        - listitem [ref=f16e98]:
+          - link "EOR Operations" [ref=f16e99] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3ARU9SIE9wZXJhdGlvbnM
+        - listitem [ref=f16e101]:
+          - link "Finance" [ref=f16e102] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3ARmluYW5jZQ
+        - listitem [ref=f16e104]:
+          - link "Legal" [ref=f16e105] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3ATGVnYWw
+        - listitem [ref=f16e107]:
+          - link "Marketing" [ref=f16e108] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3ATWFya2V0aW5n
+        - listitem [ref=f16e110]:
+          - link "Payroll" [ref=f16e111] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3AUGF5cm9sbA
+        - listitem [ref=f16e113]:
+          - link "Product" [ref=f16e114] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3AUHJvZHVjdA
+        - listitem [ref=f16e116]:
+          - link "Risk Operations" [ref=f16e117] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3AUmlzayBPcGVyYXRpb25z
+        - listitem [ref=f16e119]:
+          - link "Sales" [ref=f16e120] [cursor=pointer]:
+            - /url: /openings?id=ats%3Adepartment%3AU2FsZXM
+    - region [ref=f16e127]:
+      - heading "Engineering" [level=2] [ref=f16e129]
+      - list [ref=f16e130]:
+        - listitem [ref=f16e131]:
+          - link "Team Leader, Site Reliability Engineering" [ref=f16e132] [cursor=pointer]:
+            - /url: https://apply.remote.com/jobs/700bb10e-3aaa-4cf8-ae4d-1ec6e2291160
+        - listitem [ref=f16e138]:
+          - link "Senior Forward Deployed Engineer" [ref=f16e139] [cursor=pointer]:
+            - /url: https://apply.remote.com/jobs/3fa54bb8-f45f-41c7-9d51-8460f936192e
+    - generic [ref=f16e149]:
+      - article [ref=f16e150]:
+        - heading [level=3] [ref=f16e156]:
+          - link "Why 6 Scaling Businesses Switched to Remote EOR" [ref=f16e157] [cursor=pointer]:
+            - /url: /blog/why-6-scaling-businesses-switched-to-remote-eor
+      - article [ref=f16e158]:
+        - heading [level=3] [ref=f16e164]:
+          - 'link "Introducing Remote''s new mission & brand: Pay the world" [ref=f16e165] [cursor=pointer]':
+            - /url: /blog/introducing-remote-s-new-mission-brand-pay-the-world
+      - article [ref=f16e166]:
+        - heading [level=3] [ref=f16e172]:
+          - 'link "What good looks like: 8 questions to ask when choosing an EOR" [ref=f16e173] [cursor=pointer]':
+            - /url: /blog/eor/questions-to-ask-when-choosing-an-eor
+  - contentinfo [ref=f16e175]:
+    - generic [ref=f16e176]:
+      - generic [ref=f16e177]:
+        - list [ref=f16e182]:
+          - listitem [ref=f16e183]:
+            - link "App Store (opens in new tab)" [ref=f16e184] [cursor=pointer]:
+              - /url: https://apps.apple.com/app/apple-store/id1613496903?pt=122685638&ct=Remote.com&mt=8
+          - listitem [ref=f16e185]:
+            - link "Google Play (opens in new tab)" [ref=f16e186] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.remote.employ&referrer=utm_source%3DRemote.com%26utm_medium%3Dbanner
+        - navigation "Footer" [ref=f16e187]:
+          - generic [ref=f16e188]:
+            - paragraph [ref=f16e189]: Products
+            - list [ref=f16e190]:
+              - listitem [ref=f16e191]:
+                - link "Global Payroll" [ref=f16e192] [cursor=pointer]:
+                  - /url: /global-hr/global-payroll
+              - listitem [ref=f16e193]:
+                - link "Employer of Record" [ref=f16e194] [cursor=pointer]:
+                  - /url: /global-hr/employer-of-record
+              - listitem [ref=f16e195]:
+                - link "PEO (US)" [ref=f16e196] [cursor=pointer]:
+                  - /url: /global-hr/professional-employer-organization
+              - listitem [ref=f16e197]:
+                - link "Contractor of Record" [ref=f16e198] [cursor=pointer]:
+                  - /url: /global-hr/contractor-of-record
+              - listitem [ref=f16e199]:
+                - link "Contractor Management" [ref=f16e200] [cursor=pointer]:
+                  - /url: /global-hr/contractor-management
+          - generic [ref=f16e201]:
+            - paragraph [ref=f16e202]: Developers
+            - list [ref=f16e203]:
+              - listitem [ref=f16e204]:
+                - link "API Reference" [ref=f16e205] [cursor=pointer]:
+                  - /url: /global-hr/remote-api
+              - listitem [ref=f16e206]:
+                - link "MCP Server" [ref=f16e207] [cursor=pointer]:
+                  - /url: /remote-mcp
+              - listitem [ref=f16e208]:
+                - link "CLI" [ref=f16e209] [cursor=pointer]:
+                  - /url: https://developer.remote.com/
+              - listitem [ref=f16e210]:
+                - link "Webhooks" [ref=f16e211] [cursor=pointer]:
+                  - /url: https://developer.remote.com/docs/subscribing-to-webhooks
+              - listitem [ref=f16e212]:
+                - link "Status" [ref=f16e213] [cursor=pointer]:
+                  - /url: /status
+          - generic [ref=f16e214]:
+            - paragraph [ref=f16e215]: Solutions
+            - list [ref=f16e216]:
+              - listitem [ref=f16e217]:
+                - link "Startups" [ref=f16e218] [cursor=pointer]:
+                  - /url: /global-hr/startups
+              - listitem [ref=f16e219]:
+                - link "Mid-Market" [ref=f16e220] [cursor=pointer]:
+                  - /url: /global-hr/midsize
+              - listitem [ref=f16e221]:
+                - link "Enterprise" [ref=f16e222] [cursor=pointer]:
+                  - /url: /global-hr/enterprise
+              - listitem [ref=f16e223]:
+                - link "Partners" [ref=f16e224] [cursor=pointer]:
+                  - /url: /partners
+          - generic [ref=f16e225]:
+            - paragraph [ref=f16e226]: Resources
+            - list [ref=f16e227]:
+              - listitem [ref=f16e228]:
+                - link "Blog" [ref=f16e229] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=f16e230]:
+                - link "Global hiring guides" [ref=f16e231] [cursor=pointer]:
+                  - /url: /country-explorer
+              - listitem [ref=f16e232]:
+                - link "Help center" [ref=f16e233] [cursor=pointer]:
+                  - /url: https://support.remote.com/
+              - listitem [ref=f16e234]:
+                - link "Security" [ref=f16e235] [cursor=pointer]:
+                  - /url: /why-remote/security-compliance
+              - listitem [ref=f16e236]:
+                - link "Changelog" [ref=f16e237] [cursor=pointer]:
+                  - /url: https://developer.remote.com/docs/changelogs
+          - generic [ref=f16e238]:
+            - paragraph [ref=f16e239]: Company
+            - list [ref=f16e240]:
+              - listitem [ref=f16e241]:
+                - link "About" [ref=f16e242] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f16e243]:
+                - link "Careers" [ref=f16e244] [cursor=pointer]:
+                  - /url: /careers
+              - listitem [ref=f16e245]:
+                - link "Newsroom" [ref=f16e246] [cursor=pointer]:
+                  - /url: /blog/tag/company-news
+              - listitem [ref=f16e247]:
+                - link "Contact" [ref=f16e248] [cursor=pointer]:
+                  - /url: /contact-us
+              - listitem [ref=f16e249]:
+                - link "Accessibility Statement" [ref=f16e250] [cursor=pointer]:
+                  - /url: /policy/accessibility-statement
+          - list [ref=f16e252]:
+            - listitem [ref=f16e253]:
+              - link "Remote's LinkedIn account (opens in new tab)" [ref=f16e254] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/remote.com
+            - listitem [ref=f16e257]:
+              - link "Remote's X account (opens in new tab)" [ref=f16e258] [cursor=pointer]:
+                - /url: https://x.com/remote
+            - listitem [ref=f16e261]:
+              - link "Remote's Instagram account (opens in new tab)" [ref=f16e262] [cursor=pointer]:
+                - /url: https://www.instagram.com/remote/
+            - listitem [ref=f16e265]:
+              - link "Remote's YouTube channel (opens in new tab)" [ref=f16e266] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCPJsrP8zyttajAybEMQBNgA
+      - generic [ref=f16e269]:
+        - paragraph [ref=f16e272]: © 2026 Remote Technologies, Inc. All rights reserved.
+        - list [ref=f16e274]:
+          - listitem [ref=f16e275]:
+            - link "Privacy Policy" [ref=f16e276] [cursor=pointer]:
+              - /url: /policy/privacy-policy
+          - listitem [ref=f16e277]:
+            - link "Cookie Policy" [ref=f16e278] [cursor=pointer]:
+              - /url: /policy/cookie-policy
+          - listitem [ref=f16e279]:
+            - link "Terms of Use" [ref=f16e280] [cursor=pointer]:
+              - /url: /policy/terms-of-use
+          - listitem [ref=f16e281]:
+            - link "Disclaimer" [ref=f16e282] [cursor=pointer]:
+              - /url: /policy/disclaimer
+          - listitem [ref=f16e283]:
+            - link "Imprint" [ref=f16e284] [cursor=pointer]:
+              - /url: /policy/imprint
+  - alert [ref=f16e285]

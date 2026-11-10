@@ -1,0 +1,146 @@
+- generic [ref=f61e2]:
+  - list [ref=f61e4]:
+    - listitem [ref=f61e5]:
+      - link [ref=f61e6] [cursor=pointer]:
+        - /url: https://supabase.com/
+        - img "Supabase" [ref=f61e7]
+    - listitem [ref=f61e8]:
+      - link "Back to Supabase’s Job Listings" [ref=f61e9] [cursor=pointer]:
+        - /url: /supabase
+    - listitem
+  - generic [ref=f61e12]:
+    - heading "Platform Engineer, Edge & Networking" [level=1] [ref=f61e14]
+    - generic [ref=f61e15]:
+      - generic [ref=f61e16]:
+        - generic [ref=f61e17]:
+          - heading "Location" [level=2] [ref=f61e18]
+          - paragraph [ref=f61e19]: Remote, Global
+        - generic [ref=f61e20]:
+          - heading "Employment Type" [level=2] [ref=f61e21]
+          - paragraph [ref=f61e22]: Full time
+        - generic [ref=f61e23]:
+          - heading "Department" [level=2] [ref=f61e24]
+          - paragraph [ref=f61e25]: Engineering
+      - generic [ref=f61e26]:
+        - tablist [ref=f61e27]:
+          - tab "Overview" [selected] [ref=f61e28] [cursor=pointer]
+          - tab "Application" [ref=f61e29] [cursor=pointer]
+        - tabpanel "Overview" [ref=f61e31]:
+          - generic [ref=f61e32]:
+            - paragraph [ref=f61e33]: Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth.
+            - paragraph [ref=f61e34]: "We are seeking a platform engineer to join our Edge & Networking squad. This team owns everything that happens at the network perimeter: API gateway, routing, load balancing, DNS, and secure global traffic distribution."
+            - paragraph [ref=f61e35]: You'll design, build, and operate systems that are both robust and highly automated — enabling us to to scale reliably while maintaining low latency and high availability across our global infrastructure.
+            - paragraph [ref=f61e36]: You will work closely with other infrastructure and product teams to ensure seamless integration, observability, and performance of our edge services.
+            - paragraph [ref=f61e37]
+            - heading "What You’ll Be Responsible for:" [level=3] [ref=f61e38]
+            - list [ref=f61e39]:
+              - listitem [ref=f61e40]:
+                - paragraph [ref=f61e41]: Help build and maintain the Supabase Cloud offering;
+              - listitem [ref=f61e42]:
+                - paragraph [ref=f61e43]: Design and implement Supabase’s global edge router platform;
+              - listitem [ref=f61e44]:
+                - paragraph [ref=f61e45]: Build programmable, API-driven routing logic to dynamically steer customer traffic;
+              - listitem [ref=f61e46]:
+                - paragraph [ref=f61e47]: Work with DNS, WAF, IP networking, TLS termination, CDN integrations, and global load balancing;
+              - listitem [ref=f61e48]:
+                - paragraph [ref=f61e49]: "Implement advanced observability: relevant metric and log capturing, latency measurements, traffic shaping, routing health, and failure mitigation."
+              - listitem [ref=f61e50]:
+                - paragraph [ref=f61e51]: Optimize routing performance to minimize latency and improve reliability across cloud regions.
+              - listitem [ref=f61e52]:
+                - paragraph [ref=f61e53]: Collaborate cross-functionally with other teams to integrate networking solutions into the entire Supabase stack;
+              - listitem [ref=f61e54]:
+                - paragraph [ref=f61e55]: Improve our system architecture to reduce costs while balancing security, reliability, and performance;
+              - listitem [ref=f61e56]:
+                - paragraph [ref=f61e57]: Design CI/CD systems to speed up deployments with proper change and release management processes;
+              - listitem [ref=f61e58]:
+                - paragraph [ref=f61e59]: Participate in on-call rotations, incident response, and post-incident reviews for edge-related issues;
+              - listitem [ref=f61e60]:
+                - paragraph [ref=f61e61]: Resolve escalated support issues, while also identifying and resolving systemic issues across the platform.
+            - heading "You might be a fit if you have:" [level=3] [ref=f61e62]
+            - list [ref=f61e63]:
+              - listitem [ref=f61e64]:
+                - paragraph [ref=f61e65]: 5+ years experience in SRE/DevOps/Cloud Infrastructure;
+              - listitem [ref=f61e66]:
+                - paragraph [ref=f61e67]: 4+ years experience building and operating high-scale networking or edge infrastructure;
+              - listitem [ref=f61e68]:
+                - paragraph [ref=f61e69]: Strong experience with HTTP, TCP/IP, TLS certificate management, CDN internals, load balancing, and global routing;
+              - listitem [ref=f61e70]:
+                - paragraph [ref=f61e71]: Proficiency with traffic proxies / routers (e.g., Envoy, NGINX, HAProxy, Traefik, or building your own);
+              - listitem [ref=f61e72]:
+                - paragraph [ref=f61e73]: Experience designing systems for high availability, failover, and real-time observability;
+              - listitem [ref=f61e74]:
+                - paragraph [ref=f61e75]: Strong software engineering skills (Go);
+              - listitem [ref=f61e76]:
+                - paragraph [ref=f61e77]: Strong debugging and troubleshooting skills across distributed systems;
+              - listitem [ref=f61e78]:
+                - paragraph [ref=f61e79]: Knowledge of IPv6, BGP, Anycast, or advanced routing protocols;
+              - listitem [ref=f61e80]:
+                - paragraph [ref=f61e81]: Experience in managing large deployments on AWS, GCP, Azure, or similar;
+              - listitem [ref=f61e82]:
+                - paragraph [ref=f61e83]: Comfortable with cloud networking primitives (AWS, GCP, Azure, or similar);
+              - listitem [ref=f61e84]:
+                - paragraph [ref=f61e85]: Experience with Infrastructure as Code tools (Pulumi preferred, Terraform/CDK etc also acceptable);
+              - listitem [ref=f61e86]:
+                - paragraph [ref=f61e87]: Experience with being part of on-call rotations for large production systems.
+            - heading [level=3] [ref=f61e88]:
+              - strong [ref=f61e89]: What We Offer
+            - list [ref=f61e90]:
+              - listitem [ref=f61e91]:
+                - paragraph [ref=f61e92]:
+                  - strong [ref=f61e93]: Fully Remote
+                - paragraph [ref=f61e94]: We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.
+              - listitem [ref=f61e95]:
+                - paragraph [ref=f61e96]:
+                  - strong [ref=f61e97]: ESOP
+                - paragraph [ref=f61e98]: Every team member receives ESOP (equity ownership) in the company. We want everyone to share in the upside of what we’re building together.
+              - listitem [ref=f61e99]:
+                - paragraph [ref=f61e100]:
+                  - strong [ref=f61e101]: Tech Allowance
+                - paragraph [ref=f61e102]: Use this budget to set up your ideal work environment—laptop, monitor, headphones, or whatever helps you do your best work.
+              - listitem [ref=f61e103]:
+                - paragraph [ref=f61e104]:
+                  - strong [ref=f61e105]: Health Benefits
+                - paragraph [ref=f61e106]: Supabase covers 100% of health insurance for employees and 80% for dependents, wherever you are. Your wellbeing and your family’s health are important to us.
+              - listitem [ref=f61e107]:
+                - paragraph [ref=f61e108]:
+                  - strong [ref=f61e109]: Annual Off-Sites
+                - paragraph [ref=f61e110]: Once a year, the entire company gathers in a new city for a week of connection, collaboration, and fun. It’s a highlight of our year.
+              - listitem [ref=f61e111]:
+                - paragraph [ref=f61e112]:
+                  - strong [ref=f61e113]: Flexible Work
+                - paragraph [ref=f61e114]: We operate asynchronously and trust you to manage your own time. You know what needs to be done and when.
+              - listitem [ref=f61e115]:
+                - paragraph [ref=f61e116]:
+                  - strong [ref=f61e117]: Professional Development
+                - paragraph [ref=f61e118]: Every team member receives an annual education allowance to spend on learning—courses, books, conferences, or anything that supports your growth.
+                - paragraph [ref=f61e119]
+            - heading [level=3] [ref=f61e120]:
+              - strong [ref=f61e121]: About the Team
+            - paragraph [ref=f61e122]: Supabase was born-remote and open-source-first. We believe our globally distributed team is our secret weapon in building tools developers love.
+            - list [ref=f61e123]:
+              - listitem [ref=f61e124]:
+                - paragraph [ref=f61e125]: ~400 team members
+              - listitem [ref=f61e126]:
+                - paragraph [ref=f61e127]: 60+ countries
+              - listitem [ref=f61e128]:
+                - paragraph [ref=f61e129]: 20+ languages spoken
+              - listitem [ref=f61e130]:
+                - paragraph [ref=f61e131]: Over $1B raised (including our $500M Series F)
+              - listitem [ref=f61e132]:
+                - paragraph [ref=f61e133]: 540,000+ community members
+            - paragraph [ref=f61e134]: We move fast, build in public, and use what we ship. If it’s in your project, we probably use it in ours too. We believe deeply in the open-source ecosystem and strive to support—not replace—existing tools and communities.
+          - link [ref=f61e135] [cursor=pointer]:
+            - /url: /supabase/6c9de03c-e289-4612-9045-492985d0274b/application
+            - button "Apply for this Job" [ref=f61e136]
+  - contentinfo [ref=f61e137]:
+    - link "Learn more about Ashby" [ref=f61e138] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f61e139]: Powered by
+      - img "Ashby" [ref=f61e140]
+    - paragraph [ref=f61e146]:
+      - link "Privacy Policy" [ref=f61e147] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f61e148] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f61e149] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

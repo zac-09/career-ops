@@ -1,0 +1,547 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - navigation "Top navigation" [ref=e5]:
+        - paragraph [ref=e6]: Top navigation
+        - generic [ref=e7]:
+          - link "Buffer" [ref=e9] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e10]: Buffer
+            - img [ref=e11]
+          - generic [ref=e18]:
+            - button "Features" [ref=e20] [cursor=pointer]:
+              - generic [ref=e21]: Features
+              - generic [ref=e22]:
+                - img [ref=e23]
+                - img [ref=e25]
+            - button "Channels" [ref=e28] [cursor=pointer]:
+              - generic [ref=e29]: Channels
+              - generic [ref=e30]:
+                - img [ref=e31]
+                - img [ref=e33]
+            - button "Made for" [ref=e36] [cursor=pointer]:
+              - generic [ref=e37]: Made for
+              - generic [ref=e38]:
+                - img [ref=e39]
+                - img [ref=e41]
+            - button "Resources" [ref=e44] [cursor=pointer]:
+              - generic [ref=e45]: Resources
+              - generic [ref=e46]:
+                - img [ref=e47]
+                - img [ref=e49]
+            - link "Pricing" [ref=e51] [cursor=pointer]:
+              - /url: /pricing?cta=bufferSite-globalNav-pricing-pricing-1
+          - generic [ref=e52]:
+            - link "Log in" [ref=e53] [cursor=pointer]:
+              - /url: https://login.buffer.com/login?plan=free&cycle=year&cta=bufferSite-globalNav-login-1
+              - generic [ref=e54]: Log in
+            - link "Get started for free" [ref=e55] [cursor=pointer]:
+              - /url: https://login.buffer.com/signup?product=buffer&plan=free&cycle=year&cta=bufferSite-globalNav-signup-1
+              - generic [ref=e56]: Get started for free
+    - main [ref=e57]:
+      - generic [ref=e59]:
+        - link "Back to all open roles" [ref=e60] [cursor=pointer]:
+          - /url: /journey#open-roles
+          - img [ref=e61]
+          - generic [ref=e63]: Back to all open roles
+        - heading "Senior Backend Engineer (Platform and API)" [level=1] [ref=e64]
+        - paragraph [ref=e65]: We're looking for a Senior Backend Engineer with experience in designing and implementing public APIs to join our fully remote and mission-driven team!
+        - link "Apply" [ref=e66] [cursor=pointer]:
+          - /url: /journey/6febfd99-d236-48cf-8595-f7d4d0801ec9#apply
+          - generic [ref=e67]:
+            - generic [ref=e68]: Apply
+            - img [ref=e69]
+      - generic [ref=e71]:
+        - region "Role details" [ref=e72]:
+          - heading "Role details" [level=2] [ref=e73]
+          - generic [ref=e74]:
+            - generic [ref=e75]:
+              - term [ref=e76]: Location
+              - definition [ref=e77]: Remote
+            - generic [ref=e78]:
+              - term [ref=e79]: Employment type
+              - definition [ref=e80]: Full time
+            - generic [ref=e81]:
+              - term [ref=e82]: Department
+              - definition [ref=e83]: Engineering
+            - generic [ref=e84]:
+              - term [ref=e85]: Compensation
+              - definition [ref=e86]:
+                - paragraph [ref=e87]: $156,487 – $202,264 • Offers Equity
+                - paragraph [ref=e88]: "We strive for Buffer’s approach to salary, equity, and benefits to be:"
+                - list [ref=e89]:
+                  - listitem [ref=e90]: Transparent
+                  - listitem [ref=e91]: Fair
+                  - listitem [ref=e92]: Simple
+                  - listitem [ref=e93]: Generous
+                - paragraph [ref=e94]:
+                  - link "Read more about our compensation philosophies and approach" [ref=e95] [cursor=pointer]:
+                    - /url: /resources/salary-system/
+                  - text: .
+        - region "Role description" [ref=e96]:
+          - heading "Role description" [level=2] [ref=e97]
+          - generic [ref=e98]:
+            - heading "About Buffer" [level=2] [ref=e99]
+            - paragraph [ref=e100]: We create social media and brand-building software for small businesses, creators, and individuals. Our mission is to provide essential tools to help small businesses get off the ground and grow. Through exceptional customer service and uplifting content, we help our customers believe they can succeed and do good along the way.
+            - paragraph [ref=e101]:
+              - text: Buffer is a fully distributed team, and we’ve always aimed to do things a little differently at Buffer. Since the early days, we’ve focused on building one of the most unique and fulfilling workplaces by rethinking a lot of traditional practices. We also default to transparency, so you can read all about our metrics, and our successes and failures along the way on our
+              - link "Transparency Dashboard" [ref=e102] [cursor=pointer]:
+                - /url: https://buffer.com/open
+              - text: .
+            - paragraph [ref=e103]:
+              - text: We're united by Buffer's
+              - link "values" [ref=e104] [cursor=pointer]:
+                - /url: https://buffer.com/about#values
+              - text: ", and we hire and work from all over the world. We strive to create a diverse and inclusive work environment, and we are building a culture where underrepresented groups are welcome and can flourish. Please note that we do travel to work together in person once or twice per year, and those events are highly encouraged to build deeper connections among our small team."
+            - paragraph [ref=e105]:
+              - text: As you get to know Buffer and consider joining the journey, feel free to read more from
+              - link "Kirsti" [ref=e106] [cursor=pointer]:
+                - /url: https://buffer.com/resources/first-30-days-buffer/
+              - text: and
+              - link "Sabreen" [ref=e107] [cursor=pointer]:
+                - /url: https://buffer.com/resources/joined-3-days-before-the-retreat/
+              - text: as they share their first experiences with Buffer, as well as from
+              - link "Hailley" [ref=e108] [cursor=pointer]:
+                - /url: https://buffer.com/resources/8-years-at-buffer/
+              - text: ", who captured why she still calls Buffer home after 8+ years."
+            - paragraph
+            - heading "About the role" [level=2] [ref=e109]
+            - paragraph [ref=e110]: We’re looking for a senior backend engineer to join the Channels and Platform team at Buffer. You will play a key role in building our public API and creating a future plug-in ecosystem that would elevate Buffer into a platform other developers can build on top of, providing creators the next generation of tools for writing, editing, and managing content.
+            - paragraph [ref=e111]: We’re looking for someone with first-hand experience designing, implementing, and maintaining public APIs and/or extensibility platforms, who enjoys going deep — designing data models, shaping APIs, improving performance, and helping our systems scale with clarity and confidence. You’ll work closely with product, design, and mobile + web engineers to bring ideas to life and keep the user experience smooth and resilient.
+            - paragraph [ref=e112]: We work iteratively and in tight feedback loops, balancing thoughtful engineering with steady momentum. In addition to building a new platform, you’ll help us strengthen our internal systems, making them faster, more scalable, and better equipped to power content creation at scale. There’s real room here to shape this direction and make an impact.
+            - paragraph
+            - heading "What you’ll do" [level=2] [ref=e113]
+            - list [ref=e114]:
+              - listitem [ref=e115]:
+                - paragraph [ref=e116]: Be part of a small, dedicated squad within the Channels and Platform team responsible for Public API development.
+              - listitem [ref=e117]:
+                - paragraph [ref=e118]: Lead the development of the backend systems for the Buffer Platform. This includes creating an API for core Buffer features, internal services to ensure Public API stability, availability, high performance, and developer tools for platform clients.
+              - listitem [ref=e119]:
+                - paragraph [ref=e120]: Improve and evolve our internal systems — helping consolidate services into a monorepo, improve tooling and observability, and reduce complexity across the board.
+              - listitem [ref=e121]:
+                - paragraph [ref=e122]: Collaborate closely with engineers, product, and design to scope work, explore trade-offs, and find the simplest path to something great.
+              - listitem [ref=e123]:
+                - paragraph [ref=e124]: Make steady improvements to performance, reliability, and data modeling, helping us scale quality over time.
+              - listitem [ref=e125]:
+                - paragraph [ref=e126]: Participate in on-call rotation (all engineers take on a 24/7 week-long shift once a quarter on average) and day-to-day maintenance work required to keep the lights on the systems owned by the team (this includes bug fixing, addressing security vulnerabilities, incident follow-ups, etc.)
+              - listitem [ref=e127]:
+                - paragraph [ref=e128]: Contribute to shaping our engineering culture by sharing knowledge, reviewing code, and leading by example.
+            - paragraph
+            - heading "Helpful skills and experience" [level=2] [ref=e129]
+            - list [ref=e130]:
+              - listitem [ref=e131]:
+                - paragraph [ref=e132]: You have practical experience designing, implementing, and maintaining public APIs, plug-in ecosystems, or extensibility platforms.
+              - listitem [ref=e133]:
+                - paragraph [ref=e134]: You have deep experience with modern stack — we use Node.js, TypeScript, GraphQL, and MongoDB.
+              - listitem [ref=e135]:
+                - paragraph [ref=e136]: You’ve led backend projects from start to finish — shaping architecture, guiding trade-offs, and delivering reliable systems that support real-world product needs.
+              - listitem [ref=e137]:
+                - paragraph [ref=e138]: You have strong systems thinking. You look beyond the immediate task, anticipate downstream effects, and help teams converge on architecture that supports the long game.
+              - listitem [ref=e139]:
+                - paragraph [ref=e140]: You’ve worked across teams to drive platform or infrastructure improvements — whether simplifying service boundaries, improving observability, or evolving internal tooling.
+              - listitem [ref=e141]:
+                - paragraph [ref=e142]: You’ve contributed to collaborative or multi-user product features, and you understand the data, consistency, and UX considerations that come with them.
+              - listitem [ref=e143]:
+                - paragraph [ref=e144]: You’re fluent with modern AI tools — not just using them for code generation, but integrating them into how you debug, document, explore ideas, and reduce manual effort.
+              - listitem [ref=e145]:
+                - paragraph [ref=e146]: You care about performance, scale, and clean abstractions — and know how to measure, prioritize, and improve them pragmatically.
+              - listitem [ref=e147]:
+                - paragraph [ref=e148]: You’ve influenced engineering culture through code reviews, mentoring, or leading by example, and you’re comfortable being a resource for others on architectural decisions.
+              - listitem [ref=e149]:
+                - paragraph [ref=e150]: You have a personal stake in the world of content creation; maybe you’ve run a newsletter, built an audience on social media, or regularly shared your own work online. You’ve used Buffer before and care about the experience of planning, creating, and publishing content.
+              - listitem [ref=e151]:
+                - paragraph [ref=e152]: You thrive in remote, async environments. You’re clear in your thinking, generous with context, and don’t wait for perfect information to get started.
+              - listitem [ref=e153]:
+                - paragraph [ref=e154]: You’ve likely been doing this for 7+ years, but experience depth and impact matter more to us than a specific number.
+            - paragraph
+            - heading "Our tech stack" [level=2] [ref=e155]
+            - list [ref=e156]:
+              - listitem [ref=e157]:
+                - paragraph [ref=e158]: We use NodeJS, TypeScript, and MongoDB, but part of our core legacy systems are written in PHP (including old APIs)
+              - listitem [ref=e159]:
+                - paragraph [ref=e160]: We are in the process of migrating to GraphQL, and we use Apollo Client in our web application.
+              - listitem [ref=e161]:
+                - paragraph [ref=e162]: We are running our services on AWS with Kubernetes. We follow a microservices architecture and are currently moving our services into a central shared monorepo.
+              - listitem [ref=e163]:
+                - paragraph [ref=e164]: On the frontend, we use React and TypeScript for our web frontends
+              - listitem [ref=e165]:
+                - paragraph [ref=e166]: We have an internal design system called Popcorn that we started developing last year. It is built with Radix primitives, CSS modules, Storybook, and our own system of design tokens
+              - listitem [ref=e167]:
+                - paragraph [ref=e168]: We write automated tests with jest, react testing library (for integration tests), and Playwright (for e2e tests)
+            - paragraph
+            - heading "Interview process" [level=2] [ref=e169]
+            - paragraph [ref=e170]: Here's what our hiring process for this role is like.
+            - list [ref=e171]:
+              - listitem [ref=e172]:
+                - paragraph [ref=e173]:
+                  - strong [ref=e174]: Application.
+                  - text: When submitting your application and resume, tell us why you want to join Buffer and take your time. This is your chance to make a strong first impression.
+                - list [ref=e175]:
+                  - listitem [ref=e176]:
+                    - paragraph [ref=e177]: "Please note: While we have several engineering roles open, we recommend applying to only one role - just choose one that resonates with you the most. If during our review or interviews we think you'd be great for a different position, we'll re-route your application internally."
+              - listitem [ref=e178]:
+                - paragraph [ref=e179]:
+                  - strong [ref=e180]: Hiring manager interview.
+                  - text: Chat with the hiring manager for your role to understand what it takes to work at Buffer. This is an opportunity for both sides to get to know each other and determine whether our expectations align.
+              - listitem [ref=e181]:
+                - paragraph [ref=e182]:
+                  - strong [ref=e183]: Code review assignment.
+                  - text: We'll send you
+                  - strong [ref=e184]
+                  - text: 30-minute asynchronous assignment to review a pull request, to help us understand how you think about code and communicate technical ideas.
+              - listitem [ref=e185]:
+                - paragraph [ref=e186]:
+                  - strong [ref=e187]: Technical interviews.
+                  - text: Interview with a couple of engineers from Buffer focused on your technical experience and approach. Additionally, for senior+ roles, we'll have an additional conversation about your leadership, how you work with teams, and how you approach the broader challenges that come with this level.
+              - listitem [ref=e188]:
+                - paragraph [ref=e189]:
+                  - strong [ref=e190]: Meet the CEO.
+                  - text: At the very end, you will have the opportunity to meet with Joel Gascoigne, our CEO. This is a great chance for you to gain a deeper understanding of Buffer's strategy, values, and work processes.
+              - listitem [ref=e191]:
+                - paragraph [ref=e192]:
+                  - strong [ref=e193]: Collaboration period.
+                  - text: This is experimental stage for us where you would work with us on a real project over 2 days (fully paid). The goal is to see how it feels to work in the team, both for us and for you. You'll meet a few bufferoos, we'll kickoff the project, and invite you to a Slack and you'll collaborate with the team on it.
+              - listitem [ref=e194]:
+                - paragraph [ref=e195]:
+                  - strong [ref=e196]: Offer.
+                  - text: We wrap it up with an offer and discuss the final details. We would align on the last bits before we make you part of the Buffer team 💛
+            - paragraph [ref=e197]:
+              - emphasis [ref=e198]: At Buffer, we value diversity of experience, and we understand that comes in many forms. We’re dedicated to adding new perspectives to the team. So, if your experience is close to what we’re looking for, please consider applying.
+            - paragraph [ref=e199]:
+              - emphasis [ref=e200]: By submitting the application, you consent to Buffer collecting and processing your personal data for recruiting purposes, find more details in our
+              - link "Privacy Policy" [ref=e201] [cursor=pointer]:
+                - /url: https://buffer.notion.site/Privacy-Policy-for-Applicants-230a7f5a00fd80e48478f09171d18a24?pvs=143
+                - emphasis [ref=e202]: Privacy Policy
+              - emphasis [ref=e203]: .
+        - region "Apply" [ref=e204]:
+          - heading "Apply" [level=2] [ref=e205]
+      - region "Perks and benefits" [ref=e208]:
+        - generic [ref=e209]:
+          - generic [ref=e210]:
+            - heading "Perks and benefits" [level=2] [ref=e211]
+            - paragraph [ref=e212]: Our focus with perks and benefits is to offer everything teammates need to do their best, healthiest work and keep developing their craft.
+          - list [ref=e213]:
+            - listitem [ref=e214]:
+              - generic [ref=e216]: 💰
+              - generic [ref=e217]:
+                - heading "Competitive salary" [level=3] [ref=e218]
+                - paragraph [ref=e219]:
+                  - text: Our
+                  - link "salary formula" [ref=e220] [cursor=pointer]:
+                    - /url: /salaries
+                  - text: adjusts to your cost of living and experience.
+            - listitem [ref=e221]:
+              - generic [ref=e223]: 🏝
+              - generic [ref=e224]:
+                - heading "Work remotely" [level=3] [ref=e225]
+                - paragraph [ref=e226]: Live and work wherever you are the happiest and most productive!
+            - listitem [ref=e227]:
+              - generic [ref=e229]: 🗓
+              - generic [ref=e230]:
+                - heading "4-Day workweeks" [level=3] [ref=e231]
+                - paragraph [ref=e232]: Our schedule is four workdays, with a flexible, meeting-free fifth day for overflow tasks or personal time as you see fit.
+            - listitem [ref=e233]:
+              - generic [ref=e235]: 💪
+              - generic [ref=e236]:
+                - heading "Health insurance" [level=3] [ref=e237]
+                - paragraph [ref=e238]: We offer health insurance for all of our team members, international or US.
+            - listitem [ref=e239]:
+              - generic [ref=e241]: 🏠
+              - generic [ref=e242]:
+                - heading "Home office setup" [level=3] [ref=e243]
+                - paragraph [ref=e244]: Get $1000 to set up your home office!
+            - listitem [ref=e245]:
+              - generic [ref=e247]: 👓
+              - generic [ref=e248]:
+                - heading "Growth mindset fund" [level=3] [ref=e249]
+                - paragraph [ref=e250]: Extra money each year for learning and development.
+            - listitem [ref=e251]:
+              - generic [ref=e253]: 💻
+              - generic [ref=e254]:
+                - heading "New laptop" [level=3] [ref=e255]
+                - paragraph [ref=e256]: Get a powerful new laptop or PC from your first day at Buffer and every 3 years after.
+            - listitem [ref=e257]:
+              - generic [ref=e259]: 📚
+              - generic [ref=e260]:
+                - heading "Unlimited free books" [level=3] [ref=e261]
+                - paragraph [ref=e262]: Get a free Kindle and all the digital or audio books you like, no questions asked.
+            - listitem [ref=e263]:
+              - generic [ref=e265]: ⚡
+              - generic [ref=e266]:
+                - heading "AI tools stipend" [level=3] [ref=e267]
+                - paragraph [ref=e268]: Level up your work with the latest AI tools.
+            - listitem [ref=e269]:
+              - generic [ref=e271]: ⛺️
+              - generic [ref=e272]:
+                - heading "Flexible time off" [level=3] [ref=e273]
+                - paragraph [ref=e274]: No set limits. Take the time you need to rest and recharge.
+            - listitem [ref=e275]:
+              - generic [ref=e277]: 💵
+              - generic [ref=e278]:
+                - heading "Savings plan" [level=3] [ref=e279]
+                - paragraph [ref=e280]: With 3% company match.
+            - listitem [ref=e281]:
+              - generic [ref=e283]: 📈
+              - generic [ref=e284]:
+                - heading "Profit sharing" [level=3] [ref=e285]
+                - paragraph [ref=e286]: When the company does well, all team members share the profits.
+            - listitem [ref=e287]:
+              - generic [ref=e289]: 🍼
+              - generic [ref=e290]:
+                - heading "Family leave" [level=3] [ref=e291]
+                - paragraph [ref=e292]: 16 weeks of family leave for all parents, fully paid.
+            - listitem [ref=e293]:
+              - generic [ref=e295]: 👨‍👩‍👧
+              - generic [ref=e296]:
+                - heading "Family support fund" [level=3] [ref=e297]
+                - paragraph [ref=e298]: A stipend for each kiddo.
+            - listitem [ref=e299]:
+              - generic [ref=e301]: ☕️
+              - generic [ref=e302]:
+                - heading "Working smarter stipend" [level=3] [ref=e303]
+                - paragraph [ref=e304]: Extra funds for a coworking space or some coffee shop treats.
+            - listitem [ref=e305]:
+              - generic [ref=e307]: ⛱
+              - generic [ref=e308]:
+                - heading "Sabbaticals" [level=3] [ref=e309]
+                - paragraph [ref=e310]: Take a 6-week break, fully paid, after every 5 years with Buffer.
+    - contentinfo [ref=e312]:
+      - heading "Buffer" [level=2] [ref=e313]
+      - generic [ref=e314]:
+        - generic [ref=e315]:
+          - generic [ref=e316]:
+            - generic [ref=e317]:
+              - heading "Features" [level=3] [ref=e318]
+              - list [ref=e319]:
+                - listitem [ref=e320]:
+                  - link "Create" [ref=e321] [cursor=pointer]:
+                    - /url: /create
+                - listitem [ref=e322]:
+                  - link "Publish" [ref=e323] [cursor=pointer]:
+                    - /url: /publish
+                - listitem [ref=e324]:
+                  - link "Community" [ref=e325] [cursor=pointer]:
+                    - /url: /community
+                - listitem [ref=e326]:
+                  - link "Analyze" [ref=e327] [cursor=pointer]:
+                    - /url: /analyze
+                - listitem [ref=e328]:
+                  - link "Collaborate" [ref=e329] [cursor=pointer]:
+                    - /url: /collaborate
+            - generic [ref=e330]:
+              - heading "Tools" [level=3] [ref=e331]
+              - list [ref=e332]:
+                - listitem [ref=e333]:
+                  - link "AI Assistant" [ref=e334] [cursor=pointer]:
+                    - /url: /ai-assistant
+                - listitem [ref=e335]:
+                  - link "Start Page" [ref=e336] [cursor=pointer]:
+                    - /url: /start-page
+                - listitem [ref=e337]:
+                  - link "Integrations" [ref=e338] [cursor=pointer]:
+                    - /url: /integrations
+                - listitem [ref=e339]:
+                  - link "iOS App" [ref=e340] [cursor=pointer]:
+                    - /url: https://apps.apple.com/us/app/buffer-plan-schedule-posts/id490474324?pt=936146&ct=SiteFooter&mt=8
+                - listitem [ref=e341]:
+                  - link "Android App" [ref=e342] [cursor=pointer]:
+                    - /url: https://play.google.com/store/apps/details?id=org.buffer.android&hl=en
+                - listitem [ref=e343]:
+                  - link "Browser Extension" [ref=e344] [cursor=pointer]:
+                    - /url: /extensions
+          - generic [ref=e345]:
+            - heading "Channels" [level=3] [ref=e346]
+            - list [ref=e347]:
+              - listitem [ref=e348]:
+                - link "Bluesky" [ref=e349] [cursor=pointer]:
+                  - /url: /bluesky
+              - listitem [ref=e350]:
+                - link "Facebook" [ref=e351] [cursor=pointer]:
+                  - /url: /facebook
+              - listitem [ref=e352]:
+                - link "Google Business Profile" [ref=e353] [cursor=pointer]:
+                  - /url: /google-business-profile
+              - listitem [ref=e354]:
+                - link "Instagram" [ref=e355] [cursor=pointer]:
+                  - /url: /instagram
+              - listitem [ref=e356]:
+                - link "LinkedIn" [ref=e357] [cursor=pointer]:
+                  - /url: /linkedin
+              - listitem [ref=e358]:
+                - link "Mastodon" [ref=e359] [cursor=pointer]:
+                  - /url: /mastodon
+              - listitem [ref=e360]:
+                - link "Pinterest" [ref=e361] [cursor=pointer]:
+                  - /url: /pinterest
+              - listitem [ref=e362]:
+                - link "Threads" [ref=e363] [cursor=pointer]:
+                  - /url: /threads
+              - listitem [ref=e364]:
+                - link "TikTok" [ref=e365] [cursor=pointer]:
+                  - /url: /tiktok
+              - listitem [ref=e366]:
+                - link "X" [ref=e367] [cursor=pointer]:
+                  - /url: /x
+              - listitem [ref=e368]:
+                - link "YouTube" [ref=e369] [cursor=pointer]:
+                  - /url: /youtube
+          - generic [ref=e370]:
+            - heading "Made for" [level=3] [ref=e371]
+            - list [ref=e372]:
+              - listitem [ref=e373]:
+                - link "Creators" [ref=e374] [cursor=pointer]:
+                  - /url: /made-for/creators
+              - listitem [ref=e375]:
+                - link "Small Business" [ref=e376] [cursor=pointer]:
+                  - /url: /made-for/small-business
+              - listitem [ref=e377]:
+                - link "Agencies" [ref=e378] [cursor=pointer]:
+                  - /url: /agency
+              - listitem [ref=e379]:
+                - link "Nonprofits" [ref=e380] [cursor=pointer]:
+                  - /url: /nonprofits
+              - listitem [ref=e381]:
+                - link "Higher Education" [ref=e382] [cursor=pointer]:
+                  - /url: /made-for/higher-education
+        - generic [ref=e383]:
+          - generic [ref=e384]:
+            - heading "Resources" [level=3] [ref=e385]
+            - list [ref=e386]:
+              - listitem [ref=e387]:
+                - link "Blog" [ref=e388] [cursor=pointer]:
+                  - /url: /resources/
+              - listitem [ref=e389]:
+                - link "Template Library" [ref=e390] [cursor=pointer]:
+                  - /url: /templates
+              - listitem [ref=e391]:
+                - link "Social Media Insights" [ref=e392] [cursor=pointer]:
+                  - /url: /insights
+              - listitem [ref=e393]:
+                - link "Resource Library" [ref=e394] [cursor=pointer]:
+                  - /url: /library
+              - listitem [ref=e395]:
+                - link "Social Media Terms Glossary" [ref=e396] [cursor=pointer]:
+                  - /url: /social-media-terms
+              - listitem [ref=e397]:
+                - link "Free Marketing Tools" [ref=e398] [cursor=pointer]:
+                  - /url: /free-tools
+              - listitem [ref=e399]:
+                - link "AI Social Media Post Generator" [ref=e400] [cursor=pointer]:
+                  - /url: /ai-assistant/social-media-post-creator
+              - listitem [ref=e401]:
+                - link "Compare Buffer" [ref=e402] [cursor=pointer]:
+                  - /url: /compare
+              - listitem [ref=e403]:
+                - link "Our Community" [ref=e404] [cursor=pointer]:
+                  - /url: /our-community
+          - generic [ref=e405]:
+            - generic [ref=e406]:
+              - heading "Support" [level=3] [ref=e407]
+              - list [ref=e408]:
+                - listitem [ref=e409]:
+                  - link "Help Center" [ref=e410] [cursor=pointer]:
+                    - /url: https://support.buffer.com/
+                - listitem [ref=e411]:
+                  - link "Status" [ref=e412] [cursor=pointer]:
+                    - /url: https://status.buffer.com/
+                - listitem [ref=e413]:
+                  - link "Changelog" [ref=e414] [cursor=pointer]:
+                    - /url: https://suggestions.buffer.com/changelog
+                - listitem [ref=e415]:
+                  - link "Request a Feature" [ref=e416] [cursor=pointer]:
+                    - /url: https://suggestions.buffer.com/
+            - generic [ref=e417]:
+              - heading "Transparency" [level=3] [ref=e418]
+              - list [ref=e419]:
+                - listitem [ref=e420]:
+                  - link "Open Hub" [ref=e421] [cursor=pointer]:
+                    - /url: /open
+                - listitem [ref=e422]:
+                  - link "Transparent Metrics" [ref=e423] [cursor=pointer]:
+                    - /url: /metrics
+                - listitem [ref=e424]:
+                  - link "Transparent Pricing" [ref=e425] [cursor=pointer]:
+                    - /url: /transparent-pricing
+                - listitem [ref=e426]:
+                  - link "Transparent Salaries" [ref=e427] [cursor=pointer]:
+                    - /url: /salaries
+                - listitem [ref=e428]:
+                  - link "Product Roadmap" [ref=e429] [cursor=pointer]:
+                    - /url: https://suggestions.buffer.com/roadmap
+          - generic [ref=e430]:
+            - heading "Company" [level=3] [ref=e431]
+            - list [ref=e432]:
+              - listitem [ref=e433]:
+                - link "About" [ref=e434] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=e435]:
+                - link "Careers" [ref=e436] [cursor=pointer]:
+                  - /url: /journey
+              - listitem [ref=e437]:
+                - link "Press" [ref=e438] [cursor=pointer]:
+                  - /url: /press
+              - listitem [ref=e439]:
+                - link "Partner Program" [ref=e440] [cursor=pointer]:
+                  - /url: /partners
+              - listitem [ref=e441]:
+                - link "Legal" [ref=e442] [cursor=pointer]:
+                  - /url: /legal
+              - listitem [ref=e443]:
+                - link "Sitemap" [ref=e444] [cursor=pointer]:
+                  - /url: /sitemap
+      - generic [ref=e445]:
+        - link "Buffer" [ref=e446] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e447]: Buffer
+          - img [ref=e448]
+        - generic [ref=e455]:
+          - generic [ref=e456]:
+            - heading "Social media" [level=3] [ref=e457]
+            - list [ref=e458]:
+              - listitem [ref=e459]:
+                - link "Instagram" [ref=e460] [cursor=pointer]:
+                  - /url: https://www.instagram.com/buffer
+                  - generic [ref=e461]: Instagram
+                  - img [ref=e462]
+              - listitem [ref=e466]:
+                - link "Facebook" [ref=e467] [cursor=pointer]:
+                  - /url: https://www.facebook.com/bufferapp
+                  - generic [ref=e468]: Facebook
+                  - img [ref=e469]
+              - listitem [ref=e471]:
+                - link "Bluesky" [ref=e472] [cursor=pointer]:
+                  - /url: https://bsky.app/profile/buffer.com
+                  - generic [ref=e473]: Bluesky
+                  - img [ref=e474]
+              - listitem [ref=e476]:
+                - link "X" [ref=e477] [cursor=pointer]:
+                  - /url: https://x.com/buffer
+                  - generic [ref=e478]: X
+                  - img [ref=e479]
+              - listitem [ref=e481]:
+                - link "LinkedIn" [ref=e482] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/bufferapp
+                  - generic [ref=e483]: LinkedIn
+                  - img [ref=e484]
+              - listitem [ref=e486]:
+                - link "Threads" [ref=e487] [cursor=pointer]:
+                  - /url: https://www.threads.net/@buffer
+                  - generic [ref=e488]: Threads
+                  - img [ref=e489]
+          - generic [ref=e491]:
+            - heading "Policies" [level=3] [ref=e492]
+            - generic [ref=e493]:
+              - paragraph [ref=e494]: Copyright ©2026 Buffer
+              - generic [ref=e495]: "|"
+              - paragraph [ref=e496]:
+                - link "Privacy" [ref=e497] [cursor=pointer]:
+                  - /url: /legal#privacy-policy
+              - generic [ref=e498]: "|"
+              - paragraph [ref=e499]:
+                - link "Terms" [ref=e500] [cursor=pointer]:
+                  - /url: /legal#terms
+              - generic [ref=e501]: "|"
+              - paragraph [ref=e502]:
+                - link "Security" [ref=e503] [cursor=pointer]:
+                  - /url: /legal#security
+  - alert [ref=e505]

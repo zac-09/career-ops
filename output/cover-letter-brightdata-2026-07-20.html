@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Isaac Mubiru — Cover Letter</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11.5px;
+    line-height: 1.65;
+    color: #1a1a2e;
+    background: #ffffff;
+  }
+  .header {
+    border-bottom: 2px solid #1a1a2e;
+    padding-bottom: 14px;
+    margin-bottom: 22px;
+  }
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .header .meta {
+    margin-top: 4px;
+    font-size: 10.5px;
+    color: #4a4a5e;
+  }
+  .header .meta span { white-space: nowrap; }
+  .date { margin-bottom: 18px; color: #4a4a5e; font-size: 10.5px; }
+  p { margin-bottom: 13px; }
+  .jd-quote { font-style: italic; }
+  .signoff { margin-top: 20px; }
+  .signoff .name {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    margin-top: 2px;
+  }
+</style>
+</head>
+<body>
+  <div class="header">
+    <h1>Isaac Mubiru</h1>
+    <div class="meta">
+      <span>isaacmubiru99@gmail.com</span> · <span>linkedin.com/in/isaac-mubiru-3bb728174</span> · <span>github.com/zac-09</span> · <span>Kampala, Uganda (UTC+3)</span>
+    </div>
+  </div>
+
+  <div class="date">July 20, 2026</div>
+
+  <p>Dear Bright Data Hiring Team,</p>
+
+  <p>I'm applying for the <strong>Experienced Backend JavaScript Developer (Worldwide)</strong> role. I've spent the past six years building Node.js backend systems — and Bright Data is a deliberate choice: you run network infrastructure at a scale where backend engineering and protocol-level thinking meet, which is exactly the intersection where I do my best work.</p>
+
+  <p>Your posting asks for <span class="jd-quote">"end-to-end feature development, from conception to production."</span> That is how I already operate. At MTailor (San Francisco, remote), reporting directly to the CTO, I led the zero-downtime migration of 20+ production applications off Parse/MongoDB — designing a real-time two-way sync pipeline between MongoDB and Firestore using Node.js and Pub/Sub so both systems served live traffic in parallel until cutover. I also consolidated our infrastructure off AWS, cutting $5,000/month in costs. I own systems, not tickets.</p>
+
+  <p>On your stack: Node.js, MongoDB, and Express are my daily tools, and I've architected microservices on Kubernetes and Docker with Apache Kafka. I've run three message brokers in production — Kafka, NATS Streaming, and GCP Pub/Sub — so RabbitMQ's semantics (acks, redelivery, idempotent consumers) are concepts I've already debugged under load. On the networking side, I've built WebSocket-based real-time systems, gRPC services over HTTP/2, and a USSD gateway serving feature phones — working below the HTTP layer is familiar ground I'm keen to go deeper into at a company where the network <em>is</em> the product.</p>
+
+  <p>A practical note: I'm based in Kampala (UTC+3), which overlaps the Israel team's working day almost perfectly — real-time collaboration, no async lag.</p>
+
+  <p class="signoff">
+    Best regards,
+    <span class="name" style="display:block">Isaac Mubiru</span>
+  </p>
+</body>
+</html>

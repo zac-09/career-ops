@@ -1,0 +1,173 @@
+- generic [active] [ref=f21e1]:
+  - generic [ref=f21e3]:
+    - generic [ref=f21e6]:
+      - generic [ref=f21e7]:
+        - img "Open Positions" [ref=f21e9]
+        - heading "Open Positions" [level=3] [ref=f21e10]
+        - heading "Experience comes in many forms, many skills are transferable, and passion goes a long way. If your experience is this close to what we're looking for, apply!" [level=6] [ref=f21e11]
+      - generic [ref=f21e12]:
+        - generic [ref=f21e13]:
+          - generic [ref=f21e14]:
+            - generic [ref=f21e15]: 
+            - textbox "Search" [ref=f21e17]
+          - generic [ref=f21e20]:
+            - generic [ref=f21e21]: 
+            - combobox "Tree" [ref=f21e26]
+            - generic [ref=f21e27]: 
+          - generic [ref=f21e31]:
+            - generic [ref=f21e32]: 
+            - combobox "Tree" [ref=f21e34]
+            - generic [ref=f21e35]: 
+          - generic [ref=f21e39]:
+            - generic [ref=f21e40]: 
+            - combobox "Tree" [ref=f21e42]
+            - generic [ref=f21e43]: 
+        - generic [ref=f21e46]:
+          - paragraph [ref=f21e47]: 7 roles across
+          - paragraph [ref=f21e48]: all departments
+          - paragraph [ref=f21e49]: in
+          - paragraph [ref=f21e50]: all locations
+      - generic [ref=f21e52]:
+        - generic [ref=f21e53]:
+          - heading "Engineering" [level=3] [ref=f21e54]
+          - generic [ref=f21e55]:
+            - generic [ref=f21e56]:
+              - link "Senior Site Reliability Engineer" [ref=f21e58] [cursor=pointer]:
+                - /url: /en-GB/latitudesh-jobs/jobs/d6286748-cee1-4e27-8088-5c6c10ab009b
+              - generic [ref=f21e59]:
+                - generic [ref=f21e60]:
+                  - generic [ref=f21e61]: 
+                  - paragraph [ref=f21e62]: Engineering
+                - generic [ref=f21e64]:
+                  - generic [ref=f21e65]: 
+                  - paragraph [ref=f21e66]: Remote
+            - link [ref=f21e67] [cursor=pointer]:
+              - /url: /en-GB/latitudesh-jobs/jobs/d6286748-cee1-4e27-8088-5c6c10ab009b
+              - button "View job" [ref=f21e69]:
+                - generic [ref=f21e70]:
+                  - generic [ref=f21e71]: View job
+                  - generic [ref=f21e72]: 
+          - generic [ref=f21e73]:
+            - generic [ref=f21e74]:
+              - link "Software Engineer - Backend" [ref=f21e76] [cursor=pointer]:
+                - /url: /en-GB/latitudesh-jobs/jobs/0d8045c6-a44c-4162-97ec-5ca6355b6fe0
+              - generic [ref=f21e77]:
+                - generic [ref=f21e78]:
+                  - generic [ref=f21e79]: 
+                  - paragraph [ref=f21e80]: Engineering
+                - generic [ref=f21e82]:
+                  - generic [ref=f21e83]: 
+                  - paragraph [ref=f21e84]: Brazil
+            - link [ref=f21e85] [cursor=pointer]:
+              - /url: /en-GB/latitudesh-jobs/jobs/0d8045c6-a44c-4162-97ec-5ca6355b6fe0
+              - button "View job" [ref=f21e87]:
+                - generic [ref=f21e88]:
+                  - generic [ref=f21e89]: View job
+                  - generic [ref=f21e90]: 
+        - generic [ref=f21e91]:
+          - heading "Marketing" [level=3] [ref=f21e92]
+          - generic [ref=f21e93]:
+            - generic [ref=f21e94]:
+              - link "Senior Campaign Specialist (AI-ML)" [ref=f21e96] [cursor=pointer]:
+                - /url: /en-GB/latitudesh-jobs/jobs/6af53e49-c5c1-4235-9b33-b95d4280efe4
+              - generic [ref=f21e97]:
+                - generic [ref=f21e98]:
+                  - generic [ref=f21e99]: 
+                  - paragraph [ref=f21e100]: Marketing
+                - generic [ref=f21e102]:
+                  - generic [ref=f21e103]: 
+                  - paragraph [ref=f21e104]: São Paulo, Brazil
+            - link [ref=f21e105] [cursor=pointer]:
+              - /url: /en-GB/latitudesh-jobs/jobs/6af53e49-c5c1-4235-9b33-b95d4280efe4
+              - button "View job" [ref=f21e107]:
+                - generic [ref=f21e108]:
+                  - generic [ref=f21e109]: View job
+                  - generic [ref=f21e110]: 
+        - generic [ref=f21e111]:
+          - heading "Networking" [level=3] [ref=f21e112]
+          - generic [ref=f21e113]:
+            - generic [ref=f21e114]:
+              - link "Network Engineer" [ref=f21e116] [cursor=pointer]:
+                - /url: /en-GB/latitudesh-jobs/jobs/9ca798ff-c029-48e5-9133-22a5179a4169
+              - generic [ref=f21e117]:
+                - generic [ref=f21e118]:
+                  - generic [ref=f21e119]: 
+                  - paragraph [ref=f21e120]: Networking
+                - generic [ref=f21e122]:
+                  - generic [ref=f21e123]: 
+                  - paragraph [ref=f21e124]: São Paulo, Brazil
+            - link [ref=f21e125] [cursor=pointer]:
+              - /url: /en-GB/latitudesh-jobs/jobs/9ca798ff-c029-48e5-9133-22a5179a4169
+              - button "View job" [ref=f21e127]:
+                - generic [ref=f21e128]:
+                  - generic [ref=f21e129]: View job
+                  - generic [ref=f21e130]: 
+        - generic [ref=f21e131]:
+          - heading "Operations" [level=3] [ref=f21e132]
+          - generic [ref=f21e133]:
+            - generic [ref=f21e134]:
+              - link "Senior Network Operations Analyst" [ref=f21e136] [cursor=pointer]:
+                - /url: /en-GB/latitudesh-jobs/jobs/85642055-f3b7-4421-be44-1352ffb09928
+              - generic [ref=f21e137]:
+                - generic [ref=f21e138]:
+                  - generic [ref=f21e139]: 
+                  - paragraph [ref=f21e140]: Operations
+                - generic [ref=f21e142]:
+                  - generic [ref=f21e143]: 
+                  - paragraph [ref=f21e144]: São Paulo, Brazil
+            - link [ref=f21e145] [cursor=pointer]:
+              - /url: /en-GB/latitudesh-jobs/jobs/85642055-f3b7-4421-be44-1352ffb09928
+              - button "View job" [ref=f21e147]:
+                - generic [ref=f21e148]:
+                  - generic [ref=f21e149]: View job
+                  - generic [ref=f21e150]: 
+          - generic [ref=f21e151]:
+            - generic [ref=f21e152]:
+              - link "Senior Operations Analyst" [ref=f21e154] [cursor=pointer]:
+                - /url: /en-GB/latitudesh-jobs/jobs/f89e9b24-5949-4366-9400-4b41873c1794
+              - generic [ref=f21e155]:
+                - generic [ref=f21e156]:
+                  - generic [ref=f21e157]: 
+                  - paragraph [ref=f21e158]: Operations
+                - generic [ref=f21e160]:
+                  - generic [ref=f21e161]: 
+                  - paragraph [ref=f21e162]: São Paulo, Brazil
+            - link [ref=f21e163] [cursor=pointer]:
+              - /url: /en-GB/latitudesh-jobs/jobs/f89e9b24-5949-4366-9400-4b41873c1794
+              - button "View job" [ref=f21e165]:
+                - generic [ref=f21e166]:
+                  - generic [ref=f21e167]: View job
+                  - generic [ref=f21e168]: 
+        - generic [ref=f21e169]:
+          - heading "Operations Strategy" [level=3] [ref=f21e170]
+          - generic [ref=f21e171]:
+            - generic [ref=f21e172]:
+              - link "Supply Chain Analyst - Capacity Planning" [ref=f21e174] [cursor=pointer]:
+                - /url: /en-GB/latitudesh-jobs/jobs/c0fdceaf-7cf6-43de-be00-522d629fb603
+              - generic [ref=f21e175]:
+                - generic [ref=f21e176]:
+                  - generic [ref=f21e177]: 
+                  - paragraph [ref=f21e178]: Operations Strategy
+                - generic [ref=f21e180]:
+                  - generic [ref=f21e181]: 
+                  - paragraph [ref=f21e182]: São Paulo, Brazil
+            - link [ref=f21e183] [cursor=pointer]:
+              - /url: /en-GB/latitudesh-jobs/jobs/c0fdceaf-7cf6-43de-be00-522d629fb603
+              - button "View job" [ref=f21e185]:
+                - generic [ref=f21e186]:
+                  - generic [ref=f21e187]: View job
+                  - generic [ref=f21e188]: 
+    - generic [ref=f21e190]:
+      - generic [ref=f21e191]:
+        - link "Terms of service" [ref=f21e192] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/user
+        - link "Privacy" [ref=f21e193] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/privacy
+        - link "Cookies" [ref=f21e194] [cursor=pointer]:
+          - /url: https://app.rippling.com/legal/cookie-notice
+        - link "Powered by Rippling" [ref=f21e195] [cursor=pointer]:
+          - /url: https://www.rippling.com/recruiting
+      - generic [ref=f21e199] [cursor=pointer]:
+        - combobox "Search" [ref=f21e203]: United Kingdom (English)
+        - generic [ref=f21e204]: 
+  - alert [ref=f21e206]

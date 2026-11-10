@@ -1,0 +1,205 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "Homepage" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - text: 
+      - generic [ref=e6]:
+        - button "Unlock All Jobs" [ref=e7] [cursor=pointer]:
+          - generic [ref=e8]: 
+          - text: Unlock All Jobs
+        - generic [ref=e9]:
+          - button "Log in" [ref=e10] [cursor=pointer]
+          - button "For Employers" [ref=e11] [cursor=pointer]
+  - generic [ref=e13]:
+    - generic [ref=e14]:
+      - text: Back to
+      - link "Remote jobs" [ref=e15] [cursor=pointer]:
+        - /url: /remote-jobs
+      - text: ">"
+      - link "Software Development" [ref=e16] [cursor=pointer]:
+        - /url: /remote-jobs/software-development
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - text: This job listing does not exist anymore, sorry! You'll find more
+        - link "Remote Software Development jobs over here" [ref=e20] [cursor=pointer]:
+          - /url: /remote-jobs/software-development
+        - text: .
+      - generic [ref=e21]: Want more remote jobs?
+      - link "Unlock 160,000+ Remote Jobs" [ref=e23] [cursor=pointer]:
+        - /url: /join
+    - generic [ref=e25]:
+      - text: Similar Remote Jobs
+      - list [ref=e27]:
+        - listitem [ref=e28] [cursor=pointer]:
+          - generic [ref=e29]:
+            - generic [ref=e31]:
+              - link "Senior Independent Software Developer • A.Team" [ref=e33]:
+                - /url: https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265
+                - generic [ref=e34]: Senior Independent Software Developer
+                - generic [ref=e35]: •
+                - generic [ref=e36]: A.Team
+              - generic [ref=e37]:
+                - link "Software Development" [ref=e39]:
+                  - /url: /remote-jobs/software-development
+                - generic [ref=e40]: $90 - $150 /hou..
+                - link "Americas" [ref=e42]:
+                  - /url: /remote-jobs?location=Americas
+                - link "Europe" [ref=e44]:
+                  - /url: /remote-jobs?location=Europe
+                - link "Israel" [ref=e46]:
+                  - /url: /remote-jobs?location=Israel
+            - generic [ref=e48]: Featured
+        - listitem [ref=e49] [cursor=pointer]:
+          - generic [ref=e50]:
+            - generic [ref=e52]:
+              - link "Senior Independent AI Engineer / Architect • A.Team" [ref=e54]:
+                - /url: https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266
+                - generic [ref=e55]: Senior Independent AI Engineer / Architect
+                - generic [ref=e56]: •
+                - generic [ref=e57]: A.Team
+              - generic [ref=e58]:
+                - link "Software Development" [ref=e60]:
+                  - /url: /remote-jobs/software-development
+                - generic [ref=e61]: $120 - $170 /ho..
+                - link "Americas" [ref=e63]:
+                  - /url: /remote-jobs?location=Americas
+                - link "Europe" [ref=e65]:
+                  - /url: /remote-jobs?location=Europe
+                - link "Israel" [ref=e67]:
+                  - /url: /remote-jobs?location=Israel
+            - generic [ref=e69]: Featured
+        - listitem [ref=e70] [cursor=pointer]:
+          - generic [ref=e71]:
+            - generic [ref=e73]:
+              - link "Senior Full-stack React Developer • Lemon.io" [ref=e75]:
+                - /url: https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711
+                - generic [ref=e76]: Senior Full-stack React Developer
+                - generic [ref=e77]: •
+                - generic [ref=e78]: Lemon.io
+              - generic [ref=e79]:
+                - link "Software Development" [ref=e81]:
+                  - /url: /remote-jobs/software-development
+                - link "Americas" [ref=e83]:
+                  - /url: /remote-jobs?location=Americas
+                - link "Europe" [ref=e85]:
+                  - /url: /remote-jobs?location=Europe
+                - link "Asia" [ref=e87]:
+                  - /url: /remote-jobs?location=Asia
+                - link "Oceania" [ref=e89]:
+                  - /url: /remote-jobs?location=Oceania
+            - generic [ref=e91]: 3wks ago
+    - generic [ref=e92]:
+      - text: Kickstart Your Job Search
+      - link "⚡ 13,353 remote jobs added this week You're seeing 0.4% of available roles Unlock 160,000+ jobs →" [ref=e94] [cursor=pointer]:
+        - /url: /join
+        - generic [ref=e95]:
+          - generic [ref=e97]:
+            - paragraph [ref=e98]: ⚡ 13,353 remote jobs added this week
+            - paragraph [ref=e99]: You're seeing 0.4% of available roles
+          - generic [ref=e100]: Unlock 160,000+ jobs →
+    - 'link "Meet JobCopilot: Your Personal Al Job Hunter Automatically Apply to Remote Jobs Try it now →" [ref=e102] [cursor=pointer]':
+      - /url: https://remotive.com/job-copilot
+      - generic [ref=e103]:
+        - generic [ref=e105]:
+          - paragraph [ref=e106]: "Meet JobCopilot: Your Personal Al Job Hunter"
+          - paragraph [ref=e107]: Automatically Apply to Remote Jobs
+        - generic [ref=e109]: Try it now →
+    - generic [ref=e111]:
+      - text: Back to
+      - link "Remote jobs" [ref=e112] [cursor=pointer]:
+        - /url: /remote-jobs
+      - text: ">"
+      - link "Software Development" [ref=e113] [cursor=pointer]:
+        - /url: /remote-jobs/software-development
+  - generic [ref=e114]:
+    - generic [ref=e115]:
+      - generic [ref=e116]:
+        - link "Remotive" [ref=e117] [cursor=pointer]:
+          - /url: /
+        - list [ref=e118]:
+          - listitem [ref=e119]:
+            - link "Remotive Affiliate Program" [ref=e120] [cursor=pointer]:
+              - /url: /affiliate-program
+          - listitem [ref=e121]:
+            - link "Reviews & Success Stories" [ref=e122] [cursor=pointer]:
+              - /url: /reviews-success-stories
+          - listitem [ref=e123]:
+            - link "Sponsorship" [ref=e124] [cursor=pointer]:
+              - /url: https://support.remotive.com/en/article/ycrtby/
+          - listitem [ref=e125]:
+            - link "Press" [ref=e126] [cursor=pointer]:
+              - /url: https://support.remotive.com/en/category/l3ahqd/
+          - listitem [ref=e127]:
+            - link "About" [ref=e128] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=e129]:
+            - link "Terms of Use" [ref=e130] [cursor=pointer]:
+              - /url: https://remotive.com/terms-of-use
+            - text: "&"
+            - link "Privacy Policy" [ref=e131] [cursor=pointer]:
+              - /url: https://remotive.com/privacy-policy
+      - generic [ref=e132]:
+        - generic [ref=e133]: Find Remote Jobs
+        - list [ref=e134]:
+          - listitem [ref=e135]:
+            - link "Join Remotive" [ref=e136] [cursor=pointer]:
+              - /url: /join
+          - listitem [ref=e137]:
+            - link "Remote Job Search Tips" [ref=e138] [cursor=pointer]:
+              - /url: /blog/tag/job-search-tips/
+          - listitem [ref=e139]:
+            - link "Remote Work Statistics Hiring Trends" [ref=e140] [cursor=pointer]:
+              - /url: https://remotive.com/blog/remote-work-statistics-hiring-trends
+          - listitem [ref=e141]:
+            - link "Remotive Jobs Public API" [ref=e142] [cursor=pointer]:
+              - /url: /remote-jobs/api
+            - text: "&"
+            - link "RSS Feeds" [ref=e143] [cursor=pointer]:
+              - /url: /remote-jobs/rss-feed
+              - text: RSS Feeds
+          - listitem [ref=e145]:
+            - link "Remote Jobs Index" [ref=e146] [cursor=pointer]:
+              - /url: /remote-jobs-index
+      - generic [ref=e147]:
+        - generic [ref=e148]: Hiring Remotely
+        - list [ref=e149]:
+          - listitem [ref=e150]:
+            - link "Why Remotive?" [ref=e151] [cursor=pointer]:
+              - /url: /hire
+          - listitem [ref=e152]:
+            - link "Post a Remote Job" [ref=e153] [cursor=pointer]:
+              - /url: /job/post/new
+          - listitem [ref=e154]:
+            - link "Remote Hiring Tips" [ref=e155] [cursor=pointer]:
+              - /url: /blog/tag/hiring-remotely/
+          - listitem [ref=e156]:
+            - link "Help Center for Recruiters" [ref=e157] [cursor=pointer]:
+              - /url: https://support.remotive.com
+    - generic [ref=e158]:
+      - paragraph [ref=e160]: © 2014-2026, made Remotely with ❤️
+      - generic [ref=e162]:
+        - link "LinkedIn" [ref=e163] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/remotive.io/
+          - text: 
+        - link "Twitter" [ref=e164] [cursor=pointer]:
+          - /url: https://twitter.com/remotiveio/
+          - text: 
+        - link "Reddit" [ref=e165] [cursor=pointer]:
+          - /url: https://www.reddit.com/r/remotivejobs/
+          - text: 
+        - link "Telegram" [ref=e166] [cursor=pointer]:
+          - /url: https://t.me/remotejobsenglish/
+          - text: 
+        - link "Facebook" [ref=e167] [cursor=pointer]:
+          - /url: https://www.facebook.com/remotivedotcom/
+          - text: 
+        - link "Instagram" [ref=e168] [cursor=pointer]:
+          - /url: https://www.instagram.com/remotiveio/
+          - text: 
+        - link "Slack Community" [ref=e169] [cursor=pointer]:
+          - /url: /accelerator?utm_medium=footerslack
+          - text: 
+        - link "Email us" [ref=e170] [cursor=pointer]:
+          - /url: mailto:hello@remotive.com
+          - text: 

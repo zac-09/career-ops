@@ -1,0 +1,297 @@
+- generic [active] [ref=f77e1]:
+  - generic [ref=f77e3]:
+    - banner [ref=f77e4]:
+      - generic [ref=f77e5]:
+        - link "Remote Front" [ref=f77e6] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f77e7]: Remote
+          - generic [ref=f77e8]: Front
+        - navigation [ref=f77e9]:
+          - link "Remote Jobs" [ref=f77e10] [cursor=pointer]:
+            - /url: /remote-jobs
+          - link "Résumé Match" [ref=f77e11] [cursor=pointer]:
+            - /url: /resume-match
+          - link "Browse" [ref=f77e12] [cursor=pointer]:
+            - /url: /browse
+          - link "Blog" [ref=f77e13] [cursor=pointer]:
+            - /url: /blog
+        - generic [ref=f77e14]:
+          - link "Log in" [ref=f77e15] [cursor=pointer]:
+            - /url: /login?redirect=%2Fremote-jobs%2Fnuitee-senior-backend-engineer-node-js-11gis
+          - link "Find jobs" [ref=f77e16] [cursor=pointer]:
+            - /url: /remote-jobs
+    - main [ref=f77e17]:
+      - generic [ref=f77e18]:
+        - generic [ref=f77e19]:
+          - generic [ref=f77e20]:
+            - img "Nuitee logo" [ref=f77e21]
+            - generic [ref=f77e22]:
+              - heading "Senior Backend Engineer (Node.js)" [level=1] [ref=f77e23]
+              - link "Nuitee" [ref=f77e24] [cursor=pointer]:
+                - /url: /companies/Nuitee
+              - generic [ref=f77e25]:
+                - generic [ref=f77e26]: Remote
+                - generic [ref=f77e27]: Remote
+                - generic [ref=f77e28]: Barcelona,
+                - generic [ref=f77e29]: Palma,
+                - generic [ref=f77e30]: Dublin,
+                - generic [ref=f77e31]: Casablanca,
+                - generic [ref=f77e32]: · about 1 month ago
+          - paragraph [ref=f77e36]:
+            - generic [ref=f77e37]: Straight from Nuitee’s careers page.
+            - text: Apply on the company site — no recruiter, no middleman.
+          - generic [ref=f77e38]:
+            - link "Node.js" [ref=f77e40] [cursor=pointer]:
+              - /url: /remote-node-js-jobs
+            - link "TypeScript" [ref=f77e42] [cursor=pointer]:
+              - /url: /remote-typescript-jobs
+            - link "Java" [ref=f77e44] [cursor=pointer]:
+              - /url: /remote-java-jobs
+            - link "Python" [ref=f77e46] [cursor=pointer]:
+              - /url: /remote-python-jobs
+            - link "REST" [ref=f77e48] [cursor=pointer]:
+              - /url: /remote-rest-jobs
+            - link "PostgreSQL" [ref=f77e50] [cursor=pointer]:
+              - /url: /remote-postgresql-jobs
+            - link "AWS" [ref=f77e52] [cursor=pointer]:
+              - /url: /remote-aws-jobs
+            - link "SQL" [ref=f77e54] [cursor=pointer]:
+              - /url: /remote-sql-jobs
+          - generic [ref=f77e55]:
+            - generic [ref=f77e56]:
+              - button "Apply" [ref=f77e57] [cursor=pointer]
+              - button "create free resume!" [ref=f77e60] [cursor=pointer]
+            - button "Save" [ref=f77e61] [cursor=pointer]
+            - button "Copy link" [ref=f77e64] [cursor=pointer]
+        - link "Explore more remote Backend Engineer jobs — salaries, top companies, and the latest openings. See all →" [ref=f77e68] [cursor=pointer]:
+          - /url: /remote-backend-engineer-jobs
+          - generic [ref=f77e69]:
+            - text: Explore more
+            - generic [ref=f77e70]: remote Backend Engineer jobs
+            - text: — salaries, top companies, and the latest openings.
+          - generic [ref=f77e71]: See all →
+        - generic [ref=f77e72]:
+          - generic [ref=f77e73]:
+            - heading "Senior Backend Engineer (Node.js)" [level=1] [ref=f77e74]
+            - paragraph [ref=f77e75]:
+              - strong [ref=f77e76]: "Location:"
+              - text: Europe (remote)
+            - paragraph [ref=f77e77]:
+              - strong [ref=f77e78]: "Department:"
+              - text: Engineering
+            - generic [ref=f77e79]:
+              - paragraph [ref=f77e80]:
+                - strong [ref=f77e81]: About the company
+              - paragraph [ref=f77e82]: At Nuitée, we are building the API backbone for the global travel industry. Founded in 2017, Nuitée is on a mission to transform a fragmented travel ecosystem with simple, scalable, and API-first infrastructure—think “Stripe for Travel.”
+              - paragraph [ref=f77e83]: By enabling seamless connectivity between hotels, OTAs, fintechs, super-apps, and businesses, some of which are entering the travel market for the first time, Nuitée empowers companies to deliver reliable travel products effortlessly. Our robust platform simplifies complex supplier networks, offering direct access to hotel inventory with better pricing, coverage, and technology.
+              - paragraph [ref=f77e84]: With teams across the globe, including hubs in London, New York, San Francisco, Palma de Mallorca and Casablanca, Nuitée has grown into a global infrastructure provider trusted by industry leaders like Hopper, Priceline, Google, and Uber.
+              - paragraph [ref=f77e85]:
+                - text: Now backed by leading VCs and world-class investors including leaders from
+                - link "Booking.com" [ref=f77e86] [cursor=pointer]:
+                  - /url: ""
+                - text: ", Stripe, and Shopify, Nuitée is positioned to redefine the B2B travel market, streamline operations for hotels, and enable new applications through cutting-edge APIs."
+              - paragraph [ref=f77e87]: Nuitée is at the forefront of a revolution—delivering AI-powered, smarter, and more personalized travel experiences for a new era.
+            - heading [level=3] [ref=f77e88]:
+              - strong [ref=f77e89]: About the
+              - text: role
+            - paragraph [ref=f77e90]:
+              - emphasis [ref=f77e91]: Remote in EU, or hybrid in Barcelona, Palma, Dublin, or Casablanca.
+              - strong [ref=f77e92]: Own the backend of a white-label travel platform as it adds new verticals.
+            - paragraph [ref=f77e93]: Hotels and flights are live. Experiences launch within weeks, and car rentals and more payment providers come next. Our clients are travel brands, banks, and influencers, so every launch brings a new challenge and a chance to design it properly.Youll step in as the backend owner at a pivotal moment. Youll shape the architecture, lead the integrations for each new vertical, and stay hands-on in the code. Weve moved quickly to get here, so theres real room to set the standards and clean up the foundations as we grow.This is a role with real ownership. Youll work directly with the backend lead, and within about six months youll be making the backend decisions yourself.
+            - heading "What makes it interesting for you:" [level=3] [ref=f77e94]
+            - list [ref=f77e95]:
+              - listitem [ref=f77e96]: You get real technical authority. You become the primary backend decision-maker for a product line, working directly with the backend lead and engineering leadership. Your architecture choices stay in the product, and the role has room to grow as the platform and team expand.
+              - listitem [ref=f77e97]: You build on a product that is still taking shape. The platform is heading toward Shopify-level customization, with modular components and configurations for very different clients. Youll build foundations that later verticals depend on.
+              - listitem [ref=f77e98]: You get variety. Each client brings an odd requirement, and the good ideas often become features for other clients. Youll learn something new most weeks.
+              - listitem [ref=f77e99]: You join a stable team. The team has worked together for two to three years, and the engineers look out for each other.
+            - paragraph [ref=f77e100]: Nuitée has grown 10x since 2022, was profitable before raising a $48M Series A led by Accel, and works with companies such as Revolut, Grab, Hopper, Priceline, and Sabre.
+            - paragraph [ref=f77e101]:
+              - strong [ref=f77e102]: "The kind of problems you’ll work on:"
+            - list [ref=f77e103]:
+              - listitem [ref=f77e104]: How do we design the backend so that adding a vertical, such as experiences or car rentals, doesnt mean rebuilding what already works?
+              - listitem [ref=f77e105]: Which pieces of existing technical debt hold back reliability or delivery speed, and what is the cleanest order to fix them while shipping?
+              - listitem [ref=f77e106]: How do we integrate third-party travel APIs and payment providers so that bookings stay reliable when a supplier is slow or fails?
+              - listitem [ref=f77e107]: How should our schedulers, cron jobs, and workers be built so they stay dependable as traffic grows?
+              - listitem [ref=f77e108]: How do we keep AWS infrastructure performing for client launches without over-engineering it?
+            - paragraph [ref=f77e109]: "You’ll work on problems where the product, technical approach, and best path forward are still being figured out. The role is backend-heavy and product-driven. You should be comfortable going from idea to design, implementation, and real usage, without needing detailed specs. A good way to think of it is: you build the first version that proves something works."
+            - heading "This role fits if you:" [level=3] [ref=f77e110]
+            - list [ref=f77e111]:
+              - listitem [ref=f77e112]: Have 4 to 5 years in backend engineering, including at least 2 years of full-time Node.js and TypeScript in production. Java or Python backgrounds are welcome if you have since worked in Node full time.
+              - listitem [ref=f77e113]: Have designed REST APIs and relational schemas in PostgreSQL.
+              - listitem [ref=f77e114]: Have worked with background jobs, schedulers, or workers that talk to third-party systems.
+              - listitem [ref=f77e115]: Have roughly two years of hands-on AWS, enough to run a product that has to handle real traffic.
+              - listitem [ref=f77e116]: Have taken ownership of a products outcomes beyond the tickets assigned to you, and stepped in when a teammate was out.
+              - listitem [ref=f77e117]: Have experience leading technical decisions for a team, or have been in a position to. You still write code every day.
+            - paragraph [ref=f77e118]: Nuitée is fast-moving, low on process, and high on ownership. This suits people who are comfortable with ambiguity, pace, and responsibility. It is less suited to people who prefer structured environments and clearly defined scope from day one.
+            - paragraph [ref=f77e119]: Travel experience helps but is not required. Experience in a fast-moving product company probably is.
+            - paragraph [ref=f77e120]: We move quickly and have little process. Youll see 10 plus features moving in parallel, and priorities can change when a client needs something.Youll contribute code in your first days and take decisions with incomplete information. The first couple of weeks are about getting used to this rhythm, and after that you have a lot of autonomy.If that resonates, we’d love to hear from you. You can apply with your LinkedIn profile or CV. The process is straightforward and typically takes 2 to 3 weeks.
+            - generic [ref=f77e121]:
+              - paragraph [ref=f77e122]:
+                - strong [ref=f77e123]: Why Nuitee?
+              - paragraph [ref=f77e124]: At Nuitée, we’re not just reimagining travel—we’re building the infrastructure to power it.
+              - list [ref=f77e125]:
+                - listitem [ref=f77e126]: "Massive Market Opportunity: We are tackling the $9.9tn travel industry, starting with the $75 billion B2B hotel market, a fragmented space filled with outdated systems, gatekeepers, and inefficiencies. Nuitée’s API-first platform is solving this, enabling businesses to access hotel inventory seamlessly and at scale."
+                - listitem [ref=f77e127]: "World-Class Backing: Backed by Accel and visionary leaders across tech and travel—including Booking.com, Stripe, and Shopify—we’re equipped to scale our ambition globally."
+                - listitem [ref=f77e128]: "Bootstrapped Resilience, Startup Agility: Having grown profitably for years without external funding, we combine operational discipline with the speed and innovation of a scaling startup."
+                - listitem [ref=f77e129]: "Global Impact: Our infrastructure supports partners like Google, Grab, worldwide fintechs, superapps, travel companies and others"
+                - listitem [ref=f77e130]: "AI-Driven Innovation: Nuitée is uniquely positioned to power the future of travel in the AI era—enabling seamless, intelligent, and hyper-personalized travel interactions."
+              - paragraph [ref=f77e131]: By joining Nuitée, you’ll be part of a team that’s building a category-defining platform. You’ll work on a global scale, innovate alongside industry leaders, and help drive the next phase of travel technology. If you’re excited to push boundaries, redefine a multi-trillion-dollar industry, and grow with us—Nuitée is the place for you.
+              - paragraph [ref=f77e132]:
+                - text: "By submitting your application, you consent to Nuitée processing your personal data for the purposes of assessing your suitability for employment. Your information will be stored securely and will only be retained for as long as necessary for the recruitment process, or up to 6 months afterward, in accordance with our data protection policy and applicable laws. You have the right to request access, correction, or deletion of your personal data at any time by contacting us at careers@nuitee.com. For more details, please see our Privacy Policy:"
+                - link "Nuitée Privacy Notice 2026" [ref=f77e133] [cursor=pointer]:
+                  - /url: ""
+                - text: .
+          - button "Apply" [ref=f77e135] [cursor=pointer]
+        - generic [ref=f77e138]:
+          - generic [ref=f77e139]:
+            - heading "Similar remote jobs" [level=2] [ref=f77e140]
+            - link "All Backend Engineer jobs →" [ref=f77e141] [cursor=pointer]:
+              - /url: /remote-backend-engineer-jobs
+          - generic [ref=f77e142]:
+            - generic [ref=f77e144]:
+              - img "CACI International logo" [ref=f77e145]
+              - generic [ref=f77e146]:
+                - paragraph [ref=f77e147]: CACI International
+                - heading [level=3] [ref=f77e148]:
+                  - link "Senior Full Stack Software Developer (Remote)" [ref=f77e149] [cursor=pointer]:
+                    - /url: /remote-jobs/caci-international-senior-full-stack-software-developer-1jid5
+                - generic [ref=f77e150]:
+                  - generic [ref=f77e151]: Remote
+                  - generic [ref=f77e152]: Chesapeake, VA
+                  - generic [ref=f77e153]: $99k–$207k
+                - generic [ref=f77e154]:
+                  - generic [ref=f77e155]: ✓ From careers page
+                  - generic [ref=f77e156]: · about 9 hours ago
+            - generic [ref=f77e158]:
+              - img "ITHAKA logo" [ref=f77e159]
+              - generic [ref=f77e160]:
+                - paragraph [ref=f77e161]: ITHAKA
+                - heading [level=3] [ref=f77e162]:
+                  - link "Senior Software Engineer, JSTOR Stewardship" [ref=f77e163] [cursor=pointer]:
+                    - /url: /remote-jobs/ithaka-senior-software-engineer-jstor-stewardship-m0lgw
+                - generic [ref=f77e164]:
+                  - generic [ref=f77e165]: Remote
+                  - generic [ref=f77e166]: $112k–$140k
+                - generic [ref=f77e167]:
+                  - generic [ref=f77e168]: ✓ From careers page
+                  - generic [ref=f77e169]: · about 12 hours ago
+            - generic [ref=f77e171]:
+              - img "Kainos logo" [ref=f77e172]
+              - generic [ref=f77e173]:
+                - paragraph [ref=f77e174]: Kainos
+                - heading [level=3] [ref=f77e175]:
+                  - link "Lead Software Engineer" [ref=f77e176] [cursor=pointer]:
+                    - /url: /remote-jobs/kainos-lead-software-engineer-c-net-nodejs-hxtqt
+                - generic [ref=f77e177]:
+                  - generic [ref=f77e178]: Remote
+                  - generic [ref=f77e179]: Derry-Londonderry, UK
+                - generic [ref=f77e180]:
+                  - generic [ref=f77e181]: ✓ From careers page
+                  - generic [ref=f77e182]: · about 14 hours ago
+            - generic [ref=f77e184]:
+              - img "Kainos logo" [ref=f77e185]
+              - generic [ref=f77e186]:
+                - paragraph [ref=f77e187]: Kainos
+                - heading [level=3] [ref=f77e188]:
+                  - link "Senior Software Engineer" [ref=f77e189] [cursor=pointer]:
+                    - /url: /remote-jobs/kainos-senior-software-engineer-c-net-nodejs-joa7h
+                - generic [ref=f77e190]:
+                  - generic [ref=f77e191]: Remote
+                  - generic [ref=f77e192]: Derry-Londonderry
+                - generic [ref=f77e193]:
+                  - generic [ref=f77e194]: ✓ From careers page
+                  - generic [ref=f77e195]: · about 14 hours ago
+      - generic [ref=f77e196]:
+        - heading "Discover More than 100,000 Hidden Remote Jobs Before Everyone Else" [level=2] [ref=f77e198]
+        - generic [ref=f77e200]:
+          - generic [ref=f77e201]:
+            - heading "Unlock All Remote Jobs Today" [level=2] [ref=f77e202]
+            - paragraph [ref=f77e203]: Simple pricing. Big savings on Quarterly and Yearly.
+          - generic [ref=f77e204]:
+            - generic [ref=f77e205]:
+              - heading "Monthly Access" [level=3] [ref=f77e206]
+              - generic [ref=f77e207]:
+                - generic [ref=f77e208]: $19
+                - generic [ref=f77e209]: /month
+              - list [ref=f77e210]:
+                - listitem [ref=f77e211]:
+                  - generic [ref=f77e214]: Instant access to fresh remote jobs from 500+ companies
+                - listitem [ref=f77e215]:
+                  - generic [ref=f77e218]: New opportunities added hourly, often 3-7 days before anywhere else
+                - listitem [ref=f77e219]:
+                  - generic [ref=f77e222]: Advanced filtering by role type, stack, pay, and location
+                - listitem [ref=f77e223]:
+                  - generic [ref=f77e226]: Priority customer support
+              - generic [ref=f77e227] [cursor=pointer]: Start 7-day trial — $2.95
+            - generic [ref=f77e228]:
+              - generic [ref=f77e229]: Most Popular
+              - heading "Yearly Access" [level=3] [ref=f77e232]
+              - generic [ref=f77e233]:
+                - generic [ref=f77e234]: $59
+                - generic [ref=f77e235]: /year
+              - list [ref=f77e236]:
+                - listitem [ref=f77e237]:
+                  - generic [ref=f77e240]: Everything in Monthly
+                - listitem [ref=f77e241]:
+                  - generic [ref=f77e244]: Save $169 (~74%) vs paying monthly
+                - listitem [ref=f77e245]:
+                  - generic [ref=f77e248]: Average job search takes ~6 months - get covered for the whole journey
+                - listitem [ref=f77e249]:
+                  - generic [ref=f77e252]: Less than the cost of one lunch per month for competitive advantage
+                - listitem [ref=f77e253]:
+                  - generic [ref=f77e256]: Equivalent to just ~$4.92/month
+              - generic [ref=f77e257] [cursor=pointer]: Start 7-day trial — $2.95
+    - contentinfo [ref=f77e258]:
+      - generic [ref=f77e259]:
+        - generic [ref=f77e260]:
+          - generic [ref=f77e261]:
+            - generic [ref=f77e262]: RemoteFront
+            - paragraph [ref=f77e263]: Real work-from-home jobs, straight from company career pages. Updated hourly.
+          - navigation [ref=f77e264]:
+            - link "About" [ref=f77e265] [cursor=pointer]:
+              - /url: /about-us
+            - link "FAQ" [ref=f77e266] [cursor=pointer]:
+              - /url: /faqs
+            - link "Contact" [ref=f77e267] [cursor=pointer]:
+              - /url: /contact-us
+            - link "Privacy" [ref=f77e268] [cursor=pointer]:
+              - /url: /privacy-policy
+            - link "Terms" [ref=f77e269] [cursor=pointer]:
+              - /url: /terms-of-service
+        - generic [ref=f77e270]:
+          - heading "Popular remote jobs" [level=2] [ref=f77e271]
+          - navigation [ref=f77e272]:
+            - link "Software Engineer" [ref=f77e273] [cursor=pointer]:
+              - /url: /remote-software-engineer-jobs
+            - link "Frontend Engineer" [ref=f77e274] [cursor=pointer]:
+              - /url: /remote-frontend-engineer-jobs
+            - link "Backend Engineer" [ref=f77e275] [cursor=pointer]:
+              - /url: /remote-backend-engineer-jobs
+            - link "DevOps Engineer" [ref=f77e276] [cursor=pointer]:
+              - /url: /remote-devops-engineer-jobs
+            - link "Data Scientist" [ref=f77e277] [cursor=pointer]:
+              - /url: /remote-data-scientist-jobs
+            - link "Data Analyst" [ref=f77e278] [cursor=pointer]:
+              - /url: /remote-data-analyst-jobs
+            - link "Product Manager" [ref=f77e279] [cursor=pointer]:
+              - /url: /remote-product-manager-jobs
+            - link "Project Manager" [ref=f77e280] [cursor=pointer]:
+              - /url: /remote-project-manager-jobs
+            - link "Product Designer" [ref=f77e281] [cursor=pointer]:
+              - /url: /remote-product-designer-jobs
+            - link "Marketing Manager" [ref=f77e282] [cursor=pointer]:
+              - /url: /remote-marketing-manager-jobs
+            - link "Customer Success" [ref=f77e283] [cursor=pointer]:
+              - /url: /remote-customer-success-jobs
+            - link "Account Executive" [ref=f77e284] [cursor=pointer]:
+              - /url: /remote-account-executive-jobs
+            - link "Recruiter" [ref=f77e285] [cursor=pointer]:
+              - /url: /remote-recruiter-jobs
+            - link "Accountant" [ref=f77e286] [cursor=pointer]:
+              - /url: /remote-accountant-jobs
+            - link "Financial Analyst" [ref=f77e287] [cursor=pointer]:
+              - /url: /remote-financial-analyst-jobs
+            - link "Registered Nurse" [ref=f77e288] [cursor=pointer]:
+              - /url: /remote-registered-nurse-jobs
+        - paragraph [ref=f77e289]: © 2026 RemoteFront
+  - alert [ref=f77e290]

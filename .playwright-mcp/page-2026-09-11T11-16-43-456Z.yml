@@ -1,0 +1,214 @@
+- generic [ref=f57e2]:
+  - list [ref=f57e4]:
+    - listitem [ref=f57e5]:
+      - link [ref=f57e6] [cursor=pointer]:
+        - /url: https://railway.app/
+        - img "Railway" [ref=f57e7]
+    - listitem [ref=f57e8]:
+      - link "Back to Railway’s Job Listings" [ref=f57e9] [cursor=pointer]:
+        - /url: /railway
+    - listitem
+  - generic [ref=f57e12]:
+    - 'heading "Senior Infra Engineer: Observability" [level=1] [ref=f57e14]'
+    - generic [ref=f57e15]:
+      - generic [ref=f57e16]:
+        - generic [ref=f57e17]:
+          - heading "Location" [level=2] [ref=f57e18]
+          - paragraph [ref=f57e19]: Global
+        - generic [ref=f57e20]:
+          - heading "Employment Type" [level=2] [ref=f57e21]
+          - paragraph [ref=f57e22]: Full time
+        - generic [ref=f57e23]:
+          - heading "Location Type" [level=2] [ref=f57e24]
+          - paragraph [ref=f57e25]: Remote
+        - generic [ref=f57e26]:
+          - heading "Department" [level=2] [ref=f57e27]
+          - paragraph [ref=f57e28]:
+            - generic [ref=f57e29]: Platform ›
+            - generic [ref=f57e30]: Engineering
+      - generic [ref=f57e31]:
+        - tablist [ref=f57e32]:
+          - tab "Overview" [selected] [ref=f57e33] [cursor=pointer]
+          - tab "Application" [ref=f57e34] [cursor=pointer]
+        - tabpanel "Overview" [ref=f57e36]:
+          - generic [ref=f57e37]:
+            - paragraph [ref=f57e38]:
+              - strong [ref=f57e39]: Job description
+            - paragraph [ref=f57e40]: Our core mission at Railway is to make software engineers higher leverage. We believe that people should be given powerful tools so that they can spend less time setting up to do, and more time doing.
+            - paragraph [ref=f57e41]: Many infrastructure platforms simply focus on how you deploy your singular application, and now how these applications function in concert. Questions like “How do you build systems for zero downtime deployment”, “How do you do service-to-service communications”, etc are usually left up to the engineers to define.
+            - paragraph [ref=f57e42]: At Railway, our goal is to be an all encompassing solution to all these problems. As such, we take special care as we define our networking infrastructure.
+            - paragraph [ref=f57e43]:
+              - strong [ref=f57e44]: "Note:"
+              - strong [ref=f57e45]: Networking falls under the platform engineering umbrella. If you’re specialized, we’d love to chat! That said, we’d also like it noted you’re probably going to do a lot of non-networking + platform things
+            - paragraph [ref=f57e46]:
+              - emphasis [ref=f57e47]: “But the world would be a better place if more engineers, like me, hated technology. The stuff I design, if I'm successful, nobody will ever notice. Things will just work, and will be self-managing”
+            - paragraph [ref=f57e48]: "- Radia Perlman"
+            - heading [level=2] [ref=f57e50]:
+              - strong [ref=f57e51]: About The Role
+            - paragraph [ref=f57e52]: "For this role, you will:"
+            - list [ref=f57e53]:
+              - listitem [ref=f57e54]:
+                - paragraph [ref=f57e55]: Build ingestion pipelines to consume 1M+ RPS streams of logs, metrics, and other telemetry
+              - listitem [ref=f57e56]:
+                - paragraph [ref=f57e57]: Build scalable, fault tolerant alerting engines for notifying users, in real-time, of threshold breaches
+              - listitem [ref=f57e58]:
+                - paragraph [ref=f57e59]: Craft rich backend observability APIs, working with product to build amazing experiences for instantly grokking their application
+              - listitem [ref=f57e60]:
+                - paragraph [ref=f57e61]: Provide APIs to access realtime log/metrics streams to be consumed by the Dashboard and Product Teams
+              - listitem [ref=f57e62]:
+                - paragraph [ref=f57e63]:
+                  - text: Build
+                  - strong [ref=f57e64]: Golang/Rust GRPC
+                  - text: services from scratch capable of supporting tens of thousands of users, and the million+ to come.
+              - listitem [ref=f57e65]:
+                - paragraph [ref=f57e66]: Define infrastructure that can be torn down, failed over, and reconstituted from scratch using principle of immutable infrastructure using Terraform and Ansible.
+              - listitem [ref=f57e67]:
+                - paragraph [ref=f57e68]: Write Engineering Requirement Documents to take something from idea, to defined tasks, to implementation, to monitoring it’s success.
+              - listitem [ref=f57e69]:
+                - paragraph [ref=f57e70]: Interface with our TypeScript and GraphQL edge to expose your microservice APIs for both internal and potentially external consumption
+            - paragraph [ref=f57e71]: This is a high impact, high agency role with direct effect on company culture, trajectory, and outcome.
+            - paragraph [ref=f57e72]
+            - heading [level=2] [ref=f57e73]:
+              - strong [ref=f57e74]: About You
+            - list [ref=f57e75]:
+              - listitem [ref=f57e76]:
+                - paragraph [ref=f57e77]: A strong understanding of distributed systems. You enjoy building fault tolerant, resilient, and scalable services
+              - listitem [ref=f57e78]:
+                - paragraph [ref=f57e79]: Interests in VictoriaMetrics, ClickHouse, and other systems for building observability stacks from the ground up
+              - listitem [ref=f57e80]:
+                - paragraph [ref=f57e81]: A solid intuition about how long your solutions will last. All systems age. In startups, we can hope for 2-3 orders of magnitude, or 12-18mo.
+              - listitem [ref=f57e82]:
+                - paragraph [ref=f57e83]: The tact to implement your solution, creator monitors for it’s error boundaries, and document any requirements for when you’re not around
+              - listitem [ref=f57e84]:
+                - paragraph [ref=f57e85]: A great sense of direction and prioritization when it comes to dealing with the ambiguity of an early stage startup
+              - listitem [ref=f57e86]:
+                - paragraph [ref=f57e87]: A sense of grit to dive into a problem, implement a solution, scale that solution, and replace it when needed
+              - listitem [ref=f57e88]:
+                - paragraph [ref=f57e89]: A great set of communication skills for getting your point across, solution implemented, and beyond
+            - paragraph [ref=f57e90]:
+              - strong [ref=f57e91]: We value and love to work with diverse persons from all backgrounds
+            - paragraph [ref=f57e92]:
+              - strong [ref=f57e93]: Things to know
+            - paragraph [ref=f57e94]: For better or worse, we're a startup; our team dynamics are different from companies of different sizes and stages.
+            - list [ref=f57e95]:
+              - listitem [ref=f57e96]:
+                - paragraph [ref=f57e97]: We're distributed ALL across the globe, and that's only going to be more and more distributed. As a result, stuff is ALWAYS happening.
+              - listitem [ref=f57e98]:
+                - paragraph [ref=f57e99]: We do NOT expect you to work all the time, but you'll have to be diligent about your boundaries because the end of your day may overlap with the start of someone else's.
+              - listitem [ref=f57e100]:
+                - paragraph [ref=f57e101]: We're a small team, with high ownership, who are not only passionate about what we do, but seek to be exceptional as well. At the time of writing we're 21, serving hundreds of thousands of users. There's a lot of stuff going on, and a lot of ambiguity.
+              - listitem [ref=f57e102]:
+                - paragraph [ref=f57e103]: We want you to own it. We believe that ownership is a key to growth, and part of that growth is not only being able to make the choices, but owning the success, or failure, that comes with those choices.
+            - paragraph [ref=f57e104]:
+              - strong [ref=f57e105]: Benefits and perks
+            - paragraph [ref=f57e106]:
+              - text: At Railway, we provide best in class benefits. Great salary, full health benefits including dependents, strong equity grants, equipment stipend, and much more. For more details, check back on the main
+              - link "careers page" [ref=f57e107] [cursor=pointer]:
+                - /url: https://railway.app/careers/full-stack
+              - text: .
+            - paragraph [ref=f57e108]: "Beyond compensation, there are a few things that we believe that make working at Railway truly unique:"
+            - list [ref=f57e109]:
+              - listitem [ref=f57e110]:
+                - paragraph [ref=f57e111]:
+                  - strong [ref=f57e112]: Autonomy
+                  - text: ": We have very few meetings. Just a Monday and a Friday to go over the Company Board. We think your time is sacred, whether it's at work, or outside of work."
+              - listitem [ref=f57e113]:
+                - paragraph [ref=f57e114]:
+                  - strong [ref=f57e115]: Ownership
+                  - text: ": We're a company with a high ownership, high autonomy culture. We hope that you'll come in, help us, and over the course of many years do the best work of your life. When we bring you onboard, we expect you to change the company."
+              - listitem [ref=f57e116]:
+                - paragraph [ref=f57e117]:
+                  - strong [ref=f57e118]: Novel problems/solutions
+                  - text: ": We're a startup that's well funded, with cool problems, which lets us implement novel solutions! We abhor “busywork” and think, whether it's community, engineering, operations, etc there's always opportunity for creative and high leverage solutions."
+              - listitem [ref=f57e119]:
+                - paragraph [ref=f57e120]:
+                  - strong [ref=f57e121]: Growth
+                  - text: ": We want you to grow with us, but we know that talent is loaned, so when you figure out what area you want to grow in next, whether it's at Railway or outside, we'll make sure you land there."
+            - paragraph [ref=f57e122]:
+              - strong [ref=f57e123]: How we hire
+            - paragraph [ref=f57e124]: "No tricks. No surprises. Here's the entire process:"
+            - list [ref=f57e125]:
+              - listitem [ref=f57e126]:
+                - paragraph [ref=f57e127]:
+                  - strong [ref=f57e128]: Talk with us about the role
+                - list [ref=f57e129]:
+                  - listitem [ref=f57e130]:
+                    - paragraph [ref=f57e131]: This is completely open ended and we're just trying to see who you are, what you want to do, and where you wanna go.
+              - listitem [ref=f57e132]:
+                - paragraph [ref=f57e133]:
+                  - strong [ref=f57e134]: Work on a small project to discuss in the interview
+                - list [ref=f57e135]:
+                  - listitem [ref=f57e136]:
+                    - paragraph [ref=f57e137]: "Asynchronously implement the following:"
+                    - list [ref=f57e138]:
+                      - listitem [ref=f57e139]:
+                        - paragraph [ref=f57e140]: Imagine a theoretical or actual system like Railway which can manage stateless and stateful compute workloads. Design the engine for managing observability
+                      - listitem [ref=f57e141]:
+                        - paragraph [ref=f57e142]: "Interview Structure (60 Minutes):"
+                      - listitem [ref=f57e143]:
+                        - paragraph [ref=f57e144]: "Pre-work (before your interview): Complete your solution (advised)"
+                      - listitem [ref=f57e145]:
+                        - paragraph [ref=f57e146]: "0-5m: introduction"
+                      - listitem [ref=f57e147]:
+                        - paragraph [ref=f57e148]: "5-50m: Building (or expanding) your solution"
+                      - listitem [ref=f57e149]:
+                        - paragraph [ref=f57e150]: "50-60m: Questions on Railway/Tech/etc."
+                        - paragraph [ref=f57e151]:
+                          - strong [ref=f57e152]: You can, and SHOULD!
+                          - text: ask us questions ahead of time. Ask away!
+              - listitem [ref=f57e153]:
+                - paragraph [ref=f57e154]:
+                  - strong [ref=f57e155]: Review your solution with the Team
+                - paragraph [ref=f57e156]: You'll sit down with someone on the team and go over the above. We'll poke into your solution, as well as get you acquainted with two more members of the team.
+                - paragraph [ref=f57e157]:
+                  - strong [ref=f57e158]: "Looking for:"
+                  - text: Learn about your problem solving skills. How you break down a problem and how you present a solution.
+                - list [ref=f57e159]:
+                  - listitem [ref=f57e160]:
+                    - paragraph [ref=f57e161]: "Interview Structure (60 Minutes):"
+                    - list [ref=f57e162]:
+                      - listitem [ref=f57e163]:
+                        - paragraph [ref=f57e164]: "Prework (submitted before your interview): Complete your solution"
+                      - listitem [ref=f57e165]:
+                        - paragraph [ref=f57e166]: "0-5m: introduction"
+                      - listitem [ref=f57e167]:
+                        - paragraph [ref=f57e168]: "5-50m: Building (or expanding) your solution"
+                      - listitem [ref=f57e169]:
+                        - paragraph [ref=f57e170]: "50-60m: Questions on Railway/Tech/etc"
+              - listitem [ref=f57e171]:
+                - paragraph [ref=f57e172]:
+                  - strong [ref=f57e173]: Meet the Team
+                - list [ref=f57e174]:
+                  - listitem [ref=f57e175]:
+                    - paragraph [ref=f57e176]: You'll meet the Team, which will be comprised of 4 people from vastly different sections of the company.
+                    - list [ref=f57e177]:
+                      - listitem [ref=f57e178]:
+                        - paragraph [ref=f57e179]:
+                          - strong [ref=f57e180]: "Looking for:"
+                          - text: How you work with the rest of the team and communicate.
+              - listitem [ref=f57e181]:
+                - paragraph [ref=f57e182]:
+                  - strong [ref=f57e183]: Offer and Details Chat with CEO
+                - list [ref=f57e184]:
+                  - listitem [ref=f57e185]:
+                    - paragraph [ref=f57e186]: Finally, we will go over the process, the role, and hammer out the details about your position, onboarding, and all the deets.
+                - paragraph [ref=f57e187]:
+                  - strong [ref=f57e188]: Final Note
+                  - text: ": The interview goes"
+                  - emphasis [ref=f57e189]: both ways
+                  - text: . Once again, please ask us things. Many things! Hard things. That's what we're here for.
+          - link [ref=f57e190] [cursor=pointer]:
+            - /url: /railway/4856389c-44d8-4635-ba51-5fc1b8a49ca8/application
+            - button "Apply for this Job" [ref=f57e191]
+  - contentinfo [ref=f57e192]:
+    - link "Learn more about Ashby" [ref=f57e193] [cursor=pointer]:
+      - /url: https://www.ashbyhq.com
+      - generic [ref=f57e194]: Powered by
+      - img "Ashby" [ref=f57e195]
+    - paragraph [ref=f57e201]:
+      - link "Privacy Policy" [ref=f57e202] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/privacy
+      - link "Security" [ref=f57e203] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/security
+      - link "Vulnerability Disclosure" [ref=f57e204] [cursor=pointer]:
+        - /url: https://www.ashbyhq.com/disclosure

@@ -1,0 +1,268 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - navigation "Main" [ref=e6]:
+        - generic "Main" [ref=e7]:
+          - link "Latitude.sh" [ref=e9] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e10]: Latitude.sh
+            - img [ref=e11]
+          - list [ref=e44]:
+            - listitem [ref=e45]:
+              - button "Products" [ref=e46] [cursor=pointer]:
+                - text: Products
+                - img [ref=e47]
+            - listitem [ref=e49]:
+              - button "Solutions" [ref=e50] [cursor=pointer]:
+                - text: Solutions
+                - img [ref=e51]
+            - listitem [ref=e53]:
+              - button "Developers" [ref=e54] [cursor=pointer]:
+                - text: Developers
+                - img [ref=e55]
+            - listitem [ref=e57]:
+              - link "Customers" [ref=e58] [cursor=pointer]:
+                - /url: /customers
+            - listitem [ref=e59]:
+              - link "Pricing" [ref=e60] [cursor=pointer]:
+                - /url: /pricing
+          - list [ref=e63]:
+            - link "Contact" [ref=e64] [cursor=pointer]:
+              - /url: /contact
+              - generic [ref=e66]: Contact
+            - link "Get started" [ref=e67] [cursor=pointer]:
+              - /url: /dashboard/signup
+              - generic [ref=e68]: Get started
+              - img [ref=e70]
+    - article [ref=e72]:
+      - generic [ref=e77]:
+        - generic [ref=e78]:
+          - generic [ref=e79]:
+            - heading "./careers-at-latitude.sh" [level=2] [ref=e80]
+            - heading "Help make the internet faster" [level=1] [ref=e81]
+          - generic [ref=e82]: At Latitude.sh, we build tools that make running and managing servers easier for everyone. We have a challenging business and a company we love working for, and we think you will too.
+          - link "See open roles" [ref=e85] [cursor=pointer]:
+            - /url: "#jobs"
+            - generic [ref=e86]: See open roles
+            - img [ref=e88]
+        - generic [ref=e90]:
+          - img [ref=e91]
+          - img [ref=e92]
+      - generic [ref=e96]:
+        - generic [ref=e98]:
+          - heading "Building the company we all want to work at" [level=1] [ref=e100]
+          - generic [ref=e101]: We believe passionate, committed people can do whatever they set themselves up to. Our team is made of diverse, creative minds that don’t rest until they solve their challenges. If that resonates with you, join us. We are growing fast and talent is something we are always looking for.
+        - generic [ref=e102]:
+          - heading "./here's-what-working-with-us-is-like" [level=2] [ref=e104]
+          - generic [ref=e105]:
+            - generic [ref=e106]:
+              - heading "Health insurance" [level=1] [ref=e108]
+              - generic [ref=e109]: Enjoy coverage of health insurance premiums across our medical and dental plan offerings, including coverage for dependents under 18.
+            - generic [ref=e110]:
+              - heading "Work calmly" [level=1] [ref=e112]
+              - generic [ref=e113]: Work-life balance is important for us, so we keep things calm and balanced by offering flexible work schedules.
+            - generic [ref=e114]:
+              - heading "Vacations and paid holidays" [level=1] [ref=e116]
+              - generic [ref=e117]: Latitude.sh offers 4 weeks of paid vacation and a few national holidays every year.
+            - generic [ref=e118]:
+              - heading "Invest in your future" [level=1] [ref=e120]
+              - generic [ref=e121]: Improve your English with twice-weekly classes, and get support to key certifications in your area.
+            - generic [ref=e122]:
+              - heading "Remote workers welcome" [level=1] [ref=e124]
+              - generic [ref=e125]: Several positions allow for remote working. Latitude.sh gives a stipend for you to use towards renting co-working space in your city.
+            - generic [ref=e126]:
+              - heading "Competitive salaries" [level=1] [ref=e128]
+              - generic [ref=e129]: No ping pong tables, no junk food to keep you in the office indefinitely. We use that money to pay a competitive compensation package that includes salary and bonuses.
+      - generic [ref=e133]:
+        - generic [ref=e135]:
+          - heading "Open positions" [level=1] [ref=e137]
+          - generic [ref=e138]: Experience comes in many forms, many skills are transferable, and passion goes a long way. If your experience is this close to what we're looking for, consider applying. We know that diversity of thought makes for the best problem-solving and creative thinking, which is why we're dedicated to adding new perspectives to the team and encourage everyone to apply.
+        - generic [ref=e139]:
+          - generic [ref=e140]:
+            - heading "Cybersecurity" [level=1] [ref=e141]
+            - link "Compliance Analyst" [ref=e143] [cursor=pointer]:
+              - /url: https://ats.rippling.com/latitudesh-jobs/jobs/3e1d3d96-2b42-4319-84af-e904f176c0dd
+            - generic [ref=e144]: São Paulo, Brazil
+          - generic [ref=e145]:
+            - heading "Engineering" [level=1] [ref=e146]
+            - link "Senior Site Reliability Engineer" [ref=e148] [cursor=pointer]:
+              - /url: https://ats.rippling.com/latitudesh-jobs/jobs/d6286748-cee1-4e27-8088-5c6c10ab009b
+            - generic [ref=e149]: Remote
+          - generic [ref=e150]:
+            - heading "Finance" [level=1] [ref=e151]
+            - link "FP&A Specialist – Infrastructure & Capacity Planning" [ref=e153] [cursor=pointer]:
+              - /url: https://ats.rippling.com/latitudesh-jobs/jobs/ec2e5854-eb09-4939-95a9-b65f42d4a5c6
+            - generic [ref=e154]: São Paulo, Brazil
+          - generic [ref=e155]:
+            - heading "Marketing" [level=1] [ref=e156]
+            - link "Senior Graphic Designer" [ref=e158] [cursor=pointer]:
+              - /url: https://ats.rippling.com/latitudesh-jobs/jobs/2aface6b-6673-4535-aa0b-95edb6be2b3d
+            - generic [ref=e159]: São Paulo, Brazil
+          - generic [ref=e160]:
+            - heading "Networking" [level=1] [ref=e161]
+            - link "Network Engineer" [ref=e163] [cursor=pointer]:
+              - /url: https://ats.rippling.com/latitudesh-jobs/jobs/9ca798ff-c029-48e5-9133-22a5179a4169
+            - generic [ref=e164]: São Paulo, Brazil
+          - generic [ref=e165]:
+            - heading "Operations" [level=1] [ref=e166]
+            - link "Senior Network Operations Analyst" [ref=e168] [cursor=pointer]:
+              - /url: https://ats.rippling.com/latitudesh-jobs/jobs/85642055-f3b7-4421-be44-1352ffb09928
+            - generic [ref=e169]: São Paulo, Brazil
+          - generic [ref=e170]:
+            - heading "Operations" [level=1] [ref=e171]
+            - link "Senior Operations Analyst" [ref=e173] [cursor=pointer]:
+              - /url: https://ats.rippling.com/latitudesh-jobs/jobs/f89e9b24-5949-4366-9400-4b41873c1794
+            - generic [ref=e174]: São Paulo, Brazil
+          - generic [ref=e175]:
+            - heading "Operations Strategy" [level=1] [ref=e176]
+            - link "Supply Chain Analyst - Capacity Planning" [ref=e178] [cursor=pointer]:
+              - /url: https://ats.rippling.com/latitudesh-jobs/jobs/c0fdceaf-7cf6-43de-be00-522d629fb603
+            - generic [ref=e179]: São Paulo, Brazil
+    - contentinfo "Footer" [ref=e180]:
+      - navigation "Latitude.sh Directory" [ref=e183]:
+        - heading "Footer" [level=2] [ref=e184]
+        - generic [ref=e185]:
+          - generic [ref=e187]:
+            - img [ref=e188]
+            - list [ref=e220]:
+              - listitem [ref=e221]:
+                - link [ref=e222] [cursor=pointer]:
+                  - /url: https://x.com/latitudesh
+                  - img [ref=e223]
+              - listitem [ref=e225]:
+                - link "github" [ref=e226] [cursor=pointer]:
+                  - /url: https://github.com/latitudesh
+                  - img "github" [ref=e227]
+              - listitem [ref=e229]:
+                - link "LinkedIn" [ref=e230] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/22318494/
+                  - img "LinkedIn" [ref=e231]
+            - generic [ref=e233]:
+              - generic [ref=e235]: Stay updated with our latest news and updates
+              - generic [ref=e236]:
+                - textbox "Your email" [ref=e237]
+                - button [ref=e239] [cursor=pointer]:
+                  - img [ref=e240]
+          - generic [ref=e242]:
+            - generic [ref=e243]:
+              - generic [ref=e244]:
+                - heading "Platform" [level=1] [ref=e246]
+                - generic [ref=e247]:
+                  - link "Locations" [ref=e249] [cursor=pointer]:
+                    - /url: /locations
+                  - link "Network" [ref=e251] [cursor=pointer]:
+                    - /url: /network
+                  - link "Pricing" [ref=e253] [cursor=pointer]:
+                    - /url: /pricing
+              - generic [ref=e254]:
+                - heading "Products" [level=1] [ref=e256]
+                - generic [ref=e257]:
+                  - link "Metal" [ref=e259] [cursor=pointer]:
+                    - /url: /features
+                  - link "Metal GPU" [ref=e261] [cursor=pointer]:
+                    - /url: /accelerate
+                  - link "Kubernetes (LKS)" [ref=e263] [cursor=pointer]:
+                    - /url: https://www.latitude.sh/docs/kubernetes
+                  - link "Virtual machines" [ref=e265] [cursor=pointer]:
+                    - /url: https://www.latitude.sh/docs/vms/virtual-machines
+                  - link "Build" [ref=e267] [cursor=pointer]:
+                    - /url: /build
+                  - link "Storage" [ref=e269] [cursor=pointer]:
+                    - /url: /storage
+                  - link "Managed Postgres" [ref=e271] [cursor=pointer]:
+                    - /url: /databases
+                  - link "Cloud Gateway" [ref=e273] [cursor=pointer]:
+                    - /url: /cloud-gateway
+                  - link "Global Gateway" [ref=e275] [cursor=pointer]:
+                    - /url: /global-gateway
+                  - link "Private Networks" [ref=e277] [cursor=pointer]:
+                    - /url: /docs/networking/private-networks
+                  - link "Firewall" [ref=e279] [cursor=pointer]:
+                    - /url: https://www.latitude.sh/docs/networking/firewall
+                  - link "DDoS Protection" [ref=e281] [cursor=pointer]:
+                    - /url: /ddos-protection
+            - generic [ref=e283]:
+              - heading "Solutions" [level=1] [ref=e285]
+              - generic [ref=e286]:
+                - link "AI" [ref=e288] [cursor=pointer]:
+                  - /url: /accelerate
+                - link "Web3 & Crypto" [ref=e290] [cursor=pointer]:
+                  - /url: /solutions/web3
+                - link "Solana" [ref=e292] [cursor=pointer]:
+                  - /url: /solutions/solana
+                - link "Confidential Compute" [ref=e294] [cursor=pointer]:
+                  - /url: /solutions/confidential-compute
+                - link "Ethereum" [ref=e296] [cursor=pointer]:
+                  - /url: /solutions/ethereum
+                - link "AdTech" [ref=e298] [cursor=pointer]:
+                  - /url: /solutions/adtech
+                - link "Gaming" [ref=e300] [cursor=pointer]:
+                  - /url: /solutions/online-gaming
+                - link "Equinix Metal Migration" [ref=e302] [cursor=pointer]:
+                  - /url: /solutions/equinix-metal-migration
+                - link "Kubernetes" [ref=e304] [cursor=pointer]:
+                  - /url: /solutions/containers
+                - link "Cloud Migration" [ref=e306] [cursor=pointer]:
+                  - /url: /solutions/cloud-migration
+                - link "Video Streaming" [ref=e308] [cursor=pointer]:
+                  - /url: /solutions/streaming
+            - generic [ref=e310]:
+              - heading "Developers" [level=1] [ref=e312]
+              - generic [ref=e313]:
+                - link "Docs" [ref=e315] [cursor=pointer]:
+                  - /url: https://www.latitude.sh/docs
+                - link "API reference" [ref=e317] [cursor=pointer]:
+                  - /url: https://www.latitude.sh/docs/api-reference/summary
+                - link "SDKs" [ref=e319] [cursor=pointer]:
+                  - /url: https://www.latitude.sh/docs/api-reference/client-libraries
+                - link "CLI" [ref=e321] [cursor=pointer]:
+                  - /url: https://www.latitude.sh/docs/cli
+                - link "Terraform" [ref=e323] [cursor=pointer]:
+                  - /url: https://registry.terraform.io/providers/latitudesh/latitudesh/latest
+                - link "Examples" [ref=e325] [cursor=pointer]:
+                  - /url: https://github.com/latitudesh/examples
+                - link "Blog" [ref=e327] [cursor=pointer]:
+                  - /url: /blog
+                - link "Changelog" [ref=e329] [cursor=pointer]:
+                  - /url: /changelog
+                - link "Service status" [ref=e331] [cursor=pointer]:
+                  - /url: https://status.latitude.sh/
+                - link "Looking glass" [ref=e333] [cursor=pointer]:
+                  - /url: https://lg.latitude.sh/
+            - generic [ref=e334]:
+              - generic [ref=e335]:
+                - heading "Company" [level=1] [ref=e337]
+                - generic [ref=e338]:
+                  - link "Customers" [ref=e340] [cursor=pointer]:
+                    - /url: /customers
+                  - link "About us" [ref=e342] [cursor=pointer]:
+                    - /url: /about
+                  - link "Careers" [ref=e344] [cursor=pointer]:
+                    - /url: /careers
+                  - link "Contact sales" [ref=e346] [cursor=pointer]:
+                    - /url: /contact
+                  - link "Contact support" [ref=e348] [cursor=pointer]:
+                    - /url: https://www.latitude.sh/dashboard/account?contactSupport
+                  - link "Brand assets" [ref=e350] [cursor=pointer]:
+                    - /url: https://latitudesh.notion.site/Brand-assets-new-85628846d55243c9bfd5d578c2cac46d
+              - generic [ref=e351]:
+                - heading "Legal" [level=1] [ref=e353]
+                - generic [ref=e354]:
+                  - link "DPA" [ref=e356] [cursor=pointer]:
+                    - /url: /legal/dpa
+                  - link "Terms of Service" [ref=e358] [cursor=pointer]:
+                    - /url: /legal/terms
+                  - link "Privacy Policy" [ref=e360] [cursor=pointer]:
+                    - /url: /legal/privacy
+                  - link "Fair Usage Policy" [ref=e362] [cursor=pointer]:
+                    - /url: /legal/fair-usage
+                  - link "Security" [ref=e364] [cursor=pointer]:
+                    - /url: /legal/security
+                  - link "Trust Center" [ref=e366] [cursor=pointer]:
+                    - /url: https://trust.latitude.sh
+                  - generic [ref=e367]: Manage cookies
+      - generic [ref=e371]:
+        - generic [ref=e373]: © Latitude.sh
+        - generic:
+          - generic: ////////////////////////////////////////////////////////////////////////////////////////////////
+  - alert [ref=e374]

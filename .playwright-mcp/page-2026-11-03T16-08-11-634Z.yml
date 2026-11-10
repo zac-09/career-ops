@@ -1,0 +1,325 @@
+- generic [ref=f29e5]:
+  - generic [ref=f29e6]:
+    - navigation "Main" [ref=f29e7]:
+      - generic [ref=f29e8]:
+        - generic [ref=f29e9]:
+          - link "Skip to content" [ref=f29e10] [cursor=pointer]:
+            - /url: "#content"
+          - link "Atlassian logo" [ref=f29e11] [cursor=pointer]:
+            - /url: /
+            - img "Atlassian" [ref=f29e13]
+        - generic [ref=f29e26]:
+          - menubar [ref=f29e28]:
+            - menuitem "Products" [ref=f29e29] [cursor=pointer]
+            - tabpanel:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading [level=2]: Featured apps
+                      - list:
+                        - listitem:
+                          - link:
+                            - /url: /software/jira
+                            - generic:
+                              - generic:
+                                - strong: Jira
+                              - generic: Flexible project management
+                        - listitem:
+                          - link:
+                            - /url: /software/confluence
+                            - generic:
+                              - generic:
+                                - strong: Confluence
+                              - generic: Knowledge, all in one place
+                        - listitem:
+                          - link:
+                            - /url: /software/jira/service-management
+                            - generic:
+                              - generic:
+                                - strong: Jira Service Management
+                              - generic: Deliver service at high velocity
+                  - heading [level=2]: Atlassian Collections
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: /collections/teamwork
+                        - generic:
+                          - generic: Supercharge teamwork seamlessly
+                          - generic: Jira Confluence Loom
+                    - listitem:
+                      - link:
+                        - /url: /collections/strategy
+                        - generic:
+                          - generic: Optimize strategy and outcomes confidently
+                          - generic: Focus Talent Align
+                    - listitem:
+                      - link:
+                        - /url: /collections/service
+                        - generic:
+                          - generic: Deliver service at high-velocity
+                          - generic: Jira Service Management Customer Service Management Assets
+                    - listitem:
+                      - link:
+                        - /url: /software/jira/dev
+                        - generic:
+                          - generic: Ship high-quality software fast
+                          - generic: DX Pipelines Bitbucket
+                    - listitem:
+                      - link:
+                        - /url: /collections/product
+                        - generic:
+                          - generic: Build products with confidence
+                          - generic: Jira Product Discovery Feedback Rovo
+                - generic:
+                  - generic:
+                    - heading [level=2]: Powered by
+                - link:
+                  - /url: /software/rovo
+                  - generic:
+                    - generic: Rovo
+                    - paragraph: AI-powered apps – driven by your team's knowledge.
+            - menuitem "AI" [ref=f29e33] [cursor=pointer]
+            - menuitem "Solutions" [ref=f29e37] [cursor=pointer]
+            - menuitem "Why Atlassian" [ref=f29e41] [cursor=pointer]
+            - menuitem "Resources" [ref=f29e45] [cursor=pointer]
+            - menuitem "Enterprise" [ref=f29e49] [cursor=pointer]
+          - generic [ref=f29e50]:
+            - search [ref=f29e52]:
+              - generic: Search
+              - button "search" [ref=f29e53] [cursor=pointer]
+            - link "Sign in" [ref=f29e61] [cursor=pointer]:
+              - /url: https://id.atlassian.com/login?continue=https%3A%2F%2Fwww.atlassian.com%2Fgateway%2Fapi%2Fstart%2Fauthredirect%3Fcontinue%3Dhttps%3A%2F%2Fwww.atlassian.com%2Fcompany%2Fcareers%2Fdetails%2F27730%3FdisableOptimizely%3Dtrue&application=wac--ic
+    - navigation "Careers" [ref=f29e62]:
+      - generic [ref=f29e63]:
+        - link "Careers" [ref=f29e65] [cursor=pointer]:
+          - /url: /company/careers
+        - menubar [ref=f29e69]:
+          - menuitem "Browse Jobs" [ref=f29e70] [cursor=pointer]
+          - menuitem "Our Teams" [ref=f29e71] [cursor=pointer]
+          - menuitem "Early Careers" [ref=f29e75] [cursor=pointer]
+          - menuitem "Team Experience" [ref=f29e76] [cursor=pointer]
+          - menuitem "Candidate Resources" [ref=f29e80] [cursor=pointer]
+  - main [ref=f29e85]:
+    - generic [ref=f29e88]:
+      - heading "Senior Backend Software Engineer, DX" [level=1] [ref=f29e89]
+      - paragraph [ref=f29e91]: Engineering | Remote, Americas | Remote, Remote
+      - link "Apply for this job" [ref=f29e94] [cursor=pointer]:
+        - /url: https://careers-americas.icims.com/jobs/27730/senior-backend-software-engineer%2c-dx/job?mode=apply
+    - generic [ref=f29e97]:
+      - generic [ref=f29e98]:
+        - paragraph [ref=f29e100]: Working at Atlassian
+        - paragraph [ref=f29e102]: Atlassians can choose where they work – whether in an office, from home, or a combination of the two. That way, Atlassians have more control over supporting their family, personal goals, and other priorities. We can hire people in any country where we have a legal entity.
+        - paragraph [ref=f29e104]: To help our teams work together effectively, this role is fully remote across all USA time zones, with a preference for Pacific Time or Mountain Standard Time Zones.
+        - paragraph [ref=f29e106]: "We're looking for a Senior Backend Software Engineer to join our DX team, particularly having experience with third-party integrations. You’ll work end‑to‑end on features: from shaping vague problem statements with product and design, to shipping high‑quality code, to measuring impact and iterating quickly."
+      - generic [ref=f29e107]:
+        - paragraph [ref=f29e109]: "What You'll Do:"
+        - list [ref=f29e111]:
+          - listitem [ref=f29e112]:
+            - paragraph [ref=f29e113]: Drive large, complex projects autonomously, from technical design to launch
+          - listitem [ref=f29e114]:
+            - paragraph [ref=f29e115]: Tackle complex architecture challenges, apply architectural standards and start using them on new projects
+          - listitem [ref=f29e116]:
+            - paragraph [ref=f29e117]: Lead code reviews & documentation as well as take on complex bug fixes, especially on high-risk problems
+          - listitem [ref=f29e118]:
+            - paragraph [ref=f29e119]: Be an example for thorough, meaningful code reviews
+          - listitem [ref=f29e120]:
+            - paragraph [ref=f29e121]: Partner across engineering teams to tackle company-wide initiatives spanning multiple projects
+          - listitem [ref=f29e122]:
+            - paragraph [ref=f29e123]: Mentor junior members of the team
+      - generic [ref=f29e124]:
+        - paragraph [ref=f29e126]: At Atlassian, we strive to design equitable, explainable, and competitive compensation programs. We follow consistent hiring practices and account for each candidate's skills, knowledge, and experience when setting base pay within the range.
+        - paragraph [ref=f29e128]:
+          - text: Please visit
+          - link "go.atlassian.com/payzones" [ref=f29e129] [cursor=pointer]:
+            - /url: http://go.atlassian.com/payzones
+          - text: for more information on which locations are included in each of our geographic pay zones. However, please confirm the zone for your specific location with your recruiter.
+        - paragraph [ref=f29e131]: This role may also be eligible for benefits, bonuses, commissions, and equity.
+      - generic [ref=f29e132]:
+        - paragraph [ref=f29e134]: "In The Americas, we have three geographic pay zones. For this role, our current base pay ranges for new hires in each zone are:"
+        - generic:
+          - paragraph
+        - paragraph [ref=f29e136]: "Zone A: $180,000 - $235,000"
+        - generic:
+          - paragraph
+        - paragraph [ref=f29e138]: "Zone B: $162,000 - $211,500"
+        - generic:
+          - paragraph
+        - paragraph [ref=f29e140]: "Zone C: $149,400 - $195,050"
+      - generic [ref=f29e141]:
+        - paragraph [ref=f29e143]: "Your Background:"
+        - list [ref=f29e145]:
+          - listitem [ref=f29e146]:
+            - paragraph [ref=f29e147]: 5+ years experience building and developing backend applications
+          - listitem [ref=f29e148]:
+            - paragraph [ref=f29e149]: Bachelor's or Master's degree with a preference for Computer Science degree - Senior-level
+          - listitem [ref=f29e150]:
+            - paragraph [ref=f29e151]: Experience with third-party integrations
+          - listitem [ref=f29e152]:
+            - paragraph [ref=f29e153]: Experience with one or more prominent languages such as Java, Python, Kotlin, Go, or Ruby on Rails is required.
+          - listitem [ref=f29e154]:
+            - paragraph [ref=f29e155]: Understanding of SaaS, PaaS, IaaS industry with hands-on experience with public cloud offerings (e.g., AWS, GCP, Azure)
+          - listitem [ref=f29e156]:
+            - paragraph [ref=f29e157]: Fluency in any one database technology (e.g. RDBMS like Oracle or Postgres and/or NoSQL like DynamoDB or Cassandra)
+          - listitem [ref=f29e158]:
+            - paragraph [ref=f29e159]: Experience crafting and implementing well-tested, highly scalable and performant micro-services
+          - listitem [ref=f29e160]:
+            - paragraph [ref=f29e161]: and/or other distributed systems
+          - listitem [ref=f29e162]:
+            - paragraph [ref=f29e163]: Practical knowledge of agile software development methodologies (e.g., XP, scrum)
+          - listitem [ref=f29e164]:
+            - paragraph [ref=f29e165]: Knowledge to evaluate trade-offs between correctness, robustness, performance, space and time
+          - listitem [ref=f29e166]:
+            - paragraph [ref=f29e167]: Practice in mentoring other engineers and influencing decision makers throughout the organization
+        - paragraph [ref=f29e169]: Benefits & Perks
+        - paragraph [ref=f29e171]:
+          - text: Atlassian offers a wide range of perks and benefits designed to support you, your family and to help you engage with your local community. Our offerings include health and wellbeing resources, paid volunteer days, and so much more. To learn more, visit
+          - link "go.atlassian.com/perksandbenefits" [ref=f29e172] [cursor=pointer]:
+            - /url: http://go.atlassian.com/perksandbenefits
+          - text: .
+        - paragraph [ref=f29e175]: About Atlassian
+        - paragraph [ref=f29e177]: "At Atlassian, we're motivated by a common goal: to unleash the potential of every team. Our software products help teams all over the planet and our solutions are designed for all types of work. Team collaboration through our tools makes what may be impossible alone, possible together."
+        - paragraph [ref=f29e179]: We believe that the unique contributions of all Atlassians create our success. To ensure that our products and culture continue to incorporate everyone's perspectives and experience, we never discriminate based on race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status. All your information will be kept confidential according to EEO guidelines.
+        - paragraph [ref=f29e181]: To provide you the best experience, we can support with accommodations or adjustments at any stage of the recruitment process. Simply inform our Recruitment team during your conversation with them.
+        - paragraph [ref=f29e183]:
+          - text: To learn more about our culture and hiring process, visit
+          - link "go.atlassian.com/crh" [ref=f29e184] [cursor=pointer]:
+            - /url: http://go.atlassian.com/crh
+          - text: .
+        - paragraph [ref=f29e187]: In line with local law, identity verification (which may include use of biometric data) is a condition of employment with Atlassian for employment fraud purposes.
+    - link "Apply for this job" [ref=f29e193] [cursor=pointer]:
+      - /url: https://careers-americas.icims.com/jobs/27730/senior-backend-software-engineer%2c-dx/job?mode=apply
+    - generic [ref=f29e198]:
+      - heading "Join the Atlassian Talent Community" [level=2] [ref=f29e199]
+      - paragraph [ref=f29e204]: Don’t see an exact role match? No problem! Join our Talent Community and stay up-to-date on company and careers updates relevant to your career.
+      - link "Join now Join the Atlassian Talent Community" [ref=f29e206] [cursor=pointer]:
+        - /url: https://join.atlassian.com/atlassian-talent-community/talentcommunity/form
+        - text: Join now
+  - contentinfo [ref=f29e208]:
+    - generic [ref=f29e209]:
+      - generic [ref=f29e211]:
+        - generic [ref=f29e212]:
+          - link "Atlassian logo" [ref=f29e214] [cursor=pointer]:
+            - /url: /
+          - list [ref=f29e219]:
+            - listitem [ref=f29e220]:
+              - link "Company" [ref=f29e222] [cursor=pointer]:
+                - /url: /company
+            - listitem [ref=f29e224]:
+              - link "Careers" [ref=f29e226] [cursor=pointer]:
+                - /url: /company/careers
+            - listitem [ref=f29e228]:
+              - link "Events" [ref=f29e230] [cursor=pointer]:
+                - /url: /company/events
+            - listitem [ref=f29e232]:
+              - link "Blogs" [ref=f29e234] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=f29e236]:
+              - link "Investor Relations" [ref=f29e238] [cursor=pointer]:
+                - /url: https://investors.atlassian.com
+            - listitem [ref=f29e240]:
+              - link "Atlassian Foundation" [ref=f29e242] [cursor=pointer]:
+                - /url: https://www.atlassianfoundation.org/
+            - listitem [ref=f29e244]:
+              - link "Press kit" [ref=f29e246] [cursor=pointer]:
+                - /url: /company/news/press-kit
+            - listitem [ref=f29e248]:
+              - link "Contact us" [ref=f29e250] [cursor=pointer]:
+                - /url: /company/contact
+        - generic [ref=f29e252]:
+          - heading "Products" [level=2] [ref=f29e254]
+          - list [ref=f29e255]:
+            - listitem [ref=f29e256]:
+              - link "Rovo" [ref=f29e258] [cursor=pointer]:
+                - /url: /rovo
+            - listitem [ref=f29e260]:
+              - link "Jira" [ref=f29e262] [cursor=pointer]:
+                - /url: /software/jira
+            - listitem [ref=f29e264]:
+              - link "Jira Align" [ref=f29e266] [cursor=pointer]:
+                - /url: /software/jira/align
+            - listitem [ref=f29e268]:
+              - link "Jira Service Management" [ref=f29e270] [cursor=pointer]:
+                - /url: /software/jira/service-management
+            - listitem [ref=f29e272]:
+              - link "Confluence" [ref=f29e274] [cursor=pointer]:
+                - /url: /software/confluence
+            - listitem [ref=f29e276]:
+              - link "Loom" [ref=f29e278] [cursor=pointer]:
+                - /url: /software/loom
+            - listitem [ref=f29e280]:
+              - link "Trello" [ref=f29e282] [cursor=pointer]:
+                - /url: https://trello.com/home
+            - listitem [ref=f29e284]:
+              - link "Bitbucket" [ref=f29e286] [cursor=pointer]:
+                - /url: /software/bitbucket
+          - link "See all products" [ref=f29e290] [cursor=pointer]:
+            - /url: /software
+        - generic [ref=f29e294]:
+          - heading "Resources" [level=2] [ref=f29e296]
+          - list [ref=f29e297]:
+            - listitem [ref=f29e298]:
+              - link "Technical support" [ref=f29e300] [cursor=pointer]:
+                - /url: https://support.atlassian.com/
+            - listitem [ref=f29e302]:
+              - link "Purchasing & licensing" [ref=f29e304] [cursor=pointer]:
+                - /url: /licensing/purchase-licensing
+            - listitem [ref=f29e306]:
+              - link "Templates" [ref=f29e308] [cursor=pointer]:
+                - /url: /templates
+            - listitem [ref=f29e310]:
+              - link "Atlassian Community" [ref=f29e312] [cursor=pointer]:
+                - /url: https://community.atlassian.com/
+            - listitem [ref=f29e314]:
+              - link "Knowledge base" [ref=f29e316] [cursor=pointer]:
+                - /url: https://confluence.atlassian.com/kb
+            - listitem [ref=f29e318]:
+              - link "Marketplace" [ref=f29e320] [cursor=pointer]:
+                - /url: https://marketplace.atlassian.com/
+            - listitem [ref=f29e322]:
+              - link "My account" [ref=f29e324] [cursor=pointer]:
+                - /url: https://my.atlassian.com/products/index
+          - link "Create support ticket" [ref=f29e328] [cursor=pointer]:
+            - /url: https://support.atlassian.com/contact/
+        - generic [ref=f29e332]:
+          - heading "Learn" [level=2] [ref=f29e334]
+          - list [ref=f29e335]:
+            - listitem [ref=f29e336]:
+              - link "Partners" [ref=f29e338] [cursor=pointer]:
+                - /url: /partners
+            - listitem [ref=f29e340]:
+              - link "Training & certification" [ref=f29e342] [cursor=pointer]:
+                - /url: /university
+            - listitem [ref=f29e344]:
+              - link "Documentation" [ref=f29e346] [cursor=pointer]:
+                - /url: https://confluence.atlassian.com/display/ALLDOC/Atlassian+Documentation
+            - listitem [ref=f29e348]:
+              - link "Developer resources" [ref=f29e350] [cursor=pointer]:
+                - /url: /developers
+            - listitem [ref=f29e352]:
+              - link "Enterprise services" [ref=f29e354] [cursor=pointer]:
+                - /url: /enterprise/services
+          - link "See all resources" [ref=f29e358] [cursor=pointer]:
+            - /url: /resources
+      - generic [ref=f29e362]:
+        - generic [ref=f29e363]: Copyright © 2026 Atlassian
+        - generic [ref=f29e364]:
+          - list [ref=f29e365]:
+            - listitem [ref=f29e366]:
+              - link "Privacy policy" [ref=f29e368] [cursor=pointer]:
+                - /url: /legal/privacy-policy
+            - listitem [ref=f29e370]:
+              - link "Notice at Collection" [ref=f29e371] [cursor=pointer]:
+                - /url: /legal/privacy-policy#additional-disclosures-for-ca-residents
+            - listitem [ref=f29e373]:
+              - link "Terms" [ref=f29e375] [cursor=pointer]:
+                - /url: /legal/cloud-terms-of-service
+            - listitem [ref=f29e377]:
+              - link "Trust Center" [ref=f29e379] [cursor=pointer]:
+                - /url: /trust
+            - listitem [ref=f29e381]:
+              - link "Impressum" [ref=f29e383] [cursor=pointer]:
+                - /url: /legal/impressum
+          - generic [ref=f29e385] [cursor=pointer]:
+            - generic [ref=f29e394]: English
+            - generic [aria-hidden] [ref=f29e395]: ▾

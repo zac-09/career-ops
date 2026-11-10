@@ -1,0 +1,104 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - heading "Page not found" [level=4] [ref=e13]
+          - paragraph [ref=e15]: The page you’re looking for doesn’t exist or may have moved. Let’s get you back on track.
+        - button "Go to homepage" [ref=e18]:
+          - link "Go to homepage" [ref=e20] [cursor=pointer]:
+            - /url: ../
+            - paragraph [ref=e22]: Go to homepage
+      - generic [ref=e27]:
+        - img [ref=e35]
+        - generic [ref=e37]:
+          - generic [ref=e38]:
+            - generic [ref=e39]:
+              - img [ref=e42]
+              - img [ref=e46]
+            - paragraph [ref=e49]: © 2026. Yellow Card Inc.
+          - generic [ref=e51]:
+            - generic [ref=e53]:
+              - paragraph [ref=e55]: Solutions
+              - generic [ref=e56]:
+                - paragraph [ref=e59]:
+                  - link "Digital Asset Infrastructure" [ref=e60] [cursor=pointer]:
+                    - /url: ../digital-asset-infrastructure
+                - paragraph [ref=e63]:
+                  - link "Fiat Payment Infrastructure" [ref=e64] [cursor=pointer]:
+                    - /url: ../fiat-payment-infrastructure
+            - generic [ref=e65]:
+              - generic [ref=e66]:
+                - paragraph [ref=e68]: Products
+                - generic [ref=e69]:
+                  - paragraph [ref=e72]:
+                    - link "API Suite" [ref=e73] [cursor=pointer]:
+                      - /url: ../api-suite
+                  - paragraph [ref=e76]:
+                    - link "Treasury Portal" [ref=e77] [cursor=pointer]:
+                      - /url: ../treasury
+              - generic [ref=e78]:
+                - paragraph [ref=e80]: Developers
+                - paragraph [ref=e84]:
+                  - link "Documentation" [ref=e85] [cursor=pointer]:
+                    - /url: https://docs.yellowcard.engineering/
+            - generic [ref=e86]:
+              - paragraph [ref=e88]: Connect
+              - generic [ref=e89]:
+                - paragraph [ref=e92]:
+                  - link "Linkedin" [ref=e93] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/yellowcardapp/
+                - paragraph [ref=e96] [cursor=pointer]:
+                  - link "X" [ref=e97]:
+                    - /url: https://x.com/yellowcard_app/
+                - paragraph [ref=e100]:
+                  - link "Facebook" [ref=e101] [cursor=pointer]:
+                    - /url: https://www.facebook.com/yellowcardapp/
+                - paragraph [ref=e104]:
+                  - link "Instagram" [ref=e105] [cursor=pointer]:
+                    - /url: https://www.instagram.com/yellowcard_app/
+            - generic [ref=e106]:
+              - paragraph [ref=e108]: Resources
+              - generic [ref=e109]:
+                - paragraph [ref=e112]:
+                  - link "About" [ref=e113] [cursor=pointer]:
+                    - /url: ../about-us
+                - paragraph [ref=e116]:
+                  - link "Press" [ref=e117] [cursor=pointer]:
+                    - /url: ../press
+                - paragraph [ref=e120]:
+                  - link "Careers" [ref=e121] [cursor=pointer]:
+                    - /url: https://yellowcard.bamboohr.com/careers
+                - paragraph [ref=e124]:
+                  - link "Legal" [ref=e125] [cursor=pointer]:
+                    - /url: ../legal
+                - paragraph [ref=e128]:
+                  - link "Security" [ref=e129] [cursor=pointer]:
+                    - /url: ../security
+                - paragraph [ref=e132]:
+                  - link "Blog" [ref=e133] [cursor=pointer]:
+                    - /url: ../blog
+                - paragraph [ref=e136]:
+                  - link "Report" [ref=e137] [cursor=pointer]:
+                    - /url: ../report
+                - paragraph [ref=e140]:
+                  - link "Help Centre" [ref=e141] [cursor=pointer]:
+                    - /url: https://help.yellowcard.io/
+    - navigation [ref=e144]:
+      - generic [ref=e146]:
+        - link [ref=e147] [cursor=pointer]:
+          - /url: ../
+          - generic [ref=e148]:
+            - img [ref=e151]
+            - img [ref=e155]
+        - button "Speak to an expert" [ref=e159]:
+          - link "Speak to an expert" [ref=e161] [cursor=pointer]:
+            - /url: https://links.yellowcard.io/contact
+            - paragraph [ref=e163]: Speak to an expert
+  - img [ref=e166]
+  - img [ref=e167]
+  - img [ref=e175]
+  - img [ref=e186]
+  - img [ref=e194]
+  - button "Cookie preferences" [ref=e221] [cursor=pointer]:
+    - img [ref=e222]

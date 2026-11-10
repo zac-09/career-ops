@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Isaac Mubiru — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin-ext.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin-ext.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    background: #ffffff;
+    padding: 0;
+    margin: 0;
+  }
+  .page { width: 100%; max-width: 8.5in; margin: 0 auto; padding: 0; }
+  .header { margin-bottom: 16px; }
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #1a1a2e;
+    letter-spacing: -0.02em;
+    margin-bottom: 4px;
+  }
+  .header-gradient {
+    height: 2px;
+    background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+    border-radius: 1px;
+    margin-bottom: 8px;
+  }
+  .contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 16px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    color: #555;
+  }
+  .contact-row a { color: #555; text-decoration: none; }
+  .contact-row .separator { color: #ccc; }
+  .section { margin-bottom: 14px; }
+  .section-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: hsl(187, 74%, 32%);
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 3px;
+    margin-bottom: 8px;
+  }
+  .summary-text { font-size: 11px; line-height: 1.6; color: #333; }
+  a { white-space: nowrap; }
+  .competencies-grid { display: flex; flex-wrap: wrap; gap: 6px; }
+  .competency-tag {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    color: hsl(187, 74%, 28%);
+    background: hsl(187, 40%, 95%);
+    padding: 3px 10px;
+    border-radius: 3px;
+    border: 1px solid hsl(187, 40%, 88%);
+  }
+  .job { margin-bottom: 12px; }
+  .job-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 2px; }
+  .job-company {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+  .job-period { font-size: 10px; color: #777; white-space: nowrap; }
+  .job-role { font-size: 11px; font-weight: 500; color: #444; margin-bottom: 4px; }
+  .job-location { font-size: 10px; color: #888; }
+  .job ul { padding-left: 16px; margin-top: 4px; }
+  .job li { font-size: 10.5px; line-height: 1.5; color: #333; margin-bottom: 2px; }
+  .job li strong { font-weight: 600; }
+  .project { margin-bottom: 10px; }
+  .project-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+  .project-badge {
+    font-size: 9px;
+    font-weight: 500;
+    color: hsl(187, 74%, 32%);
+    background: hsl(187, 40%, 95%);
+    padding: 1px 6px;
+    border-radius: 2px;
+    margin-left: 6px;
+  }
+  .project-desc { font-size: 10.5px; color: #444; margin-top: 2px; }
+  .project-tech { font-size: 9.5px; color: #888; margin-top: 2px; }
+  .edu-item { margin-bottom: 6px; }
+  .edu-header { display: flex; justify-content: space-between; align-items: baseline; }
+  .edu-title { font-weight: 600; font-size: 11px; color: #333; }
+  .edu-org { color: hsl(270, 70%, 45%); font-weight: 500; }
+  .edu-year { font-size: 10px; color: #777; }
+  .edu-desc { font-size: 10px; color: #666; }
+  .skills-grid { display: flex; flex-wrap: wrap; gap: 4px 12px; }
+  .skill-item { font-size: 10.5px; color: #444; }
+  .skill-category { font-weight: 600; color: #333; font-size: 10.5px; }
+  @media print {
+    body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .page { padding: 0; }
+  }
+  .avoid-break { break-inside: avoid; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header">
+    <h1>Isaac Mubiru</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>isaacmubiru99@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://linkedin.com/in/isaac-mubiru-3bb728174">linkedin.com/in/isaac-mubiru-3bb728174</a>
+      <span class="separator">|</span>
+      <a href="https://github.com/zac-09">github.com/zac-09</a>
+      <span class="separator">|</span>
+      <span>Kampala, Uganda (UTC+3) — Remote</span>
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">Senior Full Stack Engineer with 6+ years building and shipping production software end-to-end: Node.js backends, React.js frontends, and React Native mobile apps. Led the zero-downtime migration of 20+ production applications from Parse/MongoDB to Firebase/GCP, reporting directly to the CTO. Proven in fast-paced, high-iteration agency environments — delivered React UIs from Figma designs under tight timelines for demanding US clients, and shipped revenue features like Express Shipping (+$40 per order). Deep across every layer: databases (MongoDB, SQL), servers (REST and gRPC APIs, Docker, Kubernetes), and UI. Fully remote, owning delivery with minimal guidance.</div>
+  </div>
+
+  <!-- CORE COMPETENCIES -->
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">Node.js Backend Development</span>
+      <span class="competency-tag">React.js Frontend</span>
+      <span class="competency-tag">End-to-End Web &amp; Mobile Delivery</span>
+      <span class="competency-tag">REST &amp; gRPC APIs</span>
+      <span class="competency-tag">MongoDB &amp; SQL</span>
+      <span class="competency-tag">React Native (iOS &amp; Android)</span>
+      <span class="competency-tag">Docker &amp; Kubernetes</span>
+      <span class="competency-tag">Cross-Functional Collaboration</span>
+    </div>
+  </div>
+
+  <!-- WORK EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">MTailor</span>
+        <span class="job-period">September 2022 – Present</span>
+      </div>
+      <div class="job-role">Software Engineer <span class="job-location">— US Remote</span></div>
+      <ul>
+        <li><strong>Led the end-to-end migration of 20+ production applications</strong> from Parse/MongoDB to Firebase/GCP with zero downtime, owning delivery and reporting directly to the CTO</li>
+        <li>Implemented real-time two-way sync between MongoDB and Firestore using Node.js and Google Pub/Sub for message processing</li>
+        <li>Implemented Express Shipping end-to-end, generating an additional $40 revenue per order</li>
+        <li>Built a 3D visualisation feature for customers using video overlay and the ffmpeg library, increasing buyer conversion</li>
+        <li>Saved the company $5,000/month by migrating all services off AWS; moved file storage from Amazon S3 to GCS via a Python script</li>
+        <li>Migrated a Webflow website from a Parse backend to Firebase</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">MTailor</span>
+        <span class="job-period">March 2022 – July 2022</span>
+      </div>
+      <div class="job-role">Backend Contractor <span class="job-location">— US Remote (via Upwork)</span></div>
+      <ul>
+        <li>Built a migration script reading from MongoDB and writing to Firestore after complex processing logic</li>
+        <li>Wrote documentation for fellow engineers on the new Firebase SDKs (Node.js and Python) and trained the Ops team on dashboards and backup procedures</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Mind2matter.co</span>
+        <span class="job-period">January 2022 – July 2022</span>
+      </div>
+      <div class="job-role">Software Engineer (Full Stack, Agency) <span class="job-location">— US Remote</span></div>
+      <ul>
+        <li>Full-stack delivery for a US-based agency with demanding clients, reporting directly to the CTO</li>
+        <li>Delivered React UIs from Figma designs under tight timelines in a high-iteration environment</li>
+        <li>Built backends for DeFi applications using Web3 and Node.js</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Dr Wealth</span>
+        <span class="job-period">August 2021 – January 2022</span>
+      </div>
+      <div class="job-role">Software Engineer <span class="job-location">— Singapore Remote</span></div>
+      <ul>
+        <li>Led optimisation of a PWA delivering real-time stock market prices from a Firebase backend</li>
+        <li>Built ad-hoc jobs querying over 2 million Firestore records to keep customer prices current from Morningstar APIs</li>
+        <li>Extended backend APIs using Firebase Cloud Functions and Express.js; added responsive UI pages with React, Tailwind, and HTML</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">CodeBits</span>
+        <span class="job-period">January 2020 – July 2021</span>
+      </div>
+      <div class="job-role">Software Engineer (Team Lead) <span class="job-location">— Uganda Remote</span></div>
+      <ul>
+        <li>Led a team of 4 developers building legal tech systems for NGOs in Uganda</li>
+        <li>Architected a microservices backend for FIDA Uganda's case management app using Apache Kafka, Docker, and Kubernetes</li>
+        <li>Developed a cross-platform mobile app for LASPNET using React Native and Expo (iOS &amp; Android), with Firebase push notifications</li>
+        <li>Built a USSD service for legal aid providers communicating with a Node.js backend via gRPC</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section avoid-break">
+    <div class="section-title">Projects</div>
+
+    <div class="project">
+      <span class="project-title">Zero-Downtime Data Migration Pipeline</span><span class="project-badge">Backend</span>
+      <div class="project-desc">Real-time two-way sync pipeline between MongoDB and Firestore supporting parallel production traffic during the migration of 20+ apps — no downtime, no data loss.</div>
+      <div class="project-tech">Node.js, Google Pub/Sub, MongoDB, Firestore, GCP</div>
+    </div>
+
+    <div class="project">
+      <span class="project-title">LASPNET Cross-Platform Mobile App</span><span class="project-badge">End-to-End Mobile</span>
+      <div class="project-desc">Cross-platform paralegal app shipped to iOS and Android with push notifications, built end-to-end from requirements to store delivery for a legal aid NGO.</div>
+      <div class="project-tech">React Native, Expo, Firebase, Node.js</div>
+    </div>
+
+    <div class="project">
+      <span class="project-title">FIDA Uganda Case Management Backend</span><span class="project-badge">Microservices</span>
+      <div class="project-desc">Event-driven microservices backend for a national case management system, designed for reliability and independent service deployment.</div>
+      <div class="project-tech">Apache Kafka, Docker, Kubernetes, Node.js, gRPC</div>
+    </div>
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <span class="edu-title">BSc Computer Engineering — <span class="edu-org">Makerere University</span></span>
+        <span class="edu-year">2018 – 2022</span>
+      </div>
+      <div class="edu-desc">Kampala, Uganda</div>
+    </div>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="section avoid-break">
+    <div class="section-title">Skills</div>
+    <div class="skills-grid">
+      <span class="skill-item"><span class="skill-category">Proficient:</span> Node.js, JavaScript, React, Firebase, GCP, Python, MongoDB, SQL, HTML, CSS, Git, Linux</span>
+      <span class="skill-item"><span class="skill-category">Intermediate:</span> Go, AWS, Rust, React Native</span>
+      <span class="skill-item"><span class="skill-category">Languages:</span> English, Kiswahili</span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

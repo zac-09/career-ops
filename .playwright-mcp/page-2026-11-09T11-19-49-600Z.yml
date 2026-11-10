@@ -1,0 +1,80 @@
+- generic [active] [ref=f49e1]:
+  - generic [ref=f49e3]:
+    - main [ref=f49e4]:
+      - generic [ref=f49e7]:
+        - generic [ref=f49e8]:
+          - img "Join Prisma | Prisma Data, Inc." [ref=f49e10]
+          - heading "Join Prisma" [level=1] [ref=f49e11]
+          - paragraph [ref=f49e12]: "Prisma builds infrastructure your agent can drive: Postgres, app hosting and the TypeScript ORM developers love. Come build it with our small, distributed team."
+        - generic [ref=f49e13]:
+          - generic [ref=f49e14]:
+            - generic [ref=f49e15]:
+              - generic [aria-hidden] [ref=f49e17]: 
+              - textbox "Search" [ref=f49e18]
+            - generic [ref=f49e21]:
+              - generic [aria-hidden] [ref=f49e23]: 
+              - combobox "All departments" [ref=f49e27]
+              - generic [aria-hidden] [ref=f49e29]: 
+            - generic [ref=f49e32]:
+              - generic [aria-hidden] [ref=f49e34]: 
+              - combobox "All job types" [ref=f49e35]
+              - generic [aria-hidden] [ref=f49e37]: 
+            - generic [ref=f49e40]:
+              - generic [aria-hidden] [ref=f49e42]: 
+              - combobox "All locations" [ref=f49e43]
+              - generic [aria-hidden] [ref=f49e45]: 
+          - generic [ref=f49e47]:
+            - paragraph [ref=f49e48]: 2 roles across
+            - paragraph [ref=f49e49]: all departments
+            - paragraph [ref=f49e50]: in
+            - paragraph [ref=f49e51]: all locations
+        - generic [ref=f49e53]:
+          - generic [ref=f49e54]:
+            - heading "Engineering" [level=2] [ref=f49e55]
+            - generic [ref=f49e56]:
+              - generic [ref=f49e57]:
+                - 'link "General Applications: Engineering" [ref=f49e59] [cursor=pointer]':
+                  - /url: /en-GB/prisma-careers/jobs/0fbcec57-3012-4271-96bf-12b145cf6dea
+                - generic [ref=f49e60]:
+                  - generic [ref=f49e61]:
+                    - generic [aria-hidden] [ref=f49e62]: 
+                    - paragraph [ref=f49e63]: Engineering
+                  - generic [ref=f49e65]:
+                    - generic [aria-hidden] [ref=f49e66]: 
+                    - paragraph [ref=f49e67]: Remote (Germany)
+              - 'button "View job: General Applications: Engineering" [ref=f49e69] [cursor=pointer]':
+                - generic [ref=f49e70]:
+                  - generic [ref=f49e71]: View job
+                  - generic [aria-hidden] [ref=f49e72]: 
+          - generic [ref=f49e73]:
+            - heading "Product" [level=2] [ref=f49e74]
+            - generic [ref=f49e75]:
+              - generic [ref=f49e76]:
+                - 'link "General Applications: Product" [ref=f49e78] [cursor=pointer]':
+                  - /url: /en-GB/prisma-careers/jobs/f055f01a-81c0-4d92-bbe1-6d6e7a8112df
+                - generic [ref=f49e79]:
+                  - generic [ref=f49e80]:
+                    - generic [aria-hidden] [ref=f49e81]: 
+                    - paragraph [ref=f49e82]: Product
+                  - generic [ref=f49e84]:
+                    - generic [aria-hidden] [ref=f49e85]: 
+                    - paragraph [ref=f49e86]: Remote (Germany)
+              - 'button "View job: General Applications: Product" [ref=f49e88] [cursor=pointer]':
+                - generic [ref=f49e89]:
+                  - generic [ref=f49e90]: View job
+                  - generic [aria-hidden] [ref=f49e91]: 
+    - contentinfo [ref=f49e92]:
+      - generic [ref=f49e94]:
+        - generic [ref=f49e95]:
+          - link "Terms of service" [ref=f49e96] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/user
+          - link "Privacy" [ref=f49e97] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/privacy
+          - link "Cookies" [ref=f49e98] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/cookie-notice
+          - link "Powered by Rippling" [ref=f49e99] [cursor=pointer]:
+            - /url: https://www.rippling.com/recruiting
+        - generic [ref=f49e103] [cursor=pointer]:
+          - combobox "Display language" [ref=f49e107]: United Kingdom (English)
+          - generic [aria-hidden] [ref=f49e109]: 
+  - alert [ref=f49e110]

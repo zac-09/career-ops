@@ -1,0 +1,97 @@
+- main "micro-container2" [ref=f56e3]:
+  - generic [ref=f56e6]:
+    - generic [ref=f56e7]:
+      - generic [ref=f56e9]:
+        - img "Zoftify Eesti OÜ" [ref=f56e10]
+        - link "Privacy Policy" [ref=f56e12] [cursor=pointer]:
+          - /url: http://www.bamboohr.com/privacy.php
+      - generic [ref=f56e17]:
+        - generic [ref=f56e19]:
+          - link "Job Openings" [ref=f56e21] [cursor=pointer]:
+            - /url: /careers
+          - generic [ref=f56e26]:
+            - generic [ref=f56e28]:
+              - heading "Backend Developer (Node)" [level=3] [ref=f56e29]
+              - generic [ref=f56e30]: Development - Remote
+            - separator [ref=f56e31]
+          - generic [ref=f56e34]:
+            - paragraph [ref=f56e35]: We are Zoftify, a product development agency specializing in solutions for travel companies. Unlike outsourcing firms, we focus on delivering business value to our clients and take responsibility for the solutions we build. Our approach is dynamic, utilizing modern frameworks and methods to deliver cutting-edge software products.
+            - paragraph [ref=f56e36]
+            - paragraph [ref=f56e37]: Our international team is composed of motivated individuals. We have been working remotely since 2019 and continue to do so as it has proven highly effective.
+            - paragraph [ref=f56e38]
+            - paragraph [ref=f56e39]: We are seeking a Node.js backend developer to join our team and help build beautiful, complex, and high-performance applications for web and mobile platforms. This is an excellent opportunity to become part of our growing company and work with clients from around the world.
+            - paragraph [ref=f56e40]
+            - paragraph [ref=f56e41]: What you will do
+            - list [ref=f56e42]:
+              - listitem [ref=f56e43]: Work on international projects (US, Italy, France, UK)
+              - listitem [ref=f56e44]: Build powerful backend solutions
+              - listitem [ref=f56e45]: Use the newest technologies to deliver great results
+              - listitem [ref=f56e46]: Work in an agile environment
+            - paragraph [ref=f56e47]
+            - paragraph [ref=f56e48]: What we expect
+            - list [ref=f56e49]:
+              - listitem [ref=f56e50]: 3+ years of Node.js experience
+              - listitem [ref=f56e51]: Practical experience with Typescript
+              - listitem [ref=f56e52]: Experience in building REST API and good knowledge of REST API practices
+              - listitem [ref=f56e53]: Experience working with Express or NestJS
+              - listitem [ref=f56e54]: Experience working with SQL databases (PostgreSQL)
+              - listitem [ref=f56e55]: Good spoken English
+            - paragraph [ref=f56e56]
+            - paragraph [ref=f56e57]: What’s your advantage
+            - list [ref=f56e58]:
+              - listitem [ref=f56e59]: Practical experience with NestJS
+              - listitem [ref=f56e60]: Commercial native app development experience (iOS, Android)
+              - listitem [ref=f56e61]: Experience with Docker, Kubernetes
+              - listitem [ref=f56e62]: Experience with AWS, Azure, GCP (incl. Firebase)
+              - listitem [ref=f56e63]: Experience with NoSQL databases
+            - paragraph [ref=f56e64]
+            - paragraph [ref=f56e65]: What we offer
+            - list [ref=f56e66]:
+              - listitem [ref=f56e67]: Competitive compensation, dependent on experience and skills
+              - listitem [ref=f56e68]: 100% remote work, allowing you to work from wherever you choose
+              - listitem [ref=f56e69]: Flexible working hours
+              - listitem [ref=f56e70]: A day off for your birthday
+              - listitem [ref=f56e71]: Days off for national holidays
+              - listitem [ref=f56e72]: Paid vacations and company-wide days off
+              - listitem [ref=f56e73]: Health days
+              - listitem [ref=f56e74]: Skill development, including paid training and courses
+              - listitem [ref=f56e75]: Performance reviews
+              - listitem [ref=f56e76]: Bonuses
+              - listitem [ref=f56e77]: A friendly team with a great spirit
+        - generic [ref=f56e79]:
+          - generic [ref=f56e81]:
+            - button "Apply for This Job" [ref=f56e82] [cursor=pointer]
+            - separator [ref=f56e84]
+            - generic [ref=f56e86]:
+              - generic [ref=f56e87]: Link to This Job
+              - textbox "Link to This Job" [ref=f56e91]: https://zoftify.bamboohr.com/careers/30
+            - generic [ref=f56e93]:
+              - button "Share LinkedIn" [ref=f56e95] [cursor=pointer]
+              - button "Share Twitter" [ref=f56e100] [cursor=pointer]
+              - button "Share Facebook" [ref=f56e105] [cursor=pointer]
+          - generic [ref=f56e109]:
+            - generic [ref=f56e110]:
+              - paragraph [ref=f56e112]: Location
+              - paragraph [ref=f56e114]: Remote
+              - separator [ref=f56e115]
+            - generic [ref=f56e116]:
+              - paragraph [ref=f56e118]: Department
+              - paragraph [ref=f56e120]: Development
+              - separator [ref=f56e121]
+            - generic [ref=f56e122]:
+              - paragraph [ref=f56e124]: Employment Type
+              - paragraph [ref=f56e126]: Full-Time
+              - separator [ref=f56e127]
+            - generic [ref=f56e128]:
+              - paragraph [ref=f56e130]: Minimum Experience
+              - paragraph [ref=f56e132]: Mid-level
+              - separator [ref=f56e133]
+    - generic [ref=f56e135]:
+      - generic [ref=f56e136]:
+        - link "Privacy Policy" [ref=f56e137] [cursor=pointer]:
+          - /url: https://www.bamboohr.com/privacy-policy
+        - generic [ref=f56e139]: •
+        - link "Terms of Service" [ref=f56e140] [cursor=pointer]:
+          - /url: https://www.bamboohr.com/terms-of-service
+      - generic [ref=f56e142]: •
+      - paragraph [ref=f56e143]: © BambooHR All rights reserved.

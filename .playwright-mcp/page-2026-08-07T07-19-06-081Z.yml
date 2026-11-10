@@ -1,0 +1,151 @@
+- generic [active] [ref=f10e1]:
+  - generic [ref=f10e3]:
+    - generic [ref=f10e6]:
+      - paragraph [ref=f10e9]:
+        - text: Hotjar is now part of Contentsquare. The same easy-to-use tools you know, plus even more ways to understand and improve your website or app.
+        - link "Learn more" [ref=f10e10] [cursor=pointer]:
+          - /url: https://www.hotjar.com/hotjar-contentsquare-unified-platform
+        - text: .
+      - button "Close banner" [ref=f10e11] [cursor=pointer]
+    - generic [ref=f10e18]:
+      - link [ref=f10e20] [cursor=pointer]:
+        - /url: https://contentsquare.com/
+      - link [ref=f10e24] [cursor=pointer]:
+        - /url: https://www.heap.io/
+      - link [ref=f10e38] [cursor=pointer]:
+        - /url: https://www.hotjar.com/
+    - navigation [ref=f10e49]:
+      - generic [ref=f10e50]:
+        - generic [ref=f10e51]:
+          - link "Hotjar Logo" [ref=f10e52] [cursor=pointer]:
+            - /url: https://www.hotjar.com/
+          - list [ref=f10e65]:
+            - listitem [ref=f10e66]:
+              - button "Products" [ref=f10e67] [cursor=pointer]
+            - listitem [ref=f10e70]:
+              - link "Pricing" [ref=f10e73] [cursor=pointer]:
+                - /url: https://contentsquare.com/pricing/?utm_source=hotjar-navigation
+            - listitem [ref=f10e76]:
+              - button "Resources" [ref=f10e77] [cursor=pointer]
+        - generic [ref=f10e80]:
+          - link "Contact Sales" [ref=f10e82] [cursor=pointer]:
+            - /url: https://contentsquare.com/contact-us-hotjar?utm_source=website&utm_medium=organic&utm_campaign=hotjar&utm_partner=mktg&cid=701SZ00000z6VCZYA2
+          - link "Sign in" [ref=f10e84] [cursor=pointer]:
+            - /url: https://login.contentsquare.com/one
+          - link "Get started" [ref=f10e86] [cursor=pointer]:
+            - /url: https://app.contentsquare.com/signup?utm_source=hj_website
+          - button "English" [ref=f10e93] [cursor=pointer]
+    - main [ref=f10e100]:
+      - generic [ref=f10e122]:
+        - heading "Hotjar is now part of Contentsquare!" [level=1] [ref=f10e124]
+        - paragraph [ref=f10e126]: For more information regarding our job openings, please visit the Contentsquare careers page.
+        - link "Careers at Contentsquare" [ref=f10e130] [cursor=pointer]:
+          - /url: https://contentsquare.com/careers/
+    - contentinfo [ref=f10e131]:
+      - generic [ref=f10e133]:
+        - generic [ref=f10e134]:
+          - heading "Looking for more wisdom?" [level=2] [ref=f10e135]
+          - paragraph [ref=f10e138]: Sign up for Hotjar content straight to your inbox.
+          - generic [ref=f10e139]:
+            - generic [ref=f10e140]:
+              - textbox "example@email.com" [ref=f10e144]
+              - button "Subscribe" [ref=f10e146] [cursor=pointer]
+            - generic [ref=f10e149]:
+              - checkbox "I have read and accept the conditions outlined in the privacy policy." [ref=f10e150]
+              - paragraph [ref=f10e153] [cursor=pointer]:
+                - text: I have read and accept the conditions outlined in the
+                - link "privacy policy" [ref=f10e154]:
+                  - /url: https://www.hotjar.com/legal/policies/privacy/
+                - text: .
+        - generic [ref=f10e155]:
+          - link [ref=f10e157] [cursor=pointer]:
+            - /url: https://contentsquare.com/contact-us-hotjar?utm_source=website&utm_medium=organic&utm_campaign=hotjar&utm_partner=mktg&cid=701SZ00000z6VCZYA2
+            - paragraph [ref=f10e163]: Contact Sales
+          - generic [ref=f10e164]:
+            - link [ref=f10e165] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UC_B6JMm8IrO1JJxyx7hjR6A
+              - img "Youtube" [ref=f10e171]
+            - link [ref=f10e172] [cursor=pointer]:
+              - /url: https://twitter.com/hotjar
+              - img "X icon (svg)" [ref=f10e178]
+            - link [ref=f10e179] [cursor=pointer]:
+              - /url: https://mt.linkedin.com/company/hotjar
+              - img "LinkedIn" [ref=f10e185]
+            - link [ref=f10e186] [cursor=pointer]:
+              - /url: https://www.instagram.com/hotjar/
+      - generic [ref=f10e193]:
+        - generic [ref=f10e194]:
+          - heading "Products" [level=2] [ref=f10e195]
+          - list [ref=f10e196]:
+            - listitem [ref=f10e197]:
+              - link "Heatmaps" [ref=f10e198] [cursor=pointer]:
+                - /url: https://www.hotjar.com/product/heatmaps
+            - listitem [ref=f10e199]:
+              - link "Session Replay" [ref=f10e200] [cursor=pointer]:
+                - /url: https://www.hotjar.com/product/recordings
+            - listitem [ref=f10e201]:
+              - link "Funnels" [ref=f10e202] [cursor=pointer]:
+                - /url: https://www.hotjar.com/product/funnels
+            - listitem [ref=f10e203]:
+              - link "Surveys" [ref=f10e204] [cursor=pointer]:
+                - /url: https://www.hotjar.com/product/surveys
+            - listitem:
+              - link:
+                - /url: https://www.hotjar.com/product/user-tests
+          - list [ref=f10e205]
+        - generic [ref=f10e206]:
+          - heading "Company" [level=2] [ref=f10e207]
+          - list [ref=f10e208]:
+            - listitem [ref=f10e209]:
+              - link "About Us" [ref=f10e210] [cursor=pointer]:
+                - /url: https://www.hotjar.com/about-us
+            - listitem [ref=f10e211]:
+              - link "Careers" [ref=f10e212] [cursor=pointer]:
+                - /url: https://www.hotjar.com/careers
+            - listitem [ref=f10e213]:
+              - link "Privacy" [ref=f10e214] [cursor=pointer]:
+                - /url: https://www.hotjar.com/privacy
+            - listitem [ref=f10e215]:
+              - link "Press" [ref=f10e216] [cursor=pointer]:
+                - /url: https://www.hotjar.com/press
+        - generic [ref=f10e217]:
+          - heading "Compliance" [level=2] [ref=f10e218]
+          - list [ref=f10e219]:
+            - listitem [ref=f10e220]:
+              - link "Legal overview" [ref=f10e221] [cursor=pointer]:
+                - /url: https://www.hotjar.com/legal
+            - listitem [ref=f10e222]:
+              - link "Compliance & security" [ref=f10e223] [cursor=pointer]:
+                - /url: https://help.hotjar.com/hc/en-us/categories/360003405813
+            - listitem [ref=f10e224]:
+              - link "Terms of Service" [ref=f10e225] [cursor=pointer]:
+                - /url: https://www.hotjar.com/legal/policies/terms-of-service
+            - listitem [ref=f10e226]:
+              - link "Privacy Policy" [ref=f10e227] [cursor=pointer]:
+                - /url: https://www.hotjar.com/legal/policies/privacy
+            - listitem [ref=f10e228]:
+              - link "Trust Center" [ref=f10e229] [cursor=pointer]:
+                - /url: https://trust.contentsquare.com/?product=hotjar
+            - listitem [ref=f10e230]:
+              - link "Acceptable use policy" [ref=f10e231] [cursor=pointer]:
+                - /url: https://www.hotjar.com/legal/policies/acceptable-use
+            - listitem [ref=f10e232]:
+              - link "Engage Tester Terms" [ref=f10e233] [cursor=pointer]:
+                - /url: https://www.hotjar.com/engage-tester-terms
+        - generic [ref=f10e234]:
+          - heading [level=2]
+          - list
+        - generic [ref=f10e236]:
+          - heading [level=2]
+          - list
+        - generic [ref=f10e237]:
+          - paragraph [ref=f10e239]: Copyright © 2014 - 2025 Hotjar Ltd. All rights reserved.
+          - list [ref=f10e241]:
+            - listitem [ref=f10e242]:
+              - link "Cookie Info" [ref=f10e243] [cursor=pointer]:
+                - /url: https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookies
+            - listitem [ref=f10e244]: Cookie Settings
+            - listitem [ref=f10e245]:
+              - link "Do Not Track" [ref=f10e246] [cursor=pointer]:
+                - /url: https://www.hotjar.com/policies/do-not-track
+  - alert [ref=f10e247]

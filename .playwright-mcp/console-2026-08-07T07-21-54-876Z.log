@@ -1,0 +1,61 @@
+[     818ms] [WARNING] Multiple versions of FeatureGateClients found on the current page.
+      The currently bound version is 4.26.5 when module version 4.25.0 was loading. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/main.js?cdnVersion=3547:1
+[     840ms] [WARNING] {msg: An error has occurred checking the feature gate. Only the first occurrence of this error is logged., gateName: platform-dst-shape-theme-default, error: Error: Client must be initialized before using this method
+    at Object.assertInitialized (https:/…} @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/main.js?cdnVersion=3547:1
+[     867ms] [INFO] Initializing FeatureGates client @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[     919ms] [WARNING] Multiple versions of FeatureGateClients found on the current page.
+      The currently bound version is 4.26.5 when module version 4.25.0 was loading. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[     923ms] [WARNING] Multiple versions of FeatureGateClients found on the current page.
+      The currently bound version is 4.26.5 when module version 4.25.0 was loading. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[     930ms] [WARNING] Multiple versions of FeatureGateClients found on the current page.
+      The currently bound version is 4.26.5 when module version 0.0.0-development was loading. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[     938ms] [WARNING] Multiple versions of FeatureGateClients found on the current page.
+      The currently bound version is 4.26.5 when module version 4.25.0 was loading. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[    1036ms] [WARNING] Multiple versions of FeatureGateClients found on the current page.
+        The currently bound version is 4.26.5 when module version 4.12.1 was loading. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[    1051ms] [WARNING] Multiple versions of FeatureGateClients found on the current page.
+      The currently bound version is 4.26.5 when module version 4.25.0 was loading. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[    1054ms] [WARNING] Multiple versions of FeatureGateClients found on the current page.
+      The currently bound version is 4.26.5 when module version 4.25.0 was loading. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[    1128ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.atlassian.com/flags/api/v2/frontend/experimentValues:0
+[    1134ms] [ERROR] Error occurred when trying to fetch the Feature Gates client values, error: Non 2xx response status received, status: 400, body: "Must provide at least one Statsig-supported identifier" @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[    1134ms] [WARNING] Initialising Statsig client without values @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[    1136ms] [ERROR]  ERROR  [Statsig] Failed to parse EvaluationResponse @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[    1136ms] [ERROR]  ERROR  [Statsig] Failed to parse EvaluationResponse @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[    1137ms] [ERROR] Failed to initialize FeatureGates client. h: Non 2xx response status received, status: 400, body: "Must provide at least one Statsig-supported identifier"
+    at p.handleResponseError (https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/main.js?cdnVersion=3547:2:1804)
+    at async p.fetchRequest (https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/main.js?cdnVersion=3547:2:3101)
+    at async p.fetchExperimentValues (https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/main.js?cdnVersion=3547:2:1565)
+    at async Promise.all (index 1)
+    at async Object.init (https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/main.js?cdnVersion=3547:2:15990) @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[    1255ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.atlassian.com/gateway/api/cookie-integrator/api/onetrust/jwt:0
+[    1956ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://xp.atlassian.com/v1/rgstr?k=client-default-key&st=javascript-client&sv=3.12.1&t=1786087316215&sid=ee25bdbc-b7c2-4846-b424-f0f3a70a1bad&ec=2:0
+[    1957ms] [ERROR]  ERROR  [Statsig] A networking error occurred during POST request to https://xp.atlassian.com/v1/rgstr?k=client-default-key&st=javascript-client&sv=3.12.1&t=1786087316215&sid=ee25bdbc-b7c2-4846-b424-f0f3a70a1bad&ec=2. NetworkError: NetworkError: https://xp.atlassian.com/v1/rgstr?k=client-default-key&st=javascript-client&sv=3.12.1&t=1786087316215&sid=ee25bdbc-b7c2-4846-b424-f0f3a70a1bad&ec=2 {"code":401,"reason":"Unauthorized"} NetworkError: NetworkError: https://xp.atlassian.com/v1/rgstr?k=client-default-key&st=javascript-client&sv=3.12.1&t=1786087316215&sid=ee25bdbc-b7c2-4846-b424-f0f3a70a1bad&ec=2 {"code":401,"reason":"Unauthorized"}
+    at a.<anonymous> (https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/main.js?cdnVersion=3547:2:757744)
+    at Generator.next (<anonymous>)
+    at a (https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/main.js?cdnVersion=3547:2:754860) @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[    1957ms] [WARNING]   WARN  [Statsig] Failed to flush events. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[    2209ms] [WARNING] Multiple versions of FeatureGateClients found on the current page.
+      The currently bound version is 4.26.5 when module version 5.27.0 was loading. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[    2828ms] [ERROR] Framing 'https://xxid.atl-paas.net/' violates the following report-only Content Security Policy directive: "frame-ancestors 'none'". The violation has been logged, but no further action has been taken.
+ @ :0
+[    2839ms] [INFO] Executing inline script violates the following Content Security Policy directive 'script-src 'self' 'nonce-b52dad9340674e70a2c8e676e8fd6955''. Either the 'unsafe-inline' keyword, a hash ('sha256-uPTfY5ArWcsZbkQZ2f/AN74avCCKQ/KBAv1z11PqAJE='), or a nonce ('nonce-...') is required to enable inline execution. The policy is report-only, so the violation has been logged but no further action has been taken. @ https://xxid.atl-paas.net/?t=1786087317075:0
+[   10979ms] [ERROR] Feature Gate initialization timed out @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[   10981ms] [ERROR] Feature Gate initialization timed out @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[   10982ms] [ERROR] Feature Gate initialization timed out @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[   11082ms] [ERROR] Feature Gate initialization timed out @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[   11083ms] [ERROR] Feature Gate initialization timed out @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[   11382ms] [ERROR] Feature Gate initialization timed out @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[   11396ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://xp.atlassian.com/v1/rgstr?k=client-default-key&st=javascript-client&sv=3.12.1&t=1786087326013&sid=ee25bdbc-b7c2-4846-b424-f0f3a70a1bad&ec=4:0
+[   11397ms] [ERROR]  ERROR  [Statsig] A networking error occurred during POST request to https://xp.atlassian.com/v1/rgstr?k=client-default-key&st=javascript-client&sv=3.12.1&t=1786087326013&sid=ee25bdbc-b7c2-4846-b424-f0f3a70a1bad&ec=4. NetworkError: NetworkError: https://xp.atlassian.com/v1/rgstr?k=client-default-key&st=javascript-client&sv=3.12.1&t=1786087326013&sid=ee25bdbc-b7c2-4846-b424-f0f3a70a1bad&ec=4 {"code":401,"reason":"Unauthorized"} NetworkError: NetworkError: https://xp.atlassian.com/v1/rgstr?k=client-default-key&st=javascript-client&sv=3.12.1&t=1786087326013&sid=ee25bdbc-b7c2-4846-b424-f0f3a70a1bad&ec=4 {"code":401,"reason":"Unauthorized"}
+    at a.<anonymous> (https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/main.js?cdnVersion=3547:2:757744)
+    at Generator.next (<anonymous>)
+    at a (https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/main.js?cdnVersion=3547:2:754860) @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[   11397ms] [WARNING]   WARN  [Statsig] Failed to flush events. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[   11416ms] [WARNING] Deprecated API for given entry type. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/50da478f72b217.js:0
+[   21357ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://xp.atlassian.com/v1/rgstr?k=client-default-key&st=javascript-client&sv=3.12.1&t=1786087336012&sid=ee25bdbc-b7c2-4846-b424-f0f3a70a1bad&ec=1:0
+[   21357ms] [ERROR]  ERROR  [Statsig] A networking error occurred during POST request to https://xp.atlassian.com/v1/rgstr?k=client-default-key&st=javascript-client&sv=3.12.1&t=1786087336012&sid=ee25bdbc-b7c2-4846-b424-f0f3a70a1bad&ec=1. NetworkError: NetworkError: https://xp.atlassian.com/v1/rgstr?k=client-default-key&st=javascript-client&sv=3.12.1&t=1786087336012&sid=ee25bdbc-b7c2-4846-b424-f0f3a70a1bad&ec=1 {"code":401,"reason":"Unauthorized"} NetworkError: NetworkError: https://xp.atlassian.com/v1/rgstr?k=client-default-key&st=javascript-client&sv=3.12.1&t=1786087336012&sid=ee25bdbc-b7c2-4846-b424-f0f3a70a1bad&ec=1 {"code":401,"reason":"Unauthorized"}
+    at a.<anonymous> (https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/main.js?cdnVersion=3547:2:757744)
+    at Generator.next (<anonymous>)
+    at a (https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/main.js?cdnVersion=3547:2:754860) @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1
+[   21358ms] [WARNING]   WARN  [Statsig] Failed to flush events. @ https://wac-cdn.atlassian.com/static/master/11281/assets/build/js/chunks/9c72a09bfcfb9b.js:1

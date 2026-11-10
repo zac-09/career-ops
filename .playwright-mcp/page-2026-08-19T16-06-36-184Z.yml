@@ -1,0 +1,217 @@
+- generic [active] [ref=f5e1]:
+  - main [ref=f5e3]:
+    - generic [ref=f5e7]:
+      - heading "Cookie Statement" [level=2] [ref=f5e8]
+      - paragraph [ref=f5e9]:
+        - text: Please note that we take your privacy seriously and only process your personal information following Nigeria Data Protection Act, 2023 and any applicable regulations. Your continued use of this platform indicates that you consent to the processing of your data by Moniepoint MFB.Our site also uses cookies to enhance your experience on this platform. You can modify your preference using the option below. Please read our
+        - link "Cookie Policy" [ref=f5e10] [cursor=pointer]:
+          - /url: /ng/cookie-policy
+        - text: for more information.
+      - generic [ref=f5e11]:
+        - button "Accept Cookies" [ref=f5e12] [cursor=pointer]
+        - button "Disable Cookies" [ref=f5e13] [cursor=pointer]
+        - button "Cookie Preference" [ref=f5e14] [cursor=pointer]
+    - generic [ref=f5e16]:
+      - paragraph [ref=f5e17]: You are on our Global Page. To view content relevant to your location, select a different country or region.
+      - generic [ref=f5e18]:
+        - button [ref=f5e19] [cursor=pointer]:
+          - heading [level=2] [ref=f5e20]:
+            - img "Global" [ref=f5e21]
+            - text: Global
+        - button [ref=f5e24] [cursor=pointer]
+    - generic [ref=f5e28]:
+      - link [ref=f5e30] [cursor=pointer]:
+        - /url: /
+        - img "moniepoint" [ref=f5e31]
+      - generic [ref=f5e33]:
+        - button "Solutions" [ref=f5e34] [cursor=pointer]
+        - button "Inside Moniepoint" [ref=f5e37] [cursor=pointer]
+        - link "About" [ref=f5e40] [cursor=pointer]:
+          - /url: /about
+        - link "Contact" [ref=f5e41] [cursor=pointer]:
+          - /url: /contact
+        - button "Resources" [ref=f5e42] [cursor=pointer]
+      - generic [ref=f5e46]:
+        - link "Sign up" [ref=f5e47] [cursor=pointer]:
+          - /url: /ng/digital-banking
+        - button [ref=f5e51] [cursor=pointer]:
+          - img "Global" [ref=f5e52]
+    - generic [ref=f5e57]:
+      - generic [ref=f5e58]:
+        - link "back to careers" [ref=f5e60] [cursor=pointer]:
+          - /url: /careers
+        - generic [ref=f5e61]:
+          - paragraph [ref=f5e62]: Remote
+          - paragraph [ref=f5e64]: "Pool: Engineering"
+      - generic [ref=f5e65]:
+        - generic [ref=f5e67]:
+          - heading "Senior Fullstack Engineer" [level=1] [ref=f5e68]
+          - generic [ref=f5e70]:
+            - button "telegram" [ref=f5e71] [cursor=pointer]
+            - button "twitter" [ref=f5e72] [cursor=pointer]
+            - button "facebook" [ref=f5e73] [cursor=pointer]
+            - button "Copy link" [ref=f5e74] [cursor=pointer]
+        - generic [ref=f5e78]:
+          - generic [ref=f5e79]:
+            - paragraph [ref=f5e80]:
+              - strong [ref=f5e81]: Who we are
+            - paragraph [ref=f5e82]: Moniepoint Inc. is Africa’s all-in-one financial ecosystem, helping 10 million businesses and individuals access seamless payments, banking, credit, and business management tools since 2019.As Nigeria’s largest merchant acquirer, Moniepoint Inc. powers most of the country’s point-of-sale (POS) transactions. Through its subsidiaries, Moniepoint Inc. processes $22 billion monthly for its customers while operating profitably.
+            - paragraph [ref=f5e83]:
+              - strong [ref=f5e84]: About the role
+            - paragraph [ref=f5e85]: We’re looking for a Full-Stack Engineer to join the Moniepoint team. The ideal candidate has strong experience with Node.js and TypeScript, and is proficient in at least one object-oriented programming language (e.g., Java, C#, etc.). You’ll be building scalable backend services and intuitive frontend interfaces that power financial services used by millions. This role requires a problem-solver with a builder mindset and the ability to work across the stack to deliver high-impact features.
+            - paragraph [ref=f5e86]: "Location: Remote (Full-time)"
+            - paragraph [ref=f5e87]:
+              - strong [ref=f5e88]: What you’ll get to do
+            - list [ref=f5e89]:
+              - listitem [ref=f5e90]: Work with developers to design algorithms and flowcharts
+              - listitem [ref=f5e91]: Produce clean, efficient code based on specifications
+              - listitem [ref=f5e92]: Integrate software components and third-party programs
+              - listitem [ref=f5e93]: Verify and deploy programs and systems
+              - listitem [ref=f5e94]: Troubleshoot, debug and upgrade existing software
+              - listitem [ref=f5e95]: Gather and evaluate user feedback
+              - listitem [ref=f5e96]: Recommend and execute improvements
+              - listitem [ref=f5e97]: Create technical documentation for reference and reporting
+            - paragraph [ref=f5e98]:
+              - strong [ref=f5e99]: To succeed in this role, we think you should have
+            - list [ref=f5e100]:
+              - listitem [ref=f5e101]: 7-10 years of experience as a Software Developer, Software Engineer or similar role
+              - listitem [ref=f5e102]: 5+ years of MERN stack experience
+              - listitem [ref=f5e103]: 2+ years of OOP language like Java, C# etc.
+              - listitem [ref=f5e104]: Familiarity with Agile development methodologies
+              - listitem [ref=f5e105]: Experience with software design and development in a test-driven environment
+              - listitem [ref=f5e106]: Knowledge of coding languages (e.g. Javascript, Typescript) and frameworks/systems (e.g. ReactJS, Node.js, ExpressJs, Git)
+              - listitem [ref=f5e107]: Experience with databases (MySQL, Mongo) and Object-Relational Mapping (ORM) frameworks
+              - listitem [ref=f5e108]: Ability to learn new languages and technologies
+              - listitem [ref=f5e109]: Excellent communication skills
+              - listitem [ref=f5e110]: Resourcefulness and troubleshooting aptitude
+              - listitem [ref=f5e111]: BSc/BA in Computer Science, Engineering or a related field
+            - paragraph [ref=f5e112]:
+              - strong [ref=f5e113]: Some of the technologies you’ll get to work with
+            - list [ref=f5e114]:
+              - listitem [ref=f5e115]: Javascript & Typescript
+              - listitem [ref=f5e116]: ReactJS and NodeJS
+              - listitem [ref=f5e117]: Docker and Kubernetes
+              - listitem [ref=f5e118]: MySQL, MSSQL, Redis
+              - listitem [ref=f5e119]: Microservices architecture on AWS
+            - paragraph [ref=f5e120]:
+              - strong [ref=f5e121]: What we can offer you
+            - list [ref=f5e122]:
+              - listitem [ref=f5e123]: Culture -We put our people first and prioritize the well-being of every team member. We’ve built a company where all opinions carry weight and where all voices are heard. We value and respect each other and always look out for one another. Above all, we are human.
+              - listitem [ref=f5e124]: Learning - We have a learning and development-focused environment with an emphasis on knowledge sharing, training, and regular internal technical talks.
+              - listitem [ref=f5e125]: Compensation - You’ll receive an attractive salary, pension, health insurance, annual bonus, plus other benefits.
+          - complementary [ref=f5e126]:
+            - link [ref=f5e127] [cursor=pointer]:
+              - /url: https://job-boards.eu.greenhouse.io/moniepoint/jobs/4001852101#app
+              - button "Apply for this role" [ref=f5e128]
+    - generic [ref=f5e133]:
+      - link [ref=f5e134] [cursor=pointer]:
+        - /url: /
+        - img "moniepoint" [ref=f5e135]
+      - generic [ref=f5e136]:
+        - generic [ref=f5e138]:
+          - paragraph [ref=f5e140]: Moniepoint Inc. is Africa’s all-in-one financial platform, helping 20 million businesses and individuals access seamless payments, banking, credit, cross-border, and business management tools each month.As Nigeria’s largest merchant acquirer, it powers most of the country’s Point of Sale (POS) transactions. Through its subsidiaries, Moniepoint Inc. processes over $250 billion in digital payments transaction value annually.
+          - generic [ref=f5e141]:
+            - link [ref=f5e142] [cursor=pointer]:
+              - /url: https://atm.moniepoint.com/onboarding-v2/profile-setup?_smtype=3
+              - generic [ref=f5e143]:
+                - paragraph [ref=f5e144]: Get it on
+                - text: App Store
+            - link [ref=f5e145] [cursor=pointer]:
+              - /url: https://atm.moniepoint.com/onboarding-v2/profile-setup?_smtype=3
+              - generic [ref=f5e146]:
+                - paragraph [ref=f5e147]: Get it on
+                - text: Google Play
+        - generic [ref=f5e148]:
+          - generic [ref=f5e149]:
+            - term [ref=f5e150]: Solutions
+            - definition [ref=f5e151]:
+              - link "Credit" [ref=f5e152] [cursor=pointer]:
+                - /url: /credit
+            - definition [ref=f5e153]:
+              - link "Payments" [ref=f5e154] [cursor=pointer]:
+                - /url: /payments
+            - definition [ref=f5e155]:
+              - link "Banking" [ref=f5e156] [cursor=pointer]:
+                - /url: /banking
+            - definition [ref=f5e157]:
+              - link "Business Management" [ref=f5e158] [cursor=pointer]:
+                - /url: /business-management
+          - generic [ref=f5e159]:
+            - term [ref=f5e160]: Company
+            - definition [ref=f5e161]:
+              - link "About Us" [ref=f5e162] [cursor=pointer]:
+                - /url: /about
+            - definition [ref=f5e163]:
+              - link "Culture" [ref=f5e164] [cursor=pointer]:
+                - /url: /culture
+            - definition [ref=f5e165]:
+              - link "Join Our Team" [ref=f5e166] [cursor=pointer]:
+                - /url: /careers
+            - definition [ref=f5e167]:
+              - link "Press & Media" [ref=f5e168] [cursor=pointer]:
+                - /url: /press
+            - definition [ref=f5e169]:
+              - link "Contact Us" [ref=f5e170] [cursor=pointer]:
+                - /url: /contact
+          - generic [ref=f5e171]:
+            - term [ref=f5e172]: Resources
+            - definition [ref=f5e173]:
+              - link "Moniepoint Blog" [ref=f5e174] [cursor=pointer]:
+                - /url: /blog
+            - definition [ref=f5e175]:
+              - link "Help Centre" [ref=f5e176] [cursor=pointer]:
+                - /url: https://support.moniepoint.com
+            - definition [ref=f5e177]:
+              - link "Learning Centre" [ref=f5e178] [cursor=pointer]:
+                - /url: https://learning.moniepoint.com/
+            - definition [ref=f5e179]:
+              - link "Whistleblower Policy" [ref=f5e180] [cursor=pointer]:
+                - /url: /ng/whistleblower-policy
+            - definition [ref=f5e181]:
+              - link "IMS Policy" [ref=f5e182] [cursor=pointer]:
+                - /url: /ng/ims-policy
+            - definition [ref=f5e183]:
+              - link "Report a Vulnerability" [ref=f5e184] [cursor=pointer]:
+                - /url: /report-a-vulnerability
+            - definition [ref=f5e185]:
+              - link "Informal Economy Report" [ref=f5e186] [cursor=pointer]:
+                - /url: https://informalreport.moniepoint.com/
+            - definition [ref=f5e187]:
+              - link "Security Trust Center" [ref=f5e188] [cursor=pointer]:
+                - /url: https://trust.moniepoint.com/
+          - generic [ref=f5e189]:
+            - term [ref=f5e190]: United Kingdom
+            - definition [ref=f5e191]: 8th Floor 22 Upper Ground, London, England, SE1 9PD, United Kingdom
+          - generic [ref=f5e192]:
+            - term [ref=f5e193]: United States
+            - definition [ref=f5e194]: Suite 105, 112 S. French Street, Wilmington, Delaware, United States of America
+          - generic [ref=f5e195]:
+            - term [ref=f5e196]: Nigeria
+            - definition [ref=f5e197]: The Post Square, Off Adeola Odeku, Victoria Island, Lagos, Nigeria
+      - generic [ref=f5e200]:
+        - generic [ref=f5e202]:
+          - heading "Connect with us" [level=6] [ref=f5e203]
+          - paragraph [ref=f5e204]:
+            - link "info@moniepoint.com" [ref=f5e205] [cursor=pointer]:
+              - /url: mailto:info@moniepoint.com
+          - generic [ref=f5e206]:
+            - link [ref=f5e207] [cursor=pointer]:
+              - /url: https://www.linkedin.com/showcase/moniepoint-inc/
+            - link [ref=f5e208] [cursor=pointer]:
+              - /url: https://twitter.com/moniepoint
+            - link [ref=f5e209] [cursor=pointer]:
+              - /url: https://instagram.com/moniepoint
+            - link [ref=f5e210] [cursor=pointer]:
+              - /url: https://www.youtube.com/@Moniepointinc
+        - button [ref=f5e211] [cursor=pointer]:
+          - heading "Global" [level=2] [ref=f5e212]
+      - generic [ref=f5e217]:
+        - generic [ref=f5e218]:
+          - paragraph [ref=f5e219]: Copyright © 2026, Moniepoint
+          - generic [ref=f5e220]:
+            - link "Privacy Policy" [ref=f5e221] [cursor=pointer]:
+              - /url: /privacy-policy
+            - link "Cookie Policy" [ref=f5e222] [cursor=pointer]:
+              - /url: /ng/cookie-policy
+        - paragraph [ref=f5e223]: © 2026. Moniepoint is a bank with its services provided by Moniepoint MFB Limited and duly licensed by the Central Bank of Nigeria. Unauthorised reproduction or redistribution of copyrighted materials on this website and Moniepoint's digital media pages is strictly prohibited. By clicking on some of the links above, you will leave Moniepoint's website and be directed to a third-party website. The privacy practices of those third parties may differ from those of Moniepoint. We recommend you review the privacy statements of those third-party websites, as Moniepoint is not responsible for those third parties' privacy or security practices. Additional disclosures can be found in the resources section of our website.
+  - alert [ref=f5e224]

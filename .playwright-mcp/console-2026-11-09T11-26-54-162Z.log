@@ -1,0 +1,2 @@
+[     508ms] [ERROR] Failed to load resource: the server responded with a status of 410 () @ https://www.remotefront.com/remote-jobs/velitech-senior-node-js-engineer-wris5:0
+[     940ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://www.remotefront.com/api/auth/me:0

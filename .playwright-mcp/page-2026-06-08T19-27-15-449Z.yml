@@ -1,0 +1,257 @@
+- generic [active] [ref=e1]:
+  - region "Cookie Banner" [ref=e2]:
+    - generic [ref=e3]: 🍪 Cookie Notice
+    - paragraph [ref=e6]:
+      - text: We use cookies to learn how you interact with our content, and show you relevant content and ads based on your browsing history. You can adjust your settings below. Here's
+      - link "our policy" [ref=e7] [cursor=pointer]:
+        - /url: /legal/privacy-policy
+      - text: .
+    - generic [ref=e8]:
+      - button "Only necessary" [ref=e9] [cursor=pointer]
+      - button "Accept all" [ref=e10] [cursor=pointer]
+      - link "Cookie settings" [ref=e11] [cursor=pointer]:
+        - /url: /cookie-settings
+  - banner [ref=e12]:
+    - link "Skip to main content" [ref=e14] [cursor=pointer]:
+      - /url: "#main"
+    - paragraph [ref=e18]:
+      - text: JoyConf 2026 is back. Content Confidence. Human Connection.
+      - link "Save your spot!" [ref=e19] [cursor=pointer]:
+        - /url: https://www.storyblok.com/joyconf
+        - generic [ref=e20]: Save your spot!
+    - navigation [ref=e21]:
+      - link "Storyblok" [ref=e22] [cursor=pointer]:
+        - /url: /
+        - img "Storyblok" [ref=e24]
+      - button "Open navigation menu" [ref=e28] [cursor=pointer]:
+        - img [ref=e29]
+        - generic [ref=e31]: Open navigation menu
+  - main [ref=e32]:
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - heading "404 - Job not found" [level=1] [ref=e38]
+        - paragraph [ref=e41]: The page you're trying to access doesn't exist. You might want to check out our links below to help you out.
+      - link "Browse Open Positions" [ref=e44] [cursor=pointer]:
+        - /url: /jobs#open-positions
+  - contentinfo [ref=e45]:
+    - generic [ref=e46]:
+      - navigation [ref=e47]:
+        - generic [ref=e48]:
+          - heading "Platform" [level=2] [ref=e49]
+          - list [ref=e50]:
+            - listitem [ref=e51]:
+              - link "Product" [ref=e52] [cursor=pointer]:
+                - /url: /platform
+            - listitem [ref=e53]:
+              - link "Why Storyblok" [ref=e54] [cursor=pointer]:
+                - /url: /why-storyblok
+            - listitem [ref=e55]:
+              - link "Storyblok Labs" [ref=e56] [cursor=pointer]:
+                - /url: /lp/labs
+            - listitem [ref=e57]:
+              - link "Ecosystem" [ref=e58] [cursor=pointer]:
+                - /url: /ecosystem
+            - listitem [ref=e59]:
+              - link "App Directory" [ref=e60] [cursor=pointer]:
+                - /url: /app-store
+            - listitem [ref=e61]:
+              - link "Roadmap" [ref=e62] [cursor=pointer]:
+                - /url: /roadmap
+            - listitem [ref=e63]:
+              - link "What is Headless CMS" [ref=e64] [cursor=pointer]:
+                - /url: /tp/headless-cms-explained
+        - generic [ref=e65]:
+          - heading "Solutions" [level=2] [ref=e66]
+          - list [ref=e67]:
+            - listitem [ref=e68]:
+              - link "Enterprise" [ref=e69] [cursor=pointer]:
+                - /url: /enterprises
+            - listitem [ref=e70]:
+              - link "Developers" [ref=e71] [cursor=pointer]:
+                - /url: /lp/developers
+            - listitem [ref=e72]:
+              - link "Marketers" [ref=e73] [cursor=pointer]:
+                - /url: /marketers
+            - listitem [ref=e74]:
+              - link "MACH Alliance" [ref=e75] [cursor=pointer]:
+                - /url: /lp/mach-alliance
+            - listitem [ref=e76]:
+              - link "ROI Calculator" [ref=e77] [cursor=pointer]:
+                - /url: /lp/cms-roi-calculator
+        - generic [ref=e78]:
+          - heading "Developers" [level=2] [ref=e79]
+          - list [ref=e80]:
+            - listitem [ref=e81]:
+              - link "Quick Start" [ref=e82] [cursor=pointer]:
+                - /url: /technologies
+            - listitem [ref=e83]:
+              - link "Developer Guides" [ref=e84] [cursor=pointer]:
+                - /url: /technologies
+            - listitem [ref=e85]:
+              - link "Developer Tutorials" [ref=e86] [cursor=pointer]:
+                - /url: /tutorials
+            - listitem [ref=e87]:
+              - link "API Documentation (opens in a new window)" [ref=e88] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/api
+                - text: API Documentation
+                - generic [ref=e89]: (opens in a new window)
+            - listitem [ref=e90]:
+              - link "Changelog" [ref=e91] [cursor=pointer]:
+                - /url: /changelog
+            - listitem [ref=e92]:
+              - link "Next.js guide (opens in a new window)" [ref=e93] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/guides/nextjs/
+                - text: Next.js guide
+                - generic [ref=e94]: (opens in a new window)
+            - listitem [ref=e95]:
+              - link "Nuxt guide (opens in a new window)" [ref=e96] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/guides/nuxt/
+                - text: Nuxt guide
+                - generic [ref=e97]: (opens in a new window)
+            - listitem [ref=e98]:
+              - link "React guide (opens in a new window)" [ref=e99] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/guides/react/
+                - text: React guide
+                - generic [ref=e100]: (opens in a new window)
+            - listitem [ref=e101]:
+              - link "Vue.js guide (opens in a new window)" [ref=e102] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/guides/vue/
+                - text: Vue.js guide
+                - generic [ref=e103]: (opens in a new window)
+            - listitem [ref=e104]:
+              - link "Astro guide (opens in a new window)" [ref=e105] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/guides/astro/
+                - text: Astro guide
+                - generic [ref=e106]: (opens in a new window)
+            - listitem [ref=e107]:
+              - link "Eleventy guide (opens in a new window)" [ref=e108] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/guides/eleventy/
+                - text: Eleventy guide
+                - generic [ref=e109]: (opens in a new window)
+        - generic [ref=e110]:
+          - heading "Resources" [level=2] [ref=e111]
+          - list [ref=e112]:
+            - listitem [ref=e113]:
+              - link "Contact Sales" [ref=e114] [cursor=pointer]:
+                - /url: /fs/enterprise-contact
+            - listitem [ref=e115]:
+              - link "Blog" [ref=e116] [cursor=pointer]:
+                - /url: /blog
+            - listitem [ref=e117]:
+              - link "Whitepapers" [ref=e118] [cursor=pointer]:
+                - /url: /lp/whitepapers
+            - listitem [ref=e119]:
+              - link "Case Studies" [ref=e120] [cursor=pointer]:
+                - /url: /case-studies
+            - listitem [ref=e121]:
+              - link "Webinars & Events" [ref=e122] [cursor=pointer]:
+                - /url: /events
+            - listitem [ref=e123]:
+              - link "Content Editor Guides (opens in a new window)" [ref=e124] [cursor=pointer]:
+                - /url: https://www.storyblok.com/docs/manuals
+                - text: Content Editor Guides
+                - generic [ref=e125]: (opens in a new window)
+            - listitem [ref=e126]:
+              - link "FAQs" [ref=e127] [cursor=pointer]:
+                - /url: /faqs
+            - listitem [ref=e128]:
+              - link "Services & Support" [ref=e129] [cursor=pointer]:
+                - /url: /trust-center/service-support
+            - listitem [ref=e130]:
+              - link "Service status (opens in a new window)" [ref=e131] [cursor=pointer]:
+                - /url: https://uptime.storyblok.com
+                - text: Service status
+                - generic [ref=e132]: (opens in a new window)
+        - generic [ref=e133]:
+          - heading "Company" [level=2] [ref=e134]
+          - list [ref=e135]:
+            - listitem [ref=e136]:
+              - link "About" [ref=e137] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e138]:
+              - link "Careers" [ref=e139] [cursor=pointer]:
+                - /url: /jobs
+              - generic [ref=e142]: 10+
+            - listitem [ref=e143]:
+              - link "Press" [ref=e144] [cursor=pointer]:
+                - /url: /press
+            - listitem [ref=e145]:
+              - link "Trust Center" [ref=e146] [cursor=pointer]:
+                - /url: /trust-center
+            - listitem [ref=e147]:
+              - link "Terms and Conditions" [ref=e148] [cursor=pointer]:
+                - /url: /legal/terms
+            - listitem [ref=e149]:
+              - link "Legal Notice" [ref=e150] [cursor=pointer]:
+                - /url: /legal/legal-notice
+            - listitem [ref=e151]:
+              - link "Accessibility Statement" [ref=e152] [cursor=pointer]:
+                - /url: /lp/accessibility
+            - listitem [ref=e153]:
+              - link "Sustainability" [ref=e154] [cursor=pointer]:
+                - /url: /lp/sustainability
+            - listitem [ref=e155]:
+              - link "Privacy Policy" [ref=e156] [cursor=pointer]:
+                - /url: /legal/privacy-policy
+            - listitem [ref=e157]:
+              - link "Cookie Settings" [ref=e158] [cursor=pointer]:
+                - /url: /cookie-settings
+      - generic [ref=e159]:
+        - paragraph [ref=e160]: Copyright © 2017-2026 Storyblok GmbH
+        - img "Storyblok" [ref=e162]
+        - navigation "Social media" [ref=e163]:
+          - list [ref=e164]:
+            - listitem [ref=e165]:
+              - link "Bluesky (opens in a new window)" [ref=e166] [cursor=pointer]:
+                - /url: https://bsky.app/profile/storyblok.com
+                - img [ref=e167]
+                - generic [ref=e170]: Bluesky
+                - generic [ref=e171]: (opens in a new window)
+            - listitem [ref=e172]:
+              - link "Twitter (opens in a new window)" [ref=e173] [cursor=pointer]:
+                - /url: https://www.x.com/storyblok
+                - img [ref=e174]
+                - generic [ref=e177]: Twitter
+                - generic [ref=e178]: (opens in a new window)
+            - listitem [ref=e179]:
+              - link "Discord (opens in a new window)" [ref=e180] [cursor=pointer]:
+                - /url: https://www.storyblok.com/join-discord
+                - img [ref=e181]
+                - generic [ref=e183]: Discord
+                - generic [ref=e184]: (opens in a new window)
+            - listitem [ref=e185]:
+              - link "Twitch (opens in a new window)" [ref=e186] [cursor=pointer]:
+                - /url: https://www.twitch.tv/storyblok
+                - img [ref=e187]
+                - generic [ref=e189]: Twitch
+                - generic [ref=e190]: (opens in a new window)
+            - listitem [ref=e191]:
+              - link "Reddit (opens in a new window)" [ref=e192] [cursor=pointer]:
+                - /url: https://www.reddit.com/r/storyblok_com/
+                - img [ref=e193]
+                - generic [ref=e198]: Reddit
+                - generic [ref=e199]: (opens in a new window)
+            - listitem [ref=e200]:
+              - link "LinkedIn (opens in a new window)" [ref=e201] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/storyblok
+                - img [ref=e202]
+                - generic [ref=e206]: LinkedIn
+                - generic [ref=e207]: (opens in a new window)
+            - listitem [ref=e208]:
+              - link "YouTube (opens in a new window)" [ref=e209] [cursor=pointer]:
+                - /url: https://www.youtube.com/c/Storyblok-com
+                - img [ref=e210]
+                - generic [ref=e214]: YouTube
+                - generic [ref=e215]: (opens in a new window)
+            - listitem [ref=e216]:
+              - link "Instagram (opens in a new window)" [ref=e217] [cursor=pointer]:
+                - /url: https://www.instagram.com/storybloklife/
+                - img [ref=e218]
+                - generic [ref=e222]: Instagram
+                - generic [ref=e223]: (opens in a new window)
+            - listitem [ref=e224]:
+              - link "Facebook (opens in a new window)" [ref=e225] [cursor=pointer]:
+                - /url: https://www.facebook.com/storyblok/
+                - img [ref=e226]
+                - generic [ref=e228]: Facebook
+                - generic [ref=e229]: (opens in a new window)

@@ -1,0 +1,17 @@
+[    1991ms] [LOG] Avo Inspector: supplied event optimize.activate with params {} @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    1993ms] [LOG] Avo Inspector: events [Object] @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    1993ms] [LOG] Avo Inspector: sending session started event. @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    1994ms] [LOG] Avo Inspector: extracting schema from {} @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    1994ms] [LOG] Avo Inspector: saved event optimize.activate with schema [] @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    1994ms] [LOG] Avo Inspector: events [Object] @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    1994ms] [LOG] Avo Inspector: sending event optimize.activate with schema [] @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    1995ms] [LOG] Avo Inspector: supplied event start_pw with params {} @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    1995ms] [LOG] Avo Inspector: extracting schema from {} @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    1995ms] [LOG] Avo Inspector: saved event start_pw with schema [] @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    1995ms] [LOG] Avo Inspector: events [Object] @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    1995ms] [LOG] Avo Inspector: sending event start_pw with schema [] @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    2078ms] [WARNING] PostHog GTM: another PostHog instance exists; remove the Webflow snippet first. @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    2394ms] [LOG] Avo Inspector: batch sent successfully. @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    2399ms] [LOG] Avo Inspector: batch sent successfully. @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    2491ms] [LOG] Avo Inspector: batch sent successfully. @ https://public-assets.toggl.com/b/app-9515a31e0cd36369c0f3.js:1
+[    2566ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://accounts.toggl.com/api/sessions:0

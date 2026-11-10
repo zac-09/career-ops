@@ -1,0 +1,89 @@
+- generic [active] [ref=f83e1]:
+  - generic [ref=f83e120]:
+    - generic [ref=f83e121]:
+      - generic [ref=f83e122]:
+        - 'heading "Application: Senior Site Reliability Engineer" [level=6] [ref=f83e123]'
+        - button "Exit to job board" [ref=f83e125] [cursor=pointer]:
+          - generic [ref=f83e126]:
+            - generic [ref=f83e127]: 
+            - generic [ref=f83e128]: Exit to job board
+      - progressbar "Progress bar" [ref=f83e129]
+    - generic [ref=f83e133]:
+      - generic [ref=f83e134]:
+        - 'heading "Application: Senior Site Reliability Engineer" [level=4] [ref=f83e135]'
+        - generic [ref=f83e136]:
+          - generic [ref=f83e137]: CV*
+          - generic [ref=f83e138]:
+            - generic [ref=f83e139]: Total 0 file selected
+            - generic "Total 0 file selected CV" [ref=f83e140] [cursor=pointer]:
+              - button "Drop or select (.doc / .docx / .pdf)" [ref=f83e141]
+            - generic [ref=f83e147]: The CV will be parsed to fill in the application details
+        - generic [ref=f83e148]:
+          - generic [ref=f83e149]: First name*
+          - textbox "First name" [ref=f83e152]
+        - generic [ref=f83e154]:
+          - generic [ref=f83e155]: Last name*
+          - textbox "Last name" [ref=f83e158]
+        - generic [ref=f83e160]:
+          - generic [ref=f83e161]: Email*
+          - textbox "Email" [ref=f83e164]
+        - generic [ref=f83e166]:
+          - generic [ref=f83e167]: Phone number*
+          - generic [ref=f83e169]:
+            - generic [ref=f83e175] [cursor=pointer]:
+              - combobox "Search" [ref=f83e179]: +44 GB
+              - generic [ref=f83e180]: 
+            - textbox "Phone number" [ref=f83e184]
+        - generic [ref=f83e186]:
+          - generic [ref=f83e187]: Location*
+          - generic [ref=f83e191]:
+            - generic [ref=f83e192]: 
+            - textbox "Location" [ref=f83e194]
+        - generic [ref=f83e196]:
+          - generic [ref=f83e197]: LinkedIn Link*
+          - textbox "LinkedIn Link" [ref=f83e200]
+        - generic [ref=f83e204]:
+          - paragraph [ref=f83e207]:
+            - text: What is your English level?
+            - generic [ref=f83e208]: "*"
+          - radiogroup [ref=f83e211]:
+            - radio "A1 (Beginner)" [ref=f83e212] [cursor=pointer]:
+              - paragraph [ref=f83e218]: A1 (Beginner)
+            - radio "A2 (Elementary)" [ref=f83e219] [cursor=pointer]:
+              - paragraph [ref=f83e225]: A2 (Elementary)
+            - radio "B1 (Intermediate)" [ref=f83e226] [cursor=pointer]:
+              - paragraph [ref=f83e232]: B1 (Intermediate)
+            - radio "B2 (Upper-Intermediate)" [ref=f83e233] [cursor=pointer]:
+              - paragraph [ref=f83e239]: B2 (Upper-Intermediate)
+            - radio "C1 (Advanced)" [ref=f83e240] [cursor=pointer]:
+              - paragraph [ref=f83e246]: C1 (Advanced)
+            - radio "C2 (Proficient)" [ref=f83e247] [cursor=pointer]:
+              - paragraph [ref=f83e253]: C2 (Proficient)
+          - button "Clear selection" [ref=f83e257] [cursor=pointer]
+        - generic [ref=f83e262]:
+          - paragraph [ref=f83e263]:
+            - text: Tick
+            - strong [ref=f83e264]: "Yes"
+            - text: or
+            - strong [ref=f83e265]: "No"
+            - text: to indicate your agreement to receive text message updates from Latitude.sh regarding your job application. Frequency may vary. Message and data rates may apply. Reply HELP for assistance. Reply STOP to opt out of future messaging.
+          - radiogroup [ref=f83e268]:
+            - radio "Yes – I consent to receiving text messages" [ref=f83e269] [cursor=pointer]:
+              - paragraph [ref=f83e275]: Yes – I consent to receiving text messages
+            - radio "No – I do not consent to receiving text messages" [ref=f83e276] [cursor=pointer]:
+              - paragraph [ref=f83e282]: No – I do not consent to receiving text messages
+      - generic [ref=f83e285]:
+        - paragraph [ref=f83e286]:
+          - generic [ref=f83e287]: Latitude.sh global computing platform was launched in 2019, enabling businesses to programmatically deploy single-tenant Bare Metal instances in different parts of the world.We are a team of passionate individuals about hardware, software, and network infrastructure looking to build the fastest, easiest-to-use, developer-centric single-tenant Cloud infrastructure. If you share this passion, join our growing team of talented people and help build the future of the Internet.
+          - text: By clicking "Apply" you agree to Rippling's
+          - link "Terms of Service" [ref=f83e289] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/user
+          - text: and
+          - link [ref=f83e290] [cursor=pointer]:
+            - /url: https://app.rippling.com/legal/privacy
+            - text: User Privacy Notice
+            - link "." [ref=f83e291]:
+              - /url: https://app.rippling.com/legal/privacy
+        - paragraph
+      - button "Apply" [disabled] [ref=f83e302]
+  - alert [ref=f83e119]: Apply - Senior Site Reliability Engineer
