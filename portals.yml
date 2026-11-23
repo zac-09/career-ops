@@ -154,6 +154,13 @@ search_queries:
     query: 'site:himalayas.app ("Backend Engineer" OR "Full Stack") (Node.js OR TypeScript) (worldwide OR africa OR EMEA)'
     enabled: true
 
+  - name: Remowork — Africa-eligible engineering
+    query: 'site:remowork.life ("Backend" OR "Full Stack" OR "Software Engineer") (Node.js OR TypeScript) africa'
+    enabled: true
+    # 2026-11-23: added. Board has an Africa-eligible filter (~226 eng listings at
+    # remowork.life/remote-jobs-in/africa/engineering-and-development). Aggregator —
+    # resolve each hit to the employer ATS before evaluating.
+
   - name: RemoteOK — Worldwide/Africa backend
     query: 'site:remoteok.com (Node.js OR TypeScript) backend ("worldwide" OR "africa")'
     enabled: false
@@ -1100,6 +1107,104 @@ tracked_companies:
     api: https://boards-api.greenhouse.io/v1/boards/givedirectly/jobs
     enabled: true
     notes: 'Cash-transfer nonprofit with large Uganda/Kenya operations. Remote eng reqs require residence in a listed hire-country (Uganda IS listed — own entity) + overlap with EAT and US-ET. Senior SWE $181K base + 15% bonus (2026-10-02). Found via HN Oct 2026 thread.'
+
+  # -- Worldwide / EMEA-remote companies (added 2026-11-23) --
+  # Sourced from work-from-anywhere lists + GitHub lists (wceolin/global-hiring,
+  # yanirs/established-remote, remoteintech directory). Each board was read live on
+  # 2026-11-23 and kept only if engineering roles were listed as plain Remote,
+  # Anywhere or EMEA. Plain "Remote" still needs a geo check before scoring.
+  - name: PostHog
+    careers_url: https://jobs.ashbyhq.com/posthog
+    api: https://api.ashbyhq.com/posting-api/job-board/posthog
+    enabled: true
+    notes: 'Product analytics, all-remote, hires in many countries. TypeScript/React + Python. 2026-11-23: 4 eng roles, 2 plain "Remote".'
+
+  - name: DuckDuckGo
+    careers_url: https://jobs.ashbyhq.com/duck-duck-go
+    api: https://api.ashbyhq.com/posting-api/job-board/duck-duck-go
+    enabled: true
+    notes: 'Privacy search/browser, fully remote, long record of hiring worldwide. 2026-11-23: 5 eng roles, 4 plain "Remote".'
+
+  - name: Wikimedia Foundation
+    careers_url: https://job-boards.greenhouse.io/wikimedia
+    api: https://boards-api.greenhouse.io/v1/boards/wikimedia/jobs
+    enabled: true
+    notes: 'Non-profit behind Wikipedia, hires in many countries incl. Africa. PHP/Python/Node/JS. 2026-11-23: 2 eng roles, both "Remote".'
+
+  - name: Brave
+    careers_url: https://job-boards.greenhouse.io/brave
+    api: https://boards-api.greenhouse.io/v1/boards/brave/jobs
+    enabled: true
+    notes: 'Browser/search. Mixed: some roles "Anywhere", others North America/EU/UK only. 2026-11-23: 5 eng roles, 1 "Anywhere".'
+
+  - name: Netlify
+    careers_url: https://job-boards.greenhouse.io/netlify
+    api: https://boards-api.greenhouse.io/v1/boards/netlify/jobs
+    enabled: true
+    notes: 'Web platform, Node.js/TypeScript. 2026-11-23: 1 eng role, "Remote".'
+
+  - name: Oyster HR
+    careers_url: https://jobs.ashbyhq.com/oyster
+    api: https://api.ashbyhq.com/posting-api/job-board/oyster
+    enabled: true
+    notes: 'Global employment platform, hires worldwide by design. 2026-11-23: 20 open roles, none engineering — kept for future eng reqs.'
+
+  - name: Kit (ex-ConvertKit)
+    careers_url: https://jobs.ashbyhq.com/kit
+    api: https://api.ashbyhq.com/posting-api/job-board/kit
+    enabled: true
+    notes: 'Creator email platform, listed as hiring globally (wceolin/global-hiring). Ruby + JS. 2026-11-23: 2 eng roles, both "Remote".'
+
+  - name: Customer.io
+    careers_url: https://job-boards.greenhouse.io/customerio
+    api: https://boards-api.greenhouse.io/v1/boards/customerio/jobs
+    enabled: true
+    notes: 'Messaging platform, fully remote. Uses "EMEA Remote" — EMEA covers Uganda. 2026-11-23: 9 eng roles, 2 EMEA/Americas Remote.'
+
+  - name: ZenRows
+    careers_url: https://job-boards.greenhouse.io/zenrows
+    api: https://boards-api.greenhouse.io/v1/boards/zenrows/jobs
+    enabled: true
+    notes: 'Web-scraping API, Node.js-heavy. 2026-11-23: 2 eng roles, "remote within EMEA".'
+
+  - name: saas.group
+    careers_url: https://job-boards.greenhouse.io/saasgroup
+    api: https://boards-api.greenhouse.io/v1/boards/saasgroup/jobs
+    enabled: true
+    notes: 'Remote SaaS holding company. 2026-11-23: 4 eng roles, "Remote, EMEA" / "Remote, Europe" — check which.'
+
+  - name: Percona
+    careers_url: https://jobs.ashbyhq.com/percona
+    api: https://api.ashbyhq.com/posting-api/job-board/percona
+    enabled: true
+    notes: 'Open-source database services, fully remote. 2026-11-23: 4 eng roles, EMEA/Americas. Mostly DBA/Go/C++ — weaker stack fit.'
+
+  - name: OpenZeppelin
+    careers_url: https://job-boards.greenhouse.io/openzeppelin
+    api: https://boards-api.greenhouse.io/v1/boards/openzeppelin/jobs
+    enabled: true
+    notes: 'Web3 security, fully remote. 2026-11-23: 1 eng role, "Remote". Solidity-heavy; JS/TS tooling roles fit best.'
+
+  - name: Udacity
+    careers_url: https://job-boards.greenhouse.io/udacity
+    api: https://boards-api.greenhouse.io/v1/boards/udacity/jobs
+    enabled: true
+    notes: 'Online learning. 2026-11-23: 3 eng roles, plain "Remote" — eligibility unconfirmed, verify per posting.'
+
+  - name: Time Doctor
+    careers_url: https://timedoctor.recruitee.com
+    enabled: true
+    notes: 'Time-tracking SaaS, fully remote, hires worldwide. Node/Angular. 2026-11-23: 3 roles, 1 eng, remote.'
+
+  - name: madewithlove
+    careers_url: https://madewithlove.recruitee.com
+    enabled: true
+    notes: 'Remote software consultancy (PHP/Laravel, React, JS). 2026-11-23: 2 eng roles, remote — may want European timezones.'
+
+  - name: Human Made
+    careers_url: https://apply.workable.com/humanmade/
+    enabled: true
+    notes: 'WordPress/React agency, fully distributed, hires globally. 2026-11-23: board found via careers page; job count not confirmed.'
 
 # -- Location filter (added 2026-11-10) --
 # Isaac is in Kampala, Uganda (UTC+3) and needs globally remote or
