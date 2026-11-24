@@ -70,17 +70,20 @@ search_queries:
   # -- Ashby --
   - name: Ashby — Senior Backend Engineer
     query: 'site:jobs.ashbyhq.com "Senior Backend Engineer" OR "Senior Software Engineer" Node.js OR TypeScript remote'
-    enabled: true
+    enabled: false
+    # 2026-11-23: DISABLED (2nd strike) — zero on-domain results again; only aggregator mirrors of Ashby-the-company's own reqs.
     # 2026-11-02: 1st structural strike — zero on-domain results (engine ignored site:; only aggregator mirrors).
 
   - name: Ashby — Platform & Infrastructure
     query: 'site:jobs.ashbyhq.com "Platform Engineer" OR "Infrastructure Engineer" OR "Cloud Engineer" remote senior'
-    enabled: true
+    enabled: false
+    # 2026-11-23: DISABLED (2nd strike) — zero on-domain results again; all hits mirrors of Ashby-the-company's Staff/Principal Platform reqs.
     # 2026-11-02: 1st structural strike — zero on-domain results (all hits were mirrors of Ashby-the-company's own US/EU/UK platform reqs).
 
   - name: Ashby — Full Stack
     query: 'site:jobs.ashbyhq.com "Full Stack Engineer" OR "Full-Stack Engineer" Node.js OR TypeScript remote senior'
-    enabled: true
+    enabled: false
+    # 2026-11-23: DISABLED (2nd strike) — zero on-domain results again (Ashby-the-company mirrors, Infisical/Deepgram via resuminder).
     # 2026-11-02: 1st structural strike — zero on-domain results; only new lead (Infisical) is US/UK/BR/CA-locked.
 
   # -- Greenhouse --
@@ -91,6 +94,7 @@ search_queries:
   - name: Greenhouse — Platform & SRE
     query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Platform Engineer" OR "SRE" OR "Site Reliability" remote senior'
     enabled: true
+    # 2026-11-23: STRIKE CLEARED — 13 on-domain Greenhouse hits (all already in history, mostly closed).
     # 2026-11-02: 1st structural strike — zero on-domain results (engine ignored site:).
 
   - name: Greenhouse — Full Stack
@@ -147,6 +151,7 @@ search_queries:
   - name: RemoteFront — Backend
     query: 'site:remotefront.com "Backend Engineer" OR "Software Engineer" Node.js OR TypeScript remote senior'
     enabled: true
+    # 2026-11-23: 1st structural strike — zero remotefront.com results (engine substituted remoteok/arc.dev/wearedevelopers).
 
   # -- Africa / worldwide-remote job boards (added 2026-06-08) --
   # These boards have reliable "Worldwide" / "Africa-eligible" filters — best signal for UTC+3.
@@ -160,6 +165,9 @@ search_queries:
     # 2026-11-23: added. Board has an Africa-eligible filter (~226 eng listings at
     # remowork.life/remote-jobs-in/africa/engineering-and-development). Aggregator —
     # resolve each hit to the employer ATS before evaluating.
+    # 2026-11-23: 1st structural strike (first run) — on-domain results were category/index pages only
+    # (/remote-jobs-in/africa/backend-development etc.), zero individual reqs. Browse the Africa
+    # engineering category directly instead if the WebSearch form stays index-only.
 
   - name: RemoteOK — Worldwide/Africa backend
     query: 'site:remoteok.com (Node.js OR TypeScript) backend ("worldwide" OR "africa")'
@@ -203,6 +211,7 @@ search_queries:
   - name: Working Nomads — Worldwide backend
     query: 'site:workingnomads.com/jobs (Node.js OR TypeScript) ("Backend" OR "Full Stack") ("worldwide" OR "anywhere")'
     enabled: true
+    # 2026-11-23: STRIKE CLEARED — 7 individual workingnomads.com reqs (Proxify, Clearview x4, Kodify, Deimos), all already in history.
     # 2026-11-02: 1st structural strike — only the /remote-nodejs-jobs category page on-domain, zero individual reqs.
 
   - name: NoDesk — Worldwide backend
@@ -222,7 +231,8 @@ search_queries:
 
   - name: Remote Rocketship — Worldwide backend
     query: 'site:remoterocketship.com (Node.js OR TypeScript) backend "worldwide"'
-    enabled: true
+    enabled: false
+    # 2026-11-23: DISABLED (2nd stale strike) — same dead 'Worldwide' hits (fusionSpan, PrimeBase, Scopic) already logged closed; rest US/IT/PE/PH/IN-locked.
     # 2026-11-02: 1st stale strike — both 'Worldwide' hits (fusionSpan, PrimeBase) are 404 on-site; others US/IT/PH-locked.
 
   - name: DailyRemote — Worldwide backend
@@ -311,6 +321,7 @@ search_queries:
     enabled: true
     # 2026-08-13 first run: BEST ATS query of the batch — produced Utility add
     # (100% remote Node/TS) + exposed Wander backend-req closure. Keep.
+    # 2026-11-23: 1st noise strike — every hit was Rippling-the-company's own board (office-preferred SF reqs + raw /api/v2 URLs), zero other employers.
 
   - name: Teamtailor — remote backend
     query: 'site:teamtailor.com (Node.js OR TypeScript) ("Backend" OR "Full Stack") remote'
@@ -346,6 +357,7 @@ search_queries:
     enabled: true
     # Direct Breezy pages are fetchable; a live globally-distributed senior Node.js
     # role was present during validation. Search indexes closed reqs too — verify live.
+    # 2026-11-23: 1st noise strike — single on-domain hit was Breezy-the-company's own (already geo-skipped) req; rest off-domain.
 
   - name: JazzHR ApplyToJob — remote Node/TS backend
     query: 'site:applytojob.com (Node.js OR TypeScript) ("Backend Engineer" OR "Software Engineer" OR "Platform Engineer") remote'
@@ -1225,13 +1237,19 @@ location_filter:
     - "Africa"
     - "East Africa"
     - "EMEA"
+    # Greenhouse labels office-less remote roles "No Office"
+    - "No Office"
   block:
     # Not remote
     - "Hybrid"
     - "On-site"
     - "Onsite"
     - "In-office"
-    - "Office"
+    - "In office"
+    - "Office-based"
+    - "Office based"
+    # 2026-11-23: bare "Office" removed — it matched Greenhouse's "No Office"
+    # label and silently dropped remote roles (found via Wikimedia).
     # Africa outside Uganda when tied to a city/country office
     - "South Africa"
     - "Cape Town"
